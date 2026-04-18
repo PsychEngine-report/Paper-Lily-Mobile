@@ -1,0 +1,54 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Lacie Engine/1.0.0": {
+        "dependencies": {
+          "Karambolo.PO": "1.10.0.0",
+          "Newtonsoft.Json": "13.0.0.0"
+        },
+        "runtime": {
+          "Lacie Engine.dll": {}
+        }
+      },
+      "Karambolo.PO/1.10.0.0": {
+        "runtime": {
+          "Karambolo.PO.dll": {
+            "assemblyVersion": "1.10.0.0",
+            "fileVersion": "1.10.0.84"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lacie Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Karambolo.PO/1.10.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

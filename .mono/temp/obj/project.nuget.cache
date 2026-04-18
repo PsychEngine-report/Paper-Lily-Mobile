@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H7VbGE9Wghu77NpWaLAbKUuonfDAcY1JXYi3TeC1sovOyWn27qiGkmI8DRMq3Jr+ZDrGm1BcAzqGA/H9uzJKRQ==",
+  "success": true,
+  "projectFilePath": "/home/arkoselabs/Desktop/Projeler/Lacie Engine/Lacie Engine.csproj",
+  "expectedPackageFiles": [
+    "/home/arkoselabs/.nuget/packages/netstandard.library.ref/2.1.0/netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
