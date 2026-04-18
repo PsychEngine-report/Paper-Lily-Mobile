@@ -1,0 +1,102 @@
+name: "Godot Android Build"
+
+on:
+  workflow_dispatch:
+  workflow_call:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  export-android:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+          fetch-depth: 0
+
+      # 1. Setup Java 11
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '11'
+
+      # 2. Install Mono
+      - name: Install Mono
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y mono-devel
+
+      # 3. Setup Godot Mono & Mono Export Templates
+      - name: Setup Godot Mono & Templates
+        run: |
+          # Download Mono Engine (Using -O to force the correct filename and quotes for the URL)
+          wget -nv -O Godot_v3.5.3-stable_mono_linux_headless_64.zip "https://downloads.godotengine.org/?version=3.5.3&flavor=stable&slug=mono_linux_headless_64.zip&platform=linux_server.headless.64"
+          unzip -q -o Godot_v3.5.3-stable_mono_linux_headless_64.zip
+          mv Godot_v3.5.3-stable_mono_linux_headless_64/Godot_v3.5.3-stable_mono_linux_headless.64 Godot_v3.5.3-stable_mono_linux_headless_64/godot
+          chmod +x Godot_v3.5.3-stable_mono_linux_headless_64/godot
+          echo "$GITHUB_WORKSPACE/Godot_v3.5.3-stable_mono_linux_headless_64" >> $GITHUB_PATH
+
+          # Download Templates
+          wget -nv -O Godot_v3.5.3-stable_mono_export_templates.tpz "https://downloads.godotengine.org/?version=3.5.3&flavor=stable&slug=mono_export_templates.tpz&platform=templates"
+
+          # Extract to a temporary folder
+          unzip -q -o Godot_v3.5.3-stable_mono_export_templates.tpz -d /tmp/godot_templates
+
+          # Create the exact folder Godot is looking for
+          mkdir -p $HOME/.local/share/godot/templates/3.5.3.stable.mono/
+
+          # Move the actual files directly into the destination
+          mv /tmp/godot_templates/templates/* $HOME/.local/share/godot/templates/3.5.3.stable.mono/
+
+          # VERIFICATION: Print the directory contents
+          echo "--- VERIFYING TEMPLATES ---"
+          ls -la $HOME/.local/share/godot/templates/3.5.3.stable.mono/
+
+      # 4. Configure Editor Settings
+      - name: Configure Godot Editor
+        run: |
+          mkdir -p $HOME/.config/godot/
+
+          SDK_PATH=$ANDROID_HOME
+
+          cat <<EOF > $HOME/.config/godot/editor_settings-3.tres
+          [gd_resource type="EditorSettings" format=2]
+
+          [resource]
+          export/android/android_sdk_path = "$SDK_PATH"
+          EOF
+
+          echo "--- VERIFYING EDITOR SETTINGS ---"
+          cat $HOME/.config/godot/editor_settings-3.tres
+
+      # 5. Build C# Solution for Android
+      - name: Build C# Solution
+        run: |
+          # 1. Clean up any Windows absolute paths in the csproj
+          sed -i 's|C:/Users/[^/]*/||g' "Lacie\ Engine.csproj"
+
+          # 2. Restore packages
+          dotnet restore "Lacie\ Engine.csproj"
+
+          # 3. Force Godot to build the solution for this environment
+          godot --no-window --build-solutions --quit || true
+
+      - name: Check PCK size
+        run: ls -lh pack/
+
+      # 6. Export Android APK
+      - name: Export Android
+        run: |
+          mkdir -p build/android
+          godot --no-window --export "Android" build/android/Paper-Lily.apk
+
+      # 6. Upload Artifact
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Paper-Lily-Android
+          path: build/android/Paper-Lily.apk

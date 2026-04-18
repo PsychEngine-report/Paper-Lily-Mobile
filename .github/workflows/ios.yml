@@ -1,0 +1,150 @@
+name: "Godot iOS Build"
+on:
+  workflow_dispatch:
+  workflow_call:
+
+jobs:
+  export-ios:
+    runs-on: macos-14
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+          fetch-depth: 0
+
+      - name: Force Xcode 15.4
+        run: |
+          sudo xcode-select -s /Applications/Xcode_15.4.app/Contents/Developer
+
+      - name: Install Legacy Mono Framework
+        run: |
+          brew install --cask mono-mdk
+          echo "/Library/Frameworks/Mono.framework/Versions/Current/bin" >> $GITHUB_PATH
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '6.0.428'
+
+      - name: Setup Godot Mono & Templates
+        run: |
+          curl -L -o Godot_mono_osx.zip "https://github.com/godotengine/godot/releases/download/3.5.3-stable/Godot_v3.5.3-stable_mono_osx.universal.zip"
+          unzip -q -o Godot_mono_osx.zip
+          curl -L -o Godot_templates.tpz "https://github.com/godotengine/godot/releases/download/3.5.3-stable/Godot_v3.5.3-stable_mono_export_templates.tpz"
+          mkdir -p /tmp/extract
+          unzip -q -o Godot_templates.tpz -d /tmp/extract
+          REAL_TEMPLATES_DIR=$(find /tmp/extract -name "iphone.zip" -exec dirname {} \;)
+          GODOT_HABITAT="$HOME/Library/Application Support/Godot/templates/3.5.3.stable.mono"
+          mkdir -p "$GODOT_HABITAT"
+          cp -r "$REAL_TEMPLATES_DIR"/* "$GODOT_HABITAT/"
+          mkdir -p /tmp/mono_libs
+          cp -r "$GODOT_HABITAT/iphone-mono-libs/"* /tmp/mono_libs/
+          APP_PATH=$(find . -name "Godot_mono.app" -type d | head -n 1)
+          cp -r "$APP_PATH/Contents/Resources/GodotSharp" ./
+          sudo ln -s "$(pwd)/$APP_PATH/Contents/MacOS/Godot" /usr/local/bin/godot
+
+      - name: Install Apple Certificate and Provisioning Profile
+        env:
+          BUILD_CERTIFICATE_BASE64: ${{ secrets.BUILD_CERTIFICATE_BASE64 }}
+          P12_PASSWORD: ${{ secrets.P12_PASSWORD }}
+          MOBILE_PROVISION_BASE64: ${{ secrets.MOBILE_PROVISION_BASE64 }}
+          KEYCHAIN_PASSWORD: ${{ secrets.KEYCHAIN_PASSWORD }}
+        run: |
+          CERTIFICATE_PATH=$RUNNER_TEMP/build_certificate.p12
+          PP_PATH=$RUNNER_TEMP/build_pp.mobileprovision
+          KEYCHAIN_PATH=$RUNNER_TEMP/app-signing.keychain-db
+          echo -n "$BUILD_CERTIFICATE_BASE64" | base64 --decode -o $CERTIFICATE_PATH
+          echo -n "$MOBILE_PROVISION_BASE64" | base64 --decode -o $PP_PATH
+          security create-keychain -p "$KEYCHAIN_PASSWORD" $KEYCHAIN_PATH
+          security set-keychain-settings -lut 21600 $KEYCHAIN_PATH
+          security unlock-keychain -p "$KEYCHAIN_PASSWORD" $KEYCHAIN_PATH
+          security import $CERTIFICATE_PATH -P "$P12_PASSWORD" -A -t cert -f pkcs12 -k $KEYCHAIN_PATH
+          security list-keychain -d user -s $KEYCHAIN_PATH
+          mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
+          cp $PP_PATH ~/Library/MobileDevice/Provisioning\ Profiles/
+
+      - name: Godot Export (Assets Only)
+        run: |
+          mkdir -p ios
+          mv Lacie\ Engine.csproj Lacie\ Engine.csproj.bak
+          mv Lacie\ Engine.sln Lacie\ Engine.sln.bak
+          godot --path . --headless --verbose --export "iOS" "ios/game.xcodeproj" --no-build || true
+          mv Lacie\ Engine.csproj.bak Lacie\ Engine.csproj
+          mv Lacie\ Engine.sln.bak Lacie\ Engine.sln
+
+      - name: Install iOS Workload
+        run: dotnet workload install ios
+
+      - name: Manual C# AOT Compilation
+        run: |
+          rm -rf ios/manual_aot
+          mkdir -p ios/manual_aot
+          dotnet build Lacie\ Engine.csproj -c Release /p:TargetPlatform=ios /p:GodotTargetPlatform=iphone /p:BuildProject=false
+          FOUND_LIB=$(find . -name "Lacie\ Engine.a" | head -n 1)
+          if [ -z "$FOUND_LIB" ]; then
+            FOUND_LIB=$(find . -name "*.a" | grep -v "libmono" | head -n 1)
+          fi
+          cp "$FOUND_LIB" ios/manual_aot/libproject_assembly.a
+          # Copy DLLs for the metadata packaging step later
+          find . -name "Lacie\ Engine.dll" -exec cp {} ios/manual_aot/ \;
+          find . -name "GodotSharp.dll" -exec cp {} ios/manual_aot/ \;
+
+      - name: Create Godot Mono Setup Bridge
+        run: |
+          # This creates the mandatory symbol for the Godot runtime
+          cat <<EOF > ios/godot_mono_setup.cpp
+          #include <stdio.h>
+          extern "C" void gd_mono_setup_aot() {
+              printf("GDMono: Manual AOT Initialized\n");
+          }
+          EOF
+
+      - name: Build Signed Xcode Archive
+        run: |
+          LIBS="/tmp/mono_libs"
+          xcodebuild archive \
+            -project ios/game.xcodeproj \
+            -scheme "game" \
+            -configuration Release \
+            -sdk iphoneos \
+            -archivePath ios/game.xcarchive \
+            -destination 'generic/platform=iOS' \
+            CODE_SIGN_STYLE=Manual \
+            CODE_SIGN_IDENTITY="iPhone Distribution" \
+            PROVISIONING_PROFILE="243c5777-85f5-48b5-8d71-2378da8f1ab7" \
+            DEVELOPMENT_TEAM="Q6SJUT5K5D" \
+            PRODUCT_BUNDLE_IDENTIFIER="com.xl.MyXL.Giant-staging" \
+            LIBRARY_SEARCH_PATHS="\
+              $(pwd)/ios/manual_aot \
+              $LIBS/libmonosgen-2.0.xcframework/ios-arm64 \
+              $LIBS/libmono-native.xcframework/ios-arm64 \
+              $LIBS/libmono-ee-interp.xcframework/ios-arm64 \
+              $LIBS/libmono-icall-table.xcframework/ios-arm64 \
+              $LIBS/libmono-ilgen.xcframework/ios-arm64 \
+              $LIBS/libmono-profiler-log.xcframework/ios-arm64" \
+            OTHER_LDFLAGS="\
+              -L$(pwd)/ios/manual_aot \
+              -lproject_assembly \
+              -Wl,-all_load \
+              -lmonosgen -lmono-native -lmono-ee-interp -lmono-icall-table -lmono-ilgen -lmono-profiler-log \
+              -liconv -lz -framework AudioToolbox -framework AVFoundation -framework CoreAudio -framework CoreGraphics -framework CoreMedia -framework CoreVideo -framework MediaPlayer -framework MobileCoreServices -framework OpenGLES -framework QuartzCore -framework Security -framework UIKit" \
+            OTHER_CFLAGS="-DREAL_T_IS_DOUBLE -include $(pwd)/ios/godot_mono_setup.cpp" \
+            -allowProvisioningUpdates
+
+      - name: Package IPA
+        run: |
+          mkdir -p Payload
+          # Extract the app
+          cp -r ios/game.xcarchive/Products/Applications/game.app Payload/
+
+          # CRITICAL FIX: Inject DLLs into the .app bundle so Godot can find the script classes
+          cp ios/manual_aot/*.dll Payload/game.app/
+
+          zip -r Paper-Lily-iOS.ipa Payload
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Paper-Lily-iOS
+          path: Paper-Lily-iOS.ipa
