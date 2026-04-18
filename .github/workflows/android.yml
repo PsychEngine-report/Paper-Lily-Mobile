@@ -77,10 +77,10 @@ jobs:
       - name: Build C# Solution
         run: |
           # 1. Clean up any Windows absolute paths in the csproj
-          sed -i 's|C:/Users/[^/]*/||g' "Lacie\ Engine.csproj"
+          sed -i 's|C:/Users/[^/]*/||g' "Lacie Engine.csproj"
 
           # 2. Restore packages
-          dotnet restore "Lacie\ Engine.csproj"
+          dotnet restore "Lacie Engine.csproj"
 
           # 3. Force Godot to build the solution for this environment
           godot --no-window --build-solutions --quit || true
