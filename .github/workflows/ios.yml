@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          lfs: false
+          fetch-depth: 0
 
       # 1. Install Mono
       - name: Install Mono
