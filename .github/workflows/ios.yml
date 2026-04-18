@@ -46,13 +46,13 @@ jobs:
           mkdir -p build/ios
           # We use the 'Godot' binary we unzipped earlier
           # This will now see 'run_export_build=false' and use our manual DLLs
-          ./Godot --no-window --verbose --export "iOS" build/ios/Paper\ Lily.xcodeproj
+          ./Godot --no-window --verbose --export "iOS" build/ios/Paper-Lily.xcodeproj
 
       - name: Build Xcode Project (Unsigned)
         run: |
           cd build/ios
           xcodebuild build \
-            -project Paper\ Lily.xcodeproj \
+            -project Paper-Lily.xcodeproj \
             -scheme "Paper Lily" \
             -configuration Release \
             -sdk iphoneos \
