@@ -23,12 +23,12 @@ jobs:
       - name: Setup Godot Mono & Templates
         run: |
           # Download macOS Mono Engine
-          wget -nv -O Godot_osx.zip "https://downloads.godotengine.org/3.5.3/mono/Godot_v3.5.3-stable_mono_osx.universal.zip"
+          wget -nv -O Godot_osx.zip "https://downloads.godotengine.org/?version=3.5.3&flavor=stable&slug=mono_osx.universal.zip&platform=macos.universal"
           unzip -q Godot_osx.zip
           # On macOS, Godot extracts as "Godot_mono.app"
 
           # Download Templates
-          wget -nv -O Godot_templates.tpz "https://downloads.godotengine.org/3.5.3/mono/Godot_v3.5.3-stable_mono_export_templates.tpz"
+          wget -nv -O Godot_templates.tpz "https://downloads.godotengine.org/?version=3.5.3&flavor=stable&slug=mono_export_templates.tpz&platform=templates"
 
           # Extract to a temporary folder
           unzip -q -o Godot_templates.tpz -d /tmp/godot_templates
