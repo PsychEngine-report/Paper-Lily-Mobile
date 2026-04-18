@@ -28,7 +28,7 @@ jobs:
       - name: Build .NET Project
         run: |
           # 1. Build the project manually (skipping Steam via our .csproj logic)
-          dotnet build Lacie_Engine.csproj --configuration Release -p:GodotTargetPlatform=iphone -o ./out
+          dotnet build Lacie\ Engine.csproj --configuration Release -p:GodotTargetPlatform=iphone -o ./out
 
           # 2. Prep the .mono folder for Godot's AOT compiler
           mkdir -p .mono/assemblies/Release
