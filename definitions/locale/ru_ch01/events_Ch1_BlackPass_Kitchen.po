@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.chr_mom.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "Нож, Лэйси."
+
+msgid "A knife."
+msgstr "Нож."
+
+msgid "Off you go."
+msgstr "Свободна."
+
+msgid "Hm...?"
+msgstr "Хм?.."
+
+msgid "Lacie, there you are."
+msgstr "Лэйси, вон ты где."
+
+msgid "I called you several times, didn't you hear me?"
+msgstr "Я тебя уже много раз позвала, ты что, не слышала?"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I need you to go get me a _____."
+msgstr "Принеси-ка мне _____."
+
+msgid "...?"
+msgstr "?..."
+
+msgid "A... what?"
+msgstr "Принести что?.."
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "Нож, Лэйси."
+
+msgid "Oh."
+msgstr "Вот оно что."
+
+msgid "It shouldn't be too hard to find. It's in the closet in the garage."
+msgstr "Его несложно найти. Он лежит в шкафчике в гараже."
+
+msgid "...Okay."
+msgstr "...Ладно."
+
+msgid "Well done. Off you go."
+msgstr "Молодец. Свободна."
+
+msgctxt "events.Ch1_BlackPass_Kitchen.item_knife_on_mom.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A kitchen counter. Mother seems to be preparing something."
+msgstr "Кухонная тумба. Мама на ней что-то готовит."
+
+msgid "There's nothing on the counter."
+msgstr "На тумбе ничего нет."
+
+msgid "None of this can be used."
+msgstr "Ничего из этого нельзя использовать."
+
+msgid "The surfaces are completely flat, and there are no handles."
+msgstr "Все поверхности плоские, а ручек нет совсем."
+
+msgid "It only looks like a kitchen on the surface..."
+msgstr "Это только на вид кухня..."
+
+msgid "Pick up ${item:global.reditem_2}?"
+msgstr "Подобрать предмет: ${item:global.reditem_2}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "An empty dining table."
+msgstr "Пустой обеденный стол."
+
+msgid "The passageway has closed behind you."
+msgstr "Проход за вами закрылся."
+
+msgid "It's locked."
+msgstr "Тут закрыто."

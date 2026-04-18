@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Um... okay..."
+msgstr "うん……まあ、よかった……"
+
+msgid "A realistic sculpture of a man with a candle for a head."
+msgstr "頭がロウソクになっている、リアルな男性の彫刻。"
+
+msgid "(What should I do?)"
+msgstr "(どうしよう？)"
+
+msgid "Touch it"
+msgstr "触ってみる"
+
+msgid "Take the candle"
+msgstr "ロウソクを取る"
+
+msgid "Blow out the candle"
+msgstr "ロウソクを吹き消す"
+
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgid "The statue feels like stone, just as you would expect."
+msgstr "予想通り、手触りは石のような感じだ。"
+
+msgid "Are you sure?"
+msgstr "本当に吹き消す？"
+
+msgctxt "events.Ch1_Artist_3F.misc_candleman.choice.Are you sure?"
+msgid "Yes"
+msgstr "吹き消す"
+
+msgctxt "events.Ch1_Artist_3F.misc_candleman.choice.Are you sure?"
+msgid "No"
+msgstr "吹き消さない"
+
+msgid "Leftovers of what was once a sculpture."
+msgstr "かつて彫刻だったものの残骸。"
+
+msgid "The candle man is gone."
+msgstr "ロウソクの男性は行ってしまった。"
+
+msgid "It's hard to tell what it says from this side."
+msgstr "こちら側から読むのは難しい。"
+
+msgid "It reads: \"Exhibit closed indefinitely. If you have complaints, please direct them back to where they came from.\""
+msgstr "「展示は無期限休止中です。苦情がある方は、苦情元に送り返してください。」"
+
+msgid "The sculpture is either broken or unfinished. You can't really tell."
+msgstr "壊れた、または未完成の彫刻。どちらなのかは正直よくわからない。"
+
+msgid "A tall vase."
+msgstr "背の高い花瓶。"
+
+msgid "Reach inside?"
+msgstr "中を探ってみる？"
+
+msgctxt "events.Ch1_Artist_3F.misc_vase.choice.Reach inside?"
+msgid "Yes"
+msgstr "探ってみる"
+
+msgctxt "events.Ch1_Artist_3F.misc_vase.choice.Reach inside?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "..."
+msgstr "……"
+
+msgid "...tired..."
+msgstr "……疲れた……"
+
+msgid "...so....tired...."
+msgstr "……ひどく……疲れた……"

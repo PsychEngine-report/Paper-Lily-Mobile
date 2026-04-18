@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's probably no point, this one didn't even do anything."
+msgstr "У цьому буде мало сенсу. Ця рослинка ще нічого не зробила."
+
+msgid "Nothing good can come out of stabbing every single plant you see."
+msgstr "Якщо колоти кожну рослину на своєму шляху, нічого хорошого не трапиться."
+
+msgid "(Is this plant eating something... or someone?)"
+msgstr "(Ця рослина їсть щось... або когось.)"
+
+msgid "(Should I really risk opening it?)"
+msgstr "(Чи варто ризикнути та відкрити її?)"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "(Probably best not to...)"
+msgstr "(Ліпше не варто...)"
+
+msgid "(It's a person.)"
+msgstr "(Це людина.)"
+
+msgid "(Are they... alright? They seem asleep.)"
+msgstr "(Вона в порядку? Схоже, вона спить.)"
+
+msgid "(Wait... that might be a demon. Maybe I'd better leave them alone.)"
+msgstr "(Заждіть… це може бути демон. Краще дати їй спокій.)"
+
+msgid "(Well... I'll look around while they wake up.)"
+msgstr "(Добре... я поки що все тут роздивлюся.)"
+
+msgid "AH!"
+msgstr "А!"
+
+msgid "...!?"
+msgstr "?!…"
+
+msgid "Ahh... AHH!"
+msgstr "А...АААААА!"
+
+msgid "Get it off get it off get it off!!!"
+msgstr "Зніміть це з мене зніміть зніміть!!!"
+
+msgid "Oh god... oh god... gaaaah!"
+msgstr "Господи... господи... ааааааа!"
+
+msgid "..."
+msgstr "..."
+
+msgid "...!"
+msgstr "!.."
+
+msgid "Did you just save me?!?"
+msgstr "Ти щойно мене врятувала?!?"
+
+msgid "Everything was so dark and so gross, I thought I was gonna die for real this time!"
+msgstr "Там було так темно й огидно! Мені здалося, що цього разу мені точно гаплик!"
+
+msgid "That gooey stuff was eating away at my skin, it's so itchy, uuugh I still feel it!!!"
+msgstr "Ця липка бридота роз'їдала мою шкіру, у мене й досі сверблячка!!!"
+
+msgid "I don't want it to eat me!!!"
+msgstr "Я не хочу, щоб воно мене з'їло!!!"
+
+msgid "Oh god, I didn't plan to get digested today, this is NOT how I pictured my death!"
+msgstr "Боже, я не хотіла, щоб мене сьогодні переварили! Не так я собі уявляла свою смерть!"
+
+msgid "WHAT IS THIS PLACE?!?"
+msgstr "ЩО ЦЕ ЗА МІСЦЕ ТАКЕ?!?"
+
+msgid "Oh."
+msgstr "Ой."
+
+msgid "Hahaha no..."
+msgstr "Ха-ха-ха, тільки не це..."
+
+msgid "We're in the fairy ring aren't we?!"
+msgstr "Невже ми в колі фей?!"
+
+msgid "Noooo! There's no way to get out of here!!"
+msgstr "Ніііі! Звідси не має виходу!!"
+
+msgid "This is it. WE'RE DEAD!"
+msgstr "Ось і все. МИ ПРИРЕЧЕНІ!"
+
+msgid "I might as well go back in the plant, at least it will be faster."
+msgstr "Краще вже повернутися у квітку, так я принаймні помру швидше."
+
+msgid "Nooo I don't want it to end this way!!!"
+msgstr "Нііі, я не хочу так все закінчувати!!!"
+
+msgid "Hey."
+msgstr "Агов."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Cut it off."
+msgstr "Не ріж слух."
+
+msgid "...W-what...?"
+msgstr "...Щ-що?.."
+
+msgid "I said: cut it off."
+msgstr "Кажу - не ріж слух."
+
+msgid "Ah, s-sorry..."
+msgstr "А, вибач..."
+
+msgid "(Is that supposed to be... a joke?)"
+msgstr "(Це такий жарт?)"
+
+msgid "You know, I'm actually okay with dying."
+msgstr "А знаєш, я й не проти померти."
+
+msgid "But I feel like being eaten alive isn't really the way to go, you know?"
+msgstr "Проте бути перевареною живцем це занадто для смерті, не думаєш?"
+
+msgid "I see... I guess so."
+msgstr "Ну так... мабуть."
+
+msgid "My name's Aoi."
+msgstr "Я Аой."
+
+msgid "...I see."
+msgstr "...Зрозуміло."
+
+msgid "Lacie."
+msgstr "Лейсі."
+
+msgid "Hehe... Were you trapped in one of those things too?"
+msgstr "Хе-хе... тебе теж піймали в рослину?"
+
+msgid "Yeah."
+msgstr "Так."
+
+msgid "How'd you get out?"
+msgstr "А як ти звільнилась?"
+
+msgid "${item:ch1.scissors}."
+msgstr "Я використала ${item:ch1.scissors}."
+
+msgid "Whoa."
+msgstr "Овва."
+
+msgid "If I get out of here I'll always carry scissors on me!"
+msgstr "Якщо виберусь звідси, обов'язково буду носити із собою ножиці!"
+
+msgid "I promise you-"
+msgstr "Я обіцяю-"
+
+msgid "No!"
+msgstr "Ні!"
+
+msgid "I SWEAR to you."
+msgstr "Я КЛЯНУСЯ."
+
+msgid "O-okay..."
+msgstr "Ну добре..."
+
+msgid "(What am I supposed to say to that...?)"
+msgstr "(І що мені на це відповісти?..)"
+
+msgid "So um..."
+msgstr "Тож..."
+
+msgid "H-how do we get out..."
+msgstr "Як нам в-вибратись?.."
+
+msgid "I don't know."
+msgstr "Я не знаю."
+
+msgid "WE'RE ABSOLUTELY NEVER GETTING OUT WHAT ARE WE GOING TO DO!?!"
+msgstr "МИ НІ ЗА ЩО ЗВІДСИ НЕ ВИБЕРЕМОСЯ, ЩО Ж НАМ РОБИТИ?!?"
+
+msgid "Should I go back and get eaten by that plant instead?"
+msgstr "Може, варто повернутися назад у ту рослину?"
+
+msgid "That might actually be better than losing my mind as I walk endlessly through this hellish place..."
+msgstr "Усіляко краще, ніж плентатись по цьому пеклу, поки я не збожеволію..."
+
+msgid "Can you imagine it???"
+msgstr "Ти можеш це собі уявити???"
+
+msgid "We would go insane!"
+msgstr "Ми втратимо розум!"
+
+msgid "I hear the fairy ring slowly digests you, even if you're not caught in a plant."
+msgstr "Я чула, що коло фей повільно тебе переварює, навіть якщо ти не в рослині."
+
+msgid "Eventually the skin on our feet will start chipping away from walking through this visceral floor."
+msgstr "Врешті-решт, якщо ходитимеш по цій м'ясній підлозі, у тебе відлущиться шкіра на ногах."
+
+msgid "Then we'll start crawling, when our feet no longer work, hoping for the sweet release of death."
+msgstr "А коли в тебе відмовлять ноги, ти будеш повзти, сподіваючись на скорішу смерть."
+
+msgid "We might even wind up eating each other..."
+msgstr "Може, нам навіть доведеться з'їсти одне одну..."
+
+msgid "Aoi."
+msgstr "Аой."
+
+msgid "R-right..."
+msgstr "З-звичайно..."
+
+msgid "Sorry."
+msgstr "Вибач."
+
+msgid "I'll look around first."
+msgstr "Я спочатку оглянусь тут."
+
+msgid "I want to take another look at the next room."
+msgstr "Я хочу знову роздивитись наступну кімнату."
+
+msgid "I haven't even left this room yet."
+msgstr "Я ще навіть не виходила з цієї кімнати."
+
+msgid "OKAY!"
+msgstr "ДОБРЕ!"
+
+msgid "Can I follow you?"
+msgstr "А мені можна з тобою?"
+
+msgid "No thank you."
+msgstr "Ні, дякую."
+
+msgid "Y-you'll leave me alone?!"
+msgstr "Т-ти покинеш мене тут?!"
+
+msgid "Please let me come with you, I promise I'll be useful!"
+msgstr "Будь ласка, дозволь піти з тобою! Обіцяю, від мене буде користь!"
+
+msgid "...uh..."
+msgstr "...Е-е..."
+
+msgid "PLEASE!!!"
+msgstr "БУДЬ ЛАСОЧКА!!!"
+
+msgid "Okay... okay."
+msgstr "Ну добре... добре."
+
+msgid "(It's probably a bad idea, but...)"
+msgstr "(Це, мабуть, погана ідея, але...)"
+
+msgid "(This... boy... or girl? They don't seem dangerous.)"
+msgstr "(Аой ніби не подає ознак небезпеки.)"
+
+msgid "(Maybe it's best not to be alone in this place.)"
+msgstr "(Можливо, небезпечно залишатись тут на самоті.)"
+
+msgid "...Yes, I don't see why not."
+msgstr "...Так, чом би й ні."
+
+msgid "Yay!"
+msgstr "Ура!"
+
+msgid "I promise I'll be useful!"
+msgstr "Обіцяю, я допомагатиму!"
+
+msgid "Sure. Pleased to make your acquaintance."
+msgstr "Чудово. Рада з тобою познайомитись."
+
+msgid "(I wonder if this girl... or boy... can help me with my problem.)"
+msgstr "(Цікаво, чи зможе Аой допомогти розв'язати мою проблему?)"
+
+msgid "(Were they... melting? They might be a spirit or something...)"
+msgstr "(Вона що, плавилась? Мабуть, вона якийсь дух...)"
+
+msgid "(For now, let's focus on getting out of this place.)"
+msgstr "(Що ж, для початку було б непогано звідси вибратись.)"
+
+msgid "There's no one else to rescue in there."
+msgstr "Тут більше нема кого рятувати."
+
+msgid "It probably learned its lesson, I think."
+msgstr "Мені здається, ця рослина засвоїла урок."
+
+msgid "Various plants, similar to the one that caught you."
+msgstr "Різноманітні рослини, схожі на ті, що вас упіймали."
+
+msgid "This one seems to be digesting something..."
+msgstr "Ця щось переварює..."
+
+msgid "The thing that almost ate Aoi. It's wide open."
+msgstr "Це рослина, що ледве не з'їла Аой. Тепер вона розкрита."
+
+msgid "The plant I was trapped in."
+msgstr "Рослина, в яку мене піймали."
+
+msgid "It's not nice in there."
+msgstr "Там було неприємно."
+
+msgid "Does this even classify as a plant?"
+msgstr "Це взагалі можна вважати за рослину?"
+
+msgid "Not sure..."
+msgstr "Навіть не знаю..."
+
+msgid "It kinda looks like one."
+msgstr "Ззовні ніби схоже на рослину."

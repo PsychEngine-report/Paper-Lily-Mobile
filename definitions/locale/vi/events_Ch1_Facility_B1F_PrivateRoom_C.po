@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The silhouette of a large clock is reflected here."
+msgstr "Được phản chiếu ở đây là hình bóng của cái đồng hồ lớn."
+
+msgid "A large window shaped like a clock towers above you."
+msgstr "Cái cửa sổ lớn có dáng hình như cái đồng hồ ở cao vút bên trên bạn."
+
+msgid "The time is set to 12:00."
+msgstr "Thời gian được đặt là 12:00."
+
+msgid "There you are!"
+msgstr "Em đây rồi!"
+
+msgid "How'd you get in there?"
+msgstr "Em vào được trong đó kiểu gì thế?"
+
+msgid "I got zapped, like there's something keeping me out."
+msgstr "Tôi bị giựt lại, giống như bị cái gì đó không cho vào ấy."
+
+msgid "Really?"
+msgstr "Thật à?"
+
+msgid "You didn't even notice me gone!?"
+msgstr "Em còn không nhận ra tôi đâu mất hả!?"
+
+msgid "...."
+msgstr "..."
+
+msgid "No."
+msgstr "Không."
+
+msgid "Cold..."
+msgstr "Lạnh nhạt thế..."
+
+msgid "So what was in there anyway?"
+msgstr "Mà trong đó có gì thế em?"
+
+msgid "Anything fun?"
+msgstr "Có gì vui không?"
+
+msgid "Yes, very fun."
+msgstr "Có, vui lắm."
+
+msgid "What? Really??"
+msgstr "Gì? Thật hả??"
+
+msgid "What was it?"
+msgstr "Là gì thế?"
+
+msgid "I can't tell you."
+msgstr "Tôi không nói được đâu."
+
+msgid "Huh?!"
+msgstr "Hở?!"
+
+msgid "Why not??"
+msgstr "Sao không??"
+
+msgid "Because it's more fun that way."
+msgstr "Thế nó mới vui hơn chứ."
+
+msgid "No way, don't do me dirty like this!"
+msgstr "Sao lại thế, đừng có chơi ác tôi như vậy mà!"
+
+msgid "..."
+msgstr "..."
+
+msgid "(It's strange though. Why wasn't he able to enter?)"
+msgstr "(Mà kì lạ. Tại sao ảnh lại không bước vào được?)"

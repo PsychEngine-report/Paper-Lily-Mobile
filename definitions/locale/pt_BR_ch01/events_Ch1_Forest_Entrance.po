@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no need to mess with it anymore."
+msgstr "Não há mais necessidade de mexer com isso."
+
+msgid "Ah... I see how it is."
+msgstr "Ah... entendo como é."
+
+msgid "I really dislike this kind of puzzle though..."
+msgstr "Eu realmente não gosto desse tipo de quebra-cabeça..."
+
+msgid "Hm..."
+msgstr "Hm..."
+
+msgid "Is that a button behind the lamppost?"
+msgstr "Isso é um botão atrás do poste?"
+
+msgid "Ah... I kind of expected them to reset..."
+msgstr "Ah... eu meio que esperava que eles reiniciassem..."
+
+msgid "Geez... what was I thinking?"
+msgstr "Nossa... o que eu estava pensando?"
+
+msgid "The cable has already been severed."
+msgstr "O cabo já foi cortado."
+
+msgid "The cable has been cut."
+msgstr "O cabo foi cortado."
+
+msgid "A cable runs from the lamp to the bushes."
+msgstr "Um cabo vai da lâmpada até os arbustos."
+
+msgid "A heavy-looking metal gate."
+msgstr "Um portão de metal de aparência pesada."
+
+msgid "Is this the Daylight Gate?"
+msgstr "Este é o Portão do Amanhecer?"
+
+msgid "What does it have to do with daylight?"
+msgstr "O que isso tem a ver com a luz do dia?"
+
+msgid "There's a plaque next to it that reads:"
+msgstr "Há uma placa ao lado que diz:"
+
+msgid "A gate blocks your path."
+msgstr "Um portão bloqueia seu caminho."
+
+msgid ""
+"\"Daylight Gate\"\n"
+"\"(At daytime, the gate opens and the lamps turn off.)\""
+msgstr ""
+"\"Portão do Amanhecer\"\n"
+"\"(Durante o dia, o portão abre e as lâmpadas se apagam.)\""
+
+msgid "Day...? I don't even know what time it is..."
+msgstr "Dia...? Eu nem sei que horas são..."
+
+msgid "Is there any way I can get this open without waiting?"
+msgstr "Existe alguma maneira de abrir isso sem esperar?"
+
+msgid "A street lamp."
+msgstr "Uma lâmpada de rua."

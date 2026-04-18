@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "As I thought... the internet is not working."
+msgstr "跟我想的一樣...網路無法使用。"
+
+msgid "Thankfully, I saved that post as a PDF."
+msgstr "值得慶幸的是，我把那篇文章存成 PDF 了。"
+
+msgid "\"What to do if you mess up bus ritual\""
+msgstr "\"如果公車儀式搞砸的話怎麼辦\""
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"i was about to do the bus ritual, and saw that there are no clues about what to do if the bus doesnt come or something"
+msgstr ""
+"[color=green]spikyTrap2, 1 年前[/color]\n"
+"我之前想要進行公車儀式，結果找不到公車沒來或是其他狀況該怎麼做的線索"
+
+msgid "someone here said that leaving a ritual half-done can be rly bad, so i'm just asking to be safe"
+msgstr "這裡有人說過如果儀式只進行一半的話會很糟糕，所以我想要保險一點"
+
+msgid ""
+"[color=green]miko_baby, 1 year ago[/color]\n"
+"I don't guarantee this will work, as I haven't personally tried the bus ritual. But! My family works at a shrine so I have some experience with banishing spirits. The steps should be:"
+msgstr ""
+"[color=green]miko_baby, 1 年前[/color]\n"
+"我不保證這樣有用，因為我還沒有親自試過公車儀式。但是！我家在神社工作，所以我有些驅魂的經驗。步驟應該是："
+
+msgid ""
+"1) Untie the red string or thread or whatever you used from the phone.\n"
+"2) Take a whole bunch of salt, any salt, and pour it in front of any exit doors of your home (indoors)."
+msgstr ""
+"1) 解開綁在電話上的紅線或是絲線或是你用的東西。\n"
+"2) 拿一堆鹽巴，任何鹽巴，然後倒在你家任何出口的門前(室內)。"
+
+msgid ""
+"Make sure to pour salt on EVERY exit (windows aren't necessary though).\n"
+"That's all! Hope this helps!"
+msgstr ""
+"確定鹽巴要倒在*每一個*出口(窗戶不需要)。\n"
+"就這樣！希望有所幫助！"
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"thanks!"
+msgstr ""
+"[color=green]spikyTrap2, 1 年前[/color]\n"
+"謝了！"
+
+msgid "[User marked this thread as solved]"
+msgstr "[使用者標記討論串為已解答]"
+
+msgid "In other words, remove the red string from the phone and scatter salt in front of the front door, the back door and the garage door."
+msgstr "換句話說，移除電話上的紅線，然後把鹽巴灑在前門、後門和車庫門。"
+
+msgid "It sounds a little weak for a ritual but... it's better than nothing."
+msgstr "聽起來對一場儀式來說滿弱的但是...聊勝於無。"
+
+msgid "I'd rather not change right now..."
+msgstr "我最好別現在換衣服..."
+
+msgid "My digital alarm clock."
+msgstr "我的數位鬧鐘。"
+
+msgid "I'm so used to pushing snooze on this thing-"
+msgstr "我已經習慣按下貪睡按鈕了-"
+
+msgid "I hope I don't do it again out of reflex and ruin the ritual."
+msgstr "希望我不會下意識按下而毀了儀式。"
+
+msgid "Set it for midnight?"
+msgstr "設定到午夜嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "It's done."
+msgstr "完成。"
+
+msgid "It's set to ring at midnight."
+msgstr "已經設定成午夜響起了。"
+
+msgid "My bed."
+msgstr "我的床。"
+
+msgid "Go to sleep?"
+msgstr "睡覺嗎？"
+
+msgid "There's something I need to tell Hiro first."
+msgstr "我有事要先告訴廣人。"
+
+msgid "I should take the stuff I left by the window, or I'm going to forget it here."
+msgstr "我應該把我留在窗邊的東西拿走，不然我會把它們忘在那裡。"
+
+msgid "I need to finish cleaning up the ritual first..."
+msgstr "我需要先清理儀式..."
+
+msgid "A book on the occult."
+msgstr "一本關於神祕學的書。"
+
+msgid "Read a passage?"
+msgstr "閱讀其中一段嗎？"
+
+msgid "\"Salt is important when dealing with demons. For best results, a handful must be thrown at the target.\""
+msgstr "\"鹽巴在對付惡魔時很重要。一把鹽必須擲向目標以達到最佳結果。\""
+
+msgid "A bookshelf with school related books."
+msgstr "有著學校相關書籍的書架。"
+
+msgid "Manga and other non-academic stuff gets to go in the bottom compartment."
+msgstr "漫畫和其他無關學術的東西被放在底層隔間。"
+
+msgid "Blue... Pink... Looks like I don't have any red markers."
+msgstr "藍色...粉紅...看來我沒有任何紅色奇異筆。"
+
+msgid "Maybe in my parents' room?"
+msgstr "也許在我爸媽的房間？"
+
+msgid "Maybe downstairs?"
+msgstr "也許在樓下？"
+
+msgid "My computer chair."
+msgstr "我的電腦椅。"
+
+msgid "The instructions are simple enough. No need to check again."
+msgstr "說明很簡單。不需要再檢查。"
+
+msgid "Sit at the computer?"
+msgstr "坐在電腦前嗎？"
+
+msgid "A gaming console."
+msgstr "遊戲主機。"
+
+msgid "There's no time for games right now."
+msgstr "現在沒時間玩遊戲。"
+
+msgid "My computer. It's always on."
+msgstr "我的電腦。總是開著。"
+
+msgid "My desk."
+msgstr "我的桌子。"
+
+msgid "The mugs pile up here. The drawers contain school papers."
+msgstr "這裡堆滿了杯子。抽屜裡有學校用的紙。"
+
+msgid "Leftover orange juice."
+msgstr "剩下的柳橙汁。"
+
+msgid "It's too warm to drink now."
+msgstr "已經溫了，不能喝。"
+
+msgid "Some blank paper."
+msgstr "一些空白的紙。"
+
+msgid "I doodle sometimes."
+msgstr "我有時候會塗鴉。"
+
+msgid "A plant."
+msgstr "植物。"
+
+msgid "The best plant in this house."
+msgstr "房子裡最棒的植物。"
+
+msgid "Some cute posters."
+msgstr "一些可愛的海報。"
+
+msgid "A fancy glass table."
+msgstr "精美的玻璃桌。"
+
+msgid "An overflowing trash can."
+msgstr "滿溢的垃圾桶。"
+
+msgid "Since you're the one who filled it up, there's no point in emptying it."
+msgstr "既然是妳自己裝滿的，清空它就沒有意義了。"
+
+msgid "My trash can."
+msgstr "我的垃圾桶。"
+
+msgid "A TV."
+msgstr "一台電視。"
+
+msgid "This TV is solely used to dock the game console."
+msgstr "這台電視只用於連接遊戲主機。"
+
+msgid "It's too dark to see right now."
+msgstr "太暗了，看不清楚。"
+
+msgid "A window."
+msgstr "窗戶。"
+
+msgid "A cozy gaming space by the window."
+msgstr "窗邊舒適的遊戲空間。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Various bows and hair decorations."
+msgstr "各種蝴蝶結和髮飾。"
+
+msgid "There's some red ribbon here."
+msgstr "這裡有一些紅色緞帶。"
+
+msgid "Take ${item:ch1.ribbon}?"
+msgstr "拿走 ${item:ch1.ribbon} 嗎？"
+
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "一些作為禮物收到的衣服。現在不是打開它們的時候。"
+
+msgid "Some clothes."
+msgstr "衣服。"
+
+msgid "A calendar. It's still stuck in March, 6 months ago."
+msgstr "日曆。還卡在三月，6 個月前。"
+
+msgid "Is there even a point in turning the pages?"
+msgstr "翻頁還有任何意義嗎？"
+
+msgid "The year is more or less over anyways."
+msgstr "反正這一年快要結束了。"
+
+msgid "Lacie's diary."
+msgstr "萊西的日記。"
+
+msgid "I don't feel like going through it right now."
+msgstr "我不想現在翻閱。"
+
+msgid "I should take all of this with me."
+msgstr "我應該全部都拿走。"
+
+msgid "My notebook, to organize my thoughts..."
+msgstr "我的筆記本，用來整理我的想法..."
+
+msgid "...the rune for the ritual..."
+msgstr "...儀式用的符石..."
+
+msgid "...salt, for self defense..."
+msgstr "...鹽巴，用來自衛..."
+
+msgid "...and finally, this thing."
+msgstr "...最後，這東西。"
+
+msgid "If the information I got is accurate, then this is my ticket back home."
+msgstr "如果我得到的資訊正確，那麼這就是我回家的門票。"
+
+msgid "(You placed the letter and to-do list into the notebook.)"
+msgstr "(妳把信件和待辦清單放進妳的筆記本。)"
+
+msgid "A happy little green plant."
+msgstr "快樂的小小綠色植物。"
+
+msgid "It doesn't need a lot of watering, thankfully..."
+msgstr "還好，不需要常常澆水..."
+
+msgid "Your TamaGhost™."
+msgstr "妳的電子小幽靈™。"
+
+msgid "I already fed it today."
+msgstr "我今天已經餵過它了。"
+
+msgid "(You fed your TamaGhost™)."
+msgstr "(妳餵了妳的電子小幽靈™)。"
+
+msgid "An umbrella."
+msgstr "一把雨傘。"
+
+msgid "It's nice outside."
+msgstr "外面真好。"
+
+msgid "But not nice enough to want to go back out."
+msgstr "但是沒有好到讓我想再出去。"

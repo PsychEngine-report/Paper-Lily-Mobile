@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Zaten kilidi açılmış."
+
+msgid "...but there's nothing inside."
+msgstr "...Ama içeride hiçbir şey yok."
+
+msgid "There's some schematics for some sort of machine you don't really understand."
+msgstr "Cidden anlamadığın bir makinenin bazı şemaları var."
+
+msgid "What's that?"
+msgstr "O da ne?"
+
+msgid "Not a clue... but I'm taking it."
+msgstr "İpucu yok...Ama alacağım."
+
+msgid "There's some official-looking documents here."
+msgstr "Burda bazı resmi görünen belgeler var."
+
+msgid "Read them?"
+msgstr "Okunsun mu?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "${img:stamp_council} MEETING 176 NOTES"
+msgstr "${img:stamp_council} TOPLANTI 176 NOTLARI"
+
+msgid "\"...disagreements on the distribution of the....\""
+msgstr "「...dağılımda anlaşmazlıklar...」"
+
+msgid "\"...is still not participating in our...\""
+msgstr "「...Hala bize katılmadı...」"
+
+msgid "\"...the secondary duty of guardians...\""
+msgstr "「...Gardiyanların ikincil görevi...」"
+
+msgid "\"...collection of stones from every...\""
+msgstr "「...Her yerden taş koleksiyonları...」"
+
+msgid "The document continues making little sense for several pages."
+msgstr "Belgeler biraz daha böyle saçma sapan devam ediyor."
+
+msgctxt "events.Prologue_Ending_K7_2.event_read_documents.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "What the hell am I reading?"
+msgstr "Ne okuyorum lan ben?"
+
+msgid "There's nothing else of interest."
+msgstr "İlgi çekici başka bir şey yok"
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Bu toka bu kilide uymuyor."
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_0.dlg.narrator"
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_1.dlg.narrator"
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_2.dlg.narrator"
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_3.dlg.narrator"
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_4.dlg.narrator"
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_5.dlg.narrator"
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgid "They're already open."
+msgstr "Çoktan açıldılar."
+
+msgid "Despite your best efforts, you can't seem to cut through it with your scissors."
+msgstr "Ne kadar çabalasan da bu makasla kesemeyeceksin gibi duruyor."
+
+msgid "The box contains an assortment of differently sized blue cans."
+msgstr "Kutuların içinde farklı boyutlarda kutucuklar var."
+
+msgid "A pile of boxes."
+msgstr "Bir yığın kutu."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_boxes.dlg.narrator"
+msgid "They seem to be stuck together."
+msgstr "Birbirine yapışmış gibi gözüküyorlar."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_0.dlg.narrator"
+msgid "A large locker."
+msgstr "Büyük bir dolap."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_0.dlg.narrator"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "A large locker."
+msgstr "Büyük bir dolap."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "It's empty."
+msgstr "Bu boş."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "A large locker."
+msgstr "Büyük bir dolap."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "It's empty."
+msgstr "Bu boş."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "A large locker."
+msgstr "Büyük bir dolap."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "It's empty."
+msgstr "Bu boş."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "A large locker."
+msgstr "Büyük bir dolap."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "It's empty."
+msgstr "Bu boş."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "A large locker."
+msgstr "Büyük bir dolap."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "It's empty."
+msgstr "Bu boş."
+
+msgid "A trash can."
+msgstr "Bir çöp kutusu."
+
+msgid "Some black goo can be seen at the bottom."
+msgstr "Altından biraz siyah yapışkan aktığını görebilirsin."
+
+msgid "A pile of trash cans."
+msgstr "Bir yığın çöp kutusu."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_trashcans.dlg.narrator"
+msgid "They seem to be stuck together."
+msgstr "Birbirine yapışmışa benziyorlar."
+
+msgid "So... maybe the ritual worked?"
+msgstr "Yani... Belki de ritüel tutmuştur?"
+
+msgid "But the ritual wasn't finished."
+msgstr "Ama ritüel henüz tamamlanmadı."
+
+msgid "Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore."
+msgstr "Bu da okulun bir sürü lanetli oda ve karanlık sırlarla dolu olduğu ya da artık bir okul olmadığı anlamına geliyor."
+
+msgid "If it's not the school, then what is it?"
+msgstr "Eğer okul değilse... Ne olur ki?"
+
+msgid "No idea."
+msgstr "Ne bileyim ben."
+
+msgctxt "events.Prologue_Ending_K7_2.move_enter.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "In any case, it doesn't feel too dangerous, so let's continue."
+msgstr "Her şekilde tehlikeli gelmiyor, yani hadi devam edelim."

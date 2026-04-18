@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait... you made me climb over all those boxes for nothing?"
+msgstr "Bekle... beni tüm o kutulara boş yere mi tırmandırdın?"
+
+msgid "It wasn't for nothing. Exercise is good for you."
+msgstr "Boş yere değildi. Egzersiz senin için iyidir."
+
+msgid "Huuuh?! I can't believe this..."
+msgstr "haaah?! İnanamıyorum..."
+
+msgid "Man... it's really stuffy in there. I don't wanna do that again."
+msgstr "Dostum... Burası gerçekten çok dolu. Bunu tekrar yapmak istemiyorum."
+
+msgid "It doesn't look like we can reach it to go back anyway."
+msgstr "Zaten geri dönmek için ona yetişebilecekmişiz gibi gçrünmüyor."
+
+msgid "What?!"
+msgstr "Ne?!"
+
+msgid "We're stuck?!"
+msgstr "Sıkıştık mı!?"
+
+msgid "There's a door right there."
+msgstr "Şurada bir kapı var."
+
+msgid "Sheesh... why are all the vents exits so high up..."
+msgstr "Öff... neden tüm havalandırma çıkışları bu kadar yukarıda..."
+
+msgid "If you're going to make them traversable, at least put them at a reasonable height."
+msgstr "Eğer bunları geçilebilir yapacaksan, en azından makul bir yüksekliğe koyun."
+
+msgid "A bookshelf with very few remaining books."
+msgstr "Çok az kitap kalan bir kitaplık."
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice"
+msgid "Read a passage?"
+msgstr "Paragrafı okuyacak mısın?"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice.Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice.Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "All of the pages are blank."
+msgstr "Tüm sayfalar boş."
+
+msgid "A bookshelf with very few remaining books. All of their pages are blank."
+msgstr "Çok az kitap kalan bir kitaplık. Tüm sayfaları boş."
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_6.dlg.narrator"
+msgid "An empty bookshelf."
+msgstr "Boş bir kitaplık."
+
+msgid "...Actually, there's a key at the very back."
+msgstr "...Aslında, bayağı geride bir anahtar var. "
+
+msgid "A purple book."
+msgstr "Mor bir kitap."
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice"
+msgid "Read a passage?"
+msgstr "Paragrafı okuyacak mısın?"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice.Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice.Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "All of its pages are blank, but you can see a faint outline of some letters."
+msgstr "Tüm sayfaları boş, ama bazı harflerin silik ana hatlarını görebiliyorsun."
+
+msgid "(Have all of these books been erased... somehow?)"
+msgstr "(Bir şekilde... Tüm kitaplar silinmiş mi?)"
+
+msgid "Someone didn't want to leave any traces here."
+msgstr "Birisi burada iz bırakmak istememiş."
+
+msgid "I agree."
+msgstr "Katılıyorum."
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_empty.dlg.narrator"
+msgid "An empty bookshelf."
+msgstr "Boş bir kitaplık."
+
+msgid "There's a hole on the floor."
+msgstr "Zeminde bir delik var."
+
+msgid "Going down there is out of the question."
+msgstr "Oraya inmek söz konusu bile değil."
+
+msgid "Crawl inside?"
+msgstr "İçeri kıvrılacak mısın?"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.move_vent.choice.Crawl inside?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.move_vent.choice.Crawl inside?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "It's not a good idea to go in there without a way out."
+msgstr "Dışarı bir çıkış olmadan oraya girmek iyi bir fikir değil."
+
+msgid "A ventilation shaft."
+msgstr "Bir havalandırma kanalı."
+
+msgid "The cover is screwed in."
+msgstr "Kapak vidalanmış."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Ah. I spot a shiny over there."
+msgstr "Ah. Orada bir parıltı görüyorum. "
+
+msgid "A... \"shiny\"?"
+msgstr "Bir... \"parıltı\"?"
+
+msgid "You know... a useful item."
+msgstr "Bilirsin... kullanışlı bir eşya."
+
+msgid "How do you know it will be useful..."
+msgstr "Kullanışlı olacağını nereden biliyorsun?"
+
+msgid "Might need to push some boxes around to get it though."
+msgstr "Onu almak için bir kaç kutuyu itmemiz gerekebilir."
+
+msgid "Arrange the boxes?"
+msgstr "Kutuları düzenleyecek misin?"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.on_enter_puzzle.choice.Arrange the boxes?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.on_enter_puzzle.choice.Arrange the boxes?"
+msgid "No"
+msgstr "Hayır"

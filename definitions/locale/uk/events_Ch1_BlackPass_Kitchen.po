@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A knife, Lacie."
+msgstr "Ніж, Лейсі."
+
+msgid "A knife."
+msgstr "Ніж."
+
+msgid "Off you go."
+msgstr "Все, іди."
+
+msgid "Hm...?"
+msgstr "Гм?.."
+
+msgid "Lacie, there you are."
+msgstr "Лейсі, ось ти де."
+
+msgid "I called you several times, didn't you hear me?"
+msgstr "Не можу до тебе докричатись. Ти мене не чула?"
+
+msgid "..."
+msgstr "..."
+
+msgid "I need you to go get me a _____."
+msgstr "Принеси-но мені _____."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "A... what?"
+msgstr "Е-е... що?"
+
+msgid "Oh."
+msgstr "Ага."
+
+msgid "It shouldn't be too hard to find. It's in the closet in the garage."
+msgstr "Його нескладно знайти. Він у шафі в гаражі."
+
+msgid "...Okay."
+msgstr "...Добре."
+
+msgid "Well done. Off you go."
+msgstr "Молодець. Тепер іди."
+
+msgid "A kitchen counter. Mother seems to be preparing something."
+msgstr "Кухонна стійка. Схоже, мама щось тут готує."
+
+msgid "There's nothing on the counter."
+msgstr "На стійці нічого немає."
+
+msgid "None of this can be used."
+msgstr "Нічим з цього неможливо скористатись."
+
+msgid "The surfaces are completely flat, and there are no handles."
+msgstr "Усі поверхні плоскі, а ручок немає."
+
+msgid "It only looks like a kitchen on the surface..."
+msgstr "Це тільки на вигляд кухня..."
+
+msgid "Pick up ${item:global.reditem_2}?"
+msgstr "Взяти предмет: ${item:global.reditem_2}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "An empty dining table."
+msgstr "Пустий обідній стіл."
+
+msgid "The passageway has closed behind you."
+msgstr "Прохід за вами закрився."
+
+msgid "It's locked."
+msgstr "Зачинено."

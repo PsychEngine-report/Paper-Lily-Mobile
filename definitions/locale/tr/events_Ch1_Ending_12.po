@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Are you sure you'll be okay?"
+msgstr "İyi olacağına emin misin?"
+
+msgid "Yeah for sure!"
+msgstr "Elbette!"
+
+msgid "Tip top shape."
+msgstr "Harika."
+
+msgid "..."
+msgstr "..."
+
+msgid "Take your time."
+msgstr "Acele etme."
+
+msgid "I mean... it's not like I'm bleeding out or anything."
+msgstr "Yani... kanamam falan yok."
+
+msgid "(I need to find an exit fast.)"
+msgstr "(Hemen bir çıkış bulmalıyım.)"
+
+msgid "Sai is not moving."
+msgstr "Sai hareket etmiyor."
+
+msgid "She's back..... She's back."
+msgstr "O geri döndü..... O geri döndü."
+
+msgid "She's singing in my ears....."
+msgstr "Kulağıma şarkı söylüyor....."
+
+msgid "Singing all the time....."
+msgstr "Sürekli şarkı söylüyor....."
+
+msgid "Humming..."
+msgstr "Mırıldanıyor..."
+
+msgid "Burning..."
+msgstr "Yanıyor..."
+
+msgid "Oh no... burning...."
+msgstr "Olamaz... yanıyor...."
+
+msgid "Hahahahaha....."
+msgstr "Hahahahaha....."
+
+msgid "Burning."
+msgstr "Yanıyor."

@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's probably no point, this one didn't even do anything."
+msgstr "Chả có nghĩa lý gì đâu, cái cây đây còn không làm gì cả."
+
+msgid "Nothing good can come out of stabbing every single plant you see."
+msgstr "Thấy cây nào đâm cây đó chẳng có được cái lợi lộc gì hết."
+
+msgid "(Is this plant eating something... or someone?)"
+msgstr "(Cái cây này đang ăn cái gì đó... hay là ai đó?)"
+
+msgid "(Should I really risk opening it?)"
+msgstr "(Thực sự mình có nên liều mở nó ra không?)"
+
+msgid "Yes"
+msgstr "Mở ra"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "(Probably best not to...)"
+msgstr "(Chắc thôi tốt nhất là đừng...)"
+
+msgid "(It's a person.)"
+msgstr "(Là người nè.)"
+
+msgid "(Are they... alright? They seem asleep.)"
+msgstr "(Cậu ta... không sao đâu nhỉ? Có vẻ là đang ngủ.)"
+
+msgid "(Wait... that might be a demon. Maybe I'd better leave them alone.)"
+msgstr "(Từ từ... có khi là quỷ. Có lẽ mình để yên thì hơn.)"
+
+msgid "(Well... I'll look around while they wake up.)"
+msgstr "(Thôi... trong khi cậu ta tỉnh lại thì đi dòm quanh xem.)"
+
+msgid "AH!"
+msgstr "A!"
+
+msgid "...!?"
+msgstr "...?"
+
+msgid "Ahh... AHH!"
+msgstr "Aa... AA!"
+
+msgid "Get it off get it off get it off!!!"
+msgstr "Bỏ ra bỏ ra bỏ ra!!!"
+
+msgid "Oh god... oh god... gaaaah!"
+msgstr "Trời ơi... trời ơi... gaaaa!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...!"
+msgstr "...!"
+
+msgid "Did you just save me?!?"
+msgstr "Cậu vừa mới cứu tớ hả?!?"
+
+msgid "Everything was so dark and so gross, I thought I was gonna die for real this time!"
+msgstr "Trong nó tối với gớm ghê luôn, tưởng lần này tớ chết thật luôn á!"
+
+msgid "That gooey stuff was eating away at my skin, it's so itchy, uuugh I still feel it!!!"
+msgstr "Cái nhớp nhớp đồ đó nó cứ ăn dần da tớ, ngứa quá, ưưư giờ vẫn ngứa nè!!!"
+
+msgid "I don't want it to eat me!!!"
+msgstr "Tớ đâu có muốn bị nó ăn thịt!!!"
+
+msgid "Oh god, I didn't plan to get digested today, this is NOT how I pictured my death!"
+msgstr "Trời đất ơi, hôm nay đâu định bị xơi đâu, có mà chết tớ cũng KHÔNG có hình dung thế này!"
+
+msgid "WHAT IS THIS PLACE?!?"
+msgstr "CÁI CHỐN NÀY LÀ CÁI GÌ?!?"
+
+msgid "Oh."
+msgstr "Ồ."
+
+msgid "Hahaha no..."
+msgstr "Hahaha ôi..."
+
+msgid "We're in the fairy ring aren't we?!"
+msgstr "Tụi mình đang ở trong vòng yêu tinh đúng không?!"
+
+msgid "Noooo! There's no way to get out of here!!"
+msgstr "Trờiiii! Không có đường nào thoát ra khỏi đây cả!!"
+
+msgid "This is it. WE'RE DEAD!"
+msgstr "Thế là hết. NÀY LÀ CHẾT RỒI!"
+
+msgid "I might as well go back in the plant, at least it will be faster."
+msgstr "Có khi tớ chui vào lại trong cái cây vậy, ít ra thế thì nhanh hơn."
+
+msgid "Nooo I don't want it to end this way!!!"
+msgstr "Trời ơii tớ không có muốn kết thúc thế này!!!"
+
+msgid "Hey."
+msgstr "Ê."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...?"
+msgstr "...?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "Cut it off."
+msgstr "Cắt ngay."
+
+msgid "...W-what...?"
+msgstr "...G-gì...?"
+
+msgid "I said: cut it off."
+msgstr "Tôi bảo: cắt lời ngay."
+
+msgid "Ah, s-sorry..."
+msgstr "A, x-xin lỗi..."
+
+msgid "(Is that supposed to be... a joke?)"
+msgstr "(Cái câu này là đùa... đó sao?)"
+
+msgid "You know, I'm actually okay with dying."
+msgstr "Thì là, thật ra tớ có bị chết cũng không có gì."
+
+msgid "But I feel like being eaten alive isn't really the way to go, you know?"
+msgstr "Nhưng mà bị ăn tươi nuốt sống vầy tớ cảm thấy nó không có đúng bài lắm ấy."
+
+msgid "I see... I guess so."
+msgstr "Thế à... chắc vậy."
+
+msgid "My name's Aoi."
+msgstr "Tớ tên là Aoi."
+
+msgid "...I see."
+msgstr "...Vậy à."
+
+msgid "Lacie."
+msgstr "Lacie."
+
+msgid "Hehe... Were you trapped in one of those things too?"
+msgstr "Hê hê... Cậu cũng bị kẹt vô một trong mấy cái này á?"
+
+msgid "Yeah."
+msgstr "Ừ."
+
+msgid "How'd you get out?"
+msgstr "Cậu thoát ra kiểu gì vậy?"
+
+msgid "${item:ch1.scissors}."
+msgstr "${item:ch1.scissors}."
+
+msgid "Whoa."
+msgstr "Oa."
+
+msgid "If I get out of here I'll always carry scissors on me!"
+msgstr "Nếu ra khỏi đây tớ sẽ luôn luôn mang kéo theo bên mình!"
+
+msgid "I promise you-"
+msgstr "Tớ hứa luôn-"
+
+msgid "No!"
+msgstr "Không!"
+
+msgid "I SWEAR to you."
+msgstr "Tớ THỀ luôn."
+
+msgid "O-okay..."
+msgstr "Ờ-ô kê..."
+
+msgid "(What am I supposed to say to that...?)"
+msgstr "(Biết nói lại sao cho phải đây...?)"
+
+msgid "So um..."
+msgstr "Thế ừm..."
+
+msgid "H-how do we get out..."
+msgstr "M-Mình ra khỏi đây sao..."
+
+msgid "I don't know."
+msgstr "Tôi không biết."
+
+msgid "WE'RE ABSOLUTELY NEVER GETTING OUT WHAT ARE WE GOING TO DO!?!"
+msgstr "TỤI MÌNH TUYỆT ĐỐI KHÔNG ĐỜI NÀO THOÁT RA ĐƯỢC RỒI BIẾT TÍNH LÀM CÁI GÌ ĐÂY!?!"
+
+msgid "Should I go back and get eaten by that plant instead?"
+msgstr "Thay vào đó tớ có nên quay lại để cho cái cây đó ăn thịt không?"
+
+msgid "That might actually be better than losing my mind as I walk endlessly through this hellish place..."
+msgstr "Thế có khi thật ra tốt hơn là bước đi vô định trong cái chốn như địa ngục này rồi lý trí chẳng còn..."
+
+msgid "Can you imagine it???"
+msgstr "Cậu tưởng tượng ra không???"
+
+msgid "We would go insane!"
+msgstr "Là tụi mình phát điên đó!"
+
+msgid "I hear the fairy ring slowly digests you, even if you're not caught in a plant."
+msgstr "Tớ nghe nói trong vòng yêu tinh cho dù không bị cây tóm cũng từ từ bị tiêu hóa đi."
+
+msgid "Eventually the skin on our feet will start chipping away from walking through this visceral floor."
+msgstr "Bước đi trên cái bề mặt phủ tạng này là dần dần da chân sẽ bắt đầu bong ra."
+
+msgid "Then we'll start crawling, when our feet no longer work, hoping for the sweet release of death."
+msgstr "Rồi khi chân không còn đi được nữa thì bắt đầu bò lết, mong thà được chết êm ái còn hơn."
+
+msgid "We might even wind up eating each other..."
+msgstr "Rồi tụi mình có khi sẽ còn quay ra ăn thịt lẫn nhau..."
+
+msgid "Aoi."
+msgstr "Aoi."
+
+msgid "R-right..."
+msgstr "R-rồi..."
+
+msgid "Sorry."
+msgstr "Xin lỗi."
+
+msgid "I'll look around first."
+msgstr "Tôi đi dòm loanh quanh trước đây."
+
+msgid "I want to take another look at the next room."
+msgstr "Đang muốn coi lại cái phòng kế tiếp xem thế nào."
+
+msgid "I haven't even left this room yet."
+msgstr "Phòng này tôi còn chưa ra khỏi nữa."
+
+msgid "OKAY!"
+msgstr "Ô KÊ!"
+
+msgid "Can I follow you?"
+msgstr "Tớ đi theo được không?"
+
+msgid "No thank you."
+msgstr "Không, cám ơn."
+
+msgid "Y-you'll leave me alone?!"
+msgstr "C-cậu bỏ tớ một mình à?!"
+
+msgid "Please let me come with you, I promise I'll be useful!"
+msgstr "Cho tớ đi cùng đi mà, hứa sẽ được việc!"
+
+msgid "...uh..."
+msgstr "...ờ..."
+
+msgid "PLEASE!!!"
+msgstr "ĐI MÀ!!!"
+
+msgid "Okay... okay."
+msgstr "Rồi... được rồi."
+
+msgid "(It's probably a bad idea, but...)"
+msgstr "(Hẳn là ý tưởng tồi rồi, cơ mà...)"
+
+msgid "(This... boy... or girl? They don't seem dangerous.)"
+msgstr "(Kẻ này... trai... hay gái? Trông không có vẻ nguy hiểm.)"
+
+msgid "(Maybe it's best not to be alone in this place.)"
+msgstr "(Có khi ở cái nơi này không đi một mình là tốt nhất.)"
+
+msgid "...Yes, I don't see why not."
+msgstr "...Được chứ sao không."
+
+msgid "Yay!"
+msgstr "Dzê!"
+
+msgid "I promise I'll be useful!"
+msgstr "Hứa sẽ được việc!"
+
+msgid "Sure. Pleased to make your acquaintance."
+msgstr "Vâng. Hân hạnh được làm quen với cậu."
+
+msgid "(I wonder if this girl... or boy... can help me with my problem.)"
+msgstr "(Không biết cái đứa con gái... hay trai này... có giúp được vấn đề của mình không đây.)"
+
+msgid "(Were they... melting? They might be a spirit or something...)"
+msgstr "(Mà nãy cậu ta... tan chảy hả? Có khi là tinh linh hay gì đó ta...)"
+
+msgid "(For now, let's focus on getting out of this place.)"
+msgstr "(Mà giờ, hãy tập trung tìm cách ra khỏi cái nơi này thôi.)"
+
+msgid "There's no one else to rescue in there."
+msgstr "Trong đấy không còn ai khác để giải cứu đâu."
+
+msgid "It probably learned its lesson, I think."
+msgstr "Thấy nó hẳn là biết lễ độ rồi đó."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plants.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "Nhiều cái cây khác nhau, tương tự với cái đã tóm bạn."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_aoi.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "Nhiều cái cây khác nhau, tương tự với cái đã tóm bạn."
+
+msgid "This one seems to be digesting something..."
+msgstr "Cái này trông như đang tiêu hóa thứ gì đó..."
+
+msgid "The thing that almost ate Aoi. It's wide open."
+msgstr "Cái thứ suýt làm thịt mất Aoi. Nó bị mở banh ra."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "Cái cây mà mình bị kẹt ở trong."
+
+msgid "It's not nice in there."
+msgstr "Trong đấy không dễ chịu đâu."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine_aoi.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "Cái cây mà mình bị kẹt ở trong."
+
+msgid "Does this even classify as a plant?"
+msgstr "Cái thứ này xếp loại là thực vật luôn chăng?"
+
+msgid "Not sure..."
+msgstr "Không chắc chắn..."
+
+msgid "It kinda looks like one."
+msgstr "Mà trông có phần giống."

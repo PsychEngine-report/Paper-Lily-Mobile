@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's here!"
+msgstr "Нашла!"
+
+msgid "What was that...?"
+msgstr "Что это было?.."
+
+msgid "It's not here."
+msgstr "Его здесь нет."
+
+msgctxt "events.Ch1_BlackPass_Garage.event_roll.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgid "The garage door is missing. It's just a wall here."
+msgstr "Не хватает гаражной двери. Тут просто стена."
+
+msgid "There's nothing else to do here."
+msgstr "Здесь больше нечего делать."
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_10.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_2.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_3.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_4.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_5.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_6.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_7.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_8.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgctxt "events.Ch1_BlackPass_Garage.misc_wardrobe_9.dlg.narrator"
+msgid "Nothing else of interest."
+msgstr "Тут нет больше ничего интересного"
+
+msgid "It won't open!"
+msgstr "Не открывается!"

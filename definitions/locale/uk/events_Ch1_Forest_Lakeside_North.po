@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "Вилити ${item:ch1.bucket_full}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "Вилити ${item:ch1.bucket_full_holy}?"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "Набрати ${item:ch1.bucket}?"
+
+msgid "What to do?"
+msgstr "Як мені вчинити?"
+
+msgid "Kill it here"
+msgstr "Вбити його тут"
+
+msgid "Release it around this area"
+msgstr "Випустити його на волю"
+
+msgid "Do nothing"
+msgstr "Нічого не робити"
+
+msgid "The crow shows no interest in it."
+msgstr "Ґаві це не потрібно."
+
+msgid "Nobody seems to want you, little one."
+msgstr "Ех, малюче, схоже, що нікому ти не потрібен."
+
+msgid "It refuses to leave the terrarium."
+msgstr "Він відмовляється виходити з тераріуму."
+
+msgid "He must not like lavender very much..."
+msgstr "Схоже, він не дуже любить фіалки..."
+
+msgid "(Looks like it couldn't swim after all.)"
+msgstr "(Схоже, плавати він все ж не здатен.)"
+
+msgid "(You can't place an incomplete doorknob...)"
+msgstr "(Ви не можете вставити нецілу ручку...)"
+
+msgid "Lavender flowers are growing all over this place."
+msgstr "Тут всюди ростуть фіалки."
+
+msgid "Pretty..."
+msgstr "Гарненькі..."
+
+msgid "Take ${item:ch1.forest_lavender}?"
+msgstr "Взяти предмет: ${item:ch1.forest_lavender}?"
+
+msgid "A crow standing on a log."
+msgstr "На колоді стоїть ґава."
+
+msgid "It's completely unfazed by the rain..."
+msgstr "Дощ їй ніяк не заважає..."
+
+msgid "A wooden log."
+msgstr "Дерев'яна колода."
+
+msgid "I came from this direction. There's no reason to go back now."
+msgstr "Я звідтіля приплила. Немає причин туди вертатись."
+
+msgid "You can't see the other side of the lake from here."
+msgstr "Звідси вам не видно інший берег озера."
+
+msgid "A small pond."
+msgstr "Невеликий ставок."
+
+msgid "The caterpillar has moved on. You should too."
+msgstr "Гусінь зробила свій вибір. Тепер ви зробіть свій."
+
+msgid "A door with two doorknobs."
+msgstr "Двері з двома ручками."
+
+msgid "Take a closer look?"
+msgstr "Роздивитись зблизька?"
+
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Я вставила свою ручку вороття. Не слід більш нікуди йти."
+
+msgid "A stairway?"
+msgstr "Сходи?"
+
+msgid "It's so dark... I can't see anything..."
+msgstr "Там темно... нічого не бачу..."
+
+msgid "Agh... my head..."
+msgstr "Ах... моя голова..."
+
+msgid "What's going on...?"
+msgstr "Що відбувається?.."
+
+msgid "This doorknob won't even turn."
+msgstr "Ця ручка ніяк не повертається."
+
+msgid "Hmm..."
+msgstr "Хм..."
+
+msgid "A strange door with two doorknobs... and empty slots to place more."
+msgstr "Дивні двері з двома ручками... а ще є отвори для інших ручок."
+
+msgid "Amazing... my ${item:ch1.doorknob_return} fits right in. It wasn't a scam after all..."
+msgstr "Чудово... моя ${item:ch1.doorknob_return} ідеально підходить. Врешті-решт, це був не обман..."
+
+msgid "Still... I'm not ready to go home yet, but I'm glad to have found this door."
+msgstr "І все ж... я не готова повернутись додому, проте рада, що знайшла ці двері."
+
+msgid "An empty slot."
+msgstr "Порожній отвір."
+
+msgid "Place a doorknob?"
+msgstr "Вставити дверну ручку?"
+
+msgid "Gray Doorknob"
+msgstr "Сіра дверна ручка"
+
+msgid "Doorknob With Eye"
+msgstr "Дверна ручка з оком"
+
+msgid "White Doorknob"
+msgstr "Біла дверна ручка"
+
+msgid "Doorknob With Flower"
+msgstr "Дверна ручка з квіткою"
+
+msgid "Return Doorknob"
+msgstr "Дверна ручка вороття"
+
+msgid "Do not"
+msgstr "Нічого не робити"
+
+msgid "Is it really time to go home...?"
+msgstr "Чи дійсно мені треба вертатись?.."
+
+msgid "Are you sure that you want to place this doorknob?"
+msgstr "Ви впевнені, що хочете вставити цю дверну ручку?"

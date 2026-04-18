@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That entrance... wasn't there before."
+msgstr "この入り口……さっきはなかった。"
+
+msgid "Is it underground?"
+msgstr "地下に続いてる？"
+
+msgid "There's another signpost here. It's loose, so it can be rotated."
+msgstr "また別の標識がある。ゆるいので、回せる。"
+
+msgid "Alright, I think I understand."
+msgstr "うん、わかってきたかも。"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice"
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。回す？"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "North"
+msgstr "北に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "South"
+msgstr "南に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "West"
+msgstr "西に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "East"
+msgstr "東に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "回さない"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice"
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。回す？"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "North"
+msgstr "北に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "South"
+msgstr "南に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "West"
+msgstr "西に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "East"
+msgstr "東に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "回さない"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice"
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。回す？"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "North"
+msgstr "北に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "South"
+msgstr "南に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "West"
+msgstr "西に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "East"
+msgstr "東に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "回さない"
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。"
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "固定されているので、回すことはできない。"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice"
+msgid "This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgstr "[color=#FF8080]「秘密」[/color]と書かれた標識。回す？"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "North"
+msgstr "北に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "South"
+msgstr "南に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "West"
+msgstr "西に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "East"
+msgstr "東に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "回さない"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice"
+msgid "This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgstr "[color=#FF8080]「秘密」[/color]と書かれた標識。回す？"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "North"
+msgstr "北に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "South"
+msgstr "南に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "West"
+msgstr "西に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "East"
+msgstr "東に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "回さない"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice"
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "[color=#FFFF80]「駅方面」[/color]と書かれた標識。回す？"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "North"
+msgstr "北に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "South"
+msgstr "南に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "West"
+msgstr "西に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "East"
+msgstr "東に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "回さない"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice"
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "[color=#FFFF80]「駅方面」[/color]と書かれた標識。回す？"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "North"
+msgstr "北に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "South"
+msgstr "南に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "West"
+msgstr "西に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "East"
+msgstr "東に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "回さない"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice"
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "[color=#FFFF80]「駅方面」[/color]と書かれた標識。回す？"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "North"
+msgstr "北に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "South"
+msgstr "南に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "West"
+msgstr "西に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "East"
+msgstr "東に向ける"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "回さない"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_1.choice"
+msgid "A dark pathway through the trees. Enter?"
+msgstr "木々の合間の暗い小道。入る？"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_1.choice.A dark pathway through the trees. Enter?"
+msgid "Yes"
+msgstr "入る"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_1.choice.A dark pathway through the trees. Enter?"
+msgid "No"
+msgstr "入らない"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_2.choice"
+msgid "A dark pathway through the trees. Enter?"
+msgstr "木々の合間の暗い小道。入る？"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_2.choice.A dark pathway through the trees. Enter?"
+msgid "Yes"
+msgstr "入る"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_2.choice.A dark pathway through the trees. Enter?"
+msgid "No"
+msgstr "入らない"

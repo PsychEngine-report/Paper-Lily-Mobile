@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "Ключ подошёл!"
+
+msgid "You don't know how to use it..."
+msgstr "Вы не знаете, как ей пользоваться..."
+
+msgid "A portrait of a person with a brain for a head."
+msgstr "Портрет кого-то с мозгами вместо головы."
+
+msgid "A portrait of a scary-looking person."
+msgstr "Портрет кого-то очень страшного."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_10.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A portrait of a person with a gaping mouth."
+msgstr "Портрет кого-то с широко разинутым ртом."
+
+msgid "...I don't like this one."
+msgstr "...Мне он не нравится."
+
+msgid "His head looks like a spoon."
+msgstr "Его голова похожа на ложку."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_11.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A portrait of a pretty-looking lady."
+msgstr "Портрет милой леди."
+
+msgid "She looks like she's made of porcelain."
+msgstr "Она будто бы сделана из фарфора."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_13.dlg.narrator"
+msgid "A portrait of a person with an animal skull for a head."
+msgstr "Портрет кого-то с черепом животного вместо головы."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_14.dlg.narrator"
+msgid "A portrait of a person with an animal skull for a head."
+msgstr "Портрет кого-то с черепом животного вместо головы."
+
+msgid "A portrait of a person with many eyes."
+msgstr "Портрет кого-то многоглазого."
+
+msgid "Various strange portraits adorn the walls."
+msgstr "По стене развешаны многочисленные странные портреты."
+
+msgid "A portrait of a girl with horns growing out of her face."
+msgstr "Портрет девушки с рогами, произрастающими из её лица."
+
+msgid "A portrait of a grandma."
+msgstr "Портрет бабушки."
+
+msgid "She looks nice... Maybe."
+msgstr "От неё... приятные ощущения."
+
+msgid "A portrait of a person with knifes floating above their head."
+msgstr "Портрет кого-то с ножами, вращающимися вокруг головы."
+
+msgid "A portrait of a person with a heart for a head."
+msgstr "Портрет кого-то с сердцем вместо головы."
+
+msgid "A portrait of a person with a crow for a head."
+msgstr "Портрет кого-то с вороной вместо головы."
+
+msgid "It looks nothing like those cute crows I've been seeing around."
+msgstr "Она совсем не похожа ни на одну ворону, которую я повстречала."
+
+msgid "A portrait of a happy-looking girl."
+msgstr "Портрет весёлой девушки."
+
+msgid "A portrait of a person with a goat for a head."
+msgstr "Портрет кого-то с козой вместо головы."
+
+msgid "Creepy portraits adorn the walls."
+msgstr "По стене развешаны многочисленные жуткие портреты."
+
+msgid "A painting that's mostly just red."
+msgstr "Просто красная картина."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice"
+msgid "Touch it?"
+msgstr "Коснуться её?"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice.Touch it?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice.Touch it?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A bunch of red powder sticks to your finger."
+msgstr "К вашему пальцу пристал красный порошок."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.dlg.narrator"
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Можно наскребать ещё, но для этого вам нужна какая-нибудь ёмкость."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.dlg.narrator"
+msgid "(You wipe it off.)"
+msgstr "(Вы убираете порошок с пальца.)"
+
+msgid "A painting that's mostly just yellow."
+msgstr "Просто жёлтая картина."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice"
+msgid "Touch it?"
+msgstr "Коснуться её?"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice.Touch it?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice.Touch it?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A bunch of yellow powder sticks to your finger."
+msgstr "К вашему пальцу пристал жёлтый порошок."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.dlg.narrator"
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Можно наскребать ещё, но для этого вам нужна какая-нибудь ёмкость."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.dlg.narrator"
+msgid "(You wipe it off.)"
+msgstr "(Вы убираете порошок с пальца.)"

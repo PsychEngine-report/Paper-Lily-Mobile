@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "Има чифт бели обувки с червени връзки."
+
+msgid "The shoelaces could be useful."
+msgstr "Връзките за обувки могат да бъдат полезни."
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "Вземете ${item:ch1.shoelaces}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "It's already done."
+msgstr "Вече е изпълнено."
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Вие разпръснахте сол на входа.)"
+
+msgid "Something is written here:"
+msgstr "Тук е написано нещо:"
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "\"Кога за последен път сте яли тук? Забравихте ли?\""
+
+msgid "A bookshelf with random decorative books."
+msgstr "Рафт с произволни декоративни книги."
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "Има и няколко спретнати офис консуматива."
+
+msgid "Red marker. Perfect."
+msgstr "Червен маркер. Перфектно."
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "Вземи ${item:ch1.marker}?"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "Голям диван. Хиро често заспива тук."
+
+msgid "A small couch that used to be your favorite."
+msgstr "Малък диван, който някога ви е бил любим."
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "Върху шкафа има кутия и растение."
+
+msgid "A large cupboard that could fit a person."
+msgstr "Голям шкаф, в който може да се побере човек."
+
+msgid "Some decorative plates."
+msgstr "Няколко декоративни табели."
+
+msgid "A painting of a sleeping cat."
+msgstr "Картина на спяща котка."
+
+msgid "A painting of..."
+msgstr "Картина на…"
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "Хм? Тази котка не спеше ли…?"
+
+msgid "A painting of a cat stares you down."
+msgstr "Картина на котка ви гледа втренчено."
+
+msgid "Some bills."
+msgstr "Някои сметки."
+
+msgid "Some pictures of places around the world."
+msgstr "Някои снимки на места по света."
+
+msgid "Mother and father go on trips a lot..."
+msgstr "Майка и татко ходят доста на екскурзии…"
+
+msgid "I don't even know where they are right now."
+msgstr "Дори не знам къде са в момента."
+
+msgid "A tall plant."
+msgstr "Високо растение."
+
+msgid "A pretty plant."
+msgstr "Красиво растение."
+
+msgid "A pink plant."
+msgstr "Розово растение."
+
+msgid "The TV remote."
+msgstr "Дистанционното за телевизора."
+
+msgid "Turn the TV on?"
+msgstr "Включи телевизора?"
+
+msgid "Turn the TV off?"
+msgstr "Изключи ТВ?"
+
+msgid "A shelf containing mainly glassware."
+msgstr "Рафт, съдържащ предимно стъклени изделия."
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "Определено щеше да боли, ако това паднеше върху някого."
+
+msgid "Some books on gardening."
+msgstr "Няколко книги за градинарството."
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "Рафт за обувки, пълен с обувки в различни цветове."
+
+msgid "Slippers to change into."
+msgstr "Чехли за преобуване."
+
+msgid "The footprints come from under the table..."
+msgstr "Отпечатъците идват изпод масата…"
+
+msgid "But there's nothing there."
+msgstr "Но там няма нищо."
+
+msgid "The family dining table."
+msgstr "Семейната трапезна маса."
+
+msgid "We don't eat here as much anymore."
+msgstr "Вече не се храним толкова често тук."
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "Масичка за кафе. Растенията понякога пречат."
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "Следите водят навън. Не приличат на нормални стъпала…"
+
+msgid "A TV."
+msgstr "Телевизор."
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "Това е програма за автомобили… Или това е трейлър на видеоигра?"
+
+msgid "Just animal videos, I guess."
+msgstr "Предполагам, че са просто видеоклипове за животни."
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "\"Дайте им храна и внимание и те никога няма да се разбунтуват.\""
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "Имаше едно аниме за магически момичета, което наскоро почнах да гледам."
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "Пичовете от нета казват че става доста мрачно… но аз не съм видяла нищо в тази насока, засега."
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "Това е обезпокоително… Нека го изключим."
+
+msgid "..."
+msgstr "…"
+
+msgid "An umbrella basket."
+msgstr "Кошница за чадъри."
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "Кошница за чадъри. Често бива ритвана насам‑натам по погрешка."
+
+msgid "I've been outside enough for now."
+msgstr "Вече бях достатъчно време навън – засега."
+
+msgid "This is the laundry room."
+msgstr "Това е пералното помещение."
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "Никога не разбрах защо, вратите наоколо в тази къща, трябва да се заключват."
+
+msgid "Maybe Hiro has the key..."
+msgstr "Може би ключът е в Хиро…"
+
+msgid "...but I don't need anything from there."
+msgstr "…обаче от тук конкретно, нямам нужда от нищо."
+
+msgid "The laundry room. It's locked."
+msgstr "Пералното помещение. Заключено е."

@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A heavy-looking door."
+msgstr "Солидно-изглеждаща врата."
+
+msgid "Are we underwater...?"
+msgstr "Под водата ли сме…?"
+
+msgid "Looks like it."
+msgstr "Така изглежда."
+
+msgid "The other side seems flooded."
+msgstr "Другата страна изглежда наводнена."
+
+msgid "Nothing happens."
+msgstr "Нищо не се случва."
+
+msgid "An elevator door."
+msgstr "Врата на асансьор."
+
+msgid "There are stairs that go further down, but it's completely flooded."
+msgstr "Има стълби, по които се слиза по-надолу, но те са напълно наводнени."

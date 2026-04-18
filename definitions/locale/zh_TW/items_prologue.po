@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "White Flower"
+msgstr "白花"
+
+msgid "A white flower I found on the grass. It appears to be a lily... I think."
+msgstr "我在草地上發現的白花。看起來是百合...吧。"
+
+msgid "Wet White Flower"
+msgstr "濕掉的白花"
+
+msgid "A white flower I took from a vase. It's probably a Lily."
+msgstr "我從花瓶中拿出的白花。大概是百合。"
+
+msgid "Ritual Notes"
+msgstr "儀式筆記"
+
+msgid "I put everything I need to remember here."
+msgstr "我把需要記住的東西都記在這裡。"
+
+msgid "Ritual Notes (Drawing)"
+msgstr "儀式筆記(圖畫)"
+
+msgid "This is how it looks in my head."
+msgstr "在我腦中看來是這樣子。"
+
+msgid "Candles"
+msgstr "蠟燭"
+
+msgid "A bunch of candles. I need these for the ritual."
+msgstr "一綑蠟燭。儀式要用到這些。"
+
+msgid "Chalk"
+msgstr "粉筆"
+
+msgid "A piece of chalk. I can draw various things with it."
+msgstr "一截粉筆。我可以用它在各種東西上畫畫。"
+
+msgid "Curtains"
+msgstr "窗簾"
+
+msgid "Red blackout curtains used to block as much light as possible."
+msgstr "用來儘量遮擋光線的紅黑色窗簾。"
+
+msgid "Lighter"
+msgstr "打火機"
+
+msgid "My personal lighter. I don't smoke, but I enjoy watching things burn."
+msgstr "我自己的打火機。我不抽菸，可是我喜歡看東西燃燒。"
+
+msgid "Old Lighter"
+msgstr "舊打火機"
+
+msgid "An old lighter I had lost a long time ago. It doesn't seem to work anymore."
+msgstr "我遺失已久的舊打火機。看起來已經沒用了。"
+
+msgid "Scissors"
+msgstr "剪刀"
+
+msgid "A regular pair of scissors. Not pointy enough to stab people with."
+msgstr "普通的剪刀。沒有尖到可以用來刺人。"
+
+msgid "Girl's Hair"
+msgstr "女孩的頭髮"
+
+msgid "A tuft of hair I cut from the girl with brown hair."
+msgstr "一束我從有著棕髮的女孩剪下的頭髮。"
+
+msgid "A tuft of hair I cut from the girl with black hair."
+msgstr "一束我從有著黑髮的女孩剪下的頭髮。"
+
+msgid "A tuft of hair I cut from the girl with dark brown hair."
+msgstr "一束我從有著暗棕髮的女孩剪下的頭髮。"
+
+msgid "My Hair"
+msgstr "我的頭髮"
+
+msgid "A bit of hair I cut from myself. Looking at it makes me sad."
+msgstr "一些我自己剪下的頭髮。看著它讓我難過。"
+
+msgid "Protective Rune"
+msgstr "守護符石"
+
+msgid "A rune with some ancient symbol engraved."
+msgstr "刻著古代符號的符石。"
+
+msgid "Student's Notebook"
+msgstr "學生的筆記本"
+
+msgid "A red notebook, probably forgotten by a student. The color and design are not my style."
+msgstr "一本紅色筆記本，大概是學生忘記的。顏色和設計不是我的風格。"
+
+msgid "Theater Club Key"
+msgstr "話劇社鑰匙"
+
+msgid "The key to open the theater club room."
+msgstr "用來打開話劇社辦的鑰匙。"
+
+msgid "Dusty Hairpin"
+msgstr "髒兮兮的髮夾"
+
+msgid "My trusty hairpin! I have a feeling this could come in handy."
+msgstr "我可靠的髮夾！感覺會用到它。"
+
+msgid "Fairly Normal-Looking Key"
+msgstr "看起來很正常的鑰匙"
+
+msgid "A key I found on a long hallway."
+msgstr "我在長廊上發現的鑰匙。"
+
+msgid "Lettuce"
+msgstr "萵苣"
+
+msgid "You're not supposed to have this in your inventory."
+msgstr "妳的物品庫不應該有這個。"
+
+msgid "Small Key"
+msgstr "小鑰匙"
+
+msgid "A small key, probably for a locker."
+msgstr "小鑰匙，大概是儲物櫃的。"
+
+msgid "Strange Blueprints"
+msgstr "奇怪的藍圖"
+
+msgid "Blueprints for an unknown device. You can't make heads or tails out of it."
+msgstr "未知裝置的藍圖。妳看不出這到底是什麼。"

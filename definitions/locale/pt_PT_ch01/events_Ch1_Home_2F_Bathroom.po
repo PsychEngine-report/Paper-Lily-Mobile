@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's some red lipstick."
+msgstr "Um batom vermelho."
+
+msgid "I wonder if I can use something like this to draw the symbol..."
+msgstr "Posso utilizar algo deste género para desenhar o símbolo…?"
+
+msgid "Take ${item:ch1.lipstick}?"
+msgstr "Levar o ${item:ch1.lipstick}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "A bathtub."
+msgstr "Uma banheira."
+
+msgid "A relaxing bathtub."
+msgstr "Uma banheira relaxante."
+
+msgid "The drawer contains various toiletries."
+msgstr "A gaveta tem vários produtos de higiene pessoal."
+
+msgid "The drawer contains a hair dryer and other appliances."
+msgstr "A gaveta tem um secador de cabelo e outros aparelhos."
+
+msgid "It's just you."
+msgstr "És só tu."
+
+msgid "Even in the bathroom, there are plants."
+msgstr "Até na casa de banho há plantas."
+
+msgid "This one is fake, though."
+msgstr "Mas esta é falsa."
+
+msgid "A plant."
+msgstr "Uma planta."
+
+msgid "Soap, shampoo, conditioner."
+msgstr "Sabonete, champô, amaciador."
+
+msgid "Some towels and a laundry basket."
+msgstr "Algumas toalhas e um cesto de roupa suja."
+
+msgid "A stool."
+msgstr "Um banco."
+
+msgid "Thankfully, there's plenty of toilet paper."
+msgstr "Felizmente, há bastante papel higiénico."
+
+msgid "Toilet paper."
+msgstr "Papel higiénico."
+
+msgid "A towel."
+msgstr "Uma toalha."
+
+msgid "A trash can."
+msgstr "Um caixote do lixo."
+
+msgid "Nothing but air fills this trash can."
+msgstr "Este caixote do lixo só tem ar."

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't have the brain power for this right now."
+msgstr "Şu an buna kafa yorabilecek kadar enerjim yok."
+
+msgid "You know... I could just jump over those boxes and get you the thingy."
+msgstr "Biliyor musun... Kutuların üzerinden atlayıp sana o şeyi getirebilirim."
+
+msgid "Still not interested?"
+msgstr "Hala ilgini çekmedi mi?"
+
+msgid "Ask Sai to get the shiny?"
+msgstr "Sai'den parıltıyı getirmesi istensin mi?"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.event_react_fail_puzzle.choice.Ask Sai to get the shiny?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.event_react_fail_puzzle.choice.Ask Sai to get the shiny?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Alright... knock yourself out."
+msgstr "Peki o zaman... Yap da görelim."
+
+msgid "Be right back!"
+msgstr "Hemen dönerim!"
+
+msgid "Moments later..."
+msgstr "Bir süre sonra..."
+
+msgid "Easy peasy."
+msgstr "Peh,çocuk oyuncağıydı."
+
+msgid "Still not interested."
+msgstr "Hala ilgilenmiyorum."
+
+msgid "No, I want to do it myself."
+msgstr "Hayır,bunu kendim yapmak istiyorum."
+
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgid "Nothing happens."
+msgstr "Hiçbir şey olmadı."
+
+msgid "An elevator door."
+msgstr "Bir asansör kapısı."
+
+msgid "There's a massive gap on the floor. You can't reach the door."
+msgstr "Yerde büyük bir delik var. Kapıya ulaşamazsın."
+
+msgid "The plank allows you to cross freely."
+msgstr "Bir tahta parçası kolayca geçmeni sağlar."
+
+msgid "I've seen another hole that could use a plank like this..."
+msgstr "Bu tarz bir tahtayı kullanabilecek başka bir delik daha gördüm..."
+
+msgid "Move the plank to the other hole?"
+msgstr "Tahta diğer deliğe taşınsın mı?"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.misc_unreachable_door.choice.Move the plank to the other hole?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.misc_unreachable_door.choice.Move the plank to the other hole?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Uugh... This is really heavy..."
+msgstr "Ihhğğ... Harbi ağır be..."
+
+msgid "Hey, let me carry that."
+msgstr "Heey,izin ver de ben taşıyayım."
+
+msgid "Since you removed the plank, you can't cross anymore."
+msgstr "Tahtayı kaldırdıktan sonra karşıya geçemezsin."
+
+msgid "It's locked."
+msgstr "Kilitli."

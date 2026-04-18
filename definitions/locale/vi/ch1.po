@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"This is a demo.\n"
+"It might not properly represent the quality of the final product."
+msgstr ""
+"Đây là bản demo.\n"
+"Phiên bản này có thể không tiêu biểu chính xác cho chất lượng của sản phẩm cuối cùng."
+
+msgid ""
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"Trò chơi này có thể chứa ánh sáng và hiệu ứng chớp nháy,\n"
+"cùng với nội dung có miêu tả bạo lực và ngôn từ thô lỗ."
+
+msgid "Video Creators and Streamers"
+msgstr "Các Nhà Sáng tạo Video và Các Streamer"
+
+msgid "Commenters and Reviewers"
+msgstr "Những Người Bình luận và Đánh giá"
+
+msgid "Our Families and Friends"
+msgstr "Gia đình và Bạn bè Chúng tôi"
+
+msgid "Additional Thanks"
+msgstr "Thêm lời cảm ơn"
+
+msgid "To our fans for waiting patiently"
+msgstr "Cho fan chúng tôi vì đã kiên nhẫn chờ đợi"
+
+msgid "To Kaiyo's mom and dad for their unwavering support"
+msgstr "Cho ba và mẹ của Kaiyo vì đã giúp đỡ không ngừng nghỉ"
+
+msgid "To those who sent an encouraging email"
+msgstr "Cho những người đã gửi thư động viên"
+
+msgid "And to You!"
+msgstr "Và cho Bạn!"
+
+msgid "Thank you for playing..."
+msgstr "Cảm ơn bạn đã chơi..."
+
+msgid "See you in Chapter 2!"
+msgstr "Hẹn gặp lại trong Chương 2!"
+
+msgid "Miss Knives Original Design"
+msgstr "Thiết kế Nguyên bản Chị Dao"
+
+msgid "Miss Knives Contest Winners"
+msgstr "Những Người thắng Cuộc thi Vẽ Chị Dao"
+
+msgid "Cabbage Masters"
+msgstr "Các Bậc thầy Cải bắp"
+
+msgid ""
+"Note from the devs:\n"
+"Congratulations for getting this far in the Paper Lily story!\n"
+"Thank you so much for your support and enthusiasm for this little world we created. Please don't hesitate to leave a review if you have the time, it helps immensely.\n"
+"\n"
+"We're still only two idiots making this game, so if you want to support future development please consider purchasing the supporter pack!"
+msgstr ""
+"Lời nhắn từ các dev:\n"
+"Chúc mừng bạn đã đi xa đến thế này trong câu chuyện Paper Lily!\n"
+"Vô cùng cảm ơn bạn đã ủng hộ và có lòng nhiệt tình cho cái thế giới bé nhỏ mà chúng tôi tạo ra này. Nếu có thời gian, đừng ngại ngần để lại đánh giá bạn nhé, sẽ giúp được nhiều lắm.\n"
+"\n"
+"Chúng tôi vẫn chỉ là hai kẻ ngốc nghếch làm con game này, thành thử nếu bạn muốn hỗ trợ việc phát triển trong tương lai thì bạn hãy cân nhắc việc mua gói supporter nha!"
+
+msgid "True End 1-1 - Against All Odds"
+msgstr "Kết Đúng 1-1 – Chấp Mọi Trắc Trở"
+
+msgid "Change into uniform"
+msgstr "Thay sang đồng phục"
+
+msgid "Change into indoor clothes"
+msgstr "Thay sang đồ mặc ở nhà"
+
+msgid "Don't change"
+msgstr "Không thay đồ"
+
+msgid "Things to do"
+msgstr "Mấy điều cần làm"
+
+msgid "(before I die)"
+msgstr "(trước khi chết)"
+
+msgid "- Go out"
+msgstr "- Ra ngoài"
+
+msgid "- Eat the meal mom left me"
+msgstr "- Ăn bữa mẹ để lại"
+
+msgid "- Fill up the bird feeder"
+msgstr "- Đổ đầy đồ cho chim ăn"
+
+msgid "- Feed my Tamaghost"
+msgstr "- Cho TamaGhost ăn"
+
+msgid "- Say goodbye to Hiro"
+msgstr "- Chào từ biệt anh trai"
+
+msgid "A coffee and a flan"
+msgstr "Một cà-phê với một flan"
+
+msgid "A coffee and macarons"
+msgstr "Một cà-phê với bánh macaron"
+
+msgid "A coffee and an eclair"
+msgstr "Một cà-phê với một éclair"
+
+msgid "A tea and a flan"
+msgstr "Một trà với một flan"
+
+msgid "A tea and macarons"
+msgstr "Một trà với bánh macaron"
+
+msgid "A tea and an eclair"
+msgstr "Một trà với một éclair"
+
+msgid "A milkshake and a flan"
+msgstr "Một sữa lắc với một bánh flan"
+
+msgid "A milkshake and macarons"
+msgstr "Một sữa lắc với bánh macaron"
+
+msgid "A milkshake and an eclair"
+msgstr "Một sữa lắc với một éclair"
+
+msgid "???"
+msgstr "???"
+
+msgid "Girl A"
+msgstr "Đứa gái A"
+
+msgid "Girl B"
+msgstr "Đứa gái B"
+
+msgid "Man"
+msgstr "Người nam"
+
+msgid "Lady"
+msgstr "Người nữ"
+
+msgid "Child"
+msgstr "Đứa con"
+
+msgctxt "misc.characters.npc_f"
+msgid "Mother"
+msgstr "Người mẹ"
+
+msgid "Student"
+msgstr "Học sinh"
+
+msgid "Bully"
+msgstr "Đứa bắt nạt"
+
+msgid "Everyone"
+msgstr "Cả đám"
+
+msgctxt "misc.characters.mother"
+msgid "Mother"
+msgstr "Mẹ"
+
+msgid "Father"
+msgstr "Ba"
+
+msgid "Neighbor"
+msgstr "Hàng xóm"
+
+msgid "Long-Faced Monster"
+msgstr "Quái vật Mặt Dài"
+
+msgid "One-Eyed Monster"
+msgstr "Quái vật Một Mắt"
+
+msgid "Doctor?"
+msgstr "Bác sĩ?"
+
+msgid "Voice 1"
+msgstr "Giọng nói 1"
+
+msgid "Voice 2"
+msgstr "Giọng nói 2"
+
+msgid "Voice 3"
+msgstr "Giọng nói 3"
+
+msgid "Prisoner"
+msgstr "Tù phạm"
+
+msgid "Miss Knives (Young)"
+msgstr "Chị Dao (Trẻ)"
+
+msgid "Iris"
+msgstr "Iris"
+
+msgid "Boy 1"
+msgstr "Đứa trai 1"
+
+msgid "Boy 2"
+msgstr "Đứa trai 2"
+
+msgid "Boy 3"
+msgstr "Đứa trai 3"

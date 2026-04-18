@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's this supposed to be? Do you guys sleep here?"
+msgstr "Какво трябва да е това?"
+
+msgid "Obviously not."
+msgstr "Очевидно не."
+
+msgid "I can't believe this, are you five years old?"
+msgstr "Не мога да повярвам, да не си на пет?"
+
+msgid "Isn't it interesting how electronics work?"
+msgstr "Не ли е интересно как работи електрониката?"
+
+msgid "But they DON'T work! Not anymore!"
+msgstr "Но те НЕ работят! Вече не!"
+
+msgid "I think you're wasting your breath..."
+msgstr "Мисля, че си губиш дъха..."
+
+msgid ""
+"\"Roses are red\n"
+"Violets are probably violet\""
+msgstr ""
+"\"Розите са червени,\n"
+"Теменужките вероятно са виолетови\""
+
+msgid ""
+"\"My love for you sparkles\n"
+"Like the glow of a diamond\""
+msgstr ""
+"\"Любовта ми за твоите искри\n"
+"растат като диамант\""
+
+msgid ""
+"\"I watch you every day\n"
+"I watch you every night\""
+msgstr ""
+"\"Ще те наблюдавам всеки ден\n"
+"Ще те гледам всяка нощ\""
+
+msgid "\"I watch you\""
+msgstr "\"Ще те наблюдавам\""
+
+msgid "\"I watch you I watch you I watch you I watch you I watch you I watch you\""
+msgstr "\"Гледам те, гледам те, гледам те, гледам те, гледам те гледам те\""
+
+msgid "The other side of the paper is filled with black scribbles."
+msgstr "Обратната страна на хартията е запълнена с черни драсканици."
+
+msgid "That... doesn't sound right."
+msgstr "Това… не звучи редно."
+
+msgid "Is... everyone in your club okay?"
+msgstr "Всички… наред ли са в клуба ви?"
+
+msgid "Right now, I'm not sure..."
+msgstr "Точно сега, не съм сигурна…"
+
+msgid "I'd rather people didn't find out I was here."
+msgstr "Предпочитам хората да не научат, че съм тук."
+
+msgid "Please don't mess up this room..."
+msgstr "Моля те, не разваляй тази стая..."
+
+msgid "A pile of neatly folded drapes."
+msgstr "Купчина грижливо сгънати пердета."
+
+msgid "Take them?"
+msgstr "Вземи ги?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "This could be useful."
+msgstr "Това може да се окаже полезно."
+
+msgid "You don't need this anymore."
+msgstr "Това вече не ти трябва."
+
+msgid "Those poor boxes probably don't deserve it."
+msgstr "Горките кутии вероятно не го заслужават."
+
+msgid "Oh how I wish..."
+msgstr "О как ми се иска…"
+
+msgid "..."
+msgstr "..."
+
+msgid "Alright, let's see..."
+msgstr "Добре, да видим…"
+
+msgid "There's a ton of useless objects in the boxes and..... a letter."
+msgstr "Има хиляди полезни предмети в тези кутии и… писмо."
+
+msgid "Read it?"
+msgstr "Прочети го?"
+
+msgid "They're already open."
+msgstr "Вече са отворени."
+
+msgid "There's no point in brandishing your scissors at them. They're already open."
+msgstr "Няма смисъл да размахвате ножиците си срещу тях. Те вече са отворени."
+
+msgid "Some blankets are sprawled all over the floor."
+msgstr "Няколко одеяла са пръснати по пода."
+
+msgid "They are too heavy to use as curtains."
+msgstr "Твърде тежки са за да ги ползваме като завеси."
+
+msgid "A large pile of cardboard boxes sealed with tape."
+msgstr "Голяма купчина картонени кутии затворени с тиксо."
+
+msgid "There's nothing else of interest in them."
+msgstr "Няма нищо друго, което да представлява интерес."
+
+msgid "Read the letter?"
+msgstr "Прочети писмото?"
+
+msgid "Some cardboard boxes full of neatly folded costumes."
+msgstr "Някои картонени кутии пълни с прилежно сгънати костюми."
+
+msgid "Chairs. No time to rest right now."
+msgstr "Столове. Няма време за почивка точно сега."
+
+msgid "A chalkboard. There's a smiley face drawn on it."
+msgstr "Има усмихнато лице нарисувано на него."
+
+msgid "A chalkboard. The letter F is written on it."
+msgstr "Буквата Ф е написана върху него."
+
+msgid "A chalkboard. I can't tell what's drawn on it."
+msgstr "Не мога да кажа какво е написано върху него."
+
+msgid "A chalkboard. There are stars drawn on it."
+msgstr "Има звезди нарисувани върху него."
+
+msgid "Did you draw this?"
+msgstr "Ти ли го нарисува?"
+
+msgid "Do I look like the only member of this club?"
+msgstr "Изглеждам ли като единствения член на този клуб?"
+
+msgid "So... did you draw this?"
+msgstr "Така че... нарисува ли го?"
+
+msgid "...Maybe I did."
+msgstr "…Може и да съм."
+
+msgid "A chalkboard. The word \"THIEF\" is written on it."
+msgstr "Черна дъска. думата \"КРАДЕЦ\" е изписана върху нея."
+
+msgid "A chalkboard. There's... something drawn on it."
+msgstr "Черна дъска. Има… нещо нарисувано на нея."
+
+msgid "Where did they find red chalk...?"
+msgstr "Къде за бога са открили червен тебешир...?"
+
+msgid "A soft red curtain."
+msgstr "Меко червено перде."
+
+msgid "Draw curtain?"
+msgstr "Издърпайте завесата?"
+
+msgid "Take them out?"
+msgstr "Издърпайте ги?"
+
+msgid "There's some paint and brushes in the drawer."
+msgstr "Има малко боя и четки в чекмеджето."
+
+msgid "There are various makeup kits and accessories in the drawer."
+msgstr "В чекмеджето има различни комплекти за грим и аксесоари."
+
+msgid "It's not working."
+msgstr "Не работи."
+
+msgid "It's not working anymore."
+msgstr "Вече не работи."
+
+msgid "Several hand made costumes are hanging from the rack."
+msgstr "Няколко ръчно направени костюми висят от стойката за дрехи."
+
+msgid "Blegh, they have poor taste in clothes."
+msgstr "Блех, имат лош вкус за дрехи."
+
+msgid "You DO know these are for acting, right...?"
+msgstr "Знаеш, че те са за актьорско майсторство, нали...?"
+
+msgid "A rack with various hats and scarves."
+msgstr "Стелаж с различни шапки и шалове."
+
+msgid "A table with a blank sheet of poster paper and some colored pencils."
+msgstr "Маса с празен лист хартия за плакати и няколко цветни молива."
+
+msgid "Is this what you do here?"
+msgstr "Това ли правите тук?"
+
+msgid "If it's a drawing club, maybe I'll join, too."
+msgstr "Ако това е клуб по рисуване, може също и да се присъединя."
+
+msgid "Please don't."
+msgstr "Моля те недей."
+
+msgid "There's really no incentive to check out the contents of the trash can."
+msgstr "Наистина няма стимул да проверявате съдържанието на кофата за боклук."

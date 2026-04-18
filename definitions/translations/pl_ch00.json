@@ -1,0 +1,18 @@
+{
+	"Locale": "pl",
+	"Name": "Polski - by Tegron & MegoBari",
+	"Credit": "Translated by Tegron & MegoBari",
+	"Website": "",
+	"Path": "pl",
+	"Disclaimer": true,
+	"UseContext": false,
+	"ResourceRemaps": {
+		"res://resources/font/dialogue_creepy.tres": "res://translation-resources/pl/dialogue_creepy.tres",
+		"res://assets/img/cg/prologue/instructions1.png": "res://translation-resources/pl/instructions1.png",
+		"res://assets/img/cg/prologue/instructions2.png": "res://translation-resources/pl/instructions2.png"
+	},
+	"Compatibility": [
+		"Lacie Engine",
+		"Project Kat"
+	]
+}

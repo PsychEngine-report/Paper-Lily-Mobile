@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You made it!"
+msgstr "Başardın!"
+
+msgid "You must be really good at dodging spikes."
+msgstr "Dikenleri ıskalamakta usta olmalısın."
+
+msgid "Thank you."
+msgstr "Teşekkürler."
+
+msgid "(He seems friendly...)"
+msgstr "(Arkadaş canlısı gibi görünüyor.)"
+
+msgid "I'm surprised you're talking to me... this much."
+msgstr "Aslında senin benimle bu kadar... fazla konuştuğuna şaşırdım"
+
+msgid "Talking is an important means of communication, no?"
+msgstr "Konuşmak iletişim kurmanın en iyi yoludur, değil mi?"
+
+msgid "Well yes... but-"
+msgstr "Yani, evet... ama-"
+
+msgid "You talk as well!"
+msgstr "Sen de konuşuyorsun!"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "I do."
+msgstr "Evet, konuşuyorum."
+
+msgid "But you're... What exactly are you?"
+msgstr "Ama sen... tam olarak nesin ki?"
+
+msgid "My name is Rune and I like runes!"
+msgstr "Benim adım Rün ve rün taşlarını severim!"
+
+msgid "Do you have any runes?"
+msgstr "Sende hiç rün taşı var mı?"
+
+msgid "(Do I have any runes?)"
+msgstr "(Bende hiç rün taşı var mı?)"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.choice.(Do I have any runes?)"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.choice.(Do I have any runes?)"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Yes, I do."
+msgstr "Evet, var"
+
+msgid "Amazing! Please give them to me!"
+msgstr "Muhteşem! Lütfen bana ver onları!"
+
+msgid "I don't."
+msgstr "Hayır, bende hiç yok."
+
+msgid "Is that so."
+msgstr "Öyle mi.."
+
+msgid "Are you lying?"
+msgstr "Yalan mı söylüyorsun?"
+
+msgid "N-no... I don't have any runes."
+msgstr "H-hayır...bende hiç rün yok。"
+
+msgid "Interesting."
+msgstr "İlginç."
+
+msgid "Humans are quite peculiar."
+msgstr "İnsanlar fazlasıyla acayip."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "..."
+msgstr "..."
+
+msgid "Well...!"
+msgstr "Şey...!"
+
+msgid "That's terrible!"
+msgstr "Bu çok kötü oldu!"
+
+msgid "In the future, if you have any runes, please bring them to me!"
+msgstr "Eğer ileriki zamanlarda, hiç rün bulursan, lütfen onları bana getir!"
+
+msgid "I will give you trinkets in exchange!"
+msgstr "Ben de karşılığında işine yarar birkaç eşya vereceğim!"
+
+msgid "Okay."
+msgstr "Tamamdır."
+
+msgid "So... are you some kind of spirit?"
+msgstr "Eee... sen bir tür ruh falan mısın?"
+
+msgid "Not exactly!"
+msgstr "Tam olarak değil!"
+
+msgid "We've gone by many names in the past."
+msgstr "Geçmişte bize çok fazla isim takıldı."
+
+msgid "But humans often refer to us as \"demons\"."
+msgstr "Ama insanlar bize genellikle \"iblis\" diye hitap eder."
+
+msgid "What is your name?"
+msgstr "Senin adın ne?"
+
+msgid "Lacie."
+msgstr "Lacie."
+
+msgid "Miss Lacie!"
+msgstr "Bayan Lacie!"
+
+msgid "Rare to see a human around here! How exciting!"
+msgstr "Burada nadiren bir insan görülür! Ne kadar heyecan verici!"
+
+msgid "You ARE human, aren't you?"
+msgstr "Gerçektende İNSANSIN, değil mi?"
+
+msgid "Yes. You can tell?"
+msgstr "Aynen. Çok mu belli?"
+
+msgid "A little bit."
+msgstr "Birazcık."
+
+msgid "A little bit?"
+msgstr "Birazcık mı?"
+
+msgid "Some of us may have the appearance of a human, but it's easy to tell the difference with a real one!"
+msgstr "Bazılarımız bir insanın görünüşüne sahip olabilir, ama gerçek olanıyla farkı anlamak kolaydır!"
+
+msgid "You however..."
+msgstr "Fakat sen..."
+
+msgid "...What about me?"
+msgstr "...Fakat ben?"
+
+msgid "Even though you're a human, you smell a bit like..."
+msgstr "İnsan olsan dahi, birazcık şey kokuyorsun..."
+
+msgid "I can't speak of them, but... it's someone veeeery bad."
+msgstr "Onun hakkında konuşamam, ama... çooooook şeytani birisi."
+
+msgid "Who is it?"
+msgstr "Kim ki?"
+
+msgid "It's 1000 years of bad luck to talk about it."
+msgstr "Bunun hakkında konuşmak 1000 yıllık kötü şans getirir."
+
+msgid "Please, I really need help."
+msgstr "Lütfen, gerçekten yardıma ihtiyacım var."
+
+msgid "Um..."
+msgstr "Ah..."
+
+msgid "I know... that there's something off about me."
+msgstr "Biliyorum... bende birşeyler yanlış."
+
+msgid "I did this ritual to find out what it is... and how to fix it."
+msgstr "Bu ritüeli neyin yanlış olduğunu bulmak için yaptım... ve birde bunu nasıl düzelteceğimi."
+
+msgid "I see."
+msgstr "Anlıyorum."
+
+msgid "For a moment I thought I might be possessed but..."
+msgstr "Bir an bir cin tarafından kontrol edildiğimi sandım, ama..."
+
+msgid "Ooh."
+msgstr "Aah."
+
+msgid "Nonsense, possessions are an outdated concept."
+msgstr "Saçmalık, kontrol edilmek artık eski moda."
+
+msgid "Then do you know what it could be?"
+msgstr "Peki sence ne olabileceğini biliyor musun?"
+
+msgid "A curse!"
+msgstr "Bir lanet!"
+
+msgid "What?"
+msgstr "Ne?"
+
+msgid "99 percent of illnesses here are curses!"
+msgstr "Burada olan hastalıkların yüzde 99'u lanettir!"
+
+msgid "What's the other 1 percent?"
+msgstr "Peki ya diğer yüzde 1?"
+
+msgid "What a silly question, there is no 1 percent!"
+msgstr "Ne kadar şapşalca bir soru, diğer yüzde 1'i yok ki!"
+
+msgid "...Oh..."
+msgstr "...Ah..."
+
+msgid "(So it's just 100 percent...?)"
+msgstr "(O zaman sadece yüzde yüz?)"
+
+msgid "Do you know how I can lift this curse?"
+msgstr "Bu laneti nasıl kaldırabilirim biliyor musun?"
+
+msgid "You should seek Red! Red lifts curses!"
+msgstr "Red'i bulmalısın! Burada lanetleri Red kaldırır!"
+
+msgid "How can I find Red?"
+msgstr "Red'i nasıl bulabilirim?"
+
+msgid "Incidentally, this is Red's treehouse."
+msgstr "İronik olarak, burası Red'in ağaç evi."
+
+msgid "This? But there's nobody in there."
+msgstr "Gerçekten mi? Ama burada kimse yok."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "Indeed, Red hasn't been in there for a long time."
+msgstr "Aynen öyle, Red buraya uzun zamandır uğramadı."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "I see..."
+msgstr "Anladım..."
+
+msgid "Yeah, I saw the sign earlier."
+msgstr "Evet, az önce tabelayı gördüm."
+
+msgid "I guess I should check it out."
+msgstr "Sanırım gidip bir bakmalıyım."
+
+msgid "Thank you, Rune."
+msgstr "Teşekkür ederim, Rün."
+
+msgid "You're welcome, Miss Lacie!"
+msgstr "Rica ederim, Bayan Lacie!"
+
+msgid "Good luck, Miss Lacie!"
+msgstr "İyi şanslar, Bayan Lacie!"
+
+msgid "Hello again Miss Lacie!"
+msgstr "Tekrardan selam Bayan Lacie!"
+
+msgid "Red wasn't there."
+msgstr "Red burada değildi."
+
+msgid "Why didn't you tell me?"
+msgstr "Neden bana söylemedin?"
+
+msgid "You didn't ask."
+msgstr "Sormadın ki."
+
+msgid "That's true, I suppose."
+msgstr "Sanırım bu doğru."
+
+msgid "Do you know of another way I could find Red?"
+msgstr "Red'i bulmamın başka bir yolu var mı?"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "I do."
+msgstr "Evet, var."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Would you like to share it with me?"
+msgstr "Benimle paylaşmak ister misin?"
+
+msgid "Sure!"
+msgstr "Tabi ki!"
+
+msgid "There's a lighthouse to the north of the big tree. Red goes there a lot!"
+msgstr "Büyük ağacın kuzeyinde bir deniz feneri var. Red oraya sıklıkla uğrar!"
+
+msgid "Have you seen the big tree? It's very large, you can't miss it."
+msgstr "Büyük ağacı gördün mü? Kendisi kocaman, görmemek elde değil."
+
+msgid "Yes, I have."
+msgstr "Evet, gördüm."
+
+msgid "Well, you have to head north to reach the lighthouse, but it's quite a long walk."
+msgstr "Şey, deniz fenerine ulaşmak için kuzeye gitmelisin, çok uzun bir yürüyüş olacak."
+
+msgid "It's right past the lake."
+msgstr "Gölün hemen ilerisinde"
+
+msgid "But... the only way to go north from here is to go through the locked site."
+msgstr "Ama... buradan kuzeye giden tek yok kilitli site."
+
+msgid "Locked site?"
+msgstr "Kilitli site mi?"
+
+msgid "Near the big tree there's a locked gate. If you go through there you'll be at the lake in no time."
+msgstr "Büyük ağacın hemen yanında kilitli bir geçit var. Eğer oradan ilerlersen hemencecik göle ulaşırsın."
+
+msgid "But it's quite dangerous in there."
+msgstr "Ama orası tehlikeli duruyor."
+
+msgid "And you'll need a light. Since it's also very dark."
+msgstr "Ve bir el fenerine ihtiyacın olacak. Çünkü baya da karanlık."
+
+msgid "I see. Thank you for all of this information."
+msgstr "Anladım. Bütün bu bilgiler için teşekkürler."
+
+msgid "I expected...\"demons\" such as yourself to be more hostile."
+msgstr "Senin gibi \"iblislerin\" daha çok... saldırgan olmasını beklemiştim."
+
+msgid "That is a fair expectation!"
+msgstr "Bu tamamen normal!"
+
+msgid "One that you should keep."
+msgstr "Bilmen gereken bir şey daha var."
+
+msgid "If anyone finds out you're human, they will kill you instantly."
+msgstr "Eğer herhangi biri insan olduğunu öğrenirse, seni gördüğü yerde öldürür."
+
+msgid "Take care!"
+msgstr "Kendine iyi bak!"
+
+msgid "So..."
+msgstr "Eee..."
+
+msgid "Why aren't you hostile?"
+msgstr "Sen niye saldırgan değilsin?"
+
+msgid "Why do you collect runes?"
+msgstr "Neden rün taşlarını topluyorsun?"
+
+msgid "Red's treehouse?"
+msgstr "Red'in ağaç evi mi?"
+
+msgid "What will I find at the lighthouse?"
+msgstr "Deniz fenerinde neler ile karşılaşacağım?"
+
+msgid "What is inside the locked site?"
+msgstr "Kilitli sitenin içinde ne var?"
+
+msgid "Never mind"
+msgstr "Boş ver."
+
+msgid "How come you aren't hostile like other demons?"
+msgstr "Peki sen nasıl diğer iblisler gibi saldırgan değilsin?"
+
+msgid "I am simply well-fed."
+msgstr "Basitçe söylersek iyi beslendim."
+
+msgid "As for runes, why do you collect them?"
+msgstr "Rün taşlarına gelince, onları neden topluyorsun?"
+
+msgid "I like runes!"
+msgstr "Rünleri seviyorum!"
+
+msgid "What are you doing with them?"
+msgstr "Onlarla ne yapıyorsun?"
+
+msgid "Liking them."
+msgstr "Seviyorum."
+
+msgid "Is that why your name is Rune?"
+msgstr "O yüzden mi adın Rün?"
+
+msgid "I might have had another name once, but I don't recall."
+msgstr "Eskiden başka bir isme sahip olmuş olabilirim, ama hatırlamıyorum."
+
+msgid "Why do you call this place \"Red's treehouse\"? This house is not in a tree."
+msgstr "Neden bu yere \"Red'in Ağaç evi\" diyorsun? Bu ev ağacın üstünde değil"
+
+msgid "But the house is MADE of tree."
+msgstr "Ama ev AĞAÇTAN yapılma."
+
+msgid "Do you mean wood?"
+msgstr "Odundan mu demek istedin?"
+
+msgid "No...?"
+msgstr "Hayır...?"
+
+msgid "You are so odd, Miss Lacie!"
+msgstr "Çok garipsiniz, Bayan Lacie!"
+
+msgid "Will I find Red at the lighthouse?"
+msgstr "Red'i deniz fenerinde bulacak mıyım?"
+
+msgid "Maybe. Red often goes there."
+msgstr "Belki de. Red oraya sıklıkla gider."
+
+msgid "What if Red isn't there?"
+msgstr "Peki ya Red orada değise?"
+
+msgid "The lighthouse owner is a friend of Red's, he'll know how to guide you!"
+msgstr "Deniz fenerinin sahibi Red'in arkadaşı, o sana yolu gösterir!"
+
+msgid "He will not eat you, don't worry!"
+msgstr "Endişelenme, seni ısırmaz!"
+
+msgid "That's good."
+msgstr "Bunu duymak rahatlatıcı."
+
+msgid "What's behind that fence? In the locked site?"
+msgstr "Bu çitin ardında ne var? Kilitli sitenin içinde yani?"
+
+msgid "Mainly just forest and...a monster."
+msgstr "Genel olarak sadece bir orman... ve bir canavar."
+
+msgid "A monster???"
+msgstr "Bir canavar derken???"
+
+msgid "It's okay, he won't kill you unless he sees you or hears you!"
+msgstr "Sorun yok, seni görmedikçe ve duymadıkça seni öldürmezz!"
+
+msgid "It's very dark in there so you'll need a bit of light. If you hear him approaching, you should hide!"
+msgstr "İçerisi oldukça karanlık, bu yüzden biraz ışığa ihtiyacın olacak. Eğer yaklaştığını duyarsan, saklanmalısın!"
+
+msgid "That doesn't sound safe. Is it really the only way to the lighthouse?"
+msgstr "Bu kulağa pek güvenli gelmiyor. Gerçektende deniz fenerine tek gidiş orası mı?"
+
+msgid "It's the only way I know of."
+msgstr "Bildiğim tek yol orası"
+
+msgid "How did you cross the bridge to get all the way here?"
+msgstr "Buraya kadar gelebilmek için köprüyü nasıl geçtin?"
+
+msgid "I walked."
+msgstr "Yürüdüm."
+
+msgid "But... You didn't set off any traps?"
+msgstr "Ama... hiç tuzak falan tetiklemedin mi?"
+
+msgid "I must have missed them."
+msgstr "Iskalamış olmalıyım."
+
+msgid "Do you live here?"
+msgstr "Burada mı yaşıyorsun?"
+
+msgid "Nope!"
+msgstr "Yok!"
+
+msgid "I move around a lot."
+msgstr "Bir yerden bir yere sıklıkla gidiyorum."
+
+msgid "Why did you come here to Red's treehouse?"
+msgstr "Neden Red'in ağaç evine geldin?"
+
+msgid "I'm looking for more runes!"
+msgstr "Daha çok rün taşları arıyorum!"
+
+msgid "Rune is humming a tune."
+msgstr "Rün bir melodi mırıldanıyor"
+
+msgid "It sounds very off-key."
+msgstr "Sesi çok detone çıkıyor."
+
+msgid "An empty box with a crow on top."
+msgstr "Üzerinde karga olan boş bir kutu."
+
+msgid "This one decided to stay."
+msgstr "Bu karga kalmayı tercih etti."
+
+msgctxt "events.Ch1_Forest_Red.event_birdbox_save.dlg.narrator"
+msgid "This isn't the time for that."
+msgstr "Şimdi bunun sırası değil."
+
+msgid "That was a close one."
+msgstr "Bu çok yakındı."
+
+msgid "You almost had it!"
+msgstr "Neredeyse gidiyordun!"
+
+msgid "Will you be okay?"
+msgstr "İyi olacak mısın?"
+
+msgid "Maybe not."
+msgstr "Belki de hayır."
+
+msgid "Ouch."
+msgstr "Of."
+
+msgid "The trick is to not touch the spikes!"
+msgstr "İşin sırrı dikenlere dokunmamak!"
+
+msgid "Everyone dies there."
+msgstr "Burada herkes ölür."
+
+msgid "Oh well."
+msgstr "Peki o zaman."
+
+msgid "Try Again?"
+msgstr "Tekrar dene?"
+
+msgid "Retry"
+msgstr "Yeniden dene."
+
+msgid "Skip"
+msgstr "Geç"
+
+msgid "Give Up"
+msgstr "Pes Et"
+
+msgid "What the... a trap?"
+msgstr "Bu da ne... bir tuzak mı?"
+
+msgid "That was dangerous... why are there traps here?"
+msgstr "Bu tehlikeliydi... neden burada tuzak var?"
+
+msgid "Ooh! An interesting character appears!"
+msgstr "Vaay! İlginç bir karakter ortaya çıkıyor!"
+
+msgid "(Someone's there?)"
+msgstr "(Orada biri mi var?)"
+
+msgid "Nobody has come in a long time!"
+msgstr "Buraya kimse çoktandır gelmemişti!"
+
+msgid "I hope you can make it over here!"
+msgstr "Umarım buraya kadar gelebilirsin!"
+
+msgid "Almost there!"
+msgstr "Neredeyse vardın!"
+
+msgid "Be careful not to die."
+msgstr "Ölmemeye dikkat et."
+
+msgid "How much longer is this path?"
+msgstr "Bu yolun bitmesine daha ne kadar var?"
+
+msgid "Only 'till you get here!"
+msgstr "Sen oraya gelinceye kadar!"
+
+msgctxt "events.Ch1_Forest_Red.event_rune_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Don't jump!"
+msgstr "Atlama!"
+
+msgid "You have so much to live for..."
+msgstr "Daha ölmek için çok gençsin..."
+
+msgid "...Eh?"
+msgstr "...Ha?"
+
+msgid "Oh! I wasn't..."
+msgstr "Ah! Ben öyle bir şey..."
+
+msgid "Be careful with the traps!"
+msgstr "Tuzaklara dikkat et!"
+
+msgid "There's more!?"
+msgstr "Daha fazlası mı var?"
+
+msgid "Good luck!"
+msgstr "İyi şanslar!"
+
+msgctxt "events.Ch1_Forest_Red.event_rune_bridge_talk_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I want to check out the house first...)"
+msgstr "(Önce evi kontrol etmek istiyorum...)"
+
+msgid "Wow! Thank you! You can have something in return!"
+msgstr "Vay canına! Teşekkürler! Karşılığında bir şey alabilirsin! "
+
+msgid "What am I supposed to do with this?"
+msgstr "Bununla ne yapmam gerekiyor?"
+
+msgid "Dunno! Maybe it will come in handy."
+msgstr "Bilmem! Belki ileride işe yarar."
+
+msgid "Yay! Another one!"
+msgstr "Oley! başka birtane!"
+
+msgid "Here's another trinket."
+msgstr "Al sana başka bir ıvır zıvır."
+
+msgid "Wow... this actually looks useful."
+msgstr "Vay...bu aslında kullanışlı duruyor."
+
+msgid "Wow! You're amazing! Thank you!"
+msgstr "Vay! Harikasın! Teşekkür ederim!"
+
+msgid "I gotta say, you have terrible manners!"
+msgstr "Söylemeliyim ki, edep ahlakın berbat!!"
+
+msgid "Uhm... I'm sorry."
+msgstr "Ah... üzgünüm."
+
+msgid "Ignoring me like that, after I cheered for you to get here and everything!"
+msgstr "Beni öylece görmezden gelmen, oysa ki buraya gelmen için o kadar tezahürat yapmıştım!"
+
+msgid "(You didn't exactly help though...)"
+msgstr "(Tam olarak yardımcı olmadın ama...)"
+
+msgid "I was just curious about the house here."
+msgstr "Sadece buradaki evi merak etmiştim"
+
+msgid "Let's start over. What's your name?"
+msgstr "Hadi baştan başlayalım. Adın nedir?"
+
+msgid "What should I do with this?"
+msgstr "Bununla ne yapmalıyım?"
+
+msgid "I'm not sure!"
+msgstr "Emin değilim!"
+
+msgid "Maybe you could cut things that need cutting."
+msgstr "Belkide kesilmesi gereken şeyleri kesmelisin."
+
+msgid "Isn't it nice? It's a bug net. For catching bugs."
+msgstr "Çok hoş değil mi? Bu bir böcek ağı. Böcek yakalamak için."
+
+msgid "There are other kinds of nets, but this one is for catching bugs."
+msgstr "Başka tür ağlar da var, ama bu böcek yakalamak için."
+
+msgid "This candle... is from the lighthouse!"
+msgstr "Bu mum... deniz fenerinden!"
+
+msgid "What? Really?"
+msgstr "Ne? Gerçeten mi?"
+
+msgid "(Did I just miss my chance to get to the lighthouse faster...?)"
+msgstr "(Az önce deniz fenerine daha hızlı gitme şansımı mı kaçırdım...?)"
+
+msgid "Do you collect doorknobs, Miss Lacie?"
+msgstr "Kapı kolu mu topluyorsun, Bayan Lacie?"
+
+msgid "Personally I prefer runes, but to each their own!"
+msgstr "Ben şahsen rünleri tercih ederim, ama herkesin kendi tercihi!"
+
+msgid "Alba sells nice fish!"
+msgstr "Alba lezzetli balık satar!"
+
+msgid "She also gives me runes sometimes, in exchange for coins."
+msgstr "O da bana bazen rün verir, para karşılığında"
+
+msgid "She's a very nice person!"
+msgstr "O çok kibar biri!"
+
+msgid "How many coins does she charge you?"
+msgstr "Senden kaç para istiyor ki?"
+
+msgid "Usually about 40 coins."
+msgstr "Genellikle 40 bozukluk civarı."
+
+msgctxt "events.Ch1_Forest_Red.item_fish_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Rune, I think she might be ripping you off."
+msgstr "Rün, bence seni kazıklıyor olabilir."
+
+msgid "Not a chance! I really love runes!"
+msgstr "Hiçte bile! Rünleri gerçekten severim!"
+
+msgid "An artist's inspiration!"
+msgstr "Bir sanatçının ilhamı!"
+
+msgctxt "events.Ch1_Forest_Red.item_flower_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I heard it can be quite valuable."
+msgstr "Duydum ki gayet değerliymiş."
+
+msgid "Artist's Inspiration"
+msgstr "Sanatçının İlhamı"
+
+msgid "Apparently, that's the flower's name."
+msgstr "Görünüşe göre, çiçeğin ismi bu."
+
+msgid "Oh, that would make a nice container for something!"
+msgstr "Ah, bu bir şey için iyi bir saklama kabı yapar!"
+
+msgid "Like what?"
+msgstr "Ne gibi?"
+
+msgid "I don't know."
+msgstr "Bilmem."
+
+msgid "Did you put fireflies inside?"
+msgstr "İçine ateş böcekleri mi koydun?"
+
+msgid "Genius!"
+msgstr "Dahice!"
+
+msgid "Pointy."
+msgstr "Sivri"
+
+msgid "Pointy pointy."
+msgstr "Sivriden de sivri."
+
+msgctxt "events.Ch1_Forest_Red.item_scissors_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Miss Lacie, that's a dangerous item!"
+msgstr "Bayan Lacie, bu tehlikeli bir eşya!"
+
+msgctxt "events.Ch1_Forest_Red.item_snack_2_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I never thought you'd try to poison me this fast."
+msgstr "Beni hiç bu kadar hızlı zehirleyeceğini düşünmemiştim."
+
+msgid "Sorry."
+msgstr "Afedersin."
+
+msgid "No thank you, I don't need to sleep!"
+msgstr "Yok teşekkürler, uyumaya ihtiyacım yok!"
+
+msgid "A bag filled with... garbage, probably."
+msgstr "Çöp ile dolu bir... çanta, büyük ihtimalle."
+
+msgid "It's tied too hard to check the contents."
+msgstr "İçindekilere bakmak için fazla sıkı bağlanmış"
+
+msgid "A box with some birds trapped inside."
+msgstr "İçinde tutsak olmuş kuşlar olan bir kutu."
+
+msgid "Open the box?"
+msgstr "Açacak mısın?"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.choice.Open the box?"
+msgid "Yes"
+msgstr "Evet."
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.choice.Open the box?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.dlg.narrator"
+msgid "This isn't the time for that."
+msgstr "Şimdi bunun sırası değil."
+
+msgid "A strong lamp."
+msgstr "Güçlü ışık saçan bir lamba"
+
+msgid "A small window. You can't see anything, so it may be fake."
+msgstr "Küçük bir pencere. Hiçbir şey göremiyorsun, o yüzden sahte olabilir."
+
+msgid "Thin vertical windows."
+msgstr "İnce dikey camlar."
+
+msgid "I just got this far, let's take a look around."
+msgstr "Buraya kadar gelmişim, hadi biraz etrafa bakalım."
+
+msgid "I haven't finished talking to Rune..."
+msgstr "Rün ile konuşmayı henüz bitirmedim..."
+
+msgid "(Seems like there's nobody here...)"
+msgstr "(Sanırım burada kimse yok...)"

@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's some red lipstick."
+msgstr "Burada kırmızı bir ruj var."
+
+msgid "I wonder if I can use something like this to draw the symbol..."
+msgstr "Sembolü çizmek için bunu kullanabilir miyim acaba?"
+
+msgid "Take ${item:ch1.lipstick}?"
+msgstr "Yanıma almalı mıyım ${item:ch1.lipstick}?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "A bathtub."
+msgstr "Bir küvet."
+
+msgid "A relaxing bathtub."
+msgstr "Rahat görünen bir küvet."
+
+msgid "The drawer contains various toiletries."
+msgstr "Çekmecede çeşitli tuvalet malzemeleri var."
+
+msgid "The drawer contains a hair dryer and other appliances."
+msgstr "Çekmecede saç kurutma makinesi ve diğer aletler var."
+
+msgid "It's just you."
+msgstr "Bu sadece sensin."
+
+msgid "Even in the bathroom, there are plants."
+msgstr "Banyoda bile, bitkiler var."
+
+msgid "This one is fake, though."
+msgstr "Ama bu sahte."
+
+msgid "A plant."
+msgstr "Bir bitki."
+
+msgid "Soap, shampoo, conditioner."
+msgstr "Sabun, şampuan, saç kremi."
+
+msgid "Some towels and a laundry basket."
+msgstr "Bazı havlılar ve bir çamaşır sepeti."
+
+msgid "A stool."
+msgstr "Bir tabure."
+
+msgid "Thankfully, there's plenty of toilet paper."
+msgstr "Şükürler olsun, burada oldukça tuvalet kağıdı var."
+
+msgid "Toilet paper."
+msgstr "Tuvalet kağıdı."
+
+msgid "A towel."
+msgstr "Bir havlu."
+
+msgid "A trash can."
+msgstr "Bir çöp kutusu."
+
+msgid "Nothing but air fills this trash can."
+msgstr "Bu çöp kutusunun içinde havadan başka bir şey yok."

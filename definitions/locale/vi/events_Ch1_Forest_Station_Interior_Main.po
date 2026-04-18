@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "..."
+
+msgid "There's no one behind the window."
+msgstr "Đằng sau cửa sổ không có ai cả."
+
+msgid "Ads. Don't acknowledge them."
+msgstr "Quảng cáo. Kệ đi đừng nhìn."
+
+msgid "It says \"No cutting in line.\""
+msgstr "Này ghi là \"Không chen lấn cắt hàng.\""
+
+msgid "Cutting in front of who? There's nobody here!"
+msgstr "Chen lấn cắt vào ai cơ? Có ai ở đây đâu nào!"
+
+msgid "Looks like ticket prices."
+msgstr "Trông như là bảng giá vé."
+
+msgid "A regular ticket is 20 coins."
+msgstr "Vé thông thường thì là 20 đồng xu."
+
+msgid "...That's a lot of coins... for me at least."
+msgstr "...Tốn nhiều tiền xu nhỉ... chí ít với mình là thế."
+
+msgid "A number dispenser."
+msgstr "Cái máy phát số."
+
+msgid "It looks like the numbers ran out, though."
+msgstr "Cơ mà hình như máy hết số rồi."
+
+msgid "A half-withered plant."
+msgstr "Cái cây bị héo phân nửa."
+
+msgid "A dead plant."
+msgstr "Cái cây chết."
+
+msgid "A trash can."
+msgstr "Cái thùng rác."
+
+msgid "It's missing the pedal thingy, so you can't open it to check the contents."
+msgstr "Nó bị mất cái đồ đạp, nên không mở thùng ra xem bên trong được."
+
+msgid "Touching the lid with your bare hands is out of the question."
+msgstr "Dùng tay không mà chạm vào nắp thùng rác thì thôi miễn đi."
+
+msgid "A coin-operated vending machine. It says \"OUT OF ORDER\"."
+msgstr "Chiếc máy bán hàng sử dụng tiền xu. Nó ghi là \"ĐANG TRỤC TRẶC\"."
+
+msgid "Insert a coin anyways?"
+msgstr "Kệ cứ đút tiền xu vào chứ?"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Main.misc_vendingmachine.choice.Insert a coin anyways?"
+msgid "Yes"
+msgstr "Đút vào"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Main.misc_vendingmachine.choice.Insert a coin anyways?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "The machine took the coin, but nothing's happening."
+msgstr "Chiếc máy nhận lấy tiền xu, nhưng không gì xảy ra cả."
+
+msgid "A coin-eating, evil vending machine."
+msgstr "Cái máy bán hàng độc ác ăn tiền xu."
+
+msgid "What should I do, put another coin?"
+msgstr "Mình nên làm gì, đút thêm xu khác à?"
+
+msgid "This upsets me..."
+msgstr "Bực rồi..."
+
+msgid "A coin-swallowing, useless vending machine."
+msgstr "Cái máy bán hàng vô tích sự nuốt tiền xu."
+
+msgid "Kick it?"
+msgstr "Đá nó chứ?"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Main.misc_vendingmachine.choice.Kick it?"
+msgid "Yes"
+msgstr "Đá"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Main.misc_vendingmachine.choice.Kick it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Today, violence was the answer."
+msgstr "Hôm nay, bạo lực chính là giải pháp."
+
+msgid "A broken vending machine."
+msgstr "Cái máy bán hàng bị hỏng."
+
+msgid "A coin-spitting vending machine that got what it deserved."
+msgstr "Cái máy bán hàng nhổ tiền xu mà đã ăn được một cú đáng đời."

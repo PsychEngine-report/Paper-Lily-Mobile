@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This locker has no keyhole."
+msgstr "Bu dolabın deliği yok."
+
+msgid "They're already open, so there's nothing to cut."
+msgstr "Hepsi zaten açık, yani kesecek bir şey yok."
+
+msgid "Boxes filled to the brim with cleaning products."
+msgstr "Ağzına kadar temizlik malzemeleri ile dolu koliler."
+
+msgid "It's packed with white chalk and nothing else."
+msgstr "İçinde sadece beyaz tebeşir var."
+
+msgid "This must be like... a year's supply."
+msgstr "Bu sanırım... bir yıllığın erzağı olmalı."
+
+msgctxt "events.Prologue_Ending_K7_1.misc_boxes2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "They're packed too tightly, I can't pull any out."
+msgstr "Çok sıkıca paketlenmişler, hiçbirini dışarı çekemiyorum."
+
+msgid "Some boxes filled with left shoes and lighters."
+msgstr "左の靴とライターがぎっしり詰まった箱。"
+
+msgid "Some brand new brooms."
+msgstr "Yepyeni süpürgeler."
+
+msgid "A calendar... probably."
+msgstr "Bir takvim... büyük ihtimalle."
+
+msgid "There are no dates or month names in it."
+msgstr "İçinde hiç tarih ya da ay isimleri yok."
+
+msgid "A cleaning cart."
+msgstr "Bir temizlik arabası"
+
+msgid "It's sparkling clean."
+msgstr "Işıldarmışcasına temiz."
+
+msgid "A lamp. There's no light bulb nor a slot to place one."
+msgstr "Bir lamba. İçinde ampul ya da priz yok."
+
+msgid "A large locker. It's sealed shut."
+msgstr "Kocaman bir dolap. Mühürlenmiş."
+
+msgid "A trash can. You can't see the bottom."
+msgstr "Bir çöp kutusu. Dibi görünmüyor."
+
+msgid "That's... weird."
+msgstr "Bu... garip"
+
+msgid "What is?"
+msgstr "Ne oldu?"
+
+msgid "The existence of this room... makes no sense."
+msgstr "Bu odanın varlığı... hiç mantıklı değil."
+
+msgid "What do you mean?"
+msgstr "Ne demek istiyorsun?"
+
+msgid "Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside."
+msgstr "Okulun mimarisine göre, burada bir oda olamaz. Eğer olsaydı dışarıdan bakıldığında havada uçuyormuş gibi görünürdü."
+
+msgid "Interesting..."
+msgstr "İlginç..."
+
+msgid "But... we didn't even finish the ritual! What's happening?"
+msgstr "Ama... ritüeli bitirmedik! Neler oluyor?"
+
+msgid "I don't know..."
+msgstr "Bilmiyorum..."
+
+msgid "Isn't it exciting!?"
+msgstr "Çok heyecan verici değil mi!?"
+
+msgctxt "events.Prologue_Ending_K7_1.move_enter.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "Let's keep going."
+msgstr "Hadi devam edelim"

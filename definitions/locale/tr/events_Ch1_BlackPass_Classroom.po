@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hey, where do you think you're going?"
+msgstr "Pişt,nereye gittiğini sanıyorsun?"
+
+msgctxt "events.Ch1_BlackPass_Classroom.event_bouncer.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_BlackPass_Classroom.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "There she is."
+msgstr "İşte orada."
+
+msgid "That's her?"
+msgstr "Bu o mu?"
+
+msgid "She's so cursed that the bird dropped dead."
+msgstr "O kadar lanetli ki kuş öldü."
+
+msgid "If she can make a bird die, I wonder what she could do to people."
+msgstr "Eğer bir kuşu öldürebiliyorsa, insanlara kim bilir ne yapar."
+
+msgid "What a freak."
+msgstr "Ucube."
+
+msgid "Hey, you killed that poor bird."
+msgstr "Baksana, o zavallı kuşu öldürdün."
+
+msgid "...N-no..."
+msgstr "...H-hayır..."
+
+msgid "It flew into the window next to YOUR seat."
+msgstr "SİZİN koltuğunuzun yanındaki pencereden uçtu."
+
+msgid "...but.. I didn't..."
+msgstr "...ama... yapmadım..."
+
+msgid "It died because of you."
+msgstr "Senin yüzünden öldü."
+
+msgid "This is your fault."
+msgstr "Bu senin suçun."
+
+msgid "Aargh!"
+msgstr "Aaağğhh!"
+
+msgid "........"
+msgstr "..."
+
+msgid "What the hell!?"
+msgstr "Bu da ne!?"
+
+msgid "Did she kill him?"
+msgstr "Onu öldürdü mü?"
+
+msgid "Is he dead?"
+msgstr "Öldü mü?"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.unknown"
+msgid "MURDERER!"
+msgstr "KATİL!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.unknown"
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "KATİL! KATİL! KATİL!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Wait... what are you doing!?"
+msgstr "Bekle...ne yapıyorsun"
+
+msgid "I'm doing something, unlike you."
+msgstr "Senin aksine bir şeyler yapıyorum."
+
+msgid "AAAAH!"
+msgstr "AAAHH!"
+
+msgid "She killed him!"
+msgstr "Onu öldürdü!"
+
+msgid "Oh my god! She's crazy!"
+msgstr "Allahım Yarabbim!Manyağın teki!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.unknown"
+msgid "MURDERER!"
+msgstr "KATİL!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.unknown"
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "KATİL!　KATİL!　KATİL!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Pick up ${item:global.reditem_3}?"
+msgstr "${item:global.reditem_3} Alınsın mı?"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_red_item_get.choice.Pick up ${item:global.reditem_3}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_red_item_get.choice.Pick up ${item:global.reditem_3}?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "This isn't my fault..."
+msgstr "Benim suçum değil..."
+
+msgid "Can't believe you're still acting innocent."
+msgstr "Hala masum olan senmişsin gibi davrandığına inanamıyorum。"
+
+msgid "You disgust me."
+msgstr "Midemi bulandırıyorsun."
+
+msgid "You cause nothing but ruin everywhere you go!"
+msgstr "Tek yaptığın gittiğin her yeri mahvetmek!"
+
+msgid "I-I'm sorry... I'm really sorry... I don't do it on purpose... I didn't do anything..."
+msgstr "Ö-özür dilerim...Ben özür dilerim gerçekten özür dilerim...Bilerek yapmadım...Ben bir şey yapmadım..."
+
+msgid "Maybe you SHOULD do something..."
+msgstr "Belki de bir şeyler YAPMALISIN..."
+
+msgid "...Huh?"
+msgstr "Ha?"
+
+msgid "...To make it up to us. Why don't you take responsibility for messing up everything?"
+msgstr "Neden sorumluluk almıyorsun? Bu yaptıklarını telafi etmek için."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "...H-How...?"
+msgstr "N-nasıl alacağım?"
+msgid "Hmmm."
+msgstr "Hmmm."
+
+msgid "Make her eat it!"
+msgstr "Ye onu!"
+
+msgid "Yeah! Eat the bird!"
+msgstr "Aynen! Ye o kuşu!"
+
+msgid "...What..?!"
+msgstr "Ne...?!"
+
+msgid "You heard them."
+msgstr "Duydun onları."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.unknown"
+msgid "Eat it, witch."
+msgstr "Ye şunu,cadoloz."
+
+msgid "If you eat it, maybe we'll forgive you."
+msgstr "Eğer yersen belki de affederiz."
+
+msgid "Eat the bird, murderer."
+msgstr "Ye şu kuşu,katil."
+
+msgid "(This isn't real...)"
+msgstr "(Bu gerçek değil...)"
+
+msgid "(Do I really have to do this...?)"
+msgstr "(Bunu gerçekten yapmak zorunda mıyım?)"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice.(Do I really have to do this...?)"
+msgid "Eat the bird"
+msgstr "Yesene şu kuşu."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice.(Do I really have to do this...?)"
+msgid "Do not"
+msgstr "Yapma"
+
+msgid "Take the _____"
+msgstr "_____al"
+
+msgid "(Will this get them to stop...?)"
+msgstr "(Bu durmalarını sağlayacak mı?)"
+
+msgid "(Ugh... I feel sick...)"
+msgstr "(Ahh...İğrenç hissediyorum...)"
+
+msgid "She actually did it! She's insane!"
+msgstr "Gerçekten de yaptı lan! Bu kız manyak!"
+
+msgid "She's such a freak! HAHAHAHA!"
+msgstr "Ucubenin teki!HAHAHAHAHA!"
+
+msgid "HAHAHAHA It's all bloody now!"
+msgstr "HAHAHAHAHA her yer kan!"
+
+msgid "HAHAHAHAHA"
+msgstr "HAHAHAHA"
+
+msgid "HAHAHAHAHAHAHAHAHAHAHA"
+msgstr "HAHAHAHAHAHAHAHA"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Stab self"
+msgstr "Kendini bıçakla."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Do not"
+msgstr "Yapma"
+
+msgid "(This dream...)"
+msgstr "(Bu bir rüya...)"
+
+msgid "(The easiest way to get out...)"
+msgstr "(Çıkmanın en kolay yolu...)"
+
+msgid "(It's obvious, isn't it?)"
+msgstr "(Yeterince açık,değil mi?)"
+
+msgid "...Ah! It hurts! ...it hurts..."
+msgstr "...Ah! Acıyor!...acıyor..."
+
+msgid "...When am I waking up..."
+msgstr "Ne zaman uyanacağım..."
+
+msgid "...Let this stupid... nightmare... end..."
+msgstr "İzin verin bu...aptal kabus...bitsin..."
+
+msgid "...Why..."
+msgstr "...Neden..."
+
+msgid "...It's just a dream... so why..."
+msgstr "Bu sadece bir rüyayasa...O zaman neden..."
+
+msgid "...It hurts..."
+msgstr "...Neden acıyor..."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Eat the bird"
+msgstr "Kuşu ye"
+
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgid "There's nothing else to do here."
+msgstr "Burda yapılacak başka bir şey yok."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_person_left.dlg.unknown"
+msgid "Eat it, witch."
+msgstr "Ye şunu,cadoloz."
+
+msgid "Sorry, I can't let you pass."
+msgstr "Üzgünüm,geçmene izin veremem."
+
+msgid "Please?"
+msgstr "Lütfen?"
+
+msgid "Just do what they say."
+msgstr "Sadece ne söylüyorlarsa onu yap."
+
+msgid "(A strong force prevents you from entering the wardrobe.)"
+msgstr "(Bir güç gardıroba girmeni engelliyor.)"
+
+msgid "(Push through?)"
+msgstr "(Zorla geçilsin mi?)"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_wardrobe.choice.(Push through?)"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_wardrobe.choice.(Push through?)"
+msgid "No"
+msgstr "Hayır"
+
+msgid "\"MURDERER\""
+msgstr "「KATİL」"
+
+msgid "The passageway has closed behind you."
+msgstr "Geçit arkandan kapandı."

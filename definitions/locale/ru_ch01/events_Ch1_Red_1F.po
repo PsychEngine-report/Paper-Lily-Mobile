@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "Я не хочу с этим таскаться..."
+
+msgid "(Discarded ingredients)."
+msgstr "(Вы вернули ингредиенты на свои места.)"
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "Мне ещё не хватает ингредиентов..."
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "Мне не хватает \"Плода вдохновения созидателя\"..."
+
+msgid "Could it be Kett's flowers?"
+msgstr "Может, помогут цветочки Кетта?"
+
+msgid "What in the world is that?"
+msgstr "Что это вообще такое?"
+
+msgid "(You don't know what to do with this...)"
+msgstr "(Вы не знаете, что с этим делать...)"
+
+msgid "You can't cut through that with scissors."
+msgstr "Ножницами это не разрезать."
+
+msgid "Some books about cursed trees."
+msgstr "Книжки о проклятых деревьях."
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice"
+msgid "Read a passage?"
+msgstr "Прочитать абзац?"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "No"
+msgstr "Нет"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "\"Вопреки своим небольшим размерам, у проклятых деревьев есть привычка уходить своими корнями до 60-ти метров вглубь."
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "Их корни уходят даже глубже. Доселе неизвестно, насколько они могут удлиниться перед тем, как остановят свой рост.\""
+
+msgid "Four small blue butterflies on display."
+msgstr "Четыре небольших синих бабочки, выставленные на показ."
+
+msgid "They're somewhat mesmerizing."
+msgstr "Они немного завораживают."
+
+msgid "A large blue butterfly on display."
+msgstr "Крупная синяя бабочка, выставленная на показ."
+
+msgid "It's kind of mesmerizing..."
+msgstr "Она завораживает..."
+
+msgid "A small blue butterfly on display."
+msgstr "Маленькая синяя бабочка, выставленная на показ."
+
+msgid "It's not as mesmerizing."
+msgstr "Она не так сильно завораживает."
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "Простой набор химика, позволяющий смешивать разные вещества."
+
+msgid "Some bottles and other containers."
+msgstr "Бутылки и прочие ёмкости."
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "Книга с углубленным изучением различных материалов."
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "Здесь также лежит адаптер переменного тока."
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "Взять ${item:ch1.forest_adapter}?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Some notes on curse removal rituals."
+msgstr "Записи о проклятии окаменения."
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "Взять предмет: ${item:ch1.red_notes}?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "(Для чего это может сгодиться?..)"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "Пустой стол, с которого вы слямзили записи."
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "Красная кукла. Оба её глаза нарисованы."
+
+msgid "I know this."
+msgstr "Я знаю, что это."
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "Эта кукла помогает достигать собственных целей."
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "Нужно закрасить один глаз и загадать желание, а кукла поможет его исполнить."
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "А когда цель будет достигнута, нужно в ответ закрасить второй глаз..."
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "...то есть нужно подарить ей зрение в знак благодарности."
+
+msgid "..."
+msgstr "..."
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "Хиро о таком часто читает."
+
+msgid "I wonder what this person's wish was."
+msgstr "Интересно, что загадал владелец этой куклы?"
+
+msgid "Some books about butterflies."
+msgstr "Книги о бабочках."
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice"
+msgid "Read a passage?"
+msgstr "Прочитать абзац?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "No"
+msgstr "Нет"
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "\"После каждого снятого проклятия появляется одна синяя бабочка."
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "Их привлекают проклятые деревья. Они зарываются в их ствол, в конце концов делая их полыми."
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "Причины этого поведения неизвестны.\""
+
+msgid "A furnace."
+msgstr "Печь."
+
+msgid "Inside is a... thing."
+msgstr "Внутри лежит... что-то."
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "Это... искусство? Похоже на скульптуру или на какой-то каркас."
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "Может, можно отдать её Козмо, хоть он и возненавидит меня после."
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "Взять предмет: ${item:ch1.red_pot}?"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "Незаконченные записи по снятию проклятий."
+
+msgid "I don't really understand any of this."
+msgstr "Я ничего в этом не смыслю."
+
+msgid "A small plant."
+msgstr "Небольшое растение."
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "Его листья будто связаны в бантик."
+
+msgid "A plant that looks like a bow."
+msgstr "Растение, похожее на бантик."
+
+msgid "Some purple mushrooms are growing here."
+msgstr "Здесь растут фиолетовые грибы."
+
+msgid "Some black mushrooms are growing here."
+msgstr "Здесь растут чёрные грибы."
+
+msgid "Some pink plants are growing here."
+msgstr "Здесь растут розовые растения."
+
+msgid "The carpet here seems suspicious."
+msgstr "Этот ковёр выглядит подозрительно."
+
+msgid "Take a closer look?"
+msgstr "Взглянуть поближе?"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "No"
+msgstr "Нет"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "Здесь есть лестница, но вход закрыт на замок."
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "На полке разложены инструменты для сада."
+
+msgid "A tree filled with blue butterflies."
+msgstr "Дерево с кучей бабочек."
+
+msgid "Thin vertical windows."
+msgstr "Тонкие вертикальные окна."

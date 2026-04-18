@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_barrel.dlg.narrator"
+msgid "A storage compartment filled with various types of food."
+msgstr "様々な食べ物が詰まった貯蔵庫。"
+
+msgid "There's a key in there as well."
+msgstr "鍵も入っていた。"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_barrel_2.dlg.narrator"
+msgid "A storage compartment filled with various types of food."
+msgstr "様々な食べ物が詰まった貯蔵庫。"
+
+msgid "A large cauldron."
+msgstr "大釜。"
+
+msgid "Is this where she cooks children?"
+msgstr "これで子供を煮てるのか？"
+
+msgid "It wouldn't surprise me, after the day I've had."
+msgstr "今日あったことを思うと、そうだとしても驚かない。"
+
+msgid "It looks like some sort of stew."
+msgstr "何かのシチューのようだ。"
+
+msgid "It's cold and it doesn't seem to have been looked after in a long time."
+msgstr "冷めており、長いあいだ放置されていたように見える。"
+
+msgid "There's a black thing sticking out from the stew."
+msgstr "黒いものがシチューから突き出している。"
+
+msgid "Take it with you?"
+msgstr "持って行く？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Take it with you?"
+msgid "Yes"
+msgstr "持って行く"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Take it with you?"
+msgid "No"
+msgstr "持って行かない"
+
+msgid "...It seems to be part of something bigger."
+msgstr "……何か大きいものの一部分らしい。"
+
+msgid "You can't take all of it."
+msgstr "丸ごとは持って行けない。"
+
+msgid "There's nothing else of interest."
+msgstr "他に興味を惹くものはない。"
+
+msgid "Stir it up?"
+msgstr "かき回す？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Stir it up?"
+msgid "Yes"
+msgstr "かき回す"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Stir it up?"
+msgid "No"
+msgstr "かき回さない"
+
+msgid "A kitchen counter."
+msgstr "キッチンカウンター。"
+
+msgid "A cutting board."
+msgstr "まな板。"
+
+msgid "Nothing on the shelves above looks useful."
+msgstr "上の棚には使えそうなものはない。"
+
+msgid "A cookie jar."
+msgstr "クッキーの瓶。"
+
+msgid "There's something inside that doesn't belong."
+msgstr "中に異質なものが入っている。"
+
+msgid "Take it?"
+msgstr "取り出す？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Take it?"
+msgid "Yes"
+msgstr "取り出す"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Take it?"
+msgid "No"
+msgstr "取り出さない"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.dlg.lacie"
+msgid "Maybe I could feed this to the plant..."
+msgstr "これは植物のエサになるかも……"
+
+msgid "Bring the cookies to the plant?"
+msgstr "クッキーを植物に持って行く？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Bring the cookies to the plant?"
+msgid "Yes"
+msgstr "持って行く"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Bring the cookies to the plant?"
+msgid "No"
+msgstr "持って行かない"
+
+msgid "The plant rejects the cookies..."
+msgstr "植物はクッキーを拒んでいる……"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2_sai_react.dlg.sai"
+msgid "Whoa neat! Can I have one?"
+msgstr "お、いいな！　ひとつ食べていいか？"
+
+msgid "There was an eyeball in there."
+msgstr "目が入ってたやつだけど。"
+
+msgid "Ah. So, no cookie?"
+msgstr "あぁ。じゃあ、クッキーは無しか？"
+
+msgid "There's an eyeball in there."
+msgstr "目が一緒に入ってるけど。"
+
+msgid "Well, not the eyeball, I meant the cookie."
+msgstr "いや、目じゃなくて、クッキーのほうを頼む。"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2_sai_react.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I don't think you should eat that."
+msgstr "食べない方が良いと思う。"
+
+msgid "Bummer."
+msgstr "ちぇっ。"
+
+msgid "A green frog."
+msgstr "緑のカエル。"
+
+msgid "Is that a frog?"
+msgstr "カエル？"
+
+msgid "Is it alive?"
+msgstr "生きてるのか？"
+
+msgid "Yes."
+msgstr "うん。"
+
+msgid "Maybe the knives lady will cook it."
+msgstr "あのナイフの奴が料理に使うのかもな。"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "An empty, frog-less spot on the shelf."
+msgstr "棚の、何も置かれていない、カエルのいない部分。"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.dlg.lacie"
+msgid "Maybe I could feed this to the plant..."
+msgstr "これは植物のエサになるかも……"
+
+msgid "Bring the frog to the plant?"
+msgstr "カエルを植物に持って行く？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.choice.Bring the frog to the plant?"
+msgid "Yes"
+msgstr "持って行く"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.choice.Bring the frog to the plant?"
+msgid "No"
+msgstr "持って行かない"
+
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"

@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "What is this place?"
+msgstr "这是什么地方呢？"
+
+msgid "What do I do about the primals?"
+msgstr "我要拿那些原初恶魔怎么办？"
+
+msgid "How do you know Sai?"
+msgstr "你怎么认识赛伊的？"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune.choice.So..."
+msgid "Never mind"
+msgstr "没事"
+
+msgid "What exactly is this place?"
+msgstr "这到底是什么地方？"
+
+msgid "Dunno!"
+msgstr "不知道！"
+
+msgid "Nobody's been here for hundreds of years though."
+msgstr "这里已经上百年没有人来过的说。"
+
+msgid "Interesting."
+msgstr "真有趣。"
+
+msgid "There's... shadowy-looking demons roaming around this place."
+msgstr "这里有那种...长得跟影子一样的恶魔四处游荡。"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune.dlg.rune"
+msgid "Indeed!"
+msgstr "的确！"
+
+msgid "They are called primals."
+msgstr "他们被称为原初恶魔。"
+
+msgid "Best not to approach them."
+msgstr "最好不要接近他们。"
+
+msgid "Told you so."
+msgstr "我都说啦。"
+
+msgid "You two said you've had several encounters with each other?"
+msgstr "你俩说你们之前见过好几面？"
+
+msgid "I do a lot of rituals."
+msgstr "我做过很多仪式。"
+
+msgid "A lot of rituals?"
+msgstr "很多仪式？"
+
+msgid "And... you've survived?"
+msgstr "然后...你都活下来了？"
+
+msgid "You almost look disappointed."
+msgstr "你看起来好像有点失望啊。"
+
+msgid "Rune bounces up and down."
+msgstr "符文正在蹦蹦跳跳。"
+
+msgid "By the way..."
+msgstr "对了..."
+
+msgid "The way to go \"deeper\" seems to be flooded."
+msgstr "去到“更深处”的路看起来被水淹了。"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_extra.dlg.rune"
+msgid "Indeed!"
+msgstr "的确！"
+
+msgid "Do I have to swim...?"
+msgstr "我要是...游过去吗？"
+
+msgid "Do you? I wonder!"
+msgstr "你会这么做吗？我很好奇哦！"
+
+msgid "Sigh..."
+msgstr "哎..."
+
+msgid "Miss Lacie!"
+msgstr "莱西小姐！"
+
+msgid "Have you misplaced Mr. Sai?"
+msgstr "你把赛伊先生弄丢了吗？"
+
+msgid "Uh..."
+msgstr "呃..."
+
+msgid "Something like that."
+msgstr "差不多是这样。"
+
+msgid "How come?"
+msgstr "怎么会这样？"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'm just more comfortable being alone."
+msgstr "我是觉得一个人更舒服点。"
+
+msgid "Ooh! I feel the same!"
+msgstr "哦！我也一样！"
+
+msgid "Anyway..."
+msgstr "总之..."
+
+msgid "How did I miss the lighthouse?"
+msgstr "我是怎么错过灯塔的？"
+
+msgid "How will you get out of here?"
+msgstr "你打算怎么离开这里？"
+
+msgid "Tell me more about Sai."
+msgstr "再跟我聊聊赛伊吧。"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.choice.Anyway..."
+msgid "Never mind"
+msgstr "没事"
+
+msgid "So... I went north, but somehow I didn't come across the lighthouse."
+msgstr "所以...我往北走了，但是不知为何，我没有遇到灯塔。"
+
+msgid "Where did I go wrong?"
+msgstr "我哪里做错了吗？"
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "Did you reach the lake?"
+msgstr "你到过湖泊了吗？"
+
+msgid "Yes."
+msgstr "是的。"
+
+msgid "Did you cross the lake?"
+msgstr "你穿过湖泊了吗？"
+
+msgid "Yes, I took a boat."
+msgstr "是的，我乘船走的。"
+
+msgid "You should have been able to spot it from there!"
+msgstr "你应该能在那里看到灯塔的！"
+
+msgid "Oh, I couldn't see much because of the fog, so I just tried to keep rowing in the same direction."
+msgstr "哦，由于雾太大，我什么也看不见，所以我只是尽力地往一个方向划船。"
+
+msgid "I must have taken a wrong turn somewhere..."
+msgstr "我一定是在哪里转错弯了..."
+
+msgid "That's too bad."
+msgstr "太糟糕了。"
+
+msgid "If this place is a dead end, how do you intend to leave?"
+msgstr "如果这个地方是个死胡同的话，你打算怎么离开呢？"
+
+msgid "I will stick around here for a bit longer!"
+msgstr "我会在这里多待一会儿！"
+
+msgid "But after that?"
+msgstr "但，再往后呢？"
+
+msgid "After that what?"
+msgstr "往什么后？"
+
+msgid "How do you plan to get out?"
+msgstr "你计划怎么出去？"
+
+msgid "I don't plan to get out for the moment! I will stick around for a bit longer!"
+msgstr "我现在不打算出去！我会在这里多待一会儿！"
+
+msgid "But..."
+msgstr "但是..."
+
+msgid "Miss Lacie, I will stick around here for a bit longer!"
+msgstr "莱西小姐，我会在这里多待一会儿！"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "I see..."
+msgstr "好吧..."
+
+msgid "Do you know anything else about Sai? What kind of person is he?"
+msgstr "你还知道关于赛伊的别的事吗？他是怎么样的人？"
+
+msgid "Hmmm..."
+msgstr "嗯......"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "He never talks about himself."
+msgstr "他从来不谈他自己。"
+
+msgid "And he never gives me runes."
+msgstr "还有他从来不给我符文。"
+
+msgid "Is he a demon?"
+msgstr "难道他是恶魔吗？"
+
+msgid "He's not!"
+msgstr "他不是啦！"
+
+msgid "Oh... really?"
+msgstr "哦...真的吗？"
+
+msgid "Although there is something different about him."
+msgstr "尽管他有些与众不同。"
+
+msgid "Much like you, Miss Lacie, I couldn't tell right away that he's human."
+msgstr "像你一样，莱西小姐，我不能一眼就看出他是人类。"
+
+msgid "Normally I can smell it from quite far!"
+msgstr "通常我在很远的地方就能感觉到！"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "Oh."
+msgstr "哦。"
+
+msgid "Strange."
+msgstr "真奇怪。"
+
+msgid "The way forward is blocked by some sort of door."
+msgstr "前进的路被某种门挡住了。"
+
+msgid "This wasn't here before..."
+msgstr "之前还不在这儿的..."
+
+msgid "(It's dead...?)"
+msgstr "（它死了吗...？）"
+
+msgid "Good riddance."
+msgstr "好死。"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_ending_13_primals.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Another one..?"
+msgstr "又有一只..？"
+
+msgid "That makes two."
+msgstr "这样就有一对咯。"
+
+msgid "(What killed it...?)"
+msgstr "（是什么杀死了它呢...？）"
+
+msgid "Are you sensing a pattern here or is it just me?"
+msgstr "只有我感觉到不太对劲吗？"
+
+msgid "(Really... what happened here?)"
+msgstr "（真的...这里发生什么了？）"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_ending_13_primals.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "Must be my imagination."
+msgstr "一定是我想多了。"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.rune"
+msgid "Ooh!"
+msgstr "哦！"
+
+msgid "Miss L-"
+msgstr "莱—"
+
+msgid "Shh!"
+msgstr "嘘！"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "I don't give my name to just anyone, Rune."
+msgstr "不要告诉别人我的名字，符文。"
+
+msgid "Very wise!"
+msgstr "非常明智！"
+
+msgid "What?!"
+msgstr "啥？！"
+
+msgid "You told this goblin your name but not me?"
+msgstr "你都告诉了这个小矮子你的名字，却不告诉我？"
+
+msgid "You're still suspicious."
+msgstr "因为你还很可疑。"
+
+msgid "Suspicious?"
+msgstr "可疑？"
+
+msgid "What can I even do with your name? This is ridiculous."
+msgstr "我能拿你的名字做什么？太荒唐了。"
+
+msgid "I read of a curse that can kill someone just by writing their name in a notebook."
+msgstr "我看过一种把某人名字写在笔记本上，就能杀掉他的诅咒。"
+
+msgid "Is that the same place you read about the salt?"
+msgstr "跟那个盐，是同一个地方看来的吗？"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Hello Mr. Sai!"
+msgstr "你好，赛伊先生！"
+
+msgid "Yo."
+msgstr "哟。"
+
+msgid "Rune, you know him?"
+msgstr "符文，你认识他吗？"
+
+msgid "Yes! Though my encounters with Mr. Sai are often brief, as he does not provide me with runes."
+msgstr "是的！虽然说我与赛伊先生的接触很短暂，而且他还没有给我符文石。"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.lacie"
+msgid "Oh."
+msgstr "哦。"
+
+msgid "Give me a break man, it's not like those things are just lying around."
+msgstr "饶了我吧，老兄，这些东西又不是随处可见的。"
+
+msgid "(I guess that's true...)"
+msgstr "（我想这是真的...）"
+
+msgid "(Well, I did find one...)"
+msgstr "（好吧，我确实找到了一个...）"
+
+msgid "(They kind of are, though...)"
+msgstr "（虽然说我有很多啦...）"
+
+msgid "How did you get here?"
+msgstr "你是怎么过来的？"
+
+msgid "I walked."
+msgstr "走过来的。"
+
+msgid "I see."
+msgstr "好吧。"
+
+msgid "Unfortunately, I'm still looking for the lighthouse."
+msgstr "不幸的是，我还在寻找灯塔。"
+
+msgid "Ooh."
+msgstr "哦。"
+
+msgid "The lighthouse isn't here! You must have taken a wrong turn somewhere."
+msgstr "灯塔不在这里！你一定是走错路了。"
+
+msgid "And there's no way to go back outside from here."
+msgstr "还有，这里已经没办法出去了。"
+
+msgid "What?"
+msgstr "什么？"
+
+msgid "We're stuck here?"
+msgstr "我们被困在这里了？"
+
+msgid "Possibly. Some doorknobs are one-way only."
+msgstr "有可能。有些门把是单项通行的。"
+
+msgid "Rune, do you have any idea where I could go from here to reach the lighthouse?"
+msgstr "符文，你知道我可以从哪里到达灯塔吗？"
+
+msgid "The only way forward is by going deeper down."
+msgstr "前进的唯一道路就是往更深处前进。"
+
+msgid "The stairs are right there, in fact!"
+msgstr "事实上，楼梯就在那边！"
+
+msgid "That looks like a dead end."
+msgstr "这看起来是条死路啊。"
+
+msgid "Yes, death is highly probable at all times!"
+msgstr "是的，死亡在任何时候都是极有可能的！"
+
+msgid "But, I heard there's a cursed door down there somewhere."
+msgstr "但是，我听说下方的某处有一扇被诅咒的门。"
+
+msgid "If you're lucky, it might lead you somewhere!"
+msgstr "如果你足够幸运的话，它也许会把你带到别的地方！"
+
+msgid "Or if you're unlucky, it might not!"
+msgstr "如果你不够幸运的话，那就不会了！"
+
+msgid "(Another cursed door huh...)"
+msgstr "（又有一扇被诅咒的门啊...）"
+
+msgid "(If there's a cursed door, then maybe there's a way out of here.)"
+msgstr "（如果这里有扇被诅咒的门的话，也许就有办法离开这里。）"
+
+msgid "(Or at the very least, I could still go home if I'm stuck.)"
+msgstr "（至少，如果被困住了的话，我还可以回家。）"
+
+msgid "(I have the doorknob, after all.)"
+msgstr "（毕竟，门把还在我手上。）"
+
+msgid "(That doorknob... When I got it in the mail, it came with instructions. Almost like a ritual.)"
+msgstr "（那个门把...邮寄给我的时候，还附带了说明书。内容就像仪式一样。）"
+
+msgid "(It involved folding my ritual letter into an origami lily, and placing it in some vase.)"
+msgstr "（包括把我的仪式信折叠成一朵纸百合花，然后把它放在某个花瓶里。）"
+
+msgid "(I thought it was a joke, but...)"
+msgstr "（我之前以为这只是个玩笑，但...）"
+
+msgid "\"It's imperative that you learn how to fold it, if you don't, you'll regret it.\""
+msgstr "“你必须知道怎么折，不然你会后悔的。”"
+
+msgid "(Anyways, I brought the folding instructions with me, just in case.)"
+msgstr "（总之，我带了折纸教程，以防万一。）"
+
+msgid "Yo, you there? You're spacing out."
+msgstr "哟，你还在吗？你出神了。"
+
+msgid "Ah... yeah."
+msgstr "啊...还在。"
+
+msgid "Good luck on your quest!"
+msgstr "祝你们一路顺风！"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_give_rune.dlg.rune"
+msgid "Ooh!"
+msgstr "哦！"
+
+msgid "I have just the thing for you!"
+msgstr "我正好有个东西给你！"
+
+msgid "It's a map!"
+msgstr "这是张地图！"
+
+msgid "A map...?"
+msgstr "一张地图...？"
+
+msgid "Let's see, here you go!"
+msgstr "让我看看，这个给你！"
+
+msgid "I love runes!"
+msgstr "我喜欢符文石！"
+
+msgid "Yay! Today is my lucky day!"
+msgstr "耶！今天是我的幸运日！"
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.sai"
+msgid "Oh."
+msgstr "哦。"
+
+msgid "Are we doing my idea?!"
+msgstr "我们要按我的主意来吗？！"
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.lacie"
+msgid "No."
+msgstr "算了吧。"
+
+msgid "But it might work!"
+msgstr "但是可能有用诶！"
+
+msgid "We just have to pick up water from here and empty it somewhere."
+msgstr "我们只需从这里取水，然后把水倒到某个地方。"
+
+msgid "And just repeat that a couple of times."
+msgstr "就这样重复几次。"
+
+msgid "Or, a lot of times."
+msgstr "我是说，好多次。"
+
+msgid "Right?"
+msgstr "对吧？"
+
+msgid "We just need, like..."
+msgstr "我们只需要，像是..."
+
+msgid "A bathtub or a sink or something."
+msgstr "浴缸或者水槽之类的。"
+
+msgid "Eventually, the water level will be lower."
+msgstr "到最后，水位就会降低。"
+
+msgid "This is ridiculous."
+msgstr "太荒唐了。"
+
+msgid "Here, I can carry that for you."
+msgstr "来，我帮你拿。"
+
+msgid "I can do it."
+msgstr "我自己可以。"
+
+msgid "Alriiight."
+msgstr "好吧。"
+
+msgid "What are you doing?"
+msgstr "你在做什么呢？"
+
+msgid "Nothing."
+msgstr "没什么。"
+
+msgid "We're lowering the water level."
+msgstr "我们在降低水位。"
+
+msgid "Oooh..."
+msgstr "哦哦..."
+
+msgid "This looks highly inefficient!"
+msgstr "这看起来效率很低！"
+
+msgid "Yeah, well, why don't you help then?"
+msgstr "对啊，那你为什么不帮忙呢？"
+
+msgid "It'll go faster."
+msgstr "那样就更快了。"
+
+msgid "That's okay!"
+msgstr "算了！"
+
+msgid "I'm satisfied over here."
+msgstr "我在这里看着就很满意了。"
+
+msgid "Hey!"
+msgstr "嘿！"
+
+msgid "I think the water level already went down a bit!"
+msgstr "我觉得水位已经下降了一点了！"
+
+msgid "(It hasn't moved at all...)"
+msgstr "（它完全没动好吗...）"
+
+msgid "Oh, you can keep it!"
+msgstr "哦，你把它留着吧！"
+
+msgid "Rune doesn't need it back."
+msgstr "符文已经不需要拿回来了。"
+
+msgid "A cursed artifact from the depths, best left forgotten."
+msgstr "一件来自深渊的、被诅咒的神器，还是被遗忘掉最好。"
+
+msgid "Please, I don't want to see this thing ever again."
+msgstr "求你了，我再也不想看到这东西了。"
+
+msgid "It's a button. It probably controls the gate."
+msgstr "这是个按钮。可能控制的是大门。"
+
+msgid "Press the button?"
+msgstr "要按下按钮吗？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Nothing happens."
+msgstr "无事发生。"
+
+msgid "A large gate blocks your path."
+msgstr "一扇大门挡住了你的去路。"
+
+msgid "A crow standing on a white tree stump."
+msgstr "一只乌鸦站在白色的树桩上。"
+
+msgid "I can't tell if it's the same one... but I'm glad to see it."
+msgstr "我不知道这是不是同一只...但我很高兴能看到它。"
+
+msgid "Are you friends with the crows?"
+msgstr "你跟乌鸦交朋友吗？"
+
+msgid "Sorta. They appear here and there like save points."
+msgstr "算是吧。它们出现在这里，就像这里是存档点一样。"
+
+msgid "?????"
+msgstr "？？？？？"
+
+msgid "The crow isn't here right now."
+msgstr "乌鸦现在不在这里。"
+
+msgid "A tree that seems to be growing out of the concrete floor."
+msgstr "一棵树，似乎是从水泥地面里长出来的。"
+
+msgid "(Unusual place for a tree.)"
+msgstr "（对树来说，是很不寻常的位置呢。）"
+
+msgid "The path forward is flooded."
+msgstr "前进的道路被水淹没了。"
+
+msgid "(Deeper down... do we have to go this way?)"
+msgstr "（往深处走...我们是要走这条路吗？）"
+
+msgid "(That's impossible... does Rune expect us to swim?)"
+msgstr "（这不可能...难道说符文是想让我们游泳过去？）"
+
+msgid "Hear me out."
+msgstr "听我一句。"
+
+msgid "What if we took all this water..."
+msgstr "假如说，我们把这些水全部都带走..."
+
+msgid "And put it somewhere else?"
+msgstr "然后把它倒到别处会怎么样？"
+
+msgctxt "events.Ch1_Facility_Main_Hall.misc_water.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Do you have a screw loose?"
+msgstr "你脑子里的螺丝钉松了？"
+
+msgid "Look, I know it sounds crazy!"
+msgstr "听着，我知道这听起来很疯狂！"
+
+msgid "And we'd need a bucket..."
+msgstr "以及我们还需要一个桶..."
+
+msgid "It's impossible."
+msgstr "这是不可能的。"
+
+msgid "And it would take a lot of trips..."
+msgstr "而且这样还要走好几趟..."
+
+msgid "I can't believe I'm hearing this."
+msgstr "我不敢相信我还在听这些。"
+
+msgid "(But maybe... we can lower the water level somehow?)"
+msgstr "（但是也许...我们可以用某种方式降低水位？）"
+
+msgctxt "events.Ch1_Facility_Main_Hall.move_door_tl.dlg.narrator"
+msgid "It's locked."
+msgstr "锁住了。"
+
+msgctxt "events.Ch1_Facility_Main_Hall.move_door_tr.dlg.narrator"
+msgid "It's locked."
+msgstr "锁住了。"

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't have the brain power for this right now."
+msgstr "我的腦袋現在沒辦法處理這件事。"
+
+msgid "You know... I could just jump over those boxes and get you the thingy."
+msgstr "那個...我可以跳過這些箱子然後把那東西給你。"
+
+msgid "Still not interested?"
+msgstr "還是不要？"
+
+msgid "Ask Sai to get the shiny?"
+msgstr "請求賽伊拿到亮亮的東西？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Alright... knock yourself out."
+msgstr "好吧...請便。"
+
+msgid "Be right back!"
+msgstr "馬上回來！"
+
+msgid "Moments later..."
+msgstr "稍後..."
+
+msgid "Easy peasy."
+msgstr "太簡單了。"
+
+msgid "Still not interested."
+msgstr "還是不要。"
+
+msgid "No, I want to do it myself."
+msgstr "不，我要自己做到。"
+
+msgid "The key fits!"
+msgstr "鑰匙吻合！"
+
+msgid "Nothing happens."
+msgstr "什麼事也沒發生。"
+
+msgid "An elevator door."
+msgstr "電梯門。"
+
+msgid "There's a massive gap on the floor. You can't reach the door."
+msgstr "地上有個大縫隙。你沒辦法到門旁。"
+
+msgid "The plank allows you to cross freely."
+msgstr "木板讓妳可以自由跨越。"
+
+msgid "I've seen another hole that could use a plank like this..."
+msgstr "我看到了別的洞可以使用像這樣的木板..."
+
+msgid "Move the plank to the other hole?"
+msgstr "把木板移到另一個洞嗎？"
+
+msgid "Uugh... This is really heavy..."
+msgstr "呃...真的很重..."
+
+msgid "Hey, let me carry that."
+msgstr "嘿，讓我來搬。"
+
+msgid "Since you removed the plank, you can't cross anymore."
+msgstr "因為移除了木板，妳沒辦法跨越了。"
+
+msgid "It's locked."
+msgstr "被鎖住了。"

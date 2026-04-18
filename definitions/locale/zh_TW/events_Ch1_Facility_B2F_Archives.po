@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait... you made me climb over all those boxes for nothing?"
+msgstr "等等...妳讓我無緣無故爬過那些箱子？"
+
+msgid "It wasn't for nothing. Exercise is good for you."
+msgstr "不是無緣無故。運動對你有好處。"
+
+msgid "Huuuh?! I can't believe this..."
+msgstr "蛤？！真不敢相信..."
+
+msgid "Man... it's really stuffy in there. I don't wanna do that again."
+msgstr "老兄...裡面真的很悶。我不想再做一次了。"
+
+msgid "It doesn't look like we can reach it to go back anyway."
+msgstr "看來我們也沒辦法回去了。"
+
+msgid "What?!"
+msgstr "什麼？！"
+
+msgid "We're stuck?!"
+msgstr "我們被困住了？！"
+
+msgid "There's a door right there."
+msgstr "那裡有一扇門。"
+
+msgid "Sheesh... why are all the vents exits so high up..."
+msgstr "天啊...為什麼通風口都這麼高..."
+
+msgid "If you're going to make them traversable, at least put them at a reasonable height."
+msgstr "如果你想讓它們可以被通過，至少放在一個合理的高度。"
+
+msgid "A bookshelf with very few remaining books."
+msgstr "只剩下幾本書的書架。"
+
+msgid "Read a passage?"
+msgstr "閱讀其中一段嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "All of the pages are blank."
+msgstr "所有的頁面都是空白的。"
+
+msgid "A bookshelf with very few remaining books. All of their pages are blank."
+msgstr "只剩下幾本書的書架。所有的頁面都是空白的。"
+
+msgid "An empty bookshelf."
+msgstr "空蕩蕩的書架。"
+
+msgid "...Actually, there's a key at the very back."
+msgstr "...事實上，最後面有一把鑰匙。"
+
+msgid "A purple book."
+msgstr "紫色的書。"
+
+msgid "All of its pages are blank, but you can see a faint outline of some letters."
+msgstr "所有的頁面都是空白的，但是你可以隱約看到一些字母的輪廓。"
+
+msgid "(Have all of these books been erased... somehow?)"
+msgstr "(這些書都不知為何...被抹除了嗎？)"
+
+msgid "Someone didn't want to leave any traces here."
+msgstr "有人不想要留下任何足跡。"
+
+msgid "I agree."
+msgstr "同意。"
+
+msgid "There's a hole on the floor."
+msgstr "地板上有個洞。"
+
+msgid "Going down there is out of the question."
+msgstr "往下走是不可能的。"
+
+msgid "Crawl inside?"
+msgstr "爬進裡面嗎？"
+
+msgid "It's not a good idea to go in there without a way out."
+msgstr "在沒有出口的情況下進入可不是好主意。"
+
+msgid "A ventilation shaft."
+msgstr "通風井。"
+
+msgid "The cover is screwed in."
+msgstr "蓋子被鎖住了。"
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "Ah. I spot a shiny over there."
+msgstr "啊。我看到亮亮的東西。"
+
+msgid "A... \"shiny\"?"
+msgstr "\"亮亮的\"...？"
+
+msgid "You know... a useful item."
+msgstr "你懂的...有用的東西。"
+
+msgid "How do you know it will be useful..."
+msgstr "妳怎麼知道它會有用..."
+
+msgid "Might need to push some boxes around to get it though."
+msgstr "可能要推動一些箱子才能拿到。"
+
+msgid "Arrange the boxes?"
+msgstr "排列箱子嗎？"

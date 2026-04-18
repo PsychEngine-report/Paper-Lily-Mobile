@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A creature with a huge mouth."
+msgstr "一只有着巨大嘴巴的生物。"
+
+msgid "hhhhaaaaaa....."
+msgstr "哈啊啊啊啊......"
+
+msgid "(It might be best to keep my distance...)"
+msgstr "（最好还是保持距离...）"
+
+msgid "A scary-looking monster."
+msgstr "一只看起来很吓人的怪物。"
+
+msgid "It's looking at me..."
+msgstr "它在看着我..."
+
+msgid "A person holding what seems like a lamp with fish inside."
+msgstr "一位提着灯的人，灯里似乎有鱼。"
+
+msgid "A hooded young man is lying down here."
+msgstr "一位戴着兜帽的年轻人躺在这里。"
+
+msgid "Pardon me..."
+msgstr "不好意思..."
+
+msgctxt "events.Ch1_Bus_B.chr_sai.dlg.unknown"
+msgid "..."
+msgstr "..."
+
+msgid "I need some help."
+msgstr "我需要帮助。"
+
+msgctxt "events.Ch1_Bus_B.chr_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Yeah, I wouldn't talk to me either."
+msgstr "是啊，换做是我的话，也不会想跟我说话的。"
+
+msgid "Sigh..."
+msgstr "哎..."
+
+msgid "An odd green man."
+msgstr "一位奇怪的绿色的人。"
+
+msgctxt "events.Ch1_Bus_B.chr_sleepy.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "zzzzz"
+msgstr "zzzzz"
+
+msgid "Uh... excuse me?"
+msgstr "呃...打扰一下？"
+
+msgid "zzzzzZZZZZ"
+msgstr "zzzzzZZZZZ"
+
+msgid "Looks like he's trying to sleep..."
+msgstr "看起来他正在尝试睡觉..."
+
+msgid "Some purple blobs with ...faces?"
+msgstr "一些...长着脸的紫色小球？"
+
+msgid "If I push them together, will they disappear?"
+msgstr "如果我把它们推到一起，它们会消失吗？"
+
+msgid "The bus driver must be behind these curtains."
+msgstr "巴士的司机肯定就在窗帘后面。"
+
+msgid "Take a look behind the curtains?"
+msgstr "要往窗帘后面看看吗？"
+
+msgctxt "events.Ch1_Bus_B.misc_curtain.choice.Take a look behind the curtains?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Bus_B.misc_curtain.choice.Take a look behind the curtains?"
+msgid "No"
+msgstr "否"
+
+msgid "Some colorful goop is dripping from the ceiling."
+msgstr "一些五颜六色的粘液正在从天花板上滴落下来。"
+
+msgid "An empty seat."
+msgstr "一个空位。"
+
+msgid "My seat. I didn't forget anything."
+msgstr "这是我的座位。我还没忘记呢。"
+
+msgid "Should I sit back down?"
+msgstr "我该坐回去吗？"
+
+msgctxt "events.Ch1_Bus_B.misc_seat_3.choice.Should I sit back down?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Bus_B.misc_seat_3.choice.Should I sit back down?"
+msgid "No"
+msgstr "否"
+
+msgid "A list of rules for the bus."
+msgstr "一系列巴士守则。"
+
+msgctxt "events.Ch1_Bus_B.misc_sign.dlg.lacie"
+msgid "\"No eating on the bus.\""
+msgstr "“巴士上不要吃东西。”"
+
+msgid "Seems pretty reasonable."
+msgstr "看着很合理。"
+
+msgctxt "events.Ch1_Bus_B.misc_sign.dlg.narrator"
+msgid "\"No eating on the bus.\""
+msgstr "“巴士上不要吃东西。”"
+
+msgid "The ticketing machine."
+msgstr "售票器。"
+
+msgid "You can see the bus stop and some trees out the window."
+msgstr "你能看到窗外的巴士站和一些树。"
+
+msgid "...She actually got off?"
+msgstr "...她真的下去了？"
+
+msgid "...Huh."
+msgstr "...呃。"

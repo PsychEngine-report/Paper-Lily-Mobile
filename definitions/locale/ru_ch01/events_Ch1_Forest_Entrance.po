@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no need to mess with it anymore."
+msgstr "Больше нет нужды с этим возиться."
+
+msgid "Ah... I see how it is."
+msgstr "А... вот оно что."
+
+msgid "I really dislike this kind of puzzle though..."
+msgstr "Хотя мне очень не нравятся такие головоломки..."
+
+msgid "Hm..."
+msgstr "Хм..."
+
+msgid "Is that a button behind the lamppost?"
+msgstr "Это что, кнопка за фонарным столбом?"
+
+msgid "Ah... I kind of expected them to reset..."
+msgstr "А... я думала, что они перезапустятся..."
+
+msgid "Geez... what was I thinking?"
+msgstr "Боже... о чём я только думала?"
+
+msgid "The cable has already been severed."
+msgstr "Провод уже разрезан."
+
+msgid "The cable has been cut."
+msgstr "Вы разрезали провод."
+
+msgid "A cable runs from the lamp to the bushes."
+msgstr "От фонаря и до кустов проведён провод."
+
+msgid "A heavy-looking metal gate."
+msgstr "Прочные на вид металлические ворота."
+
+msgid "Is this the Daylight Gate?"
+msgstr "Это и есть \"Дневные Врата\"?"
+
+msgid "What does it have to do with daylight?"
+msgstr "И при чём тут день?"
+
+msgid "There's a plaque next to it that reads:"
+msgstr "Рядом расположена табличка, гласящая:"
+
+msgid "A gate blocks your path."
+msgstr "Ваш путь прегреждают ворота."
+
+msgid ""
+"\"Daylight Gate\"\n"
+"\"(At daytime, the gate opens and the lamps turn off.)\""
+msgstr ""
+"\"Дневные Врата\"\n"
+"\"(Днём ворота открываются, а фонари - выключаются.)\""
+
+msgid "Day...? I don't even know what time it is..."
+msgstr "Днём?.. Я даже не знаю, сколько сейчас время..."
+
+msgid "Is there any way I can get this open without waiting?"
+msgstr "Может, получится открыть их без ожидания?"
+
+msgid "A street lamp."
+msgstr "Уличный фонарь."

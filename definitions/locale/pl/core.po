@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "On"
+msgstr "Włączone"
+
+msgid "Off"
+msgstr "Wyłączone"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Next"
+msgstr "Dalej"
+
+msgid "Back"
+msgstr "Powrót"
+
+msgid "Apply"
+msgstr "Zastosuj"
+
+msgid "Cancel"
+msgstr "Anuluj"
+
+msgid "Done"
+msgstr "Gotowe"
+
+msgid "Loading..."
+msgstr "Wczytywanie..."
+
+msgid "Key"
+msgstr "Klawisz"
+
+msgid "Button"
+msgstr "Przycisk"
+
+msgid "Axis"
+msgstr "Oś"
+
+msgid "Keyboard"
+msgstr "Klawiatura"
+
+msgid "Controller"
+msgstr "Kontroler"
+
+msgid "New Game"
+msgstr "Nowa Gra"
+
+msgid "Continue"
+msgstr "Kontynuuj Grę"
+
+msgid "Website"
+msgstr "Strona WWW"
+
+msgid "Itch.io Page"
+msgstr "Strona Itch.io"
+
+msgid "Translator Page"
+msgstr "Strona Tłumaczy"
+
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+msgid "Save"
+msgstr "Zapisz"
+
+msgid "Save Game"
+msgstr "Zapisz Stan Gry"
+
+msgid "SLOT {0}"
+msgstr "ZAPIS {0}"
+
+msgid "<EMPTY>"
+msgstr "<PUSTY>"
+
+msgid "CORRUPTED"
+msgstr "USZKODZONY"
+
+msgid "OBSOLETE"
+msgstr "PRZESTARZAŁY"
+
+msgid "Unknown Location"
+msgstr "Nieznana Lokalizacja"
+
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "Czy na pewno chcesz nadpisać ten zapis gry?"
+
+msgid "Load"
+msgstr "Wczytaj"
+
+msgid "Load Game"
+msgstr "Wczytaj Zapis"
+
+msgid "Quit"
+msgstr "Wyjdź"
+
+msgid "Debug Room"
+msgstr "Pokój Debugowania"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "Inventory"
+msgstr "Ekwipunek"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Objectives"
+msgstr "Cele"
+
+msgid "(There are no objectives)"
+msgstr "(Brak celów)"
+
+msgid "Main Menu"
+msgstr "Menu Główne"
+
+msgid "Log"
+msgstr "Dziennik"
+
+msgid "Extras"
+msgstr "Dodatki"
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "Credits"
+msgstr "Napisy Końcowe"
+
+msgid "{0} Select {1} Back"
+msgstr "{0} Wybierz {1} Wstecz"
+
+msgid "Go to Debug Room"
+msgstr "Przejdź do Pokoju Debugowania"
+
+msgid "Quit to Title Screen"
+msgstr "Wyjdź do Menu Głównego"
+
+msgid "Quit to Desktop"
+msgstr "Wyjdź do Pulpitu"
+
+msgid "Are you sure you want to quit? Unsaved progress will be lost."
+msgstr "Czy na pewno chcesz wyjść? Niezapisane postępy zostaną utracone."
+
+msgid "Game Paused!"
+msgstr "Gra Wstrzymana!"
+
+msgid "{0}{1} Select {2} Confirm"
+msgstr "{0}{1} Wybierz {2} Potwierdź"
+
+msgid "Coins: {0}"
+msgstr "Monety: {0}"
+
+msgid "Up"
+msgstr "Góra"
+
+msgid "Down"
+msgstr "Dół"
+
+msgid "Left"
+msgstr "Lewo"
+
+msgid "Right"
+msgstr "Prawo"
+
+msgid "Action/OK"
+msgstr "Działanie/OK"
+
+msgid "Run"
+msgstr "Bieganie"
+
+msgid "Special"
+msgstr "Specjalny"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Battery Saver Mode"
+msgstr "Tryb Oszczędzania Energii"
+
+msgid "Brightness"
+msgstr "Jasność"
+
+msgid "Contrast"
+msgstr "Kontrast"
+
+msgid "FPS Limit"
+msgstr "Limit FPS"
+
+msgid "Unlocked"
+msgstr "Odblokowany"
+
+msgid "V-Sync"
+msgstr "V-Sync"
+
+msgid "G-Sync"
+msgstr "G-Sync"
+
+msgid "Comp.V-Sync"
+msgstr "Comp.V-Sync"
+
+msgid "Full Screen"
+msgstr "Pełny Ekran"
+
+msgid "Internal Resolution"
+msgstr "Rozdzielczość Wewnętrzna"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Renderer"
+msgstr "Renderer"
+
+msgid "OpenGL ES 2.x"
+msgstr "OpenGL ES 2.x"
+
+msgid "OpenGL ES 3.x"
+msgstr "OpenGL ES 3.x"
+
+msgid "Resolution"
+msgstr "Rozdzielczość"
+
+msgid "Window Size"
+msgstr "Rozmiar Okna"
+
+msgid "Saturation"
+msgstr "Nasycenie"
+
+msgid "General Volume"
+msgstr "Głośność Ogólna"
+
+msgid "BGM Volume"
+msgstr "Głośność Muzyki"
+
+msgid "SFX Volume"
+msgstr "Głośność Efektów Dźwiękowych"
+
+msgid "Interface Volume"
+msgstr "Głośność Interfejsu"
+
+msgid "Text Scrolling Volume"
+msgstr "Głośność Przewijania Tekstu"
+
+msgid "Mute All Audio"
+msgstr "Wycisz Audio"
+
+msgid "Hide Mouse Cursor"
+msgstr "Ukryj Kursor Myszy"
+
+msgid "Objective Notifications"
+msgstr "Powiadomenia o Celach"
+
+msgid "Sound Settings"
+msgstr "Ustawienia Dźwięku"
+
+msgid "Screen Settings"
+msgstr "Ustawienia Ekranu"
+
+msgid "Control Settings"
+msgstr "Ustawienia Sterowania"
+
+msgid "Invalid custom controls: All actions need to be assigned!"
+msgstr "Nieprawidłowo dostosowane sterowanie: Wszystkie akcje muszą być przypisane!"
+
+msgid "Game Settings"
+msgstr "Ustawienia Gry"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+msgid "Classic"
+msgstr "Klasyczny"
+
+msgid "WASD"
+msgstr "WASD"
+
+msgid "Azerty Classic"
+msgstr "Azerty Klasyczny"
+
+msgid "Azerty WASD"
+msgstr "Azerty WASD"
+
+msgid "Dvorak Classic"
+msgstr "Dvorak Classic"
+
+msgid "Dvorak WASD"
+msgstr "Dvorak WASD"
+
+msgid "Xbox"
+msgstr "Xbox"
+
+msgid "DualShock 4"
+msgstr "DualShock 4"
+
+msgid "DualShock 4 (JP)"
+msgstr "DualShock 4 (JP)"
+
+msgid "Switch Pro"
+msgstr "Switch Pro"
+
+msgid "Generic"
+msgstr "Domyślny"
+
+msgid "Custom"
+msgstr "Dostosuj"
+
+msgid "Press a key to assign to {0}..."
+msgstr "Naciśnij klawisz, aby przypisać do {0}..."
+
+msgid "Press a button to assign to {0}..."
+msgstr "Naciśnij przycisk, aby przypisać do {0}..."
+
+msgid "Auto Switch"
+msgstr "Przełącz Automatyczny"
+
+msgid "Controller Deadzone"
+msgstr "Strefa Martwa Kontrolera"
+
+msgid "Advanced Settings"
+msgstr "Ustawienia Zaawansowane"
+
+msgid "Revert Settings to Default"
+msgstr "Przywróć Ustawienia Domyślne"
+
+msgid "Not recommended"
+msgstr "Niezalecane"
+
+msgid "Restart required"
+msgstr "Wymagany restart"
+
+msgid "Current: {0}"
+msgstr "Obecny: {0}"
+
+msgid "Hold to Fast Forward"
+msgstr "Przytrzymaj by Przewinąć Tekst"
+
+msgid "Show Skip Option"
+msgstr "Pokaż Opcję Pominięcia"
+
+msgid "Language Settings"
+msgstr "Ustawienia Językowe"
+
+msgid "Select Language"
+msgstr "Wybierz Język"
+
+msgid "Unofficial Translations"
+msgstr "Nieoficjalne Tłumaczenia"
+
+msgid "More..."
+msgstr "Więcej..."
+
+msgid ""
+"Attention!\n"
+"\n"
+"You're about to view unofficial translations. These translations are\n"
+"not developed by Leef 6010 and we take no responsibility for their accuracy.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"Uwaga!\n"
+"\n"
+"Właśnie oglądasz nieoficjalne tłumaczenia. Tłumaczenia te nie zostały\n"
+"opracowane przez Leef 6010 i nie bierzemy odpowiedzialności za ich dokładność.\n"
+"\n"
+"Kontynuować?"
+
+msgid "Objectives Updated!"
+msgstr "Cele Zaktualizowane!"
+
+msgid "(Done)"
+msgstr "(Gotowe)"
+
+msgid "{0} Give Up {1} Reset"
+msgstr "{0} Poddaj Się {1} Resetuj"
+
+msgid "{0} Slow"
+msgstr "{0} Spowolnij"
+
+msgid "{0} Next"
+msgstr "{0} Dalej"
+
+msgid "{0} Okay"
+msgstr "{0} Ok"
+
+msgid "Obtained {0} {1}"
+msgstr "Uzyskano {0} {1}"
+
+msgid "Designed By"
+msgstr "Zaprojektowane przez"
+
+msgid "Art"
+msgstr "Grafika"
+
+msgid "Programming"
+msgstr "Programowanie"
+
+msgid "Playtesting"
+msgstr "Testowanie gry"
+
+msgid "Fonts"
+msgstr "Czcionki"
+
+msgid "UI Design"
+msgstr "Projekt interfejsu"
+
+msgid "Additional UI Design"
+msgstr "Dodatkowy interfejs"
+
+msgid "Paper Lily Logo"
+msgstr "Logo Paper Lily"
+
+msgid "Paper Lily OST"
+msgstr "Ścieżka dźwiękowa Paper Lily"
+
+msgid "Music"
+msgstr "Muzyka"
+
+msgid "Additional Music"
+msgstr "Muzyka dodatkowa"
+
+msgid "SFX"
+msgstr "Efekty dźwiękowe"
+
+msgid "Additional Shaders & Special Effects"
+msgstr "Dodatkowe cieniowania i efekty specjalne"
+
+msgid "Japanese Communications"
+msgstr "Japońscy kontrybutorzy"
+
+msgid "Korean Communications"
+msgstr "Koreańscy kontrybutorzy"
+
+msgid "Additional Assets"
+msgstr "Dodatkowe zasoby"
+
+msgid "Special Thanks"
+msgstr "Specjalne podziękowania"
+
+msgid "Created By"
+msgstr "Stworzone przez"
+
+msgid "Made Using"
+msgstr "Wykonane przy użyciu"
+
+msgid "Godot Engine"
+msgstr "Godot Engine"
+
+msgid "Thank You for Playing!"
+msgstr "Dziękujemy za zagranie!"
+
+msgid "You Died"
+msgstr "Nie żyjesz"
+
+msgid "Retry"
+msgstr "Ponów próbę"
+
+msgid "Give Up"
+msgstr "Poddaj się"

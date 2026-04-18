@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The flower sank into the water."
+msgstr "花は水に沈んだ。"
+
+msgid "Pity."
+msgstr "かわいそうに。"
+
+msgid "You thought that would work?"
+msgstr "うまくいくと思いましたか？"
+
+msgid "You should be more careful about the decisions you make."
+msgstr "決断には、もっと気を付けることです。"
+
+msgid "The solution may seem obvious, but..."
+msgstr "解決策は一見明白かもしれませんが、しかし……"
+
+msgid "THERE IS ALWAYS ANOTHER WAY"
+msgstr "常に別のやり方があります"
+
+msgid "You may not notice it right away, but your actions will have an impact sooner or later."
+msgstr "すぐには気づかないかもしれませんが、あなたの行動の影響は遅かれ早かれ現れます。"
+
+msgid "You may not even remember what you did to cause it."
+msgstr "何が原因だったのかさえ、思い出せないことがあるかもしれません。"
+
+msgid "Sadly, regret is always in the shadow of choice."
+msgstr "悲しいことですが、選択の影にはいつも後悔がつきまといます。"
+
+msgid "Also, you know very well this isn't your home."
+msgstr "それに、ここがあなたの家ではないことは、よくわかっていたはずです。"
+
+msgid "So why do you mess with things that don't belong to you?"
+msgstr "それなのに、どうして自分のものではないものを弄んだのですか？"
+
+msgid "YOU'RE NOT WELCOME HERE"
+msgstr "あなたはここでは歓迎されていません"
+
+msgid "Look."
+msgstr "ご覧なさい。"
+
+msgid "This is the result of your actions."
+msgstr "これが、あなたの行動の結果です。"
+
+msgid "The result of your expectations."
+msgstr "あなたの期待の結果です。"
+
+msgid "Things are not always what they seem."
+msgstr "物事は見かけ通りとは限りません。"
+
+msgid "What do you think?"
+msgstr "どうです？"
+
+msgid "Does this still look like a flower to you?"
+msgstr "これが、まだ花に見えますか？"
+
+msgid "You're not prepared to deal with the truth."
+msgstr "あなたは真実に触れる準備ができていない。"
+
+msgid "Are you?"
+msgstr "そうでしょう？"
+
+msgid "I can't stop you from coming here."
+msgstr "私には、あなたがここに来るのを止めることはできません。"
+
+msgid "But if you're foolish enough to cross my path,"
+msgstr "ですがもし、あなたが愚かにも私の行く手に現れるなら、"
+
+msgid "I'LL KILL YOU MYSELF"
+msgstr "この手であなたを殺します"
+
+msgctxt "events.Prologue_Garden.event_bad_solution.dlg.narrator"
+msgid "...such is the way of our world."
+msgstr "……それが、私たちの世界のやり方です。"
+
+msgid "..."
+msgstr "……"
+
+msgid "The door opened!"
+msgstr "扉が開いた！"
+
+msgid "Fascinating."
+msgstr "おもしろい。"
+
+msgid "You've done the opposite of what I expected."
+msgstr "あなたは私の予測とは正反対のことをしました。"
+
+msgid "A delightful surprise."
+msgstr "嬉しい誤算です。"
+
+msgid "How did you know, I wonder?"
+msgstr "一体、どうしてわかったのでしょう？"
+
+msgid "Perhaps you're different."
+msgstr "あなたが変わっているからか、"
+
+msgid "Or perhaps..."
+msgstr "あるいは……"
+
+msgid "...you cheated?"
+msgstr "……ズルをしたか？"
+
+msgid "How odd."
+msgstr "奇妙なことです。"
+
+msgid "Regardless, I advise you not to mess with things that don't belong to you."
+msgstr "いずれにしても、自分のものではないものを弄ばないことです。"
+
+msgid "It's not safe for you."
+msgstr "それは、危険な行いです。"
+
+msgid "As you already know, in this place..."
+msgstr "既にご存知の通り、ここでは……"
+
+msgid "THINGS ARE NOT ALWAYS WHAT THEY SEEM"
+msgstr "ものごとは見かけ通りとは限りません"
+
+msgid "The answers you're looking for are not yours to take,"
+msgstr ""
+"あなたが探している答えは、あなたが知るべきものでは\n"
+"なく、"
+
+msgid "You're not ready to learn the truth..."
+msgstr "あなたは、真実を知る準備ができていない……"
+
+msgid "...and the truth is not willing to be learned by you."
+msgstr "そして真実は、あなたに知られたがっていない。"
+
+msgid "I can't stop you from coming."
+msgstr "私にはあなたが来るのを止めることはできません。"
+
+msgid "Just know that if you do,"
+msgstr "ですが、もし来れば、"
+
+msgid "YOU WILL BE KILLED"
+msgstr "あなたは殺されます"
+
+msgctxt "events.Prologue_Garden.event_good_solution.dlg.narrator"
+msgid "...such is the way of our world."
+msgstr "……それが、私たちの世界のやり方です。"
+
+msgid "The building ahead seems locked somehow."
+msgstr "先のほうにある建物には、鍵がかかっているようだ。"
+
+msgid "There's a white flower on the ground."
+msgstr "地面に白い花がある。"
+
+msgid "Take Flower?"
+msgstr "花を拾う？"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_get.choice.Take Flower?"
+msgid "Yes"
+msgstr "拾う"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_get.choice.Take Flower?"
+msgid "No"
+msgstr "拾わない"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase1.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "既に花が活けてある。"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase2.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "既に花が活けてある。"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase3.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "既に花が活けてある。"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase4.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "既に花が活けてある。"
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase1.dlg.narrator"
+msgid "The light turned green."
+msgstr "電球が緑に変わった。"
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase1.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "既に花が活けてある。"
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase2.dlg.narrator"
+msgid "The light turned green."
+msgstr "電球が緑に変わった。"
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase2.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "既に花が活けてある。"
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase3.dlg.narrator"
+msgid "The light turned green."
+msgstr "電球が緑に変わった。"
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase3.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "既に花が活けてある。"
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase4.dlg.narrator"
+msgid "The light turned green."
+msgstr "電球が緑に変わった。"
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase4.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "既に花が活けてある。"
+
+msgid "A door with 4 colored lights."
+msgstr "色付きの電球が4つ付いた扉。"
+
+msgid "It's locked."
+msgstr "鍵がかかっている。"
+
+msgid "A small building adorned with flowers."
+msgstr "花で飾られた小さな建物。"
+
+msgid "A tree with pink flowers."
+msgstr "ピンク色の花の咲いた木。"
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "白い花が活けてある大きな花瓶。"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice"
+msgid "Take out the flower?"
+msgstr "花を取る？"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Take out the flower?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Take out the flower?"
+msgid "No"
+msgstr "取らない"
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "The green light turned red."
+msgstr "緑の電球が赤に変わった。"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice"
+msgid "Put the flower back in?"
+msgstr "花を戻す？"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "戻す"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Put the flower back in?"
+msgid "No"
+msgstr "戻さない"
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "The light turned back green."
+msgstr "電球は緑に戻った。"
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "大きな花瓶。花はない。"
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "白い花が活けてある大きな花瓶。"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice"
+msgid "Take out the flower?"
+msgstr "花を取る？"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Take out the flower?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Take out the flower?"
+msgid "No"
+msgstr "取らない"
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "The green light turned red."
+msgstr "緑の電球が赤に変わった。"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice"
+msgid "Put the flower back in?"
+msgstr "花を戻す？"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "戻す"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Put the flower back in?"
+msgid "No"
+msgstr "戻さない"
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "The light turned back green."
+msgstr "電球は緑に戻った。"
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "大きな花瓶。花はない。"
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "白い花が活けてある大きな花瓶。"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice"
+msgid "Take out the flower?"
+msgstr "花を取る？"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Take out the flower?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Take out the flower?"
+msgid "No"
+msgstr "取らない"
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "The green light turned red."
+msgstr "緑の電球が赤に変わった。"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice"
+msgid "Put the flower back in?"
+msgstr "花を戻す？"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "戻す"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Put the flower back in?"
+msgid "No"
+msgstr "戻さない"
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "The light turned back green."
+msgstr "電球は緑に戻った。"
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "大きな花瓶。花はない。"
+
+msgid "A big flower vase. Unlike the others, this one has no flower."
+msgstr "大きな花瓶。他のと違って、花は活けられていない。"
+
+msgid "A big flower vase. I placed a flower inside."
+msgstr "大きな花瓶。さっき花を活けた。"
+
+msgid "Take it out?"
+msgstr "花を取る？"
+
+msgctxt "events.Prologue_Garden.misc_vase4.choice.Take it out?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Garden.misc_vase4.choice.Take it out?"
+msgid "No"
+msgstr "取らない"
+
+msgid "The light turned back red."
+msgstr "電球は赤に戻った。"
+
+msgid "Some large windows. You can't see what's inside."
+msgstr "大きな窓。中は見えない。"

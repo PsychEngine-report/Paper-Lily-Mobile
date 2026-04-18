@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Go to your room"
+msgstr "Đi về phòng"
+
+msgid "This day needs to end. I want to lie in bed."
+msgstr "Hôm nay phải chấm dứt thôi. Mình muốn lên giường nằm."
+
+msgid "Find the ritual items"
+msgstr "Đi kiếm đồ làm nghi thức"
+
+msgid "I should gather the items that I'll need for the ritual. Shouldn't be too hard."
+msgstr "Mình nên đi thu thập mấy món đồ mình cần cho nghi thức. Không khó lắm đâu nhỉ."
+
+msgid "Something red to draw"
+msgstr "Cái gì đó màu đỏ để vẽ"
+
+msgid "I need to find something red to paint or mark the front of the house with."
+msgstr "Mình cần kiếm cái gì đó màu đỏ để sơn hoặc đánh dấu lên mặt trước căn nhà."
+
+msgid "Something red to tie"
+msgstr "Cái gì đó màu đỏ để buộc"
+
+msgid "I need to find something red to tie onto the phone cord."
+msgstr "Mình cần kiếm cái gì đó màu đỏ để buộc vào dây thoại."
+
+msgid "Prepare the ritual"
+msgstr "Chuẩn bị nghi thức"
+
+msgid "I need to prepare the ritual before night time."
+msgstr "Mình cần chuẩn bị nghi thức trước khi đêm đến."
+
+msgid "Paint symbol"
+msgstr "Vẽ biểu tượng"
+
+msgid "I need to paint a symbol on the front door of the house. I hope no one will see me..."
+msgstr "Mình cần vẽ một biểu tượng lên cửa trước của căn nhà. Mong là không ai nhìn thấy..."
+
+msgid "Tie string on phone cord"
+msgstr "Buộc sợi lên dây thoại"
+
+msgid "I need to tie a red ribbon on the cord of my landline phone in the kitchen."
+msgstr "Mình cần buộc ruy-băng đỏ lên dây thoại của điện thoại bàn trong phòng bếp."
+
+msgid "Set alarm clock"
+msgstr "Đặt đồng hồ báo thức"
+
+msgid "I need to set an alarm for midnight."
+msgstr "Mình cần đặt báo thức lúc nửa đêm."
+
+msgid "Get the ritual reversal instructions"
+msgstr "Lấy hướng dẫn đảo ngược nghi thức"
+
+msgid "I messed up the ritual. I need to undo it by following the steps I left at my PC."
+msgstr "Mình làm nghi thức hỏng rồi. Cần phải làm theo các bước mình có chép lại trong PC để hoàn tác."
+
+msgid "Undo the ritual"
+msgstr "Hoàn tác nghi thức"
+
+msgid "I need to undo the ritual for my own safety."
+msgstr "Vì an toàn bản thân, mình cần hủy bỏ cái nghi thức."
+
+msgid "Untie red string"
+msgstr "Tháo sợi dây đỏ"
+
+msgid "Add salt to front door"
+msgstr "Rắc muối cửa trước"
+
+msgid "Add salt to back door"
+msgstr "Rắc muối cửa sau"
+
+msgid "Add salt to garage door"
+msgstr "Rắc muối cửa ga-ra"
+
+msgid "Go to sleep"
+msgstr "Đi ngủ"
+
+msgid "The ritual reversal is complete. There's nothing left to do other than to get in bed."
+msgstr "Đảo ngược nghi thức đã hoàn tất. Không còn gì làm ngoài việc lên giường đi ngủ."
+
+msgid "Talk to Hiro"
+msgstr "Nói chuyện với anh Hiro"
+
+msgid "I need to tell Hiro to leave the house..."
+msgstr "Mình cần bảo anh Hiro rời khỏi nhà..."
+
+msgid "Get in bed"
+msgstr "Lên giường"
+
+msgid "Apparently, I need to lie in bed until the alarm goes off."
+msgstr "Xem ra mình cần nằm trên giường đến khi báo thức reo."
+
+msgid "Call the Bus"
+msgstr "Gọi xe buýt"
+
+msgid "I need to call the bus. The phone number I should dial is 999281#0."
+msgstr "Mình cần gọi xe buýt. Số điện thoại phải quay là 999281#0."
+
+msgid "Take the Bus"
+msgstr "Đáp chuyến xe buýt"
+
+msgid "Get on the bus. Hurry!"
+msgstr "Lên xe buýt. Nhanh nhanh!"
+
+msgid "Look Around"
+msgstr "Dò xét loanh quanh"
+
+msgid "I arrived somewhere. What do I do now?"
+msgstr "Mình đến được nơi nào đó rồi. Làm gì giờ?"
+
+msgid "Explore the Forest"
+msgstr "Khám phá khu rừng"
+
+msgid "I arrived at my destination. Can I find someone to help me?"
+msgstr "Mình tới nơi rồi. Có tìm được ai giúp đỡ không đây?"
+
+msgid "Rotate the Signs"
+msgstr "Xoay các tấm biển"
+
+msgid "I think I can open up a path towards the Daylight Gate if I rotate the blue signs towards the correct direction."
+msgstr "Nghĩ là mình nếu xoay mấy tấm biển màu lam chỉ về đúng hướng thì có thể mở ra một con đường dẫn đến Cổng Bạch Nhật."
+
+msgid "Open the Daylight Gate"
+msgstr "Mở Cổng Bạch Nhật"
+
+msgid "There's a gate impeding my progress. I need to find a way to open it."
+msgstr "Có một cánh cổng to bự ngăn cản hành trình của mình. Cần phải tìm cách mở nó ra thôi."
+
+msgctxt "objectives.name.ch1.forest_station_sign"
+msgid "Restore the Sign"
+msgstr "Hoàn lại tấm biển"
+
+msgid "A sign is missing from the front of the station. If I find it, I should put it back in place."
+msgstr "Chỗ đằng trước trạm tàu bị thiếu mất tấm biển. Nếu tìm thấy nó, mình nên để lại vào chỗ cũ."
+
+msgctxt "objectives.name.ch1.forest_station_sign_2"
+msgid "Restore the Sign"
+msgstr "Hoàn lại tấm biển"
+
+msgid "I found a blue sign. I should put it back in its spot in front of the station."
+msgstr "Mình tìm thấy tấm biển màu lam. Nên đặt nó lại vị trí đằng trước trạm tàu thôi."
+
+msgid "Pick the Right Path"
+msgstr "Lựa đúng con đường"
+
+msgid "There are three paths in front of me, and a ticket as a hint for which one to pick..."
+msgstr "Có ba con đường phía trước mình, và một tấm vé làm gợi ý để chọn đúng con đường..."
+
+msgid "Enter the Locked Site"
+msgstr "Tiến vào Khu Bị khóa"
+
+msgid "Seems like the only way north might be through the Locked Site."
+msgstr "Xem ra đường duy nhất lên phía bắc có khi là đi qua Khu Bị khóa rồi."
+
+msgid "Find a Light"
+msgstr "Tìm Nguồn sáng"
+
+msgid "Apparently, I'll' need a light to walk into the Locked Site."
+msgstr "Có vẻ mình sẽ phải cần nguồn sáng để bước vào Khu Bị khóa."
+
+msgid "Find 3 Keys"
+msgstr "Tìm 3 chiếc chìa khóa"
+
+msgid ""
+"I found clues to the location of the three keys for the padlocks:\n"
+"-Behind a tree\n"
+"-In a cactus pot\n"
+"-Under a fake rug"
+msgstr ""
+"Mình tìm ra manh mối vị trí của ba chiếc chìa để mở mấy cái khóa móc:\n"
+"-Đằng sau cái cây\n"
+"-Trong chậu cây xương rồng\n"
+"-Dưới thảm ngụy trang"
+
+msgid "Key 1"
+msgstr "Chìa 1"
+
+msgid "Key 2"
+msgstr "Chìa 2"
+
+msgid "Key 3"
+msgstr "Chìa 3"
+
+msgid "Find an Exit"
+msgstr "Tìm đường thoát"
+
+msgid "You're trapped inside the fairy ring. Find a way out!"
+msgstr "Bạn bị mắc kẹt bên trong vòng yêu tinh rồi. Tìm lối thoát đi!"
+
+msgid "Find a Head"
+msgstr "Tìm Đầu"
+
+msgid "Find a new head for Kozmo. Hurry, he seems in danger!"
+msgstr "Kiếm một cái đầu mới cho Kozmo. Lẹ lên, hình như ổng đang nguy!"
+
+msgid "Give the new head to Kozmo"
+msgstr "Đưa cái đầu mới cho Kozmo"
+
+msgid "Kozmo needs his new head. Hurry!"
+msgstr "Kozmo cần cái đầu mới. Nhanh!"
+
+msgid "Find the Lighthouse"
+msgstr "Đi tìm Nhà hải đăng"
+
+msgid "By continuing north through the forest, I should be able to find the lighthouse at some point."
+msgstr "Tiếp tục hướng lên phía bắc qua khu rừng thì đến lúc nào đó mình sẽ có thể tìm được cái nhà hải đăng."
+
+msgid "Find Paddles"
+msgstr "Kiếm Mái chèo"
+
+msgid "There's a boat I can take to continue north, but I need paddles."
+msgstr "Có cái thuyền mình có thể lên để tiếp tục đi phía Bắc, nhưng cần phải có mái chèo."
+
+msgid "Get Rid of the Monster"
+msgstr "Tống khứ con quái vật"
+
+msgid "There's a boat I can take to continue north, but a monster is guarding it."
+msgstr "Có con thuyền mình có thể dùng để tiếp tục về phía Bắc, nhưng có con quái vật đang canh gác nó."
+
+msgid "Take the Boat"
+msgstr "Lên Con thuyền"
+
+msgid "Taking the boat might be the only way to continue north."
+msgstr "Chèo con thuyền đấy có khi là đường duy nhất để đi phía Bắc."
+
+msgid "Get Rid of the Caterpillar"
+msgstr "Tống khứ Con sâu"
+
+msgid "The moths will reward me with a doorknob if I get rid of it..."
+msgstr "Nếu mình tống khứ nó đi thì tụi ngài sẽ đền đáp cho mình một cái núm cửa..."
+
+msgid "Get Your Reward"
+msgstr "Đi nhận Đền đáp"
+
+msgid "The moths should reward me with a doorknob now."
+msgstr "Tụi ngài sẽ đền đáp cho mình một cái núm cửa rồi."
+
+msgid "Use the Doorknob"
+msgstr "Sử dụng Cái núm cửa"
+
+msgid "I got a doorknob from the moths. It seems to be the only way forward."
+msgstr "Mình lấy được cái núm cửa từ tụi ngài rồi. Có vẻ là đường duy nhất mà tiến lên."
+
+msgid "Escape your prison"
+msgstr "Thoát ngục"
+
+msgid "I woke up in a strange prison cell. I need to get out of here."
+msgstr "Mình tỉnh dậy trong cái buồng giam kì lạ. Mình cần thoát ra khỏi đây."
+
+msgid "Investigate the facility"
+msgstr "Điều tra khu cơ sở"
+
+msgid "Explore this place."
+msgstr "Khám phá nơi này."
+
+msgid "Find a way to go deeper down"
+msgstr "Tìm đường để đi xuống sâu hơn"
+
+msgid "The only way out of the facility is by going deeper down, according to Rune."
+msgstr "Đường duy nhất ra khỏi cái khu cơ sở là bằng cách đi xuống sâu hơn, theo lời Rune là vậy."
+
+msgid "Lower the water level"
+msgstr "Hạ mực nước"
+
+msgid "In order to go deeper, the water level may need to be lowered somehow."
+msgstr "Để đi sâu hơn, mực nước có thể cần được hạ xuống bằng cách nào đó."
+
+msgid "Fix the elevator"
+msgstr "Sửa thang máy"
+
+msgid "In order to go deeper, the elevator could perhaps be fixed."
+msgstr "Để đi sâu hơn, có lẽ sửa lại cái thang máy là được."
+
+msgid "Find the cursed door"
+msgstr "Tìm cánh cửa bị nguyền"
+
+msgid "Rune said there should be a cursed door that leads outside, somewhere deep in this facility."
+msgstr "Rune bảo sẽ có cái cánh cửa bị nguyền mà dẫn ra bên ngoài, đâu đó ở sâu vào trong khu cơ sở này."
+
+msgid "Find an exit"
+msgstr "Tìm lối ra"
+
+msgid "Find a way to leave this strange house."
+msgstr "Tìm đường để ra khỏi căn nhà kì lạ này."
+
+msgid "Find your items"
+msgstr "Tìm đồ đạc bản thân"
+
+msgid "Find out what happened to your items and retrieve them."
+msgstr "Tìm hiểu xem đồ đạc của bạn ra sao rồi lấy lại."
+
+msgid "Help Sai escape"
+msgstr "Giúp Sai thoát ra"
+
+msgid "Find a way to unlock the cage Sai is in."
+msgstr "Tìm cách mở khóa cái lồng nhốt Sai."
+
+msgid "Find and Unseal 5 Special Items"
+msgstr "Tìm và Giải phong ấn 5 Món đồ Đặc biệt"
+
+msgid "Miss Knives keeps 5 important items in her house. I need to find and unseal each of them."
+msgstr "Chị Dao cất 5 món đồ quan trọng đấy trong nhà. Mình cần tìm và giải phong ấn từng cái."
+
+msgid "Ask Spider What To Do Next"
+msgstr "Hỏi Nhền Nhện xem làm gì tiếp đây"
+
+msgid "I have the 5 items, but I don't know what to do with them."
+msgstr "Mình xong 5 cái món đồ rồi, nhưng không biết làm gì với mấy món này đây."
+
+msgid "Find a Lighter"
+msgstr "Tìm bật lửa"
+
+msgid "I need to find something to start a fire with."
+msgstr "Mình cần kiếm cái gì đó để nhóm lửa."
+
+msgid "Burn the 5 Special Items"
+msgstr "Đốt 5 Cái món đồ Đặc biệt"
+
+msgid "I need to burn the items in the correct order. There's a fireplace I could use."
+msgstr "Mình cần đốt mấy món đồ theo đúng thứ tự. Có cái chỗ nhóm lửa dùng được đấy."
+
+msgid "Bring Alcohol to the Plant"
+msgstr "Mang Rượu cho Cái cây"
+
+msgid "One of the plants requires alcohol (or water)."
+msgstr "Một trong mấy cái cây đấy yêu cầu rượu (hoặc nước)."
+
+msgid "Bring Food to the Plant"
+msgstr "Mang Thức ăn cho Cái cây"
+
+msgid "One of the plants requires to be fed. Meat is recommended."
+msgstr "Một trong mấy cái cây đấy yêu cầu được cho ăn. Là thịt lại càng tốt."
+
+msgid "Play Music for the Plant"
+msgstr "Chơi Nhạc cho Cái cây"
+
+msgid "One of the plants requires music."
+msgstr "Một trong mấy cái cây đấy yêu cầu âm nhạc."
+
+msgid "Bring Flowers to the Plant"
+msgstr "Mang Hoa cho Cái cây"
+
+msgid "One of the plants requires a flower crown."
+msgstr "Một trong mấy cái cây đấy yêu cầu miện hoa."
+
+msgid "Perform the Paper Lily ritual"
+msgstr "Thực hiện nghi thức Bách hợp Giấy"
+
+msgid "In order to open the door, the letter needs to be folded into a paper lily and placed in the jar."
+msgstr "Để mở cánh cửa, lá thư cần được gấp thành hoa bách hợp giấy rồi bỏ vào trong cái lọ."
+
+msgid "Go through the door"
+msgstr "Đi qua cánh cửa."
+
+msgid "The door is open. I can go home."
+msgstr "Cánh cửa mở rồi. Mình về nhà được rồi."
+
+msgctxt "objectives.name.ch1.blackpass_1_leave"
+msgid "Get to the Wardrobe"
+msgstr "Tới chỗ tủ quần áo"
+
+msgctxt "objectives.desc.ch1.blackpass_1_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Chỉ khi tới được cái tủ quần áo lớn ở chỗ tận cùng thì mới có thể thức dậy khỏi mấy cái giấc mơ này."
+
+msgctxt "objectives.name.ch1.blackpass_2_leave"
+msgid "Get to the Wardrobe"
+msgstr "Tới chỗ tủ quần áo"
+
+msgctxt "objectives.desc.ch1.blackpass_2_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Chỉ khi tới được cái tủ quần áo lớn ở chỗ tận cùng thì mới có thể thức dậy khỏi mấy cái giấc mơ này."
+
+msgctxt "objectives.name.ch1.blackpass_3_leave"
+msgid "Get to the Wardrobe"
+msgstr "Tới chỗ tủ quần áo"
+
+msgctxt "objectives.desc.ch1.blackpass_3_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Chỉ khi tới được cái tủ quần áo lớn ở chỗ tận cùng thì mới có thể thức dậy khỏi mấy cái giấc mơ này."
+
+msgctxt "objectives.name.ch1.blackpass_4_leave"
+msgid "Get to the Wardrobe"
+msgstr "Tới chỗ tủ quần áo"
+
+msgctxt "objectives.desc.ch1.blackpass_4_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Chỉ khi tới được cái tủ quần áo lớn ở chỗ tận cùng thì mới có thể thức dậy khỏi mấy cái giấc mơ này."
+
+msgid "Find a _____ for mom"
+msgstr "Kiếm cái _____ cho mẹ"
+
+msgid "It's in a closet in the garage."
+msgstr "Nó ở trong cái tủ đồ trong ga-ra."

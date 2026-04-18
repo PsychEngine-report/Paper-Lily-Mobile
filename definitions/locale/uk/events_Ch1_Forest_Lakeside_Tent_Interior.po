@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Please hurry, or my sister will kill us both."
+msgstr "Благаю, хутчіш, або моя сестра уб'є нас обох."
+
+msgid "Here or outside is fine."
+msgstr "Можеш тут або на вулиці."
+
+msgid "We really appreciate it."
+msgstr "Ми дуже вдячні."
+
+msgid "Hurry the hell up already!"
+msgstr "Ану хутчіш давай!"
+
+msgid "What are you doing?"
+msgstr "Ти що робиш?"
+
+msgid "Don't babysit him, KILL HIM!"
+msgstr "Не панькайся з ним, УБИЙ ЙОГО!"
+
+msgid "Oh my god. The silence. It's so damn good."
+msgstr "О господи милосердний. Тиша. Як же приємно."
+
+msgid "Here you go, you earned it."
+msgstr "Ось, тримай, заслужила."
+
+msgid "Not sure why you'd want this though."
+msgstr "Хоча я навіть не знаю, як воно тобі стане в пригоді."
+
+msgid "Thanks."
+msgstr "Дякую."
+
+msgid "Thank the cursed heavens it's gone."
+msgstr "Хвала великим силам, що його більше немає."
+
+msgid "Alright, I guess I'll just..."
+msgstr "Добре, тоді я просто..."
+
+msgid "Yes, kill it. Do it."
+msgstr "Так, убий його. Давай."
+
+msgid "Quickly."
+msgstr "Швидко."
+
+msgid "HUZZAH!!!!!"
+msgstr "НА ТОБІ!!!!!"
+
+msgid "Finally."
+msgstr "Нарешті."
+
+msgid "Dead dead dead!"
+msgstr "Помер-помер-помер!"
+
+msgid "You'll kill him???"
+msgstr "Ти його вб'єш???"
+
+msgid "I guess so."
+msgstr "Виходить, що так."
+
+msgid "THANK THE HEAVENS."
+msgstr "ХВАЛА НЕБЕСАМ."
+
+msgid "..."
+msgstr "..."
+
+msgid "You shut the hell up. You're dead meat, jerk."
+msgstr "А ти замовкни. Ти небіжчик, покидьку."
+
+msgid "Farewell, little brother. It has been a displeasure."
+msgstr "Бувай, братику. Був не радий знайомству."
+
+msgid "(What now...?)"
+msgstr "(Що тепер?..)"
+
+msgid "Kill it here"
+msgstr "Вбити його тут"
+
+msgid "Do not"
+msgstr "Нічого не робити"
+
+msgid "Why're you carrying a bucket?"
+msgstr "Навіщо тобі з собою відро?"
+
+msgid "(To be honest, I'm not so sure myself.)"
+msgstr "(Якщо казати по правді, я сама не дуже розумію.)"
+
+msgid "(Um...)"
+msgstr "(Ем...)"
+
+msgid "What's taking so long?!"
+msgstr "Чого ти так довго?!"
+
+msgid "...Damn. That was pretty metal."
+msgstr "...Дідько. Це було жорстко."
+
+msgid "It stinks though."
+msgstr "Але тепер стоїть сморід."
+
+msgid "No take backs!"
+msgstr "Назад нічого не приймаємо!"
+
+msgid "Dang."
+msgstr "Чорт."
+
+msgid "Huh... he's a lot quieter when he's with you."
+msgstr "Ха… а поруч з тобою він куди як тихіший."
+
+msgid "Maybe he's anticipating his demise!?"
+msgstr "Може, він уже очікує свою кару?!"
+
+msgid "Oh man, can't wait!!!"
+msgstr "О-хо-хо, не можу дочекатися!!!"
+
+msgid "I don't need to see him anymore."
+msgstr "Я більше не хочу його бачити."
+
+msgid "Not ALIVE, at least."
+msgstr "Тим паче живим."
+
+msgid "Do you know where this leads?"
+msgstr "Ти знаєш, куди веде ця ручка?"
+
+msgid "No. We found that lying around when we were setting up camp."
+msgstr "Ні. Ми знайшли цю штуку у траві, поки ставили табір."
+
+msgid "I see..."
+msgstr "Зрозуміло..."
+
+msgid "No idea."
+msgstr "Гадки не маю."
+
+msgid "Please, we already gave you the doorknob."
+msgstr "Благаю, ми вже дали тобі дверну ручку."
+
+msgid "What more do you want?"
+msgstr "Що ще тобі треба?"
+
+msgid "Oh god..."
+msgstr "О боже..."
+
+msgid "Please stop, I seriously can't stand that."
+msgstr "Благаю, зупинись, я це не витримаю."
+
+msgid "Get that shit away from me."
+msgstr "Прибери від мене це лайно."
+
+msgid "Hate that crap."
+msgstr "Терпіти не можу цю чортівню."
+
+msgid "Alright alright geez!"
+msgstr "Добре, добре, досить!"
+
+msgid "Just take the stupid doorknob and leave!"
+msgstr "Забирай цю дурну ручку та забирайся звідси!"
+
+msgid "That smells putrid..."
+msgstr "Воно тхне..."
+
+msgid "I guess I get to keep him...?"
+msgstr "Виходить, я можу його залишити?.."
+
+msgid "No thanks, I don't care for stones."
+msgstr "Ні, дякую, мене не цікавлять камінчики."
+
+msgid "The heck would I need that for?"
+msgstr "На біса вони мені потрібні?"
+
+msgid "I don't know."
+msgstr "Не знаю."
+
+msgid "To give to Rune..?"
+msgstr "Можна дати їх Руну?.."
+
+msgid "Who the heck is Rune?"
+msgstr "Хто такий Рун, чорт забирай?"
+
+msgid "What in the world are you doing!?"
+msgstr "Що ти в біса робиш?!"
+
+msgid "Maybe she's deranged."
+msgstr "Може, вона навіжена."
+
+msgid "You said to kill it."
+msgstr "Ти сказала вбити його."
+
+msgid "Yeah, so do it already!"
+msgstr "Ну так убий!"
+
+msgid "(Hmmm...)"
+msgstr "(Хм…)"
+
+msgid "(I guess salt doesn't work on moths.)"
+msgstr "(Схоже, сіль не працює на метеликів.)"
+
+msgid "What. The. FUCK."
+msgstr "Ах. Ти ж. КУРВА."
+
+msgid "...Oh man..."
+msgstr "...От дідько..."
+
+msgid "A fireplace."
+msgstr "Багаття."
+
+msgid "(There's no smoke...?)"
+msgstr "(Диму немає?..)"
+
+msgid "Take ${item:ch1.forest_caterpillar}?"
+msgstr "Взяти предмет: ${item:ch1.forest_caterpillar}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"

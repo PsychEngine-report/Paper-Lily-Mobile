@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "\"You couldn't tell your father goodbye back then, and now you won't get to tell your mother goodbye either.\""
+msgstr "\"Mày không thể nói lời từ biệt phụ thân vào hồi đó, và giờ mày cũng sẽ không thể nói lời từ biệt mẫu thân luôn.\""
+
+msgctxt "events.Prologue_Nightmare_5.misc_paper1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "\"What if I told you that someone you know is in here with you?\""
+msgstr "\"Nếu tao bảo rằng có người mày quen biết đang ở đây cùng mày thì sao?\""
+
+msgid "\"Would that make you hopeful? Relieved?\""
+msgstr "\"Có làm mày thấy hy vọng không? An tâm không?\""
+
+msgid "\"I know you're thinking you can escape with them...\""
+msgstr "\"Tao biết mày đang nghĩ rằng có thể trốn thoát cùng với chúng...\""
+
+msgid "\"...but these rituals have no way back. They were never designed that way.\""
+msgstr "\"...ấy nhưng mấy nghi thức này làm gì có đường lui. Nghi thức không hề được tạo ra theo kiểu như vậy.\""
+
+msgid "\"After all,\""
+msgstr "\"Mà vốn dĩ,\""
+
+msgid "\"Why would you give your prey an escape?\""
+msgstr "\"làm gì có chuyện con mồi mình bắt được lại để cho chạy thoát cơ chứ?\""
+
+msgctxt "events.Prologue_Nightmare_5.misc_paper4.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "The figures are bunched up against the glass."
+msgstr "Mấy bóng người đang chen chúc vào cửa kính."
+
+msgid "The glass seems to be giving out."
+msgstr "Cửa kính có vẻ muốn vỡ ra rồi."
+
+msgid "Kat, I know more about you than you think."
+msgstr "Kat à, tao biết về mày rõ hơn ai hết đấy."
+
+msgid "Let me show you something."
+msgstr "Để tao cho mày thấy cái này."
+
+msgid "Huh...? This is..."
+msgstr "Ơ...? Đây là..."
+
+msgid "The door is stuck. It won't open."
+msgstr "Cửa bị kẹt không mở được."

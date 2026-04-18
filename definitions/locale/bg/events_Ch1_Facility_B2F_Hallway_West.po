@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't have the brain power for this right now."
+msgstr "В момента нямам достатъчно мозъчна енергия за това."
+
+msgid "You know... I could just jump over those boxes and get you the thingy."
+msgstr "Знаеш ли... Мога просто да прескоча тези кутии и да ти донеса това нещо."
+
+msgid "Still not interested?"
+msgstr "Все още ли не проявяваш интерес?"
+
+msgid "Ask Sai to get the shiny?"
+msgstr "Питай Саи да вземе блестящото?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Alright... knock yourself out."
+msgstr "Добре… нокаутирайте се."
+
+msgid "Be right back!"
+msgstr "Веднага се връщам!"
+
+msgid "Moments later..."
+msgstr "Мигове по-късно…"
+
+msgid "Easy peasy."
+msgstr "Фасулска работа."
+
+msgid "Still not interested."
+msgstr "Все още не съм заинтересована."
+
+msgid "No, I want to do it myself."
+msgstr "Не, искам аз да го направя."
+
+msgid "The key fits!"
+msgstr "Ключът пасва!"
+
+msgid "Nothing happens."
+msgstr "Нищо не се случва."
+
+msgid "An elevator door."
+msgstr "Врата на асансьор."
+
+msgid "There's a massive gap on the floor. You can't reach the door."
+msgstr "Има огромна празнина на пода. Не можете да стигнете до вратата."
+
+msgid "The plank allows you to cross freely."
+msgstr "Дъската ви позволява да прекосите свободно."
+
+msgid "I've seen another hole that could use a plank like this..."
+msgstr "Виждала съм и друга подобна дупка, която може да използва сходна на тази дъска…"
+
+msgid "Move the plank to the other hole?"
+msgstr "Премести дъската към другата дупка?"
+
+msgid "Uugh... This is really heavy..."
+msgstr "Ууърр… Това е наистина тежко..."
+
+msgid "Hey, let me carry that."
+msgstr "Хей, дай на мен да го нося."
+
+msgid "Since you removed the plank, you can't cross anymore."
+msgstr "Тъй като сте премахнали дъската, вече не можете да преминете."
+
+msgid "It's locked."
+msgstr "Заключено е."

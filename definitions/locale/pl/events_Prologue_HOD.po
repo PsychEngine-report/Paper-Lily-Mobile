@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That's strange."
+msgstr "To dziwne."
+
+msgid "Have I already passed through here?"
+msgstr "Czy ja już tędy przechodziłam?"
+
+msgid "..."
+msgstr "... "
+
+msgid "I have."
+msgstr "Tak, przechodziłam..."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "There must be something I missed."
+msgstr "Musi być coś, co przeoczyłam."
+
+msgid "Um... am I lost? I don't remember this hallway being so long before."
+msgstr "Czy ja się zgubiłam? Nie pamiętam, żeby ten korytarz był wcześniej taki długi."
+
+msgid "Uh-oh... The hairpin is bent badly."
+msgstr "Yyyy... Spinka do włosów się wygięła."
+
+msgid "I don't think it can take much more of this."
+msgstr "Nie sądzę, że wytrzyma długo."
+
+msgid "The hairpin broke."
+msgstr "Spinka do włosów pękła."
+
+msgid "The door unlocked!"
+msgstr "Drzwi się otworzyły!"
+
+msgid "Before proceeding through the door, do you wish to save your progress?"
+msgstr "Czy przed przejściem przez drzwi chcesz zapisać swój postęp?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "The lock looks really sturdy."
+msgstr "Zamek wygląda naprawdę solidnie."
+
+msgid "Should I try to pick it?"
+msgstr "Spróbować go otworzyć?"
+
+msgid "There's a key hanging from a hook."
+msgstr "Na haczyku wisi klucz."
+
+msgid "Take Key?"
+msgstr "Wziąć klucz?"
+
+msgid "There's nothing left."
+msgstr "Nic nie zostało."
+
+msgid "The key fits!"
+msgstr "Klucz pasuje!"
+
+msgid "I don't suppose I could burn these planks down...?"
+msgstr "Chyba nie mogłabym spalić tych desek...?"
+
+msgid "Ugh, it's no use. I'll run out of fuel before they even warm up."
+msgstr "To nie ma sensu. Skończy mi się paliwo, zanim się nawet rozgrzeją."
+
+msgid "There's no point in that."
+msgstr "To bez sensu."
+
+msgid "Hm... This is a closed space."
+msgstr "Hm... To jest zamknięta przestrzeń."
+
+msgid "If this turns out to be flammable, it could get really dangerous."
+msgstr "Jeśli okaże się, że jest to materiał łatwopalny, może to być naprawdę niebezpieczne."
+
+msgid "I really shouldn't."
+msgstr "Naprawdę nie powinnam."
+
+msgid "This door has no keyhole."
+msgstr "Te drzwi nie mają dziurki od klucza."
+
+msgid "This key doesn't fit here."
+msgstr "Ten klucz tu nie pasuje."
+
+msgid "A black substance drips down from here."
+msgstr "Z tego miejsca kapie czarna substancja."
+
+msgid "Where is this stuff coming from?"
+msgstr "Skąd się to bierze?"
+
+msgid "A black substance drips down from above."
+msgstr "Z góry kapie czarna substancja."
+
+msgid "Whatever it is, it looks disgusting."
+msgstr "Cokolwiek to jest, wygląda obrzydliwie."
+
+msgid "A large amount of a black substance has accumulated under the stairs."
+msgstr "Pod schodami nagromadziła się duża ilość czarnej substancji."
+
+msgid "This stuff makes me uneasy... What if it comes alive or something?"
+msgstr "Niepokoi mnie to... Co jeśli to ożyje czy coś?"
+
+msgid "The way these mirrors are set on the walls is almost comforting."
+msgstr "To w jaki sposób te lustra są powieszone jest niemal kojące."
+
+msgid "But staring into mirrors in a place like this..."
+msgstr "Ale gapienie się w lustra w takim miejscu..."
+
+msgid "It's almost like I'm asking to be jump-scared."
+msgstr "To prawie tak, jakbym się prosiła, żeby coś na mnie wyskoczyło."
+
+msgid "Multiple reflections stare back at you."
+msgstr "Wiele odbić wpatruje się w ciebie."
+
+msgid "Nonsensical pipes run all over the place."
+msgstr "Wszędzie są te dziwne rury."
+
+msgid "They are warm to the touch. Is this some sort of heating?"
+msgstr "Są one ciepłe w dotyku. Czy to jakaś sieć ciepłownicza?"
+
+msgid "A door with an odd pattern."
+msgstr "Drzwi z dziwnym wzorem."
+
+msgid "It's locked."
+msgstr "Są zamknięte."
+
+msgid "It's very locked."
+msgstr "Są bardzo zamknięte."
+
+msgid "This door is open..."
+msgstr "Te drzwi są otwarte..."
+
+msgid "Wasn't it boarded up...?"
+msgstr "Czy one nie były zabite deskami...?"
+
+msgid "Everything else is locked... I have no other choice but to go in..."
+msgstr "Wszystko inne jest zamknięte... Nie mam innego wyboru, jak wejść do środka..."
+
+msgid "A fairly normal-looking door."
+msgstr "Całkiem normalnie wyglądające drzwi."
+
+msgid "There's nothing here."
+msgstr "Nic tu nie ma."
+
+msgid "A small door with an odd pattern."
+msgstr "Małe drzwi z dziwnym wzorem."
+
+msgid "A door with a glossy finish."
+msgstr "Drzwi z błyszczącym wykończeniem."
+
+msgid "You can see yourself in it."
+msgstr "Możesz zobaczyć w nich siebie."

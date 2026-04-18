@@ -1,0 +1,1298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What are you looking at?"
+msgstr "何見てるのよ？"
+
+msgid "Get out of my face."
+msgstr "どっか行って。"
+
+msgid "My seat is on the second row from the front, in class 3-C."
+msgstr "私の席は3-Cの前から2番目の列にあるわ。"
+
+msgid "Maybe you don't suck as much as I thought."
+msgstr "あなた、思ってたより嫌な奴じゃなかったのかもね。"
+
+msgid "I'm surprised you even gave it back. Maybe I misjudged you."
+msgstr "返してくれただけでも驚きよ。あなたのこと誤解してたのかも。"
+
+msgid "I bet you think you're SO funny. We have other plans for the night anyway."
+msgstr "さぞかし自分のこと面白いと思ってるんでしょうね。まあいいわ、私たちには他にも計画があるから。"
+
+msgid "Whatever you say!"
+msgstr "お好きにどうぞ！"
+
+msgid "Don't talk to me anymore. I won't forget this."
+msgstr "もう話しかけないで。この事は忘れないわよ。"
+
+msgid "Good luck with your game."
+msgstr "ゲーム、うまくいくといいわね。"
+
+msgid "(She's really concentrated on fixing her ribbon. Best not to disturb her.)"
+msgstr "(リボンを直すのに集中してる。邪魔しないほうがよさそう。)"
+
+msgid "(She's angrily fidgeting with her ribbon. Best not to bother her anymore.)"
+msgstr "(イライラした様子でリボンをいじってる。これ以上邪魔しないほうがよさそうね。)"
+
+msgid "It's good to finally make some new friends."
+msgstr "ようやく新しい友達ができてよかったね。"
+
+msgid "Are you leaving this here?"
+msgstr "鞄、ここに置いてくの？"
+
+msgid "Why not? I'll pick it up before going home."
+msgstr "いいでしょ？　帰る前に取りに来るわ。"
+
+msgid "May I look through it?"
+msgstr "中を見てもいい？"
+
+msgid "No...?"
+msgstr "いいえ……？"
+
+msgid "Ok, let's see..."
+msgstr "了解、どれどれ……"
+
+msgid "Um... why is there lettuce in your bag?"
+msgstr "んーと……何で鞄の中にレタスが入ってるの？"
+
+msgid "Wha- WHAT DID I JUST SAY!?"
+msgstr "な――見るなって言ったでしょ!?"
+
+msgid "So... why is there lettuce in your bag?"
+msgstr "で……何で鞄の中にレタスが入ってるわけ？"
+
+msgid "My mom asked me to pick it up on the way home, okay?"
+msgstr "ママに帰りに受け取ってこいって言われたの！　わかった？"
+
+msgid "God!"
+msgstr "ったく！"
+
+msgid "Fine, fine..."
+msgstr "まあまあ……"
+
+msgid "You put the lettuce back."
+msgstr "レタスを戻した。"
+
+msgid "It's Saki's bag."
+msgstr "サキの鞄。"
+
+msgid "Saki's bag is gone."
+msgstr "サキの鞄が消えている。"
+
+msgid "What? Where is my bag?"
+msgstr "あれ？　私の鞄は？"
+
+msgid "Is someone else here with us?"
+msgstr "学校にまだ他に誰かいたのかしら？"
+
+msgctxt "events.Prologue_Club_Occult.event_bag_with_girls.dlg.prologue_girl2"
+msgid "This isn't good..."
+msgstr "まずいわね……"
+
+msgid "Hopefully it was just the janitor and you can get it back on Monday."
+msgstr "単に掃除の人が持って行っただけで、月曜日に返してもらえればいいけど。"
+
+msgctxt "events.Prologue_Club_Occult.event_bag_with_girls.dlg.prologue_girl1"
+msgid "Uuugh..."
+msgstr "うぅ……"
+
+msgid "Isn't this stuffed crow just so cool?"
+msgstr "このカラスの剥製、超カッコよくない？"
+
+msgid "Oh no."
+msgstr "あっ。"
+
+msgid "...So you're that type, huh?"
+msgstr "……へー、そういうタイプなのね？"
+
+msgid "It was an accident! And what is that supposed to mean anyways!?"
+msgstr "事故よ！　あと、今のどういう意味!?"
+
+msgctxt "events.Prologue_Club_Occult.event_break_crow.dlg.prologue_girl2"
+msgid "This isn't good..."
+msgstr "まずいわね……"
+
+msgid "It's okay, you can just apologize next week."
+msgstr "来週謝れば大丈夫だよ。"
+
+msgid "Yeah, it's okay. It was probably the only valuable thing in this room anyways."
+msgstr "ええ大丈夫。どのみち、単にこの部屋で唯一高価そうなものってだけだし。"
+
+msgctxt "events.Prologue_Club_Occult.event_break_crow.dlg.prologue_girl1"
+msgid "Uuugh..."
+msgstr "うぅ……"
+
+msgid "Say, what ARE you doing here? Visiting the school at night is hardly normal no matter what you're looking for."
+msgstr "ねえ、いったいここで何してるの？ 夜に学校に来るなんて、探しものにしても普通じゃないわ。"
+
+msgid "I could ask you the same question."
+msgstr "その質問、そっくりそのままお返しするわ。"
+
+msgid "You already know what we were doing."
+msgstr "私たちが何をしてたのかはもう知ってるでしょ。"
+
+msgid "Key word: \"were\"."
+msgstr "「してた」ってところがポイントよ。"
+
+msgid "Truth is, I'm doing the same thing as you girls... But it's spookier than your game."
+msgstr "実を言うと、私もあなた達と同じことをしてるの……あなた達のより、もっと怖いやつだけどね。"
+
+msgid "A game? Can we join in?"
+msgstr "ゲーム？ 私たちも入れる？"
+
+msgid "I thought you had plans for the night?"
+msgstr "あなた達は他に計画があったんじゃないの？"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_1.dlg.prologue_girl2"
+msgid "..."
+msgstr "……"
+
+msgid "We can probably spare an hour or two."
+msgstr "1、2 時間なら大丈夫よ。"
+
+msgid "In any case, it's a one-person ritual, so you can't join me on it."
+msgstr "いずれにせよ、この儀式は一人用だから、あなた達は参加できないわ。"
+
+msgid "Figures."
+msgstr "そう。"
+
+msgid "If you like this kind of occult stuff, why aren't you in the club?"
+msgstr "こういうオカルトっぽい事が好きなら、何でオカルト部に入らないの？"
+
+msgid "Only nerds join this club."
+msgstr "オカルト部はオタクばっかりなのよ。"
+
+msgid "That's not entirely false..."
+msgstr "否定はしきれないわね……"
+
+msgid "You didn't bring any other games? Not even a deck of cards?"
+msgstr "他にゲームは持ってきてないの？ トランプとかも？"
+
+msgid "No, not really."
+msgstr "特に持ってきてない。"
+
+msgid "We didn't anticipate someone ruining our game."
+msgstr "誰かさんにゲームを台無しにされるなんて予測してなかったから。"
+
+msgid "Fair enough."
+msgstr "そりゃそうね。"
+
+msgid "So, how did you get in here?"
+msgstr "で、それならどうやってこの部屋に入ったの？"
+
+msgid "We got a key from someone."
+msgstr "私たちはある筋から鍵を入手したのよ。"
+
+msgid "*I* got a key from someone."
+msgstr "「私が」ある筋から鍵を入手したのよ。"
+
+msgid "...*She* got a key from someone."
+msgstr "……「この子が」ある筋から鍵を入手したのよ。"
+
+msgid "Couldn't you just have joined the club?"
+msgstr "そんなことしなくても、オカルト部に入ればよかったんじゃない？"
+
+msgid "Why? Is that what you did? Join the club just for the key?"
+msgstr "何で？ あなたはそうなの？ 鍵のためだけに入部したわけ？"
+
+msgid "...This conversation isn't going as planned."
+msgstr "……思わぬ方に話が進んだわね。"
+
+msgid "What were you looking for earlier?"
+msgstr "さっき探してたのは？"
+
+msgid "Materials for the ritual."
+msgstr "儀式の材料。"
+
+msgid "Shouldn't you have gathered them ahead of time?"
+msgstr "そういうのは事前に集めとくべきじゃない？"
+
+msgid "Now that's boring. Do you also do your homework ahead of time?"
+msgstr "つまらない質問ね。あなたは宿題も事前にやっとくわけ？"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_5.dlg.prologue_girl2"
+msgid "..."
+msgstr "……"
+
+msgid "I don't know what to say to that."
+msgstr "返す言葉もないわ。"
+
+msgid "Will you at least tell us more about your game?"
+msgstr "せめて、あなたのゲームについてもう少し教えてくれない？"
+
+msgid "I'll let you know how it went on Monday."
+msgstr "月曜日に結果を報告するわ。"
+
+msgid "If it's anything like the rest I tried, it won't really do anything."
+msgstr "今までのと同じなら、何も起こらないから。"
+
+msgid "What's with all the chit chat? Are we suddenly friends or something?"
+msgstr "何で私たちこんなおしゃべりしてるの？ 突然友達同士にでもなったわけ？"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_6.dlg.prologue_girl2"
+msgid "..."
+msgstr "……"
+
+msgid "She's alright, I guess."
+msgstr "この子、悪い子じゃないと思うわ。"
+
+msgid "But she ruined our night!"
+msgstr "でもゲームを台無しにされたのよ！"
+
+msgid "Sorry about that..."
+msgstr "それについてはごめんなさい……"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_6.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "Well... alright, fine."
+msgstr "まぁ……もういいわ。"
+
+msgid "She means \"apology accepted\"."
+msgstr "「許してあげる」って。"
+
+msgid "Nice to meet you then, I'm Kat."
+msgstr "じゃあ改めてよろしくね。私はキャット。"
+
+msgid "We KNOW."
+msgstr "知ってる。"
+
+msgid "I'm Juli. This is Saki, and this is Kaya."
+msgstr "私はジュリ。こっちがサキで、この子がカヤ。"
+
+msgid "Nice to meet you."
+msgstr "よろしくね。"
+
+msgid "You know, you're quite the celebrity among third year students."
+msgstr "あなた、3年生の間じゃ有名人よ。"
+
+msgid "...for all the wrong reasons."
+msgstr "……いわれのないことだったみたいだけど。"
+
+msgid "You should hang out at 3-C sometime."
+msgstr "たまには3-Cにも来るといいわ。"
+
+msgid "Do you um... need help with that ribbon?"
+msgstr "その……リボン整えるの手伝おうか？"
+
+msgid "Ah... no... I'm just fidgeting..."
+msgstr "あ……ううん……いじってるだけだから……"
+
+msgid "Got it."
+msgstr "わかった。"
+
+msgid "Don't mind Saki. She's not the bitch she pretends to be."
+msgstr "サキのことは気にしないで。嫌な奴のふりしてるけど、本当は良い子だから。"
+
+msgid "We will probably go home soon."
+msgstr "もうそろそろ帰ろうかな。"
+
+msgid "Well... at least I got what I needed."
+msgstr "まぁ……必要なものは手に入ったわ。"
+
+msgid "That's cute!"
+msgstr "かわいい！"
+
+msgid "Thank you very much."
+msgstr "どうもありがとう。"
+
+msgid "Is that supposed to be you...?"
+msgstr "それ、自分のつもり……？"
+
+msgid "Please never draw a portrait of me."
+msgstr "お願いだから、私を描くのはやめてね。"
+
+msgid "Wasn't planning to."
+msgstr "もとから描くつもりもないわ。"
+
+msgid "Kindergarten called, they want their drawing skills back."
+msgstr "なかなか上手じゃない、幼稚園にはぴったりよ。"
+
+msgid "This is my depiction of a child's depiction of a house."
+msgstr "これは「子供が描いた家」を描いたのよ。"
+
+msgid "I expected a bit better from you..."
+msgstr "あなたにはもう少し期待してたんだけど……。"
+
+msgid "I didn't."
+msgstr "私は期待してなかったわ。"
+
+msgid "Draw something on the chalkboard?"
+msgstr "黒板に何か描く？"
+
+msgctxt "events.Prologue_Club_Occult.event_draw_on_chalkboard.choice.Draw something on the chalkboard?"
+msgid "Yes"
+msgstr "描く"
+
+msgctxt "events.Prologue_Club_Occult.event_draw_on_chalkboard.choice.Draw something on the chalkboard?"
+msgid "No"
+msgstr "描かない"
+
+msgid "What should I draw?"
+msgstr "何を描く？"
+
+msgid "A flower"
+msgstr "花"
+
+msgid "A self-portrait"
+msgstr "自画像"
+
+msgid "A house"
+msgstr "家"
+
+msgid "A butt"
+msgstr "お尻"
+
+msgid "Don't draw"
+msgstr "やっぱり描かない"
+
+msgid "It's done!"
+msgstr "できた！"
+
+msgid "This was the most pointless thing you've done today."
+msgstr "今日一番無意味な行動だ。"
+
+msgid "My masterpiece is already perfect, no need for modifications."
+msgstr "私の作品はもう完璧。描き足す必要はない。"
+
+msgid "It's too dark for that."
+msgstr "絵を描くには暗すぎる。"
+
+msgid "Say, are any of you members of the theater club?"
+msgstr "ねぇ、あなた達の中に演劇部員はいる？"
+
+msgid "Not really."
+msgstr "そうでもない。"
+
+msgid "Not really?"
+msgstr "そうでもない？"
+
+msgid "Not me."
+msgstr "私は違う。"
+
+msgid "Who wants to know?"
+msgstr "誰が知りたがってるの？"
+
+msgid "Well, there's a talent agent waiting outside. He's only interested in teenage girls with a passion for roleplaying, though."
+msgstr "えっと、外にタレント事務所の人がいて、演劇に興味のある10代の女の子を探してるのよ。"
+
+msgid "What is it that you want?"
+msgstr "で、本当は何が目的なわけ？"
+
+msgid "I just need to borrow something from your club room. You have the key with you, don't you?"
+msgstr "部室から物を借りたいの。部室の鍵を持ってない？"
+
+msgid "Hmmm..."
+msgstr "ふーん……"
+
+msgid "Fine, you can have it... If you can do me a favor first."
+msgstr "いいわ、貸してあげる……ただし、その代わりにやってほしいことがある。"
+
+msgid "I'll do you a favor: I'll conveniently forget to tell the principal that you three broke into the school at night. Deal?"
+msgstr "やってほしいこと？ あなた達3人が夜に学校に忍び込んでることについて、校長先生に言いつけるのを都合よく忘れといてあげることとか？"
+
+msgid "Aren't you trespassing too?"
+msgstr "違反はあなたも同じじゃない？"
+
+msgid "So, what's the favor you need?"
+msgstr "じゃあ、何をしてほしいの？"
+
+msgid "Get my notebook. It's in classroom 3-C, under my desk."
+msgstr "私のノートを取ってきて。3-C教室の、机の中にある。"
+
+msgid "Ponytail's Notebook"
+msgstr "ポニテのノート"
+
+msgid "A red notebook that the girl with the ponytail forgot. She probably wants it back."
+msgstr "ポニーテールの子が忘れた赤いノート。たぶん返して欲しがってると思う。"
+
+msgid "Should I get the notebook for her?"
+msgstr "ノートを取ってきてあげる？"
+
+msgid "Alright, I'll do it"
+msgstr "OK、取ってくる"
+
+msgid "Forget it"
+msgstr "やめておく"
+
+msgid "You will?"
+msgstr "取ってきてくれるの？"
+
+msgid "Then, when you find it, please don't look through it."
+msgstr "なら、見つけても中は見ないでね。"
+
+msgid "Sure, sure."
+msgstr "はいはい。"
+
+msgid "Of course, of course."
+msgstr "そうでしょうね。"
+
+msgid "Good luck finding another key to the club room."
+msgstr "ならせいぜい頑張って他の鍵を探すことね。"
+
+msgid "We'll see about that."
+msgstr "今に見てなさい。"
+
+msgid "You mean this one?"
+msgstr "これのこと？"
+
+msgctxt "events.Prologue_Club_Occult.event_key_request.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "How did you-?"
+msgstr "いったいどうして……？"
+
+msgid "Yes, that's the one."
+msgstr "そう、それのことよ。"
+
+msgid "Here's the key. I expect it back at some point."
+msgstr "鍵はこれ。あとでちゃんと返してね。"
+
+msgid "Happy to help."
+msgstr "お役に立てて何より。"
+
+msgid "Well, you brought my notebook so..."
+msgstr "まぁ、ノートを取ってきてくれたんだから……"
+
+msgid "Here you go, I guess. Please don't break anything."
+msgstr "はいこれ、鍵。何も壊さないでね。"
+
+msgid "And don't forget to bring it back to me."
+msgstr "あと、返すのも忘れないで。"
+
+msgctxt "events.Prologue_Club_Occult.event_key_request.dlg.kat"
+msgid "Thanks!"
+msgstr "ありがと！"
+
+msgid "There's a bunch of useless trash in here..."
+msgstr "中はいらないガラクタばっかりね……"
+
+msgid "Aha! This little box may be it."
+msgstr "あぁ！　この小さい箱が多分そうだわ。"
+
+msgid "There's three runes... but the ritual didn't mention a specific one."
+msgstr "3つあるけど……どれを使うかは儀式の手順には書いてなかった。"
+
+msgid "Which one should I take?"
+msgstr "どれにしよう？"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird C"
+msgstr "「C」っぽい文字のもの"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird B"
+msgstr "「B」っぽい文字のもの"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird O"
+msgstr "「O」っぽい文字のもの"
+
+msgid "What's that?"
+msgstr "それは何？"
+
+msgid "A rune. The ritual calls for it."
+msgstr "ルーン。儀式に必要なの。"
+
+msgid "What does it do?"
+msgstr "どう使うの？"
+
+msgid "No idea."
+msgstr "さあね。"
+
+msgid "How is this any less childish than the game we were playing...?"
+msgstr "これのどこが、私たちのゲームより子供っぽくないっていうのよ……？"
+
+msgid "There's a golden envelope in the drawer."
+msgstr "引き出しに金色の封筒が入っていいる。"
+
+msgid "These are the instructions for the ritual I'm doing."
+msgstr "私が今やっている儀式の手順書ね。"
+
+msgid "Thankfully, I shortened them when I wrote my notes."
+msgstr "これを要約したのが私のメモ。"
+
+msgid "Read the full ritual rules?"
+msgstr "完全な儀式のルールを見る？"
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.choice.Read the full ritual rules?"
+msgid "Yes"
+msgstr "見る"
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.choice.Read the full ritual rules?"
+msgid "No"
+msgstr "見ない"
+
+msgid "You must play alone."
+msgstr "儀式は一人で行うこと。"
+
+msgid "Requirements:"
+msgstr "必要なもの:"
+
+msgid ""
+"- 3 dark, adjacent rooms\n"
+"- 12 candles\n"
+"- A lighter or matches"
+msgstr ""
+"―隣接した暗い部屋3部屋\n"
+"―ロウソク12本\n"
+"―ライターもしくはマッチ"
+
+msgid ""
+"- A rune\n"
+"- A tuft of human hair\n"
+"- White chalk or white paint"
+msgstr ""
+"―ルーン1個\n"
+"―髪の毛ひとふさ\n"
+"―白のチョークもしくは絵の具"
+
+msgid "Preparations:"
+msgstr "準備:"
+
+msgid ""
+"Start after the sun has set.\n"
+"All 3 rooms must be pitch black; turn off all the lights, draw the curtains, and close the doors."
+msgstr ""
+"日没後に開始すること。\n"
+"部屋は3つとも真っ暗にしておく。明かりを消して、カーテンを閉め、扉は閉じる。"
+
+msgid "Using the chalk or paint, draw a path going through the 3 rooms. This path will serve to connect your current location to your destination."
+msgstr "チョークもしくは絵の具で、3つの部屋を貫く道を描く。これがあなたの現在地と目的地をつなぐ役割を果たす。"
+
+msgid "In the middle room, place 6 candles on each side of the drawn path, parallel to it."
+msgstr "真ん中の部屋で、道の両側に、道に平行になるようにそれぞれ6本ずつのロウソクを置く。"
+
+msgid "Instructions:"
+msgstr "手順:"
+
+msgid "Light each of the candles and let them burn for at least 5 minutes. From this point, you can no longer abort the ritual."
+msgstr "ロウソクに火をつけ、最低5分間は燃やし続ける。ここまで進めたら、もう儀式を中断することはできない。"
+
+msgid ""
+"After the 5 minutes have passed, burn the tuft of hair on one of the candles.\n"
+"Proceed to blow out all the candles one by one."
+msgstr ""
+"5分経ったら、髪の毛の束をロウソクのうち1本で燃やす。\n"
+"それから1本ずつ全てのロウソクを吹き消す。"
+
+msgid "When the last candle is put out, quickly close your eyes and count to 100."
+msgstr "最後のロウソクを吹き消したら、すぐに目を閉じて100まで数える。"
+
+msgid "Open your eyes."
+msgstr "目を開ける。"
+
+msgid "To Remember:"
+msgstr "注意:"
+
+msgid "You must always close the door behind you. Leaving it open may attract unwanted attention."
+msgstr "後ろの扉は常に閉めておくこと。開いていると望まざる注意を引く可能性がある。"
+
+msgid "Do NOT let the rune out of your possession. It is your only protection."
+msgstr "決してルーンを手放さないこと。ルーンだけがあなたを守ってくれる。"
+
+msgid "Do NOT bring any weapons with you. If you arm yourself, so will they."
+msgstr "武器は持っていかないこと。あなたが武装していれば、相手も武装している。"
+
+msgid "Should anything be heard or felt while you count to 100, it must be ignored."
+msgstr "100数えている間に何か聞こえたり感じたりしても、無視すること。"
+
+msgid "Do NOT open your eyes."
+msgstr "決して目を開けないこと。"
+
+msgid "Do NOT turn on the lights."
+msgstr "決して明かりをつけないこと。"
+
+msgid "Do NOT move."
+msgstr "決して動かないこと。"
+
+msgid "It is normal to feel like you are not alone. You won't be."
+msgstr "他に誰かいるのではないかと感じるのは正常な感覚。実際、一人ではないだろうから。"
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "There's no need to read it again."
+msgstr "読み返す必要はない。"
+
+msgid "Is that the ritual we're doing right now?"
+msgstr "それが、私たちが今やってる儀式？"
+
+msgid "Yeah."
+msgstr "ええ。"
+
+msgid "I wonder if anyone else tried it..."
+msgstr "もう他に誰かやってみたのかな……"
+
+msgid "Probably not. It was sealed when I got to it."
+msgstr "たぶん誰も。見つけたときには封がされてたから。"
+
+msgid "That's weird. Did they think it was cursed?"
+msgstr "変ね。呪われてるとでも思ってたのかしら？"
+
+msgid "Maybe. I should probably glue it back later."
+msgstr "かもね。あとで糊で貼り直しといたほうがよさそう。"
+
+msgid "Kat."
+msgstr "キャット。"
+
+msgid "Hm?"
+msgstr "んん？"
+
+msgid "Just decide already!"
+msgstr "さっさと決めて！"
+
+msgid "This window doesn't need any curtains."
+msgstr "この窓にはカーテンはいらない。"
+
+msgid "Ugh, you disgust me!"
+msgstr "ああもう、むかつく奴ね！"
+
+msgid "Why are you holding that like some sort of sick trophy? What is wrong with you!?"
+msgstr "何でトロフィーみたいに見せびらかしてくるわけ？ 頭おかしいんじゃないの!?"
+
+msgid "Leave me alone, please."
+msgstr "私のことは放っといて。"
+
+msgid "(It's too late to put it back...)"
+msgstr "(戻すにはもう手遅れだ……)"
+
+msgid "Are you done with it?"
+msgstr "用事は済んだ？"
+
+msgid "Yeah, thanks."
+msgstr "ええ、ありがと。"
+
+msgid "Gee, thanks."
+msgstr "ああ、ありがと。"
+
+msgid "(I can't give it back yet, I haven't even used it!)"
+msgstr "(まだ返すわけにはいかない、使ってすらいないんだし！)"
+
+msgctxt "events.Prologue_Club_Occult.item_key_on_girl1.dlg.prologue_girl1"
+msgid "...?"
+msgstr "……？"
+
+msgid "Uhh... why do you have that?"
+msgstr "うーんと……何であなたが持ってるの？"
+
+msgid "Well, thanks for returning it, I guess?"
+msgstr "えっと……返してくれてありがと、ね……？"
+
+msgid "Let me guess. Returning my notebook was too much for you, so you just took the key instead."
+msgstr "わかった。ノートを返すのが嫌だったから、代わりに鍵を盗んだってわけね。"
+
+msgid "Well, at least you brought it back, I suppose."
+msgstr "ま、返してくれただけマシか。"
+
+msgid "Oh wow. You just took that?"
+msgstr "あらあら。勝手に持ってったわけ？"
+
+msgid "You're a real bitch Kat, you know that?"
+msgstr "あんた最ッ低よキャット、自覚ある？"
+
+msgid "...of course you had it all along."
+msgstr "……そりゃずっと持ってたわよね。"
+
+msgid "Now I feel like an idiot for worrying. Hope you enjoyed my key."
+msgstr "心配してたのがバカみたい。私の鍵をお楽しみいただけた？"
+
+msgid "That won't accomplish anything good."
+msgstr "そんなことをする意味はない。"
+
+msgid "(I feel like setting her on fire but... I'll control myself.)"
+msgstr "(こいつを燃やしてやりたいのはやまやまだけど……自制しよう。)"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.prologue_girl1"
+msgid "What?"
+msgstr "何？"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.kat"
+msgid "What?"
+msgstr "何？"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "(She really isn't that bad.)"
+msgstr "(この子は実の所そんなに嫌な奴じゃない。)"
+
+msgid "(It would be a shame to set such pretty hair on fire.)"
+msgstr "(こんなきれいな髪を燃やしちゃうのはもったいない。)"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl3.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "(Nah...)"
+msgstr "(やめとこ……)"
+
+msgid "Is this your notebook?"
+msgstr "あなたのノートってこれ？"
+
+msgid "Yeah, that's it. I hope you didn't look through it."
+msgstr "ええ、そうよ。中を見てないでしょうね？"
+
+msgid "Nope. Your secrets are safe."
+msgstr "見てないわ。秘密は秘密のままよ。"
+
+msgid "Alright."
+msgstr "ありがと。"
+
+msgid "Nope. Your math is safe."
+msgstr "見てないわ。あなたの数学の問題は秘密のままよ。"
+
+msgid "Of course you looked. Hope you at least solved some of the exercises."
+msgstr "そりゃ見ないはずないわよね。ついでにせめて数問くらい解いておいてくれればよかったのに。"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "What? Did you really think I'd leave my personal journal in your hands?"
+msgstr "あら？ 本当に私があなたなんかに自分の秘密の日記を任せたと思ってたの？"
+
+msgid "Well, a promise is a promise anyways."
+msgstr "まぁいいわ、約束は約束ね。"
+
+msgid "Here's the key. Bring it back when you're done with it."
+msgstr "これが鍵よ。終わったら返して。"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.kat"
+msgid "Thanks!"
+msgstr "ありがと！"
+
+msgid "Yeah, that's it. But, you don't need the key anymore, do you?"
+msgstr "ええ、そうよ。でももう鍵はいらないでしょ？"
+
+msgid "Why did you bother stealing it if you were gonna get me the notebook either way?"
+msgstr "いずれにせよノートを取ってきてくれるんなら、どうしてわざわざ鍵を盗んだりしたわけ？"
+
+msgid "Sigh... whatever. Thanks, weirdo."
+msgstr "はぁ……まぁ、何でもいいや。ありがとね、変人。"
+
+msgid "*gasp*"
+msgstr "(息を呑む)"
+
+msgid "I uh... I don't seem to have the key with me."
+msgstr "あ……き、今日は鍵を持ってきてなかったみたい。"
+
+msgid "I could've sworn I had it... I'm sorry. I promise to let you use it tomorrow!"
+msgstr "確かに持ってたはずなんだけど……ごめん。明日絶対貸してあげるから！"
+
+msgid "It's fine! Don't worry about it!"
+msgstr "大丈夫！ 気にしないで！"
+
+msgid "Do you seriously think I'll give you the key after what you did?"
+msgstr "あんなことしといて本気で私が鍵を渡すと思ってたわけ？"
+
+msgid "...Yes?"
+msgstr "……そうだけど？"
+
+msgid "Piss off, Kat. And give me that!"
+msgstr "それを渡してさっさとどっか行って、キャット！"
+
+msgid "You don't even care? Whatever. Give me that!"
+msgstr "気にしてすらいなかったわけ？ 何でも良いけどさっさとそれを渡して！"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "You come here, you ruin our game, you cut our hair, you steal my things and now you just bring me this?"
+msgstr "ここに来て、ゲームを台無しにして、髪を切って、ものを盗んで、ノートだけはちゃんと持ってきましたって？"
+
+msgid "I have no words left for you, you little sociopath."
+msgstr "もう言うことはないわ、この社会不適合者。"
+
+msgid "Does this happen to be yours?"
+msgstr "もしかしてこれ、あなたのだったりする？"
+
+msgid "Huh? Why do you have that? Are you going through my stuff now?"
+msgstr "へっ？ 何であなたが持ってるの？ 私の机漁ったの？"
+
+msgid "Nah... I just had a feeling."
+msgstr "いや……なんとなく、あなたのかなって。"
+
+msgid "Your feeling is right. May I have my notebook back?"
+msgstr "当たりよ。返してもらえる？"
+
+msgid "Here you go."
+msgstr "はいどうぞ。"
+
+msgid "Are you kidding me? First the hair and now blackmail?"
+msgstr "馬鹿にしてるの？ 最初は髪で、今度は脅迫？"
+
+msgid "I don't care what you want, and I don't care why you have my notebook."
+msgstr "あなたが何をしたいのかも、どうして私のノートを持ってるのかもどうでもいい。"
+
+msgid "Give it back or I'll get the teacher to beat your ass tomorrow morning!"
+msgstr "さっさと返して。さもないと先生を呼んで、明日の朝こっぴどく叱ってもらうわよ！"
+
+msgid "Geez... Stuff it. I don't want your stupid notebook."
+msgstr "はいはい……どうぞ。あなたのアホくさいノートなんていらないわ。"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.kat"
+msgid "Hey, is this yours?"
+msgstr "ねえ、これあなたの？"
+
+msgid "Um..."
+msgstr "うーん……"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.prologue_girl1"
+msgid "Wait, can I see that...?"
+msgstr "待って、ちょっと見せて……？"
+
+msgid "For the love of... give me that!"
+msgstr "何てこと……それを渡して！"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.prologue_girl1"
+msgid "What are you doing...? Please bring that here."
+msgstr "何してるの……？ こっちに持ってきてよ。"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.kat"
+msgid "Hey, is this yours?"
+msgstr "ねえ、これあなたの？"
+
+msgid "Uhh..."
+msgstr "んー……"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.prologue_girl1"
+msgid "Wait, can I see that...?"
+msgstr "待って、ちょっと見せて……？"
+
+msgid "For the love of... bring that here!"
+msgstr "何てこと……それを渡して！"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.prologue_girl1"
+msgid "What are you doing...? Please bring that here."
+msgstr "何してるの……？ こっちに持ってきてよ。"
+
+msgid "Finally, let's cut this open."
+msgstr "それじゃ、箱を開けましょ。"
+
+msgid "(Nothing else needs cutting here.)"
+msgstr "(他に切るべきものはない。）"
+
+msgid "...!"
+msgstr "……！"
+
+msgid "Did you just...?"
+msgstr "もしかして、今……？"
+
+msgid "Oh. My. God."
+msgstr "ねぇ、今、あなた……"
+
+msgid "WHAT HAVE YOU DONE!?"
+msgstr "何てことするの!?"
+
+msgid "GET THE HELL OUT!!!"
+msgstr "さっさと出てって！！！"
+
+msgid "Get away from me!"
+msgstr "どっか行って！"
+
+msgid "(I already got all the hair I need, no need to be petty.)"
+msgstr "(もう必要な髪は手に入れたから、そんなつまらないことをする必要はない。)"
+
+msgid "(Nah... she's fine.)"
+msgstr "(まぁ……切る必要はないわ)"
+
+msgid "...!?"
+msgstr "……!?"
+
+msgid "What in the actual hell..."
+msgstr "あなた一体……"
+
+msgid "Are you kidding me right now!?"
+msgstr "ふざけてるの!?"
+
+msgid "Oh no..."
+msgstr "そんな……"
+
+msgid "DON'T TOUCH HER! GET OUT OF HERE!"
+msgstr "その子に触らないで！　さっさと出てって！"
+
+msgid "Don't you dare..."
+msgstr "あんた一体……"
+
+msgid "(I don't need to do that. Plus, I kinda like her hair - it's a pretty color.)"
+msgstr "(そんなことをする必要はない。それに、この子の髪は色が綺麗で好きだし。)"
+
+msgid "(I don't wanna ruin her hair.)"
+msgstr "(こんなきれいな髪を台無しにするのは忍びない。)"
+
+msgctxt "events.Prologue_Club_Occult.item_scissors_on_girl3.dlg.prologue_girl3"
+msgid "...?"
+msgstr "……？"
+
+msgid "WHAT THE HELL ARE YOU DOING TO HER!?"
+msgstr "一体何してるのよ！？"
+
+msgid "She cut... her hair..."
+msgstr "髪を……切った……"
+
+msgid "Why...?"
+msgstr "どうして……？"
+
+msgid "GET OUT RIGHT THIS SECOND!!!"
+msgstr "今すぐ出てって！！！"
+
+msgid "Kat, if you touch me with those scissors..."
+msgstr "キャット、もしそのハサミでちょっとでも触れたら……"
+
+msgid "I'll make you swallow them."
+msgstr "あなたの喉にそいつを突っ込むよ。"
+
+msgid "(She looks like she's asking for it, but I already have all the hair I need.)"
+msgstr "(切ってくれと言わんばかりの集中ぶりだけど、もう髪は充分ある。)"
+
+msgid "(She doesn't deserve it, I think.)"
+msgstr "(この子は髪を切られるほどのことはしてないと思う。)"
+
+msgid "It's a school bag."
+msgstr "鞄だ。"
+
+msgid "There's something shiny inside."
+msgstr "何か光るものが入っている。"
+
+msgid "Do you need something?"
+msgstr "何か必要？"
+
+msgid "Maybe later."
+msgstr "後にするわ。"
+
+msgid "(What if I accidentally push the bag off the chair?)"
+msgstr "(偶然を装って鞄を椅子から落としたらどうかな？)"
+
+msgid "Push the bag?"
+msgstr "鞄を押す？"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.choice.Push the bag?"
+msgid "Yes"
+msgstr "押す"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.choice.Push the bag?"
+msgid "No"
+msgstr "押さない"
+
+msgid "What the-!"
+msgstr "ちょっと！"
+
+msgid "I'm so sorry! Oh dear me, let me pick that up for you!"
+msgstr "ごめんなさい！ 今拾うから！"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "I'll be out of your hair now!"
+msgstr "もう邪魔しないわ！"
+
+msgid "(No need to mess with it anymore.)"
+msgstr "(これ以上なにかする必要はない。)"
+
+msgid "An empty chair with no bag on it."
+msgstr "人もおらず、鞄も置いていない椅子。"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.dlg.narrator"
+msgid "An empty chair."
+msgstr "誰も座っていない椅子。"
+
+msgid "It's the box for the game the girls were playing."
+msgstr "あの子達が遊んでいたゲームの箱だ。"
+
+msgid "It says \"Wiji Game Board - for 2 to 4 players. Get answers from beyond!\"."
+msgstr "「ウィジィ・ボード - 2-4人向け。彼方からの声を聞こう！」"
+
+msgid "\"WARNING: We take no responsibility for any adverse effects playing this game could cause to you or your loved ones.\""
+msgstr "「注意: このゲームを遊んだことによる、あなた自身やあなたの大切な人々への悪影響に関して、当社は一切の責任を負いません。」"
+
+msgid "Such as disappointment, I presume?"
+msgstr "悪影響って、がっかり気分とか？"
+
+msgid "The disappointment was your fault, though..."
+msgstr "がっかりしたのはあなたのせいでしょ……"
+
+msgid "A thick purple book."
+msgstr "厚い紫色の本。"
+
+msgid "(A spellbook? It looks weird. And it also looks fake.)"
+msgstr "(呪文書？ 変な見た目。それに、偽物っぽい。)"
+
+msgid "There's a book entitled \"Creepy Cryptids and where to find them\"."
+msgstr "「不気味な未確認動物とその生息地」という本がある。"
+
+msgid "There's a book entitled \"The truth behind mermaids exposed\"."
+msgstr "「人魚の真実大暴露」という本がある。"
+
+msgid "There's a book entitled \"Magic Circles for simpletons\"."
+msgstr "「サルでもわかる魔法円」という本がある。"
+
+msgid "Cardboard boxes marked with a symbol. They're sealed with tape."
+msgstr "シンボルの描かれた段ボール箱。テープで封がしてある。"
+
+msgid "(The runes my friend mentioned may be in here, but I need a way to open it.)"
+msgstr "(友達が言ってたルーンはこの中かもしれないけど、手じゃ開けられない。)"
+
+msgid "(I need a way to open this, I'm not going to carry the entire box around.)"
+msgstr "(開ける方法を見つけよう、箱ごと持ち歩くわけにもいかないし。)"
+
+msgid "(There are two runes left in the box, but I only need one for the ritual.)"
+msgstr "(ルーンはあと2つあるけど、儀式には1つしか使わない。)"
+
+msgid "(But maybe I picked the wrong one...)"
+msgstr "(でも、間違ったものを選んだかも……)"
+
+msgid "Switch my rune"
+msgstr "ルーンを取り換える"
+
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgid "Which one then?"
+msgstr "どれと取り換える？"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird C"
+msgstr "「C」っぽい文字のもの"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird B"
+msgstr "「B」っぽい文字のもの"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird O"
+msgstr "「O」っぽい文字のもの"
+
+msgid "Just take everything"
+msgstr "いっそ全部取る"
+
+msgid "Well, it doesn't say I CAN'T have more than one."
+msgstr "まぁ、2個以上持ってちゃいけないとは書いてなかったし。"
+
+msgid "If only there were four..."
+msgstr "4つあったらよかったのに……"
+
+msgid "We could get one each. Not that they do anything."
+msgstr "そうしたら一人一つ持てたのにね。まぁ、だからって何か役に立つわけじゃないけど。"
+
+msgid "There's nothing else of use."
+msgstr "他に使えるものはない。"
+
+msgid "I need to get this open..."
+msgstr "これを開けなきゃいけないんだけど……"
+
+msgid "Um... ever heard of nails?"
+msgstr "えっと……爪ってものを知らないの？"
+
+msgid "Well..."
+msgstr "いや……"
+
+msgid "Ugh, step aside."
+msgstr "ああもう、そこをどいて。"
+
+msgid "Tada!"
+msgstr "じゃーん！"
+
+msgid "Saki is so practical..."
+msgstr "サキは実際的だね……"
+
+msgid "Man... is this your idea of fun?"
+msgstr "あの……こういうのが好きなわけ？"
+
+msgid "What do you mean?"
+msgstr "どういうこと？"
+
+msgid "It doesn't matter. Now let's see..."
+msgstr "何でも。さて、どれどれ……"
+
+msgid "A clean chalkboard."
+msgstr "きれいな黒板。"
+
+msgid "My fabulous masterpiece is displayed here."
+msgstr "私の最高傑作が描いてある。"
+
+msgid "There's some chalk here."
+msgstr "チョークがある。"
+
+msgid "Take Chalk?"
+msgstr "チョークを取る？"
+
+msgctxt "events.Prologue_Club_Occult.misc_chalkboard.choice.Take Chalk?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Club_Occult.misc_chalkboard.choice.Take Chalk?"
+msgid "No"
+msgstr "取らない"
+
+msgid "But it's too dark to see now."
+msgstr "でも今は暗くてよく見えない。"
+
+msgid "A stuffed crow."
+msgstr "カラスの剥製。"
+
+msgid "(An interesting choice of decoration...)"
+msgstr "(面白い装飾のチョイスね……)"
+
+msgid "It's messed up now."
+msgstr "壊れている。"
+
+msgid "A crystal ball resting on a cushion."
+msgstr "クッションに乗った水晶玉。"
+
+msgid "(Wow, that cheap plastic exterior really makes it look authentic.)"
+msgstr "(わぁ、安っぽいプラスチック製なのが雰囲気満点ね。)"
+
+msgid "This drawer won't open."
+msgstr "この引き出しは開かない。"
+
+msgid "(I don't see a keyhole, so it must be stuck somehow.)"
+msgstr "(鍵穴は見当たらないから、きっと何か引っかかってるのね。)"
+
+msgid "There's nothing of use here."
+msgstr "他に使えるものはない。"
+
+msgid "Don't even bother sitting with us after you ruined our night."
+msgstr "私たちの遊びを台無しにしておいて、この上一緒に座ろうっていうの？"
+
+msgid "Can't you read the room? We don't want you around. Leave!"
+msgstr "空気ってもんが読めないの？　あんたはお呼びじゃないの。出てって！"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.dlg.narrator"
+msgid "An empty chair."
+msgstr "誰も座っていない椅子。"
+
+msgid "An empty chair. Sit down?"
+msgstr "誰も座っていない椅子。座る？"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.choice.An empty chair. Sit down?"
+msgid "Yes"
+msgstr "座る"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.choice.An empty chair. Sit down?"
+msgid "No"
+msgstr "座らない"
+
+msgid "The girls are gone."
+msgstr "あの子達はいなくなっている。"
+
+msgctxt "events.Prologue_Club_Occult.misc_girl_gone.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Prologue_Club_Occult.misc_girl_gone.dlg.narrator"
+msgid "An empty chair."
+msgstr "誰も座っていない椅子。"
+
+msgid "A spherical model of the Earth. Red crosses mark certain locations."
+msgstr "地球儀。いくつかの場所に赤いバツ印がつけてある。"
+
+msgid "Some books and jars filled with.... something."
+msgstr "本が数冊と、……何かが入った瓶がいくつか。"
+
+msgid "There's no need to mess with the lights anymore."
+msgstr "もう電灯をいじる必要はない。"
+
+msgid "The light switch isn't working."
+msgstr "電気のスイッチは故障中のようだ。"
+
+msgid "Some small plants. Their quiet existence fascinates you."
+msgstr "小さい植物がいくつか。静かな存在感が魅惑的だ。"
+
+msgid "The drawer underneath is empty."
+msgstr "その下の引き出しには何も入っていない。"
+
+msgid "Suspicious news articles and posters representing magic circles."
+msgstr "怪しげなニュース記事と、魔法円が描かれたポスター。"
+
+msgid "An expensive-looking radio."
+msgstr "高価そうなラジオ。"
+
+msgid "Turn it on?"
+msgstr "ラジオをつける？"
+
+msgctxt "events.Prologue_Club_Occult.misc_radio.choice.Turn it on?"
+msgid "Yes"
+msgstr "つける"
+
+msgctxt "events.Prologue_Club_Occult.misc_radio.choice.Turn it on?"
+msgid "No"
+msgstr "つけない"
+
+msgid "What are you even doing?"
+msgstr "いったい何してるのよ？"
+
+msgid "Just looking around."
+msgstr "見て回ってるだけ。"
+
+msgid "No need to turn it on again."
+msgstr "もうつける必要はない。"
+
+msgid "It has no power."
+msgstr "電池が切れている。"
+
+msgid "A trash can. It seems to be full."
+msgstr "ゴミ箱。いっぱいにゴミが詰まっているようだ。"
+
+msgid "There's a certain level of desperation needed for someone to dig through the trash. You're not at that level."
+msgstr "ゴミを掘り返すには一定以上のやる気が必要だが、今はそれに達していない。"
+
+msgid "A cool breeze blows in from outside."
+msgstr "外から冷たい風が吹き込んでくる。"
+
+msgid "Close the window?"
+msgstr "窓を閉める？"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Close the window?"
+msgid "Yes"
+msgstr "閉める"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Close the window?"
+msgid "No"
+msgstr "閉めない"
+
+msgid "Open the window?"
+msgstr "窓を開ける？"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Open the window?"
+msgid "Yes"
+msgstr "開ける"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Open the window?"
+msgid "No"
+msgstr "開けない"
+
+msgid "...Huh?"
+msgstr "……あれ？"
+
+msgid "I can't seem to open it..."
+msgstr "開かない……"
+
+msgid "Are you trying to freak us out on purpose?"
+msgstr "わざと怖がらせようとしてるの？"
+
+msgid "(These curtains are very thin. I don't think they would work.)"
+msgstr "(ここのカーテンは薄すぎる。これじゃ使えないと思う。)"
+
+msgid "(Better read my notes to make sure I'm not forgetting anything in this room before leaving.)"
+msgstr "(部屋を出る前に、この部屋に忘れているものがないかメモを確認しておきましょう)"

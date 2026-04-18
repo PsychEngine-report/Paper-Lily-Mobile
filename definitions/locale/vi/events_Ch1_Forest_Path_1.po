@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The path looks like it should continue here, but it doesn't."
+msgstr "Con đường trông như phải tiếp tục ở đây, nhưng lại không."
+
+msgid "There's a sign that says [color=#8080FF]\"Daylight Gate\"[/color]. It points straight ahead."
+msgstr "Có tấm biển đề là [color=#8080FF]\"Cổng Bạch Nhật\"[/color]. Nó chỉ thẳng về phía đằng trước."
+
+msgid "The sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "Tấm biển đề là [color=#8080FF]\"Cổng Bạch Nhật\"[/color]."
+
+msgid "It's pointing towards the trees."
+msgstr "Nó đang chỉ về phía rừng cây."
+
+msgid "It seems to be a bit loose. You could rotate it to match the other one..."
+msgstr "Tấm biển có vẻ bị long một chút. Bạn có thể xoay nó để nó ứng với tấm kia..."
+
+msgid "Let's do it"
+msgstr "Làm thôi"
+
+msgid "Not my job"
+msgstr "Làm chi"
+
+msgid "It seems to be pointing in the correct direction now."
+msgstr "Giờ có vẻ nó đang chỉ đi đúng hướng rồi."
+
+msgid "There's nothing here."
+msgstr "Ở đây không có gì cả."
+
+msgid "(Hmm... Could it be that the sign is pointing in the wrong direction?)"
+msgstr "(Hừm... Có thể là tấm biển này nó đang chỉ sai hướng không nhỉ?)"

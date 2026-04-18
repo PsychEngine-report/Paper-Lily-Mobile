@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Maybe I'll explore somewhere else first."
+msgstr "Піду-но я деінде."
+
+msgid "There we go."
+msgstr "Ось так це робиться."
+
+msgid "Candles are already set here."
+msgstr "Тут уже стоять свічки."
+
+msgid "It's not time for that yet."
+msgstr "Для цього ще зарано."
+
+msgid "The path is already drawn."
+msgstr "Я вже намалювала шлях."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Ще зарано. Я хочу бути запевнитись, що в мене є все необхідне."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Ще зарано. Я хочу спочатку закінчити приготування у класах."
+
+msgid "Some broken chalk."
+msgstr "Шматок крейди."
+
+msgid "Take it?"
+msgstr "Взяти його?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "Краще не створювати для себе ще більше неприємностей."
+
+msgid "This should do the trick."
+msgstr "Повинно спрацювати."
+
+msgid "Perfect!"
+msgstr "Прекрасно!"
+
+msgid "Totally. Nobody will even notice."
+msgstr "Абсолютно ніхто нічого не помітить."
+
+msgid "Let's do this."
+msgstr "Зробімо це."
+
+msgid "Not yet."
+msgstr "Ще зарано."
+
+msgid "The candles are already lit."
+msgstr "Свічки вже горять."
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "Ритуал не вимагає спалювати школу."
+
+msgid "It's already done."
+msgstr "Я вже це зробила."
+
+msgid "This isn't the time for that."
+msgstr "Не треба гаяти на це час."
+
+msgid "A geography textbook."
+msgstr "Підручник з географії."
+
+msgid "Some textbooks you don't care about."
+msgstr "Підручники, на які вам начхати."
+
+msgid "A clean chalkboard."
+msgstr "Чиста дошка."
+
+msgid "A wooden desk."
+msgstr "Дерев'яна парта."
+
+msgid "The candle burns warmly."
+msgstr "Свічка тепло палає."
+
+msgid "The candle is unlit."
+msgstr "Свічка не горить."
+
+msgid "A model of Earth. It's fun to spin it."
+msgstr "Модель земної кулі. Розкручувати її - справжня забава."
+
+msgid "A paper slip with a list of regulations."
+msgstr "Звід правил для школярів."
+
+msgid "No one reads these, why do they bother?"
+msgstr "Хто їх взагалі читає?"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Листи з відвідуваності школи та розклади занять."
+
+msgid "A happy green plant."
+msgstr "Щаслива зелена рослина."
+
+msgid "The plant is no longer happy."
+msgstr "Рослина більше не щаслива."
+
+msgid "The teacher's podium."
+msgstr "Учительський подіум."
+
+msgid "There's a useless history book as well."
+msgstr "На ньому стоїть нудний підручник з історії."
+
+msgid "Some boring textbooks."
+msgstr "Нудні підручники."
+
+msgid "Some very thick, school-related books."
+msgstr "Товстенні підручники."
+
+msgid "Some books and... chalk."
+msgstr "Книжки та... трохи крейди."
+
+msgid "There's nothing else of use."
+msgstr "Корисні речі тут скінчилися."
+
+msgid "A trash can. You feel uninclined to dig through it."
+msgstr "Відро для сміття. Ви відмовляєтесь ритись у ньому."
+
+msgid "The curtains should stay closed."
+msgstr "Завіски мають бути закритими."
+
+msgid "Uh-oh. The curtains here are missing."
+msgstr "Ой-ой, тут немає завісок."
+
+msgid "According to the ritual instructions, I need to black out all the rooms..."
+msgstr "Згідно з ритуалом, треба затемнити усі класи."
+
+msgid "But where will I find new curtains...?"
+msgstr "Та де ж мені знайти нові завіски?.."
+
+msgid "Maybe the theater club has some curtains I can borrow?"
+msgstr "Можливо, їх можна позичити в театральному гуртку?"
+
+msgid "Yeah, it does."
+msgstr "Так, добре."
+
+msgid "I hope these curtains will work."
+msgstr "Сподіваюсь, ці драпрі спрацюють."
+
+msgid "I replaced the missing curtains. No need to mess with it anymore."
+msgstr "Я вже розвісила завіски. Бавитися з ними не треба."
+
+msgid "I need to block the light from this window."
+msgstr "Треба не дати світлу проходити крізь це вікно."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Розставити парти зараз?"
+
+msgid "Not yet"
+msgstr "Ще зарано"
+
+msgid "Let's get started."
+msgstr "Почнімо."

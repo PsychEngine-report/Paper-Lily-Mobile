@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Battle"
+msgstr "戦闘"
+
+msgid "Move around to avoid the spikes!"
+msgstr "動き回ってトゲを避けよう！"
+
+msgid "Minigame: Box Puzzle"
+msgstr "ミニゲーム: ボックスパズル"
+
+msgid "Push the desks into the green zones to complete the puzzle"
+msgstr "緑の領域に机を動かして、パズルを完成させよう"
+
+msgid "Documents"
+msgstr "書類"
+
+msgid "Your papers and notes are stored in the notebook in your inventory."
+msgstr "書類やメモはインベントリ内のノートに保管される。"
+
+msgid "Hiding"
+msgstr "隠れる"
+
+msgid "Hide in the bushes with {0} to avoid being caught."
+msgstr "{0}で茂みに隠れて、捕まらないようにしよう。"
+
+msgctxt "tutorials.name.interaction"
+msgid "Interacting"
+msgstr "インタラクト"
+
+msgctxt "tutorials.text.interaction"
+msgid "Press {0} to interact with the environment"
+msgstr "{0}で周囲の人や物に対して行動"
+
+msgctxt "tutorials.name.interaction_lacie"
+msgid "Interacting"
+msgstr "インタラクト"
+
+msgctxt "tutorials.text.interaction_lacie"
+msgid "Press {0} to interact with the environment"
+msgstr "{0}で周囲の人や物に対して行動"
+
+msgctxt "tutorials.name.itemuse"
+msgid "Using Items"
+msgstr "アイテムを使う"
+
+msgid "To use an item, stand close and select the item from the menu ({0})"
+msgstr "アイテムを使うには、使いたいものの近くでメニュー({0})からアイテムを選択"
+
+msgctxt "tutorials.name.itemuse_lacie"
+msgid "Using Items"
+msgstr "アイテムを使う"
+
+msgid "To use an item, stand close and select the item from the menu"
+msgstr "アイテムを使うには、使いたいものの近くでメニューからアイテムを選択"
+
+msgctxt "tutorials.name.menu"
+msgid "Opening the Menu"
+msgstr "メニューを開く"
+
+msgctxt "tutorials.text.menu"
+msgid "Press {0} to open the menu and see your items"
+msgstr "{0}でメニューを開き、アイテムを確認できる"
+
+msgctxt "tutorials.name.menu_lacie"
+msgid "Opening the Menu"
+msgstr "メニューを開く"
+
+msgctxt "tutorials.text.menu_lacie"
+msgid "Press {0} to open the menu and see your items"
+msgstr "{0}でメニューを開き、アイテムを確認できる"
+
+msgctxt "tutorials.name.movement"
+msgid "Moving"
+msgstr "移動"
+
+msgctxt "tutorials.text.movement"
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "{0}{1}{2}{3}で移動"
+
+msgctxt "tutorials.name.movement_lacie"
+msgid "Moving"
+msgstr "移動"
+
+msgctxt "tutorials.text.movement_lacie"
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "{0}{1}{2}{3}で移動"
+
+msgid "Picking Up Items"
+msgstr "アイテムを拾う"
+
+msgid "Press {0} to pick up items"
+msgstr "{0}でアイテムを拾う"
+
+msgctxt "tutorials.name.running"
+msgid "Running"
+msgstr "走る"
+
+msgctxt "tutorials.text.running"
+msgid "While moving, hold {0} to run"
+msgstr "移動中に{0}を押すと走れる"
+
+msgctxt "tutorials.name.running_lacie"
+msgid "Running"
+msgstr "走る"
+
+msgctxt "tutorials.text.running_lacie"
+msgid "While moving, hold {0} to run"
+msgstr "移動中に{0}を押すと走れる"
+
+msgctxt "tutorials.name.save"
+msgid "Saving the Game"
+msgstr "ゲームをセーブする"
+
+msgctxt "tutorials.text.save"
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "カラスでゲームをセーブできる。未来のことはわからないので、頻繁にセーブしよう"
+
+msgctxt "tutorials.name.save_lacie"
+msgid "Saving the Game"
+msgstr "ゲームをセーブする"
+
+msgctxt "tutorials.text.save_lacie"
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "カラスでゲームをセーブできる。未来のことはわからないので、頻繁にセーブしよう"
+
+msgid "Sneaking"
+msgstr "スニーク"
+
+msgid "Running will make you easier to spot. Hold {0} to sneak past enemies"
+msgstr "走ると見つかりやすくなる。{0}を押しながら移動して、敵をやり過ごそう"
+
+msgid "Climbing Stairs"
+msgstr "階段を登る"
+
+msgid "Hold {0} while moving to climb up the stairs"
+msgstr "{0}を押しながら移動で階段を登る"
+
+msgid "Timed Event"
+msgstr "時間制限イベント"
+
+msgid "Get to the bus before the time runs out!"
+msgstr "時間切れになる前にバスに乗ろう！"
+
+msgid "Minigame: Timing Bar"
+msgstr "ミニゲーム: タイミングバー"
+
+msgid "Press {0} when the indicator matches the green zone"
+msgstr "インジケータが緑の領域に重なるタイミングで{0}を押そう"

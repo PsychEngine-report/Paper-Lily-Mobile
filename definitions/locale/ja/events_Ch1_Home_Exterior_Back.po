@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It makes me happy to see you carry your cellphone around."
+msgstr "携帯、持ち歩いてくれてて嬉しいよ。"
+
+msgid "Because you're the one that got it for me?"
+msgstr "ヒロが買ったものだから？"
+
+msgid "That, but also..."
+msgstr "うん、それもあるけど……"
+
+msgid "...how to put this..."
+msgstr "……なんて言ったらいいかな……"
+
+msgid "It would be easy to forget it in a drawer if you don't have much use for it."
+msgstr "あんまり使ってなかったら、簡単に引き出しの中とかに忘れちゃうはずでしょ。"
+
+msgid "...At the very least, it makes for a good flashlight."
+msgstr "……少なくとも、いい懐中電灯にはなるし。"
+
+msgid "Right! What matters is that you carry it with you."
+msgstr "だね！　大事なのは、持ち歩くことだから。"
+
+msgid "Yeah."
+msgstr "うん。"
+
+msgid "You already have my number."
+msgstr "僕の番号はもう登録してあるでしょ。"
+
+msgid "Or are you showing me your wallpaper?"
+msgstr "それとも、壁紙を見てほしいの？"
+
+msgid "Look."
+msgstr "見て。"
+
+msgid "What's this?"
+msgstr "これは？"
+
+msgid "Apparently, it's my ticket back home."
+msgstr "たぶん、帰りの切符になるもの。"
+
+msgid "Really?"
+msgstr "ホントに？"
+
+msgid "If this ritual ends up working..."
+msgstr "もし儀式がうまくいったら……"
+
+msgid "(...And this doorknob isn't just some online scam...)"
+msgstr "(……それに、このドアノブがただのネット詐欺じゃなかったら……)"
+
+msgid "Then supposedly I can use this on a special door and it'll take me back home."
+msgstr "特別な扉にこれを使えば、家に帰れることになってる。"
+
+msgid "Really?!"
+msgstr "ホントに!?"
+
+msgid "Yeah, well, I wasn't going to do this ritual without a plan."
+msgstr "うん、その、私も別に、無計画にこの儀式をしてるわけじゃないの。"
+
+msgid "Thank goodness."
+msgstr "よかった。"
+
+msgid "All of my pestering worked."
+msgstr "僕がしつこく言った甲斐があったね。"
+
+msgid "Don't lose it!!"
+msgstr "失くさないようにね!!"
+
+msgid "Of course."
+msgstr "もちろん。"
+
+msgid "(This should reassure him a bit.)"
+msgstr "(これで少しは安心してくれたはず。)"
+
+msgid "(Reassurance complete. No need to bring this back up.)"
+msgstr "(もう安心させ終わった。また見せる必要はない。)"
+
+msgid "Are you going to try on makeup?"
+msgstr "メイクをするの？"
+
+msgid "Or maybe..."
+msgstr "それとも……"
+
+msgid "You want to put it on me???"
+msgstr "僕に塗る気？？？"
+
+msgid "...I was just showing you..."
+msgstr "……見せてるだけ……"
+
+msgid "Oh..."
+msgstr "そっか……"
+
+msgid "You sound almost... disappointed?"
+msgstr "何かちょっと……がっかりしてない？"
+
+msgid "Do you need help putting lipstick on?"
+msgstr "塗るの、手伝ってあげようか？"
+
+msgid "I-I'm not using it!"
+msgstr "わ――私が塗るわけじゃないから！"
+
+msgid "You do know that you're supposed to do that while the person is asleep, right?"
+msgstr "そういうのは寝てる人にするものだよ。分かってるでしょ？"
+
+msgid "You seemed so concentrated, I thought I could pull it off."
+msgstr "すごく集中してたから、いけるかなと思って。"
+
+msgid "I think I'll be locking my room tonight..."
+msgstr "今夜は部屋に鍵をかけとくよ……"
+
+msgid "Drawing on Hiro's face will have to wait."
+msgstr "ヒロの顔に落書きするのはまた今度にしよう。"
+
+msgid "Lace, I don't know what you're planning with that,"
+msgstr "レイス、それで何をするつもりか知らないけど、"
+
+msgid "but it's gonna be really hard to wash off."
+msgstr "落とすのにかなり苦労するよ。"
+
+msgid "Yeah... I'm aware."
+msgstr "うん……わかってる。"
+
+msgid "Um... do you need me to get up?"
+msgstr "えっと……どいたほうがいい？"
+
+msgid "Are you painting this bench?"
+msgstr "このベンチを塗り替えるの？"
+
+msgid "N-no... sorry."
+msgstr "う――ううん……ごめん。"
+
+msgid "Okay, turn around."
+msgstr "わかった、後ろを向いて。"
+
+msgid "...Huh?"
+msgstr "……え？"
+
+msgid "You don't want me to tie your hair with the ribbon?"
+msgstr "そのリボンで髪を結んでほしいんでしょ？"
+
+msgid "Oh! I forgot we used to do that."
+msgstr "ああ！　確かに、前は結んでもらってたね。忘れてた。"
+
+msgid "But I need it for something else, so no."
+msgstr "でも、これは別のことに使うから、結ばなくていい。"
+
+msgid "Bummer!"
+msgstr "それは残念！"
+
+msgid "Tying your hair will have to wait."
+msgstr "髪を結ぶのはまた今度にしよう。"
+
+msgid "...This is...?"
+msgstr "……これは……？"
+
+msgid "A rune, for the ritual."
+msgstr "ルーン。儀式に使う。"
+
+msgid "Oh... It's just a rock with a greek letter?"
+msgstr "へぇ……ただの、ギリシャ文字が書かれた石？"
+
+msgid "It's not greek, but yeah, more or less."
+msgstr "ギリシャ文字じゃないけど、でもまあ、そんなところ。"
+
+msgid "Interesting."
+msgstr "興味深いね。"
+
+msgid "No reason to show him again."
+msgstr "もう一度見せる理由はない。"
+
+msgid "The salt goes on the inside only..."
+msgstr "塩をまくのは中だけでいい……"
+
+msgid "Oh...? Lacie is learning to cook?"
+msgstr "うん……？　料理の勉強かい？"
+
+msgid "No, not yet."
+msgstr "いや、まだ。"
+
+msgid "Aww... It could've been fun!"
+msgstr "えぇー……きっと楽しいのに！"
+
+msgid "Maybe some other time."
+msgstr "またいつかね。"
+
+msgid "Hiro needs no further seasoning."
+msgstr "これ以上ヒロに味付けする必要はない。"
+
+msgid "My shoelaces! It's going to take ages to lace those back!"
+msgstr "僕の靴紐！　元に戻すのに数世紀はかかるよ！"
+
+msgid "I'm sorry, it's necessary."
+msgstr "ごめん、必要なの。"
+
+msgid "Those are my favorite, please don't lose them."
+msgstr "お気に入りのやつだから、絶対失くさないでね。"
+
+msgid "Lucky shoes? Or lucky shoelaces?"
+msgstr "ラッキーシューズ？　それともラッキー靴紐？"
+
+msgid "Lucky nothing if you lose them!!"
+msgstr "失くしたらラッキー虚無だよ!!"
+
+msgid "I'll be careful!"
+msgstr "気を付ける！"
+
+msgid "Here, take a look at them one last time."
+msgstr "ほら、最後にもう一度だけ見ておいて。"
+
+msgid "Whaaat?"
+msgstr "最後ぉ？"
+
+msgid "I have to burn them for the ritual."
+msgstr "儀式で燃やさなきゃいけないから。"
+
+msgid "Can't you use different ones?"
+msgstr "別のじゃダメなの？"
+
+msgid "They have to be red, and worn by a dummy."
+msgstr "赤色で、アホが履いたやつじゃないといけないから。"
+
+msgid "There's no way it says that..."
+msgstr "絶対ウソでしょ……"
+
+msgid "Let's not tease him anymore."
+msgstr "もうからかうのはやめておこう。"
+
+msgid "Are you learning how to sew?"
+msgstr "裁縫の勉強かい？"
+
+msgid "Not this year."
+msgstr "今年はしない。"
+
+msgid "I have a hole on this sweater you can practice on, you know."
+msgstr "このセーターは穴が開いちゃってるから、練習に使えるよ。"
+
+msgid "And risk damaging the kitty pattern even further?"
+msgstr "子猫柄がいっそう崩れちゃうかもしれないよ？"
+
+msgid "I believe in you!"
+msgstr "レイシーを信じてるから！"
+
+msgid "Make me a new sweater or something."
+msgstr "新しいセーターか何かを作ってよ。"
+
+msgid "This isn't yarn..."
+msgstr "これ、毛糸じゃないから……"
+
+msgid "Hiro isn't here."
+msgstr "ヒロはいない。"
+
+msgid "A nice bench, isolated from the public gaze."
+msgstr "衆目から隔てられた、感じのいいベンチ。"
+
+msgid "A bush."
+msgstr "茂み。"
+
+msgid "A nice chair."
+msgstr "感じのいい椅子。"
+
+msgid "Some pretty flowers are lined up on the sides."
+msgstr "かわいらしい花が脇に並んで咲いている。"
+
+msgid "A pond surrounded by flowers."
+msgstr "花に囲まれた池。"
+
+msgid "I wish we had frogs here."
+msgstr "カエルがいたらよかったのに。"
+
+msgid "Lamps that look a lot nicer at night."
+msgstr "ランプ。夜はもっと雰囲気が良い。"
+
+msgid "Another nice plant."
+msgstr "ここにもいい感じの植物。"
+
+msgid "Some pretty flowers."
+msgstr "かわいらしい花。"
+
+msgid "A potted plant. This one is called Jacques."
+msgstr "鉢植え。名前はジャック。"
+
+msgctxt "events.Ch1_Home_Exterior_Back.misc_pottedplant_2.dlg.narrator"
+msgid "A potted plant."
+msgstr "鉢植え。"
+
+msgid "A potted plant. This one is called Lucardo."
+msgstr "鉢植え。名前はルカルド。"
+
+msgctxt "events.Ch1_Home_Exterior_Back.misc_pottedplant_3.dlg.narrator"
+msgid "A potted plant."
+msgstr "鉢植え。"
+
+msgid "A nice table."
+msgstr "感じのいいテーブル。"
+
+msgid "A tree."
+msgstr "木。"

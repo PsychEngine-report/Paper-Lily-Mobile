@@ -1,0 +1,624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Cellphone"
+msgstr "Komórka"
+
+msgid "My personal phone. Hiro bought it for me."
+msgstr "Mój osobisty telefon. Hiro go dla mnie kupił."
+
+msgid "To-Do List"
+msgstr "Lista rzeczy do zrobienia"
+
+msgid "A list of things I want to do before I die."
+msgstr "Lista rzeczy, które chcę zrobić, zanim umrę."
+
+msgid "Red Ribbon"
+msgstr "Czerwona wstążka"
+
+msgid "A soft and silky red ribbon."
+msgstr "Miękka i jedwabista czerwona wstążka."
+
+msgid "Red Thread"
+msgstr "Czerwona nić"
+
+msgid "Some red thread from mother's sewing kit. The color matches my scarf."
+msgstr "Trochę czerwonej nici z zestawu do szycia mamy. Kolor pasuje do mojego szalika."
+
+msgid "Red Shoelaces"
+msgstr "Czerwone sznurówki"
+
+msgid "From the shoe rack. Does something like this count?"
+msgstr "Z półki na buty. Czy coś takiego się liczy?"
+
+msgid "Red Paint"
+msgstr "Czerwona farba"
+
+msgid "A can of red paint. It's dusty."
+msgstr "Puszka czerwonej farby. Jest zakurzona."
+
+msgid "Bird Food"
+msgstr "Karma dla ptaków"
+
+msgid "All-Natural Non-GMO Certified Organic Bird Food. It's as expensive as it sounds."
+msgstr "“Całkowicie Naturalna Niemodyfikowana Certyfikowana Organiczna Karma dla Ptaków”. Tak droga, jak się wydaje."
+
+msgid "Red Marker"
+msgstr "Czerwony marker"
+
+msgid "A non-erasable alcohol-based red marker."
+msgstr "Niezmywalny czerwony marker na bazie alkoholu."
+
+msgid "Lipstick"
+msgstr "Szminka"
+
+msgid "Some red lipstick from mother's makeup set. It says \"Crimson Passion\"."
+msgstr "Czerwona szminka z zestawu do makijażu mamy. Jest na niej napisane \"Karmazynowa Pasja\"."
+
+msgid "Ritual Letter"
+msgstr "List rytualny"
+
+msgid "The ritual instructions I received."
+msgstr "Instrukcje do wykonania rytuału, które dostałam."
+
+msgid "Table Salt"
+msgstr "Sól kuchenna"
+
+msgid "\"For cooking and baking\". Salt can supposedly ward off spirits and such."
+msgstr "\"Do gotowania i pieczenia\". Sól może rzekomo odstraszać duchy i tym podobne."
+
+msgid "Notebook"
+msgstr "Zeszyt"
+
+msgid "I keep my personal notes and papers I find here."
+msgstr "Przechowuję tu moje osobiste notatki i znalezione materiały."
+
+msgid "Rune"
+msgstr "Runa"
+
+msgid "A rune stone I bought from a shady online merchant."
+msgstr "Kamień z runą, który kupiłam od podejrzanego handlarza online."
+
+msgid "A rune stone I found."
+msgstr "Kamień z runą, który znalazłam."
+
+msgid "Blue Sign"
+msgstr "Niebieski znak"
+
+msgid "It says \"Daylight Gate\"."
+msgstr "Widnieje na nim napis \"Brama Światła Dziennego\"."
+
+msgid "Pack of Chips"
+msgstr "Paczka czipsów"
+
+msgid "Looks like regular potato chips. The brand is literally called \"Harmless Snack\"."
+msgstr "Wyglądają jak zwykłe czipsy ziemniaczane. Marka nazywa się \"Nieszkodliwa Przekąska\"."
+
+msgid "Chocolate Bar"
+msgstr "Czekoladowy batonik"
+
+msgid "Looks like a bar of chocolate. The brand is literally called \"Harmless Snack\"."
+msgstr "Wygląda jak batonik czekoladowy. Marka nazywa się \"Nieszkodliwa przekąska\"."
+
+msgid "Bug Net"
+msgstr "Siatka na owady"
+
+msgid "A bug net Rune gave me. I don't know what I'll do with it."
+msgstr "Siatka na owady, którą dał mi Rune. Nie wiem, co z nią zrobić."
+
+msgid "Empty Lamp"
+msgstr "Pusta lampa"
+
+msgid "The case of a street lamp. It has nothing inside."
+msgstr "Obudowa lampy ulicznej. Nie ma nic w środku."
+
+msgid "Lamp with Fireflies"
+msgstr "Lampa ze świetlikami"
+
+msgid "A street lamp full of fireflies."
+msgstr "Lampa uliczna pełna świetlików."
+
+msgid "Empty Jar"
+msgstr "Pusty słoik"
+
+msgid "A jar with nothing inside."
+msgstr "Słoik, w którym nic nie ma."
+
+msgid "Jar of Fireflies"
+msgstr "Słoik ze świetlikami"
+
+msgid "A jar full of fireflies."
+msgstr "Słoik pełen świetlików."
+
+msgid "Bolt Cutter"
+msgstr "Nożyce do metalu"
+
+msgid "A bolt cutter Rune gave me. Looks strong."
+msgstr "Nożyce do metalu, które dostałam od Rune’a. Wyglądają na mocne."
+
+msgid "Fish"
+msgstr "Ryba"
+
+msgid "A fish thing I purchased from a merchant. I don't think I should eat this."
+msgstr "Ryba, którą kupiłam od handlarki. Chyba nie powinnam jej jeść."
+
+msgid "Jar of Slugs"
+msgstr "Słoik ślimaków"
+
+msgid "A jar of slugs. Heavy."
+msgstr "Słoik ze ślimakami. Ciężki."
+
+msgid "Stone Curse Notes"
+msgstr "Notatki dotyczące Klątwy Petryfikacji"
+
+msgid "Notes explaining a ritual to remove a \"Stone Curse\"."
+msgstr "Notatki opisujące rytuał zdejmujący \"Klątwę Petryfikacji\"."
+
+msgid "Artistic Pot"
+msgstr "Dzban artystyczny"
+
+msgid "A pot I found. Hopefully it works as a new head for Kozmo."
+msgstr "Dzban, który znalazłam. Mam nadzieję, że sprawdzi się jako nowa głowa dla Kozma."
+
+msgid "Stone Curse Cure"
+msgstr "Lekarstwo na klątwę petryfikacji"
+
+msgid "A sort of potion I made. It should cure a simple stone curse."
+msgstr "Coś w rodzaju mikstury, którą zrobiłam. Powinna zdjąć prostą klątwę petryfikacji."
+
+msgid "Weird Sculpture"
+msgstr "Dziwna rzeźba"
+
+msgid "A thing I found. I'm almost a bit ashamed of having to give this to Kozmo."
+msgstr "Coś, co znalazłam. Aż mi trochę wstyd, że muszę to dać Kozmowi."
+
+msgid "Teapot-Shaped Head"
+msgstr "Głowa w kształcie imbryka"
+
+msgid "It came off the sculptor. It's empty inside."
+msgstr "Pochodzi od rzeźbiarza. Jest pusta w środku."
+
+msgid "Artist's Flower"
+msgstr "Kwiat artysty"
+
+msgid "It came off the sculptor. It smells good."
+msgstr "Pochodzi od rzeźbiarza. Ładnie pachnie."
+
+msgid "Cursed Tree Bark"
+msgstr "Kora przeklętego drzewa"
+
+msgid "A piece I tore off a tree. Allegedly cursed."
+msgstr "Kawałek, który oderwałam z drzewa. Rzekomo przeklęty."
+
+msgid "Ink Mushrooms"
+msgstr "Atramentowe grzyby"
+
+msgid "Black mushrooms."
+msgstr "Czarne grzyby."
+
+msgid "Lit Candle"
+msgstr "Zapalona świeca"
+
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "Świeca, którą zabrałam z posągu w domu rzeźbiarza."
+
+msgid "Unlit Candle"
+msgstr "Zgaszona świeca"
+
+msgid "Blue Candle"
+msgstr "Niebieska świeca"
+
+msgid "A candle that the candle person gave to me."
+msgstr "Świeca, którą dała mi osoba od świeczek."
+
+msgid "AC Adapter"
+msgstr "Zasilacz sieciowy"
+
+msgid "A power plug adapter. It converts a 3-prong plug for a 2-prong socket."
+msgstr "Adapter do wtyczki. Konwertuje wtyczkę 3-bolcową na gniazdo 2-bolcowe."
+
+msgid "Scissors"
+msgstr "Nożyczki"
+
+msgid "A pair of scissors. Pointy!"
+msgstr "Para nożyczek. Spiczaste!"
+
+msgid "Padlock Key"
+msgstr "Klucz do kłódki"
+
+msgid "A key that should open the gate with the warning sign."
+msgstr "Klucz, który powinien otworzyć furtkę ze znakiem ostrzegawczym."
+
+msgid "Caterpillar"
+msgstr "Gąsienica"
+
+msgid "The moths asked me to get rid of him for a reward."
+msgstr "Ćmy poprosiły mnie o pozbycie się go w zamian za nagrodę."
+
+msgid "Treasure Hunter's Letter"
+msgstr "List poszukiwacza skarbów"
+
+msgid "A letter I found under a statue."
+msgstr "List, który znalazłam pod posągiem."
+
+msgid "Treasure Hunter's Note 1"
+msgstr "Notatka poszukiwacza skarbów 1"
+
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Notatka, którą znalazłam. Dotyczy drogi przez las."
+
+msgid "Treasure Hunter's Note 2"
+msgstr "Notatka poszukiwacza skarbów 2"
+
+msgid "Treasure Hunter's Note 3"
+msgstr "Notatka poszukiwacza skarbów 3"
+
+msgid "Treasure Hunter's Note 4"
+msgstr "Notatka poszukiwacza skarbów 4"
+
+msgid "Secret Passage Code"
+msgstr "Kod do tajnego przejścia"
+
+msgid "Contains the code to open the secret passage under Red's house."
+msgstr "Zawiera kod otwierający tajne przejście pod domem Reda."
+
+msgid "Boat Paddle"
+msgstr "Wiosło do łodzi"
+
+msgid "Perfect for rowing a boat."
+msgstr "Idealne do wiosłowania łodzią."
+
+msgid "Injured Bunny"
+msgstr "Ranny królik"
+
+msgid "It couldn't run away, so now it's in my inventory. Looks like it has a broken leg."
+msgstr "Nie mógł uciec, więc teraz jest w moim ekwipunku. Zdaje się, że ma złamaną nóżkę."
+
+msgid "Lavender Flower"
+msgstr "Lawendowy kwiat"
+
+msgid "Smells like laundry."
+msgstr "Pachnie jak pranie."
+
+msgid "Goldfish"
+msgstr "Złota rybka"
+
+msgid "Dead Goldfish"
+msgstr "Martwa złota rybka"
+
+msgid "Might have been better off where it was."
+msgstr "Lepiej było zostawić ją tam, gdzie była."
+
+msgid "Black Algae"
+msgstr "Czarne glony"
+
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Trochę glonów, które wyłowiłam z dna jeziora."
+
+msgid "Blue Algae"
+msgstr "Niebieskie glony"
+
+msgid "Green Algae"
+msgstr "Zielone glony"
+
+msgid "Pink Petals"
+msgstr "Różowe płatki"
+
+msgid "Some flower petals I found."
+msgstr "Garść płatków z kwiatów, które znalazłam."
+
+msgid "Purple Petals"
+msgstr "Purpurowe płatki"
+
+msgid "White Petals"
+msgstr "Białe płatki"
+
+msgid "Handle (Square)"
+msgstr "Zawór (Kwadrat)"
+
+msgid "A purple handle for a valve mechanism. The protrusion is square-shaped."
+msgstr "Fioletowy zawór. Wypustka ma kształt kwadratu."
+
+msgid "Handle (Pentagon)"
+msgstr "Zawór (Pięciokąt)"
+
+msgid "A red handle for a valve mechanism. The protrusion is pentagon-shaped."
+msgstr "Czerwony zawór. Wypustka ma kształt pięciokąta."
+
+msgid "Handle (Star)"
+msgstr "Zawór (Gwiazda)"
+
+msgid "A yellow handle for a valve mechanism. The protrusion is shaped like a 5-point star."
+msgstr "Żółty zawór. Wypustka ma kształt gwiazdy pięcioramiennej."
+
+msgid "Handle (Diamond)"
+msgstr "Zawór (Romb)"
+
+msgid "A white handle for a valve mechanism. The protrusion is diamond-shaped."
+msgstr "Biały zawór. Wypustka ma kształt rombu."
+
+msgid "Fuse (5)"
+msgstr "Bezpiecznik (5)"
+
+msgid "Fuse (10)"
+msgstr "Bezpiecznik (10)"
+
+msgid "Fuse (15)"
+msgstr "Bezpiecznik (15)"
+
+msgid "Fuse (20)"
+msgstr "Bezpiecznik (20)"
+
+msgid "Fuse (25)"
+msgstr "Bezpiecznik (25)"
+
+msgid "Fuse (40)"
+msgstr "Bezpiecznik (40)"
+
+msgid "_____"
+msgstr "___"
+
+msgid "It's sharp."
+msgstr "Jest ostry."
+
+msgid "Iron Key"
+msgstr "Żelazny klucz"
+
+msgid "A fairly large metallic key."
+msgstr "Dość duży klucz z metalu."
+
+msgid "Copper Key"
+msgstr "Miedziany klucz"
+
+msgid "A regular key. It probably opens a door somewhere."
+msgstr "Zwykły klucz. Prawdopodobnie otwiera gdzieś drzwi."
+
+msgid "Bucket"
+msgstr "Wiadro"
+
+msgid "A metallic bucket. It can transport various liquid substances."
+msgstr "Metalowe wiadro. Można w nim przenosić różne płynne substancje."
+
+msgid "Bucket of Water"
+msgstr "Wiadro z wodą"
+
+msgid "A bucket full of water. It's heavy."
+msgstr "Wiadro pełne wody. Jest ciężkie."
+
+msgid "Bucket of Special Water"
+msgstr "Wiadro ze specjalną wodą"
+
+msgid "A bucket full of water. It comes from a special faucet in the forest."
+msgstr "Wiadro pełne wody. Pochodzi ze specjalnego kranu w lesie."
+
+msgid "Flat Screwdriver"
+msgstr "Płaski śrubokręt"
+
+msgid "A simple screwdriver."
+msgstr "Zwykły śrubokręt."
+
+msgid "Coin"
+msgstr "Moneta"
+
+msgid "A coin that's not quite like the ones back home."
+msgstr "Moneta, która nie przypomina tych w domu."
+
+msgid "Return Doorknob"
+msgstr "Klamka powrotu"
+
+msgid "Apparently, this is my ticket back home. I purchased it online."
+msgstr "Najwyraźniej jest to mój bilet powrotny do domu. Kupiłam go online."
+
+msgid "Doorknob With Flower"
+msgstr "Klamka z kwiatkiem"
+
+msgid "A doorknob. I found this lying around."
+msgstr "Klamka. Znalazłam ją leżącą w trawie."
+
+msgid "Doorknob Fragment"
+msgstr "Fragment klamki"
+
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "Kawałki klamki. Nie potrafię ich samodzielnie poskładać."
+
+msgid "Gray Doorknob"
+msgstr "Szara klamka"
+
+msgid "A doorknob. It has the same symbol as my letter."
+msgstr "Klamka. Ma taki sam symbol jak mój list."
+
+msgid "White Doorknob"
+msgstr "Biała klamka"
+
+msgid "A doorknob. It looks like a white lily."
+msgstr "Klamka. Wygląda jak biała lilia."
+
+msgid "Doorknob With Eye"
+msgstr "Klamka z okiem"
+
+msgid "A doorknob I got from the moths. Can probably be used at that door with the slots."
+msgstr "Klamka, którą dostałam od ciem. Prawdopodobnie mogę jej użyć przy tamtych drzwiach."
+
+msgid "Paper Lily Folding Steps"
+msgstr "Kroki składania lilii z papieru"
+
+msgid "Instructions detailing how to fold a piece of paper to look like a lily flower."
+msgstr "Instrukcje pokazujące, jak złożyć kartkę papieru, aby wyglądała jak kwiat lilii."
+
+msgid "Facility Map"
+msgstr "Mapa placówki"
+
+msgid "A map of the facility, drawn by someone."
+msgstr "Narysowana przez kogoś mapa placówki."
+
+msgid "Black Knife"
+msgstr "Czarny nóż"
+
+msgid "A fully black knife. It's still very sharp."
+msgstr "W pełni czarny nóż. Nadal jest bardzo ostry."
+
+msgid "Knife"
+msgstr "Nóż"
+
+msgid "A knife."
+msgstr "Nóż."
+
+msgid "Human Foot"
+msgstr "Ludzka stopa"
+
+msgid "A foot that used to belong to someone."
+msgstr "Stopa, która dawniej do kogoś należała."
+
+msgid "Sketchbook"
+msgstr "Szkicownik"
+
+msgid "A sketchbook full of colors you splattered all over it."
+msgstr "Szkicownik pełen kolorów, które na nim rozprysnęłaś."
+
+msgid "Black Object"
+msgstr "Czarny przedmiot"
+
+msgid "An unknown circular object that's fully black. Feels like wood and glass."
+msgstr "Nieznany okrągły przedmiot, który jest całkowicie czarny. W dotyku przypomina drewno i szkło."
+
+msgid "Hand Mirror"
+msgstr "Ręczne lusterko"
+
+msgid "A wooden hand mirror."
+msgstr "Drewniane ręczne lusterko."
+
+msgid "An unknown object that's fully black. Feels like a piece of fabric."
+msgstr "Nieznany obiekt, który jest całkowicie czarny. Sprawia wrażenie kawałka materiału."
+
+msgid "Cold Compress"
+msgstr "Chłodny kompres"
+
+msgid "A wet rag."
+msgstr "Mokra szmatka."
+
+msgid "Eyeball"
+msgstr "Gałka oczna"
+
+msgid "An eyeball. The owner seems to have had golden eyes."
+msgstr "Gałka oczna. Zdaje się, że jej właściciel miał złote oczy."
+
+msgid "Small Key"
+msgstr "Mały klucz"
+
+msgid "A small key. Looks like it could belong to a padlock or something similar."
+msgstr "Mały klucz. Wygląda, jakby pasował do kłódki lub czegoś podobnego."
+
+msgid "Key"
+msgstr "Klucz"
+
+msgid "A key for something."
+msgstr "Klucz do czegoś."
+
+msgid "Glass Jar"
+msgstr "Szklany słoik"
+
+msgid "A small glass jar. I found 3 of them."
+msgstr "Mały szklany słoik. Znalazłam 3 takie słoiki."
+
+msgid "Jar of Water"
+msgstr "Słoik z wodą"
+
+msgid "A small glass jar full of water."
+msgstr "Mały szklany słoik wypełniony wodą."
+
+msgid "Jar of Red Pigment"
+msgstr "Słoik z czerwonym barwnikiem"
+
+msgid "A small glass jar with red pigment. Needs water."
+msgstr "Mały szklany słoik z czerwonym barwnikiem. Potrzebna będzie woda."
+
+msgid "Jar of Yellow Pigment"
+msgstr "Słoik z żółtym barwnikiem"
+
+msgid "A small glass jar with yellow pigment. Needs water."
+msgstr "Mały szklany słoik z żółtym barwnikiem. Potrzebna będzie woda."
+
+msgid "Jar of Blue Pigment"
+msgstr "Słoik z niebieskim barwnikiem"
+
+msgid "A small glass jar with blue pigment. Needs water."
+msgstr "Mały szklany słoik z niebieskim barwnikiem. Potrzebna będzie woda."
+
+msgid "Jar of Red Paint"
+msgstr "Słoik czerwonej farby"
+
+msgid "A small glass jar with red paint."
+msgstr "Mały szklany słoik z czerwoną farbą."
+
+msgid "Jar of Yellow Paint"
+msgstr "Słoik żółtej farby"
+
+msgid "A small glass jar with yellow paint."
+msgstr "Mały szklany słoik z żółtą farbą."
+
+msgid "Jar of Blue Paint"
+msgstr "Słoik niebieskiej farby"
+
+msgid "A small glass jar with blue paint."
+msgstr "Mały szklany słoik z niebieską farbą."
+
+msgid "Lighter"
+msgstr "Zapalniczka"
+
+msgid "A lighter."
+msgstr "Zapalniczka."
+
+msgid "Lock Pick"
+msgstr "Wytrych"
+
+msgid "A lock pick. I don't know how to use this..."
+msgstr "Wytrych do otwierania zamków. Nie umiem tego wykorzystać..."
+
+msgid "Rainbow Potion"
+msgstr "Tęczowa mikstura"
+
+msgid "A strange potion. I wonder what it does..."
+msgstr "Dziwna mikstura. Ciekawe, co robi..."
+
+msgid "Temp. Rainbow Potion"
+msgstr "Prowizoryczna tęczowa mikstura"
+
+msgid "A strange potion that Spider directed me to. It has a shorter duration than the original one."
+msgstr "Dziwna mikstura, którą polecił mi Pająk. Ma krótszy czas działania niż oryginalna mikstura."
+
+msgid "Lily"
+msgstr "Lilia"
+
+msgid "A lily. I'm supposed to bring it home with me."
+msgstr "Lilia. Mam ją zabrać ze sobą do domu."
+
+msgid "Flower"
+msgstr "Kwiat"
+
+msgid "Sewing Kit"
+msgstr "Zestaw do szycia"
+
+msgid "Cabbage"
+msgstr "Kapusta"
+
+msgid "Red Item I"
+msgstr "Czerwony przedmiot I"
+
+msgid "A red item. I can't tell what it is."
+msgstr "Coś czerwonego. Nie mam pojęcia, co to może być."
+
+msgid "Red Item II"
+msgstr "Czerwony przedmiot II"
+
+msgid "Red Item III"
+msgstr "Czerwony przedmiot III"

@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It seems to like the white tree."
+msgstr "Xem ra nó thích cái cây trắng này."
+
+msgid "Take ${item:ch1.doorknob_grave}?"
+msgstr "Lấy ${item:ch1.doorknob_grave} chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Fallen white leaves surround the tree."
+msgstr "Xung quanh cái cây có rơi những chiếc lá màu trắng."
+
+msgid "Take some ${item:ch1.lakeside_petals_white}?"
+msgstr "Lấy vài ${item:ch1.lakeside_petals_white} chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log.dlg.narrator"
+msgid "A wooden log."
+msgstr "Khúc gỗ."
+
+msgid "It's too short to use as a bridge."
+msgstr "Ngắn thế này không dùng làm cầu được."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.dlg.narrator"
+msgid "A wooden log."
+msgstr "Khúc gỗ."
+
+msgid "I could use this to cross the river..."
+msgstr "Dùng cái này bắc qua sông được nè..."
+
+msgid "Push it into the water?"
+msgstr "Đẩy nó xuống nước chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "Yes"
+msgstr "Đẩy"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Something's weird about this spot, but you don't know what it is."
+msgstr "Cái chỗ này nó có cái gì đó thấy kì cục, nhưng bạn không biết nó là gì cả."
+
+msgid "It's just trees... right?"
+msgstr "Chỉ là cây cối thôi mà... nhỉ?"
+
+msgid "The passage is camouflaged."
+msgstr "Lối đi được ngụy trang."
+
+msgid "There's no way to open it from this side."
+msgstr "Từ phía này không có cách nào mở ra cả."
+
+msgid "A beautiful tree with white leaves."
+msgstr "Cái cây xinh đẹp có lá màu trắng."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_water.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Xa thế sao nhảy."
+
+msgid "The river fades into obscurity."
+msgstr "Con sông mờ dần vào mịt tối."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_north.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Xa thế sao nhảy."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_south.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Xa thế sao nhảy."
+
+msgid "White leaves cover the ground."
+msgstr "Lá cây màu trắng phủ lên mặt đất."

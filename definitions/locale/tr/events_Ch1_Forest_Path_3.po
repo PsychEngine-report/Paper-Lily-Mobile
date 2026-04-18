@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You plugged in the cable using the adapter.)"
+msgstr "(Adaptörü kullanarak kabloyu taktın)"
+
+msgid "There's an electrical socket hiding behind the bush."
+msgstr "Çalının arkasında saklanan bir elektrik prizi var"
+
+msgid "The plug and the socket don't match, so you can't plug it in."
+msgstr "Kablo ve priz eşleşmiyor, o yüzden fişe takamıyorsun."
+
+msgid "I suppose I could try this adapter I found."
+msgstr "Sanırım bulduğum bu adaptörü deneyebilirim."
+
+msgid "Do I need an adapter? That's so weird."
+msgstr "Bir adaptöre ihtiyacım var mı ki? Çok garip."
+
+msgid "The campfire is plugged here."
+msgstr "Kamp ateşi bu fişe takılmış"
+
+msgid "The cable is plugged in."
+msgstr "Kablo fişe takılı."
+
+msgid "\"Red's Treehouse\""
+msgstr "\"Red'in Ağaç Evi\""
+
+msgid "\"Treeehouse\"... sheesh!"
+msgstr "\"Ağaç ev\"... vay!"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "The floor here is unusual..."
+msgstr "Buradaki zemin bir garip..."
+
+msgid "There's a key hidden here."
+msgstr "Burada saklı bir anahtar var."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "${item:ch1.forest_lockedsite_key} Alacak mısın？"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Bu anahtara ihtiyacın yok, bu yüzden atıldı.)"
+
+msgid "There's a note as well."
+msgstr "Burada bir notta var."
+
+msgid "There's nothing else here."
+msgstr "Burada başka birşey yok."

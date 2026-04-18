@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I'm sorry for disturbing you."
+msgstr "Rahatsız ettiğim için üzgünüm."
+
+msgid "(She's crying...)"
+msgstr "(Ağlıyor...)"
+
+msgid "How long has she been locked up in here?"
+msgstr "Ne zamandır burada kilitliydi?"
+
+msgid "I don't know."
+msgstr "Bilmiyorum."
+
+msgid "No hard feelings."
+msgstr "Alınmak yok."
+
+msgid "You're food, after all."
+msgstr "Sonuçta sen yiyeceksin."
+
+msgid "What are your thoughts?"
+msgstr "Düşüncelerin neler?"
+
+msgctxt "events.Ch1_Facility_B3F_East.event_spider_force_meet.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "Git bir bak."
+
+msgid "Psst..."
+msgstr "Psst..."
+
+msgid "Over here."
+msgstr "Buraya."
+
+msgid "A small toy."
+msgstr "Küçük bir oyuncak."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Is that... Miss Knives?"
+msgstr "Bu... Bayan Knives mı?"
+
+msgid "Is this what she actually looks like..?"
+msgstr "Gerçekten böyle mi görünüyor?"
+
+msgid "Whoa."
+msgstr "Oha."
+
+msgid "She looks like a used napkin."
+msgstr "Kullanıp atılmış bir beze benziyor."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "Görünüşe göre bu kapı açılabilir. Aç?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're... Spider?"
+msgstr "Sen... Örümcek misin?"
+
+msgid "Good work back there. Didn't think you'd actually do it."
+msgstr "Orada iyi iş çıkardın. Gerçekten bunu yapacağını düşünmemiştim."
+
+msgid "It feels good to see this place again."
+msgstr "Burayı tekrar görmek güzel bir duygu."
+
+msgid "How's this good? You're locked up."
+msgstr "Bu nasıl iyi? Kilitlendin."
+
+msgid "I don't need much to be content."
+msgstr "Memnun olmak için fazla bir şeye ihtiyacım yok."
+
+msgid "My cell neighbor keeps me entertained."
+msgstr "Hücre arkadaşlarım beni yeterince eğlendirdir."
+
+msgid "...?"
+msgstr "...?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "Git bir bak."
+
+msgid "You mean Miss Knives...?"
+msgstr "Bayan Knives'ı mı kastediyorsun?"
+
+msgid "About Miss Knives..."
+msgstr "Bayan Knives hakkında..."
+
+msgid "Are you surprised?"
+msgstr "Şaşırdın mı？"
+
+msgid "Well... kind of."
+msgstr "Şey... Evet, biraz."
+
+msgid "She's seen better days."
+msgstr "Daha iyi günleri olmuştu."
+
+msgid "But she'll be fine. She's just like a spider."
+msgstr "Ama iyi olacak. O tıpkı bir örümcek gibi."
+
+msgid "After a little while, she'll make a new web and entangle everyone in it again."
+msgstr "Bir süre sonra yeni bir ağ örecek ve herkesi tekrar bu ağ içerisine sokacaktır."
+
+msgid "I'm curious to see what it will look like next time."
+msgstr "Bir dahaki sefere nasıl görüneceğini merak ediyorum."
+
+msgid "Huh."
+msgstr "Hah."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "I see..."
+msgstr "Anlıyorum..."
+
+msgid "Besides. She does get a visitor every so often."
+msgstr "Ayrıca. Sık sık ziyaretçileri oluyor."
+
+msgid "Really?"
+msgstr "Gerçekten mi?"
+
+msgid "Yes. An intriguing one by the name of Red."
+msgstr "Evet. Red adında ilgi çekici biri."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Don't look so excited."
+msgstr "O kadar heyecanlı görünme."
+
+msgid "Red won't be back here anytime soon."
+msgstr "Red yakın zamanda buraya dönmeyecek."
+
+msgid "I see."
+msgstr "Anlıyorum."
+
+msgid "Is Red the lighthouse person?"
+msgstr "Red deniz feneri insanı mı?"
+
+msgid "Yes..."
+msgstr "Evet..."
+
+msgid "Ah, damn."
+msgstr "Ah, kahretsin."
+
+msgid "Interesting."
+msgstr "İlginç."
+
+msgid "If the lighthouse is what you're searching for, perhaps this is of use to you."
+msgstr "Eğer aradığınız şey deniz feneri ise belki bu işinize yarar."
+
+msgid "Is this... a doorknob to the lighthouse?"
+msgstr "Bu... deniz fenerinin kapı kolu mu?"
+
+msgid "What remains of it."
+msgstr "Ondan geriye kalanlar."
+
+msgid "That's fine, I... I think I know how to fix it."
+msgstr "Sorun değil, ben... Sanırım bunu nasıl düzelteceğimi biliyorum."
+
+msgid "This is a big help, Spider."
+msgstr "Bu büyük bir yardım, Örümcek."
+
+msgid "Thank you. I appreciate it, even if it's broken."
+msgstr "Teşekkür ederim. Kırılmış olsa bile minnettarım."
+
+msgid "Then consider our debts settled."
+msgstr "O halde borçlarımızın ödendiğini düşünün."
+
+msgid "Spider seems at peace in its cell."
+msgstr "Örümcek hücresinde huzur içinde görünüyor."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "Görünüşe göre bu kapı açılabilir. Kapıyı aç?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Crayons and children's drawings."
+msgstr "Boya kalemleri ve çocuk çizimleri."
+
+msgid "Denomination: G8. Potential: Questionable. Training interrupted."
+msgstr "Tarikat: G8. Potansiyel: Şüpheli. Eğitim kesintiye uğradı."
+
+msgid "Requesting installation of an anti-distortion field."
+msgstr "Bozulma önleyici alanın kurulması talep ediliyor."
+
+msgid "An old, crusty pillow."
+msgstr "Eski, huysuz bir yastık."
+
+msgid "Denomination: G11. Potential: High. Training ongoing."
+msgstr "Tarikat: G11. Potansiyel: Yüksek. Eğitim devam ediyor."
+
+msgid "A set of four toy plants."
+msgstr "Dört oyuncak bitkiden oluşan set."

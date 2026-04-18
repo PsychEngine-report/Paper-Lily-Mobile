@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's this supposed to be? Do you guys sleep here?"
+msgstr "Cái này để làm gì thế? Bộ chúng mày hay ngủ lại đây à?"
+
+msgid "Obviously not."
+msgstr "Làm gì có chuyện đó."
+
+msgid "I can't believe this, are you five years old?"
+msgstr "Không thể tin nổi, mày trẻ lên 5 à?"
+
+msgid "Isn't it interesting how electronics work?"
+msgstr "Xem cách thức đồ điện vận hành không thấy hứng thú sao?"
+
+msgid "But they DON'T work! Not anymore!"
+msgstr "Nhưng mà giờ HỎNG ĐÈN mất tiêu rồi còn đâu!?"
+
+msgid "I think you're wasting your breath..."
+msgstr "Tao thấy càng nói càng phí lời thôi..."
+
+msgid ""
+"\"Roses are red\n"
+"Violets are probably violet\""
+msgstr ""
+"\"Hoa hồng đỏ thắm\n"
+"Phi yến tím chăng\""
+
+msgid ""
+"\"My love for you sparkles\n"
+"Like the glow of a diamond\""
+msgstr ""
+"\"Yêu em lấp lánh\n"
+"Như ánh kim cang\""
+
+msgid ""
+"\"I watch you every day\n"
+"I watch you every night\""
+msgstr ""
+"\"Ngày ngày nhìn em\n"
+"Trông em đêm ngày\""
+
+msgid "\"I watch you\""
+msgstr "\"Nhìn em\""
+
+msgid "\"I watch you I watch you I watch you I watch you I watch you I watch you\""
+msgstr "\"Nhìn em trông em nhìn em trông em nhìn em trông em\""
+
+msgid "The other side of the paper is filled with black scribbles."
+msgstr "Mặt sau tờ giấy bị tô lem nhem kín màu đen."
+
+msgid "That... doesn't sound right."
+msgstr "Đọc thấy... kì quái ấy."
+
+msgid "Is... everyone in your club okay?"
+msgstr "Mấy người trong câu lạc bộ mày... không sao đấy chứ?"
+
+msgid "Right now, I'm not sure..."
+msgstr "Giờ tao cũng không biết nữa..."
+
+msgid "I'd rather people didn't find out I was here."
+msgstr "Đừng có để lại dấu vết mình có ở đây thì hơn."
+
+msgid "Please don't mess up this room..."
+msgstr "Làm ơn đừng có phá phách cái phòng này..."
+
+msgid "A pile of neatly folded drapes."
+msgstr "Rèm được gấp thành đống gọn gàng."
+
+msgid "Take them?"
+msgstr "Lấy đi chứ?"
+
+msgctxt "events.Prologue_Club_Theater.item_curtains_get.choice.Take them?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Prologue_Club_Theater.item_curtains_get.choice.Take them?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "This could be useful."
+msgstr "Cái này có khi dùng được."
+
+msgid "You don't need this anymore."
+msgstr "Không cần cái này nữa."
+
+msgid "Those poor boxes probably don't deserve it."
+msgstr "Mấy cái thùng đáng thương này không đáng vậy đâu."
+
+msgid "Oh how I wish..."
+msgstr "Ôi, thèm được lắm ấy chứ..."
+
+msgctxt "events.Prologue_Club_Theater.item_lighter_on_rack_clothes.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "Alright, let's see..."
+msgstr "Nào để coi..."
+
+msgid "There's a ton of useless objects in the boxes and..... a letter."
+msgstr "Trong thùng có hàng đống đồ vô tích sự với... bức thư."
+
+msgid "Read it?"
+msgstr "Đọc chứ?"
+
+msgctxt "events.Prologue_Club_Theater.item_scissors_on_boxes_bottom.choice.Read it?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Prologue_Club_Theater.item_scissors_on_boxes_bottom.choice.Read it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "They're already open."
+msgstr "Đã mở rồi."
+
+msgid "There's no point in brandishing your scissors at them. They're already open."
+msgstr "Không cần phải khua kéo vào mớ thùng này đâu. Mở cả rồi."
+
+msgid "Some blankets are sprawled all over the floor."
+msgstr "Trên sàn trải ngổn ngang vài tấm mền."
+
+msgid "They are too heavy to use as curtains."
+msgstr "Mà nặng quá không dùng làm rèm được."
+
+msgid "A large pile of cardboard boxes sealed with tape."
+msgstr "Núi thùng các-tông được dán băng dính niêm phong."
+
+msgid "There's nothing else of interest in them."
+msgstr "Chả còn thứ gì hấp dẫn khác cất bên trong."
+
+msgid "Read the letter?"
+msgstr "Đọc thư chứ?"
+
+msgctxt "events.Prologue_Club_Theater.misc_boxes_bottom.choice.Read the letter?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Prologue_Club_Theater.misc_boxes_bottom.choice.Read the letter?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Some cardboard boxes full of neatly folded costumes."
+msgstr "Mấy thùng các-tông chứa đầy trang phục được xếp ngăn nắp."
+
+msgid "Chairs. No time to rest right now."
+msgstr "Cái ghế. Giờ không phải lúc rảnh ngồi nghỉ đâu."
+
+msgid "A chalkboard. There's a smiley face drawn on it."
+msgstr "Cái bảng phấn. Trên bảng có vẽ hình mặt cười."
+
+msgid "A chalkboard. The letter F is written on it."
+msgstr "Cái bảng phấn. Trên bảng có vẽ chữ F."
+
+msgid "A chalkboard. I can't tell what's drawn on it."
+msgstr "Cái bảng phấn. Chẳng biết nổi thứ được vẽ trên bảng là gì."
+
+msgid "A chalkboard. There are stars drawn on it."
+msgstr "Cái bảng phấn. Trên bảng có vẽ mấy ngôi sao."
+
+msgid "Did you draw this?"
+msgstr "Mày vẽ à?"
+
+msgid "Do I look like the only member of this club?"
+msgstr "Nghĩ mỗi tao là thành viên câu lạc bộ kịch chắc?"
+
+msgid "So... did you draw this?"
+msgstr "Thế... mày vẽ à?"
+
+msgid "...Maybe I did."
+msgstr "...Ờ, có khi tao vẽ đấy."
+
+msgid "A chalkboard. The word \"THIEF\" is written on it."
+msgstr "Cái bảng phấn. Trên bảng có vẽ dòng chữ \"THIEF\"."
+
+msgctxt "events.Prologue_Club_Theater.misc_chalkboard.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "A chalkboard. There's... something drawn on it."
+msgstr "Cái bảng phấn. Trên bảng có... hình thù gì đó được vẽ."
+
+msgid "Where did they find red chalk...?"
+msgstr "Phấn đỏ ở đâu ra vậy ta...?"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.dlg.narrator"
+msgid "A soft red curtain."
+msgstr "Tấm rèm mềm màu đỏ."
+
+msgid "Draw curtain?"
+msgstr "Kéo rèm chứ?"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice.Draw curtain?"
+msgid "Yes"
+msgstr "Kéo"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice.Draw curtain?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice"
+msgid "Take them out?"
+msgstr "Gỡ rèm ra chứ?"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice.Take them out?"
+msgid "Yes"
+msgstr "Gỡ"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice.Take them out?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_right.dlg.narrator"
+msgid "A soft red curtain."
+msgstr "Tấm rèm mềm màu đỏ."
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_right.choice"
+msgid "Take them out?"
+msgstr "Gỡ rèm ra chứ?"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_right.choice.Take them out?"
+msgid "Yes"
+msgstr "Gỡ"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_right.choice.Take them out?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's some paint and brushes in the drawer."
+msgstr "Ở trong ngăn kéo có màu vẽ với cọ vẽ."
+
+msgid "There are various makeup kits and accessories in the drawer."
+msgstr "Trong ngăn kéo có cất đủ thứ vật dụng hóa trang với đồ phục sức."
+
+msgid "It's not working."
+msgstr "Không bật đèn được."
+
+msgid "It's not working anymore."
+msgstr "Không bật đèn được nữa."
+
+msgid "Several hand made costumes are hanging from the rack."
+msgstr "Trên giá đồ đang treo mấy trang phục chế tác bằng tay."
+
+msgid "Blegh, they have poor taste in clothes."
+msgstr "Uệ, gu quần áo xàm xí quá đi."
+
+msgid "You DO know these are for acting, right...?"
+msgstr "Này đồ để diễn kịch, mày thừa biết kia mà...?"
+
+msgid "A rack with various hats and scarves."
+msgstr "Giá móc đủ loại mũ với khăn quàng."
+
+msgid "A table with a blank sheet of poster paper and some colored pencils."
+msgstr "Cái bàn có để giấy làm áp-phích trắng tinh cùng với bút chì màu."
+
+msgid "Is this what you do here?"
+msgstr "Này là hoạt động thường xuyên à?"
+
+msgid "If it's a drawing club, maybe I'll join, too."
+msgstr "Nếu chỗ này là câu lạc bộ vẽ tranh, có khi tao cũng sẽ vào."
+
+msgid "Please don't."
+msgstr "Xin mày đấy đừng."
+
+msgid "There's really no incentive to check out the contents of the trash can."
+msgstr "Không có cớ chi mà phải kiểm tra bên trong thùng rác cả."

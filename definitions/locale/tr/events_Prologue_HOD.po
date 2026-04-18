@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That's strange."
+msgstr "Bu garip."
+
+msgid "Have I already passed through here?"
+msgstr "Buradan zaten geçtim mi?"
+
+msgctxt "events.Prologue_HOD.event_kat_explore_1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I have."
+msgstr "Geçtim."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "There must be something I missed."
+msgstr "Kaçırdığım bir şey olmalı."
+
+msgid "Um... am I lost? I don't remember this hallway being so long before."
+msgstr "Um...kayıp mı oldum? Bu koridorun bu kadar uzun olduğunu hatırlamıyorum..."
+
+msgid "Uh-oh... The hairpin is bent badly."
+msgstr "Uh-oh... saç tokası fena bükülmüş."
+
+msgid "I don't think it can take much more of this."
+msgstr "Daha fazla dayanabileceğini sanmıyorum."
+
+msgid "The hairpin broke."
+msgstr "Saç tokası kırıldı."
+
+msgid "The door unlocked!"
+msgstr "Kapı açıldı!"
+
+msgid "Before proceeding through the door, do you wish to save your progress?"
+msgstr "Kapıdan ilerlemeden önce, ilerlemeni kaydetmek ister misin?"
+
+msgctxt "events.Prologue_HOD.event_move_to_hallway.choice.Before proceeding through the door, do you wish to save your progress?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_HOD.event_move_to_hallway.choice.Before proceeding through the door, do you wish to save your progress?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "The lock looks really sturdy."
+msgstr "Kilit gerçekten sağlam görünüyor."
+
+msgid "Should I try to pick it?"
+msgstr "Açmaya çalışsam mı?"
+
+msgctxt "events.Prologue_HOD.item_hairpin_on_door3.choice.Should I try to pick it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_HOD.item_hairpin_on_door3.choice.Should I try to pick it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's a key hanging from a hook."
+msgstr "Kancadan sarkan bir anahtar var."
+
+msgid "Take Key?"
+msgstr "Anahtarı al?"
+
+msgctxt "events.Prologue_HOD.item_key_get.choice.Take Key?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_HOD.item_key_get.choice.Take Key?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's nothing left."
+msgstr "Bir şey kalmadı."
+
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgid "I don't suppose I could burn these planks down...?"
+msgstr "Bu tahtaları yakabileceğimi sanmıyorum...?"
+
+msgid "Ugh, it's no use. I'll run out of fuel before they even warm up."
+msgstr "Of, işe yaramaz. Daha ısınamadan yakıtım tükenecek."
+
+msgid "There's no point in that."
+msgstr "Bunun bir anlamı yok."
+
+msgid "Hm... This is a closed space."
+msgstr "Hm...Bu kapalı bir alan."
+
+msgid "If this turns out to be flammable, it could get really dangerous."
+msgstr "Eğer yanabilecek bir şey ise, gerçekten tehlikeli olabilir."
+
+msgid "I really shouldn't."
+msgstr "Gerçekten yapmamalıyım."
+
+msgid "This door has no keyhole."
+msgstr "Bu kapının anahtar deliği yok."
+
+msgid "This key doesn't fit here."
+msgstr "Bu anahtar buraya uymuyor."
+
+msgid "A black substance drips down from here."
+msgstr "Siyah bir madde buradan damlıyor."
+
+msgid "Where is this stuff coming from?"
+msgstr "Bu şey nereden geliyor?"
+
+msgid "A black substance drips down from above."
+msgstr "Siyah bir madde yukarıdan damlıyor."
+
+msgid "Whatever it is, it looks disgusting."
+msgstr "Her neyse, iğrenç görünüyor."
+
+msgid "A large amount of a black substance has accumulated under the stairs."
+msgstr "Büyük miktarda siyah bir madde merdivenlerin altında birikmiş."
+
+msgid "This stuff makes me uneasy... What if it comes alive or something?"
+msgstr "Bu şey beni geriyor...Ya canlanırsa falan?"
+
+msgid "The way these mirrors are set on the walls is almost comforting."
+msgstr "Bu aynaların duvarlarda olma şekli neredeyse rahatlatıcı."
+
+msgid "But staring into mirrors in a place like this..."
+msgstr "Ama böyle bir yerde aynalara bakmak..."
+
+msgid "It's almost like I'm asking to be jump-scared."
+msgstr "Sanki neredeyse korkutulmak istiyormuşum gibi."
+
+msgid "Multiple reflections stare back at you."
+msgstr "Birden fazla yansıma sana bakıyor."
+
+msgid "Nonsensical pipes run all over the place."
+msgstr "Anlamsız borular her yerde."
+
+msgid "They are warm to the touch. Is this some sort of heating?"
+msgstr "Dokununca sıcaklar. Bu bir ısıtma mı?"
+
+msgctxt "events.Prologue_HOD.move_door1.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "Değişik desenli bir kapı."
+
+msgctxt "events.Prologue_HOD.move_door1.dlg.kat"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_HOD.move_door2.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "Değişik desenli bir kapı."
+
+msgid "It's very locked."
+msgstr "Baya kapalı."
+
+msgid "This door is open..."
+msgstr "Bu kapı açık..."
+
+msgid "Wasn't it boarded up...?"
+msgstr "Bu kapı tahtalı değil miydi..?"
+
+msgctxt "events.Prologue_HOD.move_door2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "Everything else is locked... I have no other choice but to go in..."
+msgstr "Diğer her şey kilitli... İçeri girmekten başka şansım yok... "
+
+msgid "A fairly normal-looking door."
+msgstr "Gayet normal görünen bir kapı."
+
+msgctxt "events.Prologue_HOD.move_door3.dlg.kat"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgid "There's nothing here."
+msgstr "Burada bir şey yok."
+
+msgid "A small door with an odd pattern."
+msgstr "Değişik desenli küçük bir kapı."
+
+msgctxt "events.Prologue_HOD.move_door4.dlg.kat"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgid "A door with a glossy finish."
+msgstr "Cilalı boyalı bir kapı."
+
+msgid "You can see yourself in it."
+msgstr "Üzerinde kendini görebiliyorsun."
+
+msgctxt "events.Prologue_HOD.move_door5.dlg.kat"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_HOD.move_door6.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "Değişik desenli bir kapı."
+
+msgctxt "events.Prologue_HOD.move_door6.dlg.kat"
+msgid "It's locked."
+msgstr "Kilitli."

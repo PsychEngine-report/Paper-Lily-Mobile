@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm? What's that?"
+msgstr "Hm? O neydi?"
+
+msgid "Oh that? It's a fairy head."
+msgstr "Oo bu mu? Bu bir peri kafası."
+
+msgid "A... head? Is the rest of the fairy just buried?"
+msgstr "Bir... kafa? Geri kalan periler öylece yandı mı?"
+
+msgid "No, it's probably roaming around somewhere."
+msgstr "Hayır, onlar muhtemelen etrafta bir yerlerde geziniyorlar."
+
+msgid "But the heads are dangerous too, be careful."
+msgstr "Ama bu kafalar çok tehlikeli, dikkatli ol."
+
+msgid "There's another one..."
+msgstr "Başka bir tane daha..."
+
+msgid "But... this one definitely has eyes, doesn't it?"
+msgstr "Ama... bunun kesinlikle gözleri var, öyle değil mi?"
+
+msgid "Maybe they're nostrils."
+msgstr "Belki de bunlar burun delikleridir."
+
+msgid "Wha- nostrils?"
+msgstr "N-ne burun deliği?"
+
+msgid "Could that be?"
+msgstr "Olabilir mi?"
+
+msgid "They're eyes"
+msgstr "Bunlar gözleri"
+
+msgid "They're nostrils"
+msgstr "Bunlar da burun delikleri"
+
+msgid "(That's ridiculous.)"
+msgstr "(Çok saçma.)"
+
+msgid "I suppose I hadn't thought of it that way..."
+msgstr "Yerinde olsam öyle düşünmezdim..."
+
+msgid "(Anyways... how will we pass without it seeing us?)"
+msgstr "(Her neyse... Bunları görmeden nasıl geçeceğiz?)"
+
+msgid "Now there's a bunch of them..."
+msgstr "Bunlardan bir sürü var..."
+
+msgid "This is going to be a thing, isn't it."
+msgstr "Bu işe yarayacak, değil mi."
+
+msgid "Wanna turn back?"
+msgstr "Geri dönelim mi?"
+
+msgid "Wait, I can try to visualize a solution..."
+msgstr "Bekle, gözümün önüne bir çözüm getirmeyi deneyebilirim..."
+
+msgid "Visualize solution?"
+msgstr "Gözünün önüne getirmek mi?"
+
+msgid "Yes, please"
+msgstr "Evet, lütfen"
+
+msgid "I don't need it"
+msgstr "Buna ihtiyacım yok"
+
+msgid "It's probably something like that."
+msgstr "Muhtemelen bunun gibi bir şey."
+
+msgid "Wow! Amazing!"
+msgstr "Ooo! Muhteşem!"
+
+msgid "Okay..."
+msgstr "Tamam..."
+
+msgid "A fairy head. It only has a mouth."
+msgstr "Bir peri kafası. Sadece ağzı var."
+
+msgid "It only has a mouth... is that why it can't see me even though I'm this close?"
+msgstr "Sadece ağzı var... neden bunu görmek istemesem bile görüyorum ki?"
+
+msgid "A fairy head. It only has nostrils."
+msgstr "Bir peri kafası. Yalnızca burun delikleri var."
+
+msgid "A fairy head. It only has eyes."
+msgstr "Bir peri kafası. Sadece gözleri var."
+
+msgid "It seems like this one can only see to the sides..."
+msgstr "Bu tek seçenek gibi görünüyor..."
+
+msgctxt "events.Ch1_FairyRing_B2F_Hall_1.misc_plant_1.dlg.narrator"
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "Küçük bir bitki. Perilerin görünmesini engelliyor gibi görünüyor."
+
+msgid "This thing... does it block the head's view?"
+msgstr "Bu... kafaların görünmesini engelliyor mu?"
+
+msgctxt "events.Ch1_FairyRing_B2F_Hall_1.misc_plant_2.dlg.narrator"
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "Küçük bir bitki. Perilerin görünmesini engelliyor gibi görünüyor."
+
+msgid "As long as these black plant things are there, it should be possible to go around."
+msgstr "Şu siyah bitkiler burada olduğu sürece, etrafı dolaşmak mümkün olmalı. "

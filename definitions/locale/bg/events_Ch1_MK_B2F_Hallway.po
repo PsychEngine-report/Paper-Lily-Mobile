@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "Ключа пасва!"
+
+msgid "You don't know how to use it..."
+msgstr "Не знаете как да я използвате…"
+
+msgid "A portrait of a person with a brain for a head."
+msgstr "Портрет на човек с мозък вместо глава."
+
+msgid "A portrait of a scary-looking person."
+msgstr "Портрет на страшно изглеждащ човек."
+
+msgid "..."
+msgstr "…"
+
+msgid "A portrait of a person with a gaping mouth."
+msgstr "Портрет на човек със зяпнала уста."
+
+msgid "...I don't like this one."
+msgstr "…Този не ми харесва."
+
+msgid "His head looks like a spoon."
+msgstr "Главата му изглежда като лъжица."
+
+msgid "A portrait of a pretty-looking lady."
+msgstr "Портрет на красива дама."
+
+msgid "She looks like she's made of porcelain."
+msgstr "Тя изглежда като направена от порцелан."
+
+msgid "A portrait of a person with an animal skull for a head."
+msgstr "Портрет на човек с животински череп за глава."
+
+msgid "A portrait of a person with many eyes."
+msgstr "Портрет на човек с много очи."
+
+msgid "Various strange portraits adorn the walls."
+msgstr "Различни странни портрети красят стените."
+
+msgid "A portrait of a girl with horns growing out of her face."
+msgstr "Портрет на момиче, от чието лице растат рога."
+
+msgid "A portrait of a grandma."
+msgstr "Портрет на баба."
+
+msgid "She looks nice... Maybe."
+msgstr "Изглежда добре… Може би."
+
+msgid "A portrait of a person with knifes floating above their head."
+msgstr "Портрет на човек с ножовете, които се носят над главата му."
+
+msgid "A portrait of a person with a heart for a head."
+msgstr "Портрет на човек със сърце вместо глава."
+
+msgid "A portrait of a person with a crow for a head."
+msgstr "Портрет на човек с крава вместо глава."
+
+msgid "It looks nothing like those cute crows I've been seeing around."
+msgstr "Не прилича на онези симпатични врани, които съм виждала наоколо."
+
+msgid "A portrait of a happy-looking girl."
+msgstr "Портрет на щастливо-изглеждащо момиче."
+
+msgid "A portrait of a person with a goat for a head."
+msgstr "Портрет на човек с глава на козел."
+
+msgid "Creepy portraits adorn the walls."
+msgstr "Страшни портрети украсяват стените."
+
+msgid "A painting that's mostly just red."
+msgstr "Картина, която е предимно в червено."
+
+msgid "Touch it?"
+msgstr "Докосни я?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "A bunch of red powder sticks to your finger."
+msgstr "По пръста ви полепва червен прах."
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Би трябвало да е лесно да се изстърже и да се събере повече, стига да имате с какво да го пренесете."
+
+msgid "(You wipe it off.)"
+msgstr "(Вие го избърсвате.)"
+
+msgid "A painting that's mostly just yellow."
+msgstr "Картина, която е предимно в жълто."
+
+msgid "A bunch of yellow powder sticks to your finger."
+msgstr "По пръста ви полепва жълт прах."

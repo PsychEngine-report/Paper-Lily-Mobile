@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Didn't catch your name earlier."
+msgstr "名前を聞いてなかったな。"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.chr_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Yeah... I see."
+msgstr "へぇ……なるほど。"
+
+msgid "What's up?"
+msgstr "どうした？"
+
+msgid "What... what was that thing?"
+msgstr "さっきの……さっきのあれは何？"
+
+msgid "Huh, you can talk."
+msgstr "おお、話せるんだな。"
+
+msgid "I dunno. They call it a primal demon."
+msgstr "俺は知らん。プライマルとか呼ばれてる。"
+
+msgid "Primal?"
+msgstr "プライマル？"
+
+msgid "Well, if you consider all these lively fellows you encountered \"demons\"..."
+msgstr "そう、おまえの会った陽気な連中を皆ひっくるめて「妖魔」とするなら……"
+
+msgid "...then that would make those shadowy ones \"primal demons\"."
+msgstr "……あの影みたいなやつらは「原始妖魔」――「プライマル」だ。"
+
+msgid "(Hm...)"
+msgstr "(ふうん……)"
+
+msgid "What else do you know?"
+msgstr "他に何か知ってることは？"
+
+msgid "I know lots of stuff."
+msgstr "いろいろ知ってるぜ。"
+
+msgid "About primal demons?"
+msgstr "プライマルについては？"
+
+msgid "Ahh, about that..."
+msgstr "あぁ、それなら……"
+
+msgid "Not much."
+msgstr "あまり知らん。"
+
+msgid "I know they'll kill whatever crosses their path."
+msgstr "出くわしたやつを見境なく殺すってことは知ってるぜ。"
+
+msgid "Contrary to other demons, which will mostly only kill you if you're human."
+msgstr "逆に言うと、他の妖魔は、たいていは人間しか殺さない。"
+
+msgid "Hm..."
+msgstr "ふうん……"
+
+msgid "Let's wait here a bit longer."
+msgstr "もう少しここで待とう。"
+
+msgid "It might be gone."
+msgstr "もう行ったかもな。"
+
+msgid "It's up to you when you wanna go back out."
+msgstr "外に戻るかはおまえに任せるよ。"
+
+msgid "Are you going outside?"
+msgstr "外に出る？"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.event_leave_lab.choice.Are you going outside?"
+msgid "Yes"
+msgstr "出る"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.event_leave_lab.choice.Are you going outside?"
+msgid "No"
+msgstr "出ない"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.event_leave_lab.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I guess the coast is clear."
+msgstr "もう大丈夫そう。"
+
+msgid "(Will I find any clues in a place like this...?)"
+msgstr "(こんな場所で手がかりが見つかるかな……？)"
+
+msgid "(Maybe I should focus on getting out of here.)"
+msgstr "(ここは脱出に集中した方がいいのかも。)"
+
+msgid "(Alright.)"
+msgstr "(よし。)"
+
+msgid "You still use a flip phone?!"
+msgstr "まだガラケー使ってんのか!?"
+
+msgid "Why??"
+msgstr "どうして??"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.item_cellphone_on_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(It's just fun to flip it open...)"
+msgstr "(パタパタ開けるのが楽しいから……)"
+
+msgid "Cool, you've got one of those doorknobs."
+msgstr "いいね、例のドアノブを持ってるのか。"
+
+msgid "It's pretty fun to see where they take you."
+msgstr "どこにつながるか試してみるのが最高に楽しいよな。"
+
+msgid "Ooh, it's one of those cool rocks."
+msgstr "おぉ、例のいかした石か。"
+
+msgid "Did you know they glow in the dark?"
+msgstr "それ、暗闇で光るんだぜ。知ってたか？"
+
+msgid "Really?"
+msgstr "ほんとに？"
+
+msgid "No."
+msgstr "いや。"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.item_runes_on_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "But you totally fell for that!"
+msgstr "でも、まんまと引っかかっただろ！"
+
+msgid "A bloody bag. It smells putrid."
+msgstr "血まみれの袋。ひどい臭いがする。"
+
+msgid "An operating table. It has faint blood stains."
+msgstr "手術台。かすかに血の染みがある。"
+
+msgid "An operating table."
+msgstr "手術台。"
+
+msgid "(What's with the strange shape of this bed...?)"
+msgstr "(何でこんな変な形なの……？)"
+
+msgid "Looks like human bones."
+msgstr "人骨のようだ。"
+
+msgid "A fallen book."
+msgstr "落ちた本。"
+
+msgid "Read a passage?"
+msgstr "一節を読む？"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_book.choice.Read a passage?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_book.choice.Read a passage?"
+msgid "No"
+msgstr "読まない"
+
+msgid "\"The soul does not reside in a specific physical location."
+msgstr "「魂は肉体の特定の場所に宿るわけではない。"
+
+msgid "The torso must be dissected in its entirety in order for extraction to be successful.\""
+msgstr "抽出を成功させるためには、胴部を全体として解剖しなければならない。」"
+
+msgid "A broken container. Whatever was inside is long gone."
+msgstr "壊れた容器。中身はとうになくなっている。"
+
+msgid "A cage filled with bones."
+msgstr "骨であふれた檻。"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_counter_left.dlg.narrator"
+msgid "Medication bottles and small bones fill the countertop."
+msgstr "薬品の瓶と小さな骨が台の上に並んでいる。"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_counter_right.dlg.narrator"
+msgid "Medication bottles and small bones fill the countertop."
+msgstr "薬品の瓶と小さな骨が台の上に並んでいる。"
+
+msgid "There's something in the drawer."
+msgstr "引き出しの中に何かがある。"
+
+msgid "There's nothing else of use."
+msgstr "他に使えるものはない。"
+
+msgid "There's a gate here, but it's locked."
+msgstr "ゲートがあるが、鍵がかかっている。"
+
+msgid "Strange goop surrounds the well. It looks like it could come alive."
+msgstr "奇妙な粘液が井戸を囲んでいる。今にも動き出しそうだ。"
+
+msgid "...Indeed, the expected outcome of a light switch."
+msgstr "……うん、電気のスイッチなんだから当然だ。"
+
+msgid "The lights aren't working right now."
+msgstr "今は照明は動いていない。"
+
+msgid "Let's not do that."
+msgstr "やめておいたほうがいい。"
+
+msgid "A closet for medical supplies."
+msgstr "医薬品用の棚。"
+
+msgid "It's empty, save for some dirty rags."
+msgstr "汚れた布切れ以外は何も入っていない。"
+
+msgid "(It smells...really bad.)"
+msgstr "(う……ひどい臭い。)"
+
+msgid "An incubator of some sort. It's warm to the touch."
+msgstr "何らかの培養器。触れると温かい。"
+
+msgid "An incubator of some sort. It's broken and nothing's left inside."
+msgstr "何らかの培養器。壊れていて、中身は残っていない。"
+
+msgid "A well."
+msgstr "井戸。"
+
+msgid "There's probably nothing else of use in there."
+msgstr "恐らく他に使えるものはない。"
+
+msgid "Rotate the lever?"
+msgstr "レバーを回す？"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_well.choice.Rotate the lever?"
+msgid "Yes"
+msgstr "回す"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_well.choice.Rotate the lever?"
+msgid "No"
+msgstr "回さない"
+
+msgid "A whiteboard that has been mostly erased. Only a few sticky notes with strange symbols remain."
+msgstr "大部分が消されたホワイトボード。奇妙な印が描かれた数枚の付箋だけが残っている。"
+
+msgid "Don't go out, it's still there."
+msgstr "出るなよ、まだいるぜ。"

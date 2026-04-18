@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A floor indicator."
+msgstr "Cái đèn chỉ thị tầng."
+
+msgid "The elevator has no power, so the indicator lights are off."
+msgstr "Cái thang máy đang không có điện, nên đèn chỉ thị đều tắt cả."
+
+msgid "Where to?"
+msgstr "Đến tầng nào đây?"
+
+msgid "B1F"
+msgstr "B1F"
+
+msgid "B2F"
+msgstr "B2F"
+
+msgid "B3F"
+msgstr "B3F"
+
+msgid "B4F"
+msgstr "B4F"
+
+msgid "Never mind"
+msgstr "Thôi khỏi"
+
+msgid "Nothing happens."
+msgstr "Không gì xảy ra hết."
+
+msgid "The button is not responding."
+msgstr "Nút bấm không có phản hồi."
+
+msgid "An emblem that looks like an eye of some sort."
+msgstr "Cái huy hiệu trông giống con mắt gì đó."
+
+msgid "The doors are stuck..."
+msgstr "Cánh cửa bị kẹt rồi..."

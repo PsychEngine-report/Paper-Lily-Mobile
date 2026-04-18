@@ -1,0 +1,23 @@
+{
+	"Locale": "uk",
+	"Name": "Українська - by banan_ivan",
+	"Credit": "Translated by banan_ivan",
+	"Website": "",
+	"Path": "uk",
+	"Disclaimer": true,
+	"UseContext": false,
+	"ResourceRemaps": {
+		"res://resources/font/dialogue_creepy.tres": "res://translation-resources/uk/dialogue_creepy.tres",
+		"res://assets/img/cg/prologue/instructions1.png": "res://translation-resources/uk/instructions1.png",
+		"res://assets/img/cg/prologue/instructions2.png": "res://translation-resources/uk/instructions2.png",
+		"res://resources/font/ch1_cg_todolist.tres": "res://translation-resources/uk/ch1_cg_todolist.tres",
+		"res://resources/font/ch1_cg_todolist_subtitle.tres": "res://translation-resources/uk/ch1_cg_todolist_subtitle.tres",
+		"res://assets/img/cg/ch1/facility_map_1.png": "res://translation-resources/uk/facility_map_1.png",
+		"res://assets/img/cg/ch1/facility_map_2.png": "res://translation-resources/uk/facility_map_2.png"
+	},
+	"Compatibility": [
+		"Lacie Engine",
+		"Project Kat",
+		"Paper Lily Chapter 1"
+	]
+}

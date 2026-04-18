@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Juli's dismembered body."
+msgstr "Juli'nin parçalanmış bedeni."
+
+msgctxt "events.Prologue_Ending_K5.chr_juli.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "What...?"
+msgstr "Ne..?"
+
+msgid "This can't be..."
+msgstr "Bu...Olamaz.."
+
+msgid "Kaya's lifeless body."
+msgstr "Kaya'nın cansız bedeni.."
+
+msgid "Oh my god."
+msgstr "Aman tanrım...……"
+
+msgid "She didn't deserve this..."
+msgstr "O bunu haketmedi...
+
+msgid "Saki's headless body."
+msgstr "Saki'nin kafasız bedeni.."
+
+msgctxt "events.Prologue_Ending_K5.chr_saki.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "No way... this can't be real..."
+msgstr "Hadi ordan..Bu gerçek olamaz."
+
+msgid "A school desk."
+msgstr "Bir okul masası."
+
+msgid "It feels unnatural to the touch, like it's made of stone."
+msgstr "Dokunuşta doğal olmayan bir his var, sanki taştan yapılmış gibi."
+
+msgid "Wait...!"
+msgstr "...Bekle!"

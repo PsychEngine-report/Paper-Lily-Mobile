@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "No need to mess with it anymore."
+msgstr "没必要再弄它了。"
+
+msgid "The paintings have been destroyed..."
+msgstr "画作已经被毁坏了..."
+
+msgid "Various paintings of a young girl are stored here."
+msgstr "这里存放着一幅幅少女的画作。"
+
+msgid "The hands are charred."
+msgstr "手被烧焦了。"
+
+msgid "The hands are on fire."
+msgstr "手在燃烧。"

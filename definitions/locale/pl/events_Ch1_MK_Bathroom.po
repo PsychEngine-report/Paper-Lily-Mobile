@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A little cactus."
+msgstr "Mały kaktus."
+
+msgid "An empty flower vase."
+msgstr "Pusty wazon na kwiaty."
+
+msgid "Pink flowers in a vase."
+msgstr "Różowe kwiaty w wazonie."
+
+msgid "I could use these flowers..."
+msgstr "Mogłabym ich użyć..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Przynieść kwiaty roślinie?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "\"Thank you.\""
+msgstr "\"Dziękuję.”"
+
+msgid "A shelf. Nothing of interest."
+msgstr "Półka. Nic interesującego."
+
+msgid "A bathtub filled with a black liquid."
+msgstr "Wanna wypełniona czarnym płynem."
+
+msgid "It's so big... you could fit like... four of me in there."
+msgstr "Jest taka duża... można by w niej zmieścić... cztery osoby."
+
+msgid "Check if there's anything useful inside?"
+msgstr "Sprawdzić, czy w środku jest coś przydatnego?"
+
+msgid "A beautiful night sky."
+msgstr "Przepiękne nocne niebo."
+
+msgid "Three moons... ?"
+msgstr "Trzy księżyce... ?"

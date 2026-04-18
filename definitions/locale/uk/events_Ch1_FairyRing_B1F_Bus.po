@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is so fun, I haven't waited for the bus in ages!"
+msgstr "Як весело! Я цілу вічність не чекала на автобус!"
+
+msgid "(There's nothing fun in waiting for the bus...)"
+msgstr "(Не розумію, що тут такого веселого...)"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "До речі, ти ж знаєш, що кола фей поступово розширюються?"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "Я чула, що коли вони наїдаються, то ніби розкриваються та зжирають усе, під чим знаходяться!"
+
+msgid "So when that happened, one of them swallowed the station and a whole bus."
+msgstr "Таке колись трапилось - з'їли цілу автостанцію та один автобус."
+
+msgid "(Apparently Glen was really unhappy so they destroyed most of the fairy rings.)"
+msgstr "(Схоже, Глен був не в захваті, тому більшість кіл фей знищили.)"
+
+msgid "(Glen?)"
+msgstr "(Глен?)"
+
+msgid "Wait... why don't they just destroy all of them?"
+msgstr "Стривай... а чому не знищили усі кола разом?"
+
+msgid "I dunno."
+msgstr "Не знаю."
+
+msgid "They usually remove some of them, every few years..."
+msgstr "Десь раз у пару років деякі з них знищуються..."
+
+msgid "...Now that you mention it, I'm not sure why they don't just remove them all."
+msgstr "...А от тепер мені самій незрозуміло, чому не можна одразу всі їх прибрати."
+
+msgid "Maybe it's too much work to remove the fairy rings..?"
+msgstr "Може, винищувати кола фей - це та ще морока?.."
+
+msgid "Hmm... I wonder..."
+msgstr "Гм… Цікаво..."
+
+msgid "..."
+msgstr "..."
+
+msgid "Oh I know!"
+msgstr "О! Знаю!"
+
+msgid "Maybe there's something even more terrible underneath, so they're using the fairy rings to seal it away!"
+msgstr "Може, знизу живе ще більш жахливе зло, а за допомогою кіл фей його стримують?!"
+
+msgid "No, that can't be it."
+msgstr "Ні, це навряд чи."
+
+msgid "I'll keep thinking."
+msgstr "Буду далі думати."
+
+msgid "Aoi is thinking."
+msgstr "Аой думає."
+
+msgid "Hm?"
+msgstr "Гм?"
+
+msgid "Is that...the bus stop?"
+msgstr "Це... автобусна зупинка?"
+
+msgid "Not the current one."
+msgstr "Це не та, що зараз зверху."
+
+msgid "But we must be right under the current one."
+msgstr "Хоча ми й одразу під нею."
+
+msgid "Wow, we sure walked a long way!"
+msgstr "Ох, як далеко ми зайшли!"
+
+msgid "(Did I walk all the way back to where I started...!?)"
+msgstr "(Я що, повернулась туди, звідки почала?!)"
+
+msgid "So... what brings you here?"
+msgstr "Отже... що тебе сюди привело?"
+
+msgid "What brings me... down here?"
+msgstr "Саме сюди?"
+
+msgid "I stepped into the fairy ring."
+msgstr "Я ступила в коло фей."
+
+msgid "Ah. Right."
+msgstr "А. Зрозуміло."
+
+msgid "Classic."
+msgstr "Класика."
+
+msgid "I also stepped into it."
+msgstr "Я теж ступила."
+
+msgid "Yes, of course."
+msgstr "Ну звичайно."
+
+msgid "So what brings you to these parts of the forest?"
+msgstr "А що тебе привело саме сюди, в ліс?"
+
+msgid "Um..."
+msgstr "Ну..."
+
+msgid "(Actually, I wonder if they can they tell I'm human?)"
+msgstr "(Цікаво, чи розуміє Аой, що я людина?)"
+
+msgid "(It's best not to say anything about that...)"
+msgstr "(Краще про таке не розмовляти...)"
+
+msgid "I'm looking for a lighthouse."
+msgstr "Шукаю маяк."
+
+msgid "Ooh."
+msgstr "О-о."
+
+msgid "What for?"
+msgstr "А навіщо?"
+
+msgid "Meeting... someone..?"
+msgstr "Я шукаю... декого...?"
+
+msgid "(Aoi definitely can't help me with my problem... this is basically a child we're talking about.)"
+msgstr "(Ось хто точно не в змозі мені допомогти, так це Аой… це ж просто дитина.)"
+
+msgid "(So there's no point in elaborating much, I think.)"
+msgstr "(Тому я не бачу сенсу розкривати усі подробиці.)"
+
+msgid "I'm just looking for someone to help me with a problem."
+msgstr "Шукаю того, хто допоможе мені розв'язати одну проблему."
+
+msgid "Someone like a doctor? Or like an assassin?"
+msgstr "Ти про лікаря? Чи найманого вбивцю?"
+
+msgid "....."
+msgstr "......"
+
+msgid "...Probably more like a doctor, I guess."
+msgstr "...Мабуть, про лікаря."
+
+msgid "Oh... are you sick, Lacie?"
+msgstr "Лишенько... Лейсі, ти захворіла?"
+
+msgid "No, It's nothing serious, probably."
+msgstr "Ні, зі мною нічого серйозного. Напевно."
+
+msgid "I guess I'll be able to tell once I meet them."
+msgstr "Коли зустрінусь з ким треба, буде видно."
+
+msgid "Ooh!"
+msgstr "О!"
+
+msgid "I had a friend I used to meet all the time!"
+msgstr "А в мене був друг, з яким я постійно базікала!"
+
+msgid "But it wasn't at a lighthouse, it was..."
+msgstr "Але не на маяку це було..."
+
+msgid "But..."
+msgstr "А в..."
+
+msgid "...It was in the supply closet..."
+msgstr "...а в малій комірці..."
+
+msgid "...in secret..."
+msgstr "...тайкома..."
+
+msgid "???"
+msgstr "???"
+
+msgid "...But then they died."
+msgstr "...Та потім друга не стало."
+
+msgid "And now I'll die too....."
+msgstr "А тепер і моя черга помирати......"
+
+msgid "W-what brings YOU to the forest?"
+msgstr "А щ-що ТЕБЕ привело до лісу?"
+
+msgid "Oh, I'm on vacation!"
+msgstr "О, у мене відпустка!"
+
+msgid "Oh, that's nice."
+msgstr "О, це добре."
+
+msgid "(Phew...)"
+msgstr "(Фух...)"
+
+msgid "That looks heavy..."
+msgstr "Важка штукенція..."
+
+msgid "You're prepared for anything, aren't you?"
+msgstr "А ти до всього готова."
+
+msgid "I also like bug-catching!"
+msgstr "Я теж люблю ловити жуків!"
+
+msgid "The small ones, at least..."
+msgstr "Принаймні малих..."
+
+msgid "What's that?"
+msgstr "А що це таке?"
+
+msgid "Hmm... I'll show you someday."
+msgstr "Гм... колись покажу."
+
+msgid "Aww... alright."
+msgstr "Оу-у... ну добре."
+
+msgid "You'll show Aoi someday. Maybe."
+msgstr "Колись ви покажете Аой, що це. Мабуть."
+
+msgid "Are you tired?"
+msgstr "Ти втомилась?"
+
+msgid "There's a bench right there, I guess."
+msgstr "Мабуть, можна посидіти на тій лавці."
+
+msgid "I give it at least 10 more years before it will be fully swallowed!"
+msgstr "Б'юсь об заклад, що її ще 10 років не зможуть переварити!"
+
+msgid "Oh, I also have one of those!"
+msgstr "О, у мене теж таке є!"
+
+msgid "I heard they taste great, but I'm afraid to try them since they're poisonous and all..."
+msgstr "Я чула, що на смак вони отакенні, але отруйні, тому я боюся їх куштувати..."
+
+msgid "Or... are you suggesting something???"
+msgstr "Чи ти на щось натякаєш???"
+
+msgid "(Best not to spoil Aoi too much.)"
+msgstr "(Краще не балувати Аой більше, ніж треба.)"
+
+msgid "Aww! Thanks!"
+msgstr "О! Дякую!"
+
+msgid "It's good that you have a light, in case it gets dark in here."
+msgstr "Добре, що в тебе є світло. На випадок, якщо тут стане темно."
+
+msgid "I really hope it doesn't..."
+msgstr "А я сподіваюсь, що не стане..."
+
+msgid "Ah... those rocks..."
+msgstr "А... ці камінці..."
+
+msgid "Sorry, I don't know what those do... You can keep it."
+msgstr "Вибач, але я гадки не маю, що з ними робити... Можеш залишити їх у себе."
+
+msgid "Oh oh, are we cooking something?"
+msgstr "О-о-о, ми зараз будемо готувати?"
+
+msgid "No, this is for self-defense."
+msgstr "Ні, це для самозахисту."
+
+msgid "?????"
+msgstr "?????"
+
+msgid "Y-yes... I'll cut it off..."
+msgstr "Д-добре... не різатиму слух..."
+
+msgid "I'm sorry..."
+msgstr "Вибач..."
+
+msgid "Let's not traumatize Aoi any further."
+msgstr "Краще не давати Аой більше психологічних травм."
+
+msgid "A bus. It has seen better days."
+msgstr "Автобус. Він бачив кращі дні."
+
+msgid "Isn't that cool?!"
+msgstr "Хіба не круто?!"
+
+msgid "Do you think they ever got the passengers out?"
+msgstr "Як думаєш, а пасажири встигли вийти?"
+
+msgid "I can't see inside, so... I guess we'll never know."
+msgstr "Я не бачу, що там усередині... тому не дізнаємось."
+
+msgid "Maybe it's best that way."
+msgstr "Може, воно й на краще."
+
+msgid "I think it would ruin my day if we found corpses in there."
+msgstr "Якби я побачила там мерців, це зіпсувало б мій день."
+
+msgid "(Is your day not already ruined by being trapped in this place?)"
+msgstr "(А те, що тебе сюди піймали, твій день не зіпсувало?)"
+
+msgid "Looks like pieces of asphalt."
+msgstr "Схоже на шматки асфальту."
+
+msgid "A signpost. It's bent."
+msgstr "Дорожній знак. Він сильно погнутий."
+
+msgid "(The schedule seems to show quite a few buses coming every day.)"
+msgstr "(Розклад показує, що щодня приїжджає досить багато автобусів.)"
+
+msgid "Strange... the other schedule I saw was empty."
+msgstr "Дивно... я бачила інший розклад, і він був порожнім."
+
+msgid "Oh! Back in the day, the bus used to come more often... this is probably an old schedule."
+msgstr "О! Раніше автобуси ходили частіше... схоже, це старий розклад."
+
+msgid "The other schedule you saw must be the updated one."
+msgstr "А ти бачила вже оновлений."
+
+msgid "Nowadays it's very rare..."
+msgstr "Сьогодні автобуси - рідкісне явище..."
+
+msgid "So if you're lucky enough to see the bus, you should definitely ride it!"
+msgstr "Тому якщо пощастить зустріти автобус, обов'язково сідай!"
+
+msgid "That's what everyone does, at least. I never saw it myself..."
+msgstr "Принаймні, так усі роблять. Я їх ще ніколи не бачила..."
+
+msgid "(It's just a bus, though...)"
+msgstr "(Це ж просто автобус...)"
+
+msgid "A bus stop."
+msgstr "Автобусна зупинка."
+
+msgid "The poster here is too faded to read."
+msgstr "Плакат надто сильно вицвів, щоб його можна було прочитати."
+
+msgid "It looks like a dead end."
+msgstr "Схоже, це глухий кут."
+
+msgid "We just walked quite a bit to get here, let's at least look around."
+msgstr "Ми досить далеко пройшли. Давай принаймні подивимось, що тут є."

@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "Kutu kilitli duruyor..."
+
+msgid "The box opens!"
+msgstr "Kutu açıldı!"
+
+msgid "There's a key inside."
+msgstr "İçeride bir anahtar var."
+
+msgid "There's some kind of black rag here."
+msgstr "Burada bir tür siyah bez parçası var."
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "${item:ch1.mk_compress} Alacak mısın?"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A large basket filled with toys."
+msgstr "Oyuncaklarla dolu büyük bir sepet."
+
+msgid "What is all of this..?"
+msgstr "Bunlar da ne...?"
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "Hiç uzaktan kumandalı araba veya bir şeyler var mı?"
+
+msgid "Mmm... no."
+msgstr "Hmm... Hayır."
+
+msgid "That's oddly specific."
+msgstr "Bu saçma bir şekilde spesifik."
+
+msgid "They're fun."
+msgstr "Eğlenceliler."
+
+msgid "An oversized bed."
+msgstr "Geniş bir yatak."
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "(Bu yatak bir iblis için bile çok geniş.)"
+
+msgid "Wow, what a luxury."
+msgstr "Vay be,çok lüks."
+
+msgid "There's nothing else in the box."
+msgstr "Kutuda başka bir şey yok."
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "Makyaj masasının üzerinde bir kutu var. Şifreli kilit kullanılıyor."
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "(Kutunun üzerinde bir anahtar çizimi var...)"
+
+msgid "Try to unlock the box?"
+msgstr "Kutunun kilidini açmayı dene?"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A simple coat hanger."
+msgstr "Basit bir elbise askısı."
+
+msgid "A small bedside table."
+msgstr "Küçük bir komidin."
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "(Kesinlikle aşırı küçük, özellikle bu yatak için.)"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "Bir makyaj masası. Çekmeceleri kozmetik eşyalarla dolu."
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "Bir canavar gibi gözüküyorken neden makyajla uğraşasın ki?"
+
+msgid "That's not nice."
+msgstr "Bu kabaydı."
+
+msgid "She locked me in a cage."
+msgstr "Asıl onun yaptığı kabalık."
+
+msgid "I'd say she's not nice."
+msgstr "Beni bir kafese tıktı."
+
+msgid "A painting of a window."
+msgstr "Bir pencere resmi."
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "Gerçek bir pencere olmadığı için burası havasız olmalı."

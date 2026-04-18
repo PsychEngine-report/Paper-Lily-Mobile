@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A beheaded corpse."
+msgstr "Обезглавен труп."
+
+msgid "Saki's beheaded corpse lies here."
+msgstr "Обезглавеният труп на Саки лежи тук."
+
+msgid "..."
+msgstr "..."
+
+msgid "That can't be..."
+msgstr "Това не може да е…"
+
+msgid "How is this possible?"
+msgstr "Как е възможно това?"
+
+msgid "I just saw her a while ago..."
+msgstr "Тъкмо я видях миг по-рано."
+
+msgid "I-I don't understand..."
+msgstr "А-Аз не разбирам..."
+
+msgid "A bloody corpse. The lower half is missing."
+msgstr "Кървав труп. Долната част липсва."
+
+msgid "Juli's bloody corpse. Her lower half is missing."
+msgstr "Кървавият труп на Джули. Долната ѝ половина липсва."
+
+msgid "I..."
+msgstr "Аз..."
+
+msgid "This is my fault..."
+msgstr "Това е по моя вина..."
+
+msgid "A bloody corpse."
+msgstr "Кървав труп."
+
+msgid "Kaya's bloody corpse."
+msgstr "Кървавият труп на Кая."
+
+msgid "Oh no no no no no..."
+msgstr "О не не не не не…"
+
+msgid "Oh my god."
+msgstr "О боже мой."
+
+msgid "This can't be real... It's not real..."
+msgstr "Това не може да е истина... Не е истина..."
+
+msgid "Right...?"
+msgstr "Нали...?"
+
+msgid "...The door..."
+msgstr "…Вратата…"
+
+msgid "I can... leave...?"
+msgstr "Аз мога… да си тръгна…?"
+
+msgid "I can... go home...?"
+msgstr "Аз мога… да си ходя у дома...?"
+
+msgid "I don't want to die..."
+msgstr "Не искам да умра..."
+
+msgid "Why not? Everybody should try it at least once."
+msgstr "Защо не? Всички трябва да опитат поне веднъж."
+
+msgid "Right."
+msgstr "Точно."
+
+msgid "...It doesn't light up..."
+msgstr "…Не се запалва…"
+
+msgid "It's as if this place isn't dark... it's just black..."
+msgstr "Сякаш това място не е тъмно… а просто мрачно..."
+
+msgid "That's not going to help."
+msgstr "Това няма да помогне."
+
+msgid "Unfortunately, the door has no keyhole."
+msgstr "За жалост вратата няма дупка за ключа."
+
+msgid "Blood."
+msgstr "Кръв."
+
+msgid "Blood puddles."
+msgstr "Локви от кръв."
+
+msgid "There's no door here."
+msgstr "Тук няма врата."
+
+msgid "I cant... go back..."
+msgstr "Не мога… да се върна."
+
+msgid "A welcoming door."
+msgstr "Приветстваща врата."
+
+msgid "It's locked."
+msgstr "Заключено е."
+
+msgid "I... have to..."
+msgstr "Аз… трябва да…"
+
+msgid "...get out..."
+msgstr "… да се махна…"

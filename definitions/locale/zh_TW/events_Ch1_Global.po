@@ -1,0 +1,3946 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Try Again?"
+msgstr "再試一次嗎？"
+
+msgid "Retry"
+msgstr "重試"
+
+msgid "Skip"
+msgstr "跳過"
+
+msgid "Give Up"
+msgstr "放棄"
+
+msgid "Well... this is it."
+msgstr "好吧...就這樣了。"
+
+msgid "So uh... see you on the other side?"
+msgstr "那麼呃...在另一側見嗎？"
+
+msgid "Yeah."
+msgstr "是啊。"
+
+msgid "..."
+msgstr "..."
+
+msgid "See ya."
+msgstr "再見囉。"
+
+msgid "Ha! That's way too big on you."
+msgstr "哈！對妳來說太大件了。"
+
+msgid "It's... cozy, I suppose."
+msgstr "我覺得...還滿舒適的。"
+
+msgid "(I wonder who wore this.)"
+msgstr "(不曉得是誰穿的。)"
+
+msgid "H-Hey! What's wrong!?"
+msgstr "嘿-嘿！怎麼回事！？"
+
+msgid "Wake up!"
+msgstr "快醒來！"
+
+msgid "What the hell!?"
+msgstr "什麼鬼！？"
+
+msgid "Hey, wake up! Hey!"
+msgstr "嘿，快醒來！嘿！"
+
+msgid ".........."
+msgstr ".........."
+
+msgid "Damn it."
+msgstr "可惡。"
+
+msgid "Dead End 1-10 - Sensory Overload"
+msgstr "死路 1-10 - 感官超載"
+
+msgid "Um... What was that?"
+msgstr "嗯...那是什麼？"
+
+msgid "It sounded like splashing water..."
+msgstr "聽起來像是水花聲..."
+
+msgid "But that's impossible... I thought we drained the water?"
+msgstr "但是這怎麼可能...我以為我們把水排乾了？"
+
+msgid "Could it be that the lower levels are still flooded?"
+msgstr "難道下層還被水淹沒嗎？"
+
+msgid "Could the B4F be flooded?"
+msgstr "B4F 還被淹沒嗎？"
+
+msgid "Hey, you don't think we could just press the button and go back up, right?"
+msgstr "嘿，你不覺得我們可以按一下按鈕就回去，對吧？"
+
+msgid "No."
+msgstr "不。"
+
+msgid "Sooo..."
+msgstr "那麼..."
+
+msgid "This doesn't bode well."
+msgstr "這可不是什麼好兆頭。"
+
+msgid "No shit, it doesn't bode at all!"
+msgstr "廢話，根本沒有什麼兆頭！"
+
+msgid "It's fine, elevators always have an emergency exit."
+msgstr "沒關係，電梯總有緊急出口。"
+
+msgid "Somewhere."
+msgstr "在某個地方。"
+
+msgid "What now?"
+msgstr "現在呢？"
+
+msgid "I'm not sure... do you see anything?"
+msgstr "我不確定...你有看到什麼東西嗎？"
+
+msgid "Like what?"
+msgstr "像是什麼？"
+
+msgid "Like... an exit? Something that could be opened?"
+msgstr "像是...出口？可以被打開的？"
+
+msgid "Hmmm..."
+msgstr "嗯~~..."
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "Then... we might actually die here."
+msgstr "那麼...我們可能真的會死在這裡。"
+
+msgid "Hey... don't say things like that..."
+msgstr "嘿...別說這種話..."
+
+msgid "Let me think for a second."
+msgstr "讓我想想。"
+
+msgid "Okay."
+msgstr "好吧。"
+
+msgid "Any ideas yet?"
+msgstr "有什麼想法了嗎？"
+
+msgid "It's possible that there's an exit on the ceiling."
+msgstr "天花板上可能有個出口。"
+
+msgid "But we can't reach it yet..."
+msgstr "但是我們搆不到。"
+
+msgid "If we wait until the elevator fills up with water, maybe we can float up and open it."
+msgstr "如果我們等到電梯充滿了水，也許我們可以浮起來並打開它。"
+
+msgid "That's smart!"
+msgstr "真聰明！"
+
+msgid "So we just wait?"
+msgstr "所以我們就等著嗎？"
+
+msgid "That's the idea."
+msgstr "就是這樣。"
+
+msgid "Man... it's cold..."
+msgstr "唉...好冷..."
+
+msgid "Can you check the ceiling now?"
+msgstr "我們現在可以檢查天花板了嗎？"
+
+msgid "Some of the panels should come off."
+msgstr "一些面板應該會脫落。"
+
+msgid "Roger."
+msgstr "收到。"
+
+msgid "No dice."
+msgstr "沒辦法。"
+
+msgid "...What?"
+msgstr "...什麼？"
+
+msgid "They won't even budge."
+msgstr "根本就弄不開。"
+
+msgid "...Are you sure?"
+msgstr "...你確定嗎？"
+
+msgid "Yeah, I punched them as hard as I could."
+msgstr "是啊，我用盡全力打它了。"
+
+msgid "....."
+msgstr "....."
+
+msgid "So... what's next?"
+msgstr "那麼...接下來呢？"
+
+msgid "...There's nothing next, is there..."
+msgstr "...沒有接下來了，是嗎..."
+
+msgid "At that point, my mind went blank."
+msgstr "在那一刻，我的腦袋一片空白。"
+
+msgid "The fear of actually dying suddenly took over me."
+msgstr "真正死亡的恐懼突然佔據了我。"
+
+msgid "And drowning... was probably the worst way to go."
+msgstr "而溺水...應該是最糟糕的死法了。"
+
+msgid "What happened after that..."
+msgstr "在那之後發生的事..."
+
+msgid "It's best forgotten."
+msgstr "最好被遺忘。"
+
+msgid "Dead End 1-11 - Deep Sea Misadventure"
+msgstr "死路 1-11 - 深海事故"
+
+msgid "Dead End 1-12 - What's At Stake"
+msgstr "死路 1-12 - 木樁上是什麼(What's At Stake)"
+
+msgid "Was that toy always there?"
+msgstr "那玩具一直都在那裡嗎？"
+
+msgid "What is it, a bear or something?"
+msgstr "這是什麼，熊還是什麼嗎？"
+
+msgid "It's a rabbit."
+msgstr "是兔子。"
+
+msgid "...Or that's what I think it's trying to be."
+msgstr "...或者說是它在試圖模仿。"
+
+msgid "It's an abomination."
+msgstr "是個合成怪。"
+
+msgid "It's got no legs!"
+msgstr "它沒有腿！"
+
+msgid "Hey...um..."
+msgstr "嘿...嗯..."
+
+msgid "...And it's all mismatched!"
+msgstr "...而且都對不上！"
+
+msgid "I don't think you should touch-"
+msgstr "我不覺得你該碰-"
+
+msgid "There you are! Finish cleanin' yet?"
+msgstr "你在這啊！打掃完了嗎？"
+
+msgid "The hell you got in your mouth?"
+msgstr "你嘴巴裡的是什麼鬼？"
+
+msgid "Spit it out!"
+msgstr "吐出來！"
+
+msgid "Don't make me say it twice."
+msgstr "別讓我說第二次。"
+
+msgid "Good girl!"
+msgstr "好乖！"
+
+msgid "Ugh... the hell is this thing?"
+msgstr "呃...這是什麼鬼？"
+
+msgid "Can't even tell anymore, you always make such a mess out of your food."
+msgstr "都看不出來了，你總是把食物弄得一團糟。"
+
+msgid "I can't eat this crap, you can have it back."
+msgstr "我沒辦法吃這鬼東西，拿回去吧。"
+
+msgid "But hurry up, or I'm leaving without you!"
+msgstr "但是快點，不然我就要走了！"
+
+msgid "Hell, this place still gives me the creeps."
+msgstr "天哪，這個地方仍然讓我感到毛骨悚然。"
+
+msgid "Dead End 1-13 - Stuffed Animal"
+msgstr "死路 1-13 - 填充動物"
+
+msgid "I hope the reversal works..."
+msgstr "希望能夠逆轉成功..."
+
+msgid "Please work... please work..."
+msgstr "拜託成功...拜託成功..."
+
+msgid "Please work..."
+msgstr "拜託成功..."
+
+msgid "...!?"
+msgstr "...！？"
+
+msgid "I feel like I'm hearing things..."
+msgstr "感覺好像聽到了什麼..."
+
+msgid "...! H-Hiro...?!"
+msgstr "...！廣-廣人...？！"
+
+msgid "Dead End 1-2 - Salt is for Cooking"
+msgstr "死路 1-2 - 鹽巴是用來煮飯的"
+
+msgid "I kept walking endlessly through the black space in my mind."
+msgstr "我在我腦海中的黑色空間不停走著。"
+
+msgid "I wasn't worried. I've been here dozens of times."
+msgstr "我不擔心。我已經來這裡好幾次了。"
+
+msgid "This is just a dream. I always wake up."
+msgstr "這只是一場夢。我總是會醒來。"
+
+msgid "So I kept walking."
+msgstr "所以我繼續走著。"
+
+msgid "(It's been a while since I started walking.)"
+msgstr "(我已經走一段時間了。)"
+
+msgid "(I have no way of keeping track of time though...)"
+msgstr "(雖然我不知道過了多久...)"
+
+msgid "(But even if I don't manage to find the way back...)"
+msgstr "(但是就算我沒辦法找到回去的路...)"
+
+msgid "Something in the real world will wake me up, right?"
+msgstr "真實世界會有東西叫醒我，對吧？"
+
+msgid "I looked down at my hands. But I couldn't see them. I couldn't see anything in any direction."
+msgstr "我向下看著我的手。但是我看不到它們。我無法看到任何方向的任何東西。"
+
+msgid "(How long has it been?)"
+msgstr "(經過了多久了？)"
+
+msgid "I've been walking for such a long time..."
+msgstr "我已經走了很長的一段時間..."
+
+msgid "(I haven't gotten hungry or thirsty. I'm not sleepy and my legs aren't even tired.)"
+msgstr "(我沒有變餓或變渴。我不想睡，我的腿甚至不會累。)"
+
+msgid "But the sensory deprivation... is really starting to get to me."
+msgstr "但是失去感官...真的開始讓我無法招架。"
+
+msgid "But I wasn't going to get anywhere unless I moved."
+msgstr "但是不移動的話就哪裡也到不了。"
+
+msgid "I decided to stop walking for a while."
+msgstr "我決定停下腳步一段時間。"
+
+msgid "It just seemed pointless."
+msgstr "感覺這麼做沒什麼意義。"
+
+msgid "It was like an invisible treadmill, as far as the eye could see."
+msgstr "就像是看得到的地方，都是一部隱形的跑步機。"
+
+msgid "Except that the eye couldn't see anything."
+msgstr "但是其實什麼都看不到。"
+
+msgid "Ahh... will someone wake me up already?"
+msgstr "啊...快來人把我叫醒啊？"
+
+msgid "This is pointless..."
+msgstr "真是沒有意義..."
+
+msgid "But standing still was even more pointless."
+msgstr "但是站在原地更沒意義。"
+
+msgid "...This... I can't deal with this anymore... I want to wake up!"
+msgstr "...這...我受不了了...我想要醒來！"
+
+msgid "What kind of torture is this? There's no sounds, no colors, no smell...!"
+msgstr "這是什麼酷刑？沒有聲音、沒有顏色、沒有味道...！"
+
+msgid "Even if I pinch myself... I can't feel pain either..."
+msgstr "就算我捏自己...也感覺不痛..."
+
+msgid "I'm going"
+msgstr "我要"
+
+msgid "${br:1}${sp:8}to go"
+msgstr "${br:1}${sp:8}變得"
+
+msgid "${br:2}${sp:16}insane anyways"
+msgstr "${br:2}${sp:16}瘋掉了"
+
+msgid "...so I kept walking."
+msgstr "...所以我繼續走著。"
+
+msgid "HELP!!! HEEEELP!!!"
+msgstr "救命！！！救命啊！！！"
+
+msgid "SOMEONE GET ME OUT OF HERE! WAKE ME UP!!!"
+msgstr "快把我弄出去！讓我醒來！！！"
+
+msgid "I DON'T WANT TO STAY HERE FOREVER!!!"
+msgstr "我不想要永遠待在這裡！！！"
+
+msgid "PLEASE! I'D RATHER DIE!!!"
+msgstr "拜託！我寧願死掉！！！"
+
+msgid "I can't... stand it anymore...!"
+msgstr "我撐...不下去了...！"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+msgstr "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+
+msgid "...An exit?"
+msgstr "...是出口？"
+
+msgid "Crap, it woke up."
+msgstr "糟了，它醒了。"
+
+msgid "Hurry, knock it out or something!"
+msgstr "快點，把它敲暈什麼的！"
+
+msgid "(!!... Wh-what happened...)"
+msgstr "(！！...發-發生了什麼事...)"
+
+msgid "(My chest...)"
+msgstr "(我的胸...)"
+
+msgid "You idiot, you hit it too hard."
+msgstr "你這白癡，你打太大力了。"
+
+msgid "I know it's alive, but there's a hole in it now!"
+msgstr "我知道它還活著，但它現在有一個洞！"
+
+msgid "(Hole...? What...?)"
+msgstr "(洞...？什麼...？)"
+
+msgid "(I need to...)"
+msgstr "(我需要...)"
+
+msgid "Scream"
+msgstr "大喊"
+
+msgid "Do not"
+msgstr "不要"
+
+msgid "H-he... *cough*"
+msgstr "救-救...*咳嗽*"
+
+msgid "You try to scream, but your voice isn't coming out. Your lungs might be damaged."
+msgstr "妳試著大喊，但是發不出聲音。妳的肺可能受損了。"
+
+msgid "(It hurts...)"
+msgstr "(好痛...)"
+
+msgid "If it dies before extraction, the boss will get mad at us."
+msgstr "如果它在擷取前就死了，老闆會對我們發火。"
+
+msgid "You're right, he might just kill us off. Shit, crap."
+msgstr "你說得對，他可能會殺了我們。媽的，幹。"
+
+msgid "Lets just bring it quickly."
+msgstr "還是快點把它帶過去。"
+
+msgid "Fine, I'll do it."
+msgstr "好吧，我來。"
+
+msgid "Ugh... it's dripping all over. This is so annoying."
+msgstr "呃...滴得到處都是。好麻煩。"
+
+msgid "Why is it bleeding? I thought we were clear on this."
+msgstr "為什麼它在流血？我們早就說好了吧。"
+
+msgid "I'm really sorry, it was awake. The driver must have messed up, and..."
+msgstr "我真的很抱歉，它醒了。駕駛一定是搞砸了，然後..."
+
+msgid "The driver didn't make this hole."
+msgstr "駕駛才沒有搞出這個洞。"
+
+msgid "Sorry, we didn't want it to run, so..."
+msgstr "抱歉，我們不想讓它跑走，所以..."
+
+msgid "Enough. With so few subjects as of late, you can't be snacking on them. I'll be reporting this to Glen."
+msgstr "夠了。最近的實驗對象太少了，你不能把它們當作點心。我會把這件事報告給葛蘭。"
+
+msgid "Gaah... what luck..."
+msgstr "啊...這運氣啊..."
+
+msgid "Really now? \"It's young so it's probably fine?\""
+msgstr "你是認真的嗎？\"它很年輕所以大概沒關係？\""
+
+msgid "That's especially why you can't mess with it."
+msgstr "這就是你不能亂搞它的原因。"
+
+msgid "(Voices...)"
+msgstr "(有聲音...)"
+
+msgid "Turn it over."
+msgstr "把它翻過來。"
+
+msgid "At least the hands are fine."
+msgstr "至少手是好的。"
+
+msgid "Hand me the tools."
+msgstr "把工具給我。"
+
+msgid "Right away."
+msgstr "馬上。"
+
+msgid "Good... It's still breathing."
+msgstr "很好...它還在呼吸。"
+
+msgid "(Is that... a doctor...?)"
+msgstr "(那是...醫生嗎...？)"
+
+msgid "(What's... going on...?)"
+msgstr "(怎麼...回事...？)"
+
+msgid "Let's get this over with."
+msgstr "把它搞定吧。"
+
+msgid "Dead End 1-4 - Carried Away"
+msgstr "死路 1-4 - 被載走"
+
+msgid "Hm..."
+msgstr "嗯..."
+
+msgid "Should I really eat this?"
+msgstr "我真的該吃它們？"
+
+msgid "I didn't get to have my flan earlier today..."
+msgstr "我之前沒吃到我的焦糖布丁..."
+
+msgid "I didn't get to have my macarons earlier today..."
+msgstr "我之前沒吃到我的馬卡龍..."
+
+msgid "I didn't get to have my eclair earlier today..."
+msgstr "我之前沒吃到我的閃電泡芙..."
+
+msgid "And mom's leftovers were kind of stale..."
+msgstr "而且媽媽的剩菜有點不新鮮..."
+
+msgid "So I'm not that hungry, but... maybe I should make sure to keep my energy up."
+msgstr "我不怎麼餓，但是...也許我該保持體力。"
+
+msgid "As I thought, these are just classic potato chips."
+msgstr "跟我想的一樣，只是經典的洋芋片。"
+
+msgid "That's good, I guess."
+msgstr "還算不錯。"
+
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "The list of ingredients is nonsense."
+msgstr "成分表完全看不懂。"
+
+msgid "What did I just eat?"
+msgstr "我剛剛吃了什麼？"
+
+msgid "\"Attention: Will promptly put you to sleep. May occasionally cause hallucinations and headache.\""
+msgstr "\"注意：會馬上讓你入睡。偶爾會造成幻覺或是頭痛。\""
+
+msgid "(...This is bad!)"
+msgstr "(...糟了！)"
+
+msgid "(If I'm going to fall asleep, I need to find somewhere safe!)"
+msgstr "(如果我要睡著了，我必須找個安全的地方！)"
+
+msgid "(Uhm...)"
+msgstr "(嗯...)"
+
+msgid "(Oh no...)"
+msgstr "(喔不...)"
+
+msgid "(I feel really dizzy...)"
+msgstr "(感覺好暈...)"
+
+msgid "(This isn't good...)"
+msgstr "(這可不好...)"
+
+msgid "That was the most peaceful sleep I had ever had."
+msgstr "這是我睡過最安寧的一覺。"
+
+msgid "For the longest time, I've been having nightmares where I wake up in that dark place filled with bad memories."
+msgstr "有好長的一段時間，我都會做在惡夢，內容是在充滿不好回憶的暗處中醒來。"
+
+msgid "Even though I'm used to it by now, it gets really tiring."
+msgstr "儘管我現在已經習慣了，還是會很受不了。"
+
+msgid "I often wake up feeling like I didn't get much sleep at all."
+msgstr "我常常感覺沒睡到什麼。"
+
+msgid "But this time, I didn't dream of anything."
+msgstr "但是這次，我什麼也沒有夢到。"
+
+msgid "What's that sound?"
+msgstr "什麼聲音？"
+
+msgid "!?"
+msgstr "！？"
+
+msgid "It hurts..."
+msgstr "好痛..."
+
+msgid "What's happening!?"
+msgstr "發生了什麼事！？"
+
+msgid "(N-no...)"
+msgstr "(不-不...)"
+
+msgid "(Is this a hallucination?!)"
+msgstr "(這是幻覺嗎？)"
+
+msgid "*Pant...pant*"
+msgstr "*喘氣...喘氣*"
+
+msgid "(No... the pain... is too much...)"
+msgstr "(不...太痛了...)"
+
+msgid "(This is... real...)"
+msgstr "(這是...真的...)"
+
+msgid "(I....can't...move...)"
+msgstr "(我....沒辦法...動...)"
+
+msgid "H-h...."
+msgstr "救-救..."
+
+msgid "H-...H-hel..p...."
+msgstr "救-...救-救...."
+
+msgid "*Cough*"
+msgstr "*咳嗽*"
+
+msgid "(I can't... breathe...)"
+msgstr "(我沒辦法...呼吸...)"
+
+msgid "(It hurts.....)"
+msgstr "(好痛.....)"
+
+msgid "(Please.....)"
+msgstr "(拜託.....)"
+
+msgid "(I don't..... want... to be awake...)"
+msgstr "(我不.....想要...醒來...)"
+
+msgid "(It..... hurts.....)"
+msgstr "(好.....痛.....)"
+
+msgid "Dead End 1-5 - Become Snack"
+msgstr "死路 1-5 - 變成點心"
+
+msgid "Dead End 1-6 - Ground Swallow Me Up"
+msgstr "死路 1-6 - 大地吞噬了我"
+
+msgid "It's..."
+msgstr "這真是..."
+
+msgid "...perfection."
+msgstr "...完美。"
+
+msgid "So avant-garde."
+msgstr "太前衛了。"
+
+msgid "Truly timeless."
+msgstr "真正的永恆。"
+
+msgid "...Should I reopen the gallery after all?"
+msgstr "...我是否該重新開啟藝廊？"
+
+msgid "Dead End 1-7 - Mortal Immortalized"
+msgstr "死路 1-7 - 凡人不朽"
+
+msgid "Dead End 1-8 - Part of Your World"
+msgstr "死路 1-8 - 你世界的一部分"
+
+msgid "W-what?"
+msgstr "什-什麼？"
+
+msgid "...How could this happen? It wasn't that long..."
+msgstr "...這怎麼可能發生？沒有過那麼久..."
+
+msgid "Is this... is this really him?"
+msgstr "這...這真的是他嗎？"
+
+msgid "Maybe I should get out of here, it's probably dangerous."
+msgstr "也許我該離開這裡，可能很危險。"
+
+msgid "What's that?"
+msgstr "那是什麼？"
+
+msgid "Th-this is...!"
+msgstr "這-這是...！"
+
+msgid "Dead End 1-9 - Doubt"
+msgstr "死路 1-9 - 懷疑"
+
+msgid "I feel like I didn't accomplish anything..."
+msgstr "感覺我什麼也沒達成..."
+
+msgid "I hope that this door actually takes me home, at the very least."
+msgstr "希望這扇門至少能帶我回家。"
+
+msgid "As I was crossing the door, I couldn't help but feel like something was wrong."
+msgstr "正當我穿過門的時候，我不禁感到不對勁。"
+
+msgid "Am I making the right choice?"
+msgstr "我做了正確的選擇嗎？"
+
+msgid "No..."
+msgstr "不..."
+
+msgid "It's not time yet."
+msgstr "還不是時候。"
+
+msgid "This place... again."
+msgstr "又是...這地方。"
+
+msgid "I guess I really did fall asleep...?"
+msgstr "我想我是真的睡著了吧...？"
+
+msgid "(Sometimes I wake up here after falling asleep.)"
+msgstr "(有時候我會在睡著後從這裡醒來。)"
+
+msgid "(I have this dream a lot...)"
+msgstr "(我很常做這個夢...)"
+
+msgid "(...But it seems I can't leave until I see it through to the end.)"
+msgstr "(...但是看來直到結尾前都沒辦法離開。)"
+
+msgid "Wha- Again?"
+msgstr "什-又來了？"
+
+msgid "This is ridiculous, I was just here a few minutes ago."
+msgstr "太離譜了，我前幾分鐘才在這裡。"
+
+msgid "I need to get this over with quickly, so I can get off the bus."
+msgstr "我需要趕快完成，這樣才能下公車。"
+
+msgid "...Huh? Did I pass out?"
+msgstr "...蛤？我昏倒了嗎？"
+
+msgid "That's not good..."
+msgstr "這可不好..."
+
+msgid "My head hurts..."
+msgstr "我的頭好痛..."
+
+msgid "Wasn't I going down some stairs? I hope I didn't fall and break my neck."
+msgstr "我不是在下樓梯嗎？希望我不會摔斷脖子。"
+
+msgid "That would be a terrible ending..."
+msgstr "那會是很糟糕的結局..."
+
+msgid "Well... I'm really screwed now."
+msgstr "好吧...現在我真的完蛋了。"
+
+msgid "Even if I wake up from here... what can I even do?"
+msgstr "就算我在這裡醒來...我還能做什麼？"
+
+msgid "(Let's see...)"
+msgstr "(讓我想想...)"
+
+msgid "(A monster just put me in a cage and will probably eat me... or something.)"
+msgstr "(一隻怪物把我關到籠子裡，而且可能會把我吃了...或是做別的事。)"
+
+msgid "(Even so, it's not like I can stay here. This place is useless.)"
+msgstr "(就算如此，我也不能留在這裡。這地方沒什麼用處。)"
+
+msgid "(Let's just find the exit and see what happens.)"
+msgstr "(還是找到出口然後看看會發生什麼事。)"
+
+msgid "I- I don't feel so good..."
+msgstr "我-我感覺不太好..."
+
+msgid "...What happened?"
+msgstr "...怎麼回事？"
+
+msgid "Ah... looks like I got the knife somehow."
+msgstr "啊...看來我不知為何拿到了刀子。"
+
+msgid "I finished setting up the ritual."
+msgstr "我完成了儀式準備。"
+
+msgid "I see."
+msgstr "我明白了。"
+
+msgid "Um..."
+msgstr "嗯..."
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Is there really nothing I can do to make you change your mind about doing this ritual?"
+msgstr "難道我真的沒有辦法讓你改變心意，不進行這個儀式嗎？"
+
+msgid "Hiro..."
+msgstr "廣人..."
+
+msgid "I know! I know. I know I said I'd stop but..."
+msgstr "我懂！我懂。我說過我不會再講了，但是..."
+
+msgid "I'm just worried."
+msgstr "我只是很擔心。"
+
+msgid "I'll be fine, and..."
+msgstr "我會沒事的，而且..."
+
+msgid "...I'll see you tomorrow."
+msgstr "...明天見。"
+
+msgid "...Alright."
+msgstr "...好吧。"
+
+msgid "So... I wanted to ask again."
+msgstr "所以...我想要再問一次。"
+
+msgid "Just in case, would you mind not being in the house tonight?"
+msgstr "以防萬一，你今天晚上可以離開房子嗎？"
+
+msgid "Understood."
+msgstr "了解。"
+
+msgid "I don't think anything bad would happen, but just in case?"
+msgstr "我不覺得會有什麼壞事發生，但是只是想以防萬一？"
+
+msgid "Got it. Don't worry, I made some plans so I'll be out late tonight."
+msgstr "我懂。別擔心，我有些計劃所以會晚點回家。"
+
+msgid "Okay. Just don't be here before 12:30."
+msgstr "好吧。只要在 12:30 之前不要回來就好。"
+
+msgid "Don't worry so much! 12:31, on the dot."
+msgstr "別這麼擔心！12:31，準時出現。"
+
+msgid "Really though. Take care of yourself, make sure you get back in one piece."
+msgstr "但是說真的。好好照顧自己，一定要安全回來。"
+
+msgid "I mean it, be safe."
+msgstr "我是認真的，注意安全。"
+
+msgid "(Ah... it figures. I can't say goodbye to him properly after that. Oh well...)"
+msgstr "(啊...算了。這話讓我沒辦法好好跟他道別。好吧...)"
+
+msgid "(Why did I have to say I'll see him tomorrow...)"
+msgstr "(為什麼我要跟他說明天見...)"
+
+msgid "(It's Hiro.)"
+msgstr "(是廣人。)"
+
+msgid "(I wonder what he's reading.)"
+msgstr "(不曉得他在讀什麼。)"
+
+msgid "(I probably shouldn't bother him...)"
+msgstr "(我大概不應該打擾他...)"
+
+msgid "(He's always so nice to me, but I'm sure he needs a break sometimes...)"
+msgstr "(他總是對我很好，但是我很確定他也是需要休息的...)"
+
+msgid "I have a stalker."
+msgstr "有人跟蹤我。"
+
+msgid "Ah, no, I was just passing through."
+msgstr "啊，不，我只是經過而已。"
+
+msgid "Sit, sit!"
+msgstr "坐啊，坐！"
+
+msgid "Um... okay."
+msgstr "嗯...好吧。"
+
+msgid "Listen to this:"
+msgstr "聽聽這個："
+
+msgid ""
+"One for sorrow,\n"
+"Two for mirth"
+msgstr ""
+"一為悲傷，\n"
+"二為歡樂"
+
+msgid ""
+"Three for a funeral,\n"
+"Four for birth"
+msgstr ""
+"三為葬禮，\n"
+"四為出生"
+
+msgid ""
+"Five for heaven,\n"
+"Six for hell"
+msgstr ""
+"五為天堂，\n"
+"六為地獄"
+
+msgid "Seven for the devil, his own self."
+msgstr "七為魔鬼，他自己。"
+
+msgid "Spooky huh?"
+msgstr "恐怖吧？"
+
+msgid "Do you know what it is?"
+msgstr "妳知道這是什麼嗎？"
+
+msgid "A poem...?"
+msgstr "一首詩...？"
+
+msgid "Yeah, about counting magpies."
+msgstr "對，關於數喜鵲的。"
+
+msgid "They're kind of like crows, but cuter."
+msgstr "牠們就像烏鴉，可是更可愛。"
+
+msgid "Huh."
+msgstr "嗯。"
+
+msgid "Supposedly the number of magpies that you see determines your fate."
+msgstr "據說妳看到的喜鵲數量決定了妳的命運。"
+
+msgid "But there's so many variations to the rhyme..."
+msgstr "但是這韻文有很多變化..."
+
+msgid "How can you properly predict your fate?"
+msgstr "怎麼有辦法預測命運呢？"
+
+msgid "I'm not sure I believe in fate."
+msgstr "我不太相信命運。"
+
+msgid "It can be nice to believe in something."
+msgstr "相信事物是件好事。"
+
+msgid "Hmm... I believe in..."
+msgstr "嗯...我相信..."
+
+msgid "Flan."
+msgstr "焦糖布丁。"
+
+msgid "Macarons."
+msgstr "馬可龍。"
+
+msgid "Chocolate eclairs."
+msgstr "巧克力閃電泡芙。"
+
+msgid "I thought you would say something like that."
+msgstr "我就知道妳會說這種話。"
+
+msgid "I believe in..."
+msgstr "我相信..."
+
+msgid "...Lacie!"
+msgstr "...萊西！"
+
+msgid "I believe you can achieve your dreams!"
+msgstr "我相信妳可以實現自己的夢想！"
+
+msgid "Then I'll try to believe, too."
+msgstr "那麼我也試著相信吧。"
+
+msgid "Don't hesitate to talk to me if you want."
+msgstr "隨時都可以跟我說話。"
+
+msgid "You never bother me, okay?"
+msgstr "妳不會打擾到我，好嗎？"
+
+msgid "(Hiro... you're too cheesy.)"
+msgstr "(廣人...你好俗氣。)"
+
+msgid "(...but thanks.)"
+msgstr "(...但是謝了。)"
+
+msgid "What is that book anyway?"
+msgstr "那是什麼書？"
+
+msgid "Legends and nursery rhymes, that sort of thing."
+msgstr "傳說和童謠那種東西。"
+
+msgid "I got it at the book store down the street."
+msgstr "我在街上的書店買的。"
+
+msgid "Is it any good?"
+msgstr "好看嗎？"
+
+msgid "Sure! You might enjoy them. They're not all creepy."
+msgstr "當然！妳可能會喜歡。它們不是都在講詭異的東西。"
+
+msgid "There's a legend that says the heart of a witch can grant any wish!"
+msgstr "有個傳說是女巫的心臟可以實現任何願望！"
+
+msgid "Hmm... Sounds like there must be a catch."
+msgstr "嗯...聽起來有陷阱。"
+
+msgid "Maybe. I haven't finished it yet."
+msgstr "可能吧。我還沒讀完。"
+
+msgid "You don't usually read fiction."
+msgstr "你通常不讀虛構故事。"
+
+msgid "Ahh guilty!"
+msgstr "啊被妳抓到了！"
+
+msgid "I'm too impatient with long stories. I like skipping to the end to see what happens."
+msgstr "我對長篇故事沒什麼耐心。我喜歡跳到結局看看發生了什麼事。"
+
+msgid "Doesn't that spoil the fun?"
+msgstr "這樣不會破壞樂趣嗎？"
+
+msgid "Well Lace, you might like solving puzzles and mysteries before they get revealed..."
+msgstr "是這樣的萊西，妳可能喜歡在謎題和謎團被揭開前解決它們..."
+
+msgid "But I like it when the answers are served neatly on a platter."
+msgstr "但是我喜歡答案在個盤子上呈現在我眼前。"
+
+msgid "With extra cheese."
+msgstr "加上額外的起司。"
+
+msgid "Yes, I'm aware of the cheese."
+msgstr "是，我有注意到起司。"
+
+msgid "How's the ritual going?"
+msgstr "儀式進行得怎麼樣？"
+
+msgid "It's... going."
+msgstr "在...進行中。"
+
+msgid "Are you nervous? Do you think it'll work?"
+msgstr "妳緊張嗎？妳覺得會成功嗎？"
+
+msgid "Kind of..."
+msgstr "有點..."
+
+msgid "If it worked... it wouldn't be the strangest thing that's happened to me."
+msgstr "如果成功了...也不會是發生在我身上最奇怪的事。"
+
+msgid "You're right about that..."
+msgstr "妳說得沒錯..."
+
+msgid "Oh hey, remember mother left some food in the fridge."
+msgstr "喔嘿，記得母親在冰箱留了一些食物。"
+
+msgid "Don't eat it cold though, you always eat things cold!"
+msgstr "別冷著吃喔，妳每次都冷著吃！"
+
+msgid "See, that's why you're so small. You don't get proper nutrition!"
+msgstr "看吧，這就是為什麼妳個頭這麼小。妳沒有攝取足夠的營養！"
+
+msgid "First, I already ate it."
+msgstr "首先，我已經吃了。"
+
+msgid "Second, I am not small."
+msgstr "再來，我個子不小。"
+
+msgid "I am not small."
+msgstr "我個子不小。"
+
+msgid "You're TINY!"
+msgstr "妳很迷你！"
+
+msgid "Be safe out there Lace."
+msgstr "要注意安全，萊西。"
+
+msgid "Always put your safety first before anything else."
+msgstr "安全第一。"
+
+msgid "Mhmm, you've said this 30 times already."
+msgstr "嗯，你已經說了 30 次了。"
+
+msgid "Only 30?"
+msgstr "只有 30 次？"
+
+msgid "Hiro seems focused on his book."
+msgstr "廣人看起來在專心看書。"
+
+msgid "(You can't seem to say goodbye to him...)"
+msgstr "(妳似乎無法跟他道別...)"
+
+msgid "By the way..."
+msgstr "順帶一提..."
+
+msgid "I think I'll go straight to my room..."
+msgstr "我想我會直接回我房間..."
+
+msgid "Lacie!!!"
+msgstr "萊西！！！"
+
+msgid "Hiro...!"
+msgstr "廣人...！"
+
+msgid "You scared me..."
+msgstr "你嚇到我了..."
+
+msgid "What?"
+msgstr "怎麼了？"
+
+msgid "Did you go out?"
+msgstr "妳出門了嗎？"
+
+msgid "I did... Just for a little bit."
+msgstr "是啊...只有一下下。"
+
+msgid "Seriously?"
+msgstr "真的嗎？"
+
+msgid "Yeah, I grabbed-"
+msgstr "是啊，我買了-"
+
+msgid "Woooaah you went OUTSIDE!?"
+msgstr "哇~~妳去外面了！？"
+
+msgid "Into the world??"
+msgstr "進入世界之中？？"
+
+msgid "That's incredible! I'm so proud!"
+msgstr "太厲害了！我好驕傲！"
+
+msgid "A week ago you weren't even opening the front door!"
+msgstr "一週前妳甚至沒有打開過前門！"
+
+msgid "She finally went outside! The tides are shifting! History is being made!"
+msgstr "她終於去外面了！潮流正在轉變！歷史正被創造！"
+
+msgid "Next you'll be going to the market, then back to school..."
+msgstr "下次妳就會去市場，然後回到學校..."
+
+msgid "You'll make so many friends, it's gonna be amazing!!"
+msgstr "妳會交到很多朋友，一定會很讚！！"
+
+msgid "I really... think you're exaggerating..."
+msgstr "我真的...覺得你太誇張了..."
+
+msgid "No waaay! You've been cooped up for so long!"
+msgstr "不可能~！妳已經被關住很久了！"
+
+msgid "It hasn't been that long..."
+msgstr "沒那麼久..."
+
+msgid "Now that you've mastered that, we can go for an ice cream."
+msgstr "既然妳已經習慣了，我們可以吃冰淇淋。"
+
+msgid "Together!"
+msgstr "一起去！"
+
+msgid "No way... It didn't actually go that well today..."
+msgstr "不可能...今天沒那麼順利..."
+
+msgid "I messed up my order... and... I left really fast."
+msgstr "我點餐出了問題...然後...我很快就離開了。"
+
+msgid "Then I'll order for you!"
+msgstr "那我來幫妳點！"
+
+msgid "I'll do it until you can order on your own. It will get better!"
+msgstr "我會一直幫妳點到妳可以自己來為止。會變得更好的！"
+
+msgid "It won't... unless I fix the root cause of the problem."
+msgstr "不會...除非我把問題根除。"
+
+msgid "You mean... you're still doing the ritual?"
+msgstr "妳是說...妳還是要進行儀式嗎？"
+
+msgid "Yes."
+msgstr "對。"
+
+msgid "I see..."
+msgstr "我明白了..."
+
+msgid "Well, I won't object anymore, just be wise."
+msgstr "好吧，我不會再反對了，明智點吧。"
+
+msgid "I'll be outside if you need me."
+msgstr "如果妳需要我，我會在外面。"
+
+msgid "In any case... this ritual is a bust. I need to clean up now."
+msgstr "無論如何...這個儀式都失敗了。我需要開始清理了。"
+
+msgid "The consequences for leaving things mid-ritual can be pretty dire, or so I read."
+msgstr "儀式做到一半就不管的後果可能非常可怕，至少我是這麼讀到的。"
+
+msgid "I left the instructions to undo the ritual at the PC."
+msgstr "我在電腦上存下了撤銷儀式的說明。"
+
+msgid "This should be far enough... It doesn't look like they will chase me."
+msgstr "這應該夠遠了...它們又不會追著我跑。"
+
+msgid "This... isn't the kind of place I expected."
+msgstr "這...不是我想像的那種地方。"
+
+msgid "Another stop?"
+msgstr "又一個站牌？"
+
+msgid "I made it to a forest... now what...?"
+msgstr "我到達森林了...現在怎麼辦...？"
+
+msgid "I think... I messed up. The bus wasn't there..."
+msgstr "我想...我搞砸了。公車不在..."
+
+msgid "Did I take too long? Or was it the phone call?"
+msgstr "我花太多時間了嗎？還是電話的關係？"
+
+msgid "I guess I'll try again, some other day."
+msgstr "我還是改天再試一次吧。"
+
+msgid "(You hear the bus take off.)"
+msgstr "(妳聽到公車開走。)"
+
+msgid "I couldn't do it."
+msgstr "我辦不到。"
+
+msgid "The bus was right there but..."
+msgstr "公車就在那裡可是..."
+
+msgid "Getting on a strange bus that takes me to my death isn't as easy as it seems."
+msgstr "搭上會帶我通往死亡的奇怪公車沒有想像中的那麼容易。"
+
+msgid "I'll... prepare myself mentally and try again, some other day."
+msgstr "我會...做好心理準備然後改天再試一次。"
+
+msgid "I'll be back soon... maybe."
+msgstr "我很快就會回來...也許吧。"
+
+msgid "(Once I get in... there will be no turning back.)"
+msgstr "(一但我進去...就沒有回頭路了。)"
+
+msgid "I'll just... drop the rune into this box?"
+msgstr "我就...把符石丟進箱子裡嗎？"
+
+msgid "Looks like there's no one here..."
+msgstr "看來沒有其他人在..."
+
+msgid "This spot is good."
+msgstr "這個位置不錯。"
+
+msgid "And so, we're off... to who knows where."
+msgstr "所以，出發了...誰知道要去哪裡。"
+
+msgid "What would my parents think right now?"
+msgstr "我的父母現在會怎麼想？"
+
+msgid "Their daughter is on a bus headed straight towards certain death."
+msgstr "他們的女兒坐上了一輛直奔死亡的公車。"
+
+msgid "It's hard to say this but... they would be happier without me."
+msgstr "說出來很難聽，但是...他們沒有我會更快樂。"
+
+msgid "...Even if I die on this trip, life will be better for them... and Hiro."
+msgstr "...就算我死在這次旅程，他們會過得更好...廣人也是。"
+
+msgid "Doing this ritual was the right choice."
+msgstr "進行這個儀式是正確的。"
+
+msgid "Whether I make it or fail... whether the Lacie everyone knows disappears or a different Lacie makes it home..."
+msgstr "不管我成功還是失敗...無論大家認識的萊西消失還是另一個萊西回家..."
+
+msgid "...everyone wins."
+msgstr "...大家都贏了。"
+
+msgid "In my mind, I went through everything I knew about this ritual."
+msgstr "在我的腦海中，我想過了所有關於儀式的已知訊息。"
+
+msgid "Then, I remembered the words from a forum post."
+msgstr "然後，我想起了一篇論壇貼文的話。"
+
+msgid "\"You must get off the bus before the end of the line.\""
+msgstr "\"你必須在終點前下公車。\""
+
+msgid "The letter said that the bus would simply take me to my destination - but that person was very insistent on not letting that happen."
+msgstr "信件說公車會帶我到達目的地 - 但是那個人很堅持別讓這件事發生。"
+
+msgid "\"Seriously, you have to get off no matter what!\""
+msgstr "\"我認真的，無論如何一定要下車！\""
+
+msgid "The user that posted it has a big reputation in that forum, so their words probably had some merit to them."
+msgstr "那位使用者在論壇的名聲很好，所以他的話大概有些分量。"
+
+msgid "But... won't I be breaking the rules if I do that...?"
+msgstr "但是...那麼做的話不會破壞規則嗎...？"
+
+msgid "Also, what if the bus never stops? I can't just jump out the window, right?"
+msgstr "還有，如果公車不停的話呢？我沒辦法跳下窗戶，對吧？"
+
+msgid "As I played with my thoughts, my consciousness started to fade away, and soon I was fully asleep."
+msgstr "就在我思考的同時，我的意識開始漸漸模糊，很快地我就睡著了。"
+
+msgid "How did it get here so fast?"
+msgstr "怎麼這麼快就到了？"
+
+msgid "The bus is not there... Did it already leave?"
+msgstr "公車不在這裡...剛剛離開嗎？"
+
+msgid "Or did it never come?"
+msgstr "還是根本沒來過？"
+
+msgid "Does this mean this ritual is no good either?"
+msgstr "這是不是代表這儀式也失敗了？"
+
+msgid "...This is bad..."
+msgstr "...這可不好..."
+
+msgid "E-eh...? The bus is starting to move...!"
+msgstr "欸-欸...？公車開始移動了...！"
+
+msgid "I should have gotten off..."
+msgstr "我應該下車的..."
+
+msgid "With no way to stop the bus, I just sat back down in my spot."
+msgstr "由於無法停下公車，我只好坐回原位。"
+
+msgid "After a while, I fell back asleep."
+msgstr "過了一會兒，我又睡著了。"
+
+msgid "Was there something about this bus that made people sleepy?"
+msgstr "這公車有什麼特別的，讓人這麼想睡覺？"
+
+msgid "A few minutes later, I woke up at the black place again..."
+msgstr "過了幾分鐘，我又在黑色的地方醒來..."
+
+msgid "So I went through the whole thing one more time..."
+msgstr "所以我再次經歷整件事情..."
+
+msgid "And through the closet at last."
+msgstr "然後到了最後的衣櫥。"
+
+msgid "Finally, I was ready to wake up again."
+msgstr "終於，我準備好再次醒來了。"
+
+msgid "There's no one here anymore..."
+msgstr "這裡沒有人了..."
+
+msgid "...!"
+msgstr "...！"
+
+msgid "(What is this thing...?)"
+msgstr "(這是什麼...？)"
+
+msgid "(Wait... the bus stopped... I need to get off!)"
+msgstr "(等等...公車停了...我必須下車！)"
+
+msgid "(There's no point in changing right now.)"
+msgstr "(現在沒有必要換衣服。)"
+
+msgid "Ah... it feels good to change into lighter clothes."
+msgstr "啊...換上輕便的衣服感覺真好。"
+
+msgid "Sadly, I can't stay like this. It makes me feel lazy and I have things to do."
+msgstr "可惜的是，我不能這樣下去。這樣會讓我感到懶惰，而我還有事情要做。"
+
+msgid "A dead primal."
+msgstr "死掉的原始惡魔。"
+
+msgid "(It doesn't make sense to go back this way.)"
+msgstr "(現在沒有必要回去。)"
+
+msgid "(Let's go find that door instead.)"
+msgstr "(還是找到那扇門吧。)"
+
+msgid "Not this way."
+msgstr "不是這個方向。"
+
+msgid "Wait."
+msgstr "等等。"
+
+msgid "These two doors only open from the outside, so..."
+msgstr "這兩扇門只能從外面開啟，所以..."
+
+msgid "I'll stay here and hold it open for you."
+msgstr "我會留在這裡讓它開著。"
+
+msgid "Alright."
+msgstr "好吧。"
+
+msgid "You're not gonna try to leave me again, are you?"
+msgstr "你不會又試著離開我吧？"
+
+msgid "No... I give up on that."
+msgstr "不...我放棄了。"
+
+msgid "Great!"
+msgstr "很好！"
+
+msgid "(...Where am I?)"
+msgstr "(...我在哪？)"
+
+msgid "(Is this a prison cell?)"
+msgstr "(這是牢房嗎？)"
+
+msgid "(I need to find a way out.)"
+msgstr "(我需要想辦法離開。)"
+
+msgid "Uuu... I was really hoping this pipe would lead me outside..."
+msgstr "嗚...我原本希望這管子能帶我出去的..."
+
+msgid "What's with all these fish...?"
+msgstr "這些魚是怎麼回事...？"
+
+msgid "And... where is this?"
+msgstr "還有...這是哪裡？"
+
+msgid "And also... what is this? It's not like the other holes we jumped into..."
+msgstr "還有...這是什麼？和我們跳進去的其他洞不一樣..."
+
+msgid "Is this... another fairy ring? Inside the fairy ring?"
+msgstr "這是...另一個妖精環嗎？在妖精環裡？"
+
+msgid "Something's not right... Why does it look like a mouth?"
+msgstr "不對勁...為什麼它看起來像嘴巴？"
+
+msgid "A mouth...? Wait a second..."
+msgstr "嘴巴...？等等..."
+
+msgid "Do I know something about this?"
+msgstr "我知道些什麼嗎？"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "話說，妳知道妖精環會逐漸擴大並覆蓋更多區域嗎？"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "我聽說它們一旦吃夠了，它們就會張開並吞下表面！"
+
+msgid "Once they eat enough... they open up..."
+msgstr "一旦它們吃夠了...它們會張開..."
+
+msgid "I think I heard that if they eat too much, they kinda open up to swallow whatever's above..."
+msgstr "我聽說如果它們吃了太多，它們就會張開並吞掉上面的東西..."
+
+msgid "So what if I just... feed it more...?"
+msgstr "那如果我...餵它吃更多呢...？"
+
+msgid "Okay, it's decided!"
+msgstr "好吧，決定了！"
+
+msgid "Let's go Aoi, Lacie's counting on you!"
+msgstr "來吧葵，萊西靠你了！"
+
+msgid "I should start with those, probably."
+msgstr "我應該從那些開始。"
+
+msgid "That's all the fish..."
+msgstr "這是全部的魚了..."
+
+msgid "What else... am I carrying anything that I can feed to it?"
+msgstr "我還帶著什麼...可以餵它？"
+
+msgid "My ${item:ch1.forest_harmless_snack_2}..."
+msgstr "我的 ${item:ch1.forest_harmless_snack_2}..."
+
+msgid "It's okay, it was poisonous anyway."
+msgstr "沒關係，反正有毒。"
+
+msgid "The ${item:ch1.aoi_sewingkit}..."
+msgstr "${item:ch1.aoi_sewingkit}..."
+
+msgid "I stole it from work..."
+msgstr "我在工作的時候偷的..."
+
+msgid "Wendy will kill me."
+msgstr "溫蒂會殺了我。"
+
+msgid "...."
+msgstr "...."
+
+msgid "Wendy will kill me... or I'll die here... being digested."
+msgstr "溫蒂會殺了我...或者我會死在這裡...被消化掉。"
+
+msgid "A ${item:ch1.aoi_cabbage}."
+msgstr "一顆 ${item:ch1.aoi_cabbage}。"
+
+msgid "I have no way of chopping it open anyway."
+msgstr "我沒辦法把它切開。"
+
+msgid "A ${item:ch1.forest_fish}."
+msgstr "一隻 ${item:ch1.forest_fish}。"
+
+msgid "It cost me my whole allowance..."
+msgstr "這花掉了我所有的零用錢..."
+
+msgid "Goodbye, stinky fish."
+msgstr "再見了，臭魚。"
+
+msgid "I bet you tasted nice."
+msgstr "你應該很好吃。"
+
+msgid "...That's all I have..."
+msgstr "...這就是我全部的東西了..."
+
+msgid "...!!"
+msgstr "...！！"
+
+msgid "Did... did I do it!?"
+msgstr "是...是我做的嗎？"
+
+msgid "Wait, this is really dangerous!!"
+msgstr "等等，這樣真的很危險！！"
+
+msgid "What's happening..?"
+msgstr "發生了什麼事...？"
+
+msgid "Everything started falling apart."
+msgstr "一切都開始分崩離析。"
+
+msgid "I managed to take cover in the bathtub for a while until the earthquake stopped."
+msgstr "我在浴缸裡躲了一陣子，直到地震停止。"
+
+msgid "When I opened my eyes, the walls and ceiling had all fallen apart."
+msgstr "當我張開雙眼，牆壁和天花板全都塌下來了。"
+
+msgid "I could only see rubble and tree roots above me, and... a light."
+msgstr "我只能看到瓦礫和樹根在我之上，還有...一道光。"
+
+msgid "What in god's name..."
+msgstr "這到底是什麼..."
+
+msgid "WHAT THE HELL!?"
+msgstr "什麼鬼！？"
+
+msgid "GAH!"
+msgstr "啊！"
+
+msgid "Aoi!"
+msgstr "葵！"
+
+msgid "LACIE!"
+msgstr "萊西！"
+
+msgid "THE TREE..!!"
+msgstr "樹被...！！"
+
+msgid "What the hell did you do?!"
+msgstr "你到底做了什麼？！"
+
+msgid "...Uhh..!"
+msgstr "...呃...！"
+
+msgid "...Um...!"
+msgstr "...嗯...！"
+
+msgid "We were trapped..."
+msgstr "我們被困住了..."
+
+msgid "We were trapped inside the fairy ring!"
+msgstr "我們被困在妖精環裡了！"
+
+msgid "It was the only way to get out!"
+msgstr "這是唯一逃走的方法！"
+
+msgid "THE FAIRY RING HAS A SIGNPOST."
+msgstr "*妖精環有個標示牌*。"
+
+msgid "IT LITERALLY SAYS \"DO NOT STEP INSIDE\" or something."
+msgstr "*上面寫了\"不要踩進來\"*之類的。"
+
+msgid "Alba."
+msgstr "阿爾巴。"
+
+msgid "I know.. I..."
+msgstr "我知道...我..."
+
+msgid "But..!"
+msgstr "但是...！"
+
+msgid "Your fish is what saved us!!"
+msgstr "是妳的魚救了我們！！"
+
+msgid "My... fish?"
+msgstr "我的...魚？"
+
+msgid "Yeah! There was another ring..."
+msgstr "對！裡面有另一個環..."
+
+msgid "So I threw the fish inside, and...!"
+msgstr "然後我把魚丟進去，然後...！"
+
+msgid "You trashed... my fish?"
+msgstr "你丟了...我的魚？"
+
+msgid "...I'm sorry! It was only one!"
+msgstr "...我很抱歉！只有一隻！"
+
+msgid "And like... a bunch more... that I found on the floor down there."
+msgstr "還有...更多...在底下發現的。"
+
+msgid "...But those were probably someone else's fish..."
+msgstr "...但是那些應該是別人的魚..."
+
+msgid "...Actually..."
+msgstr "...其實..."
+
+msgid "Nothing, never mind."
+msgstr "沒事，當我沒說。"
+
+msgid "Milion, I know."
+msgstr "米里昂，我知道。"
+
+msgid "I'm fine."
+msgstr "我很好。"
+
+msgid "And who the hell are you anyway?"
+msgstr "妳又是哪位？"
+
+msgid "You smell like a human."
+msgstr "妳聞起來像人類。"
+
+msgid "I'm surprised I didn't notice it before."
+msgstr "我很驚訝我之前沒注意到。"
+
+msgid "Hmm... it's faint... but it's there."
+msgstr "嗯...很微弱...但是有味道。"
+
+msgid "No, she's my coworker!"
+msgstr "不，她是我的同事！"
+
+msgid "Coworker?"
+msgstr "同事？"
+
+msgid "Yeah yeah."
+msgstr "對，對。"
+
+msgid "With... um..."
+msgstr "跟...嗯..."
+
+msgid "Wendy."
+msgstr "溫蒂。"
+
+msgid "If you're hiding a human, I'll kill the both of you."
+msgstr "如果你在藏匿人類，我會殺了你們兩個。"
+
+msgid "W-we deal with humans sometimes... that's probably the smell you feel."
+msgstr "我-我們有的時候會跟人類接觸...大概是你聞到的味道。"
+
+msgid "You're lying. You think I'm stupid?"
+msgstr "你在說謊。你當我白癡嗎？"
+
+msgid "(But... if they're telling the truth and I kill them...)"
+msgstr "(但是...如果他們說的是真的，而我殺了他們...)"
+
+msgid "(Wendy will literally cook me alive.)"
+msgstr "(溫蒂真的會把我活活煮死。)"
+
+msgid "Look, I'll close my eyes to this."
+msgstr "聽著，我會睜一隻眼閉一隻眼。"
+
+msgid "But get out of the forest. Both of you!"
+msgstr "但是離開這森林。你們兩個都要！"
+
+msgid "Seriously."
+msgstr "我是認真的。"
+
+msgid "Look at this shit."
+msgstr "看看這鬼東西。"
+
+msgid "What...?"
+msgstr "什麼...？"
+
+msgid "I really shouldn't look into the mirror at night, should I..."
+msgstr "我真的不該在晚上看向鏡子，是吧..."
+
+msgid "I'm carrying too many things around..."
+msgstr "我帶了太多東西了..."
+
+msgid "(You got rid of some items.)"
+msgstr "(妳丟下一些物品。)"
+
+msgid "Sorry, give me a second..."
+msgstr "抱歉，等我一下..."
+
+msgid "Do you think you can handle this?"
+msgstr "你覺得你可以應付它嗎？"
+
+msgid "Easy peasy."
+msgstr "太簡單了。"
+
+msgid "Where am I...?"
+msgstr "我在哪...？"
+
+msgid "There's a piece of paper on the floor."
+msgstr "地上有一張紙。"
+
+msgid "It's titled [color=#CD5C5C]SIXTH BLESSING[/color]."
+msgstr "標題是[color=#CD5C5C]第六個祝福[/color]。"
+
+msgid "Do you want to read it?"
+msgstr "是否閱讀？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "You took everything from me..."
+msgstr "你從我手中奪走了一切..."
+
+msgid "...I never wanted your blessings...."
+msgstr "...我從不想要你的祝福..."
+
+msgid "For all the horrors you caused me, and for daring to set foot into MY WORLD-"
+msgstr "為了你對我造成的所有恐懼，以及膽敢踏進*我的世界*-"
+
+msgid "I WILL END YOU!"
+msgstr "我會毀了你！"
+
+msgid "AAAAHH GET OUT"
+msgstr "啊啊啊滾出去"
+
+msgid "GETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUT"
+msgstr "滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去滾出去"
+
+msgid "The [color=#90EE90]first[/color] blessing..."
+msgstr "[color=#90EE90]第一個[/color]祝福..."
+
+msgid "\"What I [color=#CD5C5C]saw[/color] in the [color=#CD5C5C]mirror[/color] was uglier than I had hoped.\""
+msgstr "\"我在[color=#CD5C5C]鏡子[/color]裡[color=#CD5C5C]看到[/color]的比我希望的還要醜陋。\""
+
+msgid "The [color=#90EE90]second[/color] blessing..."
+msgstr "[color=#90EE90]第二個[/color]祝福..."
+
+msgid "\"You always said you wanted to try [color=#CD5C5C]watercolor![/color] I believe in you!\""
+msgstr "\"妳總是說妳想要試試[color=#CD5C5C]水彩！[/color]我相信妳！\""
+
+msgid "The [color=#90EE90]third[/color] blessing..."
+msgstr "[color=#90EE90]第三個[/color]祝福..."
+
+msgid "\"[color=#CD5C5C]Water[/color] provides the best healing.\""
+msgstr "\"[color=#CD5C5C]水[/color]是最好的療癒劑。\""
+
+msgid "The [color=#90EE90]fourth[/color] blessing..."
+msgstr "[color=#90EE90]第四個[/color]祝福..."
+
+msgid "\"Y-you... what did you do to his [color=#CD5C5C]leg[/color]?!?\""
+msgstr "\"妳-妳...對他的[color=#CD5C5C]腿[/color]做了什麼？！？\""
+
+msgid "The [color=#90EE90]fifth[/color] blessing..."
+msgstr "[color=#90EE90]第五個[/color]祝福..."
+
+msgid "\"There are so many things a knife can [color=#CD5C5C]cut[/color] through.\""
+msgstr "\"有很多東西可以被刀子[color=#CD5C5C]割[/color]開。\""
+
+msgid "I was tied up in front of the whole village, where Iris' father gave a speech."
+msgstr "我被綁在全村的面前，埃芮絲的父親在演說。"
+
+msgid "It was about bringing forth a new era, about cleansing impurities."
+msgstr "是關於開創新時代，關於淨化不潔。"
+
+msgid "About living in peace."
+msgstr "關於平靜的生活。"
+
+msgid "Peace..."
+msgstr "平靜..."
+
+msgid "I thought I already lived in peace."
+msgstr "我以為我早就生活在平靜之中。"
+
+msgid "I thought I could keep living in peace next to..."
+msgstr "我以為我可以繼續過著平靜的生活，就在..."
+
+msgid "...Iris."
+msgstr "...埃芮絲身邊。"
+
+msgid "Was she in that crowd too?"
+msgstr "她也在群眾之中嗎？"
+
+msgid "Was she watching?"
+msgstr "她在看著嗎？"
+
+msgid "Would she cry for me?"
+msgstr "她會為我而哭嗎？"
+
+msgid "It didn't matter anymore."
+msgstr "已經不重要了。"
+
+msgid "I was only a sacrificial pawn in this bigger story."
+msgstr "我只是大局的犧牲品。"
+
+msgid "How did mother feel, standing here?"
+msgstr "媽媽的感覺如何，在這裡站著的時候？"
+
+msgid "Was she relieved to finally be rid of all of this injustice?"
+msgstr "她會為了終於擺脫這一切不公而鬆一口氣嗎？"
+
+msgid "To finally start being at peace?"
+msgstr "為了終於平靜而鬆一口氣嗎？"
+
+msgid "It didn't matter."
+msgstr "不重要。"
+
+msgid "Mother and father were dead."
+msgstr "母親和父親已經死了。"
+
+msgid "And now, this will be over for me too."
+msgstr "而現在，對我來說也要結束了。"
+
+msgid "The monster standing before me finished his speech."
+msgstr "站在我面前的怪物演講完畢。"
+
+msgid "The crowd was cheering. They seemed to agree with his preach."
+msgstr "群眾在歡呼。他們似乎認同他的演講。"
+
+msgid "He lit the firewood, and the heat was slowly embracing me."
+msgstr "他燃起柴火，接著熱能開始慢慢擁抱我。"
+
+msgid "For a moment, it almost felt comforting."
+msgstr "有一刻，我感覺很安心。"
+
+msgid "But that moment was brief."
+msgstr "但是那一刻很短暫。"
+
+msgid "When the fire reached my legs, the pain became unbearable."
+msgstr "當火燒到我的腿時，痛苦變得無法承受。"
+
+msgid "The crowd's cheers were slowly drowned out by my own screams."
+msgstr "群眾的歡呼逐漸被我自己的尖叫淹沒。"
+
+msgid "Curse this."
+msgstr "可惡。"
+
+msgid "Curse this!"
+msgstr "可惡！"
+
+msgid "It hurts!"
+msgstr "好痛！"
+
+msgid "Why must I suffer?!"
+msgstr "為什麼我必須受苦？！"
+
+msgid "This isn't fair!"
+msgstr "不公平！"
+
+msgid "Why won't anyone help me?!"
+msgstr "為什麼沒有人願意幫助我？！"
+
+msgid "It hurts so much..."
+msgstr "真的好痛..."
+
+msgid "I hate them..."
+msgstr "我恨他們..."
+
+msgid "I hate them."
+msgstr "我恨他們。"
+
+msgid "How could they cheer for this?!"
+msgstr "為什麼他們在歡呼？！"
+
+msgid "How could they be so cruel?!"
+msgstr "為什麼他們這麼殘酷？！"
+
+msgid "I wish they were all dead."
+msgstr "我希望他們都死光。"
+
+msgid "I wish they would all suffer."
+msgstr "我希望他們會受苦。"
+
+msgid "I heard it once in a dream before."
+msgstr "我曾在夢中聽過。"
+
+msgid "[color=#90EE90]\"Six blessings form a curse.\"[/color]"
+msgstr "[color=#90EE90]\"六個祝福形成詛咒。\"[/color]"
+
+msgid "Was I cursed?"
+msgstr "我被詛咒了嗎？"
+
+msgid "Because... at that moment..."
+msgstr "因為...那一刻..."
+
+msgid "I received my [color=#CD5C5C]sixth blessing[/color]."
+msgstr "我收到了[color=#CD5C5C]第六個祝福[/color]。"
+
+msgid "The fire spread incredibly fast, in all directions."
+msgstr "火勢蔓延得很快，朝向四面八方。"
+
+msgid "And the flames that had reached my thighs died out."
+msgstr "而燒到我大腿的火焰已經熄滅了。"
+
+msgid "Instead, the fire spread all around me."
+msgstr "取而代之的是，火勢蔓延到我全身。"
+
+msgid "Everyone was screaming, terrified."
+msgstr "所有人都在尖叫，害怕。"
+
+msgid "Everyone was burning."
+msgstr "所有人都在燃燒。"
+
+msgid "What happened? Where's Iris!?"
+msgstr "怎麼回事？埃芮絲呢！？"
+
+msgid "I used the knife she gave me to untie myself. It cut easily."
+msgstr "我用她給我的刀子幫自己鬆綁。一下就割開了。"
+
+msgid "I tried walking but I couldn't even stand."
+msgstr "我試著行走但是無法站立。"
+
+msgid "My legs hurt... They hurt so bad..."
+msgstr "我的腿好痛...真的好痛..."
+
+msgid "I looked around but only saw fire."
+msgstr "我環顧四週但是只看到火。"
+
+msgid "People were trying to run but there was no escape."
+msgstr "人們試著逃跑但是無處可逃。"
+
+msgid "The floor, the houses... Everything was on fire."
+msgstr "地上、房子...一切都著火了。"
+
+msgid "The whole village was covered in a thick smoke."
+msgstr "整個村莊籠罩在濃厚的煙霧中。"
+
+msgid "The only place the fire didn't reach was the ground I stood on."
+msgstr "火勢唯一沒有到達的地方是我所站之處。"
+
+msgid "I can't move... But I need to make sure Iris is okay."
+msgstr "我無法移動...但是我必須確定埃芮絲沒事。"
+
+msgid "Huh?"
+msgstr "蛤？"
+
+msgid "Make sure Iris is okay..?"
+msgstr "確定埃芮絲沒事...？"
+
+msgid "Why should I..."
+msgstr "為什麼我要..."
+
+msgid "It's all going to hell anyway."
+msgstr "反正一切都要下地獄了。"
+
+msgid "I sat on the floor holding the knife."
+msgstr "我坐在地上，握著刀子。"
+
+msgid "My miracle..."
+msgstr "我的奇蹟..."
+
+msgid "Is this what came of my miracle?"
+msgstr "這就是我的奇蹟造成嗎？"
+
+msgid "I never asked for this."
+msgstr "我從來不想要這樣。"
+
+msgid "All of this misfortune... It all started after I got my eyesight back."
+msgstr "這一切的不幸...都是從我恢復視力開始的。"
+
+msgid "What are these eyes?"
+msgstr "這眼睛是什麼？"
+
+msgid "I don't recognize them."
+msgstr "我不認得它。"
+
+msgid "I don't want them."
+msgstr "我不想要它。"
+
+msgid "I never wanted them. Not like this."
+msgstr "我從來不想要它。不要像是這樣。"
+
+msgid "YOU CAN HAVE THEM BACK!!"
+msgstr "你可以把它拿回去！！"
+
+msgid "DO YOU HEAR ME?!"
+msgstr "聽到了嗎？！"
+
+msgid "These are not... my eyes!"
+msgstr "這不是...我的眼睛！"
+
+msgid "I stabbed and stabbed. I was determined to remove them."
+msgstr "我刺了又刺。我決心要把它拿掉。"
+
+msgid "After all, if I removed them, things could go back to normal."
+msgstr "畢竟，只要拿掉它，一切就會回歸正常。"
+
+msgid "I could do my chores as usual."
+msgstr "我可以像平常一樣做家事。"
+
+msgid "I could care for mother."
+msgstr "我可以照顧母親。"
+
+msgid "I could spend my days with Iris..."
+msgstr "我可以跟埃芮絲一起度過每一天..."
+
+msgid "It felt so good. It felt so relieving."
+msgstr "感覺很好。感覺很放鬆。"
+
+msgid "I stabbed until I stopped seeing."
+msgstr "我一直刺，直到我看不到。"
+
+msgid "Until I stopped worrying."
+msgstr "直到我停止擔心。"
+
+msgid "Until I stopped feeling."
+msgstr "直到我停止感受。"
+
+msgid "Until I stopped moving."
+msgstr "直到我停止移動。"
+
+msgid "I think in my final moments, I laughed."
+msgstr "我在最後一刻想著，我笑了。"
+
+msgid "I laughed at how my life turned out."
+msgstr "我笑著我的人生變成了這樣。"
+
+msgid "Six blessings form a curse."
+msgstr "六個祝福形成詛咒。"
+
+msgid "Yes..."
+msgstr "是啊..."
+
+msgid "Because \"cursed\" is the only way I can describe this pathetic life."
+msgstr "因為唯一可以形容這可悲人生的就是\"詛咒\"。"
+
+msgid "I'm out of my cage...?"
+msgstr "我離開籠子了...？"
+
+msgid "(He's still trapped though...)"
+msgstr "(可是他還是被困住...)"
+
+msgid "...Oh? All my items are gone...?"
+msgstr "...喔？我的東西都不見了...？"
+
+msgid "Without that doorknob... I can't go back home!"
+msgstr "沒了門把...我就沒辦法回家！"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "這個幻象現在應該破滅了，不是嗎？"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "真可惜，我開始喜歡這個地方了。"
+
+msgid "Fire..."
+msgstr "火..."
+
+msgid "Lilith... again..."
+msgstr "莉莉絲...又來了..."
+
+msgid "How? But how? How?"
+msgstr "怎麼會？怎麼可能？怎麼會？"
+
+msgid "....No no no no......."
+msgstr "...不不不不......."
+
+msgid "No more."
+msgstr "不要啊。"
+
+msgid "DIE."
+msgstr "*死吧*。"
+
+msgid "Hang on a sec."
+msgstr "等等。"
+
+msgid "Over here."
+msgstr "在這裡。"
+
+msgid "This place is strange."
+msgstr "這地方真奇怪。"
+
+msgid "What tipped you off? The hallway filled with creepy faces?"
+msgstr "妳怎麼會這麼想？是因為走廊上充滿了詭異的臉嗎？"
+
+msgid "No?!"
+msgstr "不是？！"
+
+msgid "I mean... yes, but..."
+msgstr "我的意思是...沒錯，但是..."
+
+msgid "Don't you feel like this place is strangely cozy?"
+msgstr "你不覺得這地方有種奇怪的溫馨感嗎？"
+
+msgid "It's almost like it's decorated with care."
+msgstr "感覺就像是經過精心裝飾過的。"
+
+msgid "NOW it's cozy."
+msgstr "現在這才叫溫馨了。"
+
+msgid "What are you doing?"
+msgstr "你在做什麼？"
+
+msgid "We can probably relax here for a while."
+msgstr "我們應該可以在這裡放鬆一下。"
+
+msgid "It feels like a bad idea to relax in someone else's home."
+msgstr "感覺在別人家放鬆是個壞主意。"
+
+msgid "If we're quiet enough, they'll never know."
+msgstr "如果我們夠安靜，他們就不會知道。"
+
+msgid "Besides, aren't you tired?"
+msgstr "再說，妳不累嗎？"
+
+msgid "We deserve a break anyway."
+msgstr "無論如何，我們都該休息。"
+
+msgid "You're right that this place has a \"creepy but cute\" vibe to it."
+msgstr "你說得對，這地方有種\"詭異但可愛\"的氣氛。"
+
+msgid "The fireplace is... cute."
+msgstr "這火爐很...可愛。"
+
+msgid "The fire is nice."
+msgstr "這火還不錯。"
+
+msgid "That's a weird thing to say."
+msgstr "這麼說真奇怪。"
+
+msgid "Are you into burning things?"
+msgstr "妳喜歡燒東西嗎？"
+
+msgid "What? No!"
+msgstr "什麼？才沒有！"
+
+msgid "I just meant that it feels peaceful here."
+msgstr "我只是想說這裡感覺很平靜。"
+
+msgid "I'm not very good at conversations."
+msgstr "我不是很擅長溝通。"
+
+msgid "You're fine."
+msgstr "妳還好。"
+
+msgid "So, what's got you doing deadly rituals?"
+msgstr "那麼，妳為什麼要進行致命的儀式？"
+
+msgid "Well, normally people who come here either have nothing to lose in their life anymore..."
+msgstr "好吧，通常來到這裡的人不是已經沒有什麼可失去的..."
+
+msgid "..or they're just plain dumb and reckless."
+msgstr "...不然就是他們單純愚蠢又魯莽。"
+
+msgid "Which one are you?"
+msgstr "妳是哪種？"
+
+msgid "Dumb, probably."
+msgstr "愚蠢，應該吧。"
+
+msgid "Hmm."
+msgstr "嗯。"
+
+msgid "So? What's your deal?"
+msgstr "那麼？妳有什麼狀況？"
+
+msgid "You don't have to tell me if you don't wanna."
+msgstr "不想說的話不用告訴我。"
+
+msgid "...but I'll just annoy you until you do."
+msgstr "...但是我會煩到妳說為止。"
+
+msgid "Or until you ditch me."
+msgstr "或是直到妳拋下我。"
+
+msgid "It doesn't make sense to \"ditch\" you yet."
+msgstr "我還沒有理由\"拋下\"你。"
+
+msgid "\"Yet.\""
+msgstr "\"還沒\"。"
+
+msgid "Alright?"
+msgstr "好吧？"
+
+msgid "I suppose I can tell you.... but it's going to get long."
+msgstr "我想我可以告訴你...但是會花很久。"
+
+msgid "I have nothing better to do."
+msgstr "我沒什麼好做的。"
+
+msgid "How should I put this..."
+msgstr "該怎麼開始呢..."
+
+msgid "...There's something very wrong with me."
+msgstr "...我非常地不對勁。"
+
+msgid "But... it sounds ridiculous when I say it out loud."
+msgstr "但是...說出來的話會聽起來很離譜。"
+
+msgid "I'm all ears."
+msgstr "我洗耳恭聽。"
+
+msgid "It's possible I may be... possessed."
+msgstr "我有可能被...附身了。"
+
+msgid "No... I'm definitely either possessed or cursed."
+msgstr "不...我一定是被附身或是詛咒了。"
+
+msgid "It's been like this since I was little."
+msgstr "從我小時候就這樣了。"
+
+msgid "Back then, I used to think I have a black cloud that just follows me everywhere."
+msgstr "過去，我以為有片烏雲無論到哪都會跟著我。"
+
+msgid "It makes people run away from me, it makes them hate me."
+msgstr "它讓人們遠離我，讓他們恨我。"
+
+msgid "They always have this terrifying look when they look at me..."
+msgstr "他們看著我的時候總是表情驚恐..."
+
+msgid "Sometimes it turns into hatred, or anger."
+msgstr "有時候變成憎恨，或是憤怒。"
+
+msgid "With animals it's even worse."
+msgstr "對動物來講，情況更糟。"
+
+msgid "Dogs will bark at me, and I can't even get close enough to pet a cat..."
+msgstr "狗會對我狂吠，而且連貓咪都無法靠近撫摸..."
+
+msgid "Or, today, I tried buying something at the store - and failed horribly."
+msgstr "或是，今天，我試著在商店買些東西 - 然後徹底失敗。"
+
+msgid "I hate that I can't even do something as simple as that."
+msgstr "我討厭我連這麼簡單的事都做不到。"
+
+msgid "It's like... just being around me makes people tense and aggressive."
+msgstr "感覺就像...人們在我身邊變得緊張又有攻擊性。"
+
+msgid "But.. I know for a fact that it wasn't always like this."
+msgstr "但是...我知道不是一直都這樣的。"
+
+msgid "I have memories of my childhood where things were fine."
+msgstr "我記得在我小時候有段時間一切都很好。"
+
+msgid "Something must have changed at some point."
+msgstr "一定是在某個時刻發生了變化。"
+
+msgid "And then, everyone suddenly started acting differently with me."
+msgstr "然後，大家對我的態度突然改變。"
+
+msgid "For a really long time, I thought it was my fault."
+msgstr "有很長的一段時間，我以為是我的錯。"
+
+msgid "I thought that maybe I'm just broken, and different."
+msgstr "我以為也許我只是有毛病、與眾不同。"
+
+msgid "I thought I did something wrong... I thought people had a reason to hate me so much."
+msgstr "我以為我做錯了什麼...我以為人們有個這麼恨我的理由。"
+
+msgid "I know better now... but that doesn't change how it feels."
+msgstr "我現在更了解了...但是並沒有改變我的感受。"
+
+msgid "This... thing inside me... whatever it is..."
+msgstr "在我...體內的東西...不論是什麼..."
+
+msgid "It's isolating me from everyone."
+msgstr "在讓我疏離大家。"
+
+msgid "Even my parents hate being around me."
+msgstr "就連我的父母都討厭和我在一起。"
+
+msgid "They leave the house for weeks at a time, and make excuses if I ask to come along."
+msgstr "他們有時候會離開家裡好幾週，然後在我想要跟著的時候找藉口。"
+
+msgid "My brother is the only one who's there for me every time."
+msgstr "我的哥哥是我唯一能依靠的人。"
+
+msgid "And I know how hard it is for him."
+msgstr "我知道這對他來說有多困難。"
+
+msgid "But somehow he never falters."
+msgstr "但是他仍然從不動搖。"
+
+msgid "Without him I..."
+msgstr "沒有了他，我..."
+
+msgid "I've been trying to get better for so long..."
+msgstr "我一直努力讓自己變好..."
+
+msgid "So this ritual is... well... it's my last hope."
+msgstr "所以這儀式...可以說...是我最後的希望。"
+
+msgid "If I fail to find answers, then I'll probably give up..."
+msgstr "如果我無法找到答案，那麼我應該就會放棄..."
+
+msgid "...on everything."
+msgstr "...所有東西。"
+
+msgid "I can't bear to live like this anymore."
+msgstr "我無法忍受這樣的人生。"
+
+msgid "Still... you should know about this."
+msgstr "不過...你還是應該要知道。"
+
+msgid "You've been around me, don't you feel it?"
+msgstr "你一直在我身邊，沒有感覺嗎？"
+
+msgid "Let me see..."
+msgstr "讓我看看..."
+
+msgid "Yeah, you're right. You've got this weird ominous aura. Feels dangerous."
+msgstr "是啊，沒錯。妳有種奇怪的氣息。感覺很危險。"
+
+msgid "Doesn't bother me."
+msgstr "不過我沒差。"
+
+msgid "Really?"
+msgstr "真的嗎？"
+
+msgid "Nah. I guess I've felt worse."
+msgstr "沒有啦。我感覺更糟糕過。"
+
+msgid "That doesn't make any sense. There must be something wrong with you."
+msgstr "這沒道理啊。你一定有什麼問題。"
+
+msgid "(Is this person... not human?)"
+msgstr "(這個人...不是人類嗎？)"
+
+msgid "Hah! Says the possessed girl!"
+msgstr "哈！聽聽被附身的女孩說的話！"
+
+msgid "Rune said possessions aren't a thing, so it might be a curse."
+msgstr "符石說附身不是真的，所以可能是詛咒。"
+
+msgid "But you don't buy it? So, what, you came here to get exorcised?"
+msgstr "但是妳不相信？那麼，妳是來這裡驅魔的嗎？"
+
+msgid "I've tried that already..."
+msgstr "我已經試過了..."
+
+msgid "I wouldn't have come here unless I exhausted my possibilities beforehand."
+msgstr "如果沒有用盡方法，我是不會來這裡的。"
+
+msgid "Smart."
+msgstr "聰明。"
+
+msgid "No dice then?"
+msgstr "那麼沒辦法囉？"
+
+msgid "Nothing."
+msgstr "沒有。"
+
+msgid "That sucks. Have you tried throwing table salt at yourself?"
+msgstr "真糟糕。妳試過朝自己丟食鹽嗎？"
+
+msgid "I hear it wards off demons. It might get rid of your curse too."
+msgstr "聽說可以驅除惡魔。也有可能消除妳的詛咒。"
+
+msgid "Very funny."
+msgstr "真好笑。"
+
+msgid "You seem to know quite a lot about this place and the rituals."
+msgstr "感覺你很熟這個地方和儀式。"
+
+msgid "Ah, yeah. I did a lot of these rituals to kill time."
+msgstr "啊，是啊。我進行了很多儀式來殺時間。"
+
+msgid "I'm surprised you're not dead yet."
+msgstr "你竟然還沒死。"
+
+msgid "You know what they say, idiots don't die!"
+msgstr "俗話說得好，白癡不會死！"
+
+msgid "I don't think anybody says that."
+msgstr "我不記得任何人說過。"
+
+msgid "Hahaha, maybe you could start saying it then."
+msgstr "哈哈哈，也許妳可以開始這麼說。"
+
+msgid "So, is your curse the reason you're trying to find the lighthouse?"
+msgstr "那麼，妳的詛咒是妳尋找燈塔的原因嗎？"
+
+msgid "Yes... I was told there's someone there who can help guide me."
+msgstr "對...有人跟我說那裡有人可以引導我。"
+
+msgid "Do you hear that?"
+msgstr "妳有聽到嗎？"
+
+msgid "Guests..?"
+msgstr "訪客...？"
+
+msgid "But... Not invited..."
+msgstr "但是...沒受到邀請..."
+
+msgid "I'm.....confused....."
+msgstr "我.....很疑惑....."
+
+msgid "Uh-oh."
+msgstr "呃-喔。"
+
+msgid "Fire?!"
+msgstr "火？！"
+
+msgid "FIRE!"
+msgstr "火！"
+
+msgid "MAKE IT STOP!"
+msgstr "快撲滅！"
+
+msgid "Hm..?.... A smell......"
+msgstr "嗯...？...有個味道......"
+
+msgid "...Lilith?...No...."
+msgstr "...莉莉絲？...不..."
+
+msgid "....No...No..."
+msgstr "....不...不..."
+
+msgid "Nonononononono"
+msgstr "不不不不不不不"
+
+msgid "...Not you again..."
+msgstr "...怎麼又是妳..."
+
+msgid "....?"
+msgstr "....？"
+
+msgid "GET OUT"
+msgstr "滾出去"
+
+msgid "GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT"
+msgstr "滾出去滾出去滾出去滾出去滾出去滾出去滾出去"
+
+msgid "Wh-..."
+msgstr "什-..."
+
+msgid "GET OUT."
+msgstr "*滾出去*。"
+
+msgid "How... Why can't you just go away..."
+msgstr "為什麼...妳為什麼不能走開..."
+
+msgid "Every time I try to be at peace..."
+msgstr "每次我試著冷靜下來..."
+
+msgid "YOU RUIN EVERYTHING!!!"
+msgstr "妳就會毀了一切！！！"
+
+msgid "You inspect the object closely..."
+msgstr "妳近距離檢視物品..."
+
+msgid "As you look into it, the mirror regains its colors."
+msgstr "當妳看向它時，鏡子恢復了色彩。"
+
+msgid "Welcome back."
+msgstr "歡迎回來。"
+
+msgid "How long have I been out?"
+msgstr "我睡了多久？"
+
+msgid "14 minutes."
+msgstr "14 分鐘。"
+
+msgid "That's creepy, you shouldn't watch people sleep."
+msgstr "真變態，你不應該看著人睡覺。"
+
+msgid "I actually looked around first! I swear!"
+msgstr "我其實有先四處看看！我發誓！"
+
+msgid "The door is right down this hall, see?"
+msgstr "門就在大廳盡頭，看到了嗎？"
+
+msgid "...I see."
+msgstr "...我知道了。"
+
+msgid "You were pretty crazy back there, y'know?"
+msgstr "妳剛剛滿瘋的，知道嗎？"
+
+msgid "You must be really good at dodging knives."
+msgstr "妳一定很擅長閃避刀子。"
+
+msgid "Thanks."
+msgstr "謝了。"
+
+msgid "You sure you're not a demon yourself?"
+msgstr "妳確定妳不是惡魔化身嗎？"
+
+msgid "It was just a joke, you know...?"
+msgstr "開個玩笑，妳知道的...？"
+
+msgid "I dunno what just happened..."
+msgstr "我不知道發生了什麼事..."
+
+msgid "...but you basically got rid of that demon and freed us right?"
+msgstr "...但是妳基本上擺脫了那惡魔並且讓我們自由，對吧？"
+
+msgid "How?"
+msgstr "怎麼辦到的？"
+
+msgid "It wasn't that hard. Maybe she had bad aim."
+msgstr "沒那麼難。也許她準頭不好。"
+
+msgid "Huh... so humble..."
+msgstr "嗯...真謙虛..."
+
+msgid "But next time don't leave me locked in a cage."
+msgstr "但是下次別把我留在籠子裡。"
+
+msgid "I could've died, you know!?"
+msgstr "我可能會死，妳知道嗎！？"
+
+msgid "My bad."
+msgstr "我的錯。"
+
+msgid "So, is it a dead end?"
+msgstr "那麼，這是死路嗎？"
+
+msgid "Yep."
+msgstr "沒錯。"
+
+msgid "Just as Rune said..."
+msgstr "就跟符石說的一樣..."
+
+msgid "You sound disappointed."
+msgstr "妳聽起來很失望。"
+
+msgid "Don't tell me you're up for more near death experiences."
+msgstr "別跟我說妳想要經歷更多瀕死體驗。"
+
+msgid "I just... haven't solved anything yet."
+msgstr "我只是...還沒有解決任何問題。"
+
+msgid "I didn't find Red, I didn't even find the lighthouse."
+msgstr "我沒有找到瑞德，我甚至連燈塔都沒找到。"
+
+msgid "All of the things I set out to do..."
+msgstr "所有我計畫要做的事..."
+
+msgid "You've got time."
+msgstr "妳還有時間。"
+
+msgid "You're not dead yet."
+msgstr "妳還沒死。"
+
+msgid "That has to count for something, right?"
+msgstr "這代表了些什麼，對吧？"
+
+msgid "I guess there's no helping it."
+msgstr "我想沒什麼辦法了。"
+
+msgid "MAKE IT STOP."
+msgstr "*停下來*。"
+
+msgid "SHUT HIM UP."
+msgstr "*讓他閉嘴*。"
+
+msgid "I can't. I tried everything."
+msgstr "沒辦法。我都試過了。"
+
+msgid "USELESS!"
+msgstr "沒用！"
+
+msgid "AAH I SWEAR I'M GONNA LOSE IT!"
+msgstr "啊我真的要瘋了！"
+
+msgid "Oh good, someone else came."
+msgstr "喔很好，有人來了。"
+
+msgid "Hey blondie, take this stupid piece of shit and throw it in the lake or something."
+msgstr "嘿金髮妞，把這蠢貨丟進湖裡還是什麼的。"
+
+msgid "Squash it. Strangle it. Eat it. I don't care what you do."
+msgstr "壓扁他。勒死他。吃了他。我不管妳要做什麼。"
+
+msgid "Uh... what?"
+msgstr "呃...什麼？"
+
+msgid "Our baby brother here has been crying nonstop for the past few days."
+msgstr "我們的小弟弟這幾天一直哭個不停。"
+
+msgid "Brother?"
+msgstr "弟弟？"
+
+msgid "In the terrarium."
+msgstr "在飼養箱裡。"
+
+msgid "You're all moths?"
+msgstr "你們都是蛾嗎？"
+
+msgid "We won't be for long because this obnoxious brat is going to make me kill myself."
+msgstr "很快就不會是了，因為這個討厭的小鬼讓我想自殺。"
+
+msgid "UGH WILL YOU AT LEAST SHUT THE HELL UP WHILE I'M TALKING!?"
+msgstr "呃我說話的時候你可以閉嘴嗎！？"
+
+msgid "(Is he even saying anything?)"
+msgstr "(他在說話嗎？)"
+
+msgid "Would you be so kind as to kill it for us?"
+msgstr "妳能行行好幫我們殺掉他嗎？"
+
+msgid "Me? Kill the caterpillar?"
+msgstr "我？殺了毛毛蟲？"
+
+msgid "Yes-"
+msgstr "對-"
+
+msgid "YES."
+msgstr "對。"
+
+msgid "Why don't you do it?"
+msgstr "妳們為什麼不自己來？"
+
+msgid "If we kill one of our kind, a curse is planted on us."
+msgstr "如果我們殺死了自己的同類，就會受到詛咒。"
+
+msgid "Please kill him for us. We're willing to reward you with this doorknob."
+msgstr "請為我們殺了他。我們願意把這顆門把當作獎勵。"
+
+msgid "(A doorknob...)"
+msgstr "(一顆門把...)"
+
+msgid "Why won't he just stop, I'm exhausted."
+msgstr "他為什麼不停下來，我好累。"
+
+msgid "(Should I kill the caterpillar?)"
+msgstr "(我應該殺了毛毛蟲嗎？)"
+
+msgid "I'll take care of it."
+msgstr "我會處理。"
+
+msgid "I'm leaving."
+msgstr "我要走了。"
+
+msgid "I'm going to... be somewhere else."
+msgstr "我要去...別的地方。"
+
+msgid "You're LEAVING?!"
+msgstr "妳要走了？！"
+
+msgid "I-"
+msgstr "我-"
+
+msgid "Useless."
+msgstr "沒用。"
+
+msgid "I can dispose of her."
+msgstr "我可以處理掉她。"
+
+msgid "I'm just going to grab something."
+msgstr "我只是要去拿個東西。"
+
+msgid "...Then I'll be back."
+msgstr "...然後我就會回來。"
+
+msgid "(I might still need that doorknob...)"
+msgstr "(我可能還是需要那門把...)"
+
+msgid "Oh. Getting a tool for killing this bugger? I'll allow it."
+msgstr "哦。要拿殺死這個混蛋的工具嗎？我允許。"
+
+msgid "Go on."
+msgstr "去吧。"
+
+msgid "There's no reason to kill it anymore..."
+msgstr "沒有必要殺他了..."
+
+msgid "(They're not picking up...)"
+msgstr "(他們沒有接...)"
+
+msgid "Hi hi, who's this?"
+msgstr "嗨嗨，是誰？"
+
+msgid "Hello mom."
+msgstr "哈囉媽媽。"
+
+msgid "Ah... Lacie, what is it?"
+msgstr "啊...萊西，怎麼了？"
+
+msgid "I was just calling to check on you."
+msgstr "只是想看看你們的狀況。"
+
+msgid "We're very busy. Do you need anything?"
+msgstr "我們很忙。妳需要什麼嗎？"
+
+msgid "Then, I'll call you some other time."
+msgstr "那麼，我改天再打給妳。"
+
+msgid "Hello?"
+msgstr "哈囉？"
+
+msgid "...Hello?"
+msgstr "...哈囉？"
+
+msgid "Oh... it's you."
+msgstr "喔...是妳啊。"
+
+msgid "...Is your mother around?"
+msgstr "...妳的母親在嗎？"
+
+msgid "She isn't. Would you like to leave a message?"
+msgstr "她不在。你要留下訊息嗎？"
+
+msgid "Uh... no. That's alright. Bye."
+msgstr "呃...不用。沒關係。掰掰。"
+
+msgid "...Bye."
+msgstr "...掰掰。"
+
+msgid "(The neighbors still have a hard time talking to me...)"
+msgstr "(鄰居還是不太想跟我說話...)"
+
+msgid "You hear some strange noises on the other side of the line..."
+msgstr "妳聽到電話那頭傳來奇怪的聲音..."
+
+msgid "What will you say?"
+msgstr "妳要說什麼？"
+
+msgid "\"Where is my bus?\""
+msgstr "\"我的公車呢？\""
+
+msgid "\"I need a bus.\""
+msgstr "\"我需要一輛公車。\""
+
+msgid "\"My bus is late.\""
+msgstr "\"我的公車遲到了。\""
+
+msgid "Don't say anything"
+msgstr "什麼都不說"
+
+msgid "..........already there.........."
+msgstr "..........已經到了.........."
+
+msgid "There is no response."
+msgstr "沒有回應。"
+
+msgid "[color=#90EE90]Rainbow potions will increase your endurance permanently.[/color]"
+msgstr "[color=#90EE90]彩虹藥水將永久增加你的耐力。[/color]"
+
+msgid "[color=#90EE90]It is recommended to drink them as soon as possible.[/color]"
+msgstr "[color=#90EE90]建議盡快飲用。[/color]"
+
+msgid "I'm too nervous to do anything else anyways..."
+msgstr "反正我太緊張了，什麼都做不了..."
+
+msgid "Then again, I'm not sure I can actually fall asleep."
+msgstr "話說回來，不確定我是否真的能睡著。"
+
+msgid "I'll just lie down and close my eyes..."
+msgstr "我就躺下閉上眼睛..."
+
+msgid "Aahh... finally!"
+msgstr "啊...終於！"
+
+msgid "Ughh... why is life on such a high difficulty setting..."
+msgstr "呃...為什麼人生的難度設定這麼高..."
+
+msgid "Maybe I'll just nap this day away."
+msgstr "我就把這一天睡掉好了。"
+
+msgid "Nonono what am I saying? I have things to do."
+msgstr "不不不我在說什麼？我還有事情要做。"
+
+msgid "...Especially after today's experience..."
+msgstr "...尤其是在今天的經驗之後..."
+
+msgid "It's clear that there's no other way to move forward."
+msgstr "很顯然的，沒有其他方法可以繼續前進。"
+
+msgid "Sigh..."
+msgstr "唉..."
+
+msgid "Alright, let's not waste time."
+msgstr "好吧，別浪費時間了。"
+
+msgid "This letter... is the real deal isn't it?"
+msgstr "這信件...是真貨吧？"
+
+msgid "Just holding it makes me nervous."
+msgstr "光是拿著它就讓我緊張。"
+
+msgid "I still can't believe it actually arrived..."
+msgstr "我還是不敢相信真的送到了..."
+
+msgid "On the forums, some people waited for months and it never came."
+msgstr "在論壇上，有些人等了幾個月，但始終沒有到來。"
+
+msgid "But for me, it only took a day..."
+msgstr "但是對我來說，只花了一天..."
+
+msgid "This isn't my first ritual but..."
+msgstr "這不是我的第一次儀式但是..."
+
+msgid "It's my first time getting intentionally spirited away."
+msgstr "這是我第一次故意被帶走。"
+
+msgid "Anyways... I need to tie a red thing to the phone, paint some symbol at the front door, then go to sleep."
+msgstr "總之...我需要在電話上綁上紅色的東西，在前門畫上符號，然後去睡覺。"
+
+msgid "Sounds simple enough."
+msgstr "聽起來夠簡單。"
+
+msgid "For the phone, I could use a ribbon, or a thread, or anything similar that's red."
+msgstr "電話的話，我可以用緞帶，或是絲線，或是紅色的類似物品。"
+
+msgid "For the front door... a marker? Or do I need to use real paint?"
+msgstr "前門的話...要用奇異筆？還是我需要用真正的顏料？"
+
+msgid "And... I need to finish it all before the sun sets."
+msgstr "還有...我必須在日落前完成所有的工作。"
+
+msgid "Maybe it won't be that simple after all."
+msgstr "也許沒那麼簡單。"
+
+msgid "I'm so sick of this dream."
+msgstr "我好討厭這夢境。"
+
+msgid "It's time, right?"
+msgstr "時間到了，對吧？"
+
+msgid "Anyways... Once I'm ready to go, I just need to call that number."
+msgstr "總之...一旦我準備好出發，我只需要撥那個號碼。"
+
+msgid "This thing is pretty slow, huh?"
+msgstr "這東西滿慢的吧？"
+
+msgid "What do you think we'll find down there?"
+msgstr "你以為我們會在那裡找到什麼？"
+
+msgid "I don't know..."
+msgstr "我不知道..."
+
+msgid "I'd say it's not smart to go even deeper..."
+msgstr "我覺得再更深入不太理智..."
+
+msgid "But what do I know."
+msgstr "但我懂什麼。"
+
+msgid "It's not like we have a choice."
+msgstr "我們沒什麼選擇。"
+
+msgid "And coming here in the first place wasn't smart already so..."
+msgstr "首先來到這裡就已經不太理智了，所以..."
+
+msgid "Oww..."
+msgstr "噢..."
+
+msgid "(There's someone there!)"
+msgstr "(那裡有人！)"
+
+msgid "(Wait... I have something for this situation!)"
+msgstr "(等等...我有個東西很適合這種情況！)"
+
+msgid "Did you just throw salt in my face?"
+msgstr "妳剛剛是朝我臉上丟鹽巴嗎？"
+
+msgid "Y-yes."
+msgstr "對-對。"
+
+msgid "Uh... why?"
+msgstr "呃...為什麼？"
+
+msgid "I thought you were a demon."
+msgstr "我以為你是惡魔。"
+
+msgid "And, if I was a demon, you think table salt would have stopped me?"
+msgstr "而且，如果我是惡魔，妳認為食鹽可以阻止我嗎？"
+
+msgid "I- ...I didn't have any holy salt."
+msgstr "我-...我沒有任何聖鹽..."
+
+msgid "That's ridiculous. Salt has no effect."
+msgstr "太離譜了。鹽巴沒有效果。"
+
+msgid "I read it somewhere..."
+msgstr "我讀到過..."
+
+msgid "This is the funniest shit that happened all week."
+msgstr "這是整週發生過最好笑的事。"
+
+msgid "Sorry, sorry!"
+msgstr "抱歉，抱歉！"
+
+msgid "I'm Sai."
+msgstr "我是賽伊。"
+
+msgid "What brings you to a place like this?"
+msgstr "妳怎麼會來這種地方？"
+
+msgid "Oh! I see I see."
+msgstr "喔！懂了懂了。"
+
+msgid "Wow, really?"
+msgstr "哇，真的嗎？"
+
+msgid "Who are you talking to... I didn't say anything."
+msgstr "你在跟誰說話...我什麼都沒說。"
+
+msgid "I know, it's a joke."
+msgstr "我知道，只是在開玩笑。"
+
+msgid "Just... filling the silence."
+msgstr "只是在...填補沉默。"
+
+msgid "You're not really talkative huh?"
+msgstr "妳真的不太多話呢？"
+
+msgid "No... not really."
+msgstr "是...沒那麼多話。"
+
+msgid "W-wha-"
+msgstr "什-什-"
+
+msgid "Wait! You're just leaving?"
+msgstr "等等！妳要走了嗎？"
+
+msgid "That's not where the exit is."
+msgstr "那裡不是出口。"
+
+msgid "Why don't we-"
+msgstr "我們何不-"
+
+msgid "On second thought, that direction's good, go go go!"
+msgstr "轉念一想，這個方向不錯，出發吧！"
+
+msgid "You don't want to run into that thing."
+msgstr "妳可不想碰上那東西。"
+
+msgid "Better hide here."
+msgstr "最好躲在這裡。"
+
+msgid "(This place looks worse than just staying out there ...!)"
+msgstr "(這裡感覺比待在外面更糟...！)"
+
+msgid "Holy crap, this room is worse than just staying in the hallway."
+msgstr "天哪，這房間比待在走廊還糟糕。"
+
+msgid "You dropped something."
+msgstr "妳掉了東西。"
+
+msgid "To-do list before you... die?"
+msgstr "...死前的待辦清單？"
+
+msgid "Please give it back."
+msgstr "請還給我。"
+
+msgid "You didn't complete it."
+msgstr "妳還沒完成它。"
+
+msgid "I know."
+msgstr "我知道。"
+
+msgid "Why do you... erm..."
+msgstr "妳為什麼...嗯..."
+
+msgid "I mean, that list looks pretty depressing."
+msgstr "我的意思是，這清單滿讓人沮喪的。"
+
+msgid "I'm aware."
+msgstr "我有注意到。"
+
+msgid "Do you wanna talk about it?"
+msgstr "妳想要談談它嗎？"
+
+msgid "Got it."
+msgstr "知道了。"
+
+msgid "A garden with a single door in the middle..."
+msgstr "中間有著一扇門的花園..."
+
+msgid "This is it."
+msgstr "就是這了。"
+
+msgid "I just need to make a lily and place it in the vase, right?"
+msgstr "我只需要製作一朵百合並把它放在花瓶中，對吧？"
+
+msgid "Hey um..."
+msgstr "嘿嗯..."
+
+msgid "Before that..."
+msgstr "在那之前..."
+
+msgid "...I wanted to talk to you about something."
+msgstr "...我想要跟你說件事。"
+
+msgid "It's about that list."
+msgstr "是關於那個清單的。"
+
+msgid "What list?"
+msgstr "什麼清單？"
+
+msgid "Your to-do list? ...Before you die?"
+msgstr "妳的待辦清單？...在妳死前的那張？"
+
+msgid "Oh... that."
+msgstr "喔...那個啊。"
+
+msgid "I was thinking about it."
+msgstr "我剛剛在想。"
+
+msgid "Why don't you make a new list?"
+msgstr "妳何不弄個新的清單？"
+
+msgid "Instead of a list of things to do before you die..."
+msgstr "不是死前要做的事的清單..."
+
+msgid "Why don't you make a list of things to do once you get fixed?"
+msgstr "為什麼不做個妳恢復正常後要做的事的清單？"
+
+msgid "Starting with treating me to that flan you like."
+msgstr "從請我吃妳喜歡的焦糖布丁開始。"
+
+msgid "Starting with treating me to some macarons?"
+msgstr "從請我吃馬卡龍開始？"
+
+msgid "Starting with treating me to an eclair maybe?"
+msgstr "也許是從請我吃一顆閃電泡芙開始？"
+
+msgid "That way you'll have something to look forward to."
+msgstr "那樣妳就有能夠期待的事情了。"
+
+msgid "I'm not sure what to say in a situation like this."
+msgstr "我不知道在這種情況下該說什麼。"
+
+msgid "You don't need to say anything."
+msgstr "妳什麼都不用說。"
+
+msgid "I just think it would suck if you gave up."
+msgstr "我只是覺得妳放棄的話就太可惜了。"
+
+msgid "Why?"
+msgstr "為什麼？"
+
+msgid "Why!?"
+msgstr "為什麼！？"
+
+msgid "Well, because... I don't know."
+msgstr "那個，因為...我不知道。"
+
+msgid "Today was fun."
+msgstr "今天很有趣。"
+
+msgid "Fun...?"
+msgstr "有趣...？"
+
+msgid "Yeah! Everything was really exciting, don't you think?"
+msgstr "對啊！一切都令人興奮，妳不這麼想嗎？"
+
+msgid "We almost died..."
+msgstr "我們差點死掉..."
+
+msgid "Yeah!"
+msgstr "對啊！"
+
+msgid "...A lot."
+msgstr "...很多次。"
+
+msgid "Yeah, but, we made it, didn't we?"
+msgstr "對啊，但是，我們辦到了，不是嗎？"
+
+msgid "I guess that's true."
+msgstr "我想沒錯。"
+
+msgid "Anyways, let's hurry. It's not good to stay in this room for too long."
+msgstr "總之，我們快點吧。在這房間待太久可不好。"
+
+msgid "I left the browser open on some forums..."
+msgstr "瀏覽器之前被我開在某個論壇上..."
+
+msgid "Check out the forums?"
+msgstr "看看論壇嗎？"
+
+msgid "\"Devil's Eye Forums\""
+msgstr "\"魔鬼之眼論壇\""
+
+msgid "\"how 2 get letter??\" - 2 months ago"
+msgstr "\"怎摸拿到信件？？\" - 2 個月前"
+
+msgid "\"Breaking the Rules?\" - 7 months ago"
+msgstr "\"打破規則？\" - 7 個月前"
+
+msgid "\"Whats with the weird ads\" - 11 months ago"
+msgstr "\"這些奇怪的廣告是怎樣\" - 11 個月前"
+
+msgid "\"Tips on bus ritual\" - 11 months ago"
+msgstr "\"公車儀式的訣竅\" - 11 個月前"
+
+msgid "\"Where does the bus go\" - 2 years ago"
+msgstr "\"公車會開去哪\" - 2 年前"
+
+msgid "Exit"
+msgstr "離開"
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"i wanna try a ritual but idk how to get the letter. help?"
+msgstr ""
+"[color=green]letterpls1, 2 個月前[/color]\n"
+"我想要試試儀式但我不知怎麼拿到信件。幫幫忙？"
+
+msgid ""
+"[color=green]helpfulM0D, 2 months ago[/color]\n"
+"Read the sticky, you need to send a letter with just your name in it. If you're chosen you'll get a golden envelope at some point."
+msgstr ""
+"[color=green]helpfulM0D, 2 個月前[/color]\n"
+"去讀置頂，你需要寄出一封只有自己名字的信。如果你被選中的話就會得到金色的信封。"
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"i dont get it, is it like my full name? nothing else?? whats the address i mail it to"
+msgstr ""
+"[color=green]letterpls1, 2 個月前[/color]\n"
+"我不懂，是要我的全名嗎？其他都不用？？我要寄去哪裡"
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"also does it need a stamp"
+msgstr ""
+"[color=green]letterpls1, 2 個月前[/color]\n"
+"還有需要郵票嗎"
+
+msgid ""
+"[color=green]letterpls1, 29 days ago[/color]\n"
+"nobody's helping me, you all suck"
+msgstr ""
+"[color=green]letterpls1, 29 天前[/color]\n"
+"沒人幫我，你們好爛"
+
+msgid ""
+"[color=green]helpfulM0D, 29 days ago[/color]\n"
+"Again, the information you need is in the sticky. Read the rules next time, there's a search button for a reason."
+msgstr ""
+"[color=green]helpfulM0D, 29 天前[/color]\n"
+"再說一次，你需要的資訊在置頂。再讀一次規則，搜尋按鈕是有用處的。"
+
+msgid "[color=red]***POST HAS BEEN LOCKED***[/color]"
+msgstr "[color=red]***貼文已被鎖定***[/color]"
+
+msgid ""
+"[color=green]xXOccultfanXx, 7 months ago[/color]\n"
+"your wrong. If smt is in the ritual rules, you gotta respect it or else your toast."
+msgstr ""
+"[color=green]xXOccultfanXx, 7 個月前[/color]\n"
+"不隊。如果儀式規則中有這規定，你就必須尊重它，否則你就死定了。"
+
+msgid ""
+"[color=green]Kasaju_86, 7 months ago[/color]\n"
+"Have you ever even DONE a ritual?? I'm offering legitimate advice from people who actually survived them."
+msgstr ""
+"[color=green]Kasaju_86, 7 個月前[/color]\n"
+"你是有*進行*過儀式嗎？？我的建議出自真的活過儀式的人們。"
+
+msgid "Please stop spreading misinformation, you're risking people's lives. Also it's \"you're\", are you five?"
+msgstr "請不要再散佈錯誤訊息了，你是在害人。還有是\"不對\"，你小學沒畢業嗎？"
+
+msgid ""
+"[color=green]xXOccultfanXx, 7 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] just bc you've been on this website for longer, doesn't mean you gotta be an entitled a**. Some of us are just trying to have fun here."
+msgstr ""
+"[color=green]xXOccultfanXx, 7 個月前[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] 你在這個網站上比較久不代表你可以當個自以為是的**。我們有些人只是來這裡娛樂的。"
+
+msgid ""
+"[color=green]Kasaju_86, 7 months ago[/color]\n"
+"You're right. I don't know why I bothered. Have fun with your ritual~~~!"
+msgstr ""
+"[color=green]Kasaju_86, 7 個月前[/color]\n"
+"你說得對。不知道我幹嘛幫你。祝你儀式愉快~~~！"
+
+msgid "People are always bickering on forums."
+msgstr "人們總是在論壇上爭吵。"
+
+msgid ""
+"[color=green]pklurkerx, 11 months ago[/color]\n"
+"Any tips for the bus ritual? I started it the other day but I couldn't go through with it. After I finished the preps it felt too real. Still wanna try at some point tho!"
+msgstr ""
+"[color=green]pklurkerx, 11 個月前[/color]\n"
+"公車儀式有什麼訣竅嗎？我幾天前開始但是沒辦法完成它。當我完成準備工作後感覺太真實了。但還是想之後試試！"
+
+msgid ""
+"[color=green]Tomas_B, 11 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] might have some ideas."
+msgstr ""
+"[color=green]Tomas_B, 11 個月前[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] 可能有些想法。"
+
+msgid ""
+"[color=green]pklurkerx, 11 months ago[/color]\n"
+"Thx!"
+msgstr ""
+"[color=green]pklurkerx, 11 個月前[/color]\n"
+"謝了！"
+
+msgid ""
+"[color=green]Kasaju_86, 10 months ago[/color]\n"
+"[u][color=teal]@pklurkerx[/color][/u] if you're unsure about going through with a ritual, it might be best to pass on it."
+msgstr ""
+"[color=green]Kasaju_86, 10 個月前[/color]\n"
+"[u][color=teal]@pklurkerx[/color][/u] 如果你不確定要不要完成儀式，那麼最好別做。"
+
+msgid "However curiosity is a powerful enemy, so I'll say this: Get off the bus before the end of the line, no matter what."
+msgstr "然而好奇心是個強大的敵人，所以我會說：在終點前下公車，無論如何都要。"
+
+msgid ""
+"[color=green]Tomas_B, 10 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] whats at the end of the line? O,O"
+msgstr ""
+"[color=green]Tomas_B, 10 個月前[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] 終點有什麼啊？ O,O"
+
+msgid ""
+"[color=green]Kasaju_86, 10 months ago[/color]\n"
+"Who can say."
+msgstr ""
+"[color=green]Kasaju_86, 10 個月前[/color]\n"
+"誰知道呢。"
+
+msgid ""
+"[color=green]pklurkerx, 10 months ago[/color]\n"
+"Thx [u][color=teal]@Kasaju_86[/color][/u]! Actually someone dared me to try a ritual so I wanted to show them I can, but I'll think about it. Better safe than sorry."
+msgstr ""
+"[color=green]pklurkerx, 10 months ago[/color]\n"
+"謝謝 [u][color=teal]@Kasaju_86[/color][/u]！其實是有人打賭我不敢嘗試儀式，所以我想要證明我可以，但是我要再想想。安全為上。"
+
+msgid ""
+"[color=green]ShibaShiba, 2 years ago[/color]\n"
+"Has anyone ever tried the bus ritual? Where does it take you? Is it safe?"
+msgstr ""
+"[color=green]ShibaShiba, 2 年前[/color]\n"
+"有人試過公車儀式嗎？會被帶到哪？安全嗎？"
+
+msgid ""
+"[color=green]heartshapedfish3, 2 years ago[/color]\n"
+"to your deathbed"
+msgstr ""
+"[color=green]heartshapedfish3, 2 年前[/color]\n"
+"帶到你的死期"
+
+msgid ""
+"[color=green]_Headphoneboy69, 2 years ago[/color]\n"
+"If you're looking for safe rituals, you're in the wrong place."
+msgstr ""
+"[color=green]_Headphoneboy69, 2 年前[/color]\n"
+"如果你在找安全的儀式，你就來錯地方了。"
+
+msgid ""
+"[color=green]ShibaShiba, 2 years ago[/color]\n"
+"Okay I think I'll just try it, yolo lol"
+msgstr ""
+"[color=green]ShibaShiba, 2 年前[/color]\n"
+"好吧那我就試試看囉，人生苦短哈哈"
+
+msgid ""
+"[color=green]catsuwu, 2 years ago[/color]\n"
+"Good luck! Let us know how it goes!"
+msgstr ""
+"[color=green]catsuwu, 2 年前[/color]\n"
+"祝你好運！讓我們知道結果！"
+
+msgid ""
+"[color=green]catsuwu, 1 year ago[/color]\n"
+"[u][color=teal]@ShibaShiba[/color][/u] Any update?"
+msgstr ""
+"[color=green]catsuwu, 1 年前[/color]\n"
+"[u][color=teal]@ShibaShiba[/color][/u] 有消息嗎？"
+
+msgid ""
+"[color=green]heartshapedfish3, 1 year ago[/color]\n"
+"ded prolly lol"
+msgstr ""
+"[color=green]heartshapedfish3, 1 年前[/color]\n"
+"大概死了哈哈"
+
+msgid ""
+"[color=green]catsuwu, 1 year ago[/color]\n"
+"[u][color=teal]@heartshapedfish3[/color][/u] don't be so insensitive, probably just an inactive account."
+msgstr ""
+"[color=green]catsuwu, 1 年前[/color]\n"
+"[u][color=teal]@heartshapedfish3[/color][/u] 別這麼沒同理心，大概只是很久沒上線。"
+
+msgid ""
+"[color=green]heartshapedfish3, 1 year ago[/color]\n"
+"inactive cuz ded lol"
+msgstr ""
+"[color=green]heartshapedfish3, 1 年前[/color]\n"
+"沒上線是因為死了哈哈"
+
+msgid ""
+"[color=green]Tomas_B, 1 year ago[/color]\n"
+"does anyone know whats the deal with the ads at the top of the forum o,o? there's doorknobs for sale? what's next? washing machines!?"
+msgstr ""
+"[color=green]Tomas_B, 1 年前[/color]\n"
+"有人知道論壇頂部的廣告是怎麼回事嗎 o,o？在賣門把？接下來呢？洗衣機嗎！？"
+
+msgid ""
+"[color=green]Shaaaaawn, 1 year ago[/color]\n"
+"I also wanna know tbh. That ad has been up for a while, someone must be making the big bucks off broken doors lmao"
+msgstr ""
+"[color=green]Shaaaaawn, 1 年前[/color]\n"
+"我也滿想知道的。那廣告已經出現一段時間了，有人一定在靠壞掉的門賺大錢笑死"
+
+msgid ""
+"[color=green]helpfulM0D, 11 months ago[/color]\n"
+"While the admins have not shared with us the sources of the ads, please remember that the site is free - ads are a necessary evil for it stay afloat."
+msgstr ""
+"[color=green]helpfulM0D, 11 個月前[/color]\n"
+"雖然管理員並未分享廣告的來源，請記得這網站是免費的 - 廣告是網站存續的必要之惡。"
+
+msgid ""
+"[color=green]Shaaaaawn, 11 months ago[/color]\n"
+"Fair bro you make a good point... I think i'll buy a new doorknob for my bedroom to support the site"
+msgstr ""
+"[color=green]Shaaaaawn, 11 months ago[/color]\n"
+"好吧老兄你說的有道理...我大概會給我的臥房買顆新門把來支持網站"
+
+msgid ""
+"[color=green]Tomas_B, 11 months ago[/color]\n"
+"[u][color=teal]@helpfulM0D[/color][/u] ok sorry if my question was out of place. im happy to have this site even if its funded by Big Doorknob haha >_>"
+msgstr ""
+"[color=green]Tomas_B, 11 個月前[/color]\n"
+"[u][color=teal]@helpfulM0D[/color][/u] 好吧，如果我的問題不合適請見諒。我很高興能有這個網站，即使它是被大型門把公司資助的哈哈 >_>"
+
+msgid "That's where I ordered my ${item:ch1.doorknob_return}."
+msgstr "那就是我訂購了 ${item:ch1.doorknob_return} 的地方。"
+
+msgid "That's where I ordered the ${item:ch1.doorknob_return} which I left by the window."
+msgstr "那就是我訂購了 ${item:ch1.doorknob_return} 的地方，我把它放在窗戶旁。"
+
+msgid "Supposedly I can use it to return home after doing the ritual."
+msgstr "據說在我完成儀式後，可以使用它來讓我回家。"
+
+msgid "It's most likely a scam but..."
+msgstr "很有可能是詐騙但是..."
+
+msgid "...if it's to placate Hiro, even a scam will do."
+msgstr "...用來安撫廣人，就算是詐騙也行。"
+
+msgid "You've made a terrible mistake. Please try again."
+msgstr "妳犯下了可怕的錯誤。請再試一次。"
+
+msgid "Continue"
+msgstr "繼續"
+
+msgid "End Game"
+msgstr "結束遊戲"
+
+msgid "The first item in a to-do list is always the hardest one to cross off."
+msgstr "待辦清單的第一項總是最難劃掉的。"
+
+msgid "If we could just get one item done, the rest would surely follow. We just need to start."
+msgstr "如果我們可以把第一項完成，那麼剩下的肯定能跟著完成。我們只需要起個頭。"
+
+msgid "That's why some people find the easiest item first, and start from there."
+msgstr "這就是為什麼有些人會先從最簡單的項目開始。"
+
+msgid "It gives them a better chance at getting something done."
+msgstr "這能讓他們更容易完成事情。"
+
+msgid "This is because setting things in motion is difficult."
+msgstr "這是因為凡事起頭難。"
+
+msgid "Choosing to do homework is difficult. Choosing to clean your room is difficult. Choosing to get out of bed is difficult."
+msgstr "選擇寫作業很困難。選擇打掃房間很困難。選擇起床很困難。"
+
+msgid "Change is uncomfortable. It's always easier to leave things the way they are. To let the flow carry you."
+msgstr "改變是不舒服的。讓事情保持原樣更容易。讓潮流帶著你更容易。"
+
+msgid "Until you reach a point where doing nothing does more damage than doing anything."
+msgstr "一直到不做事會造成更大傷害的地步。"
+
+msgid "When this happens, change is no longer a choice. It's a consequence."
+msgstr "當這種情況發生時，改變就不再是一種選擇。而是一個後果。"
+
+msgid "Is that also a choice? The choice to do nothing?"
+msgstr "這也是一種選擇嗎？選擇什麼都不做？"
+
+msgid "...For now, I'll focus on getting the first item on the list done."
+msgstr "...現在，我將專注於完成清單上的第一項。"
+
+msgid "All I need to do is choose..."
+msgstr "我只需要選擇..."
+
+msgid "Coffee"
+msgstr "咖啡"
+
+msgid "Green Tea"
+msgstr "綠茶"
+
+msgid "Strawberry Milkshake"
+msgstr "草莓奶昔"
+
+msgid "...and also..."
+msgstr "...還有..."
+
+msgid "Flan"
+msgstr "焦糖布丁"
+
+msgid "Macarons"
+msgstr "馬可龍"
+
+msgid "Chocolate Eclair"
+msgstr "巧克力閃電泡芙"
+
+msgid "${var:ch1.temp_cafe_order_string}..."
+msgstr "${var:ch1.temp_cafe_order_string}..."
+
+msgid "${var:ch1.temp_cafe_order_string}....."
+msgstr "${var:ch1.temp_cafe_order_string}....."
+
+msgid "I got this."
+msgstr "我可以的。"
+
+msgid "${var:ch1.temp_cafe_order_string}."
+msgstr "${var:ch1.temp_cafe_order_string}。"
+
+msgid "Could I get-"
+msgstr "我想要點-"
+
+msgid "Oh, h-hello."
+msgstr "喔，哈-哈囉。"
+
+msgid "(What the... this girl startled the soul out of me...)"
+msgstr "(搞什...這女孩嚇死我了...)"
+
+msgid "(Her whole vibe is... really unsettling.)"
+msgstr "(她的感覺...真的很讓人不安。)"
+
+msgid "(Let's get this over with quickly.)"
+msgstr "(趕快搞定吧。)"
+
+msgid "Um... hello?"
+msgstr "呃...哈囉？"
+
+msgid "Could I-"
+msgstr "我想要-"
+
+msgid "What can I get you?"
+msgstr "請問想要點什麼？"
+
+msgid "${var:ch1.temp_cafe_order_string}?"
+msgstr "${var:ch1.temp_cafe_order_string}？"
+
+msgid "A flan, with anything on top?"
+msgstr "一顆焦糖布丁，要加什麼配料嗎？"
+
+msgid "Um... just one of those on display."
+msgstr "呃...只要在展示的那種。"
+
+msgid "Those are just for display. Not for sale."
+msgstr "它們只是用來展示的。不是拿來賣的。"
+
+msgid "Then... just a flan."
+msgstr "那就...只要焦糖布丁。"
+
+msgid "You need to tell me if you want it with anything..."
+msgstr "妳需要告訴我要不要加什麼..."
+
+msgid "Just the flan. Regular."
+msgstr "只要焦糖布丁。普通的。"
+
+msgid "...One \"regular\" flan then..."
+msgstr "...那就一顆\"普通的\"焦糖布丁..."
+
+msgid "...Yes, regular."
+msgstr "...對，普通的。"
+
+msgid "Macarons? What kind? How many?"
+msgstr "馬卡龍？哪一種？多少顆？"
+
+msgid "Uh... the pink ones?"
+msgstr "呃...粉紅的？"
+
+msgid "That can be strawberry, or raspberry, or cotton candy."
+msgstr "那是要草莓，還是覆盆子，還是棉花糖。"
+
+msgid "...Maybe one of each?"
+msgstr "...也許各一顆？"
+
+msgid "The minimum is 6."
+msgstr "最少要 6 顆。"
+
+msgid "...Okay."
+msgstr "...好吧。"
+
+msgid "So two of each."
+msgstr "那就各兩顆。"
+
+msgid "...Two of each, yes."
+msgstr "...各兩顆，好的。"
+
+msgid "An eclair? What kind?"
+msgstr "一顆閃電泡芙？哪一種？"
+
+msgid "Chocolate, please."
+msgstr "巧克力，謝謝。"
+
+msgid "There are no chocolate eclairs left."
+msgstr "沒有巧克力閃電泡芙了。"
+
+msgid "Hazelnut is pretty much the same thing."
+msgstr "榛果幾乎是一樣的口味。"
+
+msgid "...That one, then."
+msgstr "...那就那個。"
+
+msgid "Just one?"
+msgstr "只要一顆？"
+
+msgid "...Yeah. One hazelnut eclair."
+msgstr "...是啊。一顆榛果閃電泡芙。"
+
+msgid "...And a coffee."
+msgstr "...還要一杯咖啡。"
+
+msgid "What kind of coffee?"
+msgstr "哪一種咖啡？"
+
+msgid "Just coffee?"
+msgstr "只要咖啡？"
+
+msgid "Black, latte, with milk...?"
+msgstr "黑咖啡、拿鐵、加牛奶...？"
+
+msgid "With whipped cream?"
+msgstr "要加鮮奶油嗎？"
+
+msgid "Also what size?"
+msgstr "還有大小呢？"
+
+msgid "...And a tea, please."
+msgstr "...還要一杯茶，謝謝。"
+
+msgid "Tea, or bubble tea?"
+msgstr "茶，還是珍珠奶茶？"
+
+msgid "(What's bubble tea...?)"
+msgstr "(什麼是珍珠奶茶...？)"
+
+msgid "Tea, I think."
+msgstr "應該是茶。"
+
+msgid "What kind? Black, purple, oolong...?"
+msgstr "哪一種？紅茶、紫茶、烏龍茶...？"
+
+msgid "(Which was it...? It was none of those...!)"
+msgstr "(是哪一種...？都不是啊...！)"
+
+msgid "...Maybe bubble tea then?"
+msgstr "...那還是珍珠奶茶好了？"
+
+msgid "You still need to choose a flavor."
+msgstr "妳還是得選個口味。"
+
+msgid "...Have you even looked at the menu?"
+msgstr "...妳有看過菜單嗎？"
+
+msgid "...And the milkshake."
+msgstr "...還要奶昔。"
+
+msgid "What flavor?"
+msgstr "什麼口味？"
+
+msgid "Um... strawberry please."
+msgstr "嗯...草莓的謝謝。"
+
+msgid "We're out of strawberries. We'll go with concentrate, okay?"
+msgstr "我們沒有新鮮草莓了。用濃縮的可以嗎？"
+
+msgid "...W-wait... concentrate?"
+msgstr "...等-等等...濃縮？"
+
+msgid "Unless you wanna choose something else."
+msgstr "除非妳想要選別的。"
+
+msgid "Another fruit...?"
+msgstr "另一種水果...？"
+
+msgid "(What fruits are there...? I should have thought of this in advance...!)"
+msgstr "(有什麼水果...？我應該先想好的...！)"
+
+msgid "I don't have all day, you know."
+msgstr "我沒辦法一直等妳，妳知道吧。"
+
+msgid "...Um... Actually, just a bottle of water... please."
+msgstr "...嗯...這樣的話，只要一瓶水...謝謝。"
+
+msgid "...A bottle of water and a flan...?"
+msgstr "...一瓶水和一顆焦糖布丁...？"
+
+msgid "...A water and six macarons?"
+msgstr "...水和六顆馬卡龍？"
+
+msgid "...A bottle of water and a single eclair?"
+msgstr "...一瓶水和一顆閃電泡芙？"
+
+msgid "Have a seat, I'll bring it for you."
+msgstr "請坐。我會拿到妳的座位。"
+
+msgid "(...that was embarrassing.)"
+msgstr "(...剛剛真是尷尬。)"
+
+msgid "(I scared the cashier and couldn't even get what I wanted...)"
+msgstr "(我嚇到了收銀員，而且還沒辦法點到我想要的...)"
+
+msgid "(I can't even do this much?)"
+msgstr "(我連這樣也做不到？)"
+
+msgid "What is it? Did you notice that girl too?"
+msgstr "怎麼回事？妳看到那女孩了嗎？"
+
+msgid "Is it just me or does she seem strange to you?"
+msgstr "是我的錯覺還是她感覺怪怪的？"
+
+msgid "I was just about to say the same thing."
+msgstr "我正要說同一件事。"
+
+msgid "She gives off creepy vibes..."
+msgstr "她有種詭異的氛圍..."
+
+msgid "(This again...? Just ignore them...)"
+msgstr "(又來了...？別理她們...)"
+
+msgid "Do you wanna move?"
+msgstr "妳要換位子嗎？"
+
+msgid "I'd feel impolite switching tables now, but..."
+msgstr "感覺現在換位子很沒禮貌，但是..."
+
+msgid "Yeah, let's go."
+msgstr "好啦，走吧。"
+
+msgid "Go go, before she curses us or something!"
+msgstr "快走，在她詛咒我們之前！"
+
+msgid "(Lacie... relax.)"
+msgstr "(萊西...放鬆。)"
+
+msgid "(It's just two girls. You can put up with it.)"
+msgstr "(只是兩個女孩。妳可以忍受。)"
+
+msgid "That girl.. isn't she the daughter of the family who lives on the next block?"
+msgstr "那女孩，不是住在附近人家的女兒嗎？"
+
+msgid "Oh my goodness. You're right."
+msgstr "我的天哪。你說的對。"
+
+msgid "Man... Just being around her gives me the chills."
+msgstr "唉呀...光是在她附近就讓我不寒而慄。"
+
+msgid "What is it about her, I wonder?"
+msgstr "不知道她是怎麼搞的？"
+
+msgid "Whatever! She's a freak."
+msgstr "隨便啦！她是個怪胎。"
+
+msgid "Mommy can we leave? That lady..."
+msgstr "馬麻我們可以走了嗎？那個女生..."
+
+msgid "Shh! Don't look in her direction. Finish your food and we'll go."
+msgstr "噓！別看到她那邊。吃完我們就走了。"
+
+msgid "I don't want it anymore, I wanna go..."
+msgstr "我不想要吃了，我想走..."
+
+msgid "I've met her brother though, he was in one of my classes."
+msgstr "不過我遇過她哥哥，他在我們班上。"
+
+msgid "She's nothing like him."
+msgstr "她一點都不像他。"
+
+msgid "Mommy she's scary..."
+msgstr "馬麻她好可怕..."
+
+msgid "I pity the poor people who have to share a classroom with her."
+msgstr "跟她同一班的人還真可憐。"
+
+msgid "Imagine what her family must feel having a daughter with such a reputation."
+msgstr "不曉得她的家人有這種女兒會有什麼感受。"
+
+msgid "Oh man... and after what happened..."
+msgstr "喔天哪...還有發生了那件事之後..."
+
+msgid "Sucks to have a broken family. They don't deserve that."
+msgstr "有個破碎的家庭真衰。他們不應該受到這種對待。"
+
+msgid "It's probably her fault, don't you think?"
+msgstr "大概是她的錯，妳不這麼想嗎？"
+
+msgid "(Ah... I couldn't even get what I paid for...)"
+msgstr "(啊...我連我買的東西都沒拿到...)"
+
+msgid "Sigh... that was terrible."
+msgstr "唉...真是糟糕。"
+
+msgid "I knew it was a bad idea to go out."
+msgstr "我就知道出門是個壞主意。"
+
+msgid "At least that's out of the way."
+msgstr "至少已經完成了。"
+
+msgid "I need to lie down for a minute..."
+msgstr "我需要躺一下..."
+
+msgid "...Looks like we got a visitor, though."
+msgstr "...不過看來我們有個訪客。"
+
+msgid "That's enough, I think."
+msgstr "我想這樣就夠了。"
+
+msgid "Hmmm... even if I catch one, I don't have anywhere to put it."
+msgstr "嗯...就算我抓到一隻，也沒有地方可以放。"
+
+msgid "That should do it."
+msgstr "這樣應該就行了。"
+
+msgid "The note reads:"
+msgstr "紙條寫著："
+
+msgid "\"For Marzie,"
+msgstr "給馬爾齊，"
+
+msgid "You found my note!"
+msgstr "你找到了我的紙條！"
+
+msgid "I looked everywhere, but there doesn't seem to be any other path to head North other than this one (not that I know of at least.)"
+msgstr "我到處看過了，但是看來除了這條以外沒有其他往北方的路了(至少我不知道有。)"
+
+msgid "They locked it because of the primal attacks, things were getting out of hand."
+msgstr "他們因為原始惡魔攻擊所以把它鎖起來，事情變得無法控制了。"
+
+msgid "Please be careful when crossing it!"
+msgstr "經過的時候請小心！"
+
+msgid "Luckily for you, I got my hands on the keys and hid them around this area."
+msgstr "你運氣很好，我拿到了鑰匙並且把它們藏在這個區域的各處。"
+
+msgid "The first one should be taped to the back of a nearby tree. The tree's color is all wrong, so you can easily find it."
+msgstr "第一把應該被貼在附近樹上的背面。那棵樹的顏色很有問題，所以你可以輕易找到它。"
+
+msgid "The second one is in front of the weird sculptor's house. There's a row of flowers but one of them is actually a cactus!"
+msgstr "第二把在那個奇怪雕塑家的房子前面。那裡有一排花，但是其中一株其實是仙人掌！"
+
+msgid "The last one is under a fake rug near the red docks. Just turn left when you see the sign. It's a bit hidden, but I believe in you!"
+msgstr "最後一把在紅色碼頭附近的假地毯下。看到標示左轉就可以了。雖然有點隱蔽，但是我相信你！"
+
+msgid "See you on the other side!\""
+msgstr "在另一側見！\""
+
+msgid "\"Ta-daaa!"
+msgstr "\"踏搭！"
+
+msgid "Only real professional tree huggers would be able to find this key."
+msgstr "只有專業的抱樹人士能夠找到這把鑰匙。"
+
+msgid "As expected from my best assistant treasure hunter scout!"
+msgstr "不愧是我最棒的寶藏獵人偵察助理！"
+
+msgid "(PS: We should think of a better name for ourselves.)"
+msgstr "(附註：我們應該想個更好的名字。)"
+
+msgid "(\"Assistant treasure hunter scout\" might be a bit too long.)\""
+msgstr "(\"寶藏獵人偵察助理\"可能有點太長了。)\""
+
+msgid "\"You got it!"
+msgstr "\"你找到了！"
+
+msgid "Luckily the creepy sculptor man never comes out, so he'll never know about this hiding spot."
+msgstr "幸運的是那詭異的雕塑家沒有出來，所以他永遠都不會知道藏在哪裡。"
+
+msgid "If you're extra brave, I also hid some coins inside his place!\""
+msgstr "如果你夠勇敢，我還在他的房子裡藏了一些硬幣！\""
+
+msgid "\"What do you think?"
+msgstr "\"你怎麼想？"
+
+msgid "I think this is my best hiding spot yet!"
+msgstr "我認為這是我目前為止最好的藏匿點了！"
+
+msgid "No one would search for something in plain sight!\""
+msgstr "沒有人會在這麼明顯的地方找東西！\""
+
+msgid "\"Marzie! One last thing: This place is a maze."
+msgstr "馬爾齊！最後一件事：這個地方是個迷宮。"
+
+msgid "I left some flower petals on the ground to mark the way."
+msgstr "我留了些花瓣在地上來標記路線。"
+
+msgid "I stole them from the sculptor man hehehe"
+msgstr "我從那個雕塑家偷來的嘻嘻嘻"
+
+msgid "Anyway, follow them and you'll reach the exit in no time!"
+msgstr "總之，跟著它很快就可以抵達出口了！"
+
+msgid "P.S.: Walk slowly and listen in to your surroundings!\""
+msgstr "附註：慢慢走並聆聽你的週遭！\""
+
+msgid "I'm not hungry right now."
+msgstr "我現在不餓。"
+
+msgid "No... no way."
+msgstr "不...不可能。"
+
+msgid "You're not doing that."
+msgstr "妳不能這麼做。"
+
+msgid "The sketchbook is full of unsettling sketches."
+msgstr "素描本畫滿了令人不安的素描。"
+
+msgid "You take a look at the sketchbook."
+msgstr "妳看了看素描本。"
+
+msgid "It's full of unsettling sketches."
+msgstr "畫滿了令人不安的素描。"
+
+msgid "She's still pretty talented though."
+msgstr "不過她還是非常有才華。"
+
+msgid "(What to do with the knife?)"
+msgstr "(該拿這刀子怎麼辦？)"
+
+msgid "Cut myself"
+msgstr "割傷自己"
+
+msgid "Ask Sai to cut himself"
+msgstr "請賽伊割傷自己"
+
+msgid "Do nothing"
+msgstr "什麼也不做"
+
+msgid "Do you mind...?"
+msgstr "你介意嗎...？"
+
+msgid "Oh."
+msgstr "喔。"
+
+msgid "Sure!"
+msgstr "沒問題！"
+
+msgid "(Why did he not hesitate at all?!)"
+msgstr "(為什麼他完全不猶豫？！)"
+
+msgid "You don't want to mix them."
+msgstr "妳不想要混和它們。"
+
+msgid "I don't want to mix them..."
+msgstr "我不想要混和它們..."
+
+msgid "You can make even more colors if you mix them."
+msgstr "混和它們的話就可以產生更多顏色。"
+
+msgid "I know that."
+msgstr "我知道。"
+
+msgid "You have enough of that color."
+msgstr "妳有足夠的顏色了。"
+
+msgid "(Instructions on how to make a paper lily.)"
+msgstr "(怎麼折紙百合的說明。)"
+
+msgid "(You don't need to memorize them.)"
+msgstr "(妳不需要記憶它。)"
+
+msgid "\"Stone Curse - Lifting ritual\""
+msgstr "\"石頭詛咒 - 解除儀式\""
+
+msgid "Gather cursed tree bark, ink mushrooms, and an artist's inspiration."
+msgstr "收集被詛咒的樹皮、墨蘑菇、和藝術家的靈感。"
+
+msgid "Create solvent (chemistry set needed)."
+msgstr "創造溶劑(需要化學設備)。"
+
+msgid "Pour solvent on cursed object."
+msgstr "將溶劑倒在被詛咒的物體。"
+
+msgid "The code for the keypad behind the mirror in Red's house."
+msgstr "密碼，用在瑞德屋子裡的鏡子，後面的數字鍵盤。"
+
+msgid "It reads: \"${var:persistent.ch1_red_passage_code}\""
+msgstr "寫了：\"${var:persistent.ch1_red_passage_code}\""
+
+msgid "It's the bus ritual instructions."
+msgstr "這是公車儀式的說明。"
+
+msgid "It details how to summon a bus which picks you up at night."
+msgstr "它詳細講解如何召喚會在晚上接走妳的公車。"
+
+msgid "Read the full ritual rules?"
+msgstr "閱讀完整的儀式規則嗎？"
+
+msgid "You must play alone."
+msgstr "你必須獨自進行"
+
+msgid "Requirements:"
+msgstr "需求："
+
+msgid ""
+"- An indoor location\n"
+"- A landline phone\n"
+"- A red thread"
+msgstr ""
+"- 室內地點\n"
+"- 家用電話\n"
+"- 紅色絲線"
+
+msgid ""
+"- Red paint\n"
+"- A rune\n"
+"- A clock"
+msgstr ""
+"- 紅色顏料\n"
+"- 一顆符石\n"
+"- 一個鐘"
+
+msgid "Preparations:"
+msgstr "準備："
+
+msgid "Complete the preparations before the sun has set."
+msgstr "在日落前完成準備。"
+
+msgid "Tie a red thread to the phone cord."
+msgstr "在電話線綁上紅絲線。"
+
+msgid "Using the red paint, draw the following symbol on the exit door of your chosen location. The door must lead outside."
+msgstr "使用紅色顏料在自己所選位置的出口門畫上以下符號。門必須通往外面。"
+
+msgid "Set the alarm clock to midnight."
+msgstr "將鬧鐘設至午夜。"
+
+msgid "Instructions:"
+msgstr "說明："
+
+msgid "Go to sleep."
+msgstr "去睡覺。"
+
+msgid "When the alarm clock rings, get up and dial the following number on the phone: 999281#0"
+msgstr "當鬧鐘響時，起床並撥打以下號碼：999281#0"
+
+msgid "When the line connects, say the following words: \"My bus is late\"."
+msgstr "當電話接通時，說出以下的話：\"我的公車遲到了\"。"
+
+msgid "Board the bus before it leaves."
+msgstr "在公車離開前登上它。"
+
+msgid "Place the rune inside the bus ticket machine."
+msgstr "將符石放入剪票機。"
+
+msgid "Remember:"
+msgstr "記得："
+
+msgid "Do NOT bring any weapons with you."
+msgstr "*不要*攜帶任何武器。"
+
+msgid "The phone may no longer look the same at night. Remember the placement of the numbers."
+msgstr "電話在晚上可能會看起來不一樣。記住數字的位置。"
+
+msgid "It's locked."
+msgstr "被鎖住了。"
+
+msgid "A lamppost."
+msgstr "燈柱。"
+
+msgid "It doesn't seem to be working."
+msgstr "看起來沒有作用。"
+
+msgid "You can see the neighbor's house from here."
+msgstr "可以從這裡看到鄰居的房子。"
+
+msgid "Let's try to avoid eye contact with them if possible."
+msgstr "還是避免跟他們目光接觸吧。"
+
+msgid "There seems to be someone staring at you from the other house..."
+msgstr "看來另一間房子有人在盯著妳..."
+
+msgid "I'm back~"
+msgstr "我回來了~"
+
+msgid "Hope you haven't been giving away products for free again!"
+msgstr "希望妳沒有又把產品免費送人了！"
+
+msgid "How's things back here little Kat? Any sales?"
+msgstr "過得怎麼樣，小凱特？有賣出什麼嗎？"
+
+msgid "...What's going on in here?! This isn't a daycare!"
+msgstr "...這裡發生了什麼事？！這裡可不是幼稚園！"
+
+msgid "...You've been giving our merchandise away for free again, haven't you?"
+msgstr "...妳又把我們的商品免費送人了，對吧？"
+
+msgid "Man... what the hell am I gonna do with you?"
+msgstr "天哪...我到底該拿妳怎麼辦？"
+
+msgid "You feel somewhat stronger now."
+msgstr "妳感到強壯了一點。"
+
+msgid "You feel quite a bit stronger now."
+msgstr "妳感到強壯了許多。"

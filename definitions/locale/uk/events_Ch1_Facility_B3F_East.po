@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I'm sorry for disturbing you."
+msgstr "Вибачте, що потурбували вас."
+
+msgid "(She's crying...)"
+msgstr "(Вона плаче...)"
+
+msgid "How long has she been locked up in here?"
+msgstr "Скільки її вже тут тримають?"
+
+msgid "I don't know."
+msgstr "Не знаю."
+
+msgid "No hard feelings."
+msgstr "Без образ."
+
+msgid "You're food, after all."
+msgstr "Врешті-решт, ви їжа."
+
+msgid "What are your thoughts?"
+msgstr "Що думаєш?"
+
+msgid "Go take a look."
+msgstr "Іди й поглянь."
+
+msgid "Psst..."
+msgstr "Пс-с..."
+
+msgid "Over here."
+msgstr "Сюди."
+
+msgid "A small toy."
+msgstr "Маленька іграшка."
+
+msgid "..."
+msgstr "..."
+
+msgid "Is that... Miss Knives?"
+msgstr "Це... пані Ніж?"
+
+msgid "Is this what she actually looks like..?"
+msgstr "Вона так виглядає насправді?.."
+
+msgid "Whoa."
+msgstr "Ого."
+
+msgid "She looks like a used napkin."
+msgstr "Схожа на використану серветку."
+
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "Схоже, браму можна відчинити. Відчинити браму?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "You're... Spider?"
+msgstr "Ти... Павучок?"
+
+msgid "Good work back there. Didn't think you'd actually do it."
+msgstr "Гарно ти там попрацювала. Я й не думав, що ти впораєшся."
+
+msgid "It feels good to see this place again."
+msgstr "Я радий знову побачити це місце."
+
+msgid "How's this good? You're locked up."
+msgstr "Чому ти радієш? Ти тут в пастці."
+
+msgid "I don't need much to be content."
+msgstr "А мені не треба багато для щастя."
+
+msgid "My cell neighbor keeps me entertained."
+msgstr "Мене завжди розважить моя сусідка."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "You mean Miss Knives...?"
+msgstr "Ти про пані Ніж?.."
+
+msgid "About Miss Knives..."
+msgstr "Щодо пані Ніж..."
+
+msgid "Are you surprised?"
+msgstr "Здивована?"
+
+msgid "Well... kind of."
+msgstr "Ну... можна й так сказати."
+
+msgid "She's seen better days."
+msgstr "Вона бачила кращі дні."
+
+msgid "But she'll be fine. She's just like a spider."
+msgstr "Але з нею все буде добре. Вона немов павук."
+
+msgid "After a little while, she'll make a new web and entangle everyone in it again."
+msgstr "Скоро вона сплете нову павутину та знову всіх уплутає."
+
+msgid "I'm curious to see what it will look like next time."
+msgstr "Цікаво, що я побачу наступного разу."
+
+msgid "Huh."
+msgstr "Отакої."
+
+msgid "I see..."
+msgstr "Зрозуміло..."
+
+msgid "Besides. She does get a visitor every so often."
+msgstr "І взагалі, до неї часто дехто навідується."
+
+msgid "Really?"
+msgstr "Правда?"
+
+msgid "Yes. An intriguing one by the name of Red."
+msgstr "Так. Цікавий індивід на ім'я Ред."
+
+msgid "...!"
+msgstr "!.."
+
+msgid "Don't look so excited."
+msgstr "Тільки не радій."
+
+msgid "Red won't be back here anytime soon."
+msgstr "Ред ще не скоро сюди повернеться."
+
+msgid "I see."
+msgstr "Ось воно як."
+
+msgid "Is Red the lighthouse person?"
+msgstr "Ред - це той, що з маяка?"
+
+msgid "Yes..."
+msgstr "Так..."
+
+msgid "Ah, damn."
+msgstr "От халепа."
+
+msgid "Interesting."
+msgstr "Цікаво."
+
+msgid "If the lighthouse is what you're searching for, perhaps this is of use to you."
+msgstr "Якщо ти шукаєш маяк, то це може стати тобі в пригоді."
+
+msgid "Is this... a doorknob to the lighthouse?"
+msgstr "Це... дверна ручка до маяка?"
+
+msgid "What remains of it."
+msgstr "Те, що від неї залишилось."
+
+msgid "That's fine, I... I think I know how to fix it."
+msgstr "Нічого страшного, я... мабуть, знаю, як її полагодити."
+
+msgid "This is a big help, Spider."
+msgstr "Ти дуже сильно допоміг, Павучку."
+
+msgid "Thank you. I appreciate it, even if it's broken."
+msgstr "Дякую. Хоч вона й розбита, я дуже вдячна."
+
+msgid "Then consider our debts settled."
+msgstr "Тоді вважай, що ми нічого одне одному не повинні."
+
+msgid "Spider seems at peace in its cell."
+msgstr "Схоже, Павучок мирно сидить у своїй камері."
+
+msgid "Crayons and children's drawings."
+msgstr "Крейда та дитячі малюнки."
+
+msgid "Denomination: G8. Potential: Questionable. Training interrupted."
+msgstr "Найменування: G8. Потенціал: Під питанням. Навчання призупинено."
+
+msgid "Requesting installation of an anti-distortion field."
+msgstr "Прохання встановити пригнічувальне поле."
+
+msgid "An old, crusty pillow."
+msgstr "Стара жорстка подушка."
+
+msgid "Denomination: G11. Potential: High. Training ongoing."
+msgstr "Найменування G11: Потенціал: Високий. Навчання продовжується."
+
+msgid "A set of four toy plants."
+msgstr "Чотири іграшкові рослини."

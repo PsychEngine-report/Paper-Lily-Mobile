@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It seems to like the white tree."
+msgstr "Beyaz ağaç hoşuna gitmiş gibi gözüküyor."
+
+msgid "Take ${item:ch1.doorknob_grave}?"
+msgstr "${item:ch1.doorknob_grave} Al?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Fallen white leaves surround the tree."
+msgstr "Düşen beyaz yapraklar ağacı çevrelemiş."
+
+msgid "Take some ${item:ch1.lakeside_petals_white}?"
+msgstr "Biraz ${item:ch1.lakeside_petals_white} Al?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log.dlg.narrator"
+msgid "A wooden log."
+msgstr "Bir ahşap kütük."
+
+msgid "It's too short to use as a bridge."
+msgstr "Köprü olarak kullanmak için çok kısa."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.dlg.narrator"
+msgid "A wooden log."
+msgstr "Bir ahşap kütük."
+
+msgid "I could use this to cross the river..."
+msgstr "Bunu nehrin karşısına geçmek için kullanabilirim..."
+
+msgid "Push it into the water?"
+msgstr "Suya it?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Something's weird about this spot, but you don't know what it is."
+msgstr "Bu noktada garip bir şey var, ama ne olduğunu bilmiyorsun."
+
+msgid "It's just trees... right?"
+msgstr "Bunlar sadece ağaç... değil mi?"
+
+msgid "The passage is camouflaged."
+msgstr "Geçit kamufle edilmiş."
+
+msgid "There's no way to open it from this side."
+msgstr "Bu taraftan açmanın imkanı yok."
+
+msgid "A beautiful tree with white leaves."
+msgstr "Beyaz yapraklı güzel bir ağaç."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_water.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Atlamak için çok uzak."
+
+msgid "The river fades into obscurity."
+msgstr "Nehir karanlığa gömülüyor."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_north.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Atlamak için çok uzak."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_south.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Atlamak için çok uzak."
+
+msgid "White leaves cover the ground."
+msgstr "Beyaz yapraklar yeri kaplamış."

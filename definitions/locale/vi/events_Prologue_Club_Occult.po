@@ -1,0 +1,1298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What are you looking at?"
+msgstr "Tìm cái gì?"
+
+msgid "Get out of my face."
+msgstr "Cuốn xéo khỏi mặt tao."
+
+msgid "My seat is on the second row from the front, in class 3-C."
+msgstr "Tao ngồi chỗ lớp 3-C hàng thứ 2 từ trên xuống đấy."
+
+msgid "Maybe you don't suck as much as I thought."
+msgstr "Có khi mày không phải là đứa khó ưa như tao nghĩ lắm."
+
+msgid "I'm surprised you even gave it back. Maybe I misjudged you."
+msgstr "Ngạc nhiên là mày còn trả lại cho tao đấy. Có khi là hiểu sai mày rồi."
+
+msgid "I bet you think you're SO funny. We have other plans for the night anyway."
+msgstr "Chắc mày nghĩ mày vui tính quá ha. Kệ, tối nay bọn tao có kế hoạch khác."
+
+msgid "Whatever you say!"
+msgstr "Xin mời cứ việc!"
+
+msgid "Don't talk to me anymore. I won't forget this."
+msgstr "Đừng có nói chuyện với tao nữa. Vụ này tao không quên đâu đấy."
+
+msgid "Good luck with your game."
+msgstr "Chúc trò chơi suôn sẻ nhé."
+
+msgid "(She's really concentrated on fixing her ribbon. Best not to disturb her.)"
+msgstr "(Nó đang tập trung chỉnh đi chỉnh lại cái ruy-băng. Thôi không nên quấy rầy.)"
+
+msgid "(She's angrily fidgeting with her ribbon. Best not to bother her anymore.)"
+msgstr "(Nó đang vân vê cái ruy-băng với điệu bộ phát cáu. Thôi đừng nên quấy rầy thêm.)"
+
+msgid "It's good to finally make some new friends."
+msgstr "Sau cùng kết được bạn bè mới là tốt rồi."
+
+msgid "Are you leaving this here?"
+msgstr "Để cặp ở đây luôn à?"
+
+msgid "Why not? I'll pick it up before going home."
+msgstr "Sao đâu? Trước khi về tao vô lấy lại."
+
+msgid "May I look through it?"
+msgstr "Dòm bên trong được không?"
+
+msgid "No...?"
+msgstr "Không...?"
+
+msgid "Ok, let's see..."
+msgstr "OK, để coi coi..."
+
+msgid "Um... why is there lettuce in your bag?"
+msgstr "Ừm... sao trong cặp lại có rau diếp thế này?"
+
+msgid "Wha- WHAT DID I JUST SAY!?"
+msgstr "T-TAO BẢO LÀ KHÔNG DÒM RỒI CƠ MÀ!?"
+
+msgid "So... why is there lettuce in your bag?"
+msgstr "Thế... tại sao lại có rau diếp trong cặp mày thế?"
+
+msgid "My mom asked me to pick it up on the way home, okay?"
+msgstr "Mẹ tao nhờ trên đường về thì lấy hộ, được chưa?"
+
+msgid "God!"
+msgstr "Tự nhiên à!"
+
+msgid "Fine, fine..."
+msgstr "Thôi thôi được rồi..."
+
+msgid "You put the lettuce back."
+msgstr "Đã cất lại rau diếp."
+
+msgid "It's Saki's bag."
+msgstr "Cặp của Saki."
+
+msgid "Saki's bag is gone."
+msgstr "Cặp của Saki biến mất rồi."
+
+msgid "What? Where is my bag?"
+msgstr "Ủa? Cặp tao đâu?"
+
+msgid "Is someone else here with us?"
+msgstr "Trong trường vẫn còn ai khác á?"
+
+msgctxt "events.Prologue_Club_Occult.event_bag_with_girls.dlg.prologue_girl2"
+msgid "This isn't good..."
+msgstr "Mệt rồi đấy..."
+
+msgid "Hopefully it was just the janitor and you can get it back on Monday."
+msgstr "Mong chỉ là người quét dọn lấy đi, sang thứ Hai là lấy lại được thôi."
+
+msgctxt "events.Prologue_Club_Occult.event_bag_with_girls.dlg.prologue_girl1"
+msgid "Uuugh..."
+msgstr "Ư..."
+
+msgid "Isn't this stuffed crow just so cool?"
+msgstr "Con quạ nhồi này ngầu đét luôn đó."
+
+msgid "Oh no."
+msgstr "Ối."
+
+msgid "...So you're that type, huh?"
+msgstr "... Á à, lộ ra tuýp người rồi nhé."
+
+msgid "It was an accident! And what is that supposed to mean anyways!?"
+msgstr "Tao vô tình thôi! Mà bảo tuýp người ý là sao hả?"
+
+msgctxt "events.Prologue_Club_Occult.event_break_crow.dlg.prologue_girl2"
+msgid "This isn't good..."
+msgstr "Mệt rồi đấy..."
+
+msgid "It's okay, you can just apologize next week."
+msgstr "Không sao đâu, tuần sau đi xin lỗi là được mà."
+
+msgid "Yeah, it's okay. It was probably the only valuable thing in this room anyways."
+msgstr "Ừa không sao. Đằng nào trong phòng này chỉ có mỗi nó trông có giá thôi mà."
+
+msgctxt "events.Prologue_Club_Occult.event_break_crow.dlg.prologue_girl1"
+msgid "Uuugh..."
+msgstr "Ư..."
+
+msgid "Say, what ARE you doing here? Visiting the school at night is hardly normal no matter what you're looking for."
+msgstr "Nè, rốt cuộc mày đang làm gì đây thế? Đêm hôm tới trường vầy, dù mày tìm gì thì cũng chả bình thường tí nào."
+
+msgid "I could ask you the same question."
+msgstr "Câu này tao hỏi y như vậy ngược lại chúng mày được đó."
+
+msgid "You already know what we were doing."
+msgstr "Bọn tao nãy đang làm gì mày biết rồi mà."
+
+msgid "Key word: \"were\"."
+msgstr "Chú ý vào 3 chữ \"nãy đang làm\"."
+
+msgid "Truth is, I'm doing the same thing as you girls... But it's spookier than your game."
+msgstr "Nói thật thì tao cũng đang làm cái giống bọn mày... à nó còn ghê hơn của bọn mày nhiều."
+
+msgid "A game? Can we join in?"
+msgstr "Trò gì á? Bọn tao chơi chung luôn?"
+
+msgid "I thought you had plans for the night?"
+msgstr "Tưởng bọn mày có kế hoạch khác rồi chứ?"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_1.dlg.prologue_girl2"
+msgid "..."
+msgstr "..."
+
+msgid "We can probably spare an hour or two."
+msgstr "Dành 1 hay 2 giờ gì đó cũng không sao."
+
+msgid "In any case, it's a one-person ritual, so you can't join me on it."
+msgstr "Ấy mà có điều, này là nghi thức cho một người, thành thử không cho bọn mày tham gia được rồi."
+
+msgid "Figures."
+msgstr "Ra là thế."
+
+msgid "If you like this kind of occult stuff, why aren't you in the club?"
+msgstr "Nếu thích mấy kiểu huyền bí thế này, sao không vào câu lạc bộ huyền bí luôn đi?"
+
+msgid "Only nerds join this club."
+msgstr "Chỉ có bọn nerd mới thèm vào."
+
+msgid "That's not entirely false..."
+msgstr "Khó lòng phủ định thiệt..."
+
+msgid "You didn't bring any other games? Not even a deck of cards?"
+msgstr "Không có mang trò gì khác à? Không có bài luôn á?"
+
+msgid "No, not really."
+msgstr "Có mang gì khác đâu."
+
+msgid "We didn't anticipate someone ruining our game."
+msgstr "Ai mà ngờ được lại có kẻ mà ai cũng biết là ai đấy vào phá đám."
+
+msgid "Fair enough."
+msgstr "Quả vậy."
+
+msgid "So, how did you get in here?"
+msgstr "Thế chúng mày vào trong đây kiểu gì?"
+
+msgid "We got a key from someone."
+msgstr "Bọn tao kiếm được chìa từ người quen."
+
+msgid "*I* got a key from someone."
+msgstr "*Tao* kiếm được chìa từ người quen."
+
+msgid "...*She* got a key from someone."
+msgstr "...*Nó* kiếm được chìa từ người quen."
+
+msgid "Couldn't you just have joined the club?"
+msgstr "Sao không vào câu lạc bộ luôn cho rồi?"
+
+msgid "Why? Is that what you did? Join the club just for the key?"
+msgstr "Chi? Giống mày á? Vào câu lạc bộ để lấy chìa thôi thì vào làm gì?"
+
+msgid "...This conversation isn't going as planned."
+msgstr "...Nói chuyện không được suôn sẻ lắm nhỉ."
+
+msgid "What were you looking for earlier?"
+msgstr "Ban nãy mày đang tìm gì thế?"
+
+msgid "Materials for the ritual."
+msgstr "Nguyên liệu cho nghi thức."
+
+msgid "Shouldn't you have gathered them ahead of time?"
+msgstr "Thế thì đáng lẽ nên kiếm đồ sẵn ở nhà trước luôn chứ?"
+
+msgid "Now that's boring. Do you also do your homework ahead of time?"
+msgstr "Hỏi chán vậy. Thế bài tập về nhà mày về nhà có làm ngay luôn không?"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_5.dlg.prologue_girl2"
+msgid "..."
+msgstr "..."
+
+msgid "I don't know what to say to that."
+msgstr "Chả biết nói sao luôn."
+
+msgid "Will you at least tell us more about your game?"
+msgstr "Ít nhất mày kể bọn tao chút nữa về cái trò chơi đi?"
+
+msgid "I'll let you know how it went on Monday."
+msgstr "Đến thứ Hai tao báo lại kết quả cho."
+
+msgid "If it's anything like the rest I tried, it won't really do anything."
+msgstr "Nếu giống như hồi đến giờ tao làm thì cũng chẳng có gì xảy ra đâu."
+
+msgid "What's with all the chit chat? Are we suddenly friends or something?"
+msgstr "Sao tự dưng lắm mồm thế? Thành bạn bè hay gì rồi?"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_6.dlg.prologue_girl2"
+msgid "..."
+msgstr "..."
+
+msgid "She's alright, I guess."
+msgstr "Con này tao nghĩ là không tệ đâu."
+
+msgid "But she ruined our night!"
+msgstr "Nhưng mà con này nó phá đám!"
+
+msgid "Sorry about that..."
+msgstr "Chuyện đó thì cho tao xin lỗi..."
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_6.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "Well... alright, fine."
+msgstr "Ừ thì... thôi được rồi."
+
+msgid "She means \"apology accepted\"."
+msgstr "Ý là \"Chấp nhận lời xin lỗi\" đó."
+
+msgid "Nice to meet you then, I'm Kat."
+msgstr "Vậy hân hạnh làm quen nè, tao tên là Kat."
+
+msgid "We KNOW."
+msgstr "BIẾT rồi."
+
+msgid "I'm Juli. This is Saki, and this is Kaya."
+msgstr "Tao tên là Juli. Này tên là Saki, còn này tên là Kaya."
+
+msgid "Nice to meet you."
+msgstr "Xin được chiếu cố ạ."
+
+msgid "You know, you're quite the celebrity among third year students."
+msgstr "Trong khối năm 3 mày cũng nổi tiếng ghê lắm đấy."
+
+msgid "...for all the wrong reasons."
+msgstr "...toàn vì mấy vụ không đâu vào đâu không à."
+
+msgid "You should hang out at 3-C sometime."
+msgstr "Lâu lâu qua lớp 3-C chơi đi."
+
+msgid "Do you um... need help with that ribbon?"
+msgstr "Cần giúp ờ... chỉnh chỉnh cái ruy-băng không?"
+
+msgid "Ah... no... I'm just fidgeting..."
+msgstr "À... không... chỉ đang nghịch tí thôi..."
+
+msgid "Got it."
+msgstr "Ừ rồi."
+
+msgid "Don't mind Saki. She's not the bitch she pretends to be."
+msgstr "Đừng có để bụng con Saki. Nó giả vờ khó ở thế thôi chứ nó tốt lắm."
+
+msgid "We will probably go home soon."
+msgstr "Chắc bọn tao sắp về thôi."
+
+msgid "Well... at least I got what I needed."
+msgstr "Chà... ít ra có được cái cần rồi."
+
+msgid "That's cute!"
+msgstr "Dễ thương ghê!"
+
+msgid "Thank you very much."
+msgstr "Xin cảm ơn nha."
+
+msgid "Is that supposed to be you...?"
+msgstr "Cái này là vẽ mày đó sao...?"
+
+msgid "Please never draw a portrait of me."
+msgstr "Làm ơn đừng có mà vẽ tao nhé."
+
+msgid "Wasn't planning to."
+msgstr "Vốn cũng chả tính làm thế."
+
+msgid "Kindergarten called, they want their drawing skills back."
+msgstr "Khá là í ẹ, y đúc trẻ mẫu giáo."
+
+msgid "This is my depiction of a child's depiction of a house."
+msgstr "Đây là tao vẽ cách trẻ con vẽ ngôi nhà đấy."
+
+msgid "I expected a bit better from you..."
+msgstr "Tao mong mày vẽ ra cái gì hay ho hơn tí cơ..."
+
+msgid "I didn't."
+msgstr "Tao thì chả mong."
+
+msgid "Draw something on the chalkboard?"
+msgstr "Vẽ gì đó lên bảng phấn chứ?"
+
+msgctxt "events.Prologue_Club_Occult.event_draw_on_chalkboard.choice.Draw something on the chalkboard?"
+msgid "Yes"
+msgstr "Vẽ"
+
+msgctxt "events.Prologue_Club_Occult.event_draw_on_chalkboard.choice.Draw something on the chalkboard?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "What should I draw?"
+msgstr "Vẽ cái gì đây nhỉ?"
+
+msgid "A flower"
+msgstr "Bông hoa"
+
+msgid "A self-portrait"
+msgstr "Tự họa"
+
+msgid "A house"
+msgstr "Ngôi nhà"
+
+msgid "A butt"
+msgstr "Cái mông"
+
+msgid "Don't draw"
+msgstr "Thôi không vẽ"
+
+msgid "It's done!"
+msgstr "Xong rồi!"
+
+msgid "This was the most pointless thing you've done today."
+msgstr "Đây là điều vô nghĩa nhất mà bạn làm hôm nay."
+
+msgid "My masterpiece is already perfect, no need for modifications."
+msgstr "Kiệt tác của mình đã hoàn bích rồi, không cần chỉnh thêm."
+
+msgid "It's too dark for that."
+msgstr "Tối quá sao mà vẽ."
+
+msgid "Say, are any of you members of the theater club?"
+msgstr "Ê, mấy đứa chúng mày có ai trong câu lạc bộ kịch không?"
+
+msgid "Not really."
+msgstr "Cũng không hẳn thế."
+
+msgid "Not really?"
+msgstr "Cũng không hẳn thế?"
+
+msgid "Not me."
+msgstr "Tao thì không phải rồi."
+
+msgid "Who wants to know?"
+msgstr "Ai muốn hỏi thăm đấy?"
+
+msgid "Well, there's a talent agent waiting outside. He's only interested in teenage girls with a passion for roleplaying, though."
+msgstr "Ờ thì, ở ngoài có cái ông bên agency tài năng nào đến, ổng chỉ muốn tìm các bạn nữ tuổi teen nào có đam mê diễn kịch thôi đó."
+
+msgid "What is it that you want?"
+msgstr "Thế thực ra là mày đang muốn cái gì đây hả?"
+
+msgid "I just need to borrow something from your club room. You have the key with you, don't you?"
+msgstr "Tao muốn mượn đồ trong phòng câu lạc bộ thôi. Mày có cầm chìa khóa phòng đúng không?"
+
+msgid "Hmmm..."
+msgstr "Hừmm..."
+
+msgid "Fine, you can have it... If you can do me a favor first."
+msgstr "Được, tao cho mày mượn... nhưng mà mày hộ tao cái này đã rồi tao mới cho."
+
+msgid "I'll do you a favor: I'll conveniently forget to tell the principal that you three broke into the school at night. Deal?"
+msgstr "Để tao hộ mày cái này cho: tao sẽ tiện quên đi việc đi mách thầy hiệu trưởng về việc 3 đứa chúng mày nửa đêm lẻn vào trường, chốt kèo nhé?"
+
+msgid "Aren't you trespassing too?"
+msgstr "Mày cũng vi phạm có khác gì đâu?"
+
+msgid "So, what's the favor you need?"
+msgstr "Thế, mày muốn tao hộ gì đây?"
+
+msgid "Get my notebook. It's in classroom 3-C, under my desk."
+msgstr "Mày lấy cuốn vở của tao về đây, sang lớp 3-C kiếm dưới hộc bàn chỗ tao ngồi ấy."
+
+msgid "Ponytail's Notebook"
+msgstr "Vở của Tóc đuôi ngựa"
+
+msgid "A red notebook that the girl with the ponytail forgot. She probably wants it back."
+msgstr "Quyển vở đỏ mà con tóc đuôi ngựa bỏ quên. Có lẽ nó muốn lấy lại quyển này."
+
+msgid "Should I get the notebook for her?"
+msgstr "Lấy vở cho nó chứ?"
+
+msgid "Alright, I'll do it"
+msgstr "Được, tao lấy cho"
+
+msgid "Forget it"
+msgstr "Đừng có hòng"
+
+msgid "You will?"
+msgstr "Mày chịu lấy cho à?"
+
+msgid "Then, when you find it, please don't look through it."
+msgstr "Nếu vậy, kiếm ra rồi đừng có mà lật ra coi đấy."
+
+msgid "Sure, sure."
+msgstr "Rồi rồi."
+
+msgid "Of course, of course."
+msgstr "Vậy đó nhể."
+
+msgid "Good luck finding another key to the club room."
+msgstr "Thế thì ráng mà đi tìm cái chìa khác đi nhé."
+
+msgid "We'll see about that."
+msgstr "Cứ đợi đấy mà xem."
+
+msgid "You mean this one?"
+msgstr "Cái này đúng không?"
+
+msgctxt "events.Prologue_Club_Occult.event_key_request.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "How did you-?"
+msgstr "Lấy hồi nào hay vậy...?"
+
+msgid "Yes, that's the one."
+msgstr "Đúng, vở tao đấy."
+
+msgid "Here's the key. I expect it back at some point."
+msgstr "Chìa khóa đây. Xài xong nhớ trả lại đàng hoàng đấy."
+
+msgid "Happy to help."
+msgstr "Sẵn lòng giúp ích."
+
+msgid "Well, you brought my notebook so..."
+msgstr "Dù sao thì mày cũng lấy vở cho tao rồi nên..."
+
+msgid "Here you go, I guess. Please don't break anything."
+msgstr "Thì đây, chìa khóa đây. Đừng có phá phách cái gì hết nhé."
+
+msgid "And don't forget to bring it back to me."
+msgstr "Xong thì nhớ mà trả lại đấy."
+
+msgctxt "events.Prologue_Club_Occult.event_key_request.dlg.kat"
+msgid "Thanks!"
+msgstr "Cám ơn!"
+
+msgid "There's a bunch of useless trash in here..."
+msgstr "Bên trong toàn là đồ tạp nham vô tích sự..."
+
+msgid "Aha! This little box may be it."
+msgstr "Á à! Cái hộp nhỏ này chắc đúng rồi."
+
+msgid "There's three runes... but the ritual didn't mention a specific one."
+msgstr "Có 3 cái rune... cơ mà dùng cái nào đây thì quy trình nghi thức lại không nói."
+
+msgid "Which one should I take?"
+msgstr "Nên lấy cái nào đây?"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird C"
+msgstr "Cái có chữ C kì cục"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird B"
+msgstr "Cái có chữ B kì cục"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird O"
+msgstr "Cái có chữ O kì cục"
+
+msgid "What's that?"
+msgstr "Đó là cái gì?"
+
+msgid "A rune. The ritual calls for it."
+msgstr "Cái rune. Nghi thức cần."
+
+msgid "What does it do?"
+msgstr "Xài thế nào đấy?"
+
+msgid "No idea."
+msgstr "Chịu à."
+
+msgid "How is this any less childish than the game we were playing...?"
+msgstr "Cái này bớt trẻ con hơn cái trò chúng ta đang chơi đến nhường nào đây...?"
+
+msgid "There's a golden envelope in the drawer."
+msgstr "Trong ngăn kéo có cất cái phong bì màu vàng."
+
+msgid "These are the instructions for the ritual I'm doing."
+msgstr "Đây là lời chỉ dẫn cho cái nghi thức mình giờ đang làm."
+
+msgid "Thankfully, I shortened them when I wrote my notes."
+msgstr "Được cái là mình đã tóm tắt lại khi viết ghi chú rồi."
+
+msgid "Read the full ritual rules?"
+msgstr "Đọc toàn bộ luật nghi thức chứ?"
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.choice.Read the full ritual rules?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.choice.Read the full ritual rules?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "You must play alone."
+msgstr "Ngươi phải chơi một mình."
+
+msgid "Requirements:"
+msgstr "Yêu cầu:"
+
+msgid ""
+"- 3 dark, adjacent rooms\n"
+"- 12 candles\n"
+"- A lighter or matches"
+msgstr ""
+"​- 3 căn phòng tối, liền kề nhau\n"
+"- 12 cây nến\n"
+"- Bật lửa hoặc diêm"
+
+msgid ""
+"- A rune\n"
+"- A tuft of human hair\n"
+"- White chalk or white paint"
+msgstr ""
+"​- Một miếng rune\n"
+"- Nhúm tóc người\n"
+"- Phấn viết trắng hoặc màu vẽ trắng"
+
+msgid "Preparations:"
+msgstr "Chuẩn bị:"
+
+msgid ""
+"Start after the sun has set.\n"
+"All 3 rooms must be pitch black; turn off all the lights, draw the curtains, and close the doors."
+msgstr ""
+"Bắt đầu sau khi mặt trời lặn.\n"
+"Cả 3 căn phòng phải tối mịt; tắt hết ánh sáng, kéo hết rèm lại, và đóng cửa lại."
+
+msgid "Using the chalk or paint, draw a path going through the 3 rooms. This path will serve to connect your current location to your destination."
+msgstr "Dùng phấn viết hoặc màu vẽ, vẽ một con đường xuyên qua ba căn phòng. Con đường này sẽ đóng vai trò kết nối nơi ngươi đang ở tới nơi ngươi muốn đến."
+
+msgid "In the middle room, place 6 candles on each side of the drawn path, parallel to it."
+msgstr "Tại căn phòng chính giữa, ở hai bên con đường đã vẽ, mỗi bên đặt 6 cây nến sao cho song song với con đường đó."
+
+msgid "Instructions:"
+msgstr "Quy trình:"
+
+msgid "Light each of the candles and let them burn for at least 5 minutes. From this point, you can no longer abort the ritual."
+msgstr "Thắp từng cây nến rồi để chúng cháy ít nhất là 5 phút. Từ lúc này, ngươi không còn có thể dừng nghi thức được nữa."
+
+msgid ""
+"After the 5 minutes have passed, burn the tuft of hair on one of the candles.\n"
+"Proceed to blow out all the candles one by one."
+msgstr ""
+"Khi 5 phút trôi qua rồi, đốt nhúm tóc bằng một trong các cây nến.\n"
+"Tiếp đó thổi tắt hết nến từng cây một."
+
+msgid "When the last candle is put out, quickly close your eyes and count to 100."
+msgstr "Khi cây nến cuối cùng được thổi tắt rồi, nhanh chóng nhắm mắt lại rồi đếm đến 100."
+
+msgid "Open your eyes."
+msgstr "Rồi mở mắt ra."
+
+msgid "To Remember:"
+msgstr "Ghi nhớ:"
+
+msgid "You must always close the door behind you. Leaving it open may attract unwanted attention."
+msgstr "Ngươi phải luôn đóng cửa sau lưng. Nếu để cửa mở có khả năng sẽ thu hút sự chú ý không mong muốn."
+
+msgid "Do NOT let the rune out of your possession. It is your only protection."
+msgstr "CHỚ để rune rời khỏi tầm tay. Rune là thủ hộ duy nhất của ngươi."
+
+msgid "Do NOT bring any weapons with you. If you arm yourself, so will they."
+msgstr "CHỚ mang vũ khí theo. Nếu ngươi cầm vũ khí, thì chúng cũng thế."
+
+msgid "Should anything be heard or felt while you count to 100, it must be ignored."
+msgstr "Trong khi đếm đến 100 nếu có cảm thấy hay nghe thấy cái gì đi nữa, cũng phải làm ngơ."
+
+msgid "Do NOT open your eyes."
+msgstr "CHỚ mở mắt ra."
+
+msgid "Do NOT turn on the lights."
+msgstr "CHỚ bật ánh sáng."
+
+msgid "Do NOT move."
+msgstr "CHỚ có di chuyển."
+
+msgid "It is normal to feel like you are not alone. You won't be."
+msgstr "Cảm thấy có ai đó khác thì là điều bình thường. Thực tế sẽ không hề có một mình ngươi."
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "There's no need to read it again."
+msgstr "Không cần phải đọc lại nữa đâu."
+
+msgid "Is that the ritual we're doing right now?"
+msgstr "Đó là cái nghi thức nãy giờ chúng ta đang làm hả?"
+
+msgid "Yeah."
+msgstr "Ừ."
+
+msgid "I wonder if anyone else tried it..."
+msgstr "Không biết có ai khác làm thử rồi chưa..."
+
+msgid "Probably not. It was sealed when I got to it."
+msgstr "Có lẽ chưa ai đâu. Lúc tao tìm thấy thì bị niêm phong."
+
+msgid "That's weird. Did they think it was cursed?"
+msgstr "Kì nhỉ. Người ta nghĩ là nó bị nguyền hay gì chăng?"
+
+msgid "Maybe. I should probably glue it back later."
+msgstr "Có khi. Sau chắc nên dán lại thôi."
+
+msgid "Kat."
+msgstr "Kat."
+
+msgid "Hm?"
+msgstr "Hửm?"
+
+msgid "Just decide already!"
+msgstr "Lựa thì lựa lẹ đi!"
+
+msgid "This window doesn't need any curtains."
+msgstr "Cửa sổ này thì không cần rèm gì."
+
+msgid "Ugh, you disgust me!"
+msgstr "Ựa, kinh tởm mày quá!"
+
+msgid "Why are you holding that like some sort of sick trophy? What is wrong with you!?"
+msgstr "Sao mày phe phẩy cái đó như cái chiến tích bệnh hoạn vậy? Mày bị khùng à?"
+
+msgid "Leave me alone, please."
+msgstr "Để tao yên đi mà."
+
+msgid "(It's too late to put it back...)"
+msgstr "(Gắn lại thế nào được, muộn màng rồi...)"
+
+msgid "Are you done with it?"
+msgstr "Dùng xong rồi hả?"
+
+msgid "Yeah, thanks."
+msgstr "Ờ, cảm ơn."
+
+msgid "Gee, thanks."
+msgstr "Trời ạ, cảm ơn."
+
+msgid "(I can't give it back yet, I haven't even used it!)"
+msgstr "(Chưa thể trả lại được, đã xài đâu!)"
+
+msgctxt "events.Prologue_Club_Occult.item_key_on_girl1.dlg.prologue_girl1"
+msgid "...?"
+msgstr "...?"
+
+msgid "Uhh... why do you have that?"
+msgstr "Ờm... sao mày có chìa tao vậy?"
+
+msgid "Well, thanks for returning it, I guess?"
+msgstr "Ờ thì... cám ơn mày trả lại cho tao nha...?"
+
+msgid "Let me guess. Returning my notebook was too much for you, so you just took the key instead."
+msgstr "Hiểu rồi. Mày không thích lấy hộ vở cho tao nên thay vào đó lấy chìa khóa luôn chứ gì."
+
+msgid "Well, at least you brought it back, I suppose."
+msgstr "Thôi thì, được cái là mày còn trả lại."
+
+msgid "Oh wow. You just took that?"
+msgstr "Ối chà. Mày tự tiện lấy thế hả?"
+
+msgid "You're a real bitch Kat, you know that?"
+msgstr "Mày chó chết lắm Kat, có biết không?"
+
+msgid "...of course you had it all along."
+msgstr "...biết là mày cầm suốt từ đầu đến đuôi mà."
+
+msgid "Now I feel like an idiot for worrying. Hope you enjoyed my key."
+msgstr "Nãy giờ lo lắng cứ như đồ ngớ ngẩn. Cầm chìa khóa của tao lấy làm vui sướng rồi nhé."
+
+msgid "That won't accomplish anything good."
+msgstr "Làm như thế không có được cái gì tốt hết."
+
+msgid "(I feel like setting her on fire but... I'll control myself.)"
+msgstr "(Thèm muốn châm lửa lên nó quá cơ mà... kiềm chế lại thôi.)"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.prologue_girl1"
+msgid "What?"
+msgstr "Gì?"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.kat"
+msgid "What?"
+msgstr "Gì?"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "(She really isn't that bad.)"
+msgstr "(Con này không thực sự khó ưa đến thế đâu)"
+
+msgid "(It would be a shame to set such pretty hair on fire.)"
+msgstr "(Đốt cháy mất mái tóc xinh đẹp như vầy thì ái ngại lắm.)"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl3.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "(Nah...)"
+msgstr "(Hông...)"
+
+msgid "Is this your notebook?"
+msgstr "Này vở của mày phải không?"
+
+msgid "Yeah, that's it. I hope you didn't look through it."
+msgstr "Ờ đó đó. Không có lật ra xem đấy chứ?"
+
+msgid "Nope. Your secrets are safe."
+msgstr "Đâu có đâu. Bí mật vẫn cứ là bí mật."
+
+msgid "Alright."
+msgstr "Ừ cảm ơn."
+
+msgid "Nope. Your math is safe."
+msgstr "Đâu có đâu. Bài tập toán của mày vẫn cứ là bí mật."
+
+msgid "Of course you looked. Hope you at least solved some of the exercises."
+msgstr "Đương nhiên làm gì mày không xem. Phải chi nhân thể ít ra giải luôn được vài bài cho tao thì tốt rồi."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "What? Did you really think I'd leave my personal journal in your hands?"
+msgstr "Giề? Nghĩ tao mà lại giao nhật ký riêng tư của mình cho cái đồ như mày thật á?"
+
+msgid "Well, a promise is a promise anyways."
+msgstr "Mà thôi được rồi, hứa là hứa."
+
+msgid "Here's the key. Bring it back when you're done with it."
+msgstr "Chìa khóa đây. Xong rồi nhớ trả đấy nhé."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.kat"
+msgid "Thanks!"
+msgstr "Cám ơn!"
+
+msgid "Yeah, that's it. But, you don't need the key anymore, do you?"
+msgstr "Ờ, vở tao đó. Nhưng mà mày cần chìa khóa làm cái gì nữa đâu?"
+
+msgid "Why did you bother stealing it if you were gonna get me the notebook either way?"
+msgstr "Dù gì cũng đi lấy vở cho tao rồi thì mắc gì còn phải ăn cắp chìa khóa hả?"
+
+msgid "Sigh... whatever. Thanks, weirdo."
+msgstr "Hầy... thôi kệ, sao cũng được. Cám ơn nhé cái đồ lập dị."
+
+msgid "*gasp*"
+msgstr "*hớp hơi*"
+
+msgid "I uh... I don't seem to have the key with me."
+msgstr "A, c... cái chìa khóa của tao sao nó đâu mất rồi í."
+
+msgid "I could've sworn I had it... I'm sorry. I promise to let you use it tomorrow!"
+msgstr "Chắc chắn tao cầm miết mà... Xin lỗi. Hứa ngày mai sẽ cho mày mượn!"
+
+msgid "It's fine! Don't worry about it!"
+msgstr "Không sao đâu! Đừng có lo lắng!"
+
+msgid "Do you seriously think I'll give you the key after what you did?"
+msgstr "Mày làm cái trò đó mà còn nghĩ tao sẽ đưa chìa khóa cho mày thật hả?"
+
+msgid "...Yes?"
+msgstr "...Ờ đúng thế?"
+
+msgid "Piss off, Kat. And give me that!"
+msgstr "Đưa đây rồi cút luôn đi Kat!"
+
+msgid "You don't even care? Whatever. Give me that!"
+msgstr "Mày còn chả để ý gì luôn? Sao cũng được. Đưa đây mau!"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "You come here, you ruin our game, you cut our hair, you steal my things and now you just bring me this?"
+msgstr "Mày vào đây, mày phá đám, mày cắt tóc, rồi mày ăn cắp đồ, rồi giờ mày lại đường hoàng mang vở cho tao?"
+
+msgid "I have no words left for you, you little sociopath."
+msgstr "Tao chả buồn nói gì nữa đâu bớ cái con tâm thần."
+
+msgid "Does this happen to be yours?"
+msgstr "Không biết chừng cái này là của mày chăng?"
+
+msgid "Huh? Why do you have that? Are you going through my stuff now?"
+msgstr "Hở? Sao mày có hay vậy? Mày lục đồ tao à?"
+
+msgid "Nah... I just had a feeling."
+msgstr "Đâu... tự dưng tao kiếm được đoán có khi của mày thôi."
+
+msgid "Your feeling is right. May I have my notebook back?"
+msgstr "Đoán trúng rồi đấy. Tao nhận lại được không?"
+
+msgid "Here you go."
+msgstr "Mời dùng ạ."
+
+msgid "Are you kidding me? First the hair and now blackmail?"
+msgstr "Mày giỡn mặt hả? Đầu tiên là tóc rồi lần này là hăm dọa nữa sao?"
+
+msgid "I don't care what you want, and I don't care why you have my notebook."
+msgstr "Tao chả quan tâm mày muốn làm cái gì, cũng chả quan tâm tại sao mày lại có vở của tao."
+
+msgid "Give it back or I'll get the teacher to beat your ass tomorrow morning!"
+msgstr "Trả lại đây mau. Không thì sáng mai tao kêu thầy giáo cho mày no đòn!"
+
+msgid "Geez... Stuff it. I don't want your stupid notebook."
+msgstr "Rồi vâng... gớm. Tao mà thèm cái thứ vở ngáo của mày."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.kat"
+msgid "Hey, is this yours?"
+msgstr "Nè đây của mày phải không?"
+
+msgid "Um..."
+msgstr "Ờm..."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.prologue_girl1"
+msgid "Wait, can I see that...?"
+msgstr "Từ từ, đưa tao coi với...?"
+
+msgid "For the love of... give me that!"
+msgstr "Trời đất ạ... đưa đây mau!"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.prologue_girl1"
+msgid "What are you doing...? Please bring that here."
+msgstr "Làm cái gì vậy...? Đem vở cho tao chứ?"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.kat"
+msgid "Hey, is this yours?"
+msgstr "Nè đây của mày phải không?"
+
+msgid "Uhh..."
+msgstr "Ừm..."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.prologue_girl1"
+msgid "Wait, can I see that...?"
+msgstr "Từ từ, đưa tao coi với...?"
+
+msgid "For the love of... bring that here!"
+msgstr "Trời đất ạ... đưa đây mau!"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.prologue_girl1"
+msgid "What are you doing...? Please bring that here."
+msgstr "Làm cái gì vậy...? Đem vở cho tao chứ?"
+
+msgid "Finally, let's cut this open."
+msgstr "Rồi vậy cắt mở thùng ra thôi."
+
+msgid "(Nothing else needs cutting here.)"
+msgstr "(Không còn cái gì khác cần cắt đâu.)"
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Did you just...?"
+msgstr "Chẳng lẽ mày vừa...?"
+
+msgid "Oh. My. God."
+msgstr "Ôi Trời Đất Ơi."
+
+msgid "WHAT HAVE YOU DONE!?"
+msgstr "MÀY LÀM TRÒ GÌ THẾ!?"
+
+msgid "GET THE HELL OUT!!!"
+msgstr "CÚT RA NGOÀI MAU!!!"
+
+msgid "Get away from me!"
+msgstr "Tránh xa tao ra!"
+
+msgid "(I already got all the hair I need, no need to be petty.)"
+msgstr "(Đã có trong tay tóc mình cần rồi, không cần phải nhỏ nhen như thế.)"
+
+msgid "(Nah... she's fine.)"
+msgstr "(Thôi... cắt nó làm gì.)"
+
+msgid "...!?"
+msgstr "...!?"
+
+msgid "What in the actual hell..."
+msgstr "Mày vừa làm cái quái..."
+
+msgid "Are you kidding me right now!?"
+msgstr "Mày giỡn mặt hả trời!?"
+
+msgid "Oh no..."
+msgstr "Sao lại..."
+
+msgid "DON'T TOUCH HER! GET OUT OF HERE!"
+msgstr "ĐỪNG CÓ ĐỘNG VÀO NÓ! CÚT RA NGOÀI MAU!"
+
+msgid "Don't you dare..."
+msgstr "Mày đừng có giở trò..."
+
+msgid "(I don't need to do that. Plus, I kinda like her hair - it's a pretty color.)"
+msgstr "(Không cần phải làm thế. Với lại, tóc của con này màu nó đẹp mình thấy thích.)"
+
+msgid "(I don't wanna ruin her hair.)"
+msgstr "(Sao lại nỡ phá đi mái tóc xinh đẹp thế này.)"
+
+msgctxt "events.Prologue_Club_Occult.item_scissors_on_girl3.dlg.prologue_girl3"
+msgid "...?"
+msgstr "...?"
+
+msgid "WHAT THE HELL ARE YOU DOING TO HER!?"
+msgstr "MÀY VỪA LÀM CÁI QUÁI GÌ HẢ!?"
+
+msgid "She cut... her hair..."
+msgstr "Nó cắt... tóc của Kaya rồi..."
+
+msgid "Why...?"
+msgstr "Tại sao...?"
+
+msgid "GET OUT RIGHT THIS SECOND!!!"
+msgstr "CÚT RA NGOÀI NGAY!!!!"
+
+msgid "Kat, if you touch me with those scissors..."
+msgstr "Kat, mày mà động cái kéo này vào tao..."
+
+msgid "I'll make you swallow them."
+msgstr "Thì tao dộng nó xuống họng mày đấy."
+
+msgid "(She looks like she's asking for it, but I already have all the hair I need.)"
+msgstr "(Trông kiểu muốn xin mình cắt cho ấy, nhưng mình có đủ tóc rồi.)"
+
+msgid "(She doesn't deserve it, I think.)"
+msgstr "(Nghĩ là nó không đáng phải bị cắt tóc đâu.)"
+
+msgid "It's a school bag."
+msgstr "Cái cặp."
+
+msgid "There's something shiny inside."
+msgstr "Có cái gì đó sáng sáng cất bên trong."
+
+msgid "Do you need something?"
+msgstr "Cần gì hả?"
+
+msgid "Maybe later."
+msgstr "Để sau đi."
+
+msgid "(What if I accidentally push the bag off the chair?)"
+msgstr "(Nếu giả vờ vô tình xô cặp khỏi ghế thì sao?)"
+
+msgid "Push the bag?"
+msgstr "Xô cặp chứ?"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.choice.Push the bag?"
+msgid "Yes"
+msgstr "Xô"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.choice.Push the bag?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "What the-!"
+msgstr "Ớ-!"
+
+msgid "I'm so sorry! Oh dear me, let me pick that up for you!"
+msgstr "Xin lỗi xin lỗi! Tao nhặt lên cho!"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "I'll be out of your hair now!"
+msgstr "Hứa không quấy rầy nữa đâu nha!"
+
+msgid "(No need to mess with it anymore.)"
+msgstr "(Không cần đụng chạm gì thêm nữa đâu.)"
+
+msgid "An empty chair with no bag on it."
+msgstr "Ghế trống không, cái cặp không còn."
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.dlg.narrator"
+msgid "An empty chair."
+msgstr "Ghế không có ai ngồi cả."
+
+msgid "It's the box for the game the girls were playing."
+msgstr "Hộp trò chơi mà mấy con này nãy đang chơi."
+
+msgid "It says \"Wiji Game Board - for 2 to 4 players. Get answers from beyond!\"."
+msgstr "Nó ghi là \"Wiji Game Board - Dành cho 2 đến 4 người chơi. Hãy lắng nghe tiếng gọi từ bên kia!\"."
+
+msgid "\"WARNING: We take no responsibility for any adverse effects playing this game could cause to you or your loved ones.\""
+msgstr "\"Chú ý: Chúng tôi không chịu trách nhiệm cho bất kì ảnh hưởng xấu nào có thể gây ra cho bạn hoặc cho người thân yêu của bạn khi chơi trò chơi này.\""
+
+msgid "Such as disappointment, I presume?"
+msgstr "Ảnh hưởng xấu thì chẳng hạn như là thấy thất vọng á?"
+
+msgid "The disappointment was your fault, though..."
+msgstr "Tại mày nói nên mới có thất vọng đấy..."
+
+msgid "A thick purple book."
+msgstr "Sách dầy màu tím."
+
+msgid "(A spellbook? It looks weird. And it also looks fake.)"
+msgstr "(Sách thần chú à? Kiểu dáng kì cục. Với trông giả cầy.)"
+
+msgid "There's a book entitled \"Creepy Cryptids and where to find them\"."
+msgstr "Có quyển sách mang tên \"Sinh vật bí dị và nơi tìm ra chúng\"."
+
+msgid "There's a book entitled \"The truth behind mermaids exposed\"."
+msgstr "Có quyển sách mang tên \"Phơi bày chân tướng nhân ngư\"."
+
+msgid "There's a book entitled \"Magic Circles for simpletons\"."
+msgstr "Có quyển sách mang tên \"Vòng tròn Ma pháp cho người tối dạ\"."
+
+msgid "Cardboard boxes marked with a symbol. They're sealed with tape."
+msgstr "Thùng các-tông có vẽ ký hiệu nào đó. Đang bị băng dính niêm phong."
+
+msgid "(The runes my friend mentioned may be in here, but I need a way to open it.)"
+msgstr "(Mấy cái rune mấy đứa bạn có nói là ở trong này chăng, mà mở bằng tay thì chịu.)"
+
+msgid "(I need a way to open this, I'm not going to carry the entire box around.)"
+msgstr "(Tìm cách mở thôi, chứ bê cả thùng đi thế nào được.)"
+
+msgid "(There are two runes left in the box, but I only need one for the ritual.)"
+msgstr "(Có 2 cái rune còn lại trong hộp, mà mình chỉ cần 1 cái cho nghi thức thôi.)"
+
+msgid "(But maybe I picked the wrong one...)"
+msgstr "(Nhưng có khi lại chọn không đúng cái...)"
+
+msgid "Switch my rune"
+msgstr "Đổi rune khác"
+
+msgid "Do nothing"
+msgstr "Không làm gì"
+
+msgid "Which one then?"
+msgstr "Đổi lấy cái nào đây?"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird C"
+msgstr "Cái có chữ C kì cục"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird B"
+msgstr "Cái có chữ B kì cục"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird O"
+msgstr "Cái có chữ O kì cục"
+
+msgid "Just take everything"
+msgstr "Cứ lấy hết"
+
+msgid "Well, it doesn't say I CAN'T have more than one."
+msgstr "Dù gì luật cũng đâu có ghi KHÔNG ĐƯỢC cầm hơn 1 cái đâu."
+
+msgid "If only there were four..."
+msgstr "Giá mà có bốn cái..."
+
+msgid "We could get one each. Not that they do anything."
+msgstr "Thì mỗi người cầm một cái rồi nhỉ. Mà có vậy cũng chả được việc gì nên."
+
+msgid "There's nothing else of use."
+msgstr "Không còn cái gì khác xài được đâu."
+
+msgid "I need to get this open..."
+msgstr "Phải mở được cái này ra cơ..."
+
+msgid "Um... ever heard of nails?"
+msgstr "Ờ... có biết cái gọi là móng tay không?"
+
+msgid "Well..."
+msgstr "Ừ thì..."
+
+msgid "Ugh, step aside."
+msgstr "Hờ, thôi tránh ra."
+
+msgid "Tada!"
+msgstr "Tèn ten!"
+
+msgid "Saki is so practical..."
+msgstr "Saki thực tế ghê..."
+
+msgid "Man... is this your idea of fun?"
+msgstr "Chời... thế này mà gọi là vui hả?"
+
+msgid "What do you mean?"
+msgstr "Ý mày là sao?"
+
+msgid "It doesn't matter. Now let's see..."
+msgstr "Sao cũng được. Giờ coi nào coi nào..."
+
+msgid "A clean chalkboard."
+msgstr "Tấm bảng phấn sạch bong."
+
+msgid "My fabulous masterpiece is displayed here."
+msgstr "Kiệt tác hoàn bích của mình là đây chứ đâu."
+
+msgid "There's some chalk here."
+msgstr "Ở đây có phấn viết."
+
+msgid "Take Chalk?"
+msgstr "Lấy phấn viết chứ?"
+
+msgctxt "events.Prologue_Club_Occult.misc_chalkboard.choice.Take Chalk?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Prologue_Club_Occult.misc_chalkboard.choice.Take Chalk?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "But it's too dark to see now."
+msgstr "Tối quá không nhìn rõ được."
+
+msgid "A stuffed crow."
+msgstr "Con quạ nhồi."
+
+msgid "(An interesting choice of decoration...)"
+msgstr "(Lựa chọn trang trí thú vị nhỉ...)"
+
+msgid "It's messed up now."
+msgstr "Nó bị vỡ ra rồi."
+
+msgid "A crystal ball resting on a cushion."
+msgstr "Ngọc pha lê tựa trên nệm lót."
+
+msgid "(Wow, that cheap plastic exterior really makes it look authentic.)"
+msgstr "(Oa, cái đồ bằng nhựa rẻ tiền thế này mà trông xịn phết ta.)"
+
+msgid "This drawer won't open."
+msgstr "Ngăn kéo này không mở được."
+
+msgid "(I don't see a keyhole, so it must be stuck somehow.)"
+msgstr "(Không thấy lỗ khóa nào, nên chắc là bị kẹt hay sao đó.)"
+
+msgid "There's nothing of use here."
+msgstr "Ở đây không có thứ gì dùng được."
+
+msgid "Don't even bother sitting with us after you ruined our night."
+msgstr "Phá đám bọn tao thế này rồi thì đừng có mà ngồi cùng."
+
+msgid "Can't you read the room? We don't want you around. Leave!"
+msgstr "Mày có biết ý tứ không? Bọn tao không có cần mày. Đi ra!"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.dlg.narrator"
+msgid "An empty chair."
+msgstr "Ghế không có ai ngồi cả."
+
+msgid "An empty chair. Sit down?"
+msgstr "Ghế không có ai ngồi cả. Ngồi chứ?"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.choice.An empty chair. Sit down?"
+msgid "Yes"
+msgstr "Ngồi"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.choice.An empty chair. Sit down?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "The girls are gone."
+msgstr "Đám nó biến đi đâu rồi."
+
+msgctxt "events.Prologue_Club_Occult.misc_girl_gone.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Prologue_Club_Occult.misc_girl_gone.dlg.narrator"
+msgid "An empty chair."
+msgstr "Ghế không có ai ngồi cả."
+
+msgid "A spherical model of the Earth. Red crosses mark certain locations."
+msgstr "Quả địa cầu. Có dấu X đỏ đánh lên vài chỗ."
+
+msgid "Some books and jars filled with.... something."
+msgstr "Vài cuốn sách với cái lọ có chứa... chất gì đó."
+
+msgid "There's no need to mess with the lights anymore."
+msgstr "Không cần nghịch đèn nữa."
+
+msgid "The light switch isn't working."
+msgstr "Công tắc điện đèn có vẻ bị trục trặc."
+
+msgid "Some small plants. Their quiet existence fascinates you."
+msgstr "Vài cái cây nhỏ. Vẻ hiện diện tĩnh lặng của chúng khiến ta mê hoặc."
+
+msgid "The drawer underneath is empty."
+msgstr "Ở ngăn kéo bên dưới không cất gì cả."
+
+msgid "Suspicious news articles and posters representing magic circles."
+msgstr "Mấy bài báo đáng ngờ cùng với tấm áp-phích có vẽ vòng tròn ma pháp."
+
+msgid "An expensive-looking radio."
+msgstr "Cái radio trông có vẻ đắt tiền."
+
+msgid "Turn it on?"
+msgstr "Bật nó lên chứ?"
+
+msgctxt "events.Prologue_Club_Occult.misc_radio.choice.Turn it on?"
+msgid "Yes"
+msgstr "Bật"
+
+msgctxt "events.Prologue_Club_Occult.misc_radio.choice.Turn it on?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "What are you even doing?"
+msgstr "Tính làm chi vậy?"
+
+msgid "Just looking around."
+msgstr "Tìm đồ tí thôi."
+
+msgid "No need to turn it on again."
+msgstr "Không cần bật lên lại đâu."
+
+msgid "It has no power."
+msgstr "Nó bị mất điện rồi."
+
+msgid "A trash can. It seems to be full."
+msgstr "Thùng rác. Trông đầy nhóc rác."
+
+msgid "There's a certain level of desperation needed for someone to dig through the trash. You're not at that level."
+msgstr "Nghị lực đến mức thượng thừa mới dám bới qua đống rác này. Bạn chưa đến tầm đó đâu."
+
+msgid "A cool breeze blows in from outside."
+msgstr "Làn gió mát từ bên ngoài thổi vào."
+
+msgid "Close the window?"
+msgstr "Đóng cửa sổ chứ?"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Close the window?"
+msgid "Yes"
+msgstr "Đóng"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Close the window?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Open the window?"
+msgstr "Mở cửa sổ chứ?"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Open the window?"
+msgid "Yes"
+msgstr "Mở"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Open the window?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "...Huh?"
+msgstr "...Ủa?"
+
+msgid "I can't seem to open it..."
+msgstr "Không mở được..."
+
+msgid "Are you trying to freak us out on purpose?"
+msgstr "Định cố ý làm bọn tao hoảng à?"
+
+msgid "(These curtains are very thin. I don't think they would work.)"
+msgstr "(Rèm chỗ này mỏng quá. Nghĩ không xài được đâu.)"
+
+msgid "(Better read my notes to make sure I'm not forgetting anything in this room before leaving.)"
+msgstr "(Trước khi ra thì coi lại ghi chú xem có quên thứ gì trong phòng này không cho chắc.)"

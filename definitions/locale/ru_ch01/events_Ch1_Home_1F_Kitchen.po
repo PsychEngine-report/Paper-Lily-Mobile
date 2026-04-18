@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Remove the red string?"
+msgstr "Убрать красную нить?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.event_remove_ribbon.choice.Remove the red string?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.event_remove_ribbon.choice.Remove the red string?"
+msgid "No"
+msgstr "Нет"
+
+msgid "This is the cable I need to tie a red string to."
+msgstr "Это провод, к которому мне нужно привязать красную нить."
+
+msgid "This is the cable you should tie a red string to."
+msgstr "Это провод, к которому вам нужно привязать красную нить."
+
+msgid "Some bird food."
+msgstr "Корм для птиц."
+
+msgid "Take ${item:ch1.bird_food}?"
+msgstr "Взять ${item:ch1.bird_food}?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.item_birdfood_get.choice.Take ${item:ch1.bird_food}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.item_birdfood_get.choice.Take ${item:ch1.bird_food}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Is a bunny rabbit knot fine...?"
+msgstr "Кроличьи ушки сойдут в роли узла?.."
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_counter.dlg.narrator"
+msgid "Nothing of interest."
+msgstr "Ничего интересного."
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_counter_2.dlg.narrator"
+msgid "Nothing of interest."
+msgstr "Ничего интересного."
+
+msgid "Drawers filled with miscellaneous items unfit for a kitchen."
+msgstr "Шкафы с разнообразными вещами не под стать кухне."
+
+msgid "A landline phone."
+msgstr "Стационарный телефон."
+
+msgid "Dial a number?"
+msgstr "Набрать номер?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_cupboard2.choice.Dial a number?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_cupboard2.choice.Dial a number?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A red string can be seen hanging from its cord."
+msgstr "С его провода можно увидеть свисающую нить."
+
+msgid "The phone is ringing. Pick up?"
+msgstr "Телефон звонит. Взять трубку?"
+
+msgid "Pick up the phone"
+msgstr "Взять трубку"
+
+msgid "Ignore it"
+msgstr "Проигнорировать"
+
+msgid "Looks like I just missed it..."
+msgstr "Похоже, я его упустила..."
+
+msgid "A large cupboard. There's nothing inside."
+msgstr "Большой шкафчик. В нём ничего нет."
+
+msgid "A rice cooker."
+msgstr "Рисоварка."
+
+msgid "Various kitchen tools are stored in the drawers underneath."
+msgstr "В выдвижных ящиках снизу хранятся разные кухонные инструменты."
+
+msgid "Cutlery is stored in this drawer."
+msgstr "В этом выдвижном ящике хранятся столовые приборы."
+
+msgid "Checking the contents of the fridge calms you down."
+msgstr "Вам становится спокойнее от просмотра содержимого холодильника."
+
+msgid "Do you want to have the leftovers mother left for you?"
+msgstr "Съесть то, что вам оставила мама?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_fridge.choice.Do you want to have the leftovers mother left for you?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_fridge.choice.Do you want to have the leftovers mother left for you?"
+msgid "No"
+msgstr "Нет"
+
+msgid "...for a last meal, it kind of sucked."
+msgstr "...Как для последнего ужина, вышло хреновенько."
+
+msgid "Nothing new has materialized since the last time you checked."
+msgstr "С прошлого раза ничего нового не материализовалось."
+
+msgid "There's no time for snacks right now."
+msgstr "Сейчас не до еды."
+
+msgid "A bowl full of fresh fruit."
+msgstr "Миска со свежими фруктами."
+
+msgid "The microwave emanates an aura of familiarity."
+msgstr "Микроволновка вам как родная."
+
+msgid "A microwave oven."
+msgstr "Микроволновая печь."
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.dlg.narrator"
+msgid "A note from your mother."
+msgstr "Записка от вашей мамы."
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice"
+msgid "Read it?"
+msgstr "Прочесть её?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice.Read it?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice.Read it?"
+msgid "No"
+msgstr "Нет"
+
+msgid "\"Your dad and I will be back on Monday."
+msgstr "\"Мы с папой будем дома в понедельник."
+
+msgid "There's food in the fridge, make sure to heat it up."
+msgstr "Еда в холодильнике. Главное, подогрей её."
+
+msgid "Call us at (195)-224#1 if there's any problem."
+msgstr "Если будут какие-то вопросы, звони нам - (195)-224#1"
+
+msgid "- Mom\""
+msgstr "- Мама\""
+
+msgid "The letter is gone."
+msgstr "Письмо пропало."
+
+msgid "Didyousee?Didyouseeit?Yousawit.Youpretendedyoudidnt.Yousawit.Didyoupretend?Whydidyoupretend?Yousawallofit."
+msgstr "Тывидела?Тывидела.Делаешьвидчтонет.Нотывидела.Делаешьвид?Зачемделаешьвид?Тывсёвидела."
+
+msgid "Butyouforgotsomething.Doyouknowwhatyouforgot?Youforgotsomethingthere.Backthen.Don'tworry.Itookcareofit.Shetookcareofit.Shetakescareofiteverytime."
+msgstr "Нотыкоечтозабыла.Знаешьчтотызабыла?Коечтотызабыла.Ещётогда.Неволнуйся.Яужеразобралась.Онаразобралась.Онавсегдаразбирается."
+
+msgid "A note from someone."
+msgstr "Чья-то записка."
+
+msgid "\"_____ Ritual. What you'll need: Candles, a knife, a chunk of meat, a hiding place, an accomplice, a victim..."
+msgstr "\"Ритуал с _______. Нужно: Свечки, нож, кусок мяса, укромное место, сообщник, жертва..."
+
+msgid "Wait... was that really how it went?\""
+msgstr "Стоп... там точно так было?\""
+
+msgid "The oven. You hardly ever use it."
+msgstr "Печка. Вы ей почти что не пользуетесь."
+
+msgid "A tall, green plant."
+msgstr "Высокое зелёное растение."
+
+msgid "A very clean sink."
+msgstr "Чистенькая раковина."
+
+msgid "Turn on the tap?"
+msgstr "Включить кран?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn on the tap?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn on the tap?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Turn off the tap?"
+msgstr "Выключить кран?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn off the tap?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn off the tap?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A dining table. You sometimes eat here."
+msgstr "Обеденный стол. Порой вы тут едите."
+
+msgid "A toaster."
+msgstr "Тостер."
+
+msgid "A trash can with nothing but the memory of bad kitchen smells."
+msgstr "Мусорная урна, в которой остались лишь отголоски плохих запахов."

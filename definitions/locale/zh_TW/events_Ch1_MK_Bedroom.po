@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "箱子還是鎖住的..."
+
+msgid "The box opens!"
+msgstr "箱子打開了！"
+
+msgid "There's a key inside."
+msgstr "裡面有一把鑰匙。"
+
+msgid "There's some kind of black rag here."
+msgstr "這裡有塊黑布。"
+
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "拿走 ${item:ch1.mk_compress} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "A large basket filled with toys."
+msgstr "裝著玩具的大袋子。"
+
+msgid "What is all of this..?"
+msgstr "這些到底是什麼...？"
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "裡面有遙控車之類的東西嗎？"
+
+msgid "Mmm... no."
+msgstr "嗯...沒有。"
+
+msgid "That's oddly specific."
+msgstr "聽起來好明確。"
+
+msgid "They're fun."
+msgstr "它很好玩。"
+
+msgid "An oversized bed."
+msgstr "一張過大的床。"
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "(這張床就算對那個惡魔來說也太大了。)"
+
+msgid "Wow, what a luxury."
+msgstr "哇，真是奢侈。"
+
+msgid "There's nothing else in the box."
+msgstr "盒子裡沒有其他東西了。"
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "梳妝台上有個盒子。用密碼鎖鎖著。"
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "(盒子上有鑰匙的圖案...)"
+
+msgid "Try to unlock the box?"
+msgstr "嘗試解鎖盒子嗎？"
+
+msgid "A simple coat hanger."
+msgstr "簡單的掛衣架。"
+
+msgid "A small bedside table."
+msgstr "小床頭櫃。"
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "(對這張床來說顯然太小了。)"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "梳妝台。抽屜裡放滿了各種化妝品。"
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "如果看起來像怪物，為什麼還要化妝？"
+
+msgid "That's not nice."
+msgstr "這麼說不太友善。"
+
+msgid "She locked me in a cage."
+msgstr "她把我關在籠子裡。"
+
+msgid "I'd say she's not nice."
+msgstr "我會說她不太友善。"
+
+msgid "A painting of a window."
+msgstr "用畫的窗戶。"
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "這裡沒有真正的窗戶，一定很悶。"

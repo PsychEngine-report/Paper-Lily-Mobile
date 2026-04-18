@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "Ah, ótimo, eu precisava de algo para matar o tempo."
+
+msgid "You got a crayon too?"
+msgstr "Você tem um giz de cera também?"
+
+msgid "It's not for you."
+msgstr "Não é para você."
+
+msgid "What!?"
+msgstr "O que!?"
+
+msgid "You about to start cleaning in here?"
+msgstr "Você está prestes a começar a limpar aqui?"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "Por que diabos você está balançando esse pé!?"
+
+msgid "Did you cut it..?"
+msgstr "Você cortou..?"
+
+msgid "..."
+msgstr "..."
+
+msgid "I had to."
+msgstr "Eu precisei."
+
+msgid "Mhmmm..."
+msgstr "Mhmmm..."
+
+msgid "It's true."
+msgstr "É verdade."
+
+msgid "Yeah..."
+msgstr "Sim..."
+
+msgid "It's a jar."
+msgstr "É uma jarra."
+
+msgid "Yes."
+msgstr "Sim."
+
+msgid "It's empty."
+msgstr "Está vazio."
+
+msgid "...Yes."
+msgstr "...Sim."
+
+msgid "Why are you showing it to me?"
+msgstr "Por que você está mostrando isso para mim?"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "Só queria ver se você tinha algum comentário sábio a fazer."
+
+msgid "It seems you don't."
+msgstr "Parece que você não."
+
+msgid "H-Hey!"
+msgstr "E-Ei!"
+
+msgid "The key fits!"
+msgstr "A chave se encaixa!"
+
+msgid "Thanks!"
+msgstr "Obrigado!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai se juntou ao seu grupo.)"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "Esta gaiola não tem fechadura."
+
+msgid "The key does not fit."
+msgstr "A chave não cabe."
+
+msgid "Um... could you..."
+msgstr "Hum... você poderia..."
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "O quê? Você nem me ajudou a sair daqui e quer que eu me corte?"
+
+msgid "Is this how you make friends?"
+msgstr "É assim que você faz amigos?"
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "(A piada é sua... eu não faço amigos.)"
+
+msgid "That's not gonna cut through this cage."
+msgstr "Isso não vai atravessar esta jaula."
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "Tem certeza de que não é um piromaníaco?"
+
+msgid "I won't judge, really."
+msgstr "Não vou julgar, sério."
+
+msgid "...I'm not."
+msgstr "...Eu não sou."
+
+msgid "I found this, but I don't know how to use it."
+msgstr "Encontrei isso, mas não sei como usá-lo."
+
+msgid "Can you pick your own lock or something?"
+msgstr "Você pode abrir sua própria fechadura ou algo assim?"
+
+msgid "Sure can!"
+msgstr "Claro que pode!"
+
+msgid "I still look pretty good, all things considered."
+msgstr "Eu ainda pareço muito bem, considerando todas as coisas."
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "Então você teve tempo para fazer tinta manualmente, mas não para me tirar daqui?"
+
+msgid "Correct."
+msgstr "Correto."
+
+msgid "A large cage."
+msgstr "Uma grande gaiola."
+
+msgid "A large cage hangs from the ceiling."
+msgstr "Uma grande gaiola está pendurada no teto."
+
+msgid "A small cage housing a crow."
+msgstr "Uma pequena gaiola que abriga um corvo."
+
+msgid "How cruel, locking up a bird like this."
+msgstr "Que crueldade prender um pássaro assim."
+
+msgid "...Or is it just a regular pet?"
+msgstr "...Ou é apenas um animal de estimação normal?"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "(Não parece haver nenhuma maneira de libertar o pássaro.)"
+
+msgid "The crow is dead."
+msgstr "O corvo está morto."
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "Ah, merda. A senhora Knives devia estar aqui."
+
+msgid "How do you know?"
+msgstr "Como você sabe?"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "Bem, pela minha experiência, os pássaros não entram apenas em combustão."
+
+msgid "A small cage. It's empty."
+msgstr "Uma pequena gaiola. Está vazia."
+
+msgid "The cage you were trapped in."
+msgstr "A gaiola em que você estava presa."
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "Está fechado por todos os lados, por isso é impossível entrar."
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "Vamos tomar cuidado para eu não voltar lá."
+
+msgid "So how'd you... get out?"
+msgstr "Então, como você... saiu?"
+
+msgid "I'm not sure."
+msgstr "Eu não tenho certeza."
+
+msgid "You were here, didn't you see it?"
+msgstr "Você estava aqui, não viu?"
+
+msgid "I wasn't paying attention."
+msgstr "Eu não estava prestando atenção."
+
+msgid "Good job getting out of that."
+msgstr "Bom trabalho saindo disso."
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "Não consegui ver o que você fez, mas você deve ser muito boa em passar por barras de aço sólidas."
+
+msgid "Thanks."
+msgstr "Obrigada."
+
+msgid "Looks like you're in a bind yourself."
+msgstr "Parece que você também está em apuros."
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "(Se ele fosse um demônio, ele poderia simplesmente ter usado seus poderes para escapar... certo?)"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "(Ou talvez ele simplesmente não se importe...?)"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "Ouça, você provavelmente não deveria ficar aqui."
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "Se aquela senhora monstro ouviu o barulho que você fez e vier verificar, você vai ter problemas, sabe?"
+
+msgid "Hmm... you're right."
+msgstr "Hmm... você está certo."
+
+msgid "Well, see you."
+msgstr "Bem, até mais."
+
+msgid "Where are you going?"
+msgstr "Onde você está indo?"
+
+msgid "I'm going to look around a bit."
+msgstr "Vou dar uma olhada por ai."
+
+msgid "...and...?"
+msgstr "...e...?"
+
+msgid "I should try to find an exit too."
+msgstr "Eu deveria tentar encontrar uma saída também."
+
+msgid "...And nothing else...?"
+msgstr "...E nada mais...?"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Are you serious? Get me out of here!"
+msgstr "Você está falando sério? Tire-me daqui!"
+
+msgid "Ah, of course."
+msgstr "Ah, claro."
+
+msgid "Sure, I'll try."
+msgstr "Claro, vou tentar."
+
+msgid "...Alright."
+msgstr "...Tudo bem."
+
+msgid "I lost all my items..."
+msgstr "Perdi todos os meus itens..."
+
+msgid "Do you still have your belongings?"
+msgstr "Você ainda tem seus pertences?"
+
+msgid "My stuff? It's all gone."
+msgstr "Minhas coisas? Tudo se foi."
+
+msgid "I guess the demon lady took it."
+msgstr "Acho que a senhora demônio pegou."
+
+msgid "I see..."
+msgstr "Entendi..."
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "(Isso é muito ruim. Não posso voltar para casa sem minhas coisas.)"
+
+msgid "You're back."
+msgstr "Você voltou."
+
+msgid "Any clues?"
+msgstr "Alguma pista?"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "Sim, falei com uma aranha."
+
+msgid "You spoke to a spider...?"
+msgstr "Você falou com uma aranha...?"
+
+msgid "And did the spider speak back?"
+msgstr "E a aranha respondeu?"
+
+msgid "Ok, that's kinda intriguing."
+msgstr "Ok, isso é meio intrigante."
+
+msgid "He told me what to do to get out of here."
+msgstr "Ele me disse o que fazer para sair daqui."
+
+msgid "Really?"
+msgstr "Sério?"
+
+msgid "Yes. I'll take care of it."
+msgstr "Sim. Eu cuidarei disso."
+
+msgid "Aaaalright."
+msgstr "Tranquiloooo."
+
+msgid "I'll just... be here."
+msgstr "Eu só... vou continuar aqui."
+
+msgid "Well, see you later."
+msgstr "Bem, vejo você mais tarde."
+
+msgid "Got it."
+msgstr "Certo."
+
+msgid "If you want a lollipop I have more."
+msgstr "Se você quiser um pirulito eu tenho mais."
+
+msgid "No thank you."
+msgstr "Não, obrigada."
+
+msgid "Be careful out there."
+msgstr "Tenha cuidado lá fora."
+
+msgid "The cage Sai was in."
+msgstr "A jaula em que Sai estava."
+
+msgid "Sai isn't here anymore."
+msgstr "Sai não está mais aqui."
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "Ei, ei... você vai embora...?"
+
+msgid "Wait."
+msgstr "Espere."
+
+msgid "Hm?"
+msgstr "Hm?"
+
+msgid "What did you try to buy?"
+msgstr "O que você tentou comprar?"
+
+msgid "...What?"
+msgstr "...O quê?"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "Você disse que tentou comprar algo na loja hoje."
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "...Por que você está perguntando isso agora, entre todos os momentos?"
+
+msgid "Just curious."
+msgstr "Só por curiosidade."
+
+msgid "...It was just a flan."
+msgstr "...Era apenas um pudim."
+
+msgid "...It was just some macarons."
+msgstr "...Eram apenas alguns macarons."
+
+msgid "...It was just a chocolate eclair."
+msgstr "...Era apenas uma bomba de chocolate."
+
+msgid "Huh."
+msgstr "Huh."
+
+msgid "So you like flan?"
+msgstr "Então você gosta de pudim?"
+
+msgid "So you like macarons?"
+msgstr "Então você gosta de macarons?"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "Você gosta de bomba? Apenas de chocolate?"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "Este é realmente o momento de ter essa discussão?"
+
+msgid "When else? I'm bored now, not later."
+msgstr "Quando mais? Estou entediado agora, não mais tarde."
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "Não é como se eu tivesse muito em que pensar nesta jaula."
+
+msgid "...I'm leaving."
+msgstr "...Estou indo embora."
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "Espere, pelo menos me diga seu nome, e te deixo em paz!"
+
+msgid "...Sigh."
+msgstr "...Argh."
+
+msgid "It's Lacie."
+msgstr "É Lacie."
+
+msgid "Will that be all?"
+msgstr "Isso é tudo?"
+
+msgid "Yeah!"
+msgstr "Uhum!"
+
+msgid "I'll be going then."
+msgstr "Eu irei então."
+
+msgid "Good luck, try not to get killed."
+msgstr "Boa sorte, tente não ser morta."
+
+msgid "...Mhm."
+msgstr "...Mhm."
+
+msgid "I'm not sure where I am right now..."
+msgstr "Não tenho certeza de onde estou agora..."
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "Mas tudo o que tenho que fazer é encontrar a saída sem esbarrar naquele monstro."
+
+msgid "...Or should I help that guy first?"
+msgstr "...Ou devo ajudar aquele cara primeiro?"
+
+msgid "Um, so..."
+msgstr "Hum, então..."
+
+msgid "The knives lady was here."
+msgstr "A senhora knives esteve aqui."
+
+msgid "She pulverized that bird."
+msgstr "Ela pulverizou aquele pássaro."
+
+msgid "It was crazy, I thought I was toast."
+msgstr "Foi uma loucura, pensei que ia morrer."
+
+msgid "Where did she go after?"
+msgstr "Para onde ela foi depois?"
+
+msgid "No clue."
+msgstr "Nenhuma pista."

@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is so fun, I haven't waited for the bus in ages!"
+msgstr "To takie fajne, od dawna nie czekałem na autobus!"
+
+msgid "(There's nothing fun in waiting for the bus...)"
+msgstr "(Nie ma nic fajnego w czekaniu na autobus...)"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "Tak w ogóle, wiesz że te pierścienie wróżek stopniowo się rozszerzają i obejmują coraz większy obszar?"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "Słyszałem, że gdy zjedzą wystarczająco dużo, otwierają się i połykają powierzchnię!"
+
+msgid "So when that happened, one of them swallowed the station and a whole bus."
+msgstr "Więc kiedy to się stało, jeden z nich połknął przystanek i cały autobus."
+
+msgid "(Apparently Glen was really unhappy so they destroyed most of the fairy rings.)"
+msgstr "(Najwyraźniej Glen był bardzo niezadowolony, więc zniszczyli większość pierścieni wróżek.)"
+
+msgid "(Glen?)"
+msgstr "(Glen?)"
+
+msgid "Wait... why don't they just destroy all of them?"
+msgstr "Zaraz... dlaczego po prostu nie zniszczą ich wszystkich?"
+
+msgid "I dunno."
+msgstr "Nie wiem."
+
+msgid "They usually remove some of them, every few years..."
+msgstr "Zazwyczaj usuwają niektóre z nich, co parę lat..."
+
+msgid "...Now that you mention it, I'm not sure why they don't just remove them all."
+msgstr "...Tak właściwie to nie wiem czemu nie mogli by się ich pozbyć wszystkich."
+
+msgid "Maybe it's too much work to remove the fairy rings..?"
+msgstr "Może usuwanie pierścieni wróżek jest zbyt pracochłonne..?"
+
+msgid "Hmm... I wonder..."
+msgstr "Hmm… ciekawe..."
+
+msgid "..."
+msgstr "..."
+
+msgid "Oh I know!"
+msgstr "O, już wiem!"
+
+msgid "Maybe there's something even more terrible underneath, so they're using the fairy rings to seal it away!"
+msgstr "Może pod nimi jest coś jeszcze gorszego, i używają pierścieni wróżek, żeby to zabezbieczyć!"
+
+msgid "No, that can't be it."
+msgstr "Nie, to nie może być to."
+
+msgid "I'll keep thinking."
+msgstr "Będę myśleć dalej."
+
+msgid "Aoi is thinking."
+msgstr "Aoi myśli."
+
+msgid "Hm?"
+msgstr "Hę?"
+
+msgid "Is that...the bus stop?"
+msgstr "Czy to... przystanek autobusowy?"
+
+msgid "Not the current one."
+msgstr "To ten stary."
+
+msgid "But we must be right under the current one."
+msgstr "Ale musimy być tuż pod aktualnym."
+
+msgid "Wow, we sure walked a long way!"
+msgstr "Łał, naprawdę daleko zaszliśmy!"
+
+msgid "(Did I walk all the way back to where I started...!?)"
+msgstr "(Czy wróciłam się do miejsca, z którego przyszłam...!?)"
+
+msgid "So... what brings you here?"
+msgstr "Więc... co cię tu sprowadza?"
+
+msgid "What brings me... down here?"
+msgstr "Co mnie... tu sprowadza?"
+
+msgid "I stepped into the fairy ring."
+msgstr "Weszłam w pierścień wróżek."
+
+msgid "Ah. Right."
+msgstr "A. No tak."
+
+msgid "Classic."
+msgstr "Klasyk."
+
+msgid "I also stepped into it."
+msgstr "Ja też w niego weszłam."
+
+msgid "Yes, of course."
+msgstr "Tak, oczywiście."
+
+msgid "So what brings you to these parts of the forest?"
+msgstr "A co cię sprowadza do tych części lasu?"
+
+msgid "Um..."
+msgstr "Em..."
+
+msgid "(Actually, I wonder if they can they tell I'm human?)"
+msgstr "(Ciekawa jestem, czy rozpoznaje mnie jako człowieka?)"
+
+msgid "(It's best not to say anything about that...)"
+msgstr "(Lepiej o tym nie wspominać...)"
+
+msgid "I'm looking for a lighthouse."
+msgstr "Szukam latarni morskiej."
+
+msgid "Ooh."
+msgstr "Ooo."
+
+msgid "What for?"
+msgstr "A po co?"
+
+msgid "Meeting... someone..?"
+msgstr "Po to, żeby... z kimś się spotkać?"
+
+msgid "(Aoi definitely can't help me with my problem... this is basically a child we're talking about.)"
+msgstr "(Aoi zdecydowanie nie będzie w stanie mi pomóc... to praktycznie jeszcze dziecko.)"
+
+msgid "(So there's no point in elaborating much, I think.)"
+msgstr "(Więc chyba nie ma sensu tego tłumaczyć.)"
+
+msgid "I'm just looking for someone to help me with a problem."
+msgstr "Po prostu szukam kogoś, kto może mi pomóc z problemem."
+
+msgid "Someone like a doctor? Or like an assassin?"
+msgstr "Kogoś jak doktor? Czy raczej płatny zabójca?"
+
+msgid "....."
+msgstr "....."
+
+msgid "...Probably more like a doctor, I guess."
+msgstr "...Chyba prędzej doktora."
+
+msgid "Oh... are you sick, Lacie?"
+msgstr "O... czy jesteś chora, Lacie?"
+
+msgid "No, It's nothing serious, probably."
+msgstr "Nie, to raczej nic poważnego."
+
+msgid "I guess I'll be able to tell once I meet them."
+msgstr "Pewnie się dowiem, jak się już z nim spotkam."
+
+msgid "Ooh!"
+msgstr "Oo!"
+
+msgid "I had a friend I used to meet all the time!"
+msgstr "Miałem przyjaciela, z którym ciągle się spotykałem!"
+
+msgid "But it wasn't at a lighthouse, it was..."
+msgstr "Ale to nie było pod latarnią, to było..."
+
+msgid "But..."
+msgstr "Ale..."
+
+msgid "...It was in the supply closet..."
+msgstr "...To było w schowku..."
+
+msgid "...in secret..."
+msgstr "...i potajemnie..."
+
+msgid "???"
+msgstr "???"
+
+msgid "...But then they died."
+msgstr "...Ale wtedy umarł."
+
+msgid "And now I'll die too....."
+msgstr "I ja też teraz umrę…"
+
+msgid "W-what brings YOU to the forest?"
+msgstr "A... C-Co sprowadza CIEBIE do lasu?"
+
+msgid "Oh, I'm on vacation!"
+msgstr "Och, jestem na urlopie!"
+
+msgid "Oh, that's nice."
+msgstr "O, to dobrze."
+
+msgid "(Phew...)"
+msgstr "(Uff…)"
+
+msgid "That looks heavy..."
+msgstr "To wygląda na ciężkie..."
+
+msgid "You're prepared for anything, aren't you?"
+msgstr "Jesteś gotowa na wszystko, nie?"
+
+msgid "I also like bug-catching!"
+msgstr "Też lubię łapać robaki!"
+
+msgid "The small ones, at least..."
+msgstr "Przynajmniej te mniejsze..."
+
+msgid "What's that?"
+msgstr "Co to takiego?"
+
+msgid "Hmm... I'll show you someday."
+msgstr "Hmm… Kiedyś ci pokażę."
+
+msgid "Aww... alright."
+msgstr "Oj… no dobrze."
+
+msgid "You'll show Aoi someday. Maybe."
+msgstr "Kiedyś pokażesz to Aoi. Być może."
+
+msgid "Are you tired?"
+msgstr "Jesteś zmęczona?"
+
+msgid "There's a bench right there, I guess."
+msgstr "Tam stoi ławka."
+
+msgid "I give it at least 10 more years before it will be fully swallowed!"
+msgstr "Stawiam, że minie jeszcze 10 lat nim zostanie w pełni pochłonięta!"
+
+msgid "Oh, I also have one of those!"
+msgstr "O, ja też takie mam!"
+
+msgid "I heard they taste great, but I'm afraid to try them since they're poisonous and all..."
+msgstr "Słyszałem że są pyszne, ale boję się ich spróbować, ponieważ są trujące czy coś..."
+
+msgid "Or... are you suggesting something???"
+msgstr "Chyba że... coś sugerujesz???"
+
+msgid "(Best not to spoil Aoi too much.)"
+msgstr "(Lepiej nie dopieszczać tak Aoi.)"
+
+msgid "Aww! Thanks!"
+msgstr "Ojej! Dzięki!"
+
+msgid "It's good that you have a light, in case it gets dark in here."
+msgstr "Dobrze że masz światło, na wypadek gdyby zrobiło się tu ciemno."
+
+msgid "I really hope it doesn't..."
+msgstr "Mam nadzieję, że tak się nie stanie..."
+
+msgid "Ah... those rocks..."
+msgstr "A... te kamyki..."
+
+msgid "Sorry, I don't know what those do... You can keep it."
+msgstr "Sorka, nie wiem co one robią... Możesz je zatrzymać."
+
+msgid "Oh oh, are we cooking something?"
+msgstr "O, o, będziemy coś gotować?"
+
+msgid "No, this is for self-defense."
+msgstr "Nie, to do samoobrony."
+
+msgid "?????"
+msgstr "?????"
+
+msgid "Y-yes... I'll cut it off..."
+msgstr "D-dobrze... utnę..."
+
+msgid "I'm sorry..."
+msgstr "Przepraszam..."
+
+msgid "Let's not traumatize Aoi any further."
+msgstr "Lepiej dalej nie straszyć Aoi."
+
+msgid "A bus. It has seen better days."
+msgstr "Autobus. Miewał lepsze dni."
+
+msgid "Isn't that cool?!"
+msgstr "Fajne, nie?!"
+
+msgid "Do you think they ever got the passengers out?"
+msgstr "Myślisz, że wydostali stamtąd pasażerów?"
+
+msgid "I can't see inside, so... I guess we'll never know."
+msgstr "Nie mogę zajrzeć do środka, więc... Raczej się nie dowiemy."
+
+msgid "Maybe it's best that way."
+msgstr "Może tak będzie lepiej."
+
+msgid "I think it would ruin my day if we found corpses in there."
+msgstr "Gdybyśmy znalazły w środku zwłoki, miałbym zepsuty dzień."
+
+msgid "(Is your day not already ruined by being trapped in this place?)"
+msgstr "(Czy utknięcie tutaj nie zepsuło ci już dnia?)"
+
+msgid "Looks like pieces of asphalt."
+msgstr "Wyglądają na kawałki asfaltu."
+
+msgid "A signpost. It's bent."
+msgstr "Znak drogowy. Jest wykrzywiony."
+
+msgid "(The schedule seems to show quite a few buses coming every day.)"
+msgstr "(Rozkład pokazuje sporą ilość autobusów kursujących tu codziennie.)"
+
+msgid "Strange... the other schedule I saw was empty."
+msgstr "Dziwne... rozkład który widziałam był pusty."
+
+msgid "Oh! Back in the day, the bus used to come more often... this is probably an old schedule."
+msgstr "Och! Dawniej autobus przyjeżdżał częściej... to pewnie jest stary rozkład."
+
+msgid "The other schedule you saw must be the updated one."
+msgstr "Rozkład który widziałaś musi być tym nowszym."
+
+msgid "Nowadays it's very rare..."
+msgstr "Od jakiegoś czasu rzadko przyjeżdża..."
+
+msgid "So if you're lucky enough to see the bus, you should definitely ride it!"
+msgstr "Więc jeśli masz szczęście i zobaczysz ten autobus, powinnaś się nim przejechać!"
+
+msgid "That's what everyone does, at least. I never saw it myself..."
+msgstr "A przynajmniej tak robi każdy. Ja nigdy go nie widziałam..."
+
+msgid "(It's just a bus, though...)"
+msgstr "(Przecież to tylko autobus...)"
+
+msgid "A bus stop."
+msgstr "Przystanek autobusowy."
+
+msgid "The poster here is too faded to read."
+msgstr "Plakat jest zbyt wyblakły by go odczytać."
+
+msgid "It looks like a dead end."
+msgstr "Wygląda jak ślepy zaułek."
+
+msgid "We just walked quite a bit to get here, let's at least look around."
+msgstr "Musieliśmy przejść kawał drogi by tu dotrzeć, przynajmniej się rozejrzyjmy."

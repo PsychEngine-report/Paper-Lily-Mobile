@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What to do?"
+msgstr "O que vais fazer?"
+
+msgid "Kill it here"
+msgstr "Matá-la aqui"
+
+msgid "Release it around this area"
+msgstr "Soltá-la nesta zona"
+
+msgid "Do nothing"
+msgstr "Não fazer nada"
+
+msgid "It's not wise to do that here."
+msgstr "Não é lá muito inteligente fazer isso aqui."
+
+msgid "I don't think I should release it so close to them..."
+msgstr "Acho que não a devia soltar tão perto..."
+
+msgid "HEY! I'M WATCHING YOU!"
+msgstr "EI! ESTOU A VER-TE!"
+
+msgid "IF YOU LET THAT SHIT FREE I'LL COME OUT AND KILL YOU BOTH MYSELF!!!"
+msgstr "SE DEIXARES ESSA MERDA À SOLTA, EU SAIO DAQUI E MATO-VOS ÀS DUAS!!!"
+
+msgid "(...Sorry...)"
+msgstr "(...Desculpa...)"
+
+msgid "A rudimentary lamp."
+msgstr "Um poste rudimentar."
+
+msgid "A tent. Looks rather cozy."
+msgstr "Uma tenda. Parece bastante acolhedora."
+
+msgid "There's nothing particularly interesting about the backside of the tent."
+msgstr "Não há nada de super interessante na parte de trás da tenda."
+
+msgid "Stay away!!!"
+msgstr "Não te aproximes!!!"

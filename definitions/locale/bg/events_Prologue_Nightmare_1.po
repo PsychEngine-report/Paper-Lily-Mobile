@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Interestingly, there's no keyhole on this side."
+msgstr "Интересното е, че от тази страна няма ключалка."
+
+msgid "A paper slip with some rules and regulations."
+msgstr "Хартиен фиш с някои правила и разпоредби."
+
+msgid ""
+"\"No running in the hallways.\n"
+"No screaming during recess.\n"
+"No escaping, ever.\""
+msgstr ""
+"\"Без бягане в коридорите.\n"
+"Без крясъци по време на междучасията.\n"
+"Без изход, никога.\""
+
+msgid "\"Classroom 4-A\""
+msgstr "\"Класна стая 4-А\""
+
+msgid "\"Classroom 56-W\""
+msgstr "\"Класна стая 56-З\""
+
+msgid "It's too dark to see anything on the other side."
+msgstr "Твърде мрачно е да видя каквото и да е от другата страна."
+
+msgid "Huh? What's this?"
+msgstr "Хм? Какво е това?"
+
+msgid "Am I back at the school already?"
+msgstr "Вече съм обратно в училище?, Хм?"
+
+msgid "Let's have some fun, shall we? Entertain me for a while, and in return you get..."
+msgstr "Хайде малко да се позабавляваме, съгласни? Забавлявай ме за малко, и в замяна ще получиш..."
+
+msgid "Nothing."
+msgstr "Нищо."
+
+msgid "Huh?"
+msgstr "Хмм?"
+
+msgid "Who's talking...?"
+msgstr "Кой говори…?"
+
+msgid "The door won't open. It seems to be locked."
+msgstr "Вратата не се отваря. Изглежда че е заключена."

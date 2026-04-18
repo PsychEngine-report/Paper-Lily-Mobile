@@ -1,0 +1,35 @@
+GDRE Tools v2.5.0-beta.5
+CachyOS Linux #1 SMP PREEMPT Wed, 15 Apr 2026 06:34:45 +0000, NVIDIA GeForce RTX 4060 Laptop GPU, vulkan
+Opening file: ~/Downloads/Paper Lily Chapter 1 v1.1.6-LINUX/PaperLilyCh1.x86_64
+Guessing bytecode revision from engine version: 3.5.3 (rev 0xa7aad78)
+Loaded 4 imported files
+Detected Engine Version: 3.5.3
+Detected Bytecode Revision: 3.5.0-stable (a7aad78)
+Verified 548 files, 25 files skipped (MD5 hash entry was empty)
+Extracted 548 files, no errors detected!
+Unable to compile C# project; ensure that the project is built in the editor before making any changes.
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     510
+Failed scripts:                         3
+Imported resources for export session:  4
+Successfully converted:                 4
+Lossy:                                  0
+Rewrote metadata:                       0
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.5.3 (Mono) to edit the project.
+
+*******************************************************************************
+

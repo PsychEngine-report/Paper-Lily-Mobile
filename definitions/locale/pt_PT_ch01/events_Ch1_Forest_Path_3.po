@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You plugged in the cable using the adapter.)"
+msgstr "(Ligaste o cabo com o adaptador.)"
+
+msgid "There's an electrical socket hiding behind the bush."
+msgstr "Há uma tomada escondida atrás do arbusto."
+
+msgid "The plug and the socket don't match, so you can't plug it in."
+msgstr "A ficha e a tomada não encaixam, então não dá para liga-la."
+
+msgid "I suppose I could try this adapter I found."
+msgstr "Acho que posso tentar usar o adaptador que encontrei."
+
+msgid "Do I need an adapter? That's so weird."
+msgstr "Preciso de um adaptador? Que estranho."
+
+msgid "The campfire is plugged here."
+msgstr "A fogueira está ligada aqui."
+
+msgid "The cable is plugged in."
+msgstr "O cabo está ligado."
+
+msgid "\"Red's Treehouse\""
+msgstr "\"Casa da Árvore do Red\""
+
+msgid "\"Treehouse\"... sheesh!"
+msgstr "\"Casa da Árvore\"... ih!"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "The floor here is unusual..."
+msgstr "O chão daqui é estranho..."
+
+msgid "There's a key hidden here."
+msgstr "Há aqui uma chave escondida."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Levar a ${item:ch1.forest_lockedsite_key}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Não precisas dessa chave, então deitaste-a fora.)"
+
+msgid "There's a note as well."
+msgstr "Também há um bilhete."
+
+msgid "There's nothing else here."
+msgstr "Não há aqui mais nada."

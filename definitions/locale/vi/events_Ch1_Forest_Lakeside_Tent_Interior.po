@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Please hurry, or my sister will kill us both."
+msgstr "Nhanh lên giùm đi, không là chị tôi giết cả lũ giờ."
+
+msgid "Here or outside is fine."
+msgstr "Ở đây hay ở ngoài cũng được."
+
+msgid "We really appreciate it."
+msgstr "Bọn tôi biết ơn vô cùng."
+
+msgid "Hurry the hell up already!"
+msgstr "Nhanh mẹ mày lên!"
+
+msgid "What are you doing?"
+msgstr "Mày làm cái gì đấy?"
+
+msgid "Don't babysit him, KILL HIM!"
+msgstr "Chăm bẵm nó làm gì, GIẾT NÓ ĐI!"
+
+msgid "Oh my god. The silence. It's so damn good."
+msgstr "Ối trời ơi. Yên tĩnh rồi. Sướng ơi là sướng."
+
+msgid "Here you go, you earned it."
+msgstr "Đây đây mày đây, xứng đáng mà có."
+
+msgid "Not sure why you'd want this though."
+msgstr "Mà có điều chẳng hiểu sao mày lại muốn cái này vậy."
+
+msgid "Thanks."
+msgstr "Cám ơn."
+
+msgid "Thank the cursed heavens it's gone."
+msgstr "Cảm tạ vãi trời đất nó đã đi rồi."
+
+msgid "Alright, I guess I'll just..."
+msgstr "Được rồi, chắc là tôi sẽ chỉ là..."
+
+msgid "Yes, kill it. Do it."
+msgstr "Đúng rồi, giết nó đi. Làm đi."
+
+msgid "Quickly."
+msgstr "Mau lên."
+
+msgid "HUZZAH!!!!!"
+msgstr "CHÍ HẢOOO!!!!!"
+
+msgid "Finally."
+msgstr "Cuối cùng thì."
+
+msgid "Dead dead dead!"
+msgstr "Chết rồi chết rồi chết rồi!"
+
+msgid "You'll kill him???"
+msgstr "Mày giết nó???"
+
+msgid "I guess so."
+msgstr "Ừ chắc vậy."
+
+msgid "THANK THE HEAVENS."
+msgstr "LẠY TRỜI LẠY ĐẤT."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.ch1_terrarium"
+msgid "..."
+msgstr "..."
+
+msgid "You shut the hell up. You're dead meat, jerk."
+msgstr "Mày nín mẹ đi. Mày toi rồi thằng oắt."
+
+msgid "Farewell, little brother. It has been a displeasure."
+msgstr "Vĩnh biệt nhé em trai. Đúng là niềm bất hân hạnh."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(What now...?)"
+msgstr "(Giờ sao...?)"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Kill it here"
+msgstr "Giết nó ở đây"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Do not"
+msgstr "Không giết"
+
+msgid "Why're you carrying a bucket?"
+msgstr "Tại sao lại xách cái xô thế?"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_bucket_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(To be honest, I'm not so sure myself.)"
+msgstr "(Thành thực bản thân mình cũng không rõ tại sao lắm.)"
+
+msgid "(Um...)"
+msgstr "(Ừm...)"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Kill it here"
+msgstr "Giết nó ở đây"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Do not"
+msgstr "Không giết"
+
+msgid "What's taking so long?!"
+msgstr "Sao lù đù thế?!"
+
+msgid "...Damn. That was pretty metal."
+msgstr "...Đù. Chơi gớm đấy."
+
+msgid "It stinks though."
+msgstr "Mà nó hôi."
+
+msgid "No take backs!"
+msgstr "Miễn thoái thác nhé!"
+
+msgid "Dang."
+msgstr "Đệch."
+
+msgid "Huh... he's a lot quieter when he's with you."
+msgstr "Hở... vào tay mày rồi nó im lặng hơn hẳn luôn."
+
+msgid "Maybe he's anticipating his demise!?"
+msgstr "Hay là nó biết trước nó sắp tiêu đời rồi chăng!?"
+
+msgid "Oh man, can't wait!!!"
+msgstr "Úi cha, ngóng quá đi!!!"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I don't need to see him anymore."
+msgstr "Tao không cần nhìn nó nữa."
+
+msgid "Not ALIVE, at least."
+msgstr "Ít nhất là đừng có CÒN SỐNG."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_boy.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "Anh có biết cái này dẫn đi đâu không?"
+
+msgid "No. We found that lying around when we were setting up camp."
+msgstr "Không. Khi bọn tôi dựng cái lều trại thì kiếm được cái đó nằm vất vưởng."
+
+msgid "I see..."
+msgstr "Thế à..."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_girl.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "Chị có biết cái này dẫn đi đâu không?"
+
+msgid "No idea."
+msgstr "Chịu."
+
+msgid "Please, we already gave you the doorknob."
+msgstr "Thôi xin, bọn tôi đã đưa cái núm cửa rồi mà."
+
+msgid "What more do you want?"
+msgstr "Cô bé còn muốn gì nữa?"
+
+msgid "Oh god..."
+msgstr "Ôi trời..."
+
+msgid "Please stop, I seriously can't stand that."
+msgstr "Dừng lại đi, tôi chịu không nổi đâu thật đó."
+
+msgid "Get that shit away from me."
+msgstr "Né cái đồ quỷ đó ra khỏi tao."
+
+msgid "Hate that crap."
+msgstr "Ghét cay ghét đắng cái thứ đó."
+
+msgid "Alright alright geez!"
+msgstr "Rồi rồi trời ạ!"
+
+msgid "Just take the stupid doorknob and leave!"
+msgstr "Lấy cái núm cửa ngu si đây rồi biến đi cho!"
+
+msgid "That smells putrid..."
+msgstr "Bốc mùi muốn mửa..."
+
+msgid "I guess I get to keep him...?"
+msgstr "Vậy chắc là mình được giữ thằng bé rồi...?"
+
+msgid "No thanks, I don't care for stones."
+msgstr "Không, cảm ơn, tôi không quan tâm đến đá."
+
+msgid "The heck would I need that for?"
+msgstr "Tao cần cái này làm quái gì?"
+
+msgid "I don't know."
+msgstr "Tôi không biết."
+
+msgid "To give to Rune..?"
+msgstr "Để đưa cho Rune...?"
+
+msgid "Who the heck is Rune?"
+msgstr "Rune là đứa oắt nào?"
+
+msgid "What in the world are you doing!?"
+msgstr "Mày làm cái trò quái gì thế!?"
+
+msgid "Maybe she's deranged."
+msgstr "Có khi nó bị loạn trí rồi."
+
+msgid "You said to kill it."
+msgstr "Thì mấy người bảo giết nó."
+
+msgid "Yeah, so do it already!"
+msgstr "Ờ, vậy giết đi!"
+
+msgid "(Hmmm...)"
+msgstr "(Hừmm...)"
+
+msgid "(I guess salt doesn't work on moths.)"
+msgstr "(Chắc là muối không có tác dụng gì lên ngài rồi.)"
+
+msgid "What. The. FUCK."
+msgstr "Cái. ĐÉO. Gì. Đây."
+
+msgid "...Oh man..."
+msgstr "...Trời ơi..."
+
+msgid "A fireplace."
+msgstr "Chỗ đốt lửa."
+
+msgid "(There's no smoke...?)"
+msgstr "(Không có khói...?)"
+
+msgid "Take ${item:ch1.forest_caterpillar}?"
+msgstr "Lấy con ${item:ch1.forest_caterpillar} chứ?"
+
+msgid "Yes"
+msgstr "Lấy"
+
+msgid "No"
+msgstr "Thôi"

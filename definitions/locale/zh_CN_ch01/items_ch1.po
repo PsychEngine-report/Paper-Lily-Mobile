@@ -1,0 +1,744 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Cellphone"
+msgstr "电话"
+
+msgid "My personal phone. Hiro bought it for me."
+msgstr "我的私人手机。希罗给我买的。"
+
+msgctxt "items.name.ch1.todolist"
+msgid "To-Do List"
+msgstr "待办清单"
+
+msgctxt "items.desc.ch1.todolist"
+msgid "A list of things I want to do before I die."
+msgstr "一系列我想在死之前做的事情。"
+
+msgctxt "items.name.ch1.todolist_hidden"
+msgid "To-Do List"
+msgstr "待办清单"
+
+msgctxt "items.desc.ch1.todolist_hidden"
+msgid "A list of things I want to do before I die."
+msgstr "一系列我想在死之前做的事情。"
+
+msgid "Red Ribbon"
+msgstr "红丝带"
+
+msgid "A soft and silky red ribbon."
+msgstr "一条柔软又顺滑的红丝带。"
+
+msgid "Red Thread"
+msgstr "红线"
+
+msgid "Some red thread from mother's sewing kit. The color matches my scarf."
+msgstr "一些来自母亲的针线包里的红线。颜色和我的围巾一样。"
+
+msgid "Red Shoelaces"
+msgstr "红鞋带"
+
+msgid "From the shoe rack. Does something like this count?"
+msgstr "从鞋架拿的。这个算数吗？"
+
+msgid "Red Paint"
+msgstr "红油漆"
+
+msgid "A can of red paint. It's dusty."
+msgstr "一罐红油漆。上面满是灰尘。"
+
+msgid "Bird Food"
+msgstr "鸟食"
+
+msgid "All-Natural Non-GMO Certified Organic Bird Food. It's as expensive as it sounds."
+msgstr "全天然非转基因有机认证鸟食。就和听起来一样贵。"
+
+msgid "Red Marker"
+msgstr "红色马克笔"
+
+msgid "A non-erasable alcohol-based red marker."
+msgstr "一支不可擦除的酒精基红色记号笔。"
+
+msgid "Lipstick"
+msgstr "口红"
+
+msgid "Some red lipstick from mother's makeup set. It says \"Crimson Passion\"."
+msgstr "一些从妈妈的化妆品套装里找到的口红。上面写着 \"深红激情\"。"
+
+msgctxt "items.name.ch1.ritual_instructions"
+msgid "Ritual Letter"
+msgstr "仪式信件"
+
+msgctxt "items.desc.ch1.ritual_instructions"
+msgid "The ritual instructions I received."
+msgstr "我收到的仪式指南。"
+
+msgctxt "items.name.ch1.ritual_instructions_hidden"
+msgid "Ritual Letter"
+msgstr "仪式信件"
+
+msgctxt "items.desc.ch1.ritual_instructions_hidden"
+msgid "The ritual instructions I received."
+msgstr "我收到的仪式指南。"
+
+msgid "Table Salt"
+msgstr "食用盐"
+
+msgid "\"For cooking and baking\". Salt can supposedly ward off spirits and such."
+msgstr "“用于烹饪和烘焙”。据说盐可以驱除鬼怪之类的东西。"
+
+msgid "Notebook"
+msgstr "笔记本"
+
+msgid "I keep my personal notes and papers I find here."
+msgstr "我把找到的笔记和文件保存在这里。"
+
+msgctxt "items.name.ch1.rune_jara"
+msgid "Rune"
+msgstr "符文石"
+
+msgid "A rune stone I bought from a shady online merchant."
+msgstr "我从一个黑心网商那里买来的符文石。"
+
+msgctxt "items.name.ch1.rune_uruz"
+msgid "Rune"
+msgstr "符文石"
+
+msgctxt "items.desc.ch1.rune_uruz"
+msgid "A rune stone I found."
+msgstr "我找到的符文石。"
+
+msgctxt "items.name.ch1.rune_ansuz"
+msgid "Rune"
+msgstr "符文石"
+
+msgctxt "items.desc.ch1.rune_ansuz"
+msgid "A rune stone I found."
+msgstr "我找到的符文石。"
+
+msgctxt "items.name.ch1.rune_raidho"
+msgid "Rune"
+msgstr "符文石"
+
+msgctxt "items.desc.ch1.rune_raidho"
+msgid "A rune stone I found."
+msgstr "我找到的符文石。"
+
+msgctxt "items.name.ch1.rune_algiz"
+msgid "Rune"
+msgstr "符文石"
+
+msgctxt "items.desc.ch1.rune_algiz"
+msgid "A rune stone I found."
+msgstr "我找到的符文石。"
+
+msgid "Blue Sign"
+msgstr "蓝色路牌"
+
+msgid "It says \"Daylight Gate\"."
+msgstr "上面写着“曙光大门”。"
+
+msgid "Pack of Chips"
+msgstr "一包薯片"
+
+msgid "Looks like regular potato chips. The brand is literally called \"Harmless Snack\"."
+msgstr "看起来像普通的薯片。这个品牌的名字叫 \"无害零食\"。"
+
+msgid "Chocolate Bar"
+msgstr "巧克力棒"
+
+msgid "Looks like a bar of chocolate. The brand is literally called \"Harmless Snack\"."
+msgstr "看起来像一块巧克力。这个品牌的名字叫 \"无害零食\"。"
+
+msgid "Bug Net"
+msgstr "捕虫网"
+
+msgid "A bug net Rune gave me. I don't know what I'll do with it."
+msgstr "符文给我的捕虫网。我不知道能用来做什么。"
+
+msgid "Empty Lamp"
+msgstr "空路灯"
+
+msgid "The case of a street lamp. It has nothing inside."
+msgstr "一盏路灯。里面空空如也。"
+
+msgid "Lamp with Fireflies"
+msgstr "萤火虫路灯"
+
+msgid "A street lamp full of fireflies."
+msgstr "装满萤火虫的路灯。"
+
+msgid "Empty Jar"
+msgstr "空罐子"
+
+msgid "A jar with nothing inside."
+msgstr "一个空空如也的罐子。"
+
+msgid "Jar of Fireflies"
+msgstr "萤火虫罐"
+
+msgid "A jar full of fireflies."
+msgstr "装满萤火虫的罐子。"
+
+msgid "Bolt Cutter"
+msgstr "剪线钳"
+
+msgid "A bolt cutter Rune gave me. Looks strong."
+msgstr "符文给我的剪线钳。看起来很有力。"
+
+msgid "Fish"
+msgstr "鱼"
+
+msgid "A fish thing I purchased from a merchant. I don't think I should eat this."
+msgstr "我从商人那里买来的像鱼一样的东西。我觉得不应该吃掉这个。"
+
+msgid "Jar of Slugs"
+msgstr "蛞蝓罐"
+
+msgid "A jar of slugs. Heavy."
+msgstr "装着蛞蝓的罐子。很重。"
+
+msgid "Stone Curse Notes"
+msgstr "石咒笔记"
+
+msgid "Notes explaining a ritual to remove a \"Stone Curse\"."
+msgstr "笔记解释了一种消除“石咒”的仪式。"
+
+msgid "Artistic Pot"
+msgstr "艺术壶"
+
+msgid "A pot I found. Hopefully it works as a new head for Kozmo."
+msgstr "我找到的一个壶。希望能作为科兹莫的新头。"
+
+msgid "Stone Curse Cure"
+msgstr "石咒解药"
+
+msgid "A sort of potion I made. It should cure a simple stone curse."
+msgstr "我做的解药。应该能治愈一种简单的石咒。"
+
+msgid "Weird Sculpture"
+msgstr "奇怪的雕塑"
+
+msgid "A thing I found. I'm almost a bit ashamed of having to give this to Kozmo."
+msgstr "我找到的某种东西。我有一点惭愧，因为我不得不把这个交给科兹莫。"
+
+msgid "Teapot-Shaped Head"
+msgstr "茶杯头"
+
+msgid "It came off the sculptor. It's empty inside."
+msgstr "这是从雕塑家身上掉下来的。里面是空的。"
+
+msgid "Artist's Flower"
+msgstr "艺术家的花"
+
+msgid "It came off the sculptor. It smells good."
+msgstr "这是从雕塑家身上掉下来的。很好闻。"
+
+msgid "Cursed Tree Bark"
+msgstr "诅咒的树皮"
+
+msgid "A piece I tore off a tree. Allegedly cursed."
+msgstr "我从树上扯下来的一块树皮。据说是被诅咒的。"
+
+msgid "Ink Mushrooms"
+msgstr "墨黑色蘑菇"
+
+msgid "Black mushrooms."
+msgstr "黑色的蘑菇。"
+
+msgid "Lit Candle"
+msgstr "点燃的蜡烛"
+
+msgctxt "items.desc.ch1.candleman_candle"
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "我从雕塑家屋子里的雕像上拿来的蜡烛。"
+
+msgid "Unlit Candle"
+msgstr "未点燃的蜡烛"
+
+msgctxt "items.desc.ch1.candleman_candle_unlit"
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "我从雕塑家屋子里的雕像上拿来的蜡烛。"
+
+msgid "Blue Candle"
+msgstr "蓝色蜡烛"
+
+msgid "A candle that the candle person gave to me."
+msgstr "蜡烛人给我的蜡烛。"
+
+msgid "AC Adapter"
+msgstr "交流适配器"
+
+msgid "A power plug adapter. It converts a 3-prong plug for a 2-prong socket."
+msgstr "电源插头适配器。它可以将三脚插头转换为二脚插头。"
+
+msgid "Scissors"
+msgstr "剪刀"
+
+msgid "A pair of scissors. Pointy!"
+msgstr "一把剪刀。尖尖的！"
+
+msgid "Padlock Key"
+msgstr "挂锁钥匙"
+
+msgid "A key that should open the gate with the warning sign."
+msgstr "一把钥匙，它应该能打开带有警告标志的大门。"
+
+msgid "Caterpillar"
+msgstr "毛虫"
+
+msgid "The moths asked me to get rid of him for a reward."
+msgstr "蛾子们请我把他带走以获取奖励。"
+
+msgid "Treasure Hunter's Letter"
+msgstr "宝藏猎人的信件"
+
+msgid "A letter I found under a statue."
+msgstr "我从雕像下找到的一封信。"
+
+msgid "Treasure Hunter's Note 1"
+msgstr "宝藏猎人笔记1"
+
+msgctxt "items.desc.ch1.hunter_note_1"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "我找到的笔记。讲了关于封锁区的东西。"
+
+msgid "Treasure Hunter's Note 2"
+msgstr "宝藏猎人笔记2"
+
+msgctxt "items.desc.ch1.hunter_note_2"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "我找到的笔记。讲了关于封锁区的东西。"
+
+msgid "Treasure Hunter's Note 3"
+msgstr "宝藏猎人笔记3"
+
+msgctxt "items.desc.ch1.hunter_note_3"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "我找到的笔记。讲了关于封锁区的东西。"
+
+msgid "Treasure Hunter's Note 4"
+msgstr "宝藏猎人笔记4"
+
+msgctxt "items.desc.ch1.hunter_note_4"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "我找到的笔记。讲了关于封锁区的东西。"
+
+msgid "Secret Passage Code"
+msgstr "秘密通道密码"
+
+msgid "Contains the code to open the secret passage under Red's house."
+msgstr "包含了开启瑞德树屋下秘密通道的密码。"
+
+msgid "Boat Paddle"
+msgstr "船桨"
+
+msgid "Perfect for rowing a boat."
+msgstr "非常适合划船。"
+
+msgid "Injured Bunny"
+msgstr "受伤的兔兔"
+
+msgid "It couldn't run away, so now it's in my inventory. Looks like it has a broken leg."
+msgstr "因为跑不掉，所以它现在在我的物品栏里。看起来它的腿断了。"
+
+msgid "Lavender Flower"
+msgstr "薰衣草花"
+
+msgid "Smells like laundry."
+msgstr "洗衣间的味道。"
+
+msgid "Goldfish"
+msgstr "金鱼"
+
+msgid "Dead Goldfish"
+msgstr "死去的金鱼"
+
+msgid "Might have been better off where it was."
+msgstr "也许它留在原来的地方会更好。"
+
+msgid "Black Algae"
+msgstr "黑色水藻"
+
+msgctxt "items.desc.ch1.lakeside_algae_black"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "一些我从湖底钓上来的水藻。"
+
+msgid "Blue Algae"
+msgstr "蓝色水藻"
+
+msgctxt "items.desc.ch1.lakeside_algae_blue"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "一些我从湖底钓上来的水藻。"
+
+msgid "Green Algae"
+msgstr "绿色水藻"
+
+msgctxt "items.desc.ch1.lakeside_algae_green"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "一些我从湖底钓上来的水藻。"
+
+msgid "Pink Petals"
+msgstr "粉色花叶"
+
+msgctxt "items.desc.ch1.lakeside_petals_pink"
+msgid "Some flower petals I found."
+msgstr "我找到的一些花叶。"
+
+msgid "Purple Petals"
+msgstr "紫色花叶"
+
+msgctxt "items.desc.ch1.lakeside_petals_purple"
+msgid "Some flower petals I found."
+msgstr "我找到的一些花叶。"
+
+msgid "White Petals"
+msgstr "白色花叶"
+
+msgctxt "items.desc.ch1.lakeside_petals_white"
+msgid "Some flower petals I found."
+msgstr "我找到的一些花叶。"
+
+msgid "Handle (Square)"
+msgstr "阀门把手（方形）"
+
+msgid "A purple handle for a valve mechanism. The protrusion is square-shaped."
+msgstr "紫色的阀门把手。接口棱角是方形的。"
+
+msgid "Handle (Pentagon)"
+msgstr "阀门把手（五边形）"
+
+msgid "A red handle for a valve mechanism. The protrusion is pentagon-shaped."
+msgstr "红色的阀门把手。接口棱角是五边形的。"
+
+msgid "Handle (Star)"
+msgstr "阀门把手（星形）"
+
+msgid "A yellow handle for a valve mechanism. The protrusion is shaped like a 5-point star."
+msgstr "黄色的阀门把手。接口棱角是五角星形的。"
+
+msgid "Handle (Diamond)"
+msgstr "阀门把手（菱形）"
+
+msgid "A white handle for a valve mechanism. The protrusion is diamond-shaped."
+msgstr "白色的阀门把手。接口棱角是菱形的。"
+
+msgid "Fuse (5)"
+msgstr "保险丝（5）"
+
+msgid "Fuse (10)"
+msgstr "保险丝（10）"
+
+msgid "Fuse (15)"
+msgstr "保险丝（15）"
+
+msgid "Fuse (20)"
+msgstr "保险丝（20）"
+
+msgid "Fuse (25)"
+msgstr "保险丝（25）"
+
+msgid "Fuse (40)"
+msgstr "保险丝（40）"
+
+msgid "_____"
+msgstr "_____"
+
+msgid "It's sharp."
+msgstr "很锋利。"
+
+msgid "Iron Key"
+msgstr "铁钥匙"
+
+msgid "A fairly large metallic key."
+msgstr "一把相当大的金属钥匙。"
+
+msgid "Copper Key"
+msgstr "铜钥匙"
+
+msgid "A regular key. It probably opens a door somewhere."
+msgstr "一把普通的钥匙。它可能能打开某扇门。"
+
+msgid "Bucket"
+msgstr "桶"
+
+msgid "A metallic bucket. It can transport various liquid substances."
+msgstr "一只铁桶。可以运输各种液体。"
+
+msgid "Bucket of Water"
+msgstr "装满水的桶"
+
+msgid "A bucket full of water. It's heavy."
+msgstr "一只装满水的桶。很重。"
+
+msgid "Bucket of Special Water"
+msgstr "装着特别的水的桶"
+
+msgid "A bucket full of water. It comes from a special faucet in the forest."
+msgstr "一只装满水的桶。来自森林中一个特别的水龙头。"
+
+msgid "Flat Screwdriver"
+msgstr "平头螺丝刀"
+
+msgid "A simple screwdriver."
+msgstr "一把简易的螺丝刀。"
+
+msgid "Coin"
+msgstr "硬币"
+
+msgid "A coin that's not quite like the ones back home."
+msgstr "一枚与家乡硬币不太一样的硬币。"
+
+msgid "Return Doorknob"
+msgstr "返回门把"
+
+msgid "Apparently, this is my ticket back home. I purchased it online."
+msgstr "很显然，这是我回家的车票。我从网上买的。"
+
+msgid "Doorknob With Flower"
+msgstr "带有花状图案的门把"
+
+msgid "A doorknob. I found this lying around."
+msgstr "一个门把。我从附近找到的。"
+
+msgctxt "items.name.ch1.doorknob_library_fragment"
+msgid "Doorknob Fragment"
+msgstr "门把碎片"
+
+msgctxt "items.desc.ch1.doorknob_library_fragment"
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "门把的碎片。我自己没办法拼回去。"
+
+msgid "Gray Doorknob"
+msgstr "灰色门把"
+
+msgid "A doorknob. It has the same symbol as my letter."
+msgstr "一个门把。画着与我的信封一样的符号。"
+
+msgid "White Doorknob"
+msgstr "白色门把"
+
+msgid "A doorknob. It looks like a white lily."
+msgstr "一个门把。图案看起来像白百合。"
+
+msgid "Doorknob With Eye"
+msgstr "带有眼睛图案的门把"
+
+msgid "A doorknob I got from the moths. Can probably be used at that door with the slots."
+msgstr "我从蛾子们那里拿到的门把。也许能在那扇有着许多槽位的门那里使用。"
+
+msgctxt "items.name.ch1.doorknob_lighthouse_fragment"
+msgid "Doorknob Fragment"
+msgstr "门把碎片"
+
+msgctxt "items.desc.ch1.doorknob_lighthouse_fragment"
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "门把的碎片。我自己没办法拼回去。"
+
+msgid "Paper Lily Folding Steps"
+msgstr "纸百合的折纸步骤"
+
+msgid "Instructions detailing how to fold a piece of paper to look like a lily flower."
+msgstr "如何将一张纸折叠成百合花的样子的详细指南。"
+
+msgid "Facility Map"
+msgstr "设施地图"
+
+msgid "A map of the facility, drawn by someone."
+msgstr "某人画的一张设施的地图。"
+
+msgid "Black Knife"
+msgstr "漆黑的小刀"
+
+msgid "A fully black knife. It's still very sharp."
+msgstr "一把漆黑的小刀。仍然很锋利。"
+
+msgid "Knife"
+msgstr "小刀"
+
+msgid "A knife."
+msgstr "一把小刀。"
+
+msgid "Human Foot"
+msgstr "人脚"
+
+msgid "A foot that used to belong to someone."
+msgstr "曾属于某人的脚。"
+
+msgid "Sketchbook"
+msgstr "绘画本"
+
+msgid "A sketchbook full of colors you splattered all over it."
+msgstr "一本绘画本，上面满是你泼洒的色彩。"
+
+msgctxt "items.name.ch1.mk_hand_mirror"
+msgid "Black Object"
+msgstr "漆黑的物件"
+
+msgid "An unknown circular object that's fully black. Feels like wood and glass."
+msgstr "未知的漆黑曲面物体。摸起来像木头和玻璃做的。"
+
+msgid "Hand Mirror"
+msgstr "手镜"
+
+msgid "A wooden hand mirror."
+msgstr "一把木制手镜。"
+
+msgctxt "items.name.ch1.mk_compress"
+msgid "Black Object"
+msgstr "漆黑的物件"
+
+msgid "An unknown object that's fully black. Feels like a piece of fabric."
+msgstr "未知的漆黑物体。摸起来像布料。"
+
+msgid "Cold Compress"
+msgstr "冷敷布"
+
+msgid "A wet rag."
+msgstr "一块湿布。"
+
+msgid "Eyeball"
+msgstr "眼球"
+
+msgid "An eyeball. The owner seems to have had golden eyes."
+msgstr "一只眼球。看起来原主有着金色的眼睛。"
+
+msgid "Small Key"
+msgstr "小钥匙"
+
+msgid "A small key. Looks like it could belong to a padlock or something similar."
+msgstr "一把小钥匙。看起来可以打开挂锁之类的东西。"
+
+msgctxt "items.name.ch1.mk_bedroom_key"
+msgid "Key"
+msgstr "钥匙"
+
+msgctxt "items.desc.ch1.mk_bedroom_key"
+msgid "A key for something."
+msgstr "某物的钥匙。"
+
+msgctxt "items.name.ch1.mk_key_wisteria"
+msgid "Key"
+msgstr "钥匙"
+
+msgctxt "items.desc.ch1.mk_key_wisteria"
+msgid "A key for something."
+msgstr "某物的钥匙。"
+
+msgid "Glass Jar"
+msgstr "玻璃罐"
+
+msgid "A small glass jar. I found 3 of them."
+msgstr "小玻璃罐。我找到了三个。"
+
+msgid "Jar of Water"
+msgstr "水罐"
+
+msgid "A small glass jar full of water."
+msgstr "装满了水的小玻璃罐。"
+
+msgid "Jar of Red Pigment"
+msgstr "红色粉罐"
+
+msgid "A small glass jar with red pigment. Needs water."
+msgstr "装着红色颜料的小玻璃罐。需要水。"
+
+msgid "Jar of Yellow Pigment"
+msgstr "黄色粉罐"
+
+msgid "A small glass jar with yellow pigment. Needs water."
+msgstr "装着黄色颜料的小玻璃罐。需要水。"
+
+msgid "Jar of Blue Pigment"
+msgstr "蓝色粉罐"
+
+msgid "A small glass jar with blue pigment. Needs water."
+msgstr "装着蓝色颜料的小玻璃罐。需要水。"
+
+msgid "Jar of Red Paint"
+msgstr "红颜料罐"
+
+msgid "A small glass jar with red paint."
+msgstr "装着红色颜料的小玻璃罐。"
+
+msgid "Jar of Yellow Paint"
+msgstr "黄颜料罐"
+
+msgid "A small glass jar with yellow paint."
+msgstr "装着黄色颜料的小玻璃罐。"
+
+msgid "Jar of Blue Paint"
+msgstr "蓝颜料罐"
+
+msgid "A small glass jar with blue paint."
+msgstr "装着蓝色颜料的小玻璃罐。"
+
+msgid "Lighter"
+msgstr "打火机"
+
+msgid "A lighter."
+msgstr "一个打火机。"
+
+msgid "Lock Pick"
+msgstr "撬锁器"
+
+msgid "A lock pick. I don't know how to use this..."
+msgstr "一个撬锁器。我不知道怎么用这个..."
+
+msgid "Rainbow Potion"
+msgstr "彩虹药水"
+
+msgid "A strange potion. I wonder what it does..."
+msgstr "奇怪的药水。我想知道这是做什么的..."
+
+msgid "Temp. Rainbow Potion"
+msgstr "临时用彩虹药水"
+
+msgid "A strange potion that Spider directed me to. It has a shorter duration than the original one."
+msgstr "蜘蛛交给我的一种奇怪的药水。与原版相比，生效时间更短。"
+
+msgid "Lily"
+msgstr "百合花"
+
+msgid "A lily. I'm supposed to bring it home with me."
+msgstr "一朵百合花。我想把它和我一起带回家。"
+
+msgid "Flower"
+msgstr "花"
+
+msgid "Sewing Kit"
+msgstr "针线包"
+
+msgid "Cabbage"
+msgstr "卷心菜"
+
+msgid "Red Item I"
+msgstr "红色物品 I"
+
+msgctxt "items.desc.global.reditem_1"
+msgid "A red item. I can't tell what it is."
+msgstr "一个红色的物品。我说不出这是什么。"
+
+msgid "Red Item II"
+msgstr "红色物品 II"
+
+msgctxt "items.desc.global.reditem_2"
+msgid "A red item. I can't tell what it is."
+msgstr "一个红色的物品。我说不出这是什么。"
+
+msgid "Red Item III"
+msgstr "红色物品 III"
+
+msgctxt "items.desc.global.reditem_3"
+msgid "A red item. I can't tell what it is."
+msgstr "一个红色的物品。我说不出这是什么。"

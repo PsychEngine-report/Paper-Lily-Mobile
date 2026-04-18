@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "これで幻は崩れ去るはず、だよね？"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "残念だな、気に入ってきたところだったのに。"
+
+msgctxt "events.Ch1_MK_Livingroom.event_ending_12.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "That's probably not good..."
+msgstr "まずいかも……"
+
+msgid "Did you see that? The painting opened its eyes!"
+msgstr "見たか？　絵が目を開けたぜ！"
+
+msgid "Um... did you burn the things in the right order?"
+msgstr "おい……ちゃんと正しい順番で燃やしたのか？"
+
+msgid "I... think... so?"
+msgstr "う……その……たぶん？"
+
+msgid "Did I do something wrong...?"
+msgstr "何か間違えたかな……？"
+
+msgid "Was the illusion supposed to LITERALLY break apart?"
+msgstr "幻が崩れ去るって、文字通りの意味なのかよ？"
+
+msgid "I don't know...!"
+msgstr "わかんない……！"
+
+msgid "Maybe we should leave..."
+msgstr "出たほうがいいかもな……"
+
+msgid "Oh crap, the doors are gone!"
+msgstr "っておい、ドアが無くなってるぜ！"
+
+msgid "What do I do...? I need to get out of here!"
+msgstr "どうしよう……？　ここから出ないと！"
+
+msgid "Hey, be careful."
+msgstr "おい、気をつけろ。"
+
+msgid "....."
+msgstr "……"
+
+msgctxt "events.Ch1_MK_Livingroom.event_ending_12.dlg.lacie"
+msgid "(My foot... it hurts...!)"
+msgstr "(足が……痛い……！)"
+
+msgid "(Where are we...?)"
+msgstr "(ここはどこ……？)"
+
+msgid "We need to find a way out..."
+msgstr "出る方法を見つけないと……"
+
+msgid "Yeahh.... WELL..."
+msgstr "ああぁ……そうだな……"
+
+msgid "About that..."
+msgstr "そのことだが……"
+
+msgid "I..."
+msgstr "俺は……"
+
+msgid "...might have landed on something hard."
+msgstr "……固いものの上に落ちたかもしれん。"
+
+msgid "Doesn't look great."
+msgstr "あまり良くなさそうだ。"
+
+msgid "...W-what do we do...?"
+msgstr "……ど――どうしよう……？"
+
+msgid "If you can still move, go on ahead."
+msgstr "まだ動けるなら、先に行ってくれ。"
+
+msgid "I need a moment."
+msgstr "俺はちょっと時間が要る。"
+
+msgid "O-okay..."
+msgstr "わ――わかった……"
+
+msgid "Uh... hey..."
+msgstr "う……おい……"
+
+msgid "You'll uh.... You'll come back, right?"
+msgstr "戻って……戻ってくるよな？"
+
+msgid "Yes."
+msgstr "うん。"
+
+msgid "Thanks."
+msgstr "ありがとな。"
+
+msgid "(Where am I...?)"
+msgstr "(ここはどこ……？)"
+
+msgid "I need to find a way out..."
+msgstr "出る方法を見つけないと……"
+
+msgid "This item is yet to be unsealed."
+msgstr "このアイテムはまだ封印が解かれていない。"
+
+msgid "The fire needs to be lit first."
+msgstr "先に火をつける必要がある。"
+
+msgid "Light the fireplace?"
+msgstr "暖炉に火をつける？"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.Light the fireplace?"
+msgid "Yes"
+msgstr "つける"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.Light the fireplace?"
+msgid "No"
+msgstr "つけない"
+
+msgid "I don't have all 5 items ready to burn yet..."
+msgstr "まだ5つのものを燃やす準備ができてない……"
+
+msgid "If I light this on, I'll just lure that lady here for no reason."
+msgstr "火をつけたら、理由もなくあの妖魔を呼び寄せるだけになっちゃう。"
+
+msgid "(What should I burn first?)"
+msgstr "(まず何を燃やそう？)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The knife"
+msgstr "ナイフ"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The foot"
+msgstr "足"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The sketchbook"
+msgstr "スケッチブック"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The mirror"
+msgstr "鏡"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The cold compress"
+msgstr "濡らした布"
+
+msgid "(What should I burn next?)"
+msgstr "(次は何を燃やそう？)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The knife"
+msgstr "ナイフ"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The foot"
+msgstr "足"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The sketchbook"
+msgstr "スケッチブック"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The mirror"
+msgstr "鏡"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The cold compress"
+msgstr "濡らした布"
+
+msgid "And finally... the knife."
+msgstr "そして最後に……ナイフ。"
+
+msgid "And finally... the foot."
+msgstr "そして最後に……足。"
+
+msgid "And finally... the sketchbook."
+msgstr "そして最後に……スケッチブック。"
+
+msgid "And finally... the mirror."
+msgstr "そして最後に……鏡。"
+
+msgid "And finally... the cold compress."
+msgstr "そして最後に……濡らした布。"
+
+msgid "Take ${item:ch1.lockpick}?"
+msgstr "${item:ch1.lockpick} を取る？"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lockpick_get.choice.Take ${item:ch1.lockpick}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lockpick_get.choice.Take ${item:ch1.lockpick}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "You pour some liquid onto the rag..."
+msgstr "液体を布に注いだ……"
+
+msgid "It's already wet enough."
+msgstr "もう十分湿っている。"
+
+msgid "\"Alcohol tastes just like water.\""
+msgstr "「アルコールは水と同じ味だ。」"
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plant4.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plant4.dlg.narrator"
+msgid "(You watered the plant.)"
+msgstr "(植物に水をやった。)"
+
+msgid "(You pour water into the empty pot...)"
+msgstr "(空の植木鉢に水を注いだ……)"
+
+msgid "(...but nothing happens.)"
+msgstr "(……しかし何も起きなかった。)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plants.dlg.narrator"
+msgid "(You watered the plant.)"
+msgstr "(植物に水をやった。)"
+
+msgid "Various useless trinkets are displayed on these shelves."
+msgstr "様々な役に立たない小物が棚に飾られている。"
+
+msgid "A teapot, full of some liquid. Seems to be water."
+msgstr "何らかの液体で満たされたティーポット。どうやら水のようだ。"
+
+msgid "I could use this..."
+msgstr "これは使えるかも……"
+
+msgid "Bring water to the plant?"
+msgstr "植物に水を持って行く？"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.choice.Bring water to the plant?"
+msgid "Yes"
+msgstr "持って行く"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.choice.Bring water to the plant?"
+msgid "No"
+msgstr "持って行かない"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_fireplace.dlg.narrator"
+msgid "A fireplace."
+msgstr "暖炉。"
+
+msgid "There's no fire, so it's just... a place."
+msgstr "今は火がついてないから、ただの……冷戸。"
+
+msgid "Haha, good one!"
+msgstr "はは、うまいな！"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_fireplace.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "A place."
+msgstr "冷戸。"
+
+msgid "An old gramophone."
+msgstr "古い蓄音機。"
+
+msgid "What to do?"
+msgstr "どうする？"
+
+msgid "Play music"
+msgstr "音楽をかける"
+
+msgid "Stop the music"
+msgstr "音楽を止める"
+
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgid "A floor lamp."
+msgstr "フロアランプ。"
+
+msgid "A rotary phone."
+msgstr "ダイヤル式電話。"
+
+msgid "It's old... but there's a certain charm to it."
+msgstr "古いけど……独特の魅力がある。"
+
+msgid "There's no dial tone."
+msgstr "発信音はしない。"
+
+msgid "A tall plant."
+msgstr "背の高い植物。"
+
+msgid "A tall, pretty plant."
+msgstr "背の高い、かわいらしい植物。"
+
+msgid "An empty flower vase."
+msgstr "空の花瓶。"
+
+msgid "Purple flowers in a vase."
+msgstr "紫の花が活けられた花瓶。"
+
+msgid "I could use these flowers..."
+msgstr "この花は使えるかも……"
+
+msgid "Bring the flowers to the plant?"
+msgstr "花を植物のところに持って行く？"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.choice.Bring the flowers to the plant?"
+msgid "Yes"
+msgstr "持って行く"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.choice.Bring the flowers to the plant?"
+msgid "No"
+msgstr "持って行かない"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "It's dead."
+msgstr "死んでいる。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "タグのついた植物。タグにはこう書いてある。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"
+
+msgid "\"It was good while it lasted.\""
+msgstr "「続いている間はよかった。」"
+
+msgid "\"Requires medium light."
+msgstr "「中程度の光が必要。"
+
+msgid "For enrichment, provide music.\""
+msgstr "より良く育てるには、音楽を与えること。」"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "It's dead."
+msgstr "死んでいる。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "タグのついた植物。タグにはこう書いてある。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "\"Requires dim light."
+msgstr "「暗めの光が必要。"
+
+msgid "Feed it once a day to avoid irritability. Appropriate diet includes meat of various kinds.\""
+msgstr "過敏性を避けるため、1日1回エサをやること。適切な食事としては、各種の肉など。」"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "It's dead."
+msgstr "死んでいる。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "タグのついた植物。タグにはこう書いてある。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"
+
+msgid "\"Requires medium light. Provide alcohol twice daily to keep its leaves moist."
+msgstr "「中程度の光が必要。葉の潤いを保つため、アルコールを1日2回与えること。"
+
+msgid "Water is a valid substitute, as it can't tell the difference.\""
+msgstr "違いがわからないので、水でも代用可能。」"
+
+msgid "The pot has been destroyed."
+msgstr "植木鉢は割られている。"
+
+msgid "An empty pot."
+msgstr "空の植木鉢。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "It's dead."
+msgstr "死んでいる。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "タグのついた植物。タグにはこう書いてある。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "\"Requires dim light."
+msgstr "「暗めの光が必要。"
+
+msgid "For enrichment, give it a flower crown once a month.\""
+msgstr "より良く育てるには、月に1度花冠を与えること。」"
+
+msgid "A warning sign."
+msgstr "警告の看板。"
+
+msgid "It doesn't say what the warning is for."
+msgstr "何の警告かは書かれていない。"

@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I'm sorry for disturbing you."
+msgstr "Me desculpe por incomodar voce."
+
+msgid "(She's crying...)"
+msgstr "(Ela está chorando...)"
+
+msgid "How long has she been locked up in here?"
+msgstr "Há quanto tempo ela está trancada aqui?"
+
+msgid "I don't know."
+msgstr "Não sei."
+
+msgid "No hard feelings."
+msgstr "Sem ressentimentos."
+
+msgid "You're food, after all."
+msgstr "Afinal, você é comida."
+
+msgid "What are your thoughts?"
+msgstr "Quais são seus pensamentos?"
+
+msgid "Go take a look."
+msgstr "Vá dar uma olhada."
+
+msgid "Psst..."
+msgstr "Psiu..."
+
+msgid "Over here."
+msgstr "Por aqui."
+
+msgid "A small toy."
+msgstr "Um pequeno brinquedo."
+
+msgid "..."
+msgstr "..."
+
+msgid "Is that... Miss Knives?"
+msgstr "Isso é a... Senhorita Knives?"
+
+msgid "Is this what she actually looks like..?"
+msgstr "É assim que ela realmente se parece?"
+
+msgid "Whoa."
+msgstr "Uau."
+
+msgid "She looks like a used napkin."
+msgstr "Ela parece um guardanapo usado."
+
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "Parece que este portão pode ser aberto. Abra?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "You're... Spider?"
+msgstr "Você é o... Spider?"
+
+msgid "Good work back there. Didn't think you'd actually do it."
+msgstr "Bom trabalho lá atrás. Não pensei que você realmente faria isso."
+
+msgid "It feels good to see this place again."
+msgstr "É bom ver este lugar novamente."
+
+msgid "How's this good? You're locked up."
+msgstr "Como isso é bom? Você está trancado."
+
+msgid "I don't need much to be content."
+msgstr "Não preciso de muito para me contentar."
+
+msgid "My cell neighbor keeps me entertained."
+msgstr "Minha vizinha de cela me mantém entretido."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "You mean Miss Knives...?"
+msgstr "Você quer dizer senhorita Knives...?"
+
+msgid "About Miss Knives..."
+msgstr "Sobre a senhorita Knives..."
+
+msgid "Are you surprised?"
+msgstr "Você está surpresa?"
+
+msgid "Well... kind of."
+msgstr "Bem, tipo isso."
+
+msgid "She's seen better days."
+msgstr "Ela já viu dias melhores."
+
+msgid "But she'll be fine. She's just like a spider."
+msgstr "Mas ela vai ficar bem. Ela é como uma aranha."
+
+msgid "After a little while, she'll make a new web and entangle everyone in it again."
+msgstr "Depois de um tempo, ela fará uma nova teia e envolverá todos nela novamente."
+
+msgid "I'm curious to see what it will look like next time."
+msgstr "Estou curioso para ver como será na próxima vez."
+
+msgid "Huh."
+msgstr "Huh."
+
+msgid "I see..."
+msgstr "Entendi..."
+
+msgid "Besides. She does get a visitor every so often."
+msgstr "Além do mais. Ela recebe uma visita de vez em quando."
+
+msgid "Really?"
+msgstr "Sério?"
+
+msgid "Yes. An intriguing one by the name of Red."
+msgstr "Sim. Um intrigante pessoa chamada Red."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Don't look so excited."
+msgstr "Não fique tão animada."
+
+msgid "Red won't be back here anytime soon."
+msgstr "Red não voltará aqui tão cedo."
+
+msgid "I see."
+msgstr "Entendido."
+
+msgid "Is Red the lighthouse person?"
+msgstr "Red é a pessoa do farol?"
+
+msgid "Yes..."
+msgstr "Sim..."
+
+msgid "Ah, damn."
+msgstr "Ah, droga."
+
+msgid "Interesting."
+msgstr "Interessante."
+
+msgid "If the lighthouse is what you're searching for, perhaps this is of use to you."
+msgstr "Se o farol é o que você procura, talvez isso seja útil para você."
+
+msgid "Is this... a doorknob to the lighthouse?"
+msgstr "Isto é... uma maçaneta para o farol?"
+
+msgid "What remains of it."
+msgstr "O que resta disso."
+
+msgid "That's fine, I... I think I know how to fix it."
+msgstr "Tudo bem, eu... acho que sei como consertar isso."
+
+msgid "This is a big help, Spider."
+msgstr "Esta é uma grande ajuda, Spider."
+
+msgid "Thank you. I appreciate it, even if it's broken."
+msgstr "Obrigado. Eu aprecio isso, mesmo que esteja quebrado."
+
+msgid "Then consider our debts settled."
+msgstr "Então considere nossas dívidas liquidadas."
+
+msgid "Spider seems at peace in its cell."
+msgstr "Spider parece em paz em sua cela."
+
+msgid "Crayons and children's drawings."
+msgstr "Giz de cera e desenhos infantis."
+
+msgid "Denomination: G8. Potential: Questionable. Training interrupted."
+msgstr "Denominação: G8. Potencial: Questionável. Treinamento interrompido."
+
+msgid "Requesting installation of an anti-distortion field."
+msgstr "Solicitando instalação de campo antidistorção."
+
+msgid "An old, crusty pillow."
+msgstr "Um travesseiro velho e duro."
+
+msgid "Denomination: G11. Potential: High. Training ongoing."
+msgstr "Denominação: G11. Potencial: Alto. Treinamento em andamento."
+
+msgid "A set of four toy plants."
+msgstr "Um conjunto de quatro plantas de brinquedo."

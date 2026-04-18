@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "....."
+msgstr "……"
+
+msgid "Let's get rid of some items..."
+msgstr "いくつか持ち物を捨てよう……"
+
+msgid "(You got rid of some items.)"
+msgstr "(いくつかアイテムを捨てた。)"
+
+msgid "There's a bucket here."
+msgstr "バケツがある。"
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "${item:ch1.bucket} を取る？"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice.Take ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice.Take ${item:ch1.bucket}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "There are easier ways to fill a bucket with water."
+msgstr "バケツに水を入れるにはもっと簡単な方法がある。"
+
+msgid "It doesn't want to go in there..."
+msgstr "入りたくないようだ……"
+
+msgid "The fish is long dead. Putting it in water won't change that."
+msgstr "魚はとうに死んでいる。水に入れても変わらない。"
+
+msgid "The monster swims away after being splashed."
+msgstr "水を浴びせられた怪物は泳ぎ去っていった。"
+
+msgid "That won't accomplish anything."
+msgstr "そんなことをしても何にもならない。"
+
+msgid "I thought it hated water...?"
+msgstr "水が嫌いなんじゃなかったの……？"
+
+msgid "Well, no... it's clearly swimming in the water just fine."
+msgstr "いや、違う……どう見ても、水の中を平気で泳いでる。"
+
+msgid "Maybe it's some different kind of water."
+msgstr "なにか違う種類の水のことなのかも。"
+
+msgid "The monster stares at you without moving from its spot."
+msgstr "怪物は動くことなくこちらを見つめている。"
+
+msgid "No... what if something lives down there?"
+msgstr "いや……中に何か住んでたらどうするの？"
+
+msgid "I wouldn't want to drown it."
+msgstr "溺れさせちゃうのは避けたい。"
+
+msgid "A boat that has seen better days."
+msgstr "古びたボート。"
+
+msgid "It could probably take you north."
+msgstr "これで北に行けるかもしれない。"
+
+msgid "Ideally, I'd like to have two paddles."
+msgstr "オールは理想的には2本欲しい。"
+
+msgid "I can't take it anywhere without paddles."
+msgstr "オールなしじゃどこにも行けない。"
+
+msgid "Also..."
+msgstr "それに……"
+
+msgid "(What should I do?)"
+msgstr "(どうしよう？)"
+
+msgid "Get on the boat"
+msgstr "ボートに乗る"
+
+msgid "Do not"
+msgstr "乗らない"
+
+msgid "What the heck is that thing...?"
+msgstr "あれ、いったい何……？"
+
+msgid "(Maybe I shouldn't get on while it's there...)"
+msgstr "(あれがいる間は乗らない方がいいかも……)"
+
+msgid "A puddle of what looks like blood."
+msgstr "血だまりらしきもの。"
+
+msgid "Did this thing just turn into blood...?"
+msgstr "今、血に変わった……？"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.dlg.narrator"
+msgid "A small burrow."
+msgstr "小さな巣穴。"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice"
+msgid "Reach inside?"
+msgstr "中を探ってみる？"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.Reach inside?"
+msgid "Yes"
+msgstr "探ってみる"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.Reach inside?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "You can't feel anything special."
+msgstr "特に大したものはなさそうだ。"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.dlg.narrator"
+msgid "A small burrow."
+msgstr "小さな巣穴。"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice"
+msgid "Reach inside?"
+msgstr "中を探ってみる？"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.Reach inside?"
+msgid "Yes"
+msgstr "探ってみる"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.Reach inside?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "A cage attached to a tree."
+msgstr "木に結び付けられた檻。"
+
+msgid "It looks like I could put something inside."
+msgstr "中に何かを入れられそう。"
+
+msgid "A bunny stares at you from inside."
+msgstr "中からウサギがこちらを見つめている。"
+
+msgid "The 5-coin fish rests inside. It's not even grilled."
+msgstr "中に5コインの魚がある。焼いてすらいない。"
+
+msgid "A pack of chips is inside."
+msgstr "中にチップスの袋がある。"
+
+msgid "A chocolate bar is inside."
+msgstr "中に板チョコがある。"
+
+msgid "(Take it back?)"
+msgstr "(やっぱり檻から出す？)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Take it back?)"
+msgid "Yes"
+msgstr "出す"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Take it back?)"
+msgid "No"
+msgstr "出さない"
+
+msgid "There's no need to push the cage into the water anymore."
+msgstr "もう檻を水に入れる必要はない。"
+
+msgid "(Push the cage into the water?)"
+msgstr "(檻を水に入れる？)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Push the cage into the water?)"
+msgid "Yes"
+msgstr "入れる"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Push the cage into the water?)"
+msgid "No"
+msgstr "入れない"
+
+msgid "(The monster seems to like what you put inside the cage.)"
+msgstr "(怪物は檻の中のものを気に入ったようだ。)"
+
+msgid "The cage is in the water."
+msgstr "檻は水に沈んでいる。"
+
+msgid "No need to mess with it anymore."
+msgstr "これ以上何かする必要はない。"
+
+msgid "(Pull it back up?)"
+msgstr "(引き上げる？)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Pull it back up?)"
+msgid "Yes"
+msgstr "引き上げる"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Pull it back up?)"
+msgid "No"
+msgstr "やめておく"
+
+msgid "A fishing rod."
+msgstr "釣り竿。"
+
+msgid "Try it?"
+msgstr "釣ってみる？"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Try it?"
+msgid "Yes"
+msgstr "釣ってみる"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Try it?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "A structure housing a lamp."
+msgstr "明かりの灯った構造物。"
+
+msgid "A crow standing on a rock."
+msgstr "岩の上にカラスが止まっている。"
+
+msgid "Is it waiting to take the boat?"
+msgstr "ボートに乗るのを待ってるのかな？"
+
+msgid "Colorful logs sticking out of the water."
+msgstr "色とりどりの丸太が水から突き出している。"
+
+msgid "Despite your best efforts, you can't read the note from this side of the tree."
+msgstr "どんなに頑張っても、木のこちら側からメモを読むことはできない。"
+
+msgid "A note is attached to the tree. It says:"
+msgstr "メモが木に留めてある。"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVES MEAT\n"
+"HATES WATER\""
+msgstr ""
+"「怪物は\n"
+"${fsp:1}肉を愛し\n"
+"${fsp:1}水を嫌う」"

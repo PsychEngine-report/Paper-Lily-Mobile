@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The room where you were locked in is directly under you."
+msgstr "下面就是刚刚你被困住的房间。"
+
+msgid "You can see Sai from here. He doesn't seem to be doing anything."
+msgstr "你能从这里看见赛伊。他看起来一动不动。"
+
+msgid "Empty bird cages."
+msgstr "空鸟笼。"
+
+msgid "There seems to be something strange inside the cage."
+msgstr "笼子里似乎有什么奇怪的东西。"
+
+msgid "Try to get ${item:ch1.mk_hand_mirror}?"
+msgstr "要试着去拿${item:ch1.mk_hand_mirror}吗？"
+
+msgctxt "events.Ch1_MK_B1F_Cages.misc_cage_mirror.choice.Try to get ${item:ch1.mk_hand_mirror}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_B1F_Cages.misc_cage_mirror.choice.Try to get ${item:ch1.mk_hand_mirror}?"
+msgid "No"
+msgstr "否"
+
+msgid "There's nothing else in there."
+msgstr "里面没有其他东西了。"
+
+msgid "The painting lady is gone."
+msgstr "画像女离开了。"
+
+msgid "A painting of a lady."
+msgstr "一幅女子画像。"
+
+msgid "Her golden eye stands out..."
+msgstr "她的金色眼球很突出..."
+
+msgid "Pull it out?"
+msgstr "要拽出来吗？"
+
+msgctxt "events.Ch1_MK_B1F_Cages.misc_painting.choice.Pull it out?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_B1F_Cages.misc_painting.choice.Pull it out?"
+msgid "No"
+msgstr "否"
+
+msgid "(You don't need an extra eye, so you discarded it.)"
+msgstr "（你已经不需要额外的眼球了，所以你丢掉了它。）"
+
+msgid "Some abstract paintings."
+msgstr "一些抽象画。"

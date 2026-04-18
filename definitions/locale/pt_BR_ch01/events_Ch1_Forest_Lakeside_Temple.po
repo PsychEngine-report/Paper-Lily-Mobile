@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's happening?"
+msgstr "O que está acontecendo?"
+
+msgid "What in the world happened here...?"
+msgstr "O que diabos aconteceu aqui...?"
+
+msgid "It's too large to fit in there."
+msgstr "É muito largo para encaixar ali."
+
+msgid "Some pieces of old wood."
+msgstr "Alguns pedaços de madeira velha."
+
+msgid "They're too old to be useful."
+msgstr "Eles estão velhos demais para serem úteis."
+
+msgid "The floor in the shrine is unstable."
+msgstr "O chão do templo é instável."
+
+msgid "There's a note here. It says:"
+msgstr "Tem uma nota aqui. Ela diz:"
+
+msgid "\"The pipes get clogged sometimes."
+msgstr "\"Às vezes os canos ficam entupidos."
+
+msgid "If that happens, just add:"
+msgstr "Caso aconteça, adicione:"
+
+msgid "-Some pink petals"
+msgstr "-Algumas pétalas rosas"
+
+msgid "-Some purple petals"
+msgstr "-Algumas pétalas roxas"
+
+msgid "-Some white petals"
+msgstr "-Algumas pétalas brancas"
+
+msgid "-A bit of black algae"
+msgstr "-Um pouco de alga preta"
+
+msgid "-A bit of green algae"
+msgstr "-Um pouco de alga verde"
+
+msgid "-A bit of blue algae"
+msgstr "-Um pouco de alga azul"
+
+msgid "And that's it. Make sure you get the colors right, the little keeper is delicate.\""
+msgstr "E é isso. Certifique-se de acertar as cores, o pequeno guardião é delicado.\""
+
+msgid "A shrine of some sorts."
+msgstr "Algum tipo de santuário."
+
+msgid "There's a bowl with a goldfish in it."
+msgstr "Tem uma tigela com um peixe dourado dentro."
+
+msgid "Take the fish?"
+msgstr "Pegar o peixe?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "A window with a view of the water."
+msgstr "Uma janela com vista para a água."

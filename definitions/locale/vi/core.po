@@ -1,0 +1,488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Yes"
+msgstr "Có"
+
+msgid "No"
+msgstr "Không"
+
+msgid "On"
+msgstr "Bật"
+
+msgid "Off"
+msgstr "Tắt"
+
+msgid "Auto"
+msgstr "Tự động"
+
+msgid "Next"
+msgstr "Tiếp theo"
+
+msgid "Back"
+msgstr "Quay lại"
+
+msgid "Apply"
+msgstr "Áp dụng"
+
+msgctxt "system.common.cancel"
+msgid "Cancel"
+msgstr "Thôi"
+
+msgid "Done"
+msgstr "Xong"
+
+msgid "Loading..."
+msgstr "Đang tải..."
+
+msgid "Key"
+msgstr "Phím"
+
+msgid "Button"
+msgstr "Nút"
+
+msgid "Axis"
+msgstr "Trục"
+
+msgid "Keyboard"
+msgstr "Bàn phím"
+
+msgid "Controller"
+msgstr "Bộ điều khiển"
+
+msgid "New Game"
+msgstr "Chơi mới"
+
+msgid "Continue"
+msgstr "Chơi tiếp"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Itch.io Page"
+msgstr "Trang Itch.io"
+
+msgid "Translator Page"
+msgstr "Trang Phiên dịch viên"
+
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+msgid "Save"
+msgstr "Lưu"
+
+msgid "Save Game"
+msgstr "Lưu phần chơi"
+
+msgid "SLOT {0}"
+msgstr "SLOT {0}"
+
+msgid "<EMPTY>"
+msgstr "<TRỐNG>"
+
+msgid "CORRUPTED"
+msgstr "BỊ HỎNG"
+
+msgid "OBSOLETE"
+msgstr "PHẾ DỤNG"
+
+msgid "Unknown Location"
+msgstr "Địa điểm Không rõ"
+
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "Bạn có chắc là muốn ghi đè file lưu này chứ?"
+
+msgid "Load"
+msgstr "Tải"
+
+msgid "Load Game"
+msgstr "Tải phần chơi"
+
+msgid "Quit"
+msgstr "Thoát ra"
+
+msgid "Debug Room"
+msgstr "Phòng Debug"
+
+msgid "Settings"
+msgstr "Thiết lập"
+
+msgid "Inventory"
+msgstr "Kho đồ"
+
+msgid "Status"
+msgstr "Tình trạng"
+
+msgid "Objectives"
+msgstr "Mục tiêu"
+
+msgid "(There are no objectives)"
+msgstr "(Không có mục tiêu nào cả)"
+
+msgid "Main Menu"
+msgstr "Menu chính"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Extras"
+msgstr "Extras"
+
+msgid "Gallery"
+msgstr "Phòng tranh"
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "{0} Select {1} Back"
+msgstr "{0} Chọn {1} Quay lại"
+
+msgid "Go to Debug Room"
+msgstr "Đi đến Phòng Debug"
+
+msgid "Quit to Title Screen"
+msgstr "Thoát ra Màn hình Tiêu đề"
+
+msgid "Quit to Desktop"
+msgstr "Thoát ra Desktop"
+
+msgid "Are you sure you want to quit? Unsaved progress will be lost."
+msgstr ""
+"Bạn có chắc là muốn thoát chứ?\n"
+"Quá trình chưa được lưu sẽ bị mất đấy."
+
+msgid "Game Paused!"
+msgstr "Phần chơi đã tạm dừng!"
+
+msgid "{0}{1} Select {2} Confirm"
+msgstr "{0}{1} Thay đổi {2} Xác nhận"
+
+msgid "Coins: {0}"
+msgstr "Tiền xu: {0}"
+
+msgid "Up"
+msgstr "Lên"
+
+msgid "Down"
+msgstr "Xuống"
+
+msgid "Left"
+msgstr "Trái"
+
+msgid "Right"
+msgstr "Phải"
+
+msgid "Action/OK"
+msgstr "Hành động/OK"
+
+msgctxt "system.actions.cancel"
+msgid "Cancel"
+msgstr "Thôi"
+
+msgid "Run"
+msgstr "Chạy"
+
+msgid "Special"
+msgstr "Đặc biệt"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Battery Saver Mode"
+msgstr "Chế độ Tiết kiệm Điện"
+
+msgid "Brightness"
+msgstr "Độ sáng"
+
+msgid "Contrast"
+msgstr "Độ tương phản"
+
+msgid "FPS Limit"
+msgstr "Giới hạn FPS"
+
+msgid "Unlocked"
+msgstr "Không giới hạn"
+
+msgid "V-Sync"
+msgstr "V-Sync"
+
+msgid "G-Sync"
+msgstr "G-Sync"
+
+msgid "Comp.V-Sync"
+msgstr "V-Sync Phức hợp"
+
+msgid "Full Screen"
+msgstr "Toàn màn hình"
+
+msgid "Internal Resolution"
+msgstr "Độ phân giải Nội bộ"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Renderer"
+msgstr "Bộ kết xuất"
+
+msgid "OpenGL ES 2.x"
+msgstr "OpenGL ES 2.x"
+
+msgid "OpenGL ES 3.x"
+msgstr "OpenGL ES 3.x"
+
+msgid "Resolution"
+msgstr "Độ phân giải"
+
+msgid "Window Size"
+msgstr "Kích cỡ Cửa sổ"
+
+msgid "Saturation"
+msgstr "Độ bão hòa"
+
+msgid "General Volume"
+msgstr "Âm lượng Chung"
+
+msgid "BGM Volume"
+msgstr "Âm lượng Nhạc nền"
+
+msgid "SFX Volume"
+msgstr "Âm lượng Tiếng hiệu ứng"
+
+msgid "Interface Volume"
+msgstr "Âm lượng Giao diện"
+
+msgid "Text Scrolling Volume"
+msgstr "Âm lượng Trải văn bản"
+
+msgid "Mute All Audio"
+msgstr "Tắt hết tiếng"
+
+msgid "Hide Mouse Cursor"
+msgstr "Ẩn Con trỏ chuột"
+
+msgid "Objective Notifications"
+msgstr "Thông báo Mục tiêu"
+
+msgid "Sound Settings"
+msgstr "Thiết lập Âm thanh"
+
+msgid "Screen Settings"
+msgstr "Thiết lập Màn hình"
+
+msgid "Control Settings"
+msgstr "Thiết lập Điều khiển"
+
+msgid "Invalid custom controls: All actions need to be assigned!"
+msgstr "Thiết lập điều khiển không hợp lệ: Có thao tác chưa được gán!"
+
+msgid "Game Settings"
+msgstr "Thiết lập Trò chơi"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+msgid "Classic"
+msgstr "Classic"
+
+msgid "WASD"
+msgstr "WASD"
+
+msgid "Azerty Classic"
+msgstr "Azerty Classic"
+
+msgid "Azerty WASD"
+msgstr "Azerty WASD"
+
+msgid "Dvorak Classic"
+msgstr "Dvorak Classic"
+
+msgid "Dvorak WASD"
+msgstr "Dvorak WASD"
+
+msgid "Xbox"
+msgstr "Xbox"
+
+msgid "DualShock 4"
+msgstr "DualShock 4"
+
+msgid "DualShock 4 (JP)"
+msgstr "DualShock 4 (JP)"
+
+msgid "Switch Pro"
+msgstr "Switch Pro"
+
+msgid "Generic"
+msgstr "Generic"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "Press a key to assign to {0}..."
+msgstr "Bấm phím gán cho {0}..."
+
+msgid "Press a button to assign to {0}..."
+msgstr "Bấm nút gán cho {0}..."
+
+msgid "Auto Switch"
+msgstr "Tự Hoán chuyển Profile"
+
+msgid "Controller Deadzone"
+msgstr "Deadzone Cần điều khiển"
+
+msgid "Advanced Settings"
+msgstr "Thiết lập Cao cấp"
+
+msgid "Revert Settings to Default"
+msgstr "Khôi phục Thiết lập Mặc định"
+
+msgid "Not recommended"
+msgstr "Không khuyên dùng"
+
+msgid "Restart required"
+msgstr "Cần khởi động lại"
+
+msgid "Current: {0}"
+msgstr "Hiện tại: {0}"
+
+msgid "Hold to Fast Forward"
+msgstr "Giữ để Tua Nhanh"
+
+msgid "Show Skip Option"
+msgstr "Hiện Lựa chọn \"Bỏ qua\""
+
+msgid "Language Settings"
+msgstr "Ngôn ngữ"
+
+msgid "Select Language"
+msgstr "Lựa chọn Ngôn ngữ"
+
+msgid "Unofficial Translations"
+msgstr "Các bản dịch phi chính thức"
+
+msgid "More..."
+msgstr "Nữa..."
+
+msgid ""
+"Attention!\n"
+"\n"
+"You're about to view unofficial translations. These translations are\n"
+"not developed by Leef 6010 and we take no responsibility for their accuracy.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"Chú ý\n"
+"\n"
+"Các bản dịch sau đây đều là bản dịch phi chính thức. Các bản dịch này\n"
+"không phải do Leef 6010 soạn ra và chúng tôi không chịu trách nhiệm\n"
+"cho tính chính xác của các bản dịch đấy.\n"
+"\n"
+"Đi tiếp chứ?"
+
+msgid "Objectives Updated!"
+msgstr "Mục tiêu đã được cập nhật!"
+
+msgid "(Done)"
+msgstr "(Xong)"
+
+msgid "{0} Give Up {1} Reset"
+msgstr "{0} Bỏ cuộc {1} Reset"
+
+msgid "{0} Slow"
+msgstr "{0} Di chậm"
+
+msgid "{0} Next"
+msgstr "{0} Kế tiếp"
+
+msgid "{0} Okay"
+msgstr "{0} Ô kê"
+
+msgid "Obtained {0} {1}"
+msgstr "Đã nhận được {0} {1}"
+
+msgid "Designed By"
+msgstr "Thiết kế"
+
+msgid "Art"
+msgstr "Vẽ"
+
+msgid "Programming"
+msgstr "Lập trình"
+
+msgid "Playtesting"
+msgstr "Chơi kiểm thử"
+
+msgid "Fonts"
+msgstr "Font (bản tiếng Anh)"
+
+msgid "UI Design"
+msgstr "Thiết kế UI"
+
+msgid "Additional UI Design"
+msgstr "Thiết kế UI Bổ sung"
+
+msgid "Paper Lily Logo"
+msgstr "Paper Lily Logo"
+
+msgid "Paper Lily OST"
+msgstr "Paper Lily OST"
+
+msgid "Music"
+msgstr "Âm nhạc"
+
+msgid "Additional Music"
+msgstr "Âm nhạc Bổ sung"
+
+msgid "SFX"
+msgstr "Tiếng hiệu ứng"
+
+msgid "Additional Shaders & Special Effects"
+msgstr "Shader Bổ sung & Hiệu ứng Đặc biệt"
+
+msgid "Japanese Communications"
+msgstr "Giao thiệp Tiếng Nhật"
+
+msgid "Korean Communications"
+msgstr "Giao thiệp Tiếng Hàn"
+
+msgid "Additional Assets"
+msgstr "Asset Bổ sung"
+
+msgid "Special Thanks"
+msgstr "Trân trọng Cảm ơn"
+
+msgid "Created By"
+msgstr "Chế tác"
+
+msgid "Made Using"
+msgstr "Tạo bằng"
+
+msgid "Godot Engine"
+msgstr "Godot Engine"
+
+msgid "Thank You for Playing!"
+msgstr "Cảm ơn bạn đã chơi!"
+
+msgid "You Died"
+msgstr "Bạn đã chết"
+
+msgid "Retry"
+msgstr "Thử lại"
+
+msgid "Give Up"
+msgstr "Bỏ cuộc"

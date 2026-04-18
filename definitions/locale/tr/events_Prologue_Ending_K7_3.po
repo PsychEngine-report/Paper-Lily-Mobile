@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It could be dangerous to topple these boxes over."
+msgstr "o kutuları devirmek tehlikeli olabilir."
+
+msgid "A large pile of boxes that goes all the way to the ceiling."
+msgstr "tavana kadar uzanan büyük bir kutu yığını."
+
+msgid "This room feels different..."
+msgstr "Bu oda farklı hissettiriyor."
+
+msgid "Is it safe...?"
+msgstr "Bu güvenli mi...?"
+
+msgid "Ah, there you are."
+msgstr "Ah, işte buradasın."
+
+msgid "Who are you...? What is this place?"
+msgstr "Sen kimsin...? Burası da ne böyle?"
+
+msgid "Straight to the point I see."
+msgstr "Görüyorum ki direkt konuya giriyorsun."
+
+msgid "Well, this isn't quite your world."
+msgstr "Pekala, burası tam olarak senin dünyan değil."
+
+msgid "...What?"
+msgstr "...Ne?"
+
+msgid "Let's not get into it. You're doing a ritual, correct?"
+msgstr "O konuya hiç girmeyelim. Bir ritüel yapıyorsun, doğru muyum?"
+
+msgctxt "events.Prologue_Ending_K7_3.misc_ending.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "Stop, and go home."
+msgstr "Dur ve eve git."
+
+msgid "All of you. I mean it."
+msgstr "Hepinize diyorum."
+
+msgid "Excuse me...?"
+msgstr "Pardon...?"
+
+msgid "Kat, if you keep doing what you're doing, things won't end well."
+msgstr "Kat eğer yaptığın şeyi yapmaya devam edersen işler iyi sonuçlanmayacak."
+
+msgid "Do you know this person, Kat?"
+msgstr "Bu kişiyi tanıyor musun Kat?"
+
+msgid "Not at all."
+msgstr "Pek sayılmaz."
+
+msgid "They seem to know you, though."
+msgstr "Ama o seni tanıyor gibi."
+
+msgid "What is it with everyone warning me lately?"
+msgstr "Niye son zamanlarda herkes beni uyarıp duruyor?"
+
+msgid "I need some answers."
+msgstr "Cevaplara ihtiyaacım var."
+
+msgid "So far, you haven't-"
+msgstr "Sen hiç şimdiye kadar-"
+
+msgid "Stop! Don't cross that line."
+msgstr "Dur! O çizgiyi geçme."
+
+msgctxt "events.Prologue_Ending_K7_3.misc_ending.dlg.hoodie"
+msgid "..."
+msgstr "..."
+
+msgid "Sigh..."
+msgstr "Öff..."
+
+msgid "If you haven't realized by now, the ritual works."
+msgstr "Eğer daha fark etmediysen, ritüel işe yarıyor."
+
+msgid "It will take you somewhere you'll never return from."
+msgstr "Seni bir daha dönemeyeceğin bir yere götürecek."
+
+msgid "If it works then... I should definitely finish it."
+msgstr "Eğer işe yarayacaksa, o zaman... Onu kesinlikle bitirmeliyim."
+
+msgid "Kat, what are you saying...?"
+msgstr "Kat, ne diyorsun...?"
+
+msgid "Sorry, but I can't listen to this person. I have my reasons for doing this."
+msgstr "Üzgünüm, ama bu kişiyi dinleyemem. Bunu yapmak için kendi nedenlerim var."
+
+msgid "I don't know how much you value what you have right now but..."
+msgstr "Şu an sende olan şeyleri ne kadar önemsediğini bilmiyorum ama..."
+
+msgid "If you continue down this path, you'll lose everything."
+msgstr "Bu yoldan gidersen her şeyini kaybedeceksin."
+
+msgid "Everything you hold dear, and everything you don't."
+msgstr "Değer verdiğin ve vermediğin her şeyi."
+
+msgid "Your questions will not receive any satisfying answers..."
+msgstr "Soruların tatmin edici cevaplar almayacak..."
+
+msgid "And everything you know about the world will turn meaningless."
+msgstr "Ve bu dünya hakkında bildiğin her şey anlamsız hale gelecek."
+
+msgid "Those three."
+msgstr "Bu üçü."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Are you willing to sacrifice their lives for your so-called \"reasons\"?"
+msgstr "Onların hayatlarını sözde \"nedenlerin\" için feda etmeye razı mısın?"
+
+msgid "Lives...?"
+msgstr "Hayatlarını mı...?"
+
+msgid "Furthermore, your own life."
+msgstr "Dahası, kendi hayatını da."
+
+msgid "Are you willing to die for the answers you're seeking?"
+msgstr "aradığın cevaplar için ölmeye razı mısın?"
+
+msgid "Let's go back, Kat."
+msgstr "Hadi geri dönelim, Kat."
+
+msgid "I want to leave..."
+msgstr "Gitmek istiyorum..."
+
+msgid "I don't believe you. Why don't you just give me my answers yourself then? Spare me the trip."
+msgstr "Sana inanmıyorum. Neden bana cevaplarımı sen vermiyorsun o zaman? beni bu zahmetten kurtar."
+
+msgid "I thought so."
+msgstr "Ben de öyle düşünmüştüm."
+
+msgid "I've said what I needed to."
+msgstr "Söylemem gereken şeyleri söyledim."
+
+msgid "Why? Who are you?"
+msgstr "Neden? Sen kimsin?"
+
+msgid "Just someone who has seen too many humans die."
+msgstr "Sadece bir sürü insanın ölümünü görmüş birisi."
+
+msgid "It would sadden me to add you four to the pile."
+msgstr "O yığına siz dördünüzü de eklemek beni üzer."
+
+msgid "Go home, Kat."
+msgstr "Eve git, Kat."
+
+msgid "Can't you feel it in the air here? You're all in danger."
+msgstr "Hissetmiyor musun? Hepiniz tehlikedesiniz."
+
+msgid "Kat, please, this feels too dangerous..."
+msgstr "Kat, lütfen, bu çok tehlikeli hissettiriyor."
+
+msgid "Kat, let's just go."
+msgstr "Kat, hadi gidelim."
+
+msgid "Yeah, let's get out of here. I didn't sign up for this."
+msgstr "Evet, hadi gidelim buradan. Ben buna gönüllü olmadım."
+
+msgid "Kat, we don't want something bad to happen to you."
+msgstr "Kat, sana kötü bir şey olmasını istemiyoruz."
+
+msgid "Fine, let's go."
+msgstr "Tamam, hadi gidelim."
+
+msgid "Are you by any chance the same person from my dream earlier today?"
+msgstr "Bir ihtimal bu sabah rüyamda gördüğüm kişi olabilir misin?"
+
+msgid "A dream...?"
+msgstr "Rüya mı...?"
+
+msgid "It must have been your subconscious warning you as well."
+msgstr "Bilinç altın da seni uyarmış olmalı."
+
+msgid "...I see."
+msgstr "...Anladım."
+
+msgid "(Oh.)"
+msgstr "(Oh.)"
+
+msgid "(Should I give this person the blueprints I found...?)"
+msgstr "(Bulduğum şablonları bu kişiye vermeli miyim...?)"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "By the way..."
+msgstr "Bu arada..."
+
+msgid "I found these weird blueprints a few minutes ago."
+msgstr "Bu garip şablonları bir kaç dakika önce buldum."
+
+msgid "Just take them."
+msgstr "Hadi al şunları."
+
+msgid "Otherwise I might change my mind."
+msgstr "Yoksa fikrimi değiştirebilirim."
+
+msgid "Huh... this is..."
+msgstr "Hah... bu..."
+
+msgid "Thank you."
+msgstr "Teşekkür ederim."
+
+msgid "You're doing the right thing, Kat. Your father would be glad."
+msgstr "doğru şeyi yapıyorsun Kat. Baban mutlu olurdu."
+
+msgid "It's okay to accept the life you're left with. Don't destroy it."
+msgstr "Sana bırakılan hayatı kabul etmek sorun değil. Onu yok etme."
+
+msgid "...I guess."
+msgstr "...Galiba."
+
+msgid "Kat!!!"
+msgstr "Kat!!!"
+
+msgid "Go already. You can't be here."
+msgstr "Git artık. Burada olmamalısın."
+
+msgid "If what you said is true..."
+msgstr "Eğer dediğin şey doğruysa..."
+
+msgid "Then thanks."
+msgstr "teşekkürler."
+
+msgid "I'll pass on the ritual."
+msgstr "Ritüeli es geçeceğim."
+
+msgid "For tonight."
+msgstr "Bu gecelik."
+
+msgid "That's good enough."
+msgstr "Bu yeterince iyi."
+
+msgid "A large pile of trash cans. They all seem to be empty."
+msgstr "Büyük bir çöp kutusu yığını. Hepsi boş gibi görünüyor."

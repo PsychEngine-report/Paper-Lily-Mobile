@@ -1,0 +1,1479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Welcome."
+msgstr "欢迎。"
+
+msgid "5 coins each."
+msgstr "5块硬币一个。"
+
+msgid "Buy a fish?"
+msgstr "要买鱼吗？"
+
+msgid "Buy"
+msgstr "购买"
+
+msgid "Buy all"
+msgstr "全部购买"
+
+msgid "Talk"
+msgstr "谈话"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.choice.Buy a fish?"
+msgid "Never mind"
+msgstr "没事"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.dlg.narrator"
+msgid "You don't have enough coins."
+msgstr "你没有足够的硬币。"
+
+msgid "(She looks intimidating...)"
+msgstr "（她看起来很吓人...）"
+
+msgid "What're you staring at?"
+msgstr "你在盯着什么看呢？"
+
+msgid "You heard me. 5 coins each, no haggling."
+msgstr "就听我的。5块钱一个，没有讨价还价。"
+
+msgid "Or, you could buy all my fish for 10 coins. It's a pretty good deal and I get to take the rest of the day off."
+msgstr "或者，你也可以用10个硬币买我所有的鱼。这是一笔相当划算的交易，而且接下来的一天我就可以休息啦。"
+
+msgid "(What kind of deal is that...?)"
+msgstr "（这算哪门子交易...？）"
+
+msgid "I'll take one."
+msgstr "我想要一条。"
+
+msgid "I'll take all of them."
+msgstr "我要所有的。"
+
+msgid "I don't even have 5 coins."
+msgstr "我甚至连5块硬币都没有。"
+
+msgid "No thanks"
+msgstr "不 谢谢"
+
+msgid "Does that sound like my problem? 5 coins each, no exceptions."
+msgstr "这听起来像是我的问题吗？5块硬币一个，没有例外。"
+
+msgid "Ready to buy?"
+msgstr "准备好消费了吗？"
+
+msgid "What will I use the fish for?"
+msgstr "我能用鱼做什么呢？"
+
+msgid "What do I care?"
+msgstr "这是我要关心的吗？"
+
+msgid "Will you at least grill it?"
+msgstr "你能把它烤烤吗？"
+
+msgid "Do I look like a buffet?! Scram."
+msgstr "我看起来像快餐店的人吗？！滚。"
+
+msgid "Where can I find more coins?"
+msgstr "我要去哪里找更多的硬币呢？"
+
+msgid "Sorry...! Please forget about it."
+msgstr "抱歉...！把它忘了吧。"
+
+msgid "She doesn't seem like she wants to talk."
+msgstr "她看起来不想讲话。"
+
+msgid "Welcome~"
+msgstr "欢迎~"
+
+msgid "We're out of stock for today, so come back again soon."
+msgstr "今天我们已经售罄了，过段时间再来吧。"
+
+msgid "Business is booming. Today was a good day."
+msgstr "生意真是兴隆啊。今天真是个好日子。"
+
+msgid "You should have rotted down there."
+msgstr "你应该烂在下面。"
+
+msgid "Just like my fish."
+msgstr "就像我的鱼一样。"
+
+msgid "Alba is counting the money she earned today."
+msgstr "阿尔巴正在数她今天赚到的钱。"
+
+msgid "Aoi."
+msgstr "小青。"
+
+msgid "Lacie!! Thank you!"
+msgstr "莱西！！谢谢你！"
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I was going to say that...)"
+msgstr "（我刚想说呢...）"
+
+msgid "Thanks to your idea, we managed to get out!!"
+msgstr "感谢你的点子，我们成功逃出来了！！"
+
+msgid "Ah, No... thank you."
+msgstr "啊，不...应该谢谢你。"
+
+msgid "Um... also... with the fish lady..."
+msgstr "呃...还有...那个卖鱼的女士..."
+
+msgid "I mean... um..."
+msgstr "我的意思是... 呃..."
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "You're nice."
+msgstr "你真棒。"
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "...!"
+msgstr "...！"
+
+msgid "Heheh I'm glad I met you Lacie!"
+msgstr "哈哈哈，我很高兴遇见你，莱西！"
+
+msgid "And I'm glad you had those amazing scissors!"
+msgstr "以及我很高兴你有那把神奇的剪刀！"
+
+msgid "They really saved us both."
+msgstr "它真的救了咱们。"
+
+msgid "I hope I'll be able to have such cool scissors some day too!"
+msgstr "我希望我将来也能有这么一把酷炫的剪刀！"
+
+msgid "Oh... yeah."
+msgstr "哦...是的。"
+
+msgid "You can keep them."
+msgstr "你可以留着它。"
+
+msgid "WHAAAT?!"
+msgstr "什么？！"
+
+msgid "But Lacie, what if you need them!"
+msgstr "但是莱西，你需要它！"
+
+msgid "I'll be fine."
+msgstr "没事的。"
+
+msgid "Wow!!"
+msgstr "哇哦！！"
+
+msgid "Thank you so much!"
+msgstr "太感激你了！"
+
+msgid "This is the best gift anyone's ever given me!"
+msgstr "这是我收到过最好的礼物！"
+
+msgid "What will you do now?"
+msgstr "现在你要去干什么？"
+
+msgid "Well... I'm... looking for something. Some answers, I guess."
+msgstr "呃...我在...找一些东西。找一些答案吧，我猜。"
+
+msgid "For now, I need to go through the locked site."
+msgstr "现在的话，我要去穿过封锁区了。"
+
+msgid "Ohh!"
+msgstr "哦！"
+
+msgid "Be careful in there."
+msgstr "在那里要小心哦。"
+
+msgid "I have a tip! Always hide in the bushes!"
+msgstr "我有一个小提示！一定要藏在树丛里哦！"
+
+msgid "Thank you."
+msgstr "谢谢你。"
+
+msgid "Are you leaving?"
+msgstr "你要走了吗？"
+
+msgid "Oh, yeah, back to work for me heheh."
+msgstr "哦，是的，我得回去工作了，嘿嘿。"
+
+msgid "I've had enough adventures..."
+msgstr "我的冒险经历已经够多了..."
+
+msgid "Is that good?"
+msgstr "那个地方好吗？"
+
+msgid "I'm not looking forward to it..."
+msgstr "我其实不是很期待回去..."
+
+msgid "But.. it's where I live, so..."
+msgstr "但是...那是我的住所，所以..."
+
+msgid "Maybe we'll meet again?"
+msgstr "也许我们还能再见呢？"
+
+msgid "Yeah."
+msgstr "嗯。"
+
+msgid "(That would be nice.)"
+msgstr "（那样就太好了。）"
+
+msgid "This isn't goodbye, okay!?"
+msgstr "我们还能再见的吧，好吗！？"
+
+msgid "Oh, okay."
+msgstr "哦，好的。"
+
+msgid "Then..."
+msgstr "那么..."
+
+msgid "See you later!"
+msgstr "以后见！"
+
+msgid "See you."
+msgstr "再见。"
+
+msgid "(I feel like I should have said more... Why am I so bad with words?)"
+msgstr "（我觉得我应该再多说一点的...为什么我这么不善于表达呢？）"
+
+msgid "(Sigh... I just have to make sure to say it next time we meet.)"
+msgstr "（唉... 下次见面我一定要说出来。）"
+
+msgid "Mee-mee-mee-"
+msgstr "见——见——见——"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "Mee-meet!"
+msgstr "见——见到！"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Uh...N-N-Nice to... meet..."
+msgstr "啊... 很——很——很高兴... 见到..."
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "..."
+msgstr "..."
+
+msgid "A-a-apologies. I-I-I'm not very good at speaking under pressure."
+msgstr "抱——抱——抱歉。我——我——我不擅长在压力下说话。"
+
+msgid "(He's worse than me...)"
+msgstr "（他的表现比我还糟...）"
+
+msgid "Kozmo."
+msgstr "科兹莫。"
+
+msgid "...What?"
+msgstr "...什么？"
+
+msgid "Oh... Y-y-you didn't ask for my name."
+msgstr "哦... 你——你——你还没问我的名字呢。"
+
+msgid "Yeah... I didn't."
+msgstr "对... 我确实没有。"
+
+msgid "Th-This interaction is not enjoyable."
+msgstr "这——这次交谈不是很愉快啊。"
+
+msgid "It's nice to meet you, Kozmo."
+msgstr "很高兴见到你，科兹莫。"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "...！"
+
+msgid "L-l-likewise, ...erm...?"
+msgstr "那——那——那么，...呃...？"
+
+msgid "Your-your..your-"
+msgstr "你的——你的....你的——"
+
+msgid "Your name is...?"
+msgstr "你的名字是...？"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "Oh."
+msgstr "哦。"
+
+msgid "It's um... It's not important."
+msgstr "那，呃...那不重要。"
+
+msgid "O-oh... okay..."
+msgstr "哦——哦... 好吧..."
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "Why are you so bad at speaking?"
+msgstr "为什么你说话这么糟糕呢？"
+
+msgid "What are you doing here?"
+msgstr "你在这里做什么？"
+
+msgid "(Knock on his head)"
+msgstr "（敲敲他的脑袋）"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.So..."
+msgid "Never mind"
+msgstr "没事"
+
+msgid "Y-y-y-you think I'm bad at speaking...?"
+msgstr "你——你——你——你觉得我说话很糟吗...？"
+
+msgid "Well... you said it yourself, did you not?"
+msgstr "嗯...你自己说的，不是吗？"
+
+msgid "Oh... w-well..."
+msgstr "哦...好——好吧..."
+
+msgid "Th-Th-The truth is..."
+msgstr "其——其——其实是..."
+
+msgid "I-I-I've been told I sometimes....."
+msgstr "有——有——有人说我有时候..."
+
+msgid "S-s-stutter...!"
+msgstr "会——会——会口吃...！"
+
+msgid "Oh. I'm sorry to hear that."
+msgstr "哦。很抱歉听到这个。"
+
+msgid "D-d-d-do you think I stutter?!?"
+msgstr "你——你——你——你觉得我有口吃吗？！？"
+
+msgid "(Do I think Kozmo stutters...?)"
+msgstr "（我觉得科兹莫有口吃吗...？）"
+
+msgid "It's not my place to say."
+msgstr "我不应该这么讲。"
+
+msgid "Yes, it's very obvious."
+msgstr "是啊，很明显。"
+
+msgid "O-oh... That's okay."
+msgstr "哦——哦...没事的。"
+
+msgid "M-m-maybe I've improved, and it's not so noticeable!"
+msgstr "也——也——也许我可以改善，而且也不是那么明显！"
+
+msgid "Maybe."
+msgstr "也许吧。"
+
+msgid "O-oh dear......"
+msgstr "哦——哦，天呐......"
+
+msgid "Do you live here?"
+msgstr "你住在这里吗？"
+
+msgid "N-no.. Not many of us live in the forest."
+msgstr "不——不... 我们大多都不住在森林里。"
+
+msgid "I-it's too distant, you see..."
+msgstr "这——这里太远了，你也知道..."
+
+msgid "Too distant to... what, exactly?"
+msgstr "离哪里太远了... 具体的地方是？"
+
+msgid "T-t-the city, mainly."
+msgstr "主——主——主要是说城市啦。"
+
+msgid "How do you get to the city from here?"
+msgstr "从这里怎么去城市？"
+
+msgid "Is-is-is-is this a quiz?"
+msgstr "这——这——这——这是调研吗？"
+
+msgid "No, I..."
+msgstr "不是的，我..."
+
+msgid "We-well... It's... um... y-y-you can... you can take the bus... o-o-or the train..."
+msgstr "好——好吧... 你——你——你可以乘坐巴士... 或——或——或者火车..."
+
+msgid "Don't you know this though?"
+msgstr "难道你不知道吗？"
+
+msgid "Come to think of it, where are you from?"
+msgstr "仔细想想，你从哪里来的？"
+
+msgid "I should be going."
+msgstr "我得走了。"
+
+msgid "A-a-a-a don't do that! It's fragile!"
+msgstr "啊——啊——啊——啊，别这么做！它很脆弱的！"
+
+msgid "S-s-s-s-stop...!!"
+msgstr "停——停——停——停下...！！"
+
+msgid "Um... this isn't what I expected..."
+msgstr "呃...这和我预想的不一样..."
+
+msgid "Wh-wh-what have you done..!? Oh no, oh no, oh no."
+msgstr "你——你——你做了什么...！？哦不，哦不，哦不。"
+
+msgid "Please help me!"
+msgstr "请救救我！"
+
+msgid "P-p-please find me a new head!"
+msgstr "请——请——请帮我找一个新的头！"
+
+msgid "A new head..?"
+msgstr "一个新的头...？"
+
+msgid "A-a-anything hollow can serve as one, please!"
+msgstr "任——任——任何空心的东西都可以，求你了！"
+
+msgid "H-h-h-hurry!"
+msgstr "快——快——快——快点！"
+
+msgid "If it all escapes I'll...I'll-"
+msgstr "如果它全部逃逸了的话，我就...我就——"
+
+msgid "Knock again?"
+msgstr "要再敲敲吗？"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "No"
+msgstr "否"
+
+msgid "A large amount of something leaks from Kozmo."
+msgstr "大量的不明物体从科兹莫里泄露了出来。"
+
+msgid "I should hurry."
+msgstr "我应该赶快。"
+
+msgid "Kozmo sways left and right."
+msgstr "科兹莫左摇右摆。"
+
+msgid "Kozmo is sporting a new head."
+msgstr "科兹莫正在活动新的头部。"
+
+msgid "P-p-p-p-p-please... give me a moment..."
+msgstr "请——请——请——请——请...给我一点时间..."
+
+msgid "Apologize?"
+msgstr "要道歉吗？"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "No"
+msgstr "否"
+
+msgid "I'm sorry if I was rude."
+msgstr "我很抱歉我的失礼。"
+
+msgid "I'm not very good at... interacting with people either."
+msgstr "我非常不擅长...与其他人互动。"
+
+msgid "I don't get much practice."
+msgstr "我没怎么练习过。"
+
+msgid "R-r-really?"
+msgstr "真——真——真的吗？"
+
+msgid "Mhm..."
+msgstr "嗯..."
+
+msgid "I think it's okay that you stutter."
+msgstr "我觉得你的口吃也没什么。"
+
+msgid "At least you're still able to convey your feelings."
+msgstr "至少你还能表达你的感受。"
+
+msgid "Thank you for reassuring me!"
+msgstr "谢谢你安慰我！"
+
+msgid "(Phew...)"
+msgstr "（呼...）"
+
+msgid "Kozmo's clothes remain here."
+msgstr "科兹莫的衣服还留在此处。"
+
+msgid "Kozmo isn't here anymore."
+msgstr "科兹莫已经不在这里了。"
+
+msgid "A pleasure."
+msgstr "很荣幸很见到你。"
+
+msgid "Huh?"
+msgstr "啊？"
+
+msgid "You're not from around here."
+msgstr "你不是从这附近来的。"
+
+msgid "How do you know?"
+msgstr "你怎么知道？"
+
+msgid "You wander around anxiously."
+msgstr "你焦虑不安地四处徘徊。"
+
+msgid "Oh..."
+msgstr "哦..."
+
+msgid "Sit if you wish... The fire is captivating."
+msgstr "愿意的话就坐下吧...火光真迷人啊。"
+
+msgid "No... thank you."
+msgstr "不了...谢谢你。"
+
+msgid "What should I say?"
+msgstr "我该怎么说？"
+
+msgid "\"Are you a bug?\""
+msgstr "“你是只虫子吗？”"
+
+msgid "\"Can you help me?\""
+msgstr "“你能帮我吗？”"
+
+msgid "About the reward"
+msgstr "关于奖励"
+
+msgid "You have wings."
+msgstr "你有翅膀。"
+
+msgid "What of it?"
+msgstr "所以呢？"
+
+msgid "Are you a butterfly?"
+msgstr "你是蝴蝶吗？"
+
+msgid "...Disgusting."
+msgstr "...真是令人反感。"
+
+msgctxt "events.Ch1_Forest_Center.chr_milion.dlg.lacie"
+msgid "Oh."
+msgstr "哦。"
+
+msgid "A-a-a moth is the correct term. It-it-it must be your first encounter with one."
+msgstr "是——是——是飞蛾啦。你——你——你一定是第一次见到吧。"
+
+msgid "Th-Th-Th-They say if you meet all 9 moths you'll get a reward."
+msgstr "他——他——他——他们说如果你见到9只飞蛾的话，就会得到奖励哦。"
+
+msgid "Folklore is all it is. Why would anyone give you a reward?"
+msgstr "民间传说而已。怎么会有人给你奖励呢？"
+
+msgid "So-so-sometimes, you get rewarded for hard work. I-I-I've already met f-f-four."
+msgstr "有——有——有时候，你会因为努力工作得到奖励。我——我——我已经见到过四——四——四只了。"
+
+msgid "What a fool. Nobody will reward you for a scavenger hunt. The world is not a playground."
+msgstr "真是愚蠢。没人会奖励你的寻宝游戏。这个世界又不是什么游乐场。"
+
+msgid "... Y-y-you're too grim, Milion."
+msgstr "... 你——你——你——好冷酷，米利昂。"
+
+msgid "Wh-what do you think, lady?"
+msgstr "你——你觉得呢，女士？"
+
+msgid "(What do I think...?)"
+msgstr "（我怎么看...？）"
+
+msgid "The world is really unfair"
+msgstr "这个世界很不公平"
+
+msgid "Hard work pays off"
+msgstr "努力付出会有回报"
+
+msgid "S-s-s-such pessimistic views..."
+msgstr "真——真——真——真是悲观..."
+
+msgid "It's wise to be realistic."
+msgstr "现实一点才是明智之举。"
+
+msgid "W-w-w-well said!"
+msgstr "说——说——说——说得好！"
+
+msgid "I envy your naivety."
+msgstr "我嫉妒你的天真。"
+
+msgid "Just like this warm flame, your innocence too will soon be extinguished."
+msgstr "就像这团温暖的火焰，你的纯真也将很快熄灭。"
+
+msgid "A moth, if you really care for such simplifications."
+msgstr "一只飞蛾，简单来说。"
+
+msgid "I see..."
+msgstr "好的..."
+
+msgid "I have a question."
+msgstr "我有一个问题。"
+
+msgid "Do you happen to know where I could lift a curse?"
+msgstr "你知道我要怎样才能驱除诅咒吗？"
+
+msgid "You must seek Red."
+msgstr "你一定是在找瑞德吧。"
+
+msgid "Yeah... This isn't the first time I've heard that name."
+msgstr "对...我已经不是第一次听到这个名字了。"
+
+msgid "Everyone has heard that name."
+msgstr "每个人都听过这个名字。"
+
+msgid "Red cures all sorts of ailments... For a hefty price."
+msgstr "瑞德能治百病...但价格不菲。"
+
+msgid "..?"
+msgstr "..？"
+
+msgid "That one doesn't do anything for free."
+msgstr "那个人不会免费做事。"
+
+msgid "The moth is entranced by the fire pit."
+msgstr "飞蛾迷上了火坑。"
+
+msgid "So after I find 8 more moths I'll get rewarded?"
+msgstr "所以，再找8只飞蛾，我就能得到奖励了？"
+
+msgid "As I stated, it's nothing but a myth."
+msgstr "就像我说的那样，那只是个传说。"
+
+msgid "So... What kind of reward would it be?"
+msgstr "所以...奖励是哪样的？"
+
+msgid "I'll discuss no further with you."
+msgstr "我不想跟你谈了。"
+
+msgid "Milion is ignoring you."
+msgstr "米利昂无视了你。"
+
+msgid "This is quite amusing."
+msgstr "真是令人捧腹大笑。"
+
+msgctxt "events.Ch1_Forest_Center.chr_milion_post_tree.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It's been a while since anything interesting happened around here."
+msgstr "这里已经很久没有发生过有趣的事情了。"
+
+msgid "Milion is smiling."
+msgstr "米利昂在微笑。"
+
+msgid "(I've only been here for a little while and I already have a lead.)"
+msgstr "（我才来没多久，就已经有线索了。）"
+
+msgid "(I really didn't think this would be where I might find my answers...)"
+msgstr "（我真的没想到，会在这里找到答案......）"
+
+msgid "Finally..."
+msgstr "所以说..."
+
+msgid "A curse, huh?"
+msgstr "是诅咒吗？"
+
+msgid "It sounds probable, but how did it happen?"
+msgstr "听起来很有可能，但这是如何做到的呢？"
+
+msgid "And who... or what, cursed me?"
+msgstr "谁...或者什么，诅咒了我？"
+
+msgid "And why?"
+msgstr "还有，为什么呢？"
+
+msgid "There's too many questions."
+msgstr "疑点太多了。"
+
+msgid "(I wonder if I can call Hiro from here.)"
+msgstr "（我想知道这里能不能联系上希罗。）"
+
+msgid "(Looks like I have no reception... Should I try anyways?)"
+msgstr "（看起来没有信号...我应该试试看吗？）"
+
+msgid "(It works?!)"
+msgstr "（居然有用？！）"
+
+msgid "LACIE?!"
+msgstr "莱西？！"
+
+msgctxt "events.Ch1_Forest_Center.event_hiro_call.dlg.lacie"
+msgid "Hiro!"
+msgstr "希罗！"
+
+msgid "Are you okay? How are you calling me? Are you back? Did you find out-"
+msgstr "你还好吗？你怎么打电话给我的？你回来了吗？你找到——"
+
+msgid "Wait-"
+msgstr "慢着——"
+
+msgid "ARE YOU HURT?! DO YOU NEED ME TO COME THERE? ARE YOU IN DANGER?"
+msgstr "你受伤了吗？！需要我过来吗？你有危险吗？"
+
+msgid "I swear I'll get one of those letters and meet you in a jiffy! A jiffy!!-"
+msgstr "我发誓我会马上拿到信封然后飞速赶过来！飞速！！——"
+
+msgid "I'm fine."
+msgstr "我没事。"
+
+msgid "Oh, thank goodness."
+msgstr "哦，感谢上苍。"
+
+msgid "It seems to be safe where I am right now, so I just.. tried calling you."
+msgstr "我所在的地方现在看起来很安全，所以我就...试着给你打个电话。"
+
+msgid "...and it worked."
+msgstr "...然后就成功了。"
+
+msgid "Huh... that doesn't make much sense."
+msgstr "啊... 没道理啊。"
+
+msgid "It doesn't, does it..."
+msgstr "是没道理，但是成功了..."
+
+msgid "Tell me everything, where are you?!"
+msgstr "都告诉我吧，你现在在哪？！"
+
+msgid "I'm... in a forest."
+msgstr "我在...森林里。"
+
+msgid "A forest?! You didn't pack bug spray!"
+msgstr "森林？！你没带防虫喷雾！"
+
+msgid "There's more dangerous things here than bugs."
+msgstr "这里有比昆虫更危险的东西。"
+
+msgid "But don't worry, I've got it handled."
+msgstr "不过别担心，我已经搞定了。"
+
+msgid "I just need to find a light..."
+msgstr "我只需要找到光源..."
+
+msgid "I just needed to find a light and..."
+msgstr "我本来打算找到光源然后..."
+
+msgid "Lacie no! Lights ATTRACT bugs!"
+msgstr "莱西，不要！光源会吸引虫子的！"
+
+msgid "Hiro, I don't care about tiny bugs."
+msgstr "希罗，我真的不在意这些小虫子。"
+
+msgid "Just trying to lighten the mood~"
+msgstr "只是活跃一下气氛啦~"
+
+msgid "That's my job."
+msgstr "这是我的工作啊。"
+
+msgid "Mhm."
+msgstr "嗯。"
+
+msgid "Don't use up all your battery now."
+msgstr "别现在就把电池用完了哦。"
+
+msgid "Remember you can use the flashlight from your phone if you need a light."
+msgstr "记得，如果你需要光源的话，还可以用手机的闪光灯。"
+
+msgid "That's true. How could I forget?"
+msgstr "对哦。我怎么会忘了呢？"
+
+msgid "But it will use up my battery... I might not be able to call you again if that's the case."
+msgstr "但是这样会用掉电池...我可能就没法再给你打电话了。"
+
+msgid "It's up to you to decide if you need it."
+msgstr "至于是否需要，就看你自己的决定了。"
+
+msgid "Alright, I'll go now."
+msgstr "好吧，我要走了。"
+
+msgid "You've got this!"
+msgstr "你可以的！"
+
+msgid "Cellphone"
+msgstr "电话"
+
+msgid "My personal phone. Hiro bought it for me. It may be used as a flashlight."
+msgstr "我的私人手机。希罗给我买的。它可以拿来当手电筒用。"
+
+msgid "I-I-I wouldn't do that if I were you. Fairy demons are vile, the worst."
+msgstr "如——如——如果我是你，就不会这么做。仙子恶魔是卑鄙的，是最可怕的。"
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I was too late.)"
+msgstr "（我来的太晚了。）"
+
+msgid "Um..."
+msgstr "唔..."
+
+msgid "Is he..."
+msgstr "他是不是..."
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.milion"
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "Shouldn't you know? You're the sole cause of that."
+msgstr "你难道不知道吗？这都是你造成的啊。"
+
+msgid "....."
+msgstr "....."
+
+msgid "That tree... is massive..."
+msgstr "这棵树...好大..."
+
+msgid "This probably marks the center of this place. Which means..."
+msgstr "这可能是这片区域的中心点。这就意味着..."
+
+msgid "This is where the search really begins."
+msgstr "这才是探索真正开始的地方。"
+
+msgid "(She's not a bug...)"
+msgstr "（她可不是虫子...）"
+
+msgctxt "events.Ch1_Forest_Center.item_bugnet_on_milion.dlg.milion"
+msgid "...?"
+msgstr "...？"
+
+msgid "U-um... It's nothing..."
+msgstr "呃——呃...没什么..."
+
+msgid "(The bug net is not large enough.)"
+msgstr "（这张捕虫网不够大。）"
+
+msgid "This is..."
+msgstr "这是..."
+
+msgid "I know this craftsmanship."
+msgstr "我知道这个工艺。"
+
+msgid "I could recognize it anywhere."
+msgstr "我到哪都能认出来。"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What do you mean?"
+msgstr "你是什么意思？"
+
+msgid "It's nothing."
+msgstr "没什么。"
+
+msgid "That didn't sound like nothing."
+msgstr "这听起来可不像没什么的样子。"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.milion"
+msgid "..."
+msgstr "..."
+
+msgid "The candle is already lit."
+msgstr "蜡烛已经点燃了。"
+
+msgid "A candle is not enough to light this campfire."
+msgstr "蜡烛的火不足以点燃篝火。"
+
+msgid "There's no fire here."
+msgstr "这里没有火。"
+
+msgid "Is this a gift?"
+msgstr "这是个礼物吗？"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "No."
+msgstr "不是。"
+
+msgid "Pity."
+msgstr "真遗憾。"
+
+msgid "What do you want?"
+msgstr "你想做什么？"
+
+msgid "Can I get a refund?"
+msgstr "我能退款吗？"
+
+msgid "Absolutely not."
+msgstr "当然不行。"
+
+msgid "That is one stinky fish."
+msgstr "这鱼真臭。"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "You didn't stutter?"
+msgstr "你不口吃了？"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "...！"
+
+msgid "Is it a magic fish?!"
+msgstr "这是一条魔法鱼吗？！"
+
+msgid "Ah, you bought that from Alba's shop?"
+msgstr "啊，你是从阿尔巴的商店里买的吗？"
+
+msgid "Yes."
+msgstr "是的。"
+
+msgid "Alba's merchandise is always top tier."
+msgstr "阿尔巴的商品一直都是顶级的。"
+
+msgid "Lovely gal."
+msgstr "可爱的女孩。"
+
+msgid "Flattery isn't going to get you anything, Milion."
+msgstr "拍马屁也没用，米利昂。"
+
+msgid "What a shame."
+msgstr "真可惜啊。"
+
+msgid "(I seem to be interrupting something...)"
+msgstr "（我好像打断了什么...）"
+
+msgid "This tree has had enough fish for today."
+msgstr "这棵树今天吃的鱼已经够多了。"
+
+msgid "You're not doing that again."
+msgstr "你不能再这样做了。"
+
+msgid "You hold out the fish in front of the mirror, like you just caught it."
+msgstr "你把鱼举到镜子前，就像你刚刚钓到一样。"
+
+msgid "You feel silly, so you stop."
+msgstr "你感觉这样很傻，所以你停了下来。"
+
+msgid "Throw it down the hole?"
+msgstr "要扔到洞里去吗？"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "No"
+msgstr "否"
+
+msgid "You listen for a while, but no impact sound can be heard this time."
+msgstr "你听了一会儿，但是这次听不到撞击声。"
+
+msgid "After six or so seconds, you hear the faint impact of the fish against something."
+msgstr "大约六秒钟以后，你听到了鱼撞到某物上发出的微弱的撞击声。"
+
+msgid "Throw all your fish into the hole?"
+msgstr "要把全部的鱼都扔进洞里吗？"
+
+msgid "Throw all of them"
+msgstr "全都扔进去"
+
+msgid "Just throw one"
+msgstr "只扔一条"
+
+msgid "Don't"
+msgstr "不要"
+
+msgid "You throw each and every fish into the hole."
+msgstr "你一条一条地把鱼扔进洞里。"
+
+msgid "Some of them make sounds when they hit the bottom, but many don't."
+msgstr "有一些鱼撞到了底部，发出了声音，但也有许多没发出声音。"
+
+msgid "After a while, you run out of fish."
+msgstr "过了一会儿，你把鱼扔完了。"
+
+msgid "Your hands smell terrible, and you feel like you accomplished nothing."
+msgstr "你的手闻起来糟透了，而你却一点成就感也没有。"
+
+msgid "No. You're not my type."
+msgstr "不了。你不是我喜欢的类型。"
+
+msgid "(You're not her type.)"
+msgstr "（你不是她喜欢的类型。）"
+
+msgid "T-thanks! Y-you're a good person!"
+msgstr "谢——谢谢！你——你真是个好人！"
+
+msgid "Is this head OK?"
+msgstr "这个头可以吗？"
+
+msgid "T-t-this is... pretty good..."
+msgstr "这——这——这个...很不错..."
+
+msgid "Glad that's solved."
+msgstr "很高兴问题解决了。"
+
+msgid "Ju-just wondering though... where exactly did you get this?"
+msgstr "就——就是我在想...你到底是从哪里弄到这个的？"
+
+msgctxt "events.Ch1_Forest_Center.item_head_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I... I don't think the previous owner needs it anymore..."
+msgstr "我...我觉得它的前主人不需要了..."
+
+msgid "O-oh......."
+msgstr "哦——哦..."
+
+msgid ".........."
+msgstr ".........."
+
+msgid "An empty lamp that fell from that post."
+msgstr "一盏从柱子上掉下来的空灯。"
+
+msgid "Whatever was inside is gone."
+msgstr "里面的东西不见了。"
+
+msgid "Can I find a use for this?"
+msgstr "我能怎么用这个呢？"
+
+msgid "Take ${item:ch1.forest_lamp_empty}?"
+msgstr "要拿走${item:ch1.forest_lamp_empty}吗？"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "No"
+msgstr "否"
+
+msgid "I can't reach up there."
+msgstr "我够不到那里。"
+
+msgid "And even if I could, I can't see the point in fixing the lamp."
+msgstr "就算够得到，我也没有必要去修这盏灯。"
+
+msgid "I still can't reach..."
+msgstr "我还是够不到..."
+
+msgid "Besides, it's not like a secret door will open just because I fixed this particular lamp."
+msgstr "再说了，这儿又没有那种我把特定的灯修好就能开的密门。"
+
+msgid "There's seriously no point in that."
+msgstr "这样做毫无意义。"
+
+msgid "Fascinating creatures."
+msgstr "令人着迷的生物。"
+
+msgid "Naturally emitting light can be a great asset to one's value."
+msgstr "自体发光是提升个人价值的重要资源。"
+
+msgctxt "events.Ch1_Forest_Center.item_light_full_on_milion.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "Is this OK?"
+msgstr "这个可以吗？"
+
+msgid "I-I-I guess it could be worse..."
+msgstr "比——比——比我预想的要好一点..."
+
+msgid "Thank you! I didn't think you would come back!"
+msgstr "谢谢你！我没想到你会回来！"
+
+msgid "...It was my fault after all..."
+msgstr "...毕竟这都是我的错..."
+
+msgid "You're welcome, I suppose."
+msgstr "不客气，我想。"
+
+msgid "(Alba's eyes dart to your rune, so you quickly put it away.)"
+msgstr "（阿尔巴直盯着你的符文石，于是你飞快把它收了起来。）"
+
+msgid "Ooh! I-I-I also have a rock just like that. I b-b-buried it to keep it safe."
+msgstr "哦！我——我——我也有一颗像是这样的石头。为了安全起见，我把它埋——埋——埋起来了。"
+
+msgid "Do you have nothing better to do than collecting rocks?"
+msgstr "除了捡石头，你还有别的事情可做吗？"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Do you have nothing better to do than staring at a fire?"
+msgstr "除了盯火看，你还有别的事情可做吗？"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.milion"
+msgid "..."
+msgstr "..."
+
+msgid "You don't need that. My fish already taste great without it."
+msgstr "我不需要这个。我的鱼不用它也很好吃。"
+
+msgid "I-i-is that for me...?!"
+msgstr "这——这——这是给我的吗...？！"
+
+msgctxt "events.Ch1_Forest_Center.item_salt_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "...No."
+msgstr "...不是。"
+
+msgid "O-oh."
+msgstr "哦——哦。"
+
+msgid "Let's not provoke her."
+msgstr "不要激怒她。"
+
+msgid "Don't threaten me, kid."
+msgstr "别威胁我，孩子。"
+
+msgid "I will shred you."
+msgstr "我会把你撕碎的。"
+
+msgctxt "events.Ch1_Forest_Center.item_scissors_on_alba.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go around cutting random cables."
+msgstr "我可不想到处乱剪缆线。"
+
+msgid "P-p-please don't...! I'm fragile..."
+msgstr "请——请——请不要这么做...！我很脆弱的..."
+
+msgid "I would advise you not to challenge me."
+msgstr "我劝你不要挑战我。"
+
+msgid "There's no need to break it."
+msgstr "没有打破它的必要。"
+
+msgid "You could probably smash the mirror with this."
+msgstr "你也许可以用它砸碎镜子。"
+
+msgid "Break the mirror?"
+msgstr "要砸碎镜子吗？"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "No"
+msgstr "否"
+
+msgid "You prepare to break the mirror..."
+msgstr "你正准备砸坏镜子..."
+
+msgid "But you notice there's a door handle on it."
+msgstr "但你注意到上面有个门把手。"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "它似乎没有被锁住。"
+
+msgid "I don't do barter."
+msgstr "拒绝以物易物。"
+
+msgid "N-n-no thank you."
+msgstr "不——不——不用了，谢谢你。"
+
+msgid "I don't need it."
+msgstr "我不需要。"
+
+msgid "You may give it to someone who does."
+msgstr "你可以把它送给有需要的人。"
+
+msgid "Is this OK? I'm sorry, it's the only thing I could find..."
+msgstr "这个可以吗？我很抱歉，这是我能找到的唯一的东西了..."
+
+msgid "W-Wow!! T-t-this is amazing...!!!"
+msgstr "哇——哇哦！！这——这——这太棒了...！！！"
+
+msgid "Thank you s-s-s-so much!"
+msgstr "非常感——感——感——感谢你！"
+
+msgid "...You're... welcome...?"
+msgstr "...不......不客气...？"
+
+msgid "(To each their own, I suppose)"
+msgstr "（彼此彼此吧）"
+
+msgid "A bucket full of bones and other terrible-smelling organic garbage."
+msgstr "满满一桶骨头和其他难闻的有机垃圾。"
+
+msgid "A cable runs through here."
+msgstr "一根电缆从这里穿过。"
+
+msgid "The cable runs into the woods, against the cliff."
+msgstr "缆线靠着崖壁伸入了树木之中。"
+
+msgid "The cable runs into the woods."
+msgstr "缆线伸入了树木之中。"
+
+msgid "A campfire."
+msgstr "营火。"
+
+msgid "There's no fire, so right now it's just a camp."
+msgstr "这里没有火，干脆叫营好了。"
+
+msgid "A camp."
+msgstr "营。"
+
+msgid "The fire is on. It seems to produce heat too."
+msgstr "火燃了起来。似乎还能产生热量。"
+
+msgid "A crow standing on a stump."
+msgstr "一只乌鸦站在树桩上。"
+
+msgid "They're everywhere, huh?"
+msgstr "它们真是无处不在，是吧？"
+
+msgid "Now is not the time for that."
+msgstr "现在不是做这个的时候。"
+
+msgid "Small mushrooms surround a patch of dead grass."
+msgstr "小蘑菇们环绕在一片枯草周围。"
+
+msgid "W-what..."
+msgstr "什——什么......"
+
+msgid "What happened? It was so sudden..."
+msgstr "发生什么了？太突然了..."
+
+msgid "Am I trapped inside of something?"
+msgstr "我是被困在什么东西里了吗？"
+
+msgid "I can barely move..."
+msgstr "我几乎动不了..."
+
+msgid "Ugh... it's all soggy and... squishy..."
+msgstr "呃...不仅湿湿的，还...软软的..."
+
+msgctxt "events.Ch1_Forest_Center.misc_fairyring_death.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "This is suffocating... I don't like closed spaces..."
+msgstr "太窒息了... 我不喜欢这么封闭的空间..."
+
+msgid "Aahh... I hate this... I'm going to be sick...!"
+msgstr "啊...我讨厌这样...我要吐了...！"
+
+msgid "Wait... calm down."
+msgstr "等等...冷静下来。"
+
+msgid "I can move my arms, somewhat."
+msgstr "我的胳膊还能动一点。"
+
+msgid "Think."
+msgstr "想想。"
+
+msgid "Let's see... do I have anything that could help me?"
+msgstr "让我想想...我有什么东西可以帮到我的吗？"
+
+msgid "Maybe something sharp..."
+msgstr "也许有什么尖锐的东西可以..."
+
+msgid "Oh, scissors...!"
+msgstr "哦，剪刀...！"
+
+msgid "Sorry, but I don't feel like being eaten today."
+msgstr "抱歉了，我今天还不想被吃掉。"
+
+msgid "I can cross off \"being digested alive\" from my to-do list."
+msgstr "我可以在我的待办清单上把“被活吞”划掉了。"
+
+msgid "Good thing I had those scissors... ugh..."
+msgstr "幸好我有那把剪刀...哎..."
+
+msgid "Now... where am I?"
+msgstr "现在...我在哪？"
+
+msgid "It's no good... I can't do anything..."
+msgstr "没用的... 我什么都做不了..."
+
+msgid "Am I going to die... inside this thing?"
+msgstr "我要在...这种东西里面死掉了吗？"
+
+msgid "Nobody will even find my body..."
+msgstr "甚至没人能发现我的尸体..."
+
+msgid "Sigh... what a pointless way to go."
+msgstr "哎...真是毫无意义。"
+
+msgid "What is this smell... it's making me want to puke..."
+msgstr "这是什么味道...真让我想吐..."
+
+msgid "My legs... are also itching..."
+msgstr "我的腿... 也有点刺痛..."
+
+msgid "Wait, could it be...?"
+msgstr "慢着，难道是...？"
+
+msgid "Oh god... is this thing digesting me!?"
+msgstr "天呐... 这个东西在消化我吗！？"
+
+msgid "Nononono.... I don't want to die like that!!!"
+msgstr "不不不不....我不想这样死啊！！！"
+
+msgid "I tried kicking around and fighting it as much as I could."
+msgstr "我试着踢来踢去，尽我所能与之抗争。"
+
+msgid "But soon enough, my skin started burning, confirming my fears."
+msgstr "但很快，我的皮肤开始发烫，证明了我的担心是有理由的。"
+
+msgid "The more I squirmed, the more the digestive juices got all over me."
+msgstr "我扭动得越厉害，消化液就流得越多。"
+
+msgid "The more I screamed, the more the gas burned my nose and throat from inside."
+msgstr "我越是尖叫，气体就越是从内部灼烧我的鼻子和喉咙。"
+
+msgid "It seems that the moment I stepped into that circle, my fate had been sealed."
+msgstr "似乎从我踏入那个圈的那一刻起，我的命运就已经注定了。"
+
+msgid "A lamppost that's missing its lamp."
+msgstr "缺了灯的灯柱。"
+
+msgid "Now it's just a post."
+msgstr "那就叫柱吧。"
+
+msgid "A post."
+msgstr "柱。"
+
+msgid "A wooden log."
+msgstr "一根木头。"
+
+msgid "This is not the time to sit around."
+msgstr "现在可不是闲坐的时候。"
+
+msgid "A big mirror is embedded in the tree trunk."
+msgstr "树干上嵌着一面大镜子。"
+
+msgid "A door handle can be seen."
+msgstr "上面可以看到一个门把手。"
+
+msgid "Your reflection stares anxiously back at you."
+msgstr "你的倒影焦虑地注视着你。"
+
+msgid "On a closer inspection, there's a door handle on the mirror."
+msgstr "仔细一看，镜子上有一个门把手。"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "它似乎没有被锁住。"
+
+msgid "Check behind the mirror?"
+msgstr "要检查镜子的背面吗？"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "The tree... is hollow...?"
+msgstr "这棵树...是空心的...？"
+
+msgid "Has anything changed now that I threw all those fish in?"
+msgstr "我把这些鱼都扔进去之后，有发生什么变化吗？"
+
+msgid "I can't see the bottom, but it's really deep."
+msgstr "虽然我看不到底部，但是那真的很深。"
+
+msgid "Why is the inside of the tree like this?"
+msgstr "为什么树的内部看起来是这样子的？"
+
+msgid "Doesn't seem like it."
+msgstr "看起来不像是有什么变化。"
+
+msgid "The roots of a massive tree. There's blue mushrooms everywhere."
+msgstr "巨树的树根。到处都是蓝色蘑菇。"
+
+msgid "It reads: \"STOP! Do not walk inside the fairy ring.\""
+msgstr "上面写着：“止步！请不要踏入仙女环。”"
+
+msgid "\"But if you do, please ask them to take their business elsewhere.\""
+msgstr "“如果你真的这么干了，请让它们把生意做到别处去。”"
+
+msgid ""
+"South-West: Sculptor's House.\n"
+"West: Red's Treehouse."
+msgstr ""
+"西南：雕塑家的屋子。\n"
+"西：瑞德的树屋。"
+
+msgid ""
+"South: Train Station.\n"
+"East: Locked Site."
+msgstr ""
+"南：火车站。\n"
+"东：封锁区。"
+
+msgid "The sign says \"Alba's Shop\""
+msgstr "标志上写着“阿尔巴的商店”"
+
+msgid "A curtain covers the stand."
+msgstr "帘子遮住了看台。"
+
+msgid "Peek behind curtain?"
+msgstr "要往帘子后面撇一眼吗？"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "No"
+msgstr "否"
+
+msgid "There's some trays aligned for display, but there's nothing on them."
+msgstr "有一些摆放整齐的托盘，但上面什么也没有。"
+
+msgid "You decided to save your curiosity for later."
+msgstr "你决定把好奇心留到以后。"
+
+msgid "A stand lined up with fish of various sizes."
+msgstr "摊位上摆满了大大小小的鱼。"
+
+msgid "The shop is closed for today."
+msgstr "今天商店已经关门了。"
+
+msgid "A massive crater that you caused."
+msgstr "一个因你而生的巨大坑洞。"
+
+msgid "I don't think there's anything this way that will help Kozmo..."
+msgstr "我不认为那里有任何能够帮到科兹莫的东西..."
+
+msgid "I need to get this to Kozmo as soon as possible..."
+msgstr "我需要尽快把这个交给科兹莫..."
+
+msgid "Continue down this path?"
+msgstr "要继续走这条路吗？"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "No"
+msgstr "否"

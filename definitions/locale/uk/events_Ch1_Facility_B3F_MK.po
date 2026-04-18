@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A house?"
+msgstr "Будинок?"
+
+msgid "Why's there a house so deep underground?"
+msgstr "Звідкіля в такій глибинці будинок?"
+
+msgid "..."
+msgstr "..."
+
+msgid "Oh!"
+msgstr "О!"
+
+msgid "Maybe someone lives here."
+msgstr "Може, там хтось живе?"
+
+msgid "But if there's an entrance to a house down here, maybe there's also an exit on the other side."
+msgstr "Та якщо тут внизу є вхід, то з іншої сторони має бути вихід."
+
+msgid "Don't you think?"
+msgstr "А ти як вважаєш?"
+
+msgid "Well, no way to go but forward."
+msgstr "Ну, а куди нам ще йти?"
+
+msgid "A mailbox. It's empty."
+msgstr "Поштова скринька. Порожня."
+
+msgid "You can't see anything through the window."
+msgstr "Крізь вікно нічого не видно."
+
+msgid "A solid wall has appeared where the hallway was."
+msgstr "Там, де щойно був коридор, тепер стіна."
+
+msgid "Huh...? What?"
+msgstr "Га?.. Що це значить?"
+
+msgid "We're getting trapped deeper and deeper... I really hope we find that door soon."
+msgstr "Нас втягують все глибше й глибше... Сподіваюсь, що скоро ми знайдемо ті двері."

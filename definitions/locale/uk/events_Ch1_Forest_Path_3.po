@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You plugged in the cable using the adapter.)"
+msgstr "(За допомогою адаптера ви всунули вилку в розетку.)"
+
+msgid "There's an electrical socket hiding behind the bush."
+msgstr "В кущах схована розетка."
+
+msgid "The plug and the socket don't match, so you can't plug it in."
+msgstr "Вилка, що лежить поряд, не підходить до розетки."
+
+msgid "I suppose I could try this adapter I found."
+msgstr "Можна скористатись адаптером, що я знайшла."
+
+msgid "Do I need an adapter? That's so weird."
+msgstr "Невже мені потрібен адаптер? Оце дива."
+
+msgid "The campfire is plugged here."
+msgstr "Тут під'єднане багаття."
+
+msgid "The cable is plugged in."
+msgstr "Провід під'єднано."
+
+msgid "\"Red's Treehouse\""
+msgstr "\"Лісова хатинка Реда\""
+
+msgid "\"Treehouse\"... sheesh!"
+msgstr "\"Лісова\"... теж мені!"
+
+msgid "...?"
+msgstr "?.."
+
+msgid "The floor here is unusual..."
+msgstr "Якась тут дивна земля..."
+
+msgid "There's a key hidden here."
+msgstr "Тут захований ключ."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Взяти предмет: ${item:ch1.forest_lockedsite_key}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Вам не потрібен цей ключ, тому ви його скинули.)"
+
+msgid "There's a note as well."
+msgstr "Ще тут є записка."
+
+msgid "There's nothing else here."
+msgstr "Тут більше нічого немає."

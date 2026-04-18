@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It seems to like the white tree."
+msgstr "看起来像是白色的树。"
+
+msgid "Take ${item:ch1.doorknob_grave}?"
+msgstr "要带走${item:ch1.doorknob_grave}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "No"
+msgstr "否"
+
+msgid "Fallen white leaves surround the tree."
+msgstr "白色的落叶环绕着树身。"
+
+msgid "Take some ${item:ch1.lakeside_petals_white}?"
+msgstr "要取走一些${item:ch1.lakeside_petals_white}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log.dlg.narrator"
+msgid "A wooden log."
+msgstr "一根木头。"
+
+msgid "It's too short to use as a bridge."
+msgstr "它太短了，不能用来做桥。"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.dlg.narrator"
+msgid "A wooden log."
+msgstr "一根木头。"
+
+msgid "I could use this to cross the river..."
+msgstr "我可以用它来过河..."
+
+msgid "Push it into the water?"
+msgstr "要把它推到水里吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "No"
+msgstr "否"
+
+msgid "Something's weird about this spot, but you don't know what it is."
+msgstr "这个地方有些奇怪，但你不知道为何。"
+
+msgid "It's just trees... right?"
+msgstr "这只是树...对吧？"
+
+msgid "The passage is camouflaged."
+msgstr "通道被伪装起来了。"
+
+msgid "There's no way to open it from this side."
+msgstr "从这一侧没有办法打开。"
+
+msgid "A beautiful tree with white leaves."
+msgstr "美丽的白叶树。"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_water.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "太远了，跳不过去。"
+
+msgid "The river fades into obscurity."
+msgstr "河水渐渐消失在朦胧之中。"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_north.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "太远了，跳不过去。"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_south.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "太远了，跳不过去。"
+
+msgid "White leaves cover the ground."
+msgstr "白色的树叶覆盖着地面。"

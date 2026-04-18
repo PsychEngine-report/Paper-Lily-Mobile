@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "已經被解鎖了。"
+
+msgid "The box contains various empty notebooks, textbooks and... chalk."
+msgstr "箱子裡有著各種筆記本、課本和...粉筆。"
+
+msgid "Take chalk?"
+msgstr "拿走粉筆？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "There's nothing else of interest."
+msgstr "沒什麼特別的東西了"
+
+msgid "There's some dusty documents that catch your eye."
+msgstr "一本布滿灰塵的文件引起了妳的注意。"
+
+msgid "Read them?"
+msgstr "讀它嗎？"
+
+msgid "..."
+msgstr "..."
+
+msgid "It's a... lawsuit?"
+msgstr "這是...一場訴訟？"
+
+msgid "What's that doing in a place like this?"
+msgstr "怎麼會出現在這種地方？"
+
+msgid "I heard about that from my dad."
+msgstr "我聽我爸說過。"
+
+msgid "Supposedly someone sued the school because of their daughter's disappearance."
+msgstr "據說有人因為他的女兒失蹤而告過學校。"
+
+msgid "Oh, the 2nd year girl?"
+msgstr "喔，一個二年級女生？"
+
+msgid "I heard something happened, but I didn't know the school was involved."
+msgstr "我聽說出了事情，但是不知道跟學校有關。"
+
+msgid "I don't know either."
+msgstr "我也不知道。"
+
+msgid "But she was last seen at school, so her family was convinced that something happened here and it was covered up."
+msgstr "但是她最後出現在學校，所以她的家人認為出了什麼意外而被隱瞞。"
+
+msgid "There's definitely an odd history of disappearances in this town."
+msgstr "這肯定是這個小鎮奇怪的歷史之一。"
+
+msgid "When I graduate, I'm out of here."
+msgstr "我畢業之後，一定會離開這裡。"
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "髮夾沒辦法插進鎖中。"
+
+msgid "The key fits!"
+msgstr "鑰匙吻合！"
+
+msgid "The boxes are already open."
+msgstr "箱子已經被打開了。"
+
+msgid "Boxes filled with rags and other cleaning supplies."
+msgstr "裝滿了抹布和其他清潔用品的箱子。"
+
+msgid "A sealed box."
+msgstr "被封起來的箱子。"
+
+msgid "Some boxes filled with random objects."
+msgstr "裝滿了各種物品的箱子。"
+
+msgid "This is the lost and found box!"
+msgstr "這是失物箱！"
+
+msgid "Really?"
+msgstr "真的嗎？"
+
+msgid "Look, I found my old shoe."
+msgstr "妳看，我找到我的舊鞋子。"
+
+msgid "A shoe...?"
+msgstr "一隻鞋子...？"
+
+msgid "I lost it years ago."
+msgstr "我一年前弄丟它的。"
+
+msgid "How do you lose one shoe?"
+msgstr "妳是怎麼弄丟一隻鞋子的？"
+
+msgid "It just disappeared."
+msgstr "它就不見了。"
+
+msgid "Oh! My lighter!"
+msgstr "喔！我的打火機！"
+
+msgid "Don't you already have a lighter?"
+msgstr "妳不是已經有打火機了嗎？"
+
+msgid "This is my old one."
+msgstr "這是舊的。"
+
+msgid "You lost a lighter in the school?"
+msgstr "妳在學校弄丟了打火機？"
+
+msgid "No, they confiscated it."
+msgstr "不是，它是被沒收的。"
+
+msgid "Figures. Lighters can be dangerous."
+msgstr "也是。打火機很危險。"
+
+msgid "Only in the wrong hands."
+msgstr "只有在壞人手上的時候。"
+
+msgid "And yours aren't?"
+msgstr "而妳不是？"
+
+msgid "You shouldn't bring lighters to school..."
+msgstr "妳不應該把打火機帶來學校..."
+
+msgid "Some used brooms."
+msgstr "一些已經用過的掃帚。"
+
+msgid "A calendar and information sheet for the cleaning staff."
+msgstr "一本日曆和清潔人員的資料表。"
+
+msgid "A cleaning cart."
+msgstr "清潔推車。"
+
+msgid "It could use some cleaning."
+msgstr "這推車應該清潔一下。"
+
+msgid "A dusty lamp. The light bulb is missing."
+msgstr "布滿灰塵的立燈。燈泡不見了。"
+
+msgid "Well that's ominous."
+msgstr "還真是不祥之兆。"
+
+msgid "A little darkness won't hurt anybody."
+msgstr "一點點黑暗傷不了人。"
+
+msgid "...Probably."
+msgstr "...大概吧。"
+
+msgid "It doesn't work."
+msgstr "沒有用。"
+
+msgid "A large locker that could probably fit a person."
+msgstr "可能可以裝一個人的大儲物櫃。"
+
+msgid "It's locked."
+msgstr "被鎖住了。"
+
+msgid "Lots of cleaning supplies. It smells weird."
+msgstr "很多清潔用品。聞起來怪怪的。"
+
+msgid "Lots of school supplies."
+msgstr "很多學校用品。"
+
+msgid "Books and paints line the shelves."
+msgstr "書本和顏料排滿了架子。"
+
+msgid "There's a small key on one of the shelves."
+msgstr "其中一個架子上有一把小鑰匙。"
+
+msgid "Take it?"
+msgstr "拿走嗎？"
+
+msgid "A trash can, even in a place like this."
+msgstr "垃圾桶，在這種地方也有。"
+
+msgid "Why would there be a trash can in a supply closet?"
+msgstr "為什麼置物間裡會有垃圾桶？"
+
+msgid "Maybe it's a spare?"
+msgstr "也許是備用的？"
+
+msgid "It's... so dark."
+msgstr "這裡...好暗。"
+
+msgid "Come on Ponytail, don't chicken out on me now."
+msgstr "別想著落跑，馬尾女。"
+
+msgid "Don't call me that."
+msgstr "不要那樣叫我。"
+
+msgid "You have a ponytail, don't you?"
+msgstr "妳有馬尾，沒錯吧？"
+
+msgid "I have a name too."
+msgstr "我也有名字。"

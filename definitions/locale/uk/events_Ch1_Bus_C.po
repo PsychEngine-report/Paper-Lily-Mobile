@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's curtains where the driver should be."
+msgstr "Завіска, за якою повинен сидіти водій."
+
+msgid "Take a look behind the curtains?"
+msgstr "Зазирнути за завіску?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "There's no one there, just an empty driver's seat."
+msgstr "За нею лише порожнє сидіння водія."
+
+msgid "There's nobody behind the curtains."
+msgstr "За завіскою нікого нема."
+
+msgid "My seat."
+msgstr "Моє місце."
+
+msgid "It's too dark to see out the window."
+msgstr "За вікнами надто темно, не вдається нічого побачити."
+
+msgid "Uhm... where am I?"
+msgstr "Ем... де це я?"

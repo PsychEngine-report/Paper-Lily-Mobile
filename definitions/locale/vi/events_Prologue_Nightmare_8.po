@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "In the meantime,"
+msgstr "Trong khoảng thời gian đấy,"
+
+msgid "I'll just watch you rot away."
+msgstr ""
+"Tao sẽ chỉ ngắm nhìn mày\n"
+"mục rữa hẳn ra."
+
+msgid "SHUT UP! THAT'S ENOUGH!"
+msgstr "IM MỒM! ĐỦ RỒI ĐẤY!"
+
+msgid "Whoever you are, GET OUT OF MY HEAD!"
+msgstr "Mày là ai tao không biết nhưng RA KHỎI ĐẦU TAO NGAY!"
+
+msgctxt "events.Prologue_Nightmare_8.event_break.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "My life... is my business... my decisions, are mine alone."
+msgstr "Cuộc đời của tao... là do tao... quyết định của tao, là do tao hết."
+
+msgctxt "events.Prologue_Nightmare_8.event_break.choice"
+msgid "..."
+msgstr "..."
+
+msgid "Please, let me out"
+msgstr "Xin làm ơn, cho tao ra"
+
+msgid "Be strong"
+msgstr "Mạnh mẽ lên"
+
+msgid "Let me out of this place. I know there's a way out, there has to be."
+msgstr "Cho tao ra khỏi đây đi. Tao biết có lối ra, ắt phải có."
+
+msgid "Please..."
+msgstr "Làm ơn đi..."
+
+msgid "...I want to go home..."
+msgstr "...Tao muốn về nhà..."
+
+msgid "That's more like it."
+msgstr "Có thế chứ."
+
+msgid "I... am not going to give you the reaction you want."
+msgstr "Tao... không định tỏ ra phản ứng như mày mong đợi đâu."
+
+msgid "...I'm better than that."
+msgstr "...Tao mạnh mẽ hơn thế nhiều."
+
+msgid "You think you can come here and torture me?"
+msgstr "Mày tưởng mày đến đây tra tấn được tạo à?"
+
+msgid "If entertainment is what you want, then I'll just bore you to death."
+msgstr "Nếu mày mong được giải trí, vậy thì tao sẽ làm cho mày chán đến chết."
+
+msgid "I hope you have a good book nearby."
+msgstr "Khấn cho mày có sách đọc giải sầu bên tay."
+
+msgctxt "events.Prologue_Nightmare_8.event_break.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "Have it your way."
+msgstr "Thích làm gì thì làm."
+
+msgid "Do you like it? I think it's just what you need."
+msgstr "Ưng chưa? Tao thấy đúng điều mày đang cần rồi đấy."
+
+msgid "Maybe now you will reflect on the stupidity of your actions."
+msgstr "Giờ này không chừng mày sẽ ăn năn về sự ngu dốt trong hành động của mày."
+
+msgid "\"How would you like to stay trapped in here until you die?\""
+msgstr "\"Mày ưng được nhốt ở đây cho tới chết như thế nào?\""

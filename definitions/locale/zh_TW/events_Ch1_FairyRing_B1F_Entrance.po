@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's probably no point, this one didn't even do anything."
+msgstr "應該沒有意義，這個一點用處都沒有。"
+
+msgid "Nothing good can come out of stabbing every single plant you see."
+msgstr "刺向妳所看到的每一株植物不會有什麼好處。"
+
+msgid "(Is this plant eating something... or someone?)"
+msgstr "(這株植物是在吃什麼東西...還是什麼人嗎？)"
+
+msgid "(Should I really risk opening it?)"
+msgstr "(我真的應該冒險打開它嗎？)"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "(Probably best not to...)"
+msgstr "(最好不要...)"
+
+msgid "(It's a person.)"
+msgstr "(是個人。)"
+
+msgid "(Are they... alright? They seem asleep.)"
+msgstr "(他...還好嗎？看起來睡著了。)"
+
+msgid "(Wait... that might be a demon. Maybe I'd better leave them alone.)"
+msgstr "(等等...可能是惡魔。也許我最好別管他。)"
+
+msgid "(Well... I'll look around while they wake up.)"
+msgstr "(好吧...在他醒來前到處看看吧。)"
+
+msgid "AH!"
+msgstr "啊啊啊！"
+
+msgid "...!?"
+msgstr "...！？"
+
+msgid "Ahh... AHH!"
+msgstr "啊...啊啊啊！"
+
+msgid "Get it off get it off get it off!!!"
+msgstr "快拿開快拿開快拿開！！！"
+
+msgid "Oh god... oh god... gaaaah!"
+msgstr "天哪...天哪...啊啊啊！"
+
+msgid "..."
+msgstr "..."
+
+msgid "...!"
+msgstr "...！"
+
+msgid "Did you just save me?!?"
+msgstr "是妳救了我嗎？！？"
+
+msgid "Everything was so dark and so gross, I thought I was gonna die for real this time!"
+msgstr "一切都很黑暗又噁心，我以為我這次真的要死了！"
+
+msgid "That gooey stuff was eating away at my skin, it's so itchy, uuugh I still feel it!!!"
+msgstr "那黏黏的東西在侵蝕我的皮膚，好癢，噁~我還感覺得到！！！"
+
+msgid "I don't want it to eat me!!!"
+msgstr "我不想被它吃了！！！"
+
+msgid "Oh god, I didn't plan to get digested today, this is NOT how I pictured my death!"
+msgstr "天哪，我還沒準備好被消化掉，這不是我想像中的死狀！"
+
+msgid "WHAT IS THIS PLACE?!?"
+msgstr "這是什麼地方？！？"
+
+msgid "Oh."
+msgstr "喔。"
+
+msgid "Hahaha no..."
+msgstr "哈哈哈不會吧..."
+
+msgid "We're in the fairy ring aren't we?!"
+msgstr "我們不會就在妖精環裡吧？！"
+
+msgid "Noooo! There's no way to get out of here!!"
+msgstr "不~~！沒有辦法逃離這裡！！"
+
+msgid "This is it. WE'RE DEAD!"
+msgstr "結束了。我們死定了！"
+
+msgid "I might as well go back in the plant, at least it will be faster."
+msgstr "我寧願回到植物裡，至少這樣更快。"
+
+msgid "Nooo I don't want it to end this way!!!"
+msgstr "不~~我不想要就這樣結束！！！"
+
+msgid "Hey."
+msgstr "嘿。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Cut it off."
+msgstr "停下來。(Cut it off.)"
+
+msgid "...W-what...?"
+msgstr "...什-什麼...？"
+
+msgid "I said: cut it off."
+msgstr "我說：停下來。"
+
+msgid "Ah, s-sorry..."
+msgstr "啊，抱歉..."
+
+msgid "(Is that supposed to be... a joke?)"
+msgstr "(這應該是...笑話嗎？)"
+
+msgid "You know, I'm actually okay with dying."
+msgstr "妳知道嗎，我其實對死亡沒什麼意見。"
+
+msgid "But I feel like being eaten alive isn't really the way to go, you know?"
+msgstr "但是我覺得被生吞不是理想的死法，妳懂嗎？"
+
+msgid "I see... I guess so."
+msgstr "我懂...應該吧。"
+
+msgid "My name's Aoi."
+msgstr "我的名字是葵。"
+
+msgid "...I see."
+msgstr "...我知道了。"
+
+msgid "Lacie."
+msgstr "萊西。"
+
+msgid "Hehe... Were you trapped in one of those things too?"
+msgstr "嘻嘻...妳之前也被困在裡面嗎？"
+
+msgid "Yeah."
+msgstr "是啊。"
+
+msgid "How'd you get out?"
+msgstr "妳是怎麼逃出來的？"
+
+msgid "${item:ch1.scissors}."
+msgstr "${item:ch1.scissors}。"
+
+msgid "Whoa."
+msgstr "哇。"
+
+msgid "If I get out of here I'll always carry scissors on me!"
+msgstr "如果能逃出去的話我一定要隨身攜帶剪刀！"
+
+msgid "I promise you-"
+msgstr "我保證-"
+
+msgid "No!"
+msgstr "不！"
+
+msgid "I SWEAR to you."
+msgstr "我向妳*發誓*。"
+
+msgid "O-okay..."
+msgstr "好-好吧..."
+
+msgid "(What am I supposed to say to that...?)"
+msgstr "(我該說些什麼呢...？)"
+
+msgid "So um..."
+msgstr "嗯所以..."
+
+msgid "H-how do we get out..."
+msgstr "我-我們要怎麼逃出去..."
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "WE'RE ABSOLUTELY NEVER GETTING OUT WHAT ARE WE GOING TO DO!?!"
+msgstr "我們永遠都出不去，我們該怎麼辦！？！"
+
+msgid "Should I go back and get eaten by that plant instead?"
+msgstr "我該回去讓植物吃了我嗎？"
+
+msgid "That might actually be better than losing my mind as I walk endlessly through this hellish place..."
+msgstr "這可能比在這鬼地方一步步失去理智還好..."
+
+msgid "Can you imagine it???"
+msgstr "妳能夠想像嗎？？？"
+
+msgid "We would go insane!"
+msgstr "我們會發瘋！"
+
+msgid "I hear the fairy ring slowly digests you, even if you're not caught in a plant."
+msgstr "聽說妖精環會慢慢消化掉妳，就算妳沒有被植物困住。"
+
+msgid "Eventually the skin on our feet will start chipping away from walking through this visceral floor."
+msgstr "我們的腳最終會在這內臟般的地上被逐漸削掉。"
+
+msgid "Then we'll start crawling, when our feet no longer work, hoping for the sweet release of death."
+msgstr "然後在我們的腳廢掉之後開始爬行，希望能夠得到死亡帶來的解脫。"
+
+msgid "We might even wind up eating each other..."
+msgstr "我們還有可能吃掉對方..."
+
+msgid "Aoi."
+msgstr "葵。"
+
+msgid "R-right..."
+msgstr "喔-對..."
+
+msgid "Sorry."
+msgstr "抱歉。"
+
+msgid "I'll look around first."
+msgstr "我先四處看看。"
+
+msgid "I want to take another look at the next room."
+msgstr "我想要看看另一個房間。"
+
+msgid "I haven't even left this room yet."
+msgstr "我根本就還沒有離開這個房間。"
+
+msgid "OKAY!"
+msgstr "好吧！"
+
+msgid "Can I follow you?"
+msgstr "我可以跟著妳嗎？"
+
+msgid "No thank you."
+msgstr "不用，謝了。"
+
+msgid "Y-you'll leave me alone?!"
+msgstr "妳-妳要把我丟在這裡嗎？！"
+
+msgid "Please let me come with you, I promise I'll be useful!"
+msgstr "拜託讓我跟著妳，我保證我會很有用！"
+
+msgid "...uh..."
+msgstr "...呃..."
+
+msgid "PLEASE!!!"
+msgstr "拜託！！！"
+
+msgid "Okay... okay."
+msgstr "好啦...好啦。"
+
+msgid "(It's probably a bad idea, but...)"
+msgstr "(這大概是個壞主意，但是...)"
+
+msgid "(This... boy... or girl? They don't seem dangerous.)"
+msgstr "(這個...男孩...還是女孩？看起來不危險。)"
+
+msgid "(Maybe it's best not to be alone in this place.)"
+msgstr "(也許在這個地方獨自行動不是最好的選擇。)"
+
+msgid "...Yes, I don't see why not."
+msgstr "...好吧，應該沒差。"
+
+msgid "Yay!"
+msgstr "好耶！"
+
+msgid "I promise I'll be useful!"
+msgstr "我保證我會很有用！"
+
+msgid "Sure. Pleased to make your acquaintance."
+msgstr "當然了。很高興認識妳。"
+
+msgid "(I wonder if this girl... or boy... can help me with my problem.)"
+msgstr "(不曉得這女孩...還是男孩...可不可以幫忙解決我的問題。)"
+
+msgid "(Were they... melting? They might be a spirit or something...)"
+msgstr "(他是在...融化嗎？他可能是精靈之類的...)"
+
+msgid "(For now, let's focus on getting out of this place.)"
+msgstr "(現在，專心想著怎麼離開這裡。)"
+
+msgid "There's no one else to rescue in there."
+msgstr "裡面沒有人要救了。"
+
+msgid "It probably learned its lesson, I think."
+msgstr "我想它應該學乖了。"
+
+msgid "Various plants, similar to the one that caught you."
+msgstr "各種植物，像是捉住我的那種。"
+
+msgid "This one seems to be digesting something..."
+msgstr "它看起來在消化什麼東西..."
+
+msgid "The thing that almost ate Aoi. It's wide open."
+msgstr "幾乎要吃掉葵的東西。打開了。"
+
+msgid "The plant I was trapped in."
+msgstr "剛剛困住我的植物。"
+
+msgid "It's not nice in there."
+msgstr "裡面不太舒服。"
+
+msgid "Does this even classify as a plant?"
+msgstr "這還能算是植物嗎？"
+
+msgid "Not sure..."
+msgstr "不確定..."
+
+msgid "It kinda looks like one."
+msgstr "看起來像是。"

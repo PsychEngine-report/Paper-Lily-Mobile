@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "Не искам да ги нося със себе си…"
+
+msgid "(Discarded ingredients)."
+msgstr "(Отхвърлени съставки)."
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "Все още нямам всички съставки, за да го направя…"
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "Липсва ми \"Вдъхновението на художника\"…"
+
+msgid "Could it be Kett's flowers?"
+msgstr "Може би това са цветята на Кетт?"
+
+msgid "What in the world is that?"
+msgstr "Какво, за Бога, е това?"
+
+msgid "(You don't know what to do with this...)"
+msgstr "(Не знаете какво да правите с това…)"
+
+msgid "You can't cut through that with scissors."
+msgstr "Не можеш да го прережеш с ножица."
+
+msgid "Some books about cursed trees."
+msgstr "Няколко книги за прокълнати дървета."
+
+msgid "Read a passage?"
+msgstr "Прочетете пасаж?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "\"Въпреки обичайният си малък размер, прокълнатите дървета имат отличителен навик да разширяват своите корени на разстояние до 60 метра."
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "Техните корени се разпростират дори по-надълбоко. Неизвестно е на каква дълбочина достигат лимита си.\""
+
+msgid "Four small blue butterflies on display."
+msgstr "Четири малки сини пеперуди на дисплея."
+
+msgid "They're somewhat mesmerizing."
+msgstr "Донякъде са хипнотизиращи."
+
+msgid "A large blue butterfly on display."
+msgstr "Голяма синя пеперуда на дисплея."
+
+msgid "It's kind of mesmerizing..."
+msgstr "Някак си е хипнотизиращо…"
+
+msgid "A small blue butterfly on display."
+msgstr "Малка синя пеперуда на показ."
+
+msgid "It's not as mesmerizing."
+msgstr "Не е толкова хипнотизиращо."
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "Прост химически комплект за смесване на вещества."
+
+msgid "Some bottles and other containers."
+msgstr "Няколко бутилки и други контейнери."
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "Книга, изпълнена с обширни изследвания на всички видове материали."
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "В чекмеджетата има и адаптер за променлив ток."
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "Вземи ${item:ch1.forest_adapter}?"
+
+msgid "Some notes on curse removal rituals."
+msgstr "Няколко записки за ритуалите за премахване на проклятия."
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "Вземи ${item:ch1.red_notes}?"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "(Мога ли въобще да използвам това за нещо…?)"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "Празно бюро, от което сте откраднали няколко бележки."
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "Червена кукла. Двете очи са оцветени."
+
+msgid "I know this."
+msgstr "Знам това."
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "Това е кукла, която ви помага да постигнете желанията си."
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "Оцветете едното си око, когато си пожелаете нещо, и куклата ще ви помогне да го изпълните."
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "В замяна, щом постигнете целта си, оцветявате и другото око…"
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "…по същество възстановявате зрението на куклата в знак на благодарност."
+
+msgid "..."
+msgstr "…"
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "Хиро чете много за тези неща."
+
+msgid "I wonder what this person's wish was."
+msgstr "Чудя се какво ли е било желанието на подобен човек."
+
+msgid "Some books about butterflies."
+msgstr "Няколко книги за пеперуди."
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "\"За всяко вдигнато проклятие се появява синя пеперуда."
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "Те са привлечени от прокълнатите дървета и се заравят в ствола им, като с времето го превръщат в напълно кухи."
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "Не е известна причината за това поведение.\""
+
+msgid "A furnace."
+msgstr "Пещ."
+
+msgid "Inside is a... thing."
+msgstr "Вътре има… нещичко."
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "Това да не е… изкуство? Прилича на труп на някаква скулптура."
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "Може би ще проработи за Козмо, но може и да ме намрази за това."
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "Вземи ${item:ch1.red_pot}?"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "Някои непълни бележки за премахване на проклятия."
+
+msgid "I don't really understand any of this."
+msgstr "Всъщност не разбирам нищо от това."
+
+msgid "A small plant."
+msgstr "Малко растение."
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "Листата изглеждат като вързани на панделка."
+
+msgid "A plant that looks like a bow."
+msgstr "Растение, което прилича на лък."
+
+msgid "Some purple mushrooms are growing here."
+msgstr "Тук растат лилави гъби."
+
+msgid "Some black mushrooms are growing here."
+msgstr "Тук растат няколко черни гъби."
+
+msgid "Some pink plants are growing here."
+msgstr "Тук растат няколко розови растения."
+
+msgid "The carpet here seems suspicious."
+msgstr "Килимът тук изглежда подозрителен."
+
+msgid "Take a closer look?"
+msgstr "Погледни по-отблизо?"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "Има стълба, но входът е заключен с катинарче."
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "Градинските принадлежности са подредени на рафта."
+
+msgid "A tree filled with blue butterflies."
+msgstr "Дърво, изпълнено със сини пеперуди."
+
+msgid "Thin vertical windows."
+msgstr "Тънки вертикални прозорци."

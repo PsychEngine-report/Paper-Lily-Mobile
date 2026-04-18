@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no need to mess with it anymore."
+msgstr "Không cần phải nghịch nó nữa đâu."
+
+msgid "Ah... I see how it is."
+msgstr "À... thấy ra làm sao rồi."
+
+msgid "I really dislike this kind of puzzle though..."
+msgstr "Mà mình thực sự không thích cái kiểu puzzle này..."
+
+msgid "Hm..."
+msgstr "Hừm..."
+
+msgid "Is that a button behind the lamppost?"
+msgstr "Đằng sau cột đèn đó là nút bấm à?"
+
+msgid "Ah... I kind of expected them to reset..."
+msgstr "Ầy... mình lại có phần mong là nó reset chứ..."
+
+msgid "Geez... what was I thinking?"
+msgstr "Trời đất... đầu óc nghĩ cái gì vậy?"
+
+msgid "The cable has already been severed."
+msgstr "Dây cáp đã bị cắt lìa rồi."
+
+msgid "The cable has been cut."
+msgstr "Dây cáp đã bị cắt rồi."
+
+msgid "A cable runs from the lamp to the bushes."
+msgstr "Dây cáp chạy từ cái đèn vào bụi."
+
+msgid "A heavy-looking metal gate."
+msgstr "Cánh cổng kim loại trông nặng nề."
+
+msgid "Is this the Daylight Gate?"
+msgstr "Này là Cổng Bạch Nhật đấy sao?"
+
+msgid "What does it have to do with daylight?"
+msgstr "Bạch Nhật là giữa ban ngày, có liên quan gì ta?"
+
+msgid "There's a plaque next to it that reads:"
+msgstr "Bên cạnh có tấm bản đọc là:"
+
+msgid "A gate blocks your path."
+msgstr "Cánh cổng chặn đường bạn."
+
+msgid ""
+"\"Daylight Gate\"\n"
+"\"(At daytime, the gate opens and the lamps turn off.)\""
+msgstr ""
+"\"Cổng Bạch Nhật\"\n"
+"\"(Ban ngày cổng ngỏ, đèn tỏ thôi soi.)\""
+
+msgid "Day...? I don't even know what time it is..."
+msgstr "Ban ngày...? Mình còn chẳng biết mấy giờ rồi đây..."
+
+msgid "Is there any way I can get this open without waiting?"
+msgstr "Có cách nào để làm mở được cổng mà khỏi phải chờ không?"
+
+msgid "A street lamp."
+msgstr "Cột đèn đường."

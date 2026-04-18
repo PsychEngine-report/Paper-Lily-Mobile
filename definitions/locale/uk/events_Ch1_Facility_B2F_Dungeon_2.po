@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A broken, bloody baseball bat lies next to a skeleton."
+msgstr "Поряд зі скелетом лежить розтрощена та покрита кров'ю бейсбольна бита."
+
+msgid "A \"W\" is carved into it."
+msgstr "На ній вирізьблена літера \"В\"."
+
+msgid "The door is unreachable."
+msgstr "До цих дверей не дотягнутися."
+
+msgid "\"Subject D5. Age: 100-150. Status: Dormant. Awaiting further tests.\""
+msgstr "\"Суб'єкт D5. Вік: 100-150. Стан: У сплячці. Очікуються подальші тести.\""
+
+msgid "\"Subject D8. Age: Unknown. Status: Highly active. Awaiting further tests.\""
+msgstr "\"Суб'єкт D8. Вік: Невідомий. Стан: Високоактивний. Очікуються подальші тести.\""
+
+msgid "A confinement door. It's locked."
+msgstr "Двері камери. Вони зачинені."
+
+msgid "There's something inside..."
+msgstr "Там хтось є..."
+
+msgid "Nothing of interest on the desk."
+msgstr "На столі немає нічого корисного."
+
+msgid "There's nothing else in the drawer."
+msgstr "У шухлядці більше нічого немає."
+
+msgid "There's a valve handle in the drawer."
+msgstr "У шухлядці лежить вентиль."
+
+msgid "Take ${item:ch1.facility_handle_diamond}?"
+msgstr "Взяти предмет: ${item:ch1.facility_handle_diamond}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "A hole on the floor."
+msgstr "Діра в підлозі."
+
+msgid "(Sai joined your party.)"
+msgstr "(Сай приєднується до групи.)"

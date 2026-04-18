@@ -1,0 +1,30 @@
+{
+	"Locale": "tr",
+	"Name": "Türkçe - ADÇFANSUB",
+	"Credit": "ADÇFANSUB Tarafından Çevrildi",
+	"Website": "",
+	"Path": "tr",
+	"Disclaimer": true,
+	"UseContext": true,
+	"FallbackFonts": {
+		"default": "res://translation-resources/tr/NotoSansJP-Regular.otf",
+		"default_large": "res://translation-resources/tr/NotoSansJP-Regular.otf",
+		"default_small": "res://translation-resources/tr/NotoSansJP-Regular.otf",
+		"dialogue_small": "res://translation-resources/tr/NotoSansJP-Regular.otf"
+	},
+	"ResourceRemaps": {
+		"res://resources/font/default_title.tres": "res://translation-resources/tr/default_title.tres",
+		"res://resources/font/dialogue_creepy.tres": "res://translation-resources/tr/dialogue_creepy.tres",
+		"res://assets/img/cg/prologue/instructions1.png": "res://translation-resources/tr/instructions1.png",
+		"res://assets/img/cg/prologue/instructions2.png": "res://translation-resources/tr/instructions2.png",
+		"res://resources/font/ch1_cg_todolist.tres": "res://translation-resources/tr/ch1_cg_todolist.tres",
+		"res://resources/font/ch1_cg_todolist_subtitle.tres": "res://translation-resources/tr/ch1_cg_todolist_subtitle.tres",
+		"res://assets/img/cg/ch1/facility_map_1.png": "res://translation-resources/tr/facility_map_1.png",
+		"res://assets/img/cg/ch1/facility_map_2.png": "res://translation-resources/tr/facility_map_2.png"
+	},
+	"Compatibility": [
+		"Lacie Engine",
+		"Project Kat",
+		"Paper Lily Chapter 1"
+	]
+}

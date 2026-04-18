@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A broken, bloody baseball bat lies next to a skeleton."
+msgstr "Рядом со скелетом лежит окровавленная и разбитая вдребезги бейсбольная бита."
+
+msgid "A \"W\" is carved into it."
+msgstr "На ней написано \"В\"."
+
+msgid "The door is unreachable."
+msgstr "До этой двери никак не достать."
+
+msgid "\"Subject D5. Age: 100-150. Status: Dormant. Awaiting further tests.\""
+msgstr "\"Субъект D5. Возраст: 100-150. Статус: Дремлющий. В ожидании дальнейших тестирований.\""
+
+msgid "\"Subject D8. Age: Unknown. Status: Highly active. Awaiting further tests.\""
+msgstr "\"Субъект D8. Возраст: Неизвестен. Статус: Крайне активен. В ожидании дальнейших тестирований.\""
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_2.misc_cell_eyes.dlg.narrator"
+msgid "A confinement door. It's locked."
+msgstr "Дверь камеры. Она закрыта."
+
+msgid "There's something inside..."
+msgstr "Внутри кто-то есть..."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_2.misc_cell_noeyes.dlg.narrator"
+msgid "A confinement door. It's locked."
+msgstr "Дверь камеры. Она закрыта."
+
+msgid "Nothing of interest on the desk."
+msgstr "На столе нет ничего интересного."
+
+msgid "There's nothing else in the drawer."
+msgstr "В выдвижных ящиках больше ничего нет."
+
+msgid "There's a valve handle in the drawer."
+msgstr "В выдвижном ящике есть вентиль."
+
+msgid "Take ${item:ch1.facility_handle_diamond}?"
+msgstr "Взять предмет: ${item:ch1.facility_handle_diamond}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "A hole on the floor."
+msgstr "Дыра в полу."
+
+msgid "(Sai joined your party.)"
+msgstr "(Сай присоединяется к отряду.)"

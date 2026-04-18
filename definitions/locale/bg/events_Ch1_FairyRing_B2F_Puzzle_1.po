@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "…"
+
+msgid "Aoi, stay close."
+msgstr "Аой, стой близо."
+
+msgid "Okay..."
+msgstr "Добре…"
+
+msgid "There's no point in seasoning them."
+msgstr "Няма смисъл да ги подправяме."
+
+msgid "Whacha doing?"
+msgstr "Какво правиш?"
+
+msgid "Uh... Nothing."
+msgstr "Ъм… Нищо."
+
+msgid "(Does salt not work on all demons...?)"
+msgstr "(Солта не действа ли на всички демони…?)"
+
+msgid "Better not to."
+msgstr "По-добре да не."
+
+msgid "Don't do that!"
+msgstr "Не прави така!"
+
+msgid "Sorry... Uh..."
+msgstr "Съжалявам… Ах…"
+
+msgid "What if its body comes here... if you stab it?"
+msgstr "Ами ако тялото му дойде тук… ако го прободеш?"
+
+msgid "Why would that happen?"
+msgstr "Защо се случва това?"
+
+msgid "I don't know... I don't want to risk it."
+msgstr "Не знам… Не искам да рискувам."
+
+msgid "...Fair enough."
+msgstr "…Справедливо."
+
+msgid "(Better not do that.)"
+msgstr "(По-добре да не го правим.)"
+
+msgid "(This little plant is the only thing standing between us and those fairy heads...)"
+msgstr "(Това малко растение е единственото нещо, което стои между нас и тези приказни глави…)"
+
+msgid "A fairy head, or something."
+msgstr "Глава на фея или нещо подобно."
+
+msgid "Its mouth is wide open..."
+msgstr "Главата й е широко отворена…"
+
+msgid "Its nostrils are weird."
+msgstr "Ноздрите ѝ са странни."
+
+msgid "Its eyes look creepy..."
+msgstr "Очите им изглеждат страховито…"
+
+msgid "Another one of those plants."
+msgstr "Още едно от онези растения."

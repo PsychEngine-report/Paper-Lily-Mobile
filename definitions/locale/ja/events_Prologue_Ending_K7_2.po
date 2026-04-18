@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "もう鍵は開いている。"
+
+msgid "...but there's nothing inside."
+msgstr "……しかし中には何も入っていない。"
+
+msgid "There's some schematics for some sort of machine you don't really understand."
+msgstr "よく分からない何らかの機械の配線図がある。"
+
+msgid "What's that?"
+msgstr "それは何？"
+
+msgid "Not a clue... but I'm taking it."
+msgstr "見当もつかないわ……でも、持って行きましょう。"
+
+msgid "There's some official-looking documents here."
+msgstr "公式文書らしい書類がある。"
+
+msgid "Read them?"
+msgstr "読む？"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "${img:stamp_council} MEETING 176 NOTES"
+msgstr "${img:stamp_council} 会議176   議事録"
+
+msgid "\"...disagreements on the distribution of the....\""
+msgstr "「……の配分に関する意見の不一致……」"
+
+msgid "\"...is still not participating in our...\""
+msgstr "「……は未だ我々の……に参加せず……」"
+
+msgid "\"...the secondary duty of guardians...\""
+msgstr "「……守護者の二次的責務……」"
+
+msgid "\"...collection of stones from every...\""
+msgstr "「……あらゆる……からの石の収集……」"
+
+msgid "The document continues making little sense for several pages."
+msgstr "ほとんど意味の分からない内容が数ページにわたり続いている。"
+
+msgctxt "events.Prologue_Ending_K7_2.event_read_documents.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "What the hell am I reading?"
+msgstr "一体何なのこれ？"
+
+msgid "There's nothing else of interest."
+msgstr "他に興味を惹くものはない。"
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "この鍵にはヘアピンは合わない。"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_0.dlg.narrator"
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_1.dlg.narrator"
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_2.dlg.narrator"
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_3.dlg.narrator"
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_4.dlg.narrator"
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_5.dlg.narrator"
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgid "They're already open."
+msgstr "もう開いている。"
+
+msgid "Despite your best efforts, you can't seem to cut through it with your scissors."
+msgstr "どんなに頑張っても、ハサミでは開けられそうにない。"
+
+msgid "The box contains an assortment of differently sized blue cans."
+msgstr "箱には様々な大きさの青い缶が取り揃えられている。"
+
+msgid "A pile of boxes."
+msgstr "箱の山。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_boxes.dlg.narrator"
+msgid "They seem to be stuck together."
+msgstr "お互いにくっつけられているようだ。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_0.dlg.narrator"
+msgid "A large locker."
+msgstr "大きいロッカー。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_0.dlg.narrator"
+msgid "It's locked."
+msgstr "鍵がかかっている。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "A large locker."
+msgstr "大きいロッカー。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "It's locked."
+msgstr "鍵がかかっている。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "It's empty."
+msgstr "中は空だ。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "A large locker."
+msgstr "大きいロッカー。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "It's locked."
+msgstr "鍵がかかっている。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "It's empty."
+msgstr "中は空だ。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "A large locker."
+msgstr "大きいロッカー。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "It's locked."
+msgstr "鍵がかかっている。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "It's empty."
+msgstr "中は空だ。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "A large locker."
+msgstr "大きいロッカー。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "It's locked."
+msgstr "鍵がかかっている。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "It's empty."
+msgstr "中は空だ。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "A large locker."
+msgstr "大きいロッカー。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "It's locked."
+msgstr "鍵がかかっている。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "It's empty."
+msgstr "中は空だ。"
+
+msgid "A trash can."
+msgstr "ゴミ箱。"
+
+msgid "Some black goo can be seen at the bottom."
+msgstr "底に黒いべとべとしたものが見える。"
+
+msgid "A pile of trash cans."
+msgstr "ゴミ箱の山。"
+
+msgctxt "events.Prologue_Ending_K7_2.misc_trashcans.dlg.narrator"
+msgid "They seem to be stuck together."
+msgstr "お互いにくっつけられているようだ。"
+
+msgid "So... maybe the ritual worked?"
+msgstr "じゃあ……もしかして儀式が成功したってこと？"
+
+msgid "But the ritual wasn't finished."
+msgstr "でもまだ儀式は終わってない。"
+
+msgid "Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore."
+msgstr "つまり、この学校に無数の呪われてそうな部屋と何らかの暗い秘密があるか、それともここがもう学校じゃないか、そのどちらかね。"
+
+msgid "If it's not the school, then what is it?"
+msgstr "ここが学校じゃないなら一体何なの？"
+
+msgid "No idea."
+msgstr "さあね。"
+
+msgctxt "events.Prologue_Ending_K7_2.move_enter.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "In any case, it doesn't feel too dangerous, so let's continue."
+msgstr "いずれにしても、そんなに危険な感じはしないし、先へ進みましょう。"

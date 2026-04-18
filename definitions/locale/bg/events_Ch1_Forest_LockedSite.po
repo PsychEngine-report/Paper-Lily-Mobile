@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That doesn't seem like a good idea."
+msgstr "Това не изглежда добра идея."
+
+msgid "The hole is big enough."
+msgstr "Отворът е достатъчно голям."
+
+msgid "There's no reason to go back."
+msgstr "Няма причина да се връщам."
+
+msgid "There's no reason to do that."
+msgstr "Сега няма причина да правя това."
+
+msgid "There's a gate nearby!"
+msgstr "Наблизо има порта!"
+
+msgid "There's quite a bit of blood in this spot."
+msgstr "На това място има доста кръв."
+
+msgid "Someone's remains. You can't tell whether they're human or not."
+msgstr "Нечии останки. Не можеш да кажеш дали са човешки или не."
+
+msgid "I'd rather not go back in there."
+msgstr "Предпочитам да не се връщам там."
+
+msgid "The grass is definitely greener on this side."
+msgstr "Тревата определено е по-зелена от тази страна."
+
+msgid "A fence blocks your path."
+msgstr "Ограда препречва пътя ви."
+
+msgid "Use ${item:ch1.forest_bolt_cutter}?"
+msgstr "Използвай ${item:ch1.forest_bolt_cutter}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "A long fence."
+msgstr "Дълга ограда."
+
+msgid "There's no way I'm going back in there."
+msgstr "Няма никакъв начин да се върна обратно там."
+
+msgid "There's a note on the floor:"
+msgstr "На пода има бележка:"
+
+msgid "The petal trail ends here."
+msgstr "Пътеката от венчелистчета свършва тук."
+
+msgid "They didn't make it to the exit..."
+msgstr "Те не успяха да стигнат до изхода…"

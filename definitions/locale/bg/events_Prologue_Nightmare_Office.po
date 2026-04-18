@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no keyhole on the door."
+msgstr "Няма ключалката на вратата."
+
+msgid "The bookshelf towers over your small figure."
+msgstr "Лавицата за книги се извисява над малката ви фигура."
+
+msgid "The bookshelf has always felt too large for comfort."
+msgstr "Лавицата за книги винаги се е чувствала твърде голяма за да е комфортна."
+
+msgid "The bookshelf is filled with hard to read books."
+msgstr "Лавицата за книги е запълнена с трудни за четене книги."
+
+msgid "The bookshelf has books with titles you can't even pronounce."
+msgstr "Лавицата за книги има книги с заглавия, които дори не можете да произнесете."
+
+msgid "A pile of science books."
+msgstr "купчина научни книги."
+
+msgid "A pile of science books. Many pages are bookmarked."
+msgstr "купчина научни книги. Много страници са с показалец."
+
+msgid "Books on out-of-body experiences."
+msgstr "Книги за преживявания извън тялото."
+
+msgid "A pile of books. The top one is called \"Depictions of psychological trauma in research patients.\""
+msgstr "купчина книги. Най-горната се нарича \"Изображения на психологическа травма при изследваните пациенти.\""
+
+msgid "A pile of anatomy textbooks."
+msgstr "купчина книжа по анатомия."
+
+msgid "What the hell."
+msgstr "Какво по-дяволите."
+
+msgid "Was that...?"
+msgstr "Това да не би...?"
+
+msgid "Was that...!?"
+msgstr "Това да не би...!?"
+
+msgid "No. It wasn't."
+msgstr "Не. Не беше."
+
+msgid "It's just an empty couch."
+msgstr "Просто празен диван."
+
+msgid "A familiar desk."
+msgstr "Познато бюро."
+
+msgid "______val of souls from_____avel below the_____ot follow instructions____velope______."
+msgstr "______вал на душите от_____авел под____ от следните инструкции____ плик______."
+
+msgid "It's too hazy to read."
+msgstr "Твърде мъгляво е за четене."
+
+msgid "A story book and a photo of someone."
+msgstr "Историческа книга и снимка на някого."
+
+msgid "Some books on physiological changes in humans in specific environments."
+msgstr "Някакви книги на физиологическите промени при човеците в специфични среди."
+
+msgid "There's also a notebook filled with rough scribbles and notes."
+msgstr "Има и тетрадка, пълна с груби драсканици и бележки."
+
+msgid "A painting of a vague memory."
+msgstr "Картина с неясен спомен."
+
+msgid "..."
+msgstr "..."
+
+msgid "A trashcan filled with blank pieces of paper."
+msgstr "кошче за боклук пълно с празни листове хартия."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Just what is this place..."
+msgstr "Какво всъщност е това място."
+
+msgid "Not interested, huh?"
+msgstr "Не е интересно, хмм?"
+
+msgid "So? What do you think? I can see everything that's in your head."
+msgstr "Е и? Какво мислиш? Виждам всичко което е в главата ти."
+
+msgid "You really should make an effort to be more lively."
+msgstr "Наистина трябва да положите усилия, за да бъдете по-жизнени."
+
+msgid "You only have until I decide I'm done playing around with you, you know?"
+msgstr "Има време до момента, в който реша че съм приключил играта си с теб, знаеш го нали?"
+
+msgid "And then..."
+msgstr "А после..."
+
+msgid "...snap."
+msgstr "...щрак."
+
+msgid "The door you came through won't open anymore."
+msgstr "Вратата, от която дойде, вече не може да се отвори."

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Dozens of books are neatly organized on the shelves."
+msgstr "Onlarca kitap raflarda düzenli bir şekilde düzenlenmiş."
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "İsimsiz bir kitap öne çıkıyor. Bir kısmını oku?"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Variations of rituals ______carefully documented ______ recipient."
+msgstr "Ritüellerin çeşitleri ______ dikkatle belgelenmiş ______ alıcı."
+
+msgid "Any human that enters ______ by way of a ritual is carefully tracked."
+msgstr "______'ye bir ritüel yoluyla giren her insan dikkatle izlenir."
+
+msgid "No accounts of humans infiltrating by their own means exist, _________ easily detected."
+msgstr "İnsanların kendi imkanlarıyla sızdığına dair hiçbir kayıt mevcut değil, _________ kolaylıkla tespit edildi."
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "İsimsiz bir kitap öne çıkıyor. Bir kısmını oku?"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Average recorded survival time of humans following ritual rules: 15 minutes."
+msgstr "Ritüel kurallara uyan insanların kaydedilen ortalama hayatta kalma süresi: 15 dakika."
+
+msgid "Average survival time ________ breaching ritual rules: 140 minutes."
+msgstr "Ortalama hayatta kalma süresi ________ ritüel kurallarını ihlal ederek: 140 dakika."
+
+msgid "Average rate of adherence to the ritual rules: 98.31%"
+msgstr "Ritüel kurallarına ortalama bağlılık oranı: %98,31"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "İsimsiz bir kitap öne çıkıyor. Bir kısmını oku?"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Demons can pick up on a human's soul from at least five meters away."
+msgstr "İblisler bir insanın ruhunu en az beş metre uzaktan algılayabilir."
+
+msgid "Exceptions exist ___________ as well as the elderly or the sick; they are less perceivable and less satiating."
+msgstr "Yaşlılar ve hastaların yanı sıra ___________ istisnalar da mevcuttur; daha az algılanabilir ve daha az tatmin edicidirler."
+
+msgid "Due to these factors, their value is considered to be negligible."
+msgstr "Bu faktörlerden dolayı değerlerinin ihmal edilebilir olduğu düşünülmektedir."
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "İsimsiz bir kitap öne çıkıyor. Bir kısmını oku?"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Demons won't hesitate to kill and consume ______"
+msgstr "Şeytanlar ______'ı öldürmekten ve tüketmekten çekinmeyecekler."
+
+msgid "_____'s regulations don't allow free consumption of souls ________ must be reported."
+msgstr "_____'in düzenlemeleri ruhların serbestçe tüketilmesine izin vermiyor ________ bildirilmelidir."
+
+msgid "Any demand ________ through the appropriate channels."
+msgstr "Uygun kanallar aracılığıyla herhangi bir talep ________."
+
+msgid "White grass is growing on the floor. It's soft to the touch."
+msgstr "Yerde beyaz çimen büyüyor. Dokunulduğunda yumuşaktır."
+
+msgid "You can spot some faint shapes in the window."
+msgstr "Pencerede bazı soluk şekilleri görebilirsiniz."

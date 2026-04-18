@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a can of red paint here."
+msgstr "Тук има кутия с червена боя."
+
+msgid "Take ${item:ch1.paint}?"
+msgstr "Вземи ${item:ch1.paint}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "It's already done."
+msgstr "Вече е изпълнено."
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Вие разпръснахте сол на входа.)"
+
+msgid "Some boxes containing holiday decorations."
+msgstr "Няколко кашона с празнична украса."
+
+msgid "Some boxes that may or may not be empty."
+msgstr "Някакви кутии, които може да са, или пък може да не са празни."
+
+msgid "A large pile of boxes."
+msgstr "Голяма купчина кутии."
+
+msgid "An empty bucket. Not a trash can."
+msgstr "Празна кофа. Не е кошче за отпадъци."
+
+msgid "An empty bucket."
+msgstr "Празна кофа."
+
+msgid "A chair that's sometimes used to reach high places."
+msgstr "Стол, на който понякога е бил използван, за да се стигнат високи места."
+
+msgid "A large cupboard. There's quite a bit of space inside."
+msgstr "Голям шкаф. Вътре има доста място."
+
+msgid "The garage door. It leads outside."
+msgstr "Гаражната врата. Води навън."
+
+msgid "It opens with a remote control. My parents probably took it in the car with them."
+msgstr "Отваря се с дистанционно. Родителите ми вероятно са го взели в колата с тях."
+
+msgid "An old lamp. It's not plugged in."
+msgstr "Стара лампа. Не е включена."
+
+msgid "A shelf unit filled with various tools, paint, and old manuals."
+msgstr "Рафт, пълен с различни инструменти, боя и стари ръководства."
+
+msgid "There's nothing of use here."
+msgstr "Тук няма нищо, което бих могла да използвам."
+
+msgid "A shoe rack with no shoes."
+msgstr "Рафт за обувки без обувки."
+
+msgid "A shoe rack."
+msgstr "Рафт за обувки."
+
+msgid "An empty trash can. Not a bucket."
+msgstr "Празно кошче за отпадъци. Не е кофа."
+
+msgid "An empty trash can."
+msgstr "Празно кошче за отпадъци."
+
+msgid "An umbrella basket."
+msgstr "Кошница за чадъри."
+
+msgid "There was a discount for buying two of them."
+msgstr "Имаше отстъпка за закупуване на две от тях."

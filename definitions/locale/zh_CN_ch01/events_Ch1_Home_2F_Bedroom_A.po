@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "As I thought... the internet is not working."
+msgstr "就跟我想的一样...没网了。"
+
+msgid "Thankfully, I saved that post as a PDF."
+msgstr "幸好，我把那个帖子保存为PDF了。"
+
+msgid "\"What to do if you mess up bus ritual\""
+msgstr "“搞砸了巴士仪式要怎么办”"
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"i was about to do the bus ritual, and saw that there are no clues about what to do if the bus doesnt come or something"
+msgstr ""
+"[color=green]spikyTrap2, 1年前[/color]\n"
+"我马上就要做巴士仪式了，但是我不知道如果巴士没来要怎么办"
+
+msgid "someone here said that leaving a ritual half-done can be rly bad, so i'm just asking to be safe"
+msgstr "有人说只做一半的仪式是很糟糕的事情，所以我就是想问问，保险点"
+
+msgid ""
+"[color=green]miko_baby, 1 year ago[/color]\n"
+"I don't guarantee this will work, as I haven't personally tried the bus ritual. But! My family works at a shrine so I have some experience with banishing spirits. The steps should be:"
+msgstr ""
+"[color=green]miko_baby，1年前[/color]\n"
+"不保真，因为我没有亲自试过巴士仪式。但是！ 我的家人在神社工作，所以我有一些驱鬼的经验。步骤如下："
+
+msgid ""
+"1) Untie the red string or thread or whatever you used from the phone.\n"
+"2) Take a whole bunch of salt, any salt, and pour it in front of any exit doors of your home (indoors)."
+msgstr ""
+"1）解下电话上你挂的红线之类的东西。\n"
+"2）取一大把盐，随便什么盐，倒在家里（室内）的每个出口前。"
+
+msgid ""
+"Make sure to pour salt on EVERY exit (windows aren't necessary though).\n"
+"That's all! Hope this helps!"
+msgstr ""
+"每 一 个 出口都要（窗户倒是不必）。\n"
+"如上！希望能帮到你！"
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"thanks!"
+msgstr ""
+"[color=green]spikyTrap2，1年前[/color]\n"
+"谢谢！"
+
+msgid "[User marked this thread as solved]"
+msgstr "【用户标记问题已解决】"
+
+msgid "In other words, remove the red string from the phone and scatter salt in front of the front door, the back door and the garage door."
+msgstr "换而言之，移除电话上的红线，在前面、后面和车库门口撒盐就可以。"
+
+msgid "It sounds a little weak for a ritual but... it's better than nothing."
+msgstr "对于仪式来说的话，强度有点弱...但是总比没有好。"
+
+msgid "I'd rather not change right now..."
+msgstr "我宁可现在不换的好..."
+
+msgid "My digital alarm clock."
+msgstr "我的电子闹钟。"
+
+msgid "I'm so used to pushing snooze on this thing-"
+msgstr "我已经习惯去按“懒觉”键了——"
+
+msgid "I hope I don't do it again out of reflex and ruin the ritual."
+msgstr "我希望我不会因为条件反射再这样做一次，从而毁掉仪式。"
+
+msgid "Set it for midnight?"
+msgstr "要设置到午夜吗？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_alarmclock.choice.Set it for midnight?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_alarmclock.choice.Set it for midnight?"
+msgid "No"
+msgstr "否"
+
+msgid "It's done."
+msgstr "搞定了。"
+
+msgid "It's set to ring at midnight."
+msgstr "设定在午夜响起。"
+
+msgid "My bed."
+msgstr "我的床。"
+
+msgid "Go to sleep?"
+msgstr "要去睡觉吗？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_bed.choice.Go to sleep?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_bed.choice.Go to sleep?"
+msgid "No"
+msgstr "否"
+
+msgid "There's something I need to tell Hiro first."
+msgstr "有些事情我得先去和希罗谈谈。"
+
+msgid "I should take the stuff I left by the window, or I'm going to forget it here."
+msgstr "我应该把我放在窗边的东西拿走，不然我会忘在这里的。"
+
+msgid "I need to finish cleaning up the ritual first..."
+msgstr "我需要先完成仪式的清扫工作..."
+
+msgid "A book on the occult."
+msgstr "一本关于神秘学的书。"
+
+msgid "Read a passage?"
+msgstr "要看一段吗？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_book.choice.Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_book.choice.Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "\"Salt is important when dealing with demons. For best results, a handful must be thrown at the target.\""
+msgstr "“对付恶魔时，盐很重要。为了达到最好的效果，请务必抓满满一手扔在目标上。”"
+
+msgid "A bookshelf with school related books."
+msgstr "书架上摆放着与学校有关的书籍。"
+
+msgid "Manga and other non-academic stuff gets to go in the bottom compartment."
+msgstr "漫画和其他非学术性的东西放在最下面的隔层里。"
+
+msgid "Blue... Pink... Looks like I don't have any red markers."
+msgstr "蓝的...粉的...看起来我没有红色马克笔。"
+
+msgid "Maybe in my parents' room?"
+msgstr "可能在父母的房间里？"
+
+msgid "Maybe downstairs?"
+msgstr "可能在楼下？"
+
+msgid "My computer chair."
+msgstr "我的电脑椅。"
+
+msgid "The instructions are simple enough. No need to check again."
+msgstr "教程非常简单。没必要再看一次了。"
+
+msgid "Sit at the computer?"
+msgstr "要坐在电脑面前吗？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_computer.choice.Sit at the computer?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_computer.choice.Sit at the computer?"
+msgid "No"
+msgstr "否"
+
+msgid "A gaming console."
+msgstr "一台游戏主机。"
+
+msgid "There's no time for games right now."
+msgstr "现在没有打游戏的时间了。"
+
+msgid "My computer. It's always on."
+msgstr "我的电脑。一直开着。"
+
+msgid "My desk."
+msgstr "我的桌子。"
+
+msgid "The mugs pile up here. The drawers contain school papers."
+msgstr "这里堆着杯子。抽屉里放着学校的试卷。"
+
+msgid "Leftover orange juice."
+msgstr "喝剩的橘子汁。"
+
+msgid "It's too warm to drink now."
+msgstr "现在喝太热了。"
+
+msgid "Some blank paper."
+msgstr "一些白纸。"
+
+msgid "I doodle sometimes."
+msgstr "我有时候会涂鸦。"
+
+msgid "A plant."
+msgstr "一株植物。"
+
+msgid "The best plant in this house."
+msgstr "这是我们屋子里最好的植物了。"
+
+msgid "Some cute posters."
+msgstr "一些可爱的海报。"
+
+msgid "A fancy glass table."
+msgstr "一张漂亮的玻璃桌。"
+
+msgid "An overflowing trash can."
+msgstr "一个溢满的垃圾桶。"
+
+msgid "Since you're the one who filled it up, there's no point in emptying it."
+msgstr "既然你是把它装满的人，那你就没必要把它清空。"
+
+msgid "My trash can."
+msgstr "我的垃圾桶。"
+
+msgid "A TV."
+msgstr "一台电视。"
+
+msgid "This TV is solely used to dock the game console."
+msgstr "这台电视只是用来连接游戏机的。"
+
+msgid "It's too dark to see right now."
+msgstr "现在太暗了，看不清。"
+
+msgid "A window."
+msgstr "一扇窗户。"
+
+msgid "A cozy gaming space by the window."
+msgstr "窗户旁的舒适游戏空间。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Various bows and hair decorations."
+msgstr "各种蝴蝶结和发饰。"
+
+msgid "There's some red ribbon here."
+msgstr "这里有一些红丝线。"
+
+msgid "Take ${item:ch1.ribbon}?"
+msgstr "要取走${item:ch1.ribbon}吗？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bows.choice.Take ${item:ch1.ribbon}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bows.choice.Take ${item:ch1.ribbon}?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_1.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "我收到了一些衣服作为礼物。但现在还不是打开它们的时候。"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_1.dlg.narrator"
+msgid "Some clothes."
+msgstr "一些衣服。"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_2.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "我收到了一些衣服作为礼物。但现在还不是打开它们的时候。"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_2.dlg.narrator"
+msgid "Some clothes."
+msgstr "一些衣服。"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_3.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "我收到了一些衣服作为礼物。但现在还不是打开它们的时候。"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_3.dlg.narrator"
+msgid "Some clothes."
+msgstr "一些衣服。"
+
+msgid "A calendar. It's still stuck in March, 6 months ago."
+msgstr "日历。还停留在6个月前的3月份。"
+
+msgid "Is there even a point in turning the pages?"
+msgstr "还有翻下去的必要吗？"
+
+msgid "The year is more or less over anyways."
+msgstr "不管怎么说，今年差不多快结束了。"
+
+msgid "Lacie's diary."
+msgstr "莱西的日记。"
+
+msgid "I don't feel like going through it right now."
+msgstr "我现在没心情去看它。"
+
+msgid "I should take all of this with me."
+msgstr "我应该把这个带在身边。"
+
+msgid "My notebook, to organize my thoughts..."
+msgstr "我的笔记本，用来整理思绪..."
+
+msgid "...the rune for the ritual..."
+msgstr "...为仪式准备的符文石..."
+
+msgid "...salt, for self defense..."
+msgstr "...还有盐，自我防卫用的..."
+
+msgid "...and finally, this thing."
+msgstr "...最后还有，这个玩意。"
+
+msgid "If the information I got is accurate, then this is my ticket back home."
+msgstr "如果我的消息没错的话，这就是我回家的车票。"
+
+msgid "(You placed the letter and to-do list into the notebook.)"
+msgstr "（你把信封和待办清单放进了笔记本。）"
+
+msgid "A happy little green plant."
+msgstr "一株快乐的绿色小植物。"
+
+msgid "It doesn't need a lot of watering, thankfully..."
+msgstr "幸好它不需要经常浇水..."
+
+msgid "Your TamaGhost™."
+msgstr "你的拓麻鬼仔™。"
+
+msgid "I already fed it today."
+msgstr "我今天已经喂过它了。"
+
+msgid "(You fed your TamaGhost™)."
+msgstr "（你投喂了你的拓麻鬼仔™）。"
+
+msgid "An umbrella."
+msgstr "一把雨伞。"
+
+msgid "It's nice outside."
+msgstr "外面天气还不错。"
+
+msgid "But not nice enough to want to go back out."
+msgstr "但还没好到想再出去的地步。"

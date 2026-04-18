@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A storage compartment filled with various types of food."
+msgstr "Um compartimento de armazenamento cheio de vários tipos de alimentos."
+
+msgid "There's a key in there as well."
+msgstr "Há uma chave lá também."
+
+msgid "A large cauldron."
+msgstr "Um grande caldeirão."
+
+msgid "Is this where she cooks children?"
+msgstr "É aqui que ela cozinha crianças?"
+
+msgid "It wouldn't surprise me, after the day I've had."
+msgstr "Não me surpreenderia, depois do dia que tive."
+
+msgid "It looks like some sort of stew."
+msgstr "Parece uma espécie de ensopado."
+
+msgid "It's cold and it doesn't seem to have been looked after in a long time."
+msgstr "Está frio e parece que não é mexido há muito tempo."
+
+msgid "There's a black thing sticking out from the stew."
+msgstr "Há uma coisa preta saindo do ensopado."
+
+msgid "Take it with you?"
+msgstr "Leve com você?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "...It seems to be part of something bigger."
+msgstr "...Parece fazer parte de algo maior."
+
+msgid "You can't take all of it."
+msgstr "Você não pode aguentar tudo."
+
+msgid "There's nothing else of interest."
+msgstr "Não há mais nada de interesse."
+
+msgid "Stir it up?"
+msgstr "Mexa?"
+
+msgid "A kitchen counter."
+msgstr "Um balcão de cozinha."
+
+msgid "A cutting board."
+msgstr "Uma tábua de corte."
+
+msgid "Nothing on the shelves above looks useful."
+msgstr "Nada nas prateleiras acima parece útil."
+
+msgid "A cookie jar."
+msgstr "Um pote de biscoitos."
+
+msgid "There's something inside that doesn't belong."
+msgstr "Há algo dentro que não deveria tá ai."
+
+msgid "Take it?"
+msgstr "Pegue?"
+
+msgid "Maybe I could feed this to the plant..."
+msgstr "Talvez eu pudesse alimentar a planta com isso..."
+
+msgid "Bring the cookies to the plant?"
+msgstr "Trazer os biscoitos para a planta?"
+
+msgid "The plant rejects the cookies..."
+msgstr "A planta rejeita os biscoitos..."
+
+msgid "Whoa neat! Can I have one?"
+msgstr "Uau, legal! Posso pegar um?"
+
+msgid "There was an eyeball in there."
+msgstr "Havia um globo ocular ali."
+
+msgid "Ah. So, no cookie?"
+msgstr "Ah. Então, sem biscoito?"
+
+msgid "There's an eyeball in there."
+msgstr "Tem um globo ocular ali."
+
+msgid "Well, not the eyeball, I meant the cookie."
+msgstr "Bem, não o globo ocular, eu quis dizer o biscoito."
+
+msgid "..."
+msgstr "..."
+
+msgid "I don't think you should eat that."
+msgstr "Eu não acho que você deveria comer isso."
+
+msgid "Bummer."
+msgstr "Decepcionante."
+
+msgid "A green frog."
+msgstr "Um sapo verde."
+
+msgid "Is that a frog?"
+msgstr "Isso é um sapo?"
+
+msgid "Is it alive?"
+msgstr "Está vivo?"
+
+msgid "Yes."
+msgstr "Sim."
+
+msgid "Maybe the knives lady will cook it."
+msgstr "Talvez a senhora Knives cozinhe."
+
+msgid "An empty, frog-less spot on the shelf."
+msgstr "Um lugar vazio e sem sapos na prateleira."
+
+msgid "Bring the frog to the plant?"
+msgstr "Trazer o sapo para a planta?"
+
+msgid "\"Thank you.\""
+msgstr "\"Obrigada.\""

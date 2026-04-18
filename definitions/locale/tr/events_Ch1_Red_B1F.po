@@ -1,0 +1,635 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Red_B1F.event_code_failure.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "The code was incorrect."
+msgstr "Kod hatalı."
+
+msgctxt "events.Ch1_Red_B1F.event_code_success.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "The door opens!"
+msgstr "Kapı açılıyor!"
+
+msgid "Now that I think about it, this is a strange location for such a large mirror."
+msgstr "Şimdi düşünüyorum da, bu kadar büyük bir ayna için burası garip bir yer."
+
+msgid "Maybe there's something behind it?"
+msgstr "Belki arkasında bir şey vardır?"
+
+msgid "Kick the mirror?"
+msgstr "Aynayı tekmeleyecek misin?"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.choice.Kick the mirror?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.choice.Kick the mirror?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A door... and a keypad... for a code, I think."
+msgstr "Bir kapı... ve bir tuş takımı... bir kod için sanırım."
+
+msgid "Is it the door behind the mirror?"
+msgstr "Aynanın arkasındaki şey kapı mı?"
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Belki daha iyi bir yol vardır?)"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.dlg.unknown"
+msgid "Here you go."
+msgstr "Al bakalım."
+
+msgid "...Huh. Thanks."
+msgstr "...Ha. Teşekkürler."
+
+msgid "I'm not carrying this thing around..."
+msgstr "Bu şeyi yanımda taşımayacağım..."
+
+msgid "Pssst."
+msgstr "Pşşşt."
+
+msgid "Hey girlie."
+msgstr "Hey kız."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "...?"
+msgstr "...?"
+
+msgid "Been a while since I've seen anybody come down here."
+msgstr "Birinin buraya geldiğini göreli uzun zaman olmuştu."
+
+msgid "Even that smug asshole hasn't been around."
+msgstr "O kendini beğenmiş götlek bile ortalıkta yoktu."
+
+msgid "Who do you mean?"
+msgstr "Kimden bahsediyorsun?"
+
+msgid "You know who I mean, or you wouldn't be snooping around here, would ya?"
+msgstr "Kimden bahsettiğimi biliyorsun, yoksa burayı dikizliyor olmazdın değil mi?"
+
+msgid "...Red?"
+msgstr "...Red?"
+
+msgid "Ding ding diiiing!"
+msgstr "Dedi ve 12'den vurdu!"
+
+msgid "Did Red lock you in here?"
+msgstr "Seni buraya Red mi kilitledi?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "Correct."
+msgstr "Doğru."
+
+msgid "Why?"
+msgstr "Neden?"
+
+msgid "My, aren't you asking lots of questions..."
+msgstr "Tanrım, çok fazla soru sormuyor musun..."
+
+msgid "Maybe I'll tell you if you come a bit closer."
+msgstr "Belki biraz yaklaşırsan sana söylerim."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice"
+msgid "Get closer?"
+msgstr "Yaklaş?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice.Get closer?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice.Get closer?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Aww... What a shame."
+msgstr "Ahh... Ne kadar yazık."
+
+msgid "No more chit chat then."
+msgstr "Daha fazla sohbet yok o zaman."
+
+msgid "(Better safe than sorry.)"
+msgstr "(Risk almaktan iyidir.)"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "That's the spirit."
+msgstr "İşte ruh budur."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "Red beni buraya kilitledi çünkü biraz baş belası olabiliyorum."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "I'm the only one who can cast curses."
+msgstr "Lanetleyebilen tek kişi benim."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "Curses...?"
+msgstr "Lanet mi...?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "Sadece sen mi yapabiliyorsun? O zaman lanetimle bir ilgin mi var?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "Belki biraz yaklaşırsan sana söylerim."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "That's the spirit."
+msgstr "İşte ruh budur."
+
+msgid "Welcome back, what is it you wanted to know again?"
+msgstr "Tekrar hoş geldin, bilmek istediğin nedir?"
+
+msgid "Why are you locked up?"
+msgstr "Neden kilitlendin?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "Red beni buraya kilitledi çünkü bazen baş belası olabiliyorum."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "I'm the only one who can cast curses."
+msgstr "Lanetleyebilen tek kişi benim."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.lacie"
+msgid "Curses...?"
+msgstr "Lanet mi...?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.lacie"
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "Sadece sen mi yapabiliyorsun? O zaman lanetimle bir ilgin mi var?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "Belki biraz yaklaşırsan sana söylerim."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice"
+msgid "Get closer?"
+msgstr "Yaklaş?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice.Get closer?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice.Get closer?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "I have a feeling you'll just try to kill me."
+msgstr "Beni öldürmeye çalışacakmışsın gibi hissediyorum."
+
+msgid "Hahahaha!"
+msgstr "Hahahaha!"
+
+msgid "Fine then, I'll humor you this time."
+msgstr "Peki o zaman, bu sefer seni eğlendireceğim."
+
+msgid "I didn't curse you."
+msgstr "Seni ben lanetlemedim."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.lacie"
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "O zaman kim yaptı? Lanetleyebilen tek kişinin sen olduğunu söylemiştin."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.unknown"
+msgid "...and live."
+msgstr "...ve yaşatabilen."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.lacie"
+msgid "...?"
+msgstr "...?"
+
+msgid "Look girlie, I hate doing shit for free."
+msgstr "Bak kızım, bu haltı beleşe yapmaktan nefret ediyorum."
+
+msgid "Yep. It's a shortcut."
+msgstr "Evet. Kısayol."
+
+msgid "It needs a code."
+msgstr "Kod istiyor."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_door.dlg.unknown"
+msgid "Correct."
+msgstr "Doğru."
+
+msgid "I can give it to you, provided you do one more thing for me."
+msgstr "Benim için bir şey daha yaparsan onu sana verebilirim."
+
+msgid "How do I know it's actually a shortcut?"
+msgstr "Bunun gerçekten bir kısayol olduğunu nasıl bileceğim?"
+
+msgid "You don't. You'll just have to trust me."
+msgstr "Bilmeyeceksin. Sadece bana güvenmen gerek."
+
+msgid "Sounds like a bad choice."
+msgstr "Kötü bir seçim gibi görünüyor."
+
+msgid "Your call, girlie."
+msgstr "Sen istedin kızım."
+
+msgid "If you bring me a blue light, I'll give you the code."
+msgstr "Bana mavi bir ışık getirirsen sana kodu veririm."
+
+msgid "A blue light?"
+msgstr "Mavi ışık mı?"
+
+msgid "Correct. A blue light. Not green, not red, certainly not white. A blue light."
+msgstr "Doğru. Mavi bir ışık. Yeşil değil, kırmızı değil ve kesinlikle beyaz değil. Mavi bir ışık."
+
+msgid "I have this blue candle, does it count?"
+msgstr "Bende bu mavi mum var, sayılır mı?"
+
+msgid "I'll be damned, you already have it?"
+msgstr "Yok daha neler, zaten var mıymış?"
+
+msgid "Then give it to me, unless you don't want the code."
+msgstr "O zaman ver onu bana, tabii eğer kodu istiyorsan."
+
+msgid "Where am I going to find that?"
+msgstr "Onu nereden bulacağım?"
+
+msgid "Don't know. I think I saw a candle-looking guy selling some a while back."
+msgstr "Bilmem. Sanırım bir süre önce mumumsu bir adamın satığını gördüm."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_door.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Hey wait wait!"
+msgstr "Hey bekle bekle!"
+
+msgid "Won't you do something for me? Pretty please little girl?"
+msgstr "Benim için bir şey yapmaz mısın? Lütfen, lütfen küçük kız?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_leave.dlg.lacie"
+msgid "No thank you."
+msgstr "Hayır teşekkürler."
+
+msgid "Come oooonnn, I've been stuck here for years, help me out!"
+msgstr "Hadi amaaaa. Yıllardır buradayım, çıkmama yardım et!"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_leave.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Tch."
+msgstr "Hah."
+
+msgid "When I get out of here..."
+msgstr "Buradan çıktığımda..."
+
+msgid "I'll make you suffer."
+msgstr "Seni süründüreceğim."
+
+msgid "It's a promise."
+msgstr "Söz veriyorum."
+
+msgid "You do something I ask, and I'll answer one of your questions. Yeah?"
+msgstr "İstediğim bir şeyi yap ve bende senin sorularından birine cevap vereyim. Nasıl fikir?"
+
+msgid "You want me to open your cage?"
+msgstr "Kafesini açmamı mı istiyorsun?"
+
+msgid "Hahahaha as if you could! You severely overestimate yourself, kid."
+msgstr "Hahahaha sanki yapabilirmişsin gibi! Kendini gözünde fazla büyütüyorsun çocuk."
+
+msgid "No, this is something you can actually do."
+msgstr "Hayır, bu gerçekten yapabileceğin bir şey."
+
+msgid "I can't see it from here, but somewhere in this room there should be a jar of slugs."
+msgstr "Buradan göremiyorum ama buralarda bir yerde bir kavanoz sümüklüböcek olmalı."
+
+msgid "Slugs??"
+msgstr "Sümüklüböcek??"
+
+msgid "Yeah. Large, slimy, gross? You know."
+msgstr "Aynen. İri, sümüksü, iğrenç falan hani."
+
+msgid "Bring it to me and we can continue this conversation."
+msgstr "Onu bana getir ve bu sohbete devam edelim."
+
+msgid "I won't be coming anywhere close to you."
+msgstr "Sana yakınlaşmayacağım."
+
+msgid "Fair."
+msgstr "Adil."
+
+msgid "Throw it to me from where you're standing right now then, if you're such a scaredy cat."
+msgstr "Eğer bu kadar korkak kediysen olduğun yerden bana fırlat."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_request.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "...!"
+msgstr "...!"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.unknown"
+msgid "..."
+msgstr "..."
+
+msgid "You tricked me."
+msgstr "Beni kandırdın."
+
+msgid "Not exactly."
+msgstr "Tam olarak değil."
+
+msgid "Just tell me. Did you curse me?"
+msgstr "Sadece söyle. Beni sen mi lanetledin."
+
+msgid "I did not."
+msgstr "Ben yapmadım."
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.lacie"
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "O zaman kim yaptı? Lanetleyebilen tek kişinin sen olduğunu söyledin."
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.unknown"
+msgid "...and live."
+msgstr "...ve yaşatabilen."
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.lacie"
+msgid "...?"
+msgstr "...?"
+
+msgid "Look girlie, you get the drift."
+msgstr "Bak kızım, dediğimi anladın."
+
+msgid "Amazing..."
+msgstr "Harika..."
+
+msgid "I haven't seen a light in years..."
+msgstr "Yıllardır ışık görmedim..."
+
+msgid "So bright..."
+msgstr "Çok parlak..."
+
+msgid "So warm..."
+msgstr "Çok sıcak..."
+
+msgid "*Ahem*"
+msgstr "*Öhöm*"
+
+msgid "Yeah yeah, thanks girlie."
+msgstr "Aynen aynen, sağol kızçe."
+
+msgid "You really did me a solid here."
+msgstr "Bana gerçekten büyük iyilik yaptın."
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.unknown"
+msgid "I'll remember this."
+msgstr "Bunu unutmayacağım."
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.unknown"
+msgid "Here you go."
+msgstr "Al bakalım."
+
+msgid "Thanks."
+msgstr "Teşekkürler."
+
+msgid "What's your name?"
+msgstr "İsmin nedir?"
+
+msgid "There's no need to get buddy-buddy. You won't be alive for long enough for us to meet again."
+msgstr "Can ciğer olmaya gerek yok. Tekrar karşılaşmaya yetecek kadar uzun süre hayatta olmayacaksın."
+
+msgid "...But if we do, I'll make sure to introduce myself properly."
+msgstr "...Ama eğer karşılaşırsak, kendimi doğru düzgün tanıtacağım."
+
+msgid "Why... why are you giving this to me?"
+msgstr "Neden... bunu bana neden veriyorsun?"
+
+msgid "I don't know... just a feeling?"
+msgstr "Bilmiyorum... içimden geldi?"
+
+msgid "Hahahahahaha incredible... were you just screwing with me before?"
+msgstr "Hahahahahaha inanılmaz... az önce benimle dalga geçmiyor muydun?"
+
+msgid "I guess I'm not gonna make you suffer after all."
+msgstr "Sanırım seni süründürmeyeceğim."
+
+msgid "Here, take the slugs as well."
+msgstr "İşte, sümüklü böcekleri de al."
+
+msgid "Huh..."
+msgstr "Ha..."
+
+msgid "I don't know who you are but..."
+msgstr "Kimsin bilmiyorum ama..."
+
+msgid "So... about this room..."
+msgstr "Yani... bu oda..."
+
+msgid "Oh man you're slow. Check the mirror."
+msgstr "Ah adamım çok yavaşsın. Aynayı kontrol et."
+
+msgid "Hahahahahaha oh god... so good..."
+msgstr "Hahahahahaha aman Tanrım... Çok iyi..."
+
+msgid "There's your jar."
+msgstr "İşte kavanozun."
+
+msgid "Good..."
+msgstr "İyi..."
+
+msgid "What would you like to know?"
+msgstr "Ne bilmek istersin?"
+
+msgid "You said you're the only demon who can inflict curses, correct?"
+msgstr "Lanetleyebilen tek iblisin sen olduğunu söyledin, doğru mu?"
+
+msgid "Did you place this curse on me?"
+msgstr "Beni lanetledin mi?"
+
+msgid "I'm the only demon who can inflict curses and LIVE."
+msgstr "Lanetleyebilen ve YAŞATABİLEN tek iblis benim."
+
+msgid "Any demon can place a curse on someone on their dying breath."
+msgstr "Herhangi bir iblis, birisi son nefesindeyken ona bir lanet yerleştirebilir."
+
+msgid "But I can place a thousand, with no repercussions."
+msgstr "Ama ben binlercesini hiçbir geri tepme olmadan yerleştirebilirim."
+
+msgid "(Isn't that a bit OP?)"
+msgstr "(Bu biraz fazla güçlü değil mi?)"
+
+msgid "That sounds too powerful."
+msgstr "Bu kulağa çok güçlü geliyor."
+
+msgid "Why do you think I'm locked up?"
+msgstr "Neden kitliyim sanıyorsun?"
+
+msgid "Red's being a little bitch about it."
+msgstr "Red bu konuda biraz piçlik yapıyor."
+
+msgctxt "events.Ch1_Red_B1F.item_jar_on_prisoner.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're obviously a human with a weird aura."
+msgstr "Besbelli tuhaf auraya sahip bir insansın."
+
+msgid "You lookin' to remove your curse?"
+msgstr "Lanetini kaldırmak mı istiyorsun?"
+
+msgid "Yes."
+msgstr "Evet."
+
+msgid "Then you'd probably need Red's help."
+msgstr "O zaman muhtemelen Red'in yardımına ihtiyacın olacak."
+
+msgid "Yes, that's the idea."
+msgstr "Evet, fikir bu."
+
+msgid "How do you plan to do that?"
+msgstr "Bunu nasıl yapmayı planlıyorsun?"
+
+msgid "Someone told me to go to the lighthouse, so I have to go North."
+msgstr "Birisi bana deniz fenerine gitmemi söyledi, yani kuzeye gitmem gerekiyor."
+
+msgid "Ooh~ North."
+msgstr "Ahh~ kuzey."
+
+msgid "You're gonna die if you go through the locked site, y'know?"
+msgstr "Eğer kilitli siteye girersen öleceksin, biliyorsun değil mi?"
+
+msgid "What other choice do I have?"
+msgstr "Başka ne seçeneğim var?"
+
+msgid "There's always another choice."
+msgstr "Her zaman başka bir seçenek vardır."
+
+msgid "Do you mean that door to the right?"
+msgstr "Sağdaki kapıyı mı kastediyorsun?"
+
+msgid "Is that so..."
+msgstr "Öyle mi..."
+
+msgid "You just haven't looked around this room well enough."
+msgstr "Bu odaya yeterince iyi bakmadın."
+
+msgid "...Actually, I have no idea."
+msgstr "...Aslında, hiçbir fikrim yok."
+
+msgid "Ahahahaha, you crack me up!"
+msgstr "Ahahahaha, beni çatlattın!"
+
+msgid "Any suggestions?"
+msgstr "Başka öneri?"
+
+msgid "Why not follow Red? That little shit left through here last time."
+msgstr "Neden Red'i takip etmiyorsun? Geçen sefer o küçük puşt buradan geçmişti."
+
+msgid "But that was long ago."
+msgstr "Ama bu uzun zaman önceydi."
+
+msgid "Do you mean through that door to the right?"
+msgstr "Sağdaki kapıdan mı demek istiyorsun?"
+
+msgid "Through... here? What do you mean?"
+msgstr "Buradan mı? Ne demek istiyorsun?"
+
+msgid "You haven't looked at this room much, have you?"
+msgstr "Bu odaya pek bakmadın, değil mi?"
+
+msgid "A plain cardboard box."
+msgstr "Düz bir karton kutu."
+
+msgid "Some cardboard boxes."
+msgstr "Bazı karton kutular"
+
+msgid "A blue butterfly."
+msgstr "Mavi bir kelebek."
+
+msgid "A sturdy cage housing a being."
+msgstr "Bir varlığı barındıran sağlam bir kafes."
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_1.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "Çekmeceler boş."
+
+msgid "A jar filled with slugs."
+msgstr "Sümüklü böceklerle dolu bir kavanoz."
+
+msgid "(They're alive in there..)"
+msgstr "(Onlar canlı...)"
+
+msgid "Take ${item:ch1.red_jar}?"
+msgstr "${item:ch1.red_jar} Alacak mısın?"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.choice.Take ${item:ch1.red_jar}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.choice.Take ${item:ch1.red_jar}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "The drawers underneath are empty."
+msgstr "Alttaki çekmeceler boş."
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "Çekmeceler boş."
+
+msgid "Bug-themed lamps."
+msgstr "Böcek temalı lambalar."
+
+msgid "I'm not going to carry the slugs with me..."
+msgstr "Sümüklü böcekleri yanımda taşımayacağım..."
+
+msgid "A large mirror."
+msgstr "Büyük bir ayna."
+
+msgctxt "events.Ch1_Red_B1F.move_secret.dlg.lacie"
+msgid "...?"
+msgstr "...?"
+
+msgid "A door with a keypad has been exposed."
+msgstr "Tuş takımı olan bir kapı açığa çıktı."
+
+msgid "Input a code?"
+msgstr "Kod girilsin mi?"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Input a code?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Input a code?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "Bu tarafa giderek Kozmo'ya yardım edebileceğimi sanmıyorum..."
+
+msgid "Continue down this path?"
+msgstr "Bu yolda devam edecek misin?"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Continue down this path?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Continue down this path?"
+msgid "No"
+msgstr "Hayır"

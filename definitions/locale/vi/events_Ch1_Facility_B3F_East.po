@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I'm sorry for disturbing you."
+msgstr "Xin lỗi vì làm phiền hà chị."
+
+msgid "(She's crying...)"
+msgstr "(Cổ khóc kìa...)"
+
+msgid "How long has she been locked up in here?"
+msgstr "Cổ bị nhốt ở đây bao lâu rồi?"
+
+msgid "I don't know."
+msgstr "Chả biết."
+
+msgid "No hard feelings."
+msgstr "Không thù oán gì đâu."
+
+msgid "You're food, after all."
+msgstr "Các ngươi rốt cuộc là thức ăn mà."
+
+msgid "What are your thoughts?"
+msgstr "Cô bé cảm tưởng sao?"
+
+msgctxt "events.Ch1_Facility_B3F_East.event_spider_force_meet.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "Qua xem thử đi."
+
+msgid "Psst..."
+msgstr "Suỵt..."
+
+msgid "Over here."
+msgstr "Bên đây này."
+
+msgid "A small toy."
+msgstr "Món đồ chơi nhỏ."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Is that... Miss Knives?"
+msgstr "Chị Dao... đó à?"
+
+msgid "Is this what she actually looks like..?"
+msgstr "Cổ thực sự trông như thế sao..?"
+
+msgid "Whoa."
+msgstr "Oa."
+
+msgid "She looks like a used napkin."
+msgstr "Bà cô này trông như cái khăn ăn xài rồi ấy."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "Có vẻ cánh cổng này có thể mở ra được. Mở chứ?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "Mở"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're... Spider?"
+msgstr "Ông là... Nhền Nhện hả?"
+
+msgid "Good work back there. Didn't think you'd actually do it."
+msgstr "Ban nãy xuất xắc đó. Không ngờ là cô bé thực sự làm được rồi."
+
+msgid "It feels good to see this place again."
+msgstr "Được thấy nơi này lần nữa cảm thấy tuyệt vời."
+
+msgid "How's this good? You're locked up."
+msgstr "Tuyệt vời thế nào được? Ông bị giam cầm thế này."
+
+msgid "I don't need much to be content."
+msgstr "Ta không cần bao nhiêu để mà hài lòng cả."
+
+msgid "My cell neighbor keeps me entertained."
+msgstr "Phòng giam bên cạnh làm cho ta được tiêu khiển rồi."
+
+msgid "...?"
+msgstr "...?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "Qua xem thử đi."
+
+msgid "You mean Miss Knives...?"
+msgstr "Ý ông là Chị Dao á...?"
+
+msgid "About Miss Knives..."
+msgstr "Chị Dao thì..."
+
+msgid "Are you surprised?"
+msgstr "Cô bé ngạc nhiên hả?"
+
+msgid "Well... kind of."
+msgstr "Thì... có phần thế."
+
+msgid "She's seen better days."
+msgstr "Cô ta giờ thì tàn tạ rồi."
+
+msgid "But she'll be fine. She's just like a spider."
+msgstr "Nhưng sẽ không sao đâu. Cô ta y như con nhện thôi."
+
+msgid "After a little while, she'll make a new web and entangle everyone in it again."
+msgstr "Mấy lâu sau, cô ta sẽ chăng một cái mạng mới rồi khiến người ta vướng vào một lần nữa."
+
+msgid "I'm curious to see what it will look like next time."
+msgstr "Ta tò mò nhìn xem cái lần đấy sẽ ra gì."
+
+msgid "Huh."
+msgstr "Hừ."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "I see..."
+msgstr "Vậy à..."
+
+msgid "Besides. She does get a visitor every so often."
+msgstr "Vả lại. Cô ta có vị khách lúc này lúc khác ghé thăm."
+
+msgid "Really?"
+msgstr "Thật à?"
+
+msgid "Yes. An intriguing one by the name of Red."
+msgstr "Ừ. Một kẻ lý thú mang cái tên là Red."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Don't look so excited."
+msgstr "Đừng có phấn khích lên thế."
+
+msgid "Red won't be back here anytime soon."
+msgstr "Red không sớm quay trở lại đây khi nào đâu."
+
+msgid "I see."
+msgstr "Ra thế."
+
+msgid "Is Red the lighthouse person?"
+msgstr "Red có phải là người ở cái nhà hải đăng không?"
+
+msgid "Yes..."
+msgstr "Đúng rồi..."
+
+msgid "Ah, damn."
+msgstr "A, chết tiệt."
+
+msgid "Interesting."
+msgstr "Thú vị đấy."
+
+msgid "If the lighthouse is what you're searching for, perhaps this is of use to you."
+msgstr "Nếu nhà hải đăng là cái cô bé đang tìm kiếm, có lẽ món đồ này sẽ được việc."
+
+msgid "Is this... a doorknob to the lighthouse?"
+msgstr "Cái này là... cái núm cửa tới nhà hải đăng à?"
+
+msgid "What remains of it."
+msgstr "Những gì còn lại của nó."
+
+msgid "That's fine, I... I think I know how to fix it."
+msgstr "Thế cũng được, tôi... tôi thấy là tôi biết cách sửa lại rồi."
+
+msgid "This is a big help, Spider."
+msgstr "Vầy là giúp đỡ rất lớn rồi Nhền Nhện."
+
+msgid "Thank you. I appreciate it, even if it's broken."
+msgstr "Cảm ơn. Mặc dù bị vỡ rồi, tôi cũng cảm kích."
+
+msgid "Then consider our debts settled."
+msgstr "Vậy coi như chúng ta xong xuôi nợ nần."
+
+msgid "Spider seems at peace in its cell."
+msgstr "Nhền Nhện có vẻ đang an nhiên trong phòng giam."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "Có vẻ cánh cổng này có thể mở ra được. Mở chứ?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "Mở"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Crayons and children's drawings."
+msgstr "Mấy cây bút sáp và mấy bức vẽ của trẻ con."
+
+msgid "Denomination: G8. Potential: Questionable. Training interrupted."
+msgstr "Chủng danh: G8. Tiềm năng: Nghi vấn. Đã ngắt huấn luyện."
+
+msgid "Requesting installation of an anti-distortion field."
+msgstr "Yêu cầu lắp đặt trường chống bóp méo."
+
+msgid "An old, crusty pillow."
+msgstr "Cái gối cũ kĩ, giòn vỏ."
+
+msgid "Denomination: G11. Potential: High. Training ongoing."
+msgstr "Chủng danh: G11. Tiềm năng: Cao. Đang tiến hành huấn luyện."
+
+msgid "A set of four toy plants."
+msgstr "Cái bộ bốn cái cây đồ chơi."

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The path looks like it should continue here, but it doesn't."
+msgstr "Wydaje się, że ścieżka powinna prowadzić dalej w tym kierunku, ale tak nie jest."
+
+msgid "There's a sign that says [color=#8080FF]\"Daylight Gate\"[/color]. It points straight ahead."
+msgstr "Jest tu znak z napisem [color=#8080FF]\"Brama Światła Dziennego\"[/color]. Pokazuje kierunek na wprost."
+
+msgid "The sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "Na znaku widnieje napis [color=#8080FF]\"Brama Światła Dziennego\"[/color]."
+
+msgid "It's pointing towards the trees."
+msgstr "Skierowany jest w stronę drzew."
+
+msgid "It seems to be a bit loose. You could rotate it to match the other one..."
+msgstr "Wydaje się być nieco luźny. Możnaby go obrócić, aby pasował do drugiego..."
+
+msgid "Let's do it"
+msgstr "Do dzieła"
+
+msgid "Not my job"
+msgstr "To nie moje zadanie"
+
+msgid "It seems to be pointing in the correct direction now."
+msgstr "Wygląda na to, że wskazuje teraz właściwy kierunek."
+
+msgid "There's nothing here."
+msgstr "Tutaj nic nie ma."
+
+msgid "(Hmm... Could it be that the sign is pointing in the wrong direction?)"
+msgstr "(Hmm... Czy to możliwe, że znak wskazuje błędny kierunek?)"

@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait... you made me climb over all those boxes for nothing?"
+msgstr "Чакай... накара ме да се катеря по всички тези кутии напразно?"
+
+msgid "It wasn't for nothing. Exercise is good for you."
+msgstr "Не беше напразно. Упражненията ти се отразяват добре."
+
+msgid "Huuuh?! I can't believe this..."
+msgstr "Хъъъх?! Не мога да повярвам на това…"
+
+msgid "Man... it's really stuffy in there. I don't wanna do that again."
+msgstr "Човече… там е наистина задушно. Не искам да го правя отново."
+
+msgid "It doesn't look like we can reach it to go back anyway."
+msgstr "Не изглежда да можем да го достигнем, за да се върнем обратно."
+
+msgid "What?!"
+msgstr "Какво?!"
+
+msgid "We're stuck?!"
+msgstr "Заседнахме?!"
+
+msgid "There's a door right there."
+msgstr "Ей там има врата."
+
+msgid "Sheesh... why are all the vents exits so high up..."
+msgstr "Леле… защо всички изходи на вентилационните отвори са толкова високо…"
+
+msgid "If you're going to make them traversable, at least put them at a reasonable height."
+msgstr "Ако възнамерявате да ги направите проходими, поне ги поставете на разумна височина."
+
+msgid "A bookshelf with very few remaining books."
+msgstr "Рафт за книги с много малко останали книги."
+
+msgid "Read a passage?"
+msgstr "Прочетете пасаж?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "All of the pages are blank."
+msgstr "Всички страници са празни."
+
+msgid "A bookshelf with very few remaining books. All of their pages are blank."
+msgstr "Рафт за книги с много малко останали книги. Всичките им страници са празни."
+
+msgid "An empty bookshelf."
+msgstr "Празна етажерка."
+
+msgid "...Actually, there's a key at the very back."
+msgstr "...Всъщност има ключ в самия край."
+
+msgid "A purple book."
+msgstr "Лилава книга."
+
+msgid "All of its pages are blank, but you can see a faint outline of some letters."
+msgstr "Всички страници са празни, но се виждат слаби очертания на някои букви."
+
+msgid "(Have all of these books been erased... somehow?)"
+msgstr "(Нима всички тези книги са били изтрити… по някакъв начин?)"
+
+msgid "Someone didn't want to leave any traces here."
+msgstr "Някой не е искал да оставя никакви следи тук."
+
+msgid "I agree."
+msgstr "Съгласен съм."
+
+msgid "There's a hole on the floor."
+msgstr "Има дупка на пода."
+
+msgid "Going down there is out of the question."
+msgstr "За слизане там и дума не може да става."
+
+msgid "Crawl inside?"
+msgstr "Пропълзи вътре?"
+
+msgid "It's not a good idea to go in there without a way out."
+msgstr "Не е добра идея да влизате там без изход."
+
+msgid "A ventilation shaft."
+msgstr "Вентилационна шахта."
+
+msgid "The cover is screwed in."
+msgstr "Капакът е завинтен."
+
+msgid "Hmm..."
+msgstr "Хмм…"
+
+msgid "Ah. I spot a shiny over there."
+msgstr "А. Забелязвам един лъскав предмет там."
+
+msgid "A... \"shiny\"?"
+msgstr "A… \"лъскав\"?"
+
+msgid "You know... a useful item."
+msgstr "Знаеш… полезен предмет."
+
+msgid "How do you know it will be useful..."
+msgstr "Откъде знаеш, че ще е полезно…"
+
+msgid "Might need to push some boxes around to get it though."
+msgstr "Може обаче да се наложи да избуташ някои кутии, за да ги вземеш."
+
+msgid "Arrange the boxes?"
+msgstr "Подредете кутиите?"

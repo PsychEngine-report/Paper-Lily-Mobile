@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "Ủa...? Sao không chạy...?"
+
+msgid "Those two thingies look burnt."
+msgstr "Hai cái cục gì gì đó trông bị cháy rồi."
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "À, hai cái cầu chì bị toang. Thảo nào."
+
+msgid "Let's throw this damaged fuse away."
+msgstr "Vứt cái bị hỏng này đi thôi."
+
+msgid "Why? Just use it as a zero or something."
+msgstr "Chi? Sao không dùng làm số zero hay gì."
+
+msgid "No... that's really not how fuses work."
+msgstr "Không... thật ra cầu chì nó không chạy như thế."
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "Cầu chì hỏng thì không làm kín mạch được."
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "Ra thế... tức là tháo ra thì chỗ đó thành số zero à?"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "Không... tháo cũng... thế cũng không làm kín mạch được. Mình không có tạo số zero được."
+
+msgid "Just... leave this to me, okay?"
+msgstr "Cứ... để cho tôi làm, được không?"
+
+msgid "Roger!"
+msgstr "Đã rõ!"
+
+msgid "You hear something unlocking in the distance."
+msgstr "Bạn nghe thấy ở đằng xa có cái gì đó mở khóa."
+
+msgid "What? I didn't hear anything."
+msgstr "Gì cơ? Tôi có nghe thấy gì đâu."
+
+msgid "...You're breaking my immersion."
+msgstr "...Đang nhập tâm anh lại phá hỏng mất rồi."
+
+msgid "What in the world was that?"
+msgstr "Cái quỷ gì vậy trời?"
+
+msgid "Can't say I didn't warn you."
+msgstr "Chớ bảo tại tôi không cảnh báo đấy nhé."
+
+msgid "Wait."
+msgstr "Từ từ đã."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "Rút cái đó ra có khi là ý vô cùng không hay đấy."
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "Nãy tôi có nhìn thấy mấy cái cửa kiểu này. Thấy chớ có mà mở ra."
+
+msgid "I see..."
+msgstr "Hiểu rồi..."
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Có thể có cách hay hơn không?)"
+
+msgid "Do you think the elevator works now?"
+msgstr "Anh thấy thế này là thang máy hoạt động chưa?"
+
+msgid "Ah, that's satisfying."
+msgstr "Aa, thấy thỏa mãn ghê."
+
+msgid "Good job!"
+msgstr "Giỏi lắm em!"
+
+msgid "That sounded pretty big."
+msgstr "Tiếng nghe khá là to đấy."
+
+msgid "Let's check the water level."
+msgstr "Đi coi mực nước thế nào thôi."
+
+msgid "There's already a handle there."
+msgstr "Chỗ này đã có tay quay rồi."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.event_handle_on_wrong_valve.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Bạn thử khít cái tay quay vào chỗ lắp..."
+
+msgid "But it doesn't fit."
+msgstr "Nhưng nó không vừa."
+
+msgid "The lights... ah... not nice."
+msgstr "Đèn bị... a... không hay rồi."
+
+msgid "Why doesn't this work?"
+msgstr "Sao thế rồi mà không được?"
+
+msgid "We probably need to fill all four slots."
+msgstr "Chắc là mình cần lắp cho đủ cả bốn ổ cơ."
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "Bằng không thì cái bên trong không tiếp xúc được."
+
+msgid "Right, contact."
+msgstr "À phải, tiếp xúc nhỉ."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_1.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Bạn đặt tay quay vào chỗ lắp."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Bạn thử khít cái tay quay vào chỗ lắp..."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Tay quay vừa rồi!"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "Đương nhiên, cái hình thoi chỉ là hình vuông xoay lại thôi mà."
+
+msgid "Yep."
+msgstr "Ừa."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_2_on_valve_2.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Bạn đặt tay quay vào chỗ lắp."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Bạn thử khít cái tay quay vào chỗ lắp..."
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "Em làm gì thế? Hình dạng có khớp nhau đâu."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Tay quay vừa rồi!"
+
+msgid "...Huh."
+msgstr "...Hử."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_3.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Bạn đặt tay quay vào chỗ lắp."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Bạn thử khít cái tay quay vào chỗ lắp..."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Tay quay vừa rồi!"
+
+msgid "Are you switching them around...?"
+msgstr "Em đang hoán đổi mấy cái đó qua lại à...?"
+
+msgid "I'm just trying things."
+msgstr "Tôi thử làm coi thế nào thôi."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_4.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Bạn đặt tay quay vào chỗ lắp."
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "Cái thùng phuy nặng nề. Không di chuyển được."
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "Trên thùng phuy có cái tay quay van và chìa khóa."
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "Lấy ${item:ch1.facility_handle_square} và ${item:ch1.facility_key_archives} chứ?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Some sort of machine."
+msgstr "Vài loại máy móc gì đó."
+
+msgid "It's whirring loudly."
+msgstr "Nó đang chạy vo vo."
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "Vài cái tủ lớn. Bạn chắc hẳn là vào vừa bên trong được."
+
+msgid "There's something in here..."
+msgstr "Trong đây có cái gì đó..."
+
+msgid "There's nothing else of use."
+msgstr "Không còn gì khác được việc."
+
+msgid "A large machine attached to some pipes."
+msgstr "Cái máy lớn được gắn vào mấy cái ống dẫn."
+
+msgid "There's a note here:"
+msgstr "Có tờ ghi ở đây:"
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "\"Phòng khi Khẩn cấp – Hệ thống Tháo nước và Ngập nước"
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "Để hệ thống tháo nước làm việc, đầu tiên phải đặt đúng cầu chì vào chỗ tương ứng."
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "Xoay cả 4 tay quay van, làm thế sẽ kích hoạt cái nước ngập."
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "Việc này không thể đảo ngược, nên đừng làm thế mà không báo cho-\""
+
+msgid "...The rest of the note is torn off."
+msgstr "...Phần còn lại của tờ ghi bị xé mất."
+
+msgid "Looks like an electrical panel."
+msgstr "Trông như cái bảng điện."
+
+msgid "Take a closer look?"
+msgstr "Nhìn kĩ hơn chứ?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Nhìn kĩ hơn"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "Cái chỗ lắp để đặt bánh quay van. Phần lõm vào có dạng hình vuông."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice"
+msgid "Turn it?"
+msgstr "Vặn chứ?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Vặn bánh van"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Gỡ bánh van ra"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Không làm gì"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Cái bánh quay nó không xoay được."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Nó không xoay được nữa đâu."
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "Cái chỗ lắp để đặt bánh quay van. Phần lõm vào có dạng hình ngũ giác."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice"
+msgid "Turn it?"
+msgstr "Vặn chứ?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Vặn bánh van"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Gỡ bánh van ra"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Không làm gì"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Cái bánh quay nó không xoay được."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Nó không xoay được nữa đâu."
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "Cái chỗ lắp để đặt bánh quay van. Phần lõm vào có dạng hình ngôi sao."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice"
+msgid "Turn it?"
+msgstr "Vặn chứ?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Vặn bánh van"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Gỡ bánh van ra"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Không làm gì"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Cái bánh quay nó không xoay được."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Nó không xoay được nữa đâu."
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "Cái chỗ lắp để đặt bánh quay van. Phần lõm vào có dạng hình thoi."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice"
+msgid "Turn it?"
+msgstr "Vặn chứ?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Vặn bánh van"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Gỡ bánh van ra"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Không làm gì"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Cái bánh quay nó không xoay được."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Nó không xoay được nữa đâu."
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "Trông như cái cổng lớn mà ta thấy ban nãy..."
+
+msgid "Doors?"
+msgstr "Cửa?"
+
+msgid "This is probably an elevator."
+msgstr "Cái này chắc hẳn là thang máy."
+
+msgid "Lights."
+msgstr "Đèn."
+
+msgid "Water?"
+msgstr "Nước?"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "Cái ổ trống mà có thể cắm vừa cầu chì vào."
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "(Trông như mình cần phải sắp xếp lại cầu chì để ứng với hiển thị.)"
+
+msgid "An empty fuse slot."
+msgstr "Cái ổ cắm cầu chì đang trống."
+
+msgid "Place a fuse?"
+msgstr "Cắm cầu chì nào vào?"
+
+msgid "Place fuse no.5"
+msgstr "Cắm cầu chì số 5 vào"
+
+msgid "Place fuse no.10"
+msgstr "Cắm cầu chì số 10 vào"
+
+msgid "Place fuse no.15"
+msgstr "Cắm cầu chì số 15 vào"
+
+msgid "Place fuse no.20"
+msgstr "Cắm cầu chì số 20 vào"
+
+msgid "Place fuse no.25"
+msgstr "Cắm cầu chì số 25 vào"
+
+msgid "Place fuse no.40"
+msgstr "Cắm cầu chì số 40 vào"
+
+msgid "Do not"
+msgstr "Không cắm"
+
+msgid "It's a spider!"
+msgstr "Nhện kìa!"
+
+msgid "I see that."
+msgstr "Tôi thấy rồi."
+
+msgid "Are you scared of spiders?"
+msgstr "Em có sợ nhện không?"
+
+msgid "Not really."
+msgstr "Không hẳn."
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "Ơ thế, nếu em thấy nhện trong nhà mình là em cứ KỆ nó vậy à?!"
+
+msgid "That's crazy."
+msgstr "Dễ sợ."
+
+msgid "What else should I be doing?"
+msgstr "Vậy tôi nên làm cái gì khác cơ?"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "Không biết nữa, thấy người ta hầu hết lấy dép đập chết nó hoặc đại loại."
+
+msgid "Why?"
+msgstr "Tại sao?"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "Chịu, bọn nó bò bò này nọ. Ghê lắm."
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "Tại sao nó không có tội tình gì cả mà phải chết?"
+
+msgid "..."
+msgstr "..."
+
+msgid "That's fair."
+msgstr "Nói phải."
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "Bảo em này, tôi không có giết nhện."
+
+msgid "I see."
+msgstr "Vậy à."
+
+msgid "I used to, but now I just put them outside."
+msgstr "Có từng, nhưng giờ tôi chỉ gạt bọn nó ra ngoài thôi."
+
+msgid "Great."
+msgstr "Tốt đấy."
+
+msgid "A spider hangs from here."
+msgstr "Con nhện treo toòng teng từ chỗ đây."
+
+msgid "A spider sits here."
+msgstr "Chỗ này có con nhện bám."
+
+msgid "Take out the fuse?"
+msgstr "Rút cầu chì ra chứ?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "Yes"
+msgstr "Rút ra"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "No"
+msgstr "Thôi"

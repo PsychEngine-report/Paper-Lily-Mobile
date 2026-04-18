@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Вече е отключено."
+
+msgid "The box contains various empty notebooks, textbooks and... chalk."
+msgstr "Кутията съдържа различни празни тетрадки, учебници и… тебешир."
+
+msgid "Take chalk?"
+msgstr "Вземи тебешир?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "There's nothing else of interest."
+msgstr "Няма нищо друго интересно."
+
+msgid "There's some dusty documents that catch your eye."
+msgstr "Има някакви прашни документи, които ви хващат окото."
+
+msgid "Read them?"
+msgstr "Прочети ги?"
+
+msgid "..."
+msgstr "..."
+
+msgid "It's a... lawsuit?"
+msgstr "То е… съдебно дело?"
+
+msgid "What's that doing in a place like this?"
+msgstr "Какво прави на място като това?"
+
+msgid "I heard about that from my dad."
+msgstr "Чух за това от баща ми."
+
+msgid "Supposedly someone sued the school because of their daughter's disappearance."
+msgstr "Предполагам че някой съди училището заради изчезването на дъщеря им."
+
+msgid "Oh, the 2nd year girl?"
+msgstr "Ох, момичето от 2-рата година?"
+
+msgid "I heard something happened, but I didn't know the school was involved."
+msgstr "Чух че нещо се е случило, но не бях сигурна дали училището е замесено."
+
+msgid "I don't know either."
+msgstr "Аз също не знаех."
+
+msgid "But she was last seen at school, so her family was convinced that something happened here and it was covered up."
+msgstr "Но тя е последно видяна в училище, така че семейството й е убедено че нещо се е случило и училището се опитва да го прикрие."
+
+msgid "There's definitely an odd history of disappearances in this town."
+msgstr "Определено има странна история за изчезването в този град."
+
+msgid "When I graduate, I'm out of here."
+msgstr "Когато се дипломирам, се махам оттук."
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Щипката за коса не влиза в тази ключалка."
+
+msgid "The key fits!"
+msgstr "Ключа пасва!"
+
+msgid "The boxes are already open."
+msgstr "Кутийте са вече отворени."
+
+msgid "Boxes filled with rags and other cleaning supplies."
+msgstr "Кутий запълнени с парцали и други почистващи консумативи."
+
+msgid "A sealed box."
+msgstr "Запечатана кутия."
+
+msgid "Some boxes filled with random objects."
+msgstr "Някакви кутии пълни с разнообразни предмети."
+
+msgid "This is the lost and found box!"
+msgstr "Това е кутия за изгубено и намерено!"
+
+msgid "Really?"
+msgstr "Наистина?"
+
+msgid "Look, I found my old shoe."
+msgstr "Виж, открих стара обувка."
+
+msgid "A shoe...?"
+msgstr "обувка...?"
+
+msgid "I lost it years ago."
+msgstr "Изгубих я преди години."
+
+msgid "How do you lose one shoe?"
+msgstr "Как губиш обувка?"
+
+msgid "It just disappeared."
+msgstr "Просто изчезна."
+
+msgid "Oh! My lighter!"
+msgstr "О-о! Запалката ми!"
+
+msgid "Don't you already have a lighter?"
+msgstr "Нямаш ли вече запалка?"
+
+msgid "This is my old one."
+msgstr "Това е старата ми."
+
+msgid "You lost a lighter in the school?"
+msgstr "Изгубила си запалка в училището?"
+
+msgid "No, they confiscated it."
+msgstr "Не, конфискуваха ми я."
+
+msgid "Figures. Lighters can be dangerous."
+msgstr "Цифри. Запалките могат да бъдат опасни."
+
+msgid "Only in the wrong hands."
+msgstr "Само в грешните ръце."
+
+msgid "And yours aren't?"
+msgstr "А твоите не са?"
+
+msgid "You shouldn't bring lighters to school..."
+msgstr "Не бива да носиш запалки в училище…"
+
+msgid "Some used brooms."
+msgstr "Някои използвани метли."
+
+msgid "A calendar and information sheet for the cleaning staff."
+msgstr "Календар и информационен лист за почистващия персонал."
+
+msgid "A cleaning cart."
+msgstr "Почистваща количка."
+
+msgid "It could use some cleaning."
+msgstr "Има нужда от почистване."
+
+msgid "A dusty lamp. The light bulb is missing."
+msgstr "прашна лампа. крушката липсва."
+
+msgid "Well that's ominous."
+msgstr "Е, това е загадъчно."
+
+msgid "A little darkness won't hurt anybody."
+msgstr "малко мрак няма да навреди на никого."
+
+msgid "...Probably."
+msgstr "…Вероятно."
+
+msgid "It doesn't work."
+msgstr "Не работи."
+
+msgid "A large locker that could probably fit a person."
+msgstr "Голямо шкафче, което вероятно би могло да побере човек."
+
+msgid "It's locked."
+msgstr "Заключена е."
+
+msgid "Lots of cleaning supplies. It smells weird."
+msgstr "Много почиствали продукти. Мирише странно."
+
+msgid "Lots of school supplies."
+msgstr "Много училищни пособия."
+
+msgid "Books and paints line the shelves."
+msgstr "Книги и бои подреждат рафтовете."
+
+msgid "There's a small key on one of the shelves."
+msgstr "На един от рафтовете има малък ключ."
+
+msgid "Take it?"
+msgstr "Вземи го?"
+
+msgid "A trash can, even in a place like this."
+msgstr "кошче за боклук, дори и на място като това."
+
+msgid "Why would there be a trash can in a supply closet?"
+msgstr "Защо ще има кошче за боклук в килер за препарати?"
+
+msgid "Maybe it's a spare?"
+msgstr "Може би е резервно?"
+
+msgid "It's... so dark."
+msgstr "Толкова е… мрачно."
+
+msgid "Come on Ponytail, don't chicken out on me now."
+msgstr "Хайде конска опашчице, не бъди пиле точно сега."
+
+msgid "Don't call me that."
+msgstr "Не ме наричай така."
+
+msgid "You have a ponytail, don't you?"
+msgstr "Имаш опашка, нали?"
+
+msgid "I have a name too."
+msgstr "Имам си също и име."

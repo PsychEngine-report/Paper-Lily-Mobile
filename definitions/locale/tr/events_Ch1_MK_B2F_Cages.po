@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "Ah harika, zman geçirmek için bir şeye ihtiyacım vardı."
+
+msgid "You got a crayon too?"
+msgstr "sende ded mi bir pastel boya var?"
+
+msgid "It's not for you."
+msgstr "Bu senin için değil."
+
+msgid "What!?"
+msgstr "Ne!?"
+
+msgid "You about to start cleaning in here?"
+msgstr "Burayı temizlemeye başlayacak mısın?"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "O ayapını niye öyle sallayıp duruyorsun be!?"
+
+msgid "Did you cut it..?"
+msgstr "Kestin mi?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_foot_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I had to."
+msgstr "Yapmak zorundaydım."
+
+msgid "Mhmmm..."
+msgstr "Mhmmm..."
+
+msgid "It's true."
+msgstr "Gerçekten."
+
+msgid "Yeah..."
+msgstr "Tabi..."
+
+msgid "It's a jar."
+msgstr "Bu bir kavanoz."
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_jar_on_sai.dlg.lacie"
+msgid "Yes."
+msgstr "Evet."
+
+msgid "It's empty."
+msgstr "Boş."
+
+msgid "...Yes."
+msgstr "...Evet."
+
+msgid "Why are you showing it to me?"
+msgstr "Bana mı gösteriyorsun?"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "Sadece akıllıca bir yorumunun olup olmadığını görmek istedim."
+
+msgid "It seems you don't."
+msgstr "Yok gibi görünüyor."
+
+msgid "H-Hey!"
+msgstr "H-Hey!"
+
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgid "Thanks!"
+msgstr "Teşekkürler!"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_key_correct_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "(Sai ekibine katıldı.)"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "Bu kafesin bir anahtar deliği yok."
+
+msgid "The key does not fit."
+msgstr "Anahtar uyuşmuyor."
+
+msgid "Um... could you..."
+msgstr "Um... şey yapabilir misin..."
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "Ne? Buradan çıkmama yardım bile etmedin ve kendimi kesmemi mi istiyorsun? "
+
+msgid "Is this how you make friends?"
+msgstr "Böyle mi arkadaş ediniyorsun?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_knife_blk_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "(İşin komik tarafı... Arkadaş edinmiyorum.)"
+
+msgid "That's not gonna cut through this cage."
+msgstr "Bu kafesi kesmek için yeterli olaz."
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "Kundakçı olmadığına emin misin?"
+
+msgid "I won't judge, really."
+msgstr "Vallaha yargılamam."
+
+msgid "...I'm not."
+msgstr "... Değilim."
+
+msgid "I found this, but I don't know how to use it."
+msgstr "Bunu buldum, ama nasıl kullanacağımı bilmiyorum."
+
+msgid "Can you pick your own lock or something?"
+msgstr "Kendi kilidini falan açabilir misin?"
+
+msgid "Sure can!"
+msgstr "Tabi!"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_lockpick_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "(Sai ekibine katıldı.)"
+
+msgid "I still look pretty good, all things considered."
+msgstr "Her şeye rağmen hala iyi görünüyorum."
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_mirror_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "Yani kendin boya yapacak kadar zamanın var ama beni buradan çıkartacak kadar yok mu?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_paint_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Correct."
+msgstr "Doğru."
+
+msgid "A large cage."
+msgstr "Büyük bir kafes."
+
+msgid "A large cage hangs from the ceiling."
+msgstr "Tavandan sallanan büyük bir kafes."
+
+msgid "A small cage housing a crow."
+msgstr "Bir kargaya ev sahipliği yapan küçük bir kafes."
+
+msgid "How cruel, locking up a bird like this."
+msgstr "Bir kuşu böyle hapsetmek ne kadar zalimce."
+
+msgid "...Or is it just a regular pet?"
+msgstr "... ya da normal bir evcil hayvandır?"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "(Kuşu serbest bırakmak için hiçbir yok yok gibi görünüyor.)"
+
+msgid "The crow is dead."
+msgstr "Karga ölmüş."
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "Kahretsin. Bıçaklı kadın muhtemelen buradaydı."
+
+msgid "How do you know?"
+msgstr "Nerden anladın?"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "Yani, tecrübelerime göre kuşlar öylece ölmezler."
+
+msgid "A small cage. It's empty."
+msgstr "Küçük bir kafes. Boş."
+
+msgid "The cage you were trapped in."
+msgstr "Kapana kısıldığın kafes."
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "Her taraftan kapalı, yani içeri girmek imkansız."
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "Dikkatli olalım ki sonum tekrardan orası olmasın."
+
+msgid "So how'd you... get out?"
+msgstr "Peki oradan nasıl... çıktın?"
+
+msgid "I'm not sure."
+msgstr "Emin değilim."
+
+msgid "You were here, didn't you see it?"
+msgstr "Sen buradaydın, görmedin mi?"
+
+msgid "I wasn't paying attention."
+msgstr "Dikkat etmiyordum."
+
+msgid "Good job getting out of that."
+msgstr "Oradan çıkarak iyi iş başardın."
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "Ne yaptığını görmedim, fakat sert çelik barlardan geçmekte iyi olmalısın."
+
+msgid "Thanks."
+msgstr "teşekkürler."
+
+msgid "Looks like you're in a bind yourself."
+msgstr "Görünüşe göre senin de başın belada."
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "(Eğer o bir iblisse güçlerini kaçmak için kullanmış olabilir... değil mi?"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "(Ya da umrunda bile değildir...?)"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "Dinle, muhtemelen burada kalmamalısın."
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "Eğer o canavar kadın yaptığın sesi duyduysa ve kontrol etmeye gelirse, başın belaya girecek biliyorsun değil mi?"
+
+msgid "Hmm... you're right."
+msgstr "Hmm... haklısın."
+
+msgid "Well, see you."
+msgstr "peki, göüşürüz."
+
+msgid "Where are you going?"
+msgstr "nereye gidiyorsun?"
+
+msgid "I'm going to look around a bit."
+msgstr "Biraz etrafa bakacağım."
+
+msgid "...and...?"
+msgstr "...ve...?"
+
+msgid "I should try to find an exit too."
+msgstr "Bir çıkış da bulmaya çalışmalıyım."
+
+msgid "...And nothing else...?"
+msgstr "... ve başka yok mu...?"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Are you serious? Get me out of here!"
+msgstr "Ciddi misin? Çıkart beni buradan!"
+
+msgid "Ah, of course."
+msgstr "Ah, tabi."
+
+msgid "Sure, I'll try."
+msgstr "Tamam, deneyeceğim."
+
+msgid "...Alright."
+msgstr "... Tamam."
+
+msgid "I lost all my items..."
+msgstr "Tüm eşyalarımı kaybettim..."
+
+msgid "Do you still have your belongings?"
+msgstr "Kişisel eşyaların hala sende mi?"
+
+msgid "My stuff? It's all gone."
+msgstr "Eşyalarım mı? Hiç biri yok."
+
+msgid "I guess the demon lady took it."
+msgstr "Galiba iblis kadın aldı."
+
+msgid "I see..."
+msgstr "Anladım..."
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "(Bu çok kötü. Eve eşyalarım olmadan dönemem.)"
+
+msgid "You're back."
+msgstr "Döndün."
+
+msgid "Any clues?"
+msgstr "Bir ipucu var mı?"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "Evet, bir örümceklee konuştum."
+
+msgid "You spoke to a spider...?"
+msgstr "Bir örümcekle mi konuştun...?"
+
+msgid "And did the spider speak back?"
+msgstr "Örümcek de geri konuştu mu?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "Yes."
+msgstr "Evet."
+
+msgid "Ok, that's kinda intriguing."
+msgstr "Tamam, bu biraz ilginç."
+
+msgid "He told me what to do to get out of here."
+msgstr "Buradan çıkmak için ne yapılması gerektiğini söyledi."
+
+msgid "Really?"
+msgstr "Cidden mi?"
+
+msgid "Yes. I'll take care of it."
+msgstr "Evet. halledeceğim."
+
+msgid "Aaaalright."
+msgstr "Taaamaaammm."
+
+msgid "I'll just... be here."
+msgstr "Ben... burada olacağım."
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Well, see you later."
+msgstr "Pekala, görüşürüz."
+
+msgid "Got it."
+msgstr "tamamdır."
+
+msgid "If you want a lollipop I have more."
+msgstr "Eğer lolipop istiyorsan bende biraz daha var."
+
+msgid "No thank you."
+msgstr "Yok sağol."
+
+msgid "Be careful out there."
+msgstr "Orada dikkatli ol."
+
+msgid "The cage Sai was in."
+msgstr "Sai'nin olduğu kafes."
+
+msgid "Sai isn't here anymore."
+msgstr "Sai artık burada değil."
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "Hey hey... öylece gidecek misin...?"
+
+msgid "Wait."
+msgstr "Bekle."
+
+msgid "Hm?"
+msgstr "Hm?"
+
+msgid "What did you try to buy?"
+msgstr "Ne almaya çalıştın?"
+
+msgid "...What?"
+msgstr "...Ne?"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "Bu gün dükkandan bir şey almaya çalıştığını söylemiştin."
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "...Bunu niye şimdi soruyorsun?"
+
+msgid "Just curious."
+msgstr "Sadece merak ettim."
+
+msgid "...It was just a flan."
+msgstr "...Sadece bir meyveli pastaydı."
+
+msgid "...It was just some macarons."
+msgstr "...Sadece bir kaç makarondu."
+
+msgid "...It was just a chocolate eclair."
+msgstr "...Sadece çikolatalı eklerdi."
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.sai"
+msgid "Huh."
+msgstr "Huh."
+
+msgid "So you like flan?"
+msgstr "Meyveli pastayı beğendin mi?"
+
+msgid "So you like macarons?"
+msgstr "Makaronları beğendin mi?"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "Ekleri beğendin mi? yoksa sadece çikolatayı mı?"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "Gerçekten bu konuşmayı yapmanın zamanı şimdi mi?"
+
+msgid "When else? I'm bored now, not later."
+msgstr "Başka ne zaman olacak ki? Sıkıldım."
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "Bu kafeste çok yapabileceğim şey yok zaten."
+
+msgid "...I'm leaving."
+msgstr "...Gidiyorum."
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "Bekle, en azından bana adını söyle, ben de seni yalnız bırakayım!"
+
+msgid "...Sigh."
+msgstr "...Öfff."
+
+msgid "It's Lacie."
+msgstr "Adım Lacie."
+
+msgid "Will that be all?"
+msgstr "Bu kadar mı?"
+
+msgid "Yeah!"
+msgstr "Evet!"
+
+msgid "I'll be going then."
+msgstr "Gidiyorum o zaman."
+
+msgid "Good luck, try not to get killed."
+msgstr "İyi şanslar, ölmemeye çalış."
+
+msgid "...Mhm."
+msgstr "...Mhm."
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'm not sure where I am right now..."
+msgstr "Nerede olduğumdan emin değilim...."
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "Ama yapmam gereken tek şey o canavara yakalanmadan çıkışı bulmak."
+
+msgid "...Or should I help that guy first?"
+msgstr "... ya da ilk o çocuğa mı yardım etsem?"
+
+msgid "Um, so..."
+msgstr "Um, yani..."
+
+msgid "The knives lady was here."
+msgstr "Bıçaklı kadın burada."
+
+msgid "She pulverized that bird."
+msgstr "O kuşu toza döndürdü."
+
+msgctxt "events.Ch1_MK_B2F_Cages.on_enter_sai_crow_react.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It was crazy, I thought I was toast."
+msgstr "Acayipti, tost oldum sandım."
+
+msgid "Where did she go after?"
+msgstr "Nereye gitti?"
+
+msgid "No clue."
+msgstr "Hiçbir fikrim yok."

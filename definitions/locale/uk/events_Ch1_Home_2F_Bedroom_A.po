@@ -1,0 +1,284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "As I thought... the internet is not working."
+msgstr "Як і гадала... інтернет не працює."
+
+msgid "Thankfully, I saved that post as a PDF."
+msgstr "На щастя, я зберегла інструкції у форматі PDF."
+
+msgid "\"What to do if you mess up bus ritual\""
+msgstr "\"Що робити, якщо провалив ритуал\""
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"i was about to do the bus ritual, and saw that there are no clues about what to do if the bus doesnt come or something"
+msgstr ""
+"[color=green]shipastka2, 1 рік тому[/color]\n"
+"я тільки думав провести автобусний ритуал, але нічо ніде не написано, шо робить, якщо автобус не прийде"
+
+msgid "someone here said that leaving a ritual half-done can be rly bad, so i'm just asking to be safe"
+msgstr "тут хтось писав що все кидати на середині шляху не треба, або капець буде, питаю для власної безпеки"
+
+msgid ""
+"[color=green]miko_baby, 1 year ago[/color]\n"
+"I don't guarantee this will work, as I haven't personally tried the bus ritual. But! My family works at a shrine so I have some experience with banishing spirits. The steps should be:"
+msgstr ""
+"[color=green]miko_baby, 1 рік тому[/color]\n"
+"Не гарантую, що все спрацює, оскільки я сама не проводила ритуал з автобусом. Але моя родина працює в храмі, тому зганяти духів я вмію! Ось що треба робити:"
+
+msgid ""
+"1) Untie the red string or thread or whatever you used from the phone.\n"
+"2) Take a whole bunch of salt, any salt, and pour it in front of any exit doors of your home (indoors)."
+msgstr ""
+"1) Розв'яжи червону стрічку, нитку чи що ти там в'язав до телефону.\n"
+"2) Візьми купу будь-якої солі та насипай її на всі двері, що ведуть на вулицю (зсередини дому)."
+
+msgid ""
+"Make sure to pour salt on EVERY exit (windows aren't necessary though).\n"
+"That's all! Hope this helps!"
+msgstr ""
+"Сіль треба сипати на ВСІ ВИХОДИ (але на вікна не обов'язково).\n"
+"Ось і все! Сподіваюсь, допомогла!"
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"thanks!"
+msgstr ""
+"[color=green]shipastka2, 1 рік тому[/color]\n"
+"спасибі!"
+
+msgid "[User marked this thread as solved]"
+msgstr "[Користувач відмітив питання як вирішене]"
+
+msgid "In other words, remove the red string from the phone and scatter salt in front of the front door, the back door and the garage door."
+msgstr "Тобто треба прибрати стрічку з телефона, розсипати сіль на парадних дверях, дверях, що ведуть в сад та дверях гаража."
+
+msgid "It sounds a little weak for a ritual but... it's better than nothing."
+msgstr "Якось слабкувато для ритуалу, але... краще так, ніж сидіти склавши руки."
+
+msgid "I'd rather not change right now..."
+msgstr "Щось мені не кортить перевдягатись..."
+
+msgid "My digital alarm clock."
+msgstr "Мій електронний годинник."
+
+msgid "I'm so used to pushing snooze on this thing-"
+msgstr "Я так звикла натискати на кнопку та знову лягати спати..."
+
+msgid "I hope I don't do it again out of reflex and ruin the ritual."
+msgstr "Сподіваюсь, що цей рефлекс сьогодні не спрацює, щоб я не провалила ритуал."
+
+msgid "Set it for midnight?"
+msgstr "Завести на опівніч?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "It's done."
+msgstr "Готово."
+
+msgid "It's set to ring at midnight."
+msgstr "Він заведений на опівніч."
+
+msgid "My bed."
+msgstr "Моє ліжко."
+
+msgid "Go to sleep?"
+msgstr "Лягти спати?"
+
+msgid "There's something I need to tell Hiro first."
+msgstr "Спершу треба дещо сказати Хіро."
+
+msgid "I should take the stuff I left by the window, or I'm going to forget it here."
+msgstr "Треба забрати з підвіконня свої речі, інакше так їх і залишу."
+
+msgid "I need to finish cleaning up the ritual first..."
+msgstr "Треба спочатку прибратися після ритуалу..."
+
+msgid "A book on the occult."
+msgstr "Книга про окультизм."
+
+msgid "Read a passage?"
+msgstr "Прочитати абзац?"
+
+msgid "\"Salt is important when dealing with demons. For best results, a handful must be thrown at the target.\""
+msgstr "\"Сіль важлива, коли справа доходить до боротьби з демонами. Для досягнення найкращого результату необхідно кинути жменю солі в ціль.\""
+
+msgid "A bookshelf with school related books."
+msgstr "Книжкова шафа зі шкільними підручниками."
+
+msgid "Manga and other non-academic stuff gets to go in the bottom compartment."
+msgstr "Манга та інші нешкільні книжки зберігаються у нижньому відсіку."
+
+msgid "Blue... Pink... Looks like I don't have any red markers."
+msgstr "Синій... Рожевий... Схоже, у мене немає червоного маркера."
+
+msgid "Maybe in my parents' room?"
+msgstr "Може, у спальні батьків знайдеться?"
+
+msgid "Maybe downstairs?"
+msgstr "Може, на першому поверсі знайдеться?"
+
+msgid "My computer chair."
+msgstr "Мій стілець на колесах."
+
+msgid "The instructions are simple enough. No need to check again."
+msgstr "Інструкції досить прості. Немає необхідності ще раз дивитись."
+
+msgid "Sit at the computer?"
+msgstr "Сісти за комп'ютер?"
+
+msgid "A gaming console."
+msgstr "Ігрова консоль."
+
+msgid "There's no time for games right now."
+msgstr "Зараз у мене немає часу на ігри."
+
+msgid "My computer. It's always on."
+msgstr "Мій комп'ютер. Він завжди увімкнений."
+
+msgid "My desk."
+msgstr "Мій стіл."
+
+msgid "The mugs pile up here. The drawers contain school papers."
+msgstr "Тут в купу збираються чашки. У шухлядках лежать шкільні роздруківки."
+
+msgid "Leftover orange juice."
+msgstr "Залишки апельсинового соку."
+
+msgid "It's too warm to drink now."
+msgstr "Випити не вийде - він занадто теплий."
+
+msgid "Some blank paper."
+msgstr "Пусті аркуші паперу."
+
+msgid "I doodle sometimes."
+msgstr "Іноді я чиркаю всілякі каракулі."
+
+msgid "A plant."
+msgstr "Рослина."
+
+msgid "The best plant in this house."
+msgstr "Найкраща рослина в цьому домі."
+
+msgid "Some cute posters."
+msgstr "Милі плакати."
+
+msgid "A fancy glass table."
+msgstr "Розкішний скляний столик."
+
+msgid "An overflowing trash can."
+msgstr "Відро зі сміттям, яке валиться через край."
+
+msgid "Since you're the one who filled it up, there's no point in emptying it."
+msgstr "Оскільки ви причина цієї купи сміття, прибирати її немає сенсу."
+
+msgid "My trash can."
+msgstr "Моє відро для сміття."
+
+msgid "A TV."
+msgstr "Телевізор."
+
+msgid "This TV is solely used to dock the game console."
+msgstr "Він працює виключно як монітор для консолі."
+
+msgid "It's too dark to see right now."
+msgstr "Занадто темно, аби щось побачити."
+
+msgid "A window."
+msgstr "Вікно."
+
+msgid "A cozy gaming space by the window."
+msgstr "Затишний геймерський куток у вікна."
+
+msgid "..."
+msgstr "..."
+
+msgid "Various bows and hair decorations."
+msgstr "Різноманітні банти та прикраси для волосся."
+
+msgid "There's some red ribbon here."
+msgstr "А ще тут є червона стрічка."
+
+msgid "Take ${item:ch1.ribbon}?"
+msgstr "Взяти предмет: ${item:ch1.ribbon}?"
+
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "Одяг, який мені подарували. Ще не час його розпаковувати."
+
+msgid "Some clothes."
+msgstr "Просто одяг."
+
+msgid "A calendar. It's still stuck in March, 6 months ago."
+msgstr "Календар. Він застряг у березні, 6 місяців тому."
+
+msgid "Is there even a point in turning the pages?"
+msgstr "Чи є сенс перегортати сторінки?"
+
+msgid "The year is more or less over anyways."
+msgstr "Рік все одно плюс-мінус завершився."
+
+msgid "Lacie's diary."
+msgstr "Щоденник Лейсі."
+
+msgid "I don't feel like going through it right now."
+msgstr "Мені зараз не хочеться його читати."
+
+msgid "I should take all of this with me."
+msgstr "Треба все це забрати з собою."
+
+msgid "My notebook, to organize my thoughts..."
+msgstr "Нотатник, щоб записувати думки..."
+
+msgid "...the rune for the ritual..."
+msgstr "...руна для ритуалу..."
+
+msgid "...salt, for self defense..."
+msgstr "...сіль для самооборони..."
+
+msgid "...and finally, this thing."
+msgstr "...і ще ось ця штукенція."
+
+msgid "If the information I got is accurate, then this is my ticket back home."
+msgstr "Якщо вірити тій інформації, це мій квиток назад додому."
+
+msgid "(You placed the letter and to-do list into the notebook.)"
+msgstr "(Ви поклали лист та список справ у нотатник.)"
+
+msgid "A happy little green plant."
+msgstr "Щаслива зелена рослинка."
+
+msgid "It doesn't need a lot of watering, thankfully..."
+msgstr "На щастя, вона не жадібна до поливу..."
+
+msgid "Your TamaGhost™."
+msgstr "Ваш віртуальний домашній улюбленець TamaGhost™."
+
+msgid "I already fed it today."
+msgstr "Я вже його нагодувала."
+
+msgid "(You fed your TamaGhost™)."
+msgstr "(Ви нагодували свого TamaGhost'а™)."
+
+msgid "An umbrella."
+msgstr "Парасолька."
+
+msgid "It's nice outside."
+msgstr "На вулиці гарно."
+
+msgid "But not nice enough to want to go back out."
+msgstr "Проте недостатньо гарно, аби знову туди піти."

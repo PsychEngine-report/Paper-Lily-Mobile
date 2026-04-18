@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Didn't catch your name earlier."
+msgstr "剛剛沒聽清楚妳的名字。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Yeah... I see."
+msgstr "是啊...我明白了。"
+
+msgid "What's up?"
+msgstr "哈囉？"
+
+msgid "What... what was that thing?"
+msgstr "那是...那是什麼？"
+
+msgid "Huh, you can talk."
+msgstr "啊，妳會說話啊。"
+
+msgid "I dunno. They call it a primal demon."
+msgstr "不知道。他們被稱作原始惡魔。"
+
+msgid "Primal?"
+msgstr "原始？"
+
+msgid "Well, if you consider all these lively fellows you encountered \"demons\"..."
+msgstr "是這樣，如果妳認為妳遇到的那些傢伙是\"惡魔\"的話..."
+
+msgid "...then that would make those shadowy ones \"primal demons\"."
+msgstr "...那麼這種陰暗的東西就是\"原始惡魔\"。"
+
+msgid "(Hm...)"
+msgstr "(嗯...)"
+
+msgid "What else do you know?"
+msgstr "你還知道些什麼？"
+
+msgid "I know lots of stuff."
+msgstr "我知道很多東西。"
+
+msgid "About primal demons?"
+msgstr "關於原始惡魔呢？"
+
+msgid "Ahh, about that..."
+msgstr "啊，關於它們啊..."
+
+msgid "Not much."
+msgstr "不多。"
+
+msgid "I know they'll kill whatever crosses their path."
+msgstr "我知道它們會殺了任何出現在面前的事物。"
+
+msgid "Contrary to other demons, which will mostly only kill you if you're human."
+msgstr "與其它惡魔相比，它們只會殺掉人類。"
+
+msgid "Hm..."
+msgstr "嗯..."
+
+msgid "Let's wait here a bit longer."
+msgstr "讓我們再等一下。"
+
+msgid "It might be gone."
+msgstr "它可能走了。"
+
+msgid "It's up to you when you wanna go back out."
+msgstr "妳想什麼時候回去由妳決定。"
+
+msgid "Are you going outside?"
+msgstr "要出去嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "I guess the coast is clear."
+msgstr "我想警報已經解除了。"
+
+msgid "(Will I find any clues in a place like this...?)"
+msgstr "(我有辦法在這種地方找到線索嗎...？)"
+
+msgid "(Maybe I should focus on getting out of here.)"
+msgstr "(也許我該專心想著怎麼離開這裡。)"
+
+msgid "(Alright.)"
+msgstr "(好吧。)"
+
+msgid "You still use a flip phone?!"
+msgstr "妳還在用翻蓋手機？！"
+
+msgid "Why??"
+msgstr "為什麼？？"
+
+msgid "(It's just fun to flip it open...)"
+msgstr "(把它翻開來很好玩...)"
+
+msgid "Cool, you've got one of those doorknobs."
+msgstr "酷，妳有一顆那種門把。"
+
+msgid "It's pretty fun to see where they take you."
+msgstr "看看它們會把妳帶到哪去很有趣。"
+
+msgid "Ooh, it's one of those cool rocks."
+msgstr "喔~，是那種很酷的石頭。"
+
+msgid "Did you know they glow in the dark?"
+msgstr "妳知道它們會在黑暗中發光嗎？"
+
+msgid "Really?"
+msgstr "真的嗎？"
+
+msgid "No."
+msgstr "不是。"
+
+msgid "But you totally fell for that!"
+msgstr "但是妳上當了！"
+
+msgid "A bloody bag. It smells putrid."
+msgstr "血淋淋的袋子。有著腐敗的味道。"
+
+msgid "An operating table. It has faint blood stains."
+msgstr "手術檯。有淡淡的血漬。"
+
+msgid "An operating table."
+msgstr "手術檯。"
+
+msgid "(What's with the strange shape of this bed...?)"
+msgstr "(這檯子為什麼形狀怪怪的...？)"
+
+msgid "Looks like human bones."
+msgstr "看起來像是人骨。"
+
+msgid "A fallen book."
+msgstr "掉下來的書。"
+
+msgid "Read a passage?"
+msgstr "閱讀其中一段嗎？"
+
+msgid "\"The soul does not reside in a specific physical location."
+msgstr "\"靈魂不會存在於特定的物理位置。"
+
+msgid "The torso must be dissected in its entirety in order for extraction to be successful.\""
+msgstr "軀幹必須被完成剖開才能成功擷取。\""
+
+msgid "A broken container. Whatever was inside is long gone."
+msgstr "破掉的容器。裡面的東西早就不存在了。"
+
+msgid "A cage filled with bones."
+msgstr "裝滿骨頭的籠子。"
+
+msgid "Medication bottles and small bones fill the countertop."
+msgstr "藥罐和小型骨頭擺滿了檯面。"
+
+msgid "There's something in the drawer."
+msgstr "抽屜裡有東西。"
+
+msgid "There's nothing else of use."
+msgstr "沒有什麼有用的東西了。"
+
+msgid "There's a gate here, but it's locked."
+msgstr "有扇大門，但是被鎖住了。"
+
+msgid "Strange goop surrounds the well. It looks like it could come alive."
+msgstr "奇怪的黏液圍繞著井。感覺就像會活過來一樣。"
+
+msgid "...Indeed, the expected outcome of a light switch."
+msgstr "...確實，就是電燈開關的預期結果。"
+
+msgid "The lights aren't working right now."
+msgstr "電燈壞了。"
+
+msgid "Let's not do that."
+msgstr "最好別這麼做。"
+
+msgid "A closet for medical supplies."
+msgstr "存放醫療用品的櫥櫃。"
+
+msgid "It's empty, save for some dirty rags."
+msgstr "空的，只剩一些髒布。"
+
+msgid "(It smells...really bad.)"
+msgstr "(聞起來...真的很糟。)"
+
+msgid "An incubator of some sort. It's warm to the touch."
+msgstr "某種孵化器。 摸起來很溫暖。"
+
+msgid "An incubator of some sort. It's broken and nothing's left inside."
+msgstr "某種孵化器。 已經破掉了，裡面沒有任何東西。"
+
+msgid "A well."
+msgstr "一口井。"
+
+msgid "There's probably nothing else of use in there."
+msgstr "裡面大概沒有什麼有用的東西了。"
+
+msgid "Rotate the lever?"
+msgstr "旋轉操作桿嗎？"
+
+msgid "A whiteboard that has been mostly erased. Only a few sticky notes with strange symbols remain."
+msgstr "大半部分已經被擦除的白板。只剩下幾張有著奇怪符號的便利貼。"
+
+msgid "Don't go out, it's still there."
+msgstr "別出去，它還在。"

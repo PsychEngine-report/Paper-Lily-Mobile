@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hey, where do you think you're going?"
+msgstr "おい、どこ行く気だよ？"
+
+msgctxt "events.Ch1_BlackPass_Classroom.event_bouncer.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_BlackPass_Classroom.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "There she is."
+msgstr "いたぞ。"
+
+msgid "That's her?"
+msgstr "あれか？"
+
+msgid "She's so cursed that the bird dropped dead."
+msgstr "あいつの呪いのせいで、鳥も死んで落ちてきたらしいぜ。"
+
+msgid "If she can make a bird die, I wonder what she could do to people."
+msgstr "鳥が殺せるなら、人間はどうなるんだろうな。"
+
+msgid "What a freak."
+msgstr "バケモノめ。"
+
+msgid "Hey, you killed that poor bird."
+msgstr "おい、おまえがこのかわいそうな鳥を殺したんだろ。"
+
+msgid "...N-no..."
+msgstr "……ち――違う……"
+
+msgid "It flew into the window next to YOUR seat."
+msgstr "おまえの席のすぐ横の窓にぶつかって死んだんだぞ。"
+
+msgid "...but.. I didn't..."
+msgstr "……でも……私は……"
+
+msgid "It died because of you."
+msgstr "おまえのせいで死んだんだ。"
+
+msgid "This is your fault."
+msgstr "おまえが悪い。"
+
+msgid "Aargh!"
+msgstr "ぐあぁぁ！"
+
+msgid "........"
+msgstr "……"
+
+msgid "What the hell!?"
+msgstr "何だ!?"
+
+msgid "Did she kill him?"
+msgstr "あいつが殺した？"
+
+msgid "Is he dead?"
+msgstr "死んだのか？"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.unknown"
+msgid "MURDERER!"
+msgstr "人殺し！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.unknown"
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "人殺し！　人殺し！　人殺し！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.lacie"
+msgid "....."
+msgstr "……"
+
+msgid "Wait... what are you doing!?"
+msgstr "待って……何してるの!?"
+
+msgid "I'm doing something, unlike you."
+msgstr "あなたと違って、何かをしてるの。"
+
+msgid "AAAAH!"
+msgstr "あああああ！"
+
+msgid "She killed him!"
+msgstr "殺した！"
+
+msgid "Oh my god! She's crazy!"
+msgstr "何なんだよ！　狂ってる！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.unknown"
+msgid "MURDERER!"
+msgstr "人殺し！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.unknown"
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "人殺し！　人殺し！　人殺し！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.lacie"
+msgid "....."
+msgstr "……"
+
+msgid "Pick up ${item:global.reditem_3}?"
+msgstr "${item:global.reditem_3} を取る？"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_red_item_get.choice.Pick up ${item:global.reditem_3}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_red_item_get.choice.Pick up ${item:global.reditem_3}?"
+msgid "No"
+msgstr "取らない"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "This isn't my fault..."
+msgstr "私のせいじゃない……"
+
+msgid "Can't believe you're still acting innocent."
+msgstr "信じらんないな、まだ無実のふりかよ。"
+
+msgid "You disgust me."
+msgstr "吐き気がする。"
+
+msgid "You cause nothing but ruin everywhere you go!"
+msgstr "どこに行ってもぶち壊してばかり！"
+
+msgid "I-I'm sorry... I'm really sorry... I don't do it on purpose... I didn't do anything..."
+msgstr "ご――ごめんなさい……本当にごめんなさい……わざとじゃないの……何もしてないの……"
+
+msgid "Maybe you SHOULD do something..."
+msgstr "むしろ、何かするべきなのかもな……"
+
+msgid "...Huh?"
+msgstr "……え？"
+
+msgid "...To make it up to us. Why don't you take responsibility for messing up everything?"
+msgstr "……償いのために。何もかも台無しにした責任を取ったらどうだ？"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.lacie"
+msgid "....."
+msgstr "……"
+
+msgid "...H-How...?"
+msgstr "……ど――どうやって……？"
+
+msgid "Hmmm."
+msgstr "うーーん。"
+
+msgid "Make her eat it!"
+msgstr "食わせろ！"
+
+msgid "Yeah! Eat the bird!"
+msgstr "そうだ！　鳥を食わせろ！"
+
+msgid "...What..?!"
+msgstr "……な……!?"
+
+msgid "You heard them."
+msgstr "聞こえただろ。"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.unknown"
+msgid "Eat it, witch."
+msgstr "食えよ、魔女。"
+
+msgid "If you eat it, maybe we'll forgive you."
+msgstr "食ったら許してやるかもな。"
+
+msgid "Eat the bird, murderer."
+msgstr "食えよ、人殺し。"
+
+msgid "(This isn't real...)"
+msgstr "(これは現実じゃない……)"
+
+msgid "(Do I really have to do this...?)"
+msgstr "(本当にこんなことする必要があるの……？)"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice.(Do I really have to do this...?)"
+msgid "Eat the bird"
+msgstr "鳥を食べる"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice.(Do I really have to do this...?)"
+msgid "Do not"
+msgstr "食べない"
+
+msgid "Take the _____"
+msgstr "_____を取る"
+
+msgid "(Will this get them to stop...?)"
+msgstr "(これでやめてくれるの……？)"
+
+msgid "(Ugh... I feel sick...)"
+msgstr "(うぐ……気持ち悪い……)"
+
+msgid "She actually did it! She's insane!"
+msgstr "マジで食ったぞ！　いかれてる！"
+
+msgid "She's such a freak! HAHAHAHA!"
+msgstr "バケモノなんだよ！　アハハハハ！"
+
+msgid "HAHAHAHA It's all bloody now!"
+msgstr "ハハハハハ、血まみれだぞ！"
+
+msgid "HAHAHAHAHA"
+msgstr "ハハハハハハハ"
+
+msgid "HAHAHAHAHAHAHAHAHAHAHA"
+msgstr "ハハハハハハハハハハハハハハハ"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Stab self"
+msgstr "自分を刺す"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Do not"
+msgstr "刺さない"
+
+msgid "(This dream...)"
+msgstr "(この夢から……)"
+
+msgid "(The easiest way to get out...)"
+msgstr "(一番簡単に出る方法……)"
+
+msgid "(It's obvious, isn't it?)"
+msgstr "(そんなの分かりきってる、でしょ？)"
+
+msgid "...Ah! It hurts! ...it hurts..."
+msgstr "……あぁ！　痛い！　……痛い……"
+
+msgid "...When am I waking up..."
+msgstr "……いつ目が覚めるの……"
+
+msgid "...Let this stupid... nightmare... end..."
+msgstr "……早く……この……バカげた悪夢を……終わらせて……"
+
+msgid "...Why..."
+msgstr "……なんで……"
+
+msgid "...It's just a dream... so why..."
+msgstr "……ただの夢なのに……どうして……"
+
+msgid "...It hurts..."
+msgstr "……痛い……"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Eat the bird"
+msgstr "鳥を食べる"
+
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgid "There's nothing else to do here."
+msgstr "ここで他にすることはない。"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_person_left.dlg.unknown"
+msgid "Eat it, witch."
+msgstr "食えよ、魔女。"
+
+msgid "Sorry, I can't let you pass."
+msgstr "ごめん、ここは通せない。"
+
+msgid "Please?"
+msgstr "お願い。"
+
+msgid "Just do what they say."
+msgstr "みんなの言う通りにして。"
+
+msgid "(A strong force prevents you from entering the wardrobe.)"
+msgstr "(強い力が衣装戸棚に入るのを阻んでいる。)"
+
+msgid "(Push through?)"
+msgstr "(むりやり入る？)"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_wardrobe.choice.(Push through?)"
+msgid "Yes"
+msgstr "入る"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_wardrobe.choice.(Push through?)"
+msgid "No"
+msgstr "入らない"
+
+msgid "\"MURDERER\""
+msgstr "「人殺し」"
+
+msgid "The passageway has closed behind you."
+msgstr "もと来た道は閉ざされている。"

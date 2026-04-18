@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The little girl is swaying slowly."
+msgstr "A menina está balançando lentamente."
+
+msgid "Hello."
+msgstr "Olá."
+
+msgid "..."
+msgstr "..."
+
+msgid "Um.... What do you do here?"
+msgstr "Hum.... O que você faz aqui?"
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Is she... giving me something?"
+msgstr "Ela está... me dando alguma coisa?"
+
+msgid "Oh... Thank you."
+msgstr "Ah... obrigada."
+
+msgid "I guess."
+msgstr "Eu acho."
+
+msgid "(The shadow girl happily takes the bunny off your hands.)"
+msgstr "(A garota das sombras felizmente tira o coelho de suas mãos.)"
+
+msgid "(The shadow girl lovingly takes the caterpillar from you.)"
+msgstr "(A garota das sombras amorosamente tira a lagarta de você.)"
+
+msgid "(The shadow girl happily accepts the fireflies.)"
+msgstr "(A garota das sombras aceita alegremente os vaga-lumes.)"
+
+msgid "(The shadow girl takes the fragment and looks up at you.)"
+msgstr "(A garota das sombras pega o fragmento e olha para você.)"
+
+msgid "...? ...?"
+msgstr "...? ...?"
+
+msgid "Oh... I don't have any more pieces than that one..."
+msgstr "Ah... não tenho mais peças além dessa..."
+
+msgid "... ..."
+msgstr "... ..."
+
+msgid "(The shadow girl returns the fragment to you with a sad expression.)"
+msgstr "(A garota das sombras devolve o fragmento para você com uma expressão triste.)"
+
+msgid "(The shadow girl takes the fragments from you.)"
+msgstr "(A garota das sombras tira os fragmentos de você.)"
+
+msgid "(After a few seconds, she returns them to you.)"
+msgstr "(Depois de alguns segundos, ela os devolve para você.)"
+
+msgid "Oh... I'm still missing a piece, am I not...?"
+msgstr "Ah... ainda falta um pedaço, não é...?"
+
+msgid "Sorry for bothering you."
+msgstr "Desculpe te incomodar."
+
+msgid "(With some effort, she fits them together and returns them to you.)"
+msgstr "(Com algum esforço, ela os junta e os devolve para você.)"
+
+msgid "Thank you, I appreciate it."
+msgstr "Obrigada, eu agradeço."
+
+msgid "Various colorful liquids and drinks are stored on the shelf."
+msgstr "Vários líquidos e bebidas coloridos são armazenados na prateleira."
+
+msgid "Some papers with opening hours and upcoming shop discounts."
+msgstr "Alguns jornais com horários de funcionamento e próximos descontos em lojas."
+
+msgid "There's a... shadow of a girl sitting on the other side of the desk."
+msgstr "Há uma... sombra de uma garota sentada do outro lado da mesa."
+
+msgid "She doesn't seem much for conversation."
+msgstr "Ela não parece muito de conversar."
+
+msgid "\"CLOSED. DO NOT ENTER\" is marked on the sign."
+msgstr "\"FECHADO. NÃO ENTRE\" está marcado na placa."
+
+msgid "The door is locked."
+msgstr "A porta está trancada."

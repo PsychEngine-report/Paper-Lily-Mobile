@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait... you made me climb over all those boxes for nothing?"
+msgstr "慢着...你让我爬过那么多箱子，就为了这个？"
+
+msgid "It wasn't for nothing. Exercise is good for you."
+msgstr "不算吧。锻炼对你有好处啊。"
+
+msgid "Huuuh?! I can't believe this..."
+msgstr "啊？！真不敢相信..."
+
+msgid "Man... it's really stuffy in there. I don't wanna do that again."
+msgstr "天啊...里面真挤。我再也不会这么干了。"
+
+msgid "It doesn't look like we can reach it to go back anyway."
+msgstr "说起来，我们看上去是没办法回去了。"
+
+msgid "What?!"
+msgstr "啥？！"
+
+msgid "We're stuck?!"
+msgstr "我们被困住了？！"
+
+msgid "There's a door right there."
+msgstr "对面有扇门。"
+
+msgid "Sheesh... why are all the vents exits so high up..."
+msgstr "啧啧...为什么这些通风口都那么高呢..."
+
+msgid "If you're going to make them traversable, at least put them at a reasonable height."
+msgstr "如果要让人通行的话，至少也要放在合理的高度吧。"
+
+msgid "A bookshelf with very few remaining books."
+msgstr "书架上只有寥寥几本书。"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice"
+msgid "Read a passage?"
+msgstr "要看一段吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice.Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice.Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "All of the pages are blank."
+msgstr "所有的书页都是空白的。"
+
+msgid "A bookshelf with very few remaining books. All of their pages are blank."
+msgstr "书架上只有寥寥几本书。书上所有的书页都是空白的。"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_6.dlg.narrator"
+msgid "An empty bookshelf."
+msgstr "一个空书架。"
+
+msgid "...Actually, there's a key at the very back."
+msgstr "...其实，在最里面有把钥匙。"
+
+msgid "A purple book."
+msgstr "一本紫色的书。"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice"
+msgid "Read a passage?"
+msgstr "要看一段吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice.Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice.Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "All of its pages are blank, but you can see a faint outline of some letters."
+msgstr "所有书页都是空白的，但可以看到一些字母的模糊轮廓。"
+
+msgid "(Have all of these books been erased... somehow?)"
+msgstr "（难道说这些书都被以某种方式...清除了？）"
+
+msgid "Someone didn't want to leave any traces here."
+msgstr "看来有人不想留下任何痕迹呢。"
+
+msgid "I agree."
+msgstr "是这样的。"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_empty.dlg.narrator"
+msgid "An empty bookshelf."
+msgstr "一个空书架。"
+
+msgid "There's a hole on the floor."
+msgstr "地板上有一个洞。"
+
+msgid "Going down there is out of the question."
+msgstr "下去是不可能的。"
+
+msgid "Crawl inside?"
+msgstr "要爬进去吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.move_vent.choice.Crawl inside?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.move_vent.choice.Crawl inside?"
+msgid "No"
+msgstr "否"
+
+msgid "It's not a good idea to go in there without a way out."
+msgstr "如果不知道它有没有出路就进去，那可不是个好主意。"
+
+msgid "A ventilation shaft."
+msgstr "一个通风井。"
+
+msgid "The cover is screwed in."
+msgstr "盖子用螺丝拧紧了。"
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "Ah. I spot a shiny over there."
+msgstr "啊。我看到了那里有一个亮晶晶。"
+
+msgid "A... \"shiny\"?"
+msgstr "一个...“亮晶晶”？"
+
+msgid "You know... a useful item."
+msgstr "你懂的...有用的物品。"
+
+msgid "How do you know it will be useful..."
+msgstr "你是怎么知道它有没有用的..."
+
+msgid "Might need to push some boxes around to get it though."
+msgstr "也许需要推动一些箱子才能穿过。"
+
+msgid "Arrange the boxes?"
+msgstr "要整理箱子吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.on_enter_puzzle.choice.Arrange the boxes?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.on_enter_puzzle.choice.Arrange the boxes?"
+msgid "No"
+msgstr "否"

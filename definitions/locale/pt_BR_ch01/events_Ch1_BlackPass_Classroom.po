@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hey, where do you think you're going?"
+msgstr "Ei, aonde você pensa que está indo?"
+
+msgid "..."
+msgstr "..."
+
+msgid "There she is."
+msgstr "Ali está ela."
+
+msgid "That's her?"
+msgstr "É ela?"
+
+msgid "She's so cursed that the bird dropped dead."
+msgstr "Ela está tão amaldiçoada que o pássaro caiu morto."
+
+msgid "If she can make a bird die, I wonder what she could do to people."
+msgstr "Se ela pode fazer um pássaro morrer, imagino o que poderia fazer com as pessoas."
+
+msgid "What a freak."
+msgstr "Que aberração."
+
+msgid "Hey, you killed that poor bird."
+msgstr "Ei, você matou aquele pobre pássaro."
+
+msgid "...N-no..."
+msgstr "...N-não..."
+
+msgid "It flew into the window next to YOUR seat."
+msgstr "Ele voou para a janela ao lado do SEU assento."
+
+msgid "...but.. I didn't..."
+msgstr "...mas.. eu não..."
+
+msgid "It died because of you."
+msgstr "Morreu por sua causa."
+
+msgid "This is your fault."
+msgstr "Isto é culpa sua."
+
+msgid "Aargh!"
+msgstr "Aargh!"
+
+msgid "........"
+msgstr "........"
+
+msgid "What the hell!?"
+msgstr "Que diabos!?"
+
+msgid "Did she kill him?"
+msgstr "Ela o matou?"
+
+msgid "Is he dead?"
+msgstr "Ele está morto?"
+
+msgid "MURDERER!"
+msgstr "ASSASSINA!"
+
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "ASSASSINA! ASSASSINA! ASSASSINA!"
+
+msgid "....."
+msgstr "....."
+
+msgid "Wait... what are you doing!?"
+msgstr "Espere... o que você está fazendo!?"
+
+msgid "I'm doing something, unlike you."
+msgstr "Estou fazendo algo, diferente de você."
+
+msgid "AAAAH!"
+msgstr "AAAAH!"
+
+msgid "She killed him!"
+msgstr "Ela o matou!"
+
+msgid "Oh my god! She's crazy!"
+msgstr "Oh meu Deus! Ela é louca!"
+
+msgid "Pick up ${item:global.reditem_3}?"
+msgstr "Pegar ${item:global.reditem_3}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "This isn't my fault..."
+msgstr "Isso não é minha culpa..."
+
+msgid "Can't believe you're still acting innocent."
+msgstr "Não posso acreditar que você ainda está agindo inocentemente."
+
+msgid "You disgust me."
+msgstr "Você me dá nojo."
+
+msgid "You cause nothing but ruin everywhere you go!"
+msgstr "Você não causa nada além de ruína onde quer que vá!"
+
+msgid "I-I'm sorry... I'm really sorry... I don't do it on purpose... I didn't do anything..."
+msgstr "E-me desculpe... sinto muito mesmo... não faço isso de propósito... não fiz nada..."
+
+msgid "Maybe you SHOULD do something..."
+msgstr "Talvez você DEVE fazer algo..."
+
+msgid "...Huh?"
+msgstr "...Huh?"
+
+msgid "...To make it up to us. Why don't you take responsibility for messing up everything?"
+msgstr "...Para nos compensar. Por que você não assume a responsabilidade por bagunçar tudo?"
+
+msgid "...H-How...?"
+msgstr "...C-Como...?"
+
+msgid "Hmmm."
+msgstr "Hmmm."
+
+msgid "Make her eat it!"
+msgstr "Faça ela comer!"
+
+msgid "Yeah! Eat the bird!"
+msgstr "Sim! Coma o pássaro!"
+
+msgid "...What..?!"
+msgstr "...O que..?!"
+
+msgid "You heard them."
+msgstr "Você os ouviu."
+
+msgid "Eat it, witch."
+msgstr "Coma, bruxa."
+
+msgid "If you eat it, maybe we'll forgive you."
+msgstr "Se você comer, talvez nós o perdoemos."
+
+msgid "Eat the bird, murderer."
+msgstr "Coma o pássaro, assassina."
+
+msgid "(This isn't real...)"
+msgstr "(Isso não é real...)"
+
+msgid "(Do I really have to do this...?)"
+msgstr "(Eu realmente tenho que fazer isso...?)"
+
+msgid "Eat the bird"
+msgstr "Coma o pássaro"
+
+msgid "Do not"
+msgstr "Não"
+
+msgid "Take the _____"
+msgstr "Levar a _____"
+
+msgid "(Will this get them to stop...?)"
+msgstr "(Isso fará com que eles parem...?)"
+
+msgid "(Ugh... I feel sick...)"
+msgstr "(Ugh... estou me sentindo mal...)"
+
+msgid "She actually did it! She's insane!"
+msgstr "Ela realmente fez isso! Ela é louca!"
+
+msgid "She's such a freak! HAHAHAHA!"
+msgstr "Ela é uma aberração! HAHAHAHA!"
+
+msgid "HAHAHAHA It's all bloody now!"
+msgstr "HAHAHAHA Está tudo sangrento agora!"
+
+msgid "HAHAHAHAHA"
+msgstr "HAHAHAHAHA"
+
+msgid "HAHAHAHAHAHAHAHAHAHAHA"
+msgstr "HAHAHAHAHAHAHAHAHAHAHA"
+
+msgid "Stab self"
+msgstr "Esfaquear-se"
+
+msgid "(This dream...)"
+msgstr "(Esse sonho...)"
+
+msgid "(The easiest way to get out...)"
+msgstr "(A maneira mais fácil de sair...)"
+
+msgid "(It's obvious, isn't it?)"
+msgstr "(É óbvio, não é?)"
+
+msgid "...Ah! It hurts! ...it hurts..."
+msgstr "...Ah! Isso dói! ...isso dói..."
+
+msgid "...When am I waking up..."
+msgstr "...Quando vou acordar..."
+
+msgid "...Let this stupid... nightmare... end..."
+msgstr "...Deixe esse estúpido... pesadelo... acabar..."
+
+msgid "...Why..."
+msgstr "...Por que..."
+
+msgid "...It's just a dream... so why..."
+msgstr "...É apenas um sonho... então por que..."
+
+msgid "...It hurts..."
+msgstr "...Isso dói..."
+
+msgid "Do nothing"
+msgstr "Fazer nada"
+
+msgid "There's nothing else to do here."
+msgstr "Não há mais nada para fazer aqui."
+
+msgid "Sorry, I can't let you pass."
+msgstr "Desculpe, não posso deixar você passar."
+
+msgid "Please?"
+msgstr "Por favor?"
+
+msgid "Just do what they say."
+msgstr "Apenas faça o que eles dizem."
+
+msgid "(A strong force prevents you from entering the wardrobe.)"
+msgstr "(Uma força forte impede você de entrar no guarda-roupa.)"
+
+msgid "(Push through?)"
+msgstr "(Forçe até o fim?)"
+
+msgid "\"MURDERER\""
+msgstr "\"ASSASSINA\""
+
+msgid "The passageway has closed behind you."
+msgstr "A passagem se fechou atrás de você."

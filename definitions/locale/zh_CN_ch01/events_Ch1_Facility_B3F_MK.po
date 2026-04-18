@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A house?"
+msgstr "一栋房子？"
+
+msgid "Why's there a house so deep underground?"
+msgstr "为什么这么深的地下会有一栋房子呢？"
+
+msgctxt "events.Ch1_Facility_B3F_MK.event_first_time.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Oh!"
+msgstr "哦！"
+
+msgid "Maybe someone lives here."
+msgstr "也许有人住在这里。"
+
+msgid "But if there's an entrance to a house down here, maybe there's also an exit on the other side."
+msgstr "但如果这下面有房子的入口，也许另一边就有出口。"
+
+msgid "Don't you think?"
+msgstr "你怎么想？"
+
+msgid "Well, no way to go but forward."
+msgstr "好吧，除了向前走已经别无选择了。"
+
+msgid "A mailbox. It's empty."
+msgstr "一个邮箱。是空的。"
+
+msgid "You can't see anything through the window."
+msgstr "透过窗户，你什么也看不见。"
+
+msgid "A solid wall has appeared where the hallway was."
+msgstr "原来走廊的位置出现了一堵实心墙。"
+
+msgid "Huh...? What?"
+msgstr "嗯...？什么？"
+
+msgid "We're getting trapped deeper and deeper... I really hope we find that door soon."
+msgstr "我们被困得越来越深了...真希望我们能尽快找到那扇门。"

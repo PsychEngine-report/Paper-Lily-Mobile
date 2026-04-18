@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The room where you were locked in is directly under you."
+msgstr "自分が閉じ込められていた部屋が真下に見える。"
+
+msgid "You can see Sai from here. He doesn't seem to be doing anything."
+msgstr "サイも見える。特に何もしていないようだ。"
+
+msgid "Empty bird cages."
+msgstr "空の鳥かご。"
+
+msgid "There seems to be something strange inside the cage."
+msgstr "かごの中に何か奇妙なものがあるようだ。"
+
+msgid "Try to get ${item:ch1.mk_hand_mirror}?"
+msgstr "${item:ch1.mk_hand_mirror}に手を伸ばす？"
+
+msgctxt "events.Ch1_MK_B1F_Cages.misc_cage_mirror.choice.Try to get ${item:ch1.mk_hand_mirror}?"
+msgid "Yes"
+msgstr "手を伸ばす"
+
+msgctxt "events.Ch1_MK_B1F_Cages.misc_cage_mirror.choice.Try to get ${item:ch1.mk_hand_mirror}?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "There's nothing else in there."
+msgstr "中には他に何もない。"
+
+msgid "The painting lady is gone."
+msgstr "絵の女性はいなくなっている。"
+
+msgid "A painting of a lady."
+msgstr "女性の絵。"
+
+msgid "Her golden eye stands out..."
+msgstr "金色の目が際立っている……"
+
+msgid "Pull it out?"
+msgstr "引き抜く？"
+
+msgctxt "events.Ch1_MK_B1F_Cages.misc_painting.choice.Pull it out?"
+msgid "Yes"
+msgstr "引き抜く"
+
+msgctxt "events.Ch1_MK_B1F_Cages.misc_painting.choice.Pull it out?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "(You don't need an extra eye, so you discarded it.)"
+msgstr "(もう目は要らないので、捨てた。)"
+
+msgid "Some abstract paintings."
+msgstr "いくつかの抽象画。"

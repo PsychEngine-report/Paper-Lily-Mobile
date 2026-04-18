@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "廣人的房間。"
+
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go in without permission..."
+msgstr "我不想未經許可就進去..."
+
+msgid "You shouldn't go in."
+msgstr "妳不應該進去。"
+
+msgid "You won't go in."
+msgstr "妳不會進去的。"
+
+msgid "Some books and magazines."
+msgstr "一些書籍和雜誌。"
+
+msgid "No reading space would be complete without decorative books."
+msgstr "如果沒裝飾用書的話，就稱不上是閱讀空間了。"
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "這是某種裝飾品。妳真的不太清楚。"
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "一幅畫，和樓下的很相似。"
+
+msgid "A painting."
+msgstr "一幅畫。"
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "一幅畫，與左邊的一模一樣。"
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "一幅畫，與右邊的一模一樣。"
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "冬天假期的照片。妳不在任何一張之中。"
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "漂亮的植物。花蕾不可食用。"
+
+msgid "A plant."
+msgstr "植物。"
+
+msgid "Some old family pictures."
+msgstr "一些老舊的家庭照片。"
+
+msgid "The backyard can be seen from here."
+msgstr "可以從這裡看到後院。"
+
+msgid "Something is written on the door:"
+msgstr "有東西寫在門上："
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "\"這是什麼房間？妳在這裡花了很多時間。"
+
+msgid "Always finding new places to hide away from the world."
+msgstr "總是找到新的地方來逃避世界。"
+
+msgid "Did you ever stop hiding?\""
+msgstr "妳停止逃避過嗎？\""

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A beheaded corpse."
+msgstr "斷頭的屍體。"
+
+msgid "Saki's beheaded corpse lies here."
+msgstr "沙紀斷頭的屍體躺在這裡。"
+
+msgid "..."
+msgstr "..."
+
+msgid "That can't be..."
+msgstr "這不是真的..."
+
+msgid "How is this possible?"
+msgstr "這怎麼可能？"
+
+msgid "I just saw her a while ago..."
+msgstr "我剛剛才看到她..."
+
+msgid "I-I don't understand..."
+msgstr "我-我不懂..."
+
+msgid "A bloody corpse. The lower half is missing."
+msgstr "滿身是血的屍體。下半身不見了。"
+
+msgid "Juli's bloody corpse. Her lower half is missing."
+msgstr "由里滿身是血的屍體。她的下半身不見了。"
+
+msgid "I..."
+msgstr "我..."
+
+msgid "This is my fault..."
+msgstr "都是我的錯..."
+
+msgid "A bloody corpse."
+msgstr "滿身是血的屍體。"
+
+msgid "Kaya's bloody corpse."
+msgstr "香耶滿身是血的屍體。"
+
+msgid "Oh no no no no no..."
+msgstr "喔不不不不..."
+
+msgid "Oh my god."
+msgstr "我的天哪。"
+
+msgid "This can't be real... It's not real..."
+msgstr "這不是真的...這不是真的..."
+
+msgid "Right...?"
+msgstr "對吧...？"
+
+msgid "...The door..."
+msgstr "...門..."
+
+msgid "I can... leave...?"
+msgstr "我可以...離開...？"
+
+msgid "I can... go home...?"
+msgstr "我可以...回家...？"
+
+msgid "I don't want to die..."
+msgstr "我不想死..."
+
+msgid "Why not? Everybody should try it at least once."
+msgstr "為什麼不？每個人都該試一次。"
+
+msgid "Right."
+msgstr "對了。"
+
+msgid "...It doesn't light up..."
+msgstr "...點不起來..."
+
+msgid "It's as if this place isn't dark... it's just black..."
+msgstr "感覺就像是這個地方不暗...而是全黑的..."
+
+msgid "That's not going to help."
+msgstr "這沒有用。"
+
+msgid "Unfortunately, the door has no keyhole."
+msgstr "不幸的是，這扇門沒有鑰匙孔。"
+
+msgid "Blood."
+msgstr "血。"
+
+msgid "Blood puddles."
+msgstr "血坑。"
+
+msgid "There's no door here."
+msgstr "這裡沒有門。"
+
+msgid "I cant... go back..."
+msgstr "我不能...回去..."
+
+msgid "A welcoming door."
+msgstr "讓人感到歡迎的門。"
+
+msgid "It's locked."
+msgstr "被鎖住了。"
+
+msgid "I... have to..."
+msgstr "我...必須..."
+
+msgid "...get out..."
+msgstr "...出去..."

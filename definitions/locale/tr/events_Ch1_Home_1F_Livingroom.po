@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "Kırmızı bağcıklı bir çift beyaz ayakkabı var."
+
+msgid "The shoelaces could be useful."
+msgstr "Bağcıklar kullanışlı olabilir."
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "${item:ch1.shoelaces} Alacak mısın?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "It's already done."
+msgstr "Zaten yapıldı."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Girişe tuz saçtın.)"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "It's already done."
+msgstr "Zaten yapıldı."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Girişe tuz saçtın.)"
+
+msgid "Something is written here:"
+msgstr "Burada bir şey yazılı:"
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "\"Burada en son ne zaman yemek yedin? Yoksa unuttun mu?\""
+
+msgid "A bookshelf with random decorative books."
+msgstr "Rastgele dekoratif kitapların bulunduğu bir kitaplık."
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "Ayrıca burada düzgünce hizalanmış birkaç ofis malzemesi de var."
+
+msgid "Red marker. Perfect."
+msgstr "Kırmızı kalem. Mükemmel."
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "${item:ch1.marker} Alacak mısın?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "Geniş bir kanepe. Hiro sık sık burada uyuyakalır."
+
+msgid "A small couch that used to be your favorite."
+msgstr "Bir zamanlar favorin olan küçük bir kanepe."
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "Dolabın üstünde bir kutu ve bir bitki duruyor."
+
+msgid "A large cupboard that could fit a person."
+msgstr "Bir kişinin sığabileceği kadar büyük bir dolap."
+
+msgid "Some decorative plates."
+msgstr "Birkaç dekoratif tabak."
+
+msgid "A painting of a sleeping cat."
+msgstr "Uyuyan bir kedinin resmi."
+
+msgid "A painting of..."
+msgstr "Şeyin resmi..."
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "Ha? Bu kedi uyumuyor muydu...?"
+
+msgid "A painting of a cat stares you down."
+msgstr "Sana dik dik bakan bir kedinin resmi."
+
+msgid "Some bills."
+msgstr "Birkaç fatura."
+
+msgid "Some pictures of places around the world."
+msgstr "Dünyanın çeşitli yerlerinden bazı resimler."
+
+msgid "Mother and father go on trips a lot..."
+msgstr "Annem ve babam sık sık gezilere çıkıyor..."
+
+msgid "I don't even know where they are right now."
+msgstr "Şu an nerede olduklarını bile bilmiyorum."
+
+msgid "A tall plant."
+msgstr "Uzun bir bitki."
+
+msgid "A pretty plant."
+msgstr "Hoş bir bitki."
+
+msgid "A pink plant."
+msgstr "Pembe bir bitki."
+
+msgid "The TV remote."
+msgstr "Televizyon uzaktan kumandası."
+
+msgid "Turn the TV on?"
+msgstr "Televizyonu açacak mısın?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Turn the TV off?"
+msgstr "Televizyonu kapatacak mısın?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A shelf containing mainly glassware."
+msgstr "Cam eşyaların çoğunlukta olduğu bir raf."
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "Eğer bu birisin üzerine düşecek olursa kesinlikle acıtır."
+
+msgid "Some books on gardening."
+msgstr "Bahçecilikle ilgili bazı kitaplar."
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "Bir ayakkabı rafı, çeşitli renklerde ayakkabılarla dolu."
+
+msgid "Slippers to change into."
+msgstr "Giymek için terlikler."
+
+msgid "The footprints come from under the table..."
+msgstr "Ayak izleri masanın altından geliyor..."
+
+msgid "But there's nothing there."
+msgstr "Ama orada hiçbir şey yok."
+
+msgid "The family dining table."
+msgstr "Aile yemek masası."
+
+msgid "We don't eat here as much anymore."
+msgstr "Artık burada pek yemek yemiyoruz."
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "Kahve masası. Bazen bitkiler araya giriyor."
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "Ayak izleri dışarıya doğru gidiyor. Normal ayaklara benzemiyorlar..."
+
+msgid "A TV."
+msgstr "Bir televizyon."
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "Arabalar hakkında bir program. Yoksa bir video oyunu fragmanı mı?"
+
+msgid "Just animal videos, I guess."
+msgstr "Sadece hayvan videoları sanırsam."
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "\"Onlara ekmek ve kedi verin asla karşı gelmezler.\""
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "Geçenlerde izlemeye başladığım büyülü kızları konu alan bir anime var."
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "İnternette sonradan karanlıklaştığını söyleyenler var... ama ben şimdiye kadar kötü bir şey görmedim."
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "Bu rahatsız edici... Hadi kapatalım."
+
+msgid "..."
+msgstr "..."
+
+msgid "An umbrella basket."
+msgstr "Bir şemsiye sepeti."
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "Bir şemsiye sepeti. Çoğu zaman kazara tekmelenir."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_backyard.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "Dışarıda yeterince durdum."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_exit.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "Dışarıda yeterince durdum."
+
+msgid "This is the laundry room."
+msgstr "Çamaşır odası."
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "Evdeki kapıların neden kilitli olması gerektiğini asla anlamıyorum."
+
+msgid "Maybe Hiro has the key..."
+msgstr "Belki Hiro'da anahtar vardır..."
+
+msgid "...but I don't need anything from there."
+msgstr "...ama oradan bir şeye ihtiyacım yok."
+
+msgid "The laundry room. It's locked."
+msgstr "Çamaşırhane. Kilitli."

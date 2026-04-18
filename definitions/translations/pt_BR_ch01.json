@@ -1,0 +1,17 @@
+{
+	"Locale": "pt_BR",
+	"Name": "Português (Brasil) - by Mirai Translations",
+	"Credit": "Translated by Mirai Translations",
+	"Website": "https://miraitranslatiions.vercel.app/",
+	"Path": "pt_BR_ch01",
+	"Disclaimer": true,
+	"UseContext": false,
+	"ResourceRemaps": {
+		"res://assets/img/cg/ch1/facility_map_1.png": "res://translation-resources/pt_BR_ch01/facility_map_1.png",
+		"res://assets/img/cg/ch1/facility_map_2.png": "res://translation-resources/pt_BR_ch01/facility_map_2.png"
+	},
+	"Compatibility": [
+		"Lacie Engine",
+		"Paper Lily Chapter 1"
+	]
+}

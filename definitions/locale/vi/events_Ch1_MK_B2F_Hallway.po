@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgid "You don't know how to use it..."
+msgstr "Bạn không biết cách dùng nó..."
+
+msgid "A portrait of a person with a brain for a head."
+msgstr "Bức chân dung nhân vật có bộ não làm cái đầu."
+
+msgid "A portrait of a scary-looking person."
+msgstr "Bức chân dung nhân vật trông dễ sợ."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_10.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A portrait of a person with a gaping mouth."
+msgstr "Bức chân dung nhân vật có cái miệng há hốc."
+
+msgid "...I don't like this one."
+msgstr "...Mình không thích bức này."
+
+msgid "His head looks like a spoon."
+msgstr "Đầu ông này trông như cái thìa vậy."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_11.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A portrait of a pretty-looking lady."
+msgstr "Bức chân dung quý cô trông xinh đẹp."
+
+msgid "She looks like she's made of porcelain."
+msgstr "Cô ấy trông như được làm bằng sứ vậy."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_13.dlg.narrator"
+msgid "A portrait of a person with an animal skull for a head."
+msgstr "Bức chân dung nhân vật có cái sọ động vật làm cái đầu."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_14.dlg.narrator"
+msgid "A portrait of a person with an animal skull for a head."
+msgstr "Bức chân dung nhân vật có cái sọ động vật làm cái đầu."
+
+msgid "A portrait of a person with many eyes."
+msgstr "Bức chân dung nhân vật có nhiều con mắt."
+
+msgid "Various strange portraits adorn the walls."
+msgstr "Đủ thứ bức chân dung kì lạ trang hoàng trên tường."
+
+msgid "A portrait of a girl with horns growing out of her face."
+msgstr "Bức chân dung cô gái có mấy cái sừng mọc ra khỏi mặt mình."
+
+msgid "A portrait of a grandma."
+msgstr "Bức chân dung bà cụ."
+
+msgid "She looks nice... Maybe."
+msgstr "Bà ấy trông đôn hậu... Có lẽ thế."
+
+msgid "A portrait of a person with knifes floating above their head."
+msgstr "Bức chân dung nhân vật có mấy con dao trôi nổi phía bên trên đầu mình."
+
+msgid "A portrait of a person with a heart for a head."
+msgstr "Bức chân dung nhân vật có trái tim làm cái đầu."
+
+msgid "A portrait of a person with a crow for a head."
+msgstr "Bức chân dung nhân vật có con quạ làm cái đầu."
+
+msgid "It looks nothing like those cute crows I've been seeing around."
+msgstr "Trông không hề giống mấy con quạ dễ thương này kia mà mình nhìn."
+
+msgid "A portrait of a happy-looking girl."
+msgstr "Bức chân dung cô gái trông hạnh phúc."
+
+msgid "A portrait of a person with a goat for a head."
+msgstr "Bức chân dung nhân vật có con dê làm cái đầu."
+
+msgid "Creepy portraits adorn the walls."
+msgstr "Mấy bức chân dung ghê rợn trang hoàng trên tường."
+
+msgid "A painting that's mostly just red."
+msgstr "Bức tranh mà hầu như chỉ là màu đỏ."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice"
+msgid "Touch it?"
+msgstr "Chạm nó chứ?"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice.Touch it?"
+msgid "Yes"
+msgstr "Chạm"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice.Touch it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A bunch of red powder sticks to your finger."
+msgstr "Mớ bột màu đỏ dính lên ngón tay bạn."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.dlg.narrator"
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Cọ ra gom thêm nữa thì dễ thôi, miễn là có cái gì đó để đựng mà mang đi."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.dlg.narrator"
+msgid "(You wipe it off.)"
+msgstr "(Bạn chùi nó đi.)"
+
+msgid "A painting that's mostly just yellow."
+msgstr "Bức tranh mà hầu như chỉ là màu vàng."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice"
+msgid "Touch it?"
+msgstr "Chạm nó chứ?"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice.Touch it?"
+msgid "Yes"
+msgstr "Chạm"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice.Touch it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A bunch of yellow powder sticks to your finger."
+msgstr "Mớ bột màu vàng dính lên ngón tay bạn."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.dlg.narrator"
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Cạo ra mà gom thêm nữa thì dễ thôi, miễn là có cái gì đó để đựng mà mang đi."
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.dlg.narrator"
+msgid "(You wipe it off.)"
+msgstr "(Bạn chùi nó đi.)"

@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Didn't catch your name earlier."
+msgstr "Não entendi seu nome antes."
+
+msgid "..."
+msgstr "..."
+
+msgid "Yeah... I see."
+msgstr "Sim... entendo."
+
+msgid "What's up?"
+msgstr "E aí?"
+
+msgid "What... what was that thing?"
+msgstr "O que... o que foi aquilo?"
+
+msgid "Huh, you can talk."
+msgstr "Ah, você pode conversar."
+
+msgid "I dunno. They call it a primal demon."
+msgstr "Eu não sei. Eles chamam isso de demônio primordial."
+
+msgid "Primal?"
+msgstr "Primitivo?"
+
+msgid "Well, if you consider all these lively fellows you encountered \"demons\"..."
+msgstr "Bem, se você considerar todos esses caras animados que encontrou \"demônios\"..."
+
+msgid "...then that would make those shadowy ones \"primal demons\"."
+msgstr "... então isso tornaria aqueles sombrios \"demônios primordiais\"."
+
+msgid "(Hm...)"
+msgstr "(Hm...)"
+
+msgid "What else do you know?"
+msgstr "O que mais você sabe?"
+
+msgid "I know lots of stuff."
+msgstr "Eu sei muitas coisas."
+
+msgid "About primal demons?"
+msgstr "Sobre demônios primordiais?"
+
+msgid "Ahh, about that..."
+msgstr "Ah, sobre isso..."
+
+msgid "Not much."
+msgstr "Não muito."
+
+msgid "I know they'll kill whatever crosses their path."
+msgstr "Eu sei que eles matarão tudo o que cruzar seu caminho."
+
+msgid "Contrary to other demons, which will mostly only kill you if you're human."
+msgstr "Ao contrário de outros demônios, que só irão matá-lo se você for humano."
+
+msgid "Hm..."
+msgstr "Hm..."
+
+msgid "Let's wait here a bit longer."
+msgstr "Vamos esperar aqui mais um pouco."
+
+msgid "It might be gone."
+msgstr "Pode ter desaparecido."
+
+msgid "It's up to you when you wanna go back out."
+msgstr "Depende de você quando quiser voltar."
+
+msgid "Are you going outside?"
+msgstr "Você vai lá fora?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "I guess the coast is clear."
+msgstr "Acho que a costa está limpa."
+
+msgid "(Will I find any clues in a place like this...?)"
+msgstr "(Encontrarei alguma pista em um lugar como este...?)"
+
+msgid "(Maybe I should focus on getting out of here.)"
+msgstr "(Talvez eu deva me concentrar em sair daqui.)"
+
+msgid "(Alright.)"
+msgstr "(Tudo bem.)"
+
+msgid "You still use a flip phone?!"
+msgstr "Você ainda usa um telefone flip?!"
+
+msgid "Why??"
+msgstr "Por que??"
+
+msgid "(It's just fun to flip it open...)"
+msgstr "(É divertido abri-lo...)"
+
+msgid "Cool, you've got one of those doorknobs."
+msgstr "Legal, você tem uma daquelas maçanetas."
+
+msgid "It's pretty fun to see where they take you."
+msgstr "É muito divertido ver aonde eles te levam."
+
+msgid "Ooh, it's one of those cool rocks."
+msgstr "Ooh, é uma daquelas pedras legais."
+
+msgid "Did you know they glow in the dark?"
+msgstr "Você sabia que eles brilham no escuro?"
+
+msgid "Really?"
+msgstr "Sério?"
+
+msgid "No."
+msgstr "Não."
+
+msgid "But you totally fell for that!"
+msgstr "Mas você caiu totalmente nessa!"
+
+msgid "A bloody bag. It smells putrid."
+msgstr "Uma maldita bolsa. Tem um cheiro pútrido."
+
+msgid "An operating table. It has faint blood stains."
+msgstr "Uma mesa cirúrgica. Possui leves manchas de sangue."
+
+msgid "An operating table."
+msgstr "Uma mesa cirúrgica."
+
+msgid "(What's with the strange shape of this bed...?)"
+msgstr "(O que há com o formato estranho desta cama...?)"
+
+msgid "Looks like human bones."
+msgstr "Parecem ossos humanos."
+
+msgid "A fallen book."
+msgstr "Um livro caído."
+
+msgid "Read a passage?"
+msgstr "Ler uma passagem?"
+
+msgid "\"The soul does not reside in a specific physical location."
+msgstr "“A alma não reside em um local físico específico."
+
+msgid "The torso must be dissected in its entirety in order for extraction to be successful.\""
+msgstr "O torso deve ser dissecado na sua totalidade para que a extração seja bem sucedida.”"
+
+msgid "A broken container. Whatever was inside is long gone."
+msgstr "Um recipiente quebrado. O que quer que estivesse dentro já se foi há muito tempo."
+
+msgid "A cage filled with bones."
+msgstr "Uma gaiola cheia de ossos."
+
+msgid "Medication bottles and small bones fill the countertop."
+msgstr "Frascos de remédios e ossinhos enchem a bancada."
+
+msgid "There's something in the drawer."
+msgstr "Há algo na gaveta."
+
+msgid "There's nothing else of use."
+msgstr "Não há mais nada de útil."
+
+msgid "There's a gate here, but it's locked."
+msgstr "Há um portão aqui, mas está trancado."
+
+msgid "Strange goop surrounds the well. It looks like it could come alive."
+msgstr "Uma gosma estranha envolve o poço. Parece que poderia ganhar vida."
+
+msgid "...Indeed, the expected outcome of a light switch."
+msgstr "...Na verdade, o resultado esperado de um interruptor de luz."
+
+msgid "The lights aren't working right now."
+msgstr "As luzes não estão funcionando agora."
+
+msgid "Let's not do that."
+msgstr "Não vamos fazer isso."
+
+msgid "A closet for medical supplies."
+msgstr "Um armário para suprimentos médicos."
+
+msgid "It's empty, save for some dirty rags."
+msgstr "Está vazio, exceto por alguns trapos sujos."
+
+msgid "(It smells...really bad.)"
+msgstr "(Cheira... muito mal.)"
+
+msgid "An incubator of some sort. It's warm to the touch."
+msgstr "Uma espécie de incubadora. É quente ao toque."
+
+msgid "An incubator of some sort. It's broken and nothing's left inside."
+msgstr "Uma espécie de incubadora. Está quebrado e não sobrou nada dentro."
+
+msgid "A well."
+msgstr "Um poço."
+
+msgid "There's probably nothing else of use in there."
+msgstr "Provavelmente não há mais nada útil lá."
+
+msgid "Rotate the lever?"
+msgstr "Girar a alavanca?"
+
+msgid "A whiteboard that has been mostly erased. Only a few sticky notes with strange symbols remain."
+msgstr "Um quadro branco que foi quase todo apagado. Restam apenas alguns post-its com símbolos estranhos."
+
+msgid "Don't go out, it's still there."
+msgstr "Não saia, ainda está lá."

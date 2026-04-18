@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What to do?"
+msgstr "Làm gì đây?"
+
+msgid "Kill it here"
+msgstr "Giết nó ở đây"
+
+msgid "Release it around this area"
+msgstr "Thả nó ra quanh quẩn khu này"
+
+msgid "Do nothing"
+msgstr "Không làm gì"
+
+msgid "It's not wise to do that here."
+msgstr "Làm thế ở đây là không có sáng suốt đâu."
+
+msgid "I don't think I should release it so close to them..."
+msgstr "Mình thấy là không nên thả nó ra ở gần bọn họ quá..."
+
+msgid "HEY! I'M WATCHING YOU!"
+msgstr "Ê! TAO NHÌN MÀY ĐẤY!"
+
+msgid "IF YOU LET THAT SHIT FREE I'LL COME OUT AND KILL YOU BOTH MYSELF!!!"
+msgstr "MÀY MÀ THẢ TỰ DO CON SÚC SINH ĐÓ TAO SẼ ĐÍCH THÂN RA GIẾT CẢ HAI ĐỨA CHÚNG MÀY!!!"
+
+msgid "(...Sorry...)"
+msgstr "(...Xin lỗi...)"
+
+msgid "A rudimentary lamp."
+msgstr "Cái đèn thô sơ."
+
+msgid "A tent. Looks rather cozy."
+msgstr "Cái lều. Trông khá là ấm cúng."
+
+msgid "There's nothing particularly interesting about the backside of the tent."
+msgstr "Về cái mặt sau của cái lều thì không có gì đặc biệt gây thú vị cả."
+
+msgid "Stay away!!!"
+msgstr "Tránh xa ra!!!"

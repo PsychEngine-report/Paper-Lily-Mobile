@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Oh... I know where this is)."
+msgstr "(Ah... eu sei onde é isso)."
+
+msgid "This must be under that weird fella's house."
+msgstr "Isto deve estar debaixo da casa daquele cara esquisito."
+
+msgid "You know, the sculptor?"
+msgstr "Você sabe, o escultor?"
+
+msgid "Yeah."
+msgstr "Sim."
+
+msgid "I think artists are really impressive!"
+msgstr "Eu acho que os artistas são realmente impressionantes!"
+
+msgid "(What's this..?)"
+msgstr "(O que é isso..?)"
+
+msgid "..."
+msgstr "..."
+
+msgid "Not really."
+msgstr "Na verdade."
+
+msgid "Oh, it's a cranky old artist."
+msgstr "Oh, é um velho artista mal-humorado."
+
+msgid "I've never spoken to him because he's in a bad mood when he's tired."
+msgstr "Nunca falei com ele porque ele fica de mau humor quando está cansado."
+
+msgid "...And he's almost always tired."
+msgstr "...E ele está quase sempre cansado."
+
+msgid "But I think artists are really impressive!"
+msgstr "Mas acho que os artistas são realmente impressionantes!"
+
+msgid "Sculpting is really hard..."
+msgstr "Esculpir é muito difícil..."
+
+msgid "Especially hands..."
+msgstr "Principalmente as mãos..."
+
+msgid "I can't seem to get my hands right..."
+msgstr "Não consigo acertar as mãos..."
+
+msgid "(Oh, that explains...)"
+msgstr "(Ah, isso explica...)"
+
+msgid "(Huh... the path is open now.)"
+msgstr "(Huh... o caminho está aberto agora.)"
+
+msgid "We need to walk slowly... and uh... keep an eye out."
+msgstr "Precisamos andar devagar... e uh... ficar de olho."
+
+msgid "Keep an eye out for what?"
+msgstr "Ficar de olho em quê?"
+
+msgid "For... fairies."
+msgstr "Nas... fadas."
+
+msgid "Don't you know what this place is!?"
+msgstr "Você não sabe que lugar é esse!?"
+
+msgid "Lacie, don't you know what this place is!?"
+msgstr "Lacie, você não sabe que lugar é esse!?"
+
+msgid "...No, not really."
+msgstr "...Não, na verdade não."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "This is the inside of a fairy ring!"
+msgstr "Este é o interior de um anel de fadas!"
+
+msgid "Lacie, this is the inside of a fairy ring!"
+msgstr "Lacie, este é o interior de um anel de fadas!"
+
+msgid "Um..."
+msgstr "Hum..."
+
+msgid "...The mushroom circle from outside?"
+msgstr "...O círculo de cogumelo visto de fora?"
+
+msgid "Yep. That's a fairy ring."
+msgstr "Sim. Isso é um anel de fadas."
+
+msgid "So this place is..."
+msgstr "Então esse lugar é..."
+
+msgid "Underneath that circle?"
+msgstr "Debaixo desse círculo?"
+
+msgid "Oh."
+msgstr "Oh."
+
+msgid "Can you tell me more?"
+msgstr "Você pode me contar mais?"
+
+msgid "Let's see... I only know the things everyone talks about."
+msgstr "Vejamos... Só sei as coisas que todo mundo fala."
+
+msgid "For one, fairies live in fairy rings, and they're really nasty."
+msgstr "Por um lado, as fadas vivem em anéis de fadas e são realmente desagradáveis."
+
+msgid "(Fairies...)"
+msgstr "(Fadas...)"
+
+msgid "They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!"
+msgstr "Elas também parecem nojentas, têm uma cabeça em formato de ovo separada do corpo, são branaos e têm dentes grandes! E algumas não têm olhos!"
+
+msgid "But even without the fairies, winding up inside of a fairy ring is..."
+msgstr "Mas mesmo sem as fadas, acabar dentro de um anel de fadas é..."
+
+msgid "Well, they say you get stuck here for 7 years."
+msgstr "Bem, dizem que você fica preso aqui por 7 anos."
+
+msgid "But nobody has ever escaped because they usually just die before that."
+msgstr "Mas ninguém jamais escapou porque geralmente morre antes disso."
+
+msgid "Oh god this is horrible, we're not gonna escape!"
+msgstr "Oh Deus, isso é horrível, não vamos escapar!"
+
+msgid "Even if we somehow make it 7 years, that's only a myth!"
+msgstr "Mesmo que de alguma forma consigamos 7 anos, isso é apenas um mito!"
+
+msgid "Maybe it's meant to instill hope in the poor souls that end up here!"
+msgstr "Talvez seja para incutir esperança nas pobres almas que acabam aqui!"
+
+msgid "LIKE US! THIS IS A DEAD END!!!"
+msgstr "COMO NÓS! ISSO É UM FIM DA LINHA!!!"
+
+msgid "Aoi."
+msgstr "Aoi."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Cut it off."
+msgstr "Corte isso."
+
+msgid "Sorry."
+msgstr "Desculpe."
+
+msgid "Are the fairies dangerous?"
+msgstr "As fadas são perigosas?"
+
+msgid "Yeah..."
+msgstr "Sim."
+
+msgid "...But everything is dangerous."
+msgstr "...Mas tudo é perigoso."
+
+msgid "The floor here is also slowly digesting us."
+msgstr "O chão aqui também está nos digerindo lentamente."
+
+msgid "I guess you don't feel it because you have shoes, hehe..."
+msgstr "Acho que você não sente isso porque tem sapatos, hehe..."
+
+msgid "I only have socks, so it's already eating away at them..."
+msgstr "Eu só tenho meias, então isso já está corroendo elas..."
+
+msgid "(Should I offer Aoi my shoes?)"
+msgstr "(Devo oferecer meus sapatos ao Aoi?)"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Would you like my shoes?"
+msgstr "Você gostaria de usar os meus sapatos?"
+
+msgid "Whaaat? You're offering me your own shoes?!?"
+msgstr "O quê? Você está me oferecendo seus próprios sapatos?!?"
+
+msgid "That's so nice of you!"
+msgstr "Isso é tão agradável de você!"
+
+msgid "That's so nice, Lacie!"
+msgstr "Que legal, Lacie!"
+
+msgid "But no, I'll be alright. I'll just remake my feet if they start being unusable."
+msgstr "Mas não, eu vou ficar bem. Vou apenas refazer meus pés se eles começarem a ficar inutilizáveis."
+
+msgid "It just burns but that's okay, I'm used to burns."
+msgstr "Só queima, mas tudo bem, estou acostumada com queimaduras."
+
+msgid "...I'm used to burns..."
+msgstr "...Estou acostumada com queimaduras..."
+
+msgid "Um... okay."
+msgstr "Hum, está bem."
+
+msgid "(Best not...)"
+msgstr "(Melhor não...)"
+
+msgid "(Who knows what this floor will do to my feet...)"
+msgstr "(Quem sabe o que este chão fará aos meus pés...)"
+
+msgid "(This person is not human, so they will probably be fine.)"
+msgstr "(Esta pessoa não é humana, então provavelmente ficará bem.)"
+
+msgid "A large skeleton of an unknown creature."
+msgstr "Um grande esqueleto de uma criatura desconhecida."
+
+msgid "Hm...?"
+msgstr "Hm?"
+
+msgid "What died here...?"
+msgstr "O que morreu aqui...?"
+
+msgid "Something big!"
+msgstr "Algo grande!"
+
+msgid "Oh!"
+msgstr "Oh!"
+
+msgid "A dragon!"
+msgstr "Um dragão!"
+
+msgid "(A dragon...!?)"
+msgstr "(Um dragão...!?)"
+
+msgid "Was I right?!"
+msgstr "Eu estava certo?!"
+
+msgid "Huh? How should I know?"
+msgstr "Huh? Como eu deveria saber?"
+
+msgid "Aw..."
+msgstr "Ah..."
+
+msgid "A large skeleton of a dragon."
+msgstr "Um grande esqueleto de um dragão."
+
+msgid "(Do dragons really exist in this place...?)"
+msgstr "(Os dragões realmente existem neste lugar...?)"
+
+msgid "Isn't it so cool that humans have dragons in their world?"
+msgstr "Não é tão legal que os humanos tenham dragões em seu mundo?"
+
+msgid "I'd like dragons here too."
+msgstr "Eu gostaria de dragões aqui também."
+
+msgid "(Never mind.)"
+msgstr "(Deixa para lá.)"
+
+msgid "A large skeleton of something other than a dragon."
+msgstr "Um grande esqueleto de algo diferente de um dragão."
+
+msgid "We sure are walking a lot."
+msgstr "Com certeza estamos caminhando muito."
+
+msgid "My feet don't hurt, or anything. Don't worry!"
+msgstr "Meus pés não doem nem nada. Não se preocupe!"
+
+msgid "I bet there's no way out..."
+msgstr "Aposto que não há saída..."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "There's always a way."
+msgstr "Sempre há um jeito."
+
+msgid "(Right...?)"
+msgstr "(Certo...?)"
+
+msgid "Whoa."
+msgstr "Uau."
+
+msgid "I like that!"
+msgstr "Eu gosto disso!"
+
+msgid "The path ends here."
+msgstr "O caminho termina aqui."
+
+msgid "Huh...? Is there really nowhere to go from here...?"
+msgstr "Huh...? Não há realmente para onde ir daqui...?"
+
+msgid "A large bone."
+msgstr "Um osso grande."
+
+msgid "A broken street lamp."
+msgstr "Uma lâmpada de rua quebrada."
+
+msgid "Blue mushrooms are lining the floor."
+msgstr "Cogumelos azuis estão espalhados pelo chão."
+
+msgid "A bunch of rubble."
+msgstr "Um monte de entulho."
+
+msgid "A piece of a sculpture."
+msgstr "Um pedaço de escultura."
+
+msgid "A strangely-shaped pot."
+msgstr "Um pote de formato estranho."
+
+msgid "There's a large hole on the floor."
+msgstr "Há um grande buraco no chão."
+
+msgid "(It's deep... and dark.)"
+msgstr "(É profundo... e escuro.)"
+
+msgid "It doesn't seem very smart to try going down there."
+msgstr "Não parece muito inteligente tentar ir até lá."
+
+msgid "I feel like there has to be a better option than going down this hole..."
+msgstr "Eu sinto que deve haver uma opção melhor do que descer por esse buraco..."
+
+msgid "(We checked everywhere else but...)"
+msgstr "(Verificamos em todos os outros lugares, mas...)"
+
+msgid "(If I go down there... it will be impossible to come back up...)"
+msgstr "(Se eu descer lá... será impossível voltar...)"
+
+msgid "Go down the hole?"
+msgstr "Descer pelo buraco?"
+
+msgid "...Sigh, here we go."
+msgstr "...Argh, aqui vamos nós."
+
+msgid "Wanna turn back?"
+msgstr "Quer voltar?"
+
+msgid "There's nowhere else to go, so we might as well explore whatever's down there."
+msgstr "Não há outro lugar para ir, então é melhor explorarmos o que quer que esteja lá embaixo."
+
+msgid "Okay."
+msgstr "Ok."
+
+msgid "Going deeper down to find an exit... this isn't very smart, is it?"
+msgstr "Indo mais fundo para encontrar uma saída... isso não é muito inteligente, não é?"

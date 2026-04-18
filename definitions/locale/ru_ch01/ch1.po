@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"This is a demo.\n"
+"It might not properly represent the quality of the final product."
+msgstr ""
+"Это демо-версия игры.\n"
+"Она может не соответствовать качеству конечного продукта."
+
+msgid ""
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"Игра может содержать яркие вспышки и эффекты,\n"
+"а также изображения насилия и ненормативной лексики."
+
+msgid "Video Creators and Streamers"
+msgstr "Стримерам и авторам видео"
+
+msgid "Commenters and Reviewers"
+msgstr "Комментаторам и обзорщикам"
+
+msgid "Our Families and Friends"
+msgstr "Нашим семьям и друзьям"
+
+msgid "Additional Thanks"
+msgstr "Особая благодарность"
+
+msgid "To our fans for waiting patiently"
+msgstr "Нашим поклонникам за то, что ждали и дождались"
+
+msgid "To Kaiyo's mom and dad for their unwavering support"
+msgstr "Родителям Кайо за их бесконечную поддержку"
+
+msgid "To those who sent an encouraging email"
+msgstr "Всем, кто отправлял ободряющие письма"
+
+msgid "And to You!"
+msgstr "И Вам!"
+
+msgid "Thank you for playing..."
+msgstr "Спасибо за игру..."
+
+msgid "See you in Chapter 2!"
+msgstr "До встречи во Второй Главе!"
+
+msgid "Miss Knives Original Design"
+msgstr "Оригинальный дизайн Мадам Нож"
+
+msgid "Miss Knives Contest Winners"
+msgstr "Победители в конкурсе картин для дома Мадам Нож"
+
+msgid "Cabbage Masters"
+msgstr "Мастера капусты"
+
+msgid ""
+"Note from the devs:\n"
+"Congratulations for getting this far in the Paper Lily story!\n"
+"Thank you so much for your support and enthusiasm for this little world we created. Please don't hesitate to leave a review if you have the time, it helps immensely.\n"
+"\n"
+"We're still only two idiots making this game, so if you want to support future development please consider purchasing the supporter pack!"
+msgstr ""
+"Записка от разработчиков:\n"
+"Поздравляем! Вы смогли далеко зайти в сюжете Paper Lily!\n"
+"Мы очень благодарны за поддержку и энтузиазм, который вы проявили к нашему маленькому мирку. Мы просим вас не бояться и оставить отзыв, если у вас есть время. Это здорово нам поможет.\n"
+"\n"
+"Наша команда по-прежнему состоит всего из двух дурачков, так что если вы хотите поддержать разработку игры в будущем, подумайте над приобретением набора поддержки (Supporter Pack)!"
+
+msgid "True End 1-1 - Against All Odds"
+msgstr "Истинная концовка 1-1 - Вопреки всему"
+
+msgid "Change into uniform"
+msgstr "Одеться в школьную форму"
+
+msgid "Change into indoor clothes"
+msgstr "Одеться в домашнее"
+
+msgid "Don't change"
+msgstr "Не переодеваться"
+
+msgid "Things to do"
+msgstr "Список дел"
+
+msgid "(before I die)"
+msgstr "(перед моей смертью)"
+
+msgid "- Go out"
+msgstr "- Выйти на улицу"
+
+msgid "- Eat the meal mom left me"
+msgstr "- Съесть то, что оставила мама"
+
+msgid "- Fill up the bird feeder"
+msgstr "- Засыпать корм в скворечник"
+
+msgid "- Feed my Tamaghost"
+msgstr "- Покормить вирт. питомца"
+
+msgid "- Say goodbye to Hiro"
+msgstr "- Попрощаться с Хиро"
+
+msgid "A coffee and a flan"
+msgstr "Кофе с фруктовым пирогом"
+
+msgid "A coffee and macarons"
+msgstr "Кофе и печенье-макарун"
+
+msgid "A coffee and an eclair"
+msgstr "Кофе с эклером"
+
+msgid "A tea and a flan"
+msgstr "Чай с фруктовым пирогом"
+
+msgid "A tea and macarons"
+msgstr "Чай и печенье-макарун"
+
+msgid "A tea and an eclair"
+msgstr "Чай с эклером"
+
+msgid "A milkshake and a flan"
+msgstr "Милкшейк с фруктовым пирогом"
+
+msgid "A milkshake and macarons"
+msgstr "Милкшейк и печенье-макарун"
+
+msgid "A milkshake and an eclair"
+msgstr "Милкшейк с эклером"
+
+msgid "???"
+msgstr "???"
+
+msgid "Girl A"
+msgstr "Девочка А"
+
+msgid "Girl B"
+msgstr "Девочка Б"
+
+msgid "Man"
+msgstr "Мужчина"
+
+msgid "Lady"
+msgstr "Девушка"
+
+msgid "Child"
+msgstr "Ребёнок"
+
+msgctxt "misc.characters.npc_f"
+msgid "Mother"
+msgstr "Мать"
+
+msgid "Student"
+msgstr "Ученик"
+
+msgid "Bully"
+msgstr "Задира"
+
+msgid "Everyone"
+msgstr "Все"
+
+msgctxt "misc.characters.mother"
+msgid "Mother"
+msgstr "Мать"
+
+msgid "Father"
+msgstr "Отец"
+
+msgid "Neighbor"
+msgstr "Сосед"
+
+msgid "Long-Faced Monster"
+msgstr "Длиннолицее чудовище"
+
+msgid "One-Eyed Monster"
+msgstr "Одноглазое чудовище"
+
+msgid "Doctor?"
+msgstr "Доктор?"
+
+msgid "Voice 1"
+msgstr "Голос 1"
+
+msgid "Voice 2"
+msgstr "Голос 2"
+
+msgid "Voice 3"
+msgstr "Голос 3"
+
+msgid "Prisoner"
+msgstr "Узник"
+
+msgid "Miss Knives (Young)"
+msgstr "Мадам Нож (В юности)"
+
+msgid "Iris"
+msgstr "Ирис"
+
+msgid "Boy 1"
+msgstr "Мальчик 1"
+
+msgid "Boy 2"
+msgstr "Мальчик 2"
+
+msgid "Boy 3"
+msgstr "Мальчик 3"

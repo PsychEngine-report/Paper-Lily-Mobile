@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A creature with a huge mouth."
+msgstr "Створіння з великим ротом."
+
+msgid "hhhhaaaaaa....."
+msgstr "хххххааааа….."
+
+msgid "(It might be best to keep my distance...)"
+msgstr "(Ліпше тримати дистанцію...)"
+
+msgid "A scary-looking monster."
+msgstr "Лячне чудовисько."
+
+msgid "It's looking at me..."
+msgstr "Воно дивиться на мене..."
+
+msgid "A person holding what seems like a lamp with fish inside."
+msgstr "Особа, що тримає в руці лампу з рибкою."
+
+msgid "A hooded young man is lying down here."
+msgstr "Тут лежить юнак у капюшоні."
+
+msgid "Pardon me..."
+msgstr "Перепрошую..."
+
+msgid "..."
+msgstr "..."
+
+msgid "I need some help."
+msgstr "Мені потрібна допомога."
+
+msgid "Yeah, I wouldn't talk to me either."
+msgstr "Ну так, я б теж зі мною не розмовляла."
+
+msgid "Sigh..."
+msgstr "*Зітхає*..."
+
+msgid "An odd green man."
+msgstr "Дивний зелений чоловічок."
+
+msgid "zzzzz"
+msgstr "хрррррр"
+
+msgid "Uh... excuse me?"
+msgstr "Е... перепрошую?"
+
+msgid "zzzzzZZZZZ"
+msgstr "хрррррРРРРРР"
+
+msgid "Looks like he's trying to sleep..."
+msgstr "Схоже, він намагається заснути..."
+
+msgid "Some purple blobs with ...faces?"
+msgstr "Фіолетові слимаки з... обличчями?"
+
+msgid "If I push them together, will they disappear?"
+msgstr "Якщо вштовхнути їх одне в одного, вони зникнуть?"
+
+msgid "The bus driver must be behind these curtains."
+msgstr "За цими завісками має сидіти водій автобуса."
+
+msgid "Take a look behind the curtains?"
+msgstr "Зазирнути за завіски?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Some colorful goop is dripping from the ceiling."
+msgstr "Зі стелі стікає якась кольорова рідина."
+
+msgid "An empty seat."
+msgstr "Порожнє місце."
+
+msgid "My seat. I didn't forget anything."
+msgstr "Моє місце. Я нічого не забула."
+
+msgid "Should I sit back down?"
+msgstr "Чи мені сісти?"
+
+msgid "A list of rules for the bus."
+msgstr "Список з правилами автобуса."
+
+msgid "\"No eating on the bus.\""
+msgstr "\"Не їсти в автобусі.\""
+
+msgid "Seems pretty reasonable."
+msgstr "Це більш-менш зрозуміло."
+
+msgid "The ticketing machine."
+msgstr "Автомат, що приймає квитки."
+
+msgid "You can see the bus stop and some trees out the window."
+msgstr "За вікном ви бачите автобусну зупинку та дерева."
+
+msgid "...She actually got off?"
+msgstr "...Вона справді вийшла?"
+
+msgid "...Huh."
+msgstr "...Отакої."

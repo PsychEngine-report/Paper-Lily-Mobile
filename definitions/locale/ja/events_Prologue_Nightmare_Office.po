@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no keyhole on the door."
+msgstr "このドアに鍵穴はない。"
+
+msgid "The bookshelf towers over your small figure."
+msgstr "本棚が小さい自分の上にそびえている。"
+
+msgid "The bookshelf has always felt too large for comfort."
+msgstr "この本棚はいつも大きすぎて落ち着かない感じがしたものだった。"
+
+msgid "The bookshelf is filled with hard to read books."
+msgstr "本棚には判読しがたい本が詰まっている。"
+
+msgid "The bookshelf has books with titles you can't even pronounce."
+msgstr "本棚には発音すらできない題名の本が並んでいる。"
+
+msgid "A pile of science books."
+msgstr "科学書の山。"
+
+msgid "A pile of science books. Many pages are bookmarked."
+msgstr "科学書の山。しおりが沢山挟んである。"
+
+msgid "Books on out-of-body experiences."
+msgstr "幽体離脱に関する本。"
+
+msgid "A pile of books. The top one is called \"Depictions of psychological trauma in research patients.\""
+msgstr "本の山。一番上の本は「被験者における心理的トラウマの叙述」と題されている。"
+
+msgid "A pile of anatomy textbooks."
+msgstr "解剖学の教科書の山。"
+
+msgid "What the hell."
+msgstr "何なのよ。"
+
+msgid "Was that...?"
+msgstr "あれは……？"
+
+msgid "Was that...!?"
+msgstr "あれは……！？"
+
+msgid "No. It wasn't."
+msgstr "いや、違う。"
+
+msgid "It's just an empty couch."
+msgstr "ただの誰も座っていないソファだ。"
+
+msgid "A familiar desk."
+msgstr "見覚えのある机。"
+
+msgid "______val of souls from_____avel below the_____ot follow instructions____velope______."
+msgstr "_____からの霊魂の___去______下の______行______筒の手順には従__な_____。"
+
+msgid "It's too hazy to read."
+msgstr "ぼやけていて読めない。"
+
+msgid "A story book and a photo of someone."
+msgstr "童話集と、誰かの写真。"
+
+msgid "Some books on physiological changes in humans in specific environments."
+msgstr "特定の環境における人間の生理学的変化に関する本が数冊。"
+
+msgid "There's also a notebook filled with rough scribbles and notes."
+msgstr "雑な殴り書きとメモで埋め尽くされたノートもある。"
+
+msgid "A painting of a vague memory."
+msgstr "曖昧な記憶の絵。"
+
+msgctxt "events.Prologue_Nightmare_Office.misc_painting_2.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "A trashcan filled with blank pieces of paper."
+msgstr "白紙でいっぱいのゴミ箱。"
+
+msgid "...!"
+msgstr "……！"
+
+msgid "Just what is this place..."
+msgstr "一体この場所何なの……"
+
+msgid "Not interested, huh?"
+msgstr "興味なし、か？"
+
+msgid "So? What do you think? I can see everything that's in your head."
+msgstr ""
+"それで？　ご感想は？　お前の頭の中は、私には\n"
+"全てお見通しだ。"
+
+msgctxt "events.Prologue_Nightmare_Office.move_next.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "You really should make an effort to be more lively."
+msgstr "本当に、もっと元気よく振舞ったほうがいい。"
+
+msgid "You only have until I decide I'm done playing around with you, you know?"
+msgstr ""
+"お前に残された時間は、私がお前との遊びを終えるまでの\n"
+"時間だけなんだぞ？"
+
+msgid "And then..."
+msgstr "それが終われば……"
+
+msgid "...snap."
+msgstr "……ぱくり、だ。"
+
+msgid "The door you came through won't open anymore."
+msgstr "通って来た扉はもう開かない。"

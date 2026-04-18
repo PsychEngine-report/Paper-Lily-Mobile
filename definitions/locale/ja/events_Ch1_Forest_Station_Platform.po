@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The train schedule is posted here. It seems the train is currently out of service."
+msgstr "電車の時刻表が掲示してある。現在は運行停止中のようだ。"
+
+msgid "I don't quite understand these locations..."
+msgstr "ここに書いてある場所のことはよくわからないけど……"
+
+msgid "...but it seems this train loops around a really large area."
+msgstr "……ずいぶん広いエリアを回ってる電車みたい。"
+
+msgid "A map of the train stops is posted here."
+msgstr "駅の場所を示した地図が掲示してある。"
+
+msgid "The clock up there... makes no sense."
+msgstr "上の時計……全然意味をなしてない。"
+
+msgid "A sign warning passengers not to jump onto the train tracks."
+msgstr "線路に飛び込むなという警告。"
+
+msgid "Nah, that ship has already sailed."
+msgstr "手遅れだよ。「賽は投げられた」。"
+
+msgid "Or should I say... that train has left the station?"
+msgstr "いや……ここでは「電車は出発した」かな？"
+
+msgid "A \"missing person\" sign. The photo frame is empty."
+msgstr "「尋ね人」の掲示。写真のあるべき部分は空だ。"
+
+msgid "The sign pointing towards the [color=#8080FF]Daylight Gate[/color] has been restored to its former glory."
+msgstr "標識は元通り[color=#8080FF]「デイライト・ゲート」[/color]を指している。"
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。"
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "固定されているので、回すことはできない。"
+
+msgid "A wooden post."
+msgstr "木の柱。"
+
+msgid "Hm...? Wasn't there a sign here before...?"
+msgstr "あれ……？　さっきは標識がなかったっけ……？"
+
+msgid "A wooden post. The sign is missing."
+msgstr "木の柱。標識はなくなっている。"
+
+msgid "A trash can. It's full of train tickets, pamphlets and such."
+msgstr "ゴミ箱。電車の切符やパンフレットなどで満たされている。"
+
+msgid "Sadly, the tickets seem to be used."
+msgstr "残念ながら、切符は使用済みのようだ。"
+
+msgid "There's a coin, though."
+msgstr "ただ、コインはあった。"
+
+msgid "A trash can."
+msgstr "ゴミ箱。"
+
+msgid "It seems to be filled with non-burnable trash."
+msgstr "燃えないゴミで満たされているようだ。"
+
+msgid "None of it is useful to you."
+msgstr "役に立ちそうなものはない。"
+
+msgid "A coin-operated vending machine. It's filled with normal-looking snacks."
+msgstr "コイン式の自動販売機。普通そうな見た目のお菓子が並んでいる。"
+
+msgid "Buy something?"
+msgstr "何か買う？"
+
+msgid "Potato chips (1 coin)"
+msgstr "ポテトチップス (1コイン)"
+
+msgid "Do not buy"
+msgstr "買わない"
+
+msgid "You don't have enough coins..."
+msgstr "コインが足りない……"
+
+msgid "This... looks like a regular pack of chips."
+msgstr "うーん……普通のポテトチップスみたいに見える。"
+
+msgid "Eat the ${item:ch1.forest_harmless_snack}?"
+msgstr "${item:ch1.forest_harmless_snack} を食べる？"
+
+msgctxt "events.Ch1_Forest_Station_Platform.misc_vendingmachine.choice.Eat the ${item:ch1.forest_harmless_snack}?"
+msgid "Yes"
+msgstr "食べる"
+
+msgctxt "events.Ch1_Forest_Station_Platform.misc_vendingmachine.choice.Eat the ${item:ch1.forest_harmless_snack}?"
+msgid "No"
+msgstr "食べない"
+
+msgid "A large window. You can see an empty waiting room inside."
+msgstr "大きな窓。無人の待合室が中に見える。"
+
+msgid "A large window. You can't see anything through it."
+msgstr "大きな窓。中は見えない。"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.dlg.narrator"
+msgid "There's no need to go back down."
+msgstr "もう線路に戻る必要はない。"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.dlg.narrator"
+msgid "It's not a good idea to go down there."
+msgstr "降りるのは得策ではない。"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.choice"
+msgid "Descend onto the train tracks?"
+msgstr "線路に降りる？"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.choice.Descend onto the train tracks?"
+msgid "Yes"
+msgstr "降りる"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.choice.Descend onto the train tracks?"
+msgid "No"
+msgstr "降りない"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.dlg.narrator"
+msgid "There's no need to go back down."
+msgstr "もう線路に戻る必要はない。"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.dlg.narrator"
+msgid "It's not a good idea to go down there."
+msgstr "降りるのは得策ではない。"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.choice"
+msgid "Descend onto the train tracks?"
+msgstr "線路に降りる？"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.choice.Descend onto the train tracks?"
+msgid "Yes"
+msgstr "降りる"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.choice.Descend onto the train tracks?"
+msgid "No"
+msgstr "降りない"

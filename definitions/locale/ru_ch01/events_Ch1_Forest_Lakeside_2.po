@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "Вылить ${item:ch1.bucket_full}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "Вылить ${item:ch1.bucket_full_holy}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "The faucet isn't working."
+msgstr "Кран не работает."
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "Наполнить ${item:ch1.bucket}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "There's a boat paddle here."
+msgstr "Здесь лежит весло."
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "Взять ${item:ch1.forest_paddles}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "I don't think this is where I'm supposed to put them..."
+msgstr "Мне кажется, это нужно положить не сюда..."
+
+msgid "The note said something about a \"little keeper\"...?"
+msgstr "В записке было написано про какого-то \"крохотного хранителя\"..."
+
+msgid "There's a faucet coming out of the water."
+msgstr "Из воды выходит кран."
+
+msgid "Turn it on?"
+msgstr "Включить его?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Turn it on?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Turn it on?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Nothing is coming out of the faucet."
+msgstr "Из крана ничего не течёт."
+
+msgid "The water flows freely from the faucet."
+msgstr "Из крана свободно льётся вода."
+
+msgid "Something's floating near the stream..."
+msgstr "Возле струи воды что-то плавает..."
+
+msgid "Take ${item:ch1.doorknob_library_fragment}?"
+msgstr "Взять ${item:ch1.doorknob_library_fragment}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Take ${item:ch1.doorknob_library_fragment}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Take ${item:ch1.doorknob_library_fragment}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Pink water lilies can be seen."
+msgstr "Здесь можно увидеть водяные лилии розового цвета."
+
+msgid "Take some ${item:ch1.lakeside_petals_pink}?"
+msgstr "Взять ${item:ch1.lakeside_petals_pink}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_pink}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_pink}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A structure housing a lamp."
+msgstr "Конструкция с лампой внутри."
+
+msgid "The water is calm."
+msgstr "Вода спокойна."

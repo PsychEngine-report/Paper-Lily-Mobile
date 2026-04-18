@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.event_enter.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Aoi, stay close."
+msgstr "Aoi này, đi sát vào đấy."
+
+msgid "Okay..."
+msgstr "Rùi..."
+
+msgid "There's no point in seasoning them."
+msgstr "Nêm gia vị lên bọn nó chả có nghĩa lý gì."
+
+msgid "Whacha doing?"
+msgstr "Làm gì á?"
+
+msgid "Uh... Nothing."
+msgstr "Ờ... đâu có."
+
+msgid "(Does salt not work on all demons...?)"
+msgstr "(Muối không có công hiệu lên mọi loại quỷ à...?)"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_on_head.dlg.narrator"
+msgid "Better not to."
+msgstr "Thôi đừng thì hơn."
+
+msgid "Don't do that!"
+msgstr "Đừng có làm!"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_on_head.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Sorry... Uh..."
+msgstr "Xin lỗi... Ờ..."
+
+msgid "What if its body comes here... if you stab it?"
+msgstr "Cậu đâm nó... rồi lỡ phần thân nó mò tới thì sao?"
+
+msgid "Why would that happen?"
+msgstr "Chi mà xảy ra thế được?"
+
+msgid "I don't know... I don't want to risk it."
+msgstr "Tớ không biết... Tớ không muốn đánh liều."
+
+msgid "...Fair enough."
+msgstr "...Nói phải."
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_salt_on_plants.dlg.narrator"
+msgid "Better not to."
+msgstr "Thôi đừng thì hơn."
+
+msgid "(Better not do that.)"
+msgstr "(Đừng làm thì hơn.)"
+
+msgid "(This little plant is the only thing standing between us and those fairy heads...)"
+msgstr "(Ngăn cách bọn mình với mấy cái đầu yêu tinh đó có mỗi cái cây bé nhỏ này thôi mà...)"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.misc_head_a.dlg.narrator"
+msgid "A fairy head, or something."
+msgstr "Cái đầu yêu tinh, hay gì đó."
+
+msgid "Its mouth is wide open..."
+msgstr "Miệng nó há rộng kìa..."
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.misc_head_b.dlg.narrator"
+msgid "A fairy head, or something."
+msgstr "Cái đầu yêu tinh, hay gì đó."
+
+msgid "Its nostrils are weird."
+msgstr "Lỗ mũi nó kì kì."
+
+msgid "Its eyes look creepy..."
+msgstr "Mắt nó trông ghê quá..."
+
+msgid "Another one of those plants."
+msgstr "Lại một trong mấy cái cây đó nữa."

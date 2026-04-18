@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There are colored thread rolls inside."
+msgstr "İçinde renkli iplik ruloları var."
+
+msgid "The red thread may be useful."
+msgstr "Kırmızı iplik işe yarayabilir."
+
+msgid "Take ${item:ch1.thread}?"
+msgstr "${item:ch1.thread} Al?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "My parents' bed."
+msgstr "Ebeveynlerimin yatağı."
+
+msgid "A bookshelf with complicated books."
+msgstr "Karışık kitaplarla dolu bir kitaplık."
+
+msgid "Black... Black... No red markers here."
+msgstr "Siyah... Siyah... Burada kırmızı kalem yok."
+
+msgid "Maybe in my room?"
+msgstr "Belki odamda vardır?"
+
+msgid "Maybe downstairs?"
+msgstr "Belki alt kattadır?"
+
+msgid "A classic alarm clock."
+msgstr "Klasik bir çalar saat."
+
+msgid "Father doesn't trust the alarm app."
+msgstr "Babam alarm uygulamasına güvenmiyor."
+
+msgid "A computer chair."
+msgstr "Bir bilgisayar sandalyesi."
+
+msgid "A computer chair. Yours is better."
+msgstr "Bir bilgisayar sandalyesi. Seninki bundan daha iyi."
+
+msgid "An older computer."
+msgstr "Eski bir bilgisayar."
+
+msgid "It's mostly for spreadsheets, so you can't game on it."
+msgstr "Daha çok elektronik tablolamalar için, o yüzden oyun oynayamazsın."
+
+msgid "A plant."
+msgstr "Bir bitki."
+
+msgid "A plant. We have several like this one."
+msgstr "Bir bitki. Bunun gibi birkaç tane daha var."
+
+msgid "A sewing kit."
+msgstr "Dikiş seti."
+
+msgid "A shelf with nothing of interest."
+msgstr "İlginç çekici bir şey olmayan bir raf."
+
+msgid "The wardrobe. It doesn't close well anymore."
+msgstr "Gardırop. Kapağı artık tam kapanmıyor."
+
+msgid "Something is written on the door:"
+msgstr "Kapıda bir şey yazıyor:"
+
+msgid "\"The wardrobe is stuffy, isn't it? You almost can't breathe in there."
+msgstr "\"Gardırop çok havasız, değil mi? İçeride neredeyse nefes alınmıyor."
+
+msgid "You almost stopped breathing. Take a deep breath, Lacie.\""
+msgstr "Neredeyse nefes almayı bırakıyordun. Derin bir nefes al, Lacie.\""
+
+msgid "Open it?"
+msgstr "Gardırobu aç?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A cold breeze blows from inside."
+msgstr "İçeriden soğuk bir esinti geliyor."
+
+msgid "There's a few clothes inside."
+msgstr "İçeride birkaç parça kıyafet var."

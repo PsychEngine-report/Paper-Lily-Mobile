@@ -1,0 +1,635 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Red_B1F.event_code_failure.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "The code was incorrect."
+msgstr "Код введён неверно."
+
+msgctxt "events.Ch1_Red_B1F.event_code_success.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "The door opens!"
+msgstr "Дверь открылась!"
+
+msgid "Now that I think about it, this is a strange location for such a large mirror."
+msgstr "Если так подумать, то такое большое зеркало стоит в необычном месте."
+
+msgid "Maybe there's something behind it?"
+msgstr "Может, за ним что-то скрывается?"
+
+msgid "Kick the mirror?"
+msgstr "Пнуть зеркало?"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.choice.Kick the mirror?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.choice.Kick the mirror?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A door... and a keypad... for a code, I think."
+msgstr "Дверь... и кодовый замок..."
+
+msgid "Is it the door behind the mirror?"
+msgstr "Это что, дверь за зеркалом?"
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Может, найдётся способ получше?)"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.dlg.unknown"
+msgid "Here you go."
+msgstr "Держи."
+
+msgid "...Huh. Thanks."
+msgstr "...Да ну? Спасибо."
+
+msgid "I'm not carrying this thing around..."
+msgstr "Я не буду таскать это с собой..."
+
+msgid "Pssst."
+msgstr "Пссс."
+
+msgid "Hey girlie."
+msgstr "Эй, краля."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "...?"
+msgstr "?.."
+
+msgid "Been a while since I've seen anybody come down here."
+msgstr "Давненько меня тут не проведывали."
+
+msgid "Even that smug asshole hasn't been around."
+msgstr "Даже этого напыщенного сучёныша не видно."
+
+msgid "Who do you mean?"
+msgstr "О ком это ты?"
+
+msgid "You know who I mean, or you wouldn't be snooping around here, would ya?"
+msgstr "Сама знаешь, о ком я, иначе бы не проводила тут обыск, не думаешь?"
+
+msgid "...Red?"
+msgstr "...Ты о Рэде?"
+
+msgid "Ding ding diiiing!"
+msgstr "В точку!"
+
+msgid "Did Red lock you in here?"
+msgstr "Это Рэд тебя здесь закрыл?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "Correct."
+msgstr "Верно."
+
+msgid "Why?"
+msgstr "Почему?"
+
+msgid "My, aren't you asking lots of questions..."
+msgstr "Ну, что же ты меня вопросами засыпаешь..."
+
+msgid "Maybe I'll tell you if you come a bit closer."
+msgstr "Может, если подойдёшь поближе - расскажу."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice"
+msgid "Get closer?"
+msgstr "Подойти ближе?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice.Get closer?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice.Get closer?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Aww... What a shame."
+msgstr "Ой как жаль."
+
+msgid "No more chit chat then."
+msgstr "Тогда не поговорим."
+
+msgid "(Better safe than sorry.)"
+msgstr "(Лучше жить, чем потом жалеть.)"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "That's the spirit."
+msgstr "Вот это я понимаю."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "Рэд меня закрыл, потому что я порой могу вызывать неприятности."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "I'm the only one who can cast curses."
+msgstr "Я единственный умею накладывать проклятия."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "Curses...?"
+msgstr "Проклятия?.."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "Ты один-единственный? Тогда это ты виноват в моём проклятии?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "Если подойдёшь поближе, может, и расскажу."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "That's the spirit."
+msgstr "Вот это я понимаю."
+
+msgid "Welcome back, what is it you wanted to know again?"
+msgstr "Ну здравствуй. Ещё раз, что ты там хотела?"
+
+msgid "Why are you locked up?"
+msgstr "Почему ты в клетке?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "Рэд меня закрыл, потому что я порой могу вызывать неприятности."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "I'm the only one who can cast curses."
+msgstr "Я единственный умею накладывать проклятия."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.lacie"
+msgid "Curses...?"
+msgstr "Проклятия?.."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.lacie"
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "Ты один-единственный? Тогда это ты виноват в моём проклятии?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "Если подойдёшь поближе, может, и расскажу."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice"
+msgid "Get closer?"
+msgstr "Подойти ближе?"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice.Get closer?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice.Get closer?"
+msgid "No"
+msgstr "Нет"
+
+msgid "I have a feeling you'll just try to kill me."
+msgstr "Что-то мне подсказывает, что ты меня убьёшь."
+
+msgid "Hahahaha!"
+msgstr "Ха-ха-ха-ха!"
+
+msgid "Fine then, I'll humor you this time."
+msgstr "Ну ладно, так уж и быть, скажу."
+
+msgid "I didn't curse you."
+msgstr "Я тебя не проклинал."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.lacie"
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "А кто тогда? Сам же сказал, что только ты можешь наложить проклятие."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.unknown"
+msgid "...and live."
+msgstr "...и выжить."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.lacie"
+msgid "...?"
+msgstr "?.."
+
+msgid "Look girlie, I hate doing shit for free."
+msgstr "Слушай, краля, я даром за это дерьмо спину гнуть не буду."
+
+msgid "Yep. It's a shortcut."
+msgstr "Да, это короткий путь."
+
+msgid "It needs a code."
+msgstr "К нему нужен код."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_door.dlg.unknown"
+msgid "Correct."
+msgstr "Верно."
+
+msgid "I can give it to you, provided you do one more thing for me."
+msgstr "Сделаешь для меня кое-что, тогда могу дать и код."
+
+msgid "How do I know it's actually a shortcut?"
+msgstr "Откуда мне знать, что это точно короткий путь?"
+
+msgid "You don't. You'll just have to trust me."
+msgstr "Неоткуда, уж придётся тебе поверить мне на слово."
+
+msgid "Sounds like a bad choice."
+msgstr "Звучит как паршивое решение."
+
+msgid "Your call, girlie."
+msgstr "Как хочешь, краля."
+
+msgid "If you bring me a blue light, I'll give you the code."
+msgstr "Принеси мне синий свет, а я тебе код."
+
+msgid "A blue light?"
+msgstr "Синий свет?"
+
+msgid "Correct. A blue light. Not green, not red, certainly not white. A blue light."
+msgstr "Верно. Синий свет. Не зелёный, не красный, и точно не белый. Синий свет."
+
+msgid "I have this blue candle, does it count?"
+msgstr "Эта синяя свечка считается?"
+
+msgid "I'll be damned, you already have it?"
+msgstr "Да чтоб меня черти драли, уже нашла?"
+
+msgid "Then give it to me, unless you don't want the code."
+msgstr "Давай тогда сюда, если хочешь узнать код."
+
+msgid "Where am I going to find that?"
+msgstr "И где мне его найти?"
+
+msgid "Don't know. I think I saw a candle-looking guy selling some a while back."
+msgstr "Не знаю. Вроде как я недавно видел, как его продавал типчик, который выглядит как свечка."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_door.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Hey wait wait!"
+msgstr "Эй-эй, стоять!"
+
+msgid "Won't you do something for me? Pretty please little girl?"
+msgstr "Ты мне поможешь с кое-чем? Молю тебя, малышка."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_leave.dlg.lacie"
+msgid "No thank you."
+msgstr "Нет уж, спасибо."
+
+msgid "Come oooonnn, I've been stuck here for years, help me out!"
+msgstr "Да ла-а-адно тебе, я тут уже пару лет торчу, выручи!"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_leave.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Tch."
+msgstr "Тц."
+
+msgid "When I get out of here..."
+msgstr "Вот когда я выберусь..."
+
+msgid "I'll make you suffer."
+msgstr "Ты у меня будешь страдать."
+
+msgid "It's a promise."
+msgstr "Зуб даю."
+
+msgid "You do something I ask, and I'll answer one of your questions. Yeah?"
+msgstr "Сделаешь для меня кое-что, а я отвечу на один твой вопрос. Идёт?"
+
+msgid "You want me to open your cage?"
+msgstr "Хочешь, чтобы я открыла твою клетку?"
+
+msgid "Hahahaha as if you could! You severely overestimate yourself, kid."
+msgstr "Ха-ха-ха-ха! Если бы! Ты себя переоцениваешь, малая."
+
+msgid "No, this is something you can actually do."
+msgstr "Нет, помоги с тем, с чем сможешь справиться."
+
+msgid "I can't see it from here, but somewhere in this room there should be a jar of slugs."
+msgstr "Отсюда мне не видно, но где-то в этой комнате есть банка со слизняками."
+
+msgid "Slugs?"
+msgstr "Слизняками?"
+
+msgid "Yeah. Large, slimy, gross? You know."
+msgstr "Ага. Большие такие, скользкие и мерзкие, сама понимаешь."
+
+msgid "Bring it to me and we can continue this conversation."
+msgstr "Неси их ко мне, а потом продолжим разговор."
+
+msgid "I won't be coming anywhere close to you."
+msgstr "Я к тебе и близко не подойду."
+
+msgid "Fair."
+msgstr "Справедливо."
+
+msgid "Throw it to me from where you're standing right now then, if you're such a scaredy cat."
+msgstr "Тогда можешь бросить их мне откуда стоишь, если так страшно."
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_request.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "...!"
+msgstr "!.."
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.unknown"
+msgid "..."
+msgstr "..."
+
+msgid "You tricked me."
+msgstr "Ты меня обманул."
+
+msgid "Not exactly."
+msgstr "Не совсем."
+
+msgid "Just tell me. Did you curse me?"
+msgstr "Скажи прямо - ты меня проклял?"
+
+msgid "I did not."
+msgstr "Нет."
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.lacie"
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "А кто тогда? Сам же сказал, что только ты можешь наложить проклятие."
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.unknown"
+msgid "...and live."
+msgstr "...и выжить."
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.lacie"
+msgid "...?"
+msgstr "?.."
+
+msgid "Look girlie, you get the drift."
+msgstr "Слушай, краля, ты всё знаешь."
+
+msgid "Amazing..."
+msgstr "Невероятно..."
+
+msgid "I haven't seen a light in years..."
+msgstr "Я столько лет не видел свет..."
+
+msgid "So bright..."
+msgstr "Такой яркий..."
+
+msgid "So warm..."
+msgstr "И тёплый..."
+
+msgid "*Ahem*"
+msgstr "*Кхм-кхм*"
+
+msgid "Yeah yeah, thanks girlie."
+msgstr "Ну да-да, спасибо, краля."
+
+msgid "You really did me a solid here."
+msgstr "Ты мне сильно подсобила."
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.unknown"
+msgid "I'll remember this."
+msgstr "Я этого не забуду."
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.unknown"
+msgid "Here you go."
+msgstr "Держи."
+
+msgid "Thanks."
+msgstr "Спасибо."
+
+msgid "What's your name?"
+msgstr "Как тебя зовут?"
+
+msgid "There's no need to get buddy-buddy. You won't be alive for long enough for us to meet again."
+msgstr "Не надо со мной корешиться. Ты не проживёшь столько, чтобы потом со мной встретиться."
+
+msgid "...But if we do, I'll make sure to introduce myself properly."
+msgstr "Но если мы ещё встретимся, я обязательно представлюсь."
+
+msgid "Why... why are you giving this to me?"
+msgstr "Зачем... Зачем ты мне его дала?"
+
+msgid "I don't know... just a feeling?"
+msgstr "Не знаю... шестое чувство?"
+
+msgid "Hahahahahaha incredible... were you just screwing with me before?"
+msgstr "Ха-ха-ха-ха-ха, невероятно... так ты просто хотела надо мной пошутить?"
+
+msgid "I guess I'm not gonna make you suffer after all."
+msgstr "Значит, твои страдания отменяются."
+
+msgid "Here, take the slugs as well."
+msgstr "Вот, и слизней возьми."
+
+msgid "Huh..."
+msgstr "Ого..."
+
+msgid "I don't know who you are but..."
+msgstr "Не знаю, кто ты, но..."
+
+msgid "So... about this room..."
+msgstr "Итак, насчёт этой комнаты..."
+
+msgid "Oh man you're slow. Check the mirror."
+msgstr "О боже, ну ты и черепаха. Проверь зеркало."
+
+msgid "Hahahahahaha oh god... so good..."
+msgstr "Ха-ха-ха-ха-ха, боже ж ты мой... как же хорошо..."
+
+msgid "There's your jar."
+msgstr "Держи свою банку."
+
+msgid "Good..."
+msgstr "Хорошо..."
+
+msgid "What would you like to know?"
+msgstr "Что ещё ты хочешь знать?"
+
+msgid "You said you're the only demon who can inflict curses, correct?"
+msgstr "Ты сказал, что ты единственный демон, который умеет накладывать проклятия, правильно?"
+
+msgid "Did you place this curse on me?"
+msgstr "Тогда это ты проклял меня?"
+
+msgid "I'm the only demon who can inflict curses and LIVE."
+msgstr "Я единственный демон, который может наложить проклятие и ВЫЖИТЬ."
+
+msgid "Any demon can place a curse on someone on their dying breath."
+msgstr "Любой демон может наложить проклятие на последнем издыхании."
+
+msgid "But I can place a thousand, with no repercussions."
+msgstr "А я могу хоть тысячу - без последствий."
+
+msgid "(Isn't that a bit OP?)"
+msgstr "(А это не имбово?)"
+
+msgid "That sounds too powerful."
+msgstr "Звучит слишком мощно."
+
+msgid "Why do you think I'm locked up?"
+msgstr "А ты как думаешь, почему меня тут закрыли?"
+
+msgid "Red's being a little bitch about it."
+msgstr "Рэд в этом плане - вообще сука редкостная."
+
+msgctxt "events.Ch1_Red_B1F.item_jar_on_prisoner.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're obviously a human with a weird aura."
+msgstr "Ты сто пудов человек со странной аурой."
+
+msgid "You lookin' to remove your curse?"
+msgstr "Хочешь снять проклятие?"
+
+msgid "Yes."
+msgstr "Да."
+
+msgid "Then you'd probably need Red's help."
+msgstr "Тогда тебе нужна помощь Рэда."
+
+msgid "Yes, that's the idea."
+msgstr "Да, я так и думала."
+
+msgid "How do you plan to do that?"
+msgstr "Ну и как ты собираешься это сделать?"
+
+msgid "Someone told me to go to the lighthouse, so I have to go North."
+msgstr "Мне кое-кто сказал пойти к маяку, так что мне надо двигаться на север."
+
+msgid "Ooh~ North."
+msgstr "О-хо-хо~ На север."
+
+msgid "You're gonna die if you go through the locked site, y'know?"
+msgstr "Знаешь, если пойдёшь через закрытую зону, то по-любому подохнешь."
+
+msgid "What other choice do I have?"
+msgstr "А какой у меня выбор?"
+
+msgid "There's always another choice."
+msgstr "Всегда есть другой путь."
+
+msgid "Do you mean that door to the right?"
+msgstr "Ты про дверь справа?"
+
+msgid "Is that so..."
+msgstr "Да ну?"
+
+msgid "You just haven't looked around this room well enough."
+msgstr "Ты просто плохо изучила эту комнату."
+
+msgid "...Actually, I have no idea."
+msgstr "...А вообще, я понятия не имею."
+
+msgid "Ahahahaha, you crack me up!"
+msgstr "А-ха-ха-ха, какая же ты угарная!"
+
+msgid "Any suggestions?"
+msgstr "Будут предложения?"
+
+msgid "Why not follow Red? That little shit left through here last time."
+msgstr "Почему бы не пойти за Рэдом? Этот сучёныш прошёл через это место."
+
+msgid "But that was long ago."
+msgstr "Но давно это было."
+
+msgid "Do you mean through that door to the right?"
+msgstr "То есть он прошёл через эту дверь справа?"
+
+msgid "Through... here? What do you mean?"
+msgstr "Через... это место? О чём ты?"
+
+msgid "You haven't looked at this room much, have you?"
+msgstr "Неужели ты тут недостаточно осмотрелась?"
+
+msgid "A plain cardboard box."
+msgstr "Обычная картонная коробка."
+
+msgid "Some cardboard boxes."
+msgstr "Несколько картонных коробок."
+
+msgid "A blue butterfly."
+msgstr "Синяя бабочка."
+
+msgid "A sturdy cage housing a being."
+msgstr "Прочная клетка, в которой обитает некто."
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_1.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "В ящиках ничего нет."
+
+msgid "A jar filled with slugs."
+msgstr "Банка со слизняками."
+
+msgid "(They're alive in there...)"
+msgstr "(Они там живые...)"
+
+msgid "Take ${item:ch1.red_jar}?"
+msgstr "Взять предмет: ${item:ch1.red_jar}?"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.choice.Take ${item:ch1.red_jar}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.choice.Take ${item:ch1.red_jar}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "The drawers underneath are empty."
+msgstr "Ящики снизу пустые."
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "В ящиках ничего нет."
+
+msgid "Bug-themed lamps."
+msgstr "Лампы в жучином стиле."
+
+msgid "I'm not going to carry the slugs with me..."
+msgstr "Я не буду таскаться с этими слизняками..."
+
+msgid "A large mirror."
+msgstr "Большое зеркало."
+
+msgctxt "events.Ch1_Red_B1F.move_secret.dlg.lacie"
+msgid "...?"
+msgstr "?.."
+
+msgid "A door with a keypad has been exposed."
+msgstr "За разбитым зеркалом скрывается дверь."
+
+msgid "Input a code?"
+msgstr "Ввести код?"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Input a code?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Input a code?"
+msgid "No"
+msgstr "Нет"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "Если я пойду туда, то не смогу помочь Козмо..."
+
+msgid "Continue down this path?"
+msgstr "Продолжить путь?"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Continue down this path?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Continue down this path?"
+msgid "No"
+msgstr "Нет"

@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Huh... A bathroom?)"
+msgstr "(Aa... Bir banyo mu?)"
+
+msgid "Um... excuse me."
+msgstr "Ee... Pardon."
+
+msgid "Could you wait outside?"
+msgstr "Dışarıda bekleyebilir misiniz?"
+
+msgid "Wha-? Oh. Of course."
+msgstr "N-ne? Ah. Tabii ki."
+
+msgid "I- ...I guess I'll stay out there."
+msgstr "S-...Sanırım dışarıda duracağım."
+
+msgid "Scream if you need me."
+msgstr "Eğer bana ihtiyacın olursa seslen."
+
+msgid "...I won't."
+msgstr "... Ben olsam seslenmezdim."
+
+msgid "(Now I get to have some time away from that guy.)"
+msgstr "(Şimdi bu adamdan uzak durmak için biraz zamanım var.)"
+
+msgid "(Is it really safe to have him around?)"
+msgstr "(Çevrede bu adamın olması gerçekten güvenli mi?)"
+
+msgid "(A bathroom?)"
+msgstr "(Bir banyo mu?)"
+
+msgid "(I hope that guy won't find me here.)"
+msgstr "(Umarım bu adam beni burada bulamaz.)"
+
+msgid "(I don't really trust him... Hopefully he's not searching for me...)"
+msgstr "(Ona gerçekten de güvenmiyorum... Umarım beni aramıyordur...)"
+
+msgid "(Hiro would tell me to have a bit of faith in others, but...)"
+msgstr "(Hiro olsaydı bana biraz umut etmemi söylerdi, ama...)"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I wonder if I could ask Hiro.)"
+msgstr "(Hiro'ya sorabilir miyim ki acaba?)"
+
+msgid "(Is it even possible to call from here?)"
+msgstr "(Buradan arama yapmak dahi mümkün mü?)"
+
+msgid "(I still have no signal... but... that didn't matter last time.)"
+msgstr "(Hala sinyal alamıyorum...ama...farketmezdi zaten.)"
+
+msgid "Oh... I'm out of battery."
+msgstr "Oh... Şarjım bitti."
+
+msgid "That's not good... I suppose using it as a flashlight killed it."
+msgstr "Bu hiç iyi değil... El fenerimin şarjı bittiğinden sanırım bunu kullanacağım."
+
+msgid "...Oh well."
+msgstr "Ah pekala."
+
+msgid "I'll give it a try."
+msgstr "Bunu bi deneyeyim."
+
+msgid "Lace!"
+msgstr "Lace!"
+
+msgid "Oh good..."
+msgstr "Oh neyse ki..."
+
+msgid "Thank goodness I can reach you, Hiro..."
+msgstr "Tanrıya şükürler olsun ki sana ulaştım, Hiro..."
+
+msgid "Are you alright!?"
+msgstr "İyi misin!?"
+
+msgid "What happened!?"
+msgstr "Ne oldu!?"
+
+msgid "Are you safe!?"
+msgstr "Güvende misin!?"
+
+msgid "Yes, I'm okay."
+msgstr "Evet, iyiyim."
+
+msgid "(Though I did fall down the stairs and wake up in some sort of dungeon...)"
+msgstr "(Merdivenlerden düştüğümü ve bir zindanda uyandığımı düşündüm...)"
+
+msgid "(and there's a strange guy following me everywhere...)"
+msgstr "(ve garip bir adam beni her yerde takip ediyordu...)"
+
+msgid "(...and there was a strange guy following me everywhere...)"
+msgstr "(ve beni her yerde takip eden garip bir adam vardı...)"
+
+msgid "(...and Rune said there's no way out.)"
+msgstr "(ve Rün buradan hiçbir çıkış yolu olmadığını söyledi.)"
+
+msgid "Everything is okay, don't worry."
+msgstr "Her şey yolunda,endişelenme."
+
+msgid "Thank god."
+msgstr "Tanrıya şükür."
+
+msgid "Is everything alright? Why are you whispering?"
+msgstr "Her şey yolunda mı? Ne mırıldanıyorsun?"
+
+msgid "Because there's someone right outside, and..."
+msgstr "Çünkü dışarıda birileri var, ve..."
+
+msgid "Because someone might be looking for me."
+msgstr "Çünkü birileri beni arıyor olabilir."
+
+msgid "An enemy!?"
+msgstr "Bir düşman?"
+
+msgid "No, well... he says he's not."
+msgstr "Ah, hayır... O düşman olmadığını söyledi."
+
+msgid "And now he's following me around."
+msgstr "Ve şimdi beni takip ediyor."
+
+msgid "You made a friend!?"
+msgstr "Bir arkadaş mı edindin!?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "No."
+msgstr "Hayır."
+
+msgid "I don't really trust him."
+msgstr "Aslında ona güvenmiyorum."
+
+msgid "But maybe it's better to have company! He might be willing to tag along and help!"
+msgstr "Fakat belki de birlik olmamız daha iyidir! Birlikte hareket etmeye ve bana yardım etmeye istekli olabilir."
+
+msgid "But... that's why it's strange."
+msgstr "Fakat... Zaten bu yüzden garip."
+
+msgid "Why is he willing to tag along?"
+msgstr "Neden seninle birlikte hareket etmek istiyor ki?"
+
+msgid "...You know how people act around me, Hiro..."
+msgstr "Çevredeki insanların bana nasıl davrandıklarını biliyorsun, Hiro..."
+
+msgid "And he's just acting...like nothing is wrong with me."
+msgstr "Ve o sadece... Benimle bir derdi yokmuş gibi davranıyor."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.hiro"
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+msgid "You sound conflicted."
+msgstr "Kulağa kendinle çelişiyormuşsun gibi geliyor."
+
+msgid "Well... I don't really care, I just..."
+msgstr "Eee... Aslında umrumda değil, sadece..."
+
+msgid "He's just shady."
+msgstr "Sadece şüpheli davranan birisi."
+
+msgid "Well, tell you what. It's your choice."
+msgstr "Eh, ne olduğunu söyledin. Senin tercihin."
+
+msgid "You can have him tag along and see how it plays out..."
+msgstr "Birlikte hareket edebilir ve oyunun nasıl oynandığını görebilirsin..."
+
+msgid "...or you can ditch him."
+msgstr "... ya da onu tuzağa düşürebilirsin."
+
+msgid "No, well... he said he's not."
+msgstr "Hayır, Aa... O bana öyle birisi olmadığını söyledi."
+
+msgid "But... it doesn't matter. I already got rid of him."
+msgstr "Ama... hiç farketmez. Ondan çoktan kurtuldum."
+
+msgid "Well, I can't condone murder but..."
+msgstr "Yani, bir katili affedemem ama..."
+
+msgid "No! Not like that! Hiro!"
+msgstr "Hayır! Bundan hoşlanmadım! Hiro!"
+
+msgid "He's still somewhere around... I just slipped away for a bit."
+msgstr "O hala etrafta bir yerlerde... Sadece bir şeyleri kaçırdım."
+
+msgid "Well, tell you what."
+msgstr "Peki, ne olduğunu söyle."
+
+msgid "Next time he finds you, you could try locking him up somewhere."
+msgstr "Bir dahaki sefere seni bulduğunda, onu bir yerlere hapsetmeyi deneyebilirsin."
+
+msgid "Huh... it's not like you to suggest something like that."
+msgstr "Huh... Böyle bir şey önermenden hoşlanmadım."
+
+msgid "Well, I personally think you should have a bit of faith in him! But it's up to you."
+msgstr "Pekala, bence ona biraz inancın olmalı! Ama bu sana bağlı."
+
+msgid "Well, I personally think you could go back and apologize."
+msgstr "Ee şey, şahsen senin geri dönüp özür dileyeceğini düşünmüştüm."
+
+msgid "Nothing wrong with making a friend, right? Still, it's up to you."
+msgstr "Arkadaş edinmekte hiçbir sorun yok, değil mi? Bu, hala sana bağlı."
+
+msgid "(Yeah... that's more like it.)"
+msgstr "(Eh işte...Sanırım doğru. )"
+
+msgid "I should go."
+msgstr "Gitmeliyim."
+
+msgid "Be careful, Lace."
+msgstr "Dikkatli ol, Lace."
+
+msgid "Get back home safely."
+msgstr "Eve dikkatli git."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "Yeah."
+msgstr "Pekala."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "I can't believe I'm entertaining this idea."
+msgstr "Bu fikri gülünç bulduğuma inanamıyorum."
+
+msgid "This is the stupidest thing I've ever done."
+msgstr "Yaptığım en aptalca şeydi."
+
+msgid "Just a few more trips!"
+msgstr "Sadece bir kaç adım daha!"
+
+msgid "This'll work, you'll see."
+msgstr "İşe yarayacak, göreceksin. "
+
+msgid "There's no way."
+msgstr "Burada çıkış yok."
+
+msgid "At least this is a good workout."
+msgstr "En azından, iyi bir egzersiz oldu."
+
+msgid "(I'm not fit enough for this...)"
+msgstr "(Bunun için yeterince formda değilim...)"
+
+msgid "Sigh... What makes you think the drain isn't connected to the water we're removing..."
+msgstr "Uff... Sence borunun tıkanmasına ne sebep oluyor olabilir..."
+
+msgid "Hm... I don't know."
+msgstr "Hm... Bilmiyorum."
+
+msgid "Well, too late to consider that now."
+msgstr "Peki, bunu göz önünde bulundurmak için çok geç."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(What possessed me to agree to this?)"
+msgstr "(Bunu yapmaya nasıl ikna oldum?)"
+
+msgid "We're really bonding over this, don't you think?"
+msgstr "Bunu gerçekten bağladık, öyle değil mi?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "....."
+msgstr "..."
+
+msgid "One Eternity Later..."
+msgstr "Sonsuz gibi geçen bir sürenin ardından..."
+
+msgid "You actually did it."
+msgstr "Bunu gerçekten de yaptın."
+
+msgid "Congratulations!"
+msgstr "Tebrikler!"
+
+msgid "This is nothing. Just wait until you hear my other ideas."
+msgstr "Bu hiçbir şey. Sadece benim diğer fikirlerimi duyana kadar bekle."
+
+msgid "I very much look forward to it!"
+msgstr "Onları dört gözle bekliyorum!"
+
+msgid "Will she be okay?"
+msgstr "O iyi olacak mı?"
+
+msgid "She'll be fine."
+msgstr "O iyi olacak."
+
+msgid "See? She's still breathing."
+msgstr "Gördün mü? Hala nefes alıyor."
+
+msgid "Um... will you be okay?"
+msgstr "Aa... iyi olabilecek misin? "
+
+msgid "Nice! You're sturdy, aren't you?"
+msgstr "Harika! Sen dayanıklısın, öyle değil mi?"
+
+msgid "You ready to go?"
+msgstr "Gitmeye hazır mısın?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "Yeah."
+msgstr "Evet."
+
+msgid "A mop. It looks like it's never been used."
+msgstr "Bir paspas. Hiç kullanılmamış gibi görünüyor."
+
+msgid "Everything here has been gathering dust for a really long time."
+msgstr "Buradaki her şey gerçekten de uzun zamandır tozlanmış gibi duruyor."
+
+msgid "There's something on this shelf."
+msgstr "Rafta bir şeyler var."
+
+msgid "There's nothing else of use."
+msgstr "Burada kullanışlı hiçbir şey yok."
+
+msgid "A rusted sink."
+msgstr "Paslanmış bir lavabo."
+
+msgid "A bathroom stall. It's occupied."
+msgstr "Bir tuvalet kabini. Dolu."
+
+msgid "Try to open it anyways?"
+msgstr "Açmayı mı denesek?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Something shiny can be seen at the bottom of the toilet bowl."
+msgstr "Klozetin altında parlayan bir şey görünüyor gibi."
+
+msgid "Fish it out?"
+msgstr "Onu klozetten al?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A small hand towel."
+msgstr "Küçük bir el havlusu."
+
+msgid "That took a million years."
+msgstr "Bu hayatımın en uzun geçen zamanıydı."
+
+msgid "Were you talking to someone in there?"
+msgstr "Orada birileriyle mi konuşuyordun?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "No."
+msgstr "Hayır."
+
+msgid "(Did he overhear anything...?)"
+msgstr "(O herhangi bir şey duydu mu?)"
+
+msgid "It kinda sounded like it."
+msgstr "Kulağa öyle geliyor."
+
+msgid "I wasn't."
+msgstr "Konuşmuyordum."
+
+msgid "Oh."
+msgstr "Oh."
+
+msgid "It's cool, I talk to myself sometimes too."
+msgstr "Sorun yok, bazen ben de kendi kendime konuşuyorum."
+
+msgid "Like having a little narrator, right?"
+msgstr "Sanki bir konuşmacı gibi, değil mi?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "....."
+msgstr "..."
+
+msgid "Find anything cool?"
+msgstr "Harhangi bir şey buldun mu?"
+
+msgid "Nope."
+msgstr "Hayır."
+
+msgid "...Where did you get that?"
+msgstr "... Onu nereden aldın?"
+
+msgid "The lollipop? I had 'em with me."
+msgstr "Lolipopu mu? Bendeydi."
+
+msgid "Want some?"
+msgstr "Biraz ister misin?"
+
+msgid "I don't accept candy from strangers."
+msgstr "Yabancılardan şeker kabul etmiyorum."
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai partine katıldı.)"

@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "These flowers seem to belong here... but..."
+msgstr "Estas flores parecem pertencer a este lugar... mas..."
+
+msgid "It would serve no purpose to plant them."
+msgstr "Não serviria de nada plantá-los."
+
+msgid "That would be terrible."
+msgstr "Isso seria terrível."
+
+msgid "A large pile of rubble."
+msgstr "Uma grande pilha de escombros."
+
+msgid "What is this material? Clay?"
+msgstr "O que é esse material? Argila?"
+
+msgid "There's nothing else of interest."
+msgstr "Não há mais nada de interesse."
+
+msgid "Seems like someone has dug here recently."
+msgstr "Parece que alguém cavou aqui recentemente."
+
+msgid "Check it out?"
+msgstr "Confira?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "A set of colorful flowers."
+msgstr "Um conjunto de flores coloridas."
+
+msgid "A cactus among a set of colorful flowers."
+msgstr "Um cacto entre um conjunto de flores coloridas."
+
+msgid "There seems to be something hidden inside the pot."
+msgstr "Parece haver algo escondido dentro da panela."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Pegue a ${item:ch1.forest_lockedsite_key}?"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Você não precisa dessa chave, então ela foi descartada.)"
+
+msgid "There's also a note under the pot."
+msgstr "Há também uma nota embaixo do pote."
+
+msgid "An artistic pot."
+msgstr "Um pote artístico."
+
+msgid "This could work for Kozmo."
+msgstr "Isso poderia funcionar para Kozmo."
+
+msgid "Take ${item:ch1.forest_pot}?"
+msgstr "Pegue o ${item:ch1.forest_pot}?"
+
+msgid "A strange looking... vase? In the shape of a... hand?"
+msgstr "Um vaso de aparência estranha? No formato de uma... mão?"
+
+msgid "A pile of rubble."
+msgstr "Uma pilha de escombros."

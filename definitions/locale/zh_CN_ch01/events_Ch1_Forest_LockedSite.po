@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "这看起来不是个好主意。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "The hole is big enough."
+msgstr "这个洞已经足够大了。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "There's no reason to go back."
+msgstr "没有回去的理由。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "这看起来不是个好主意。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "The hole is big enough."
+msgstr "这个洞已经足够大了。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "There's no reason to go back."
+msgstr "没有回去的理由。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_3.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "这看起来不是个好主意。"
+
+msgid "There's no reason to do that."
+msgstr "没有这样做的理由。"
+
+msgid "There's a gate nearby!"
+msgstr "这附近有扇大门！"
+
+msgid "There's quite a bit of blood in this spot."
+msgstr "这个地方有不少血迹。"
+
+msgid "Someone's remains. You can't tell whether they're human or not."
+msgstr "某人的遗骸。你无法判断它是否是人类。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.lacie"
+msgid "I'd rather not go back in there."
+msgstr "我不想再进去了。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.lacie"
+msgid "The grass is definitely greener on this side."
+msgstr "这边的草更绿一些。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "围墙挡住了你的去路。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice"
+msgid "Use ${item:ch1.forest_bolt_cutter}?"
+msgstr "要使用${item:ch1.forest_bolt_cutter}吗？"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.lacie"
+msgid "I'd rather not go back in there."
+msgstr "我不想再进去了。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.lacie"
+msgid "The grass is definitely greener on this side."
+msgstr "这边的草更绿一些。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "围墙挡住了你的去路。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice"
+msgid "Use ${item:ch1.forest_bolt_cutter}?"
+msgstr "要使用${item:ch1.forest_bolt_cutter}吗？"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_3.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "围墙挡住了你的去路。"
+
+msgid "A long fence."
+msgstr "很长的围栏。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_door.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "这看起来不是个好主意。"
+
+msgid "There's no way I'm going back in there."
+msgstr "我不可能再进去了。"
+
+msgid "There's a note on the floor:"
+msgstr "地板上有一张字条："
+
+msgid "The petal trail ends here."
+msgstr "花瓣痕迹到此为止了。"
+
+msgid "They didn't make it to the exit..."
+msgstr "它没能走到出口..."

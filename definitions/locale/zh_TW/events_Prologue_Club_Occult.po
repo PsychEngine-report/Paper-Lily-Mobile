@@ -1,0 +1,1127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What are you looking at?"
+msgstr "妳在看什麼？"
+
+msgid "Get out of my face."
+msgstr "別出現在我面前。"
+
+msgid "My seat is on the second row from the front, in class 3-C."
+msgstr "我的位子在前面數來第二排，3-C 教室。"
+
+msgid "Maybe you don't suck as much as I thought."
+msgstr "也許妳沒我想的那麼爛。"
+
+msgid "I'm surprised you even gave it back. Maybe I misjudged you."
+msgstr "我很意外妳會還給我。我錯怪妳了。"
+
+msgid "I bet you think you're SO funny. We have other plans for the night anyway."
+msgstr "妳一定覺得妳自己很有趣。反正我們今晚還有別的計劃。"
+
+msgid "Whatever you say!"
+msgstr "隨便妳怎麼說！"
+
+msgid "Don't talk to me anymore. I won't forget this."
+msgstr "別再跟我說話了。我記住妳了。"
+
+msgid "Good luck with your game."
+msgstr "祝妳的遊戲順利。"
+
+msgid "(She's really concentrated on fixing her ribbon. Best not to disturb her.)"
+msgstr "(她真的很專心地在弄她的緞帶。最好別打擾她。)"
+
+msgid "(She's angrily fidgeting with her ribbon. Best not to bother her anymore.)"
+msgstr "(她很生氣地在翻弄她的緞帶。最好別再打擾她了。)"
+
+msgid "It's good to finally make some new friends."
+msgstr "能交到新朋友真是太好了。"
+
+msgid "Are you leaving this here?"
+msgstr "妳要把這個留下嗎？"
+
+msgid "Why not? I'll pick it up before going home."
+msgstr "何不？我回家前再回來拿。"
+
+msgid "May I look through it?"
+msgstr "我可以看嗎？"
+
+msgid "No...?"
+msgstr "不行...？"
+
+msgid "Ok, let's see..."
+msgstr "好，讓我看看..."
+
+msgid "Um... why is there lettuce in your bag?"
+msgstr "呃...為什麼妳的書包裡有萵苣？"
+
+msgid "Wha- WHAT DID I JUST SAY!?"
+msgstr "妳-妳說什麼！？"
+
+msgid "So... why is there lettuce in your bag?"
+msgstr "所以...為什麼妳的書包裡有萵苣？"
+
+msgid "My mom asked me to pick it up on the way home, okay?"
+msgstr "我媽要我在回家路上買的，可以嗎？"
+
+msgid "God!"
+msgstr "天哪！"
+
+msgid "Fine, fine..."
+msgstr "好啦，好啦..."
+
+msgid "You put the lettuce back."
+msgstr "把萵苣放回去。"
+
+msgid "It's Saki's bag."
+msgstr "這是沙紀的書包。"
+
+msgid "Saki's bag is gone."
+msgstr "沙紀的書包不見了。"
+
+msgid "What? Where is my bag?"
+msgstr "什麼？我的書包呢？"
+
+msgid "Is someone else here with us?"
+msgstr "這裡還有其他人嗎？"
+
+msgid "This isn't good..."
+msgstr "不妙..."
+
+msgid "Hopefully it was just the janitor and you can get it back on Monday."
+msgstr "希望只是校工，這樣妳星期一就能拿回來了。"
+
+msgid "Uuugh..."
+msgstr "呃~~..."
+
+msgid "Isn't this stuffed crow just so cool?"
+msgstr "這個填充烏鴉是不是很酷？"
+
+msgid "Oh no."
+msgstr "喔不。"
+
+msgid "...So you're that type, huh?"
+msgstr "...所以妳是那種人吧？"
+
+msgid "It was an accident! And what is that supposed to mean anyways!?"
+msgstr "這只是意外！還有妳這是什麼意思！？"
+
+msgid "It's okay, you can just apologize next week."
+msgstr "沒關係，妳可以下星期再道歉。"
+
+msgid "Yeah, it's okay. It was probably the only valuable thing in this room anyways."
+msgstr "是啊，沒關係。這大概是這房間裡唯一值錢的東西。"
+
+msgid "Say, what ARE you doing here? Visiting the school at night is hardly normal no matter what you're looking for."
+msgstr "是說，妳在這裡做什麼？不管妳在找什麼，在晚上來學校可不正常。"
+
+msgid "I could ask you the same question."
+msgstr "我也可以問妳同一個問題。"
+
+msgid "You already know what we were doing."
+msgstr "妳已經知道我們剛剛在做什麼了。"
+
+msgid "Key word: \"were\"."
+msgstr "關鍵字：\"剛剛\"。"
+
+msgid "Truth is, I'm doing the same thing as you girls... But it's spookier than your game."
+msgstr "事實上，我也跟妳們在做一樣的是...只是我的比妳們的遊戲還要更恐怖。"
+
+msgid "A game? Can we join in?"
+msgstr "遊戲？我們也可以加入嗎？"
+
+msgid "I thought you had plans for the night?"
+msgstr "我以為妳們今晚已經有計劃了？"
+
+msgid "..."
+msgstr "..."
+
+msgid "We can probably spare an hour or two."
+msgstr "我們大概可以分個一兩小時出來。"
+
+msgid "In any case, it's a one-person ritual, so you can't join me on it."
+msgstr "無論如何，這是單人儀式，所以妳們不能加入。"
+
+msgid "Figures."
+msgstr "早知道。"
+
+msgid "If you like this kind of occult stuff, why aren't you in the club?"
+msgstr "如果妳喜歡這種超自然事物，為什麼不加入社團？"
+
+msgid "Only nerds join this club."
+msgstr "只有書呆子才加社團。"
+
+msgid "That's not entirely false..."
+msgstr "這話有點道理..."
+
+msgid "You didn't bring any other games? Not even a deck of cards?"
+msgstr "妳們沒有帶其他遊戲來？連撲克牌都沒有？"
+
+msgid "No, not really."
+msgstr "不，沒有。"
+
+msgid "We didn't anticipate someone ruining our game."
+msgstr "我們沒想到有人會來破壞我們的遊戲。"
+
+msgid "Fair enough."
+msgstr "有道理。"
+
+msgid "So, how did you get in here?"
+msgstr "所以，妳們是怎麼進來的？"
+
+msgid "We got a key from someone."
+msgstr "我們從某人那邊拿到鑰匙。"
+
+msgid "*I* got a key from someone."
+msgstr "*我*從某人那邊拿到鑰匙。"
+
+msgid "...*She* got a key from someone."
+msgstr "...*她*從某人那邊拿到鑰匙。"
+
+msgid "Couldn't you just have joined the club?"
+msgstr "妳們加入社團不就好了？"
+
+msgid "Why? Is that what you did? Join the club just for the key?"
+msgstr "為什麼？妳是這麼做的嗎？只為了拿到鑰匙就加入社團？"
+
+msgid "...This conversation isn't going as planned."
+msgstr "...這對話走向跟我想的不一樣。"
+
+msgid "What were you looking for earlier?"
+msgstr "妳剛剛在找什麼？"
+
+msgid "Materials for the ritual."
+msgstr "儀式用的素材。"
+
+msgid "Shouldn't you have gathered them ahead of time?"
+msgstr "妳不是應該預先收集好嗎？"
+
+msgid "Now that's boring. Do you also do your homework ahead of time?"
+msgstr "這樣很無聊。妳還會預先寫好功課嗎？"
+
+msgid "I don't know what to say to that."
+msgstr "我不知道該怎麼回妳。"
+
+msgid "Will you at least tell us more about your game?"
+msgstr "至少告訴我們妳遊戲的內容吧？"
+
+msgid "I'll let you know how it went on Monday."
+msgstr "我星期一再告訴妳們結果。"
+
+msgid "If it's anything like the rest I tried, it won't really do anything."
+msgstr "如果這跟我其他試過的儀式一樣，那麼會沒什麼用。"
+
+msgid "What's with all the chit chat? Are we suddenly friends or something?"
+msgstr "是在閒聊什麼？我們突然變成朋友了還是怎樣？"
+
+msgid "She's alright, I guess."
+msgstr "我覺得她還可以。"
+
+msgid "But she ruined our night!"
+msgstr "可是她毀了我們的活動！"
+
+msgid "Sorry about that..."
+msgstr "對不起..."
+
+msgid "Well... alright, fine."
+msgstr "那...好吧，可以。"
+
+msgid "She means \"apology accepted\"."
+msgstr "她的意思是\"接受道歉\"。"
+
+msgid "Nice to meet you then, I'm Kat."
+msgstr "那麼，很高興認識妳們，我是凱特。"
+
+msgid "We KNOW."
+msgstr "我們*知道*。"
+
+msgid "I'm Juli. This is Saki, and this is Kaya."
+msgstr "我是由里。她是沙紀。她是香耶。"
+
+msgid "Nice to meet you."
+msgstr "很高興認識妳。"
+
+msgid "You know, you're quite the celebrity among third year students."
+msgstr "妳知道嗎，妳在三年級中很有名。"
+
+msgid "...for all the wrong reasons."
+msgstr "...不是好的那種。"
+
+msgid "You should hang out at 3-C sometime."
+msgstr "妳應該來 3-C 晃晃。"
+
+msgid "Do you um... need help with that ribbon?"
+msgstr "妳需要，嗯...幫妳弄好緞帶嗎？"
+
+msgid "Ah... no... I'm just fidgeting..."
+msgstr "啊...不用...我只是在玩它..."
+
+msgid "Got it."
+msgstr "知道了。"
+
+msgid "Don't mind Saki. She's not the bitch she pretends to be."
+msgstr "別在意沙紀。她沒有她裝起來的那麼婊。"
+
+msgid "We will probably go home soon."
+msgstr "我們大概等等就回家了。"
+
+msgid "Well... at least I got what I needed."
+msgstr "好吧...至少我拿到我要的東西了。"
+
+msgid "That's cute!"
+msgstr "真可愛！"
+
+msgid "Thank you very much."
+msgstr "很感謝妳。"
+
+msgid "Is that supposed to be you...?"
+msgstr "這是在畫妳自己嗎...？"
+
+msgid "Please never draw a portrait of me."
+msgstr "請不要畫我。"
+
+msgid "Wasn't planning to."
+msgstr "沒打算。"
+
+msgid "Kindergarten called, they want their drawing skills back."
+msgstr "幼稚園打來了，要妳把他們的繪畫能力還回去。"
+
+msgid "This is my depiction of a child's depiction of a house."
+msgstr "這是我對小孩詮釋房子的詮釋。"
+
+msgid "I expected a bit better from you..."
+msgstr "我對妳的期望太高了..."
+
+msgid "I didn't."
+msgstr "我沒有期望。"
+
+msgid "Draw something on the chalkboard?"
+msgstr "在黑板上畫畫？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "What should I draw?"
+msgstr "我應該畫什麼？"
+
+msgid "A flower"
+msgstr "一朵花"
+
+msgid "A self-portrait"
+msgstr "自畫像"
+
+msgid "A house"
+msgstr "房子"
+
+msgid "A butt"
+msgstr "屁股"
+
+msgid "Don't draw"
+msgstr "不要畫"
+
+msgid "It's done!"
+msgstr "完成！"
+
+msgid "This was the most pointless thing you've done today."
+msgstr "這是妳今天做過最沒有意義的事情。"
+
+msgid "My masterpiece is already perfect, no need for modifications."
+msgstr "我的傑作已經很完美了，不需要再做修改。"
+
+msgid "It's too dark for that."
+msgstr "這裡太暗了。"
+
+msgid "Say, are any of you members of the theater club?"
+msgstr "是說，妳們有人是話劇社員嗎？"
+
+msgid "Not really."
+msgstr "不算是。"
+
+msgid "Not really?"
+msgstr "不算是？"
+
+msgid "Not me."
+msgstr "不是我。"
+
+msgid "Who wants to know?"
+msgstr "是誰想知道？"
+
+msgid "Well, there's a talent agent waiting outside. He's only interested in teenage girls with a passion for roleplaying, though."
+msgstr "外面有個才藝經紀人在等著。他只對表演有熱忱的青少女有興趣。"
+
+msgid "What is it that you want?"
+msgstr "妳要什麼？"
+
+msgid "I just need to borrow something from your club room. You have the key with you, don't you?"
+msgstr "我只需要從妳們社辦借個東西。妳有鑰匙，對吧？"
+
+msgid "Hmmm..."
+msgstr "嗯~~..."
+
+msgid "Fine, you can have it... If you can do me a favor first."
+msgstr "好吧，可以給妳...如果妳先幫我個忙。"
+
+msgid "I'll do you a favor: I'll conveniently forget to tell the principal that you three broke into the school at night. Deal?"
+msgstr "我幫妳個忙：我會很巧地忘記告訴校長妳們三個晚上闖進學校，如何？"
+
+msgid "Aren't you trespassing too?"
+msgstr "妳就沒有闖進來嗎？"
+
+msgid "So, what's the favor you need?"
+msgstr "那麼，妳需要幫什麼忙？"
+
+msgid "Get my notebook. It's in classroom 3-C, under my desk."
+msgstr "把我的筆記本拿來。它在 3-C 教室，我的桌子下。"
+
+msgid "Ponytail's Notebook"
+msgstr "馬尾女的筆記本"
+
+msgid "A red notebook that the girl with the ponytail forgot. She probably wants it back."
+msgstr "一本紅色筆記本，有著馬尾的女孩忘記的。她大概會想要回去。"
+
+msgid "Should I get the notebook for her?"
+msgstr "我應該幫她取回筆記本嗎？"
+
+msgid "Alright, I'll do it"
+msgstr "好，來吧"
+
+msgid "Forget it"
+msgstr "算了"
+
+msgid "You will?"
+msgstr "妳要幫忙？"
+
+msgid "Then, when you find it, please don't look through it."
+msgstr "那麼，找到的時候，拜託不要讀它。"
+
+msgid "Sure, sure."
+msgstr "好，好。"
+
+msgid "Of course, of course."
+msgstr "當然，當然。"
+
+msgid "Good luck finding another key to the club room."
+msgstr "祝妳順利找到另一把社辦鑰匙。"
+
+msgid "We'll see about that."
+msgstr "走著瞧。"
+
+msgid "You mean this one?"
+msgstr "妳是說這本嗎？"
+
+msgid "How did you-?"
+msgstr "妳是怎麼-？"
+
+msgid "Yes, that's the one."
+msgstr "對，就是這本。"
+
+msgid "Here's the key. I expect it back at some point."
+msgstr "鑰匙給妳。我期待妳會還給我。"
+
+msgid "Happy to help."
+msgstr "樂意之至。"
+
+msgid "Well, you brought my notebook so..."
+msgstr "妳把筆記本給我了，所以..."
+
+msgid "Here you go, I guess. Please don't break anything."
+msgstr "拿去吧。拜託不要弄壞東西。"
+
+msgid "And don't forget to bring it back to me."
+msgstr "還有不要忘記還給我。"
+
+msgid "Thanks!"
+msgstr "謝了！"
+
+msgid "There's a bunch of useless trash in here..."
+msgstr "一堆沒用的垃圾..."
+
+msgid "Aha! This little box may be it."
+msgstr "哈！這小盒子可能就是了。"
+
+msgid "There's three runes... but the ritual didn't mention a specific one."
+msgstr "有三顆符石...可是儀式沒有提到要哪一顆。"
+
+msgid "Which one should I take?"
+msgstr "我該拿哪一顆？"
+
+msgid "The weird C"
+msgstr "奇怪的 C 字"
+
+msgid "The weird B"
+msgstr "奇怪的 B 字"
+
+msgid "The weird O"
+msgstr "奇怪的 O 字"
+
+msgid "What's that?"
+msgstr "那是什麼？"
+
+msgid "A rune. The ritual calls for it."
+msgstr "符石。儀式需要它。"
+
+msgid "What does it do?"
+msgstr "它有什麼用？"
+
+msgid "No idea."
+msgstr "不知道。"
+
+msgid "How is this any less childish than the game we were playing...?"
+msgstr "這跟我們的遊戲比起來沒有比較幼稚...？"
+
+msgid "There's a golden envelope in the drawer."
+msgstr "抽屜裡有金色的信封。"
+
+msgid "These are the instructions for the ritual I'm doing."
+msgstr "這是我要做的儀式的說明。"
+
+msgid "Thankfully, I shortened them when I wrote my notes."
+msgstr "慶幸的是，我在寫下筆記時把它縮短了。"
+
+msgid "Read the full ritual rules?"
+msgstr "閱讀完整的儀式規則嗎？"
+
+msgid "You must play alone."
+msgstr "你必須獨自進行。"
+
+msgid "Requirements:"
+msgstr "需求："
+
+msgid ""
+"- 3 dark, adjacent rooms\n"
+"- 12 candles\n"
+"- A lighter or matches"
+msgstr ""
+"- 3 間黑暗、相連的房間\n"
+"- 12 根蠟燭\n"
+"- 打火機或是火柴"
+
+msgid ""
+"- A rune\n"
+"- A tuft of human hair\n"
+"- White chalk or white paint"
+msgstr ""
+"- 一顆符石\n"
+"- 一束人髮\n"
+"- 白粉筆或是白色顏料"
+
+msgid "Preparations:"
+msgstr "準備："
+
+msgid ""
+"Start after the sun has set.\n"
+"All 3 rooms must be pitch black; turn off all the lights, draw the curtains, and close the doors."
+msgstr ""
+"在日落後開始。\n"
+"3 間房間都必須一片漆黑；關掉所有的燈、關上窗簾、並關上大門。"
+
+msgid "Using the chalk or paint, draw a path going through the 3 rooms. This path will serve to connect your current location to your destination."
+msgstr "使用粉筆或是顏料，畫出一條通過 3 個房間的路徑。這條路徑將做為你連接現在地點與目的地的連結。"
+
+msgid "In the middle room, place 6 candles on each side of the drawn path, parallel to it."
+msgstr "在中間的房間，放置 6 根蠟燭在路徑兩側，與之平行。"
+
+msgid "Instructions:"
+msgstr "說明："
+
+msgid "Light each of the candles and let them burn for at least 5 minutes. From this point, you can no longer abort the ritual."
+msgstr "點燃各個蠟燭並讓它們至少燃燒 5 分鐘。從此刻起，你將無法中止儀式。"
+
+msgid ""
+"After the 5 minutes have passed, burn the tuft of hair on one of the candles.\n"
+"Proceed to blow out all the candles one by one."
+msgstr ""
+"5 分鐘過後，使用其中一根蠟燭燒掉髮束。\n"
+"接著把蠟燭一根一根吹滅。"
+
+msgid "When the last candle is put out, quickly close your eyes and count to 100."
+msgstr "當最後一根蠟燭熄滅後，快速閉上眼睛並數到 100。"
+
+msgid "Open your eyes."
+msgstr "打開你的眼睛。"
+
+msgid "To Remember:"
+msgstr "要記得："
+
+msgid "You must always close the door behind you. Leaving it open may attract unwanted attention."
+msgstr "你必須關上你身後的門。避免不必要的注意。"
+
+msgid "Do NOT let the rune out of your possession. It is your only protection."
+msgstr "不要讓符石離開你的手邊。它是你唯一的保護。"
+
+msgid "Do NOT bring any weapons with you. If you arm yourself, so will they."
+msgstr "不要攜帶任何武器。如果你有武器，祂們也會有。"
+
+msgid "Should anything be heard or felt while you count to 100, it must be ignored."
+msgstr "如果有任何事情在你數到 100 之間發生，忽略它。"
+
+msgid "Do NOT open your eyes."
+msgstr "不要張開你的眼睛。"
+
+msgid "Do NOT turn on the lights."
+msgstr "*不要*開燈。"
+
+msgid "Do NOT move."
+msgstr "*不要*移動。"
+
+msgid "It is normal to feel like you are not alone. You won't be."
+msgstr "感到不是一個人是很正常的。因為你不是。"
+
+msgid "There's no need to read it again."
+msgstr "沒有必要再讀一次。"
+
+msgid "Is that the ritual we're doing right now?"
+msgstr "這是我們要做的儀式嗎？"
+
+msgid "Yeah."
+msgstr "對。"
+
+msgid "I wonder if anyone else tried it..."
+msgstr "不知道有沒有其他人試過..."
+
+msgid "Probably not. It was sealed when I got to it."
+msgstr "應該沒有。我拿到的時候它是密封的。"
+
+msgid "That's weird. Did they think it was cursed?"
+msgstr "奇怪了。他們覺得這被詛咒了嗎？"
+
+msgid "Maybe. I should probably glue it back later."
+msgstr "可能吧。我等等應該把他黏回去。"
+
+msgid "Kat."
+msgstr "凱特。"
+
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "Just decide already!"
+msgstr "快決定！"
+
+msgid "This window doesn't need any curtains."
+msgstr "這扇窗戶不需要任何窗簾。"
+
+msgid "Ugh, you disgust me!"
+msgstr "噁，你好噁心！"
+
+msgid "Why are you holding that like some sort of sick trophy? What is wrong with you!?"
+msgstr "為什麼你要像是握著獎盃一樣拿著它？你有什麼毛病！？"
+
+msgid "Leave me alone, please."
+msgstr "別煩我，拜託。"
+
+msgid "(It's too late to put it back...)"
+msgstr "(把它放回去已經太遲了...)"
+
+msgid "Are you done with it?"
+msgstr "妳用完了嗎？"
+
+msgid "Yeah, thanks."
+msgstr "是啊，謝了。"
+
+msgid "Gee, thanks."
+msgstr "唉呀，謝了。"
+
+msgid "(I can't give it back yet, I haven't even used it!)"
+msgstr "(我還不能還回去，我根本還沒用它！)"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Uhh... why do you have that?"
+msgstr "呃...妳為什麼拿著它？"
+
+msgid "Well, thanks for returning it, I guess?"
+msgstr "好吧，謝謝妳的歸還...囉？"
+
+msgid "Let me guess. Returning my notebook was too much for you, so you just took the key instead."
+msgstr "讓我猜猜。把我的筆記本拿給我太麻煩了，所以妳就直接拿走鑰匙。"
+
+msgid "Well, at least you brought it back, I suppose."
+msgstr "好吧，至少妳把它拿回來了。"
+
+msgid "Oh wow. You just took that?"
+msgstr "喔哇。妳就直接把它拿走了？"
+
+msgid "You're a real bitch Kat, you know that?"
+msgstr "妳真的很討人厭凱特，妳知道嗎？"
+
+msgid "...of course you had it all along."
+msgstr "...當然了，妳一直拿著它。"
+
+msgid "Now I feel like an idiot for worrying. Hope you enjoyed my key."
+msgstr "現在我覺得像笨蛋一樣白擔心了。享受我的鑰匙吧。"
+
+msgid "That won't accomplish anything good."
+msgstr "這樣不會有什麼好後果。"
+
+msgid "(I feel like setting her on fire but... I'll control myself.)"
+msgstr "(我好想在她身上放火...我得控制我自己)"
+
+msgid "What?"
+msgstr "什麼？"
+
+msgid "(She really isn't that bad.)"
+msgstr "(她真的沒那麼糟糕。)"
+
+msgid "(It would be a shame to set such pretty hair on fire.)"
+msgstr "(把這麼漂亮的頭髮燒了會很可惜。)"
+
+msgid "(Nah...)"
+msgstr "(還是不要...)"
+
+msgid "Is this your notebook?"
+msgstr "這是妳的筆記本嗎？"
+
+msgid "Yeah, that's it. I hope you didn't look through it."
+msgstr "是啊，沒錯。我希望妳沒有看過它。"
+
+msgid "Nope. Your secrets are safe."
+msgstr "沒有。妳的秘密很安全。"
+
+msgid "Alright."
+msgstr "好吧。"
+
+msgid "Nope. Your math is safe."
+msgstr "沒有。妳的數學很安全。"
+
+msgid "Of course you looked. Hope you at least solved some of the exercises."
+msgstr "妳果然看過了。希望妳至少解了一些題目。"
+
+msgid "What? Did you really think I'd leave my personal journal in your hands?"
+msgstr "什麼？妳真的以為我會把我的日記交到妳手上嗎？"
+
+msgid "Well, a promise is a promise anyways."
+msgstr "好吧，說到做到。"
+
+msgid "Here's the key. Bring it back when you're done with it."
+msgstr "鑰匙拿去。用完了要還給我。"
+
+msgid "Yeah, that's it. But, you don't need the key anymore, do you?"
+msgstr "對，就是這個。但是，妳不需要鑰匙了吧？"
+
+msgid "Why did you bother stealing it if you were gonna get me the notebook either way?"
+msgstr "既然妳要給我筆記本為什麼還要偷它？"
+
+msgid "Sigh... whatever. Thanks, weirdo."
+msgstr "唉...隨便吧。謝了，怪胎。"
+
+msgid "*gasp*"
+msgstr "*抽氣*"
+
+msgid "I uh... I don't seem to have the key with me."
+msgstr "我呃...我身上沒有鑰匙。"
+
+msgid "I could've sworn I had it... I'm sorry. I promise to let you use it tomorrow!"
+msgstr "我記得我有啊...對不起。我明天一定會讓妳用它！"
+
+msgid "It's fine! Don't worry about it!"
+msgstr "沒關係！別放在心上！"
+
+msgid "Do you seriously think I'll give you the key after what you did?"
+msgstr "妳真的覺得妳幹出這事後我會給妳鑰匙嗎？"
+
+msgid "...Yes?"
+msgstr "...會？"
+
+msgid "Piss off, Kat. And give me that!"
+msgstr "快滾，凱特。還有把它給我！"
+
+msgid "You don't even care? Whatever. Give me that!"
+msgstr "妳根本就不在乎？隨便。把它給我！"
+
+msgid "You come here, you ruin our game, you cut our hair, you steal my things and now you just bring me this?"
+msgstr "妳到這裡，妳毀了我們的遊戲，妳剪掉我們的頭髮，妳偷了我的東西，然後現在妳把這個給我？"
+
+msgid "I have no words left for you, you little sociopath."
+msgstr "我無話可說了，妳這神經病。"
+
+msgid "Does this happen to be yours?"
+msgstr "這是妳的嗎？"
+
+msgid "Huh? Why do you have that? Are you going through my stuff now?"
+msgstr "蛤？妳為什麼拿著它？妳在翻我的東西嗎？"
+
+msgid "Nah... I just had a feeling."
+msgstr "沒有...只是我的直覺。"
+
+msgid "Your feeling is right. May I have my notebook back?"
+msgstr "妳的直覺是對的。我可以拿回我的筆記本嗎？"
+
+msgid "Here you go."
+msgstr "拿去吧。"
+
+msgid "Are you kidding me? First the hair and now blackmail?"
+msgstr "開什麼玩笑？一開始是頭髮然後是勒索？"
+
+msgid "I don't care what you want, and I don't care why you have my notebook."
+msgstr "我才不管妳想要什麼，我也不想知道妳為什麼有我的筆記本。"
+
+msgid "Give it back or I'll get the teacher to beat your ass tomorrow morning!"
+msgstr "把它還來不然明天早上找老師來教訓妳！"
+
+msgid "Geez... Stuff it. I don't want your stupid notebook."
+msgstr "唉呀...算了。我不想要妳的蠢筆記本。"
+
+msgid "Hey, is this yours?"
+msgstr "嘿，這是妳的嗎？"
+
+msgid "Um..."
+msgstr "嗯..."
+
+msgid "Wait, can I see that...?"
+msgstr "等等，我可以看看嗎...？"
+
+msgid "For the love of... give me that!"
+msgstr "妳是在...把它給我！"
+
+msgid "What are you doing...? Please bring that here."
+msgstr "妳在做什麼...？請把它拿過來。"
+
+msgid "Uhh..."
+msgstr "呃..."
+
+msgid "For the love of... bring that here!"
+msgstr "妳是在...把它給我！"
+
+msgid "Finally, let's cut this open."
+msgstr "終於，把它割開吧。"
+
+msgid "(Nothing else needs cutting here.)"
+msgstr "(沒有東西需要被割開了。)"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "Did you just...?"
+msgstr "妳剛剛...？"
+
+msgid "Oh. My. God."
+msgstr "我。的。天。哪。"
+
+msgid "WHAT HAVE YOU DONE!?"
+msgstr "妳做了什麼！？"
+
+msgid "GET THE HELL OUT!!!"
+msgstr "快滾開！！！"
+
+msgid "Get away from me!"
+msgstr "離我遠一點！"
+
+msgid "(I already got all the hair I need, no need to be petty.)"
+msgstr "(我已經拿到我需要的頭髮了，不需要這麼小氣。)"
+
+msgid "(Nah... she's fine.)"
+msgstr "(算了...她是好人。)"
+
+msgid "...!?"
+msgstr "...！？"
+
+msgid "What in the actual hell..."
+msgstr "妳到底是在..."
+
+msgid "Are you kidding me right now!?"
+msgstr "開什麼玩笑！？"
+
+msgid "Oh no..."
+msgstr "喔不..."
+
+msgid "DON'T TOUCH HER! GET OUT OF HERE!"
+msgstr "別碰她！快滾！"
+
+msgid "Don't you dare..."
+msgstr "妳最好不要..."
+
+msgid "(I don't need to do that. Plus, I kinda like her hair - it's a pretty color.)"
+msgstr "(我不需要那麼做。而且，我還滿喜歡她的頭髮的-顏色很漂亮。)"
+
+msgid "(I don't wanna ruin her hair.)"
+msgstr "(我不想毀了她的頭髮。)"
+
+msgid "WHAT THE HELL ARE YOU DOING TO HER!?"
+msgstr "妳對她做了什麼！？"
+
+msgid "She cut... her hair..."
+msgstr "她剪了...她的頭髮..."
+
+msgid "Why...?"
+msgstr "為什麼...？"
+
+msgid "GET OUT RIGHT THIS SECOND!!!"
+msgstr "現在馬上滾開！！！"
+
+msgid "Kat, if you touch me with those scissors..."
+msgstr "凱特，如果妳對我用了那把剪刀..."
+
+msgid "I'll make you swallow them."
+msgstr "我會讓妳吞了它。"
+
+msgid "(She looks like she's asking for it, but I already have all the hair I need.)"
+msgstr "(她看起來像是自找麻煩，但是我已經有了需要的頭髮了。)"
+
+msgid "(She doesn't deserve it, I think.)"
+msgstr "(她不該受這罪，我想是吧。)"
+
+msgid "It's a school bag."
+msgstr "是書包。"
+
+msgid "There's something shiny inside."
+msgstr "裡面有亮亮的東西。"
+
+msgid "Do you need something?"
+msgstr "你需要什麼嗎？"
+
+msgid "Maybe later."
+msgstr "等等吧。"
+
+msgid "(What if I accidentally push the bag off the chair?)"
+msgstr "(如果我不小心把書包推下椅子呢？)"
+
+msgid "Push the bag?"
+msgstr "推書包？"
+
+msgid "What the-!"
+msgstr "什麼-！"
+
+msgid "I'm so sorry! Oh dear me, let me pick that up for you!"
+msgstr "我很抱歉！看我笨手笨腳的，讓我幫妳把它撿起來！"
+
+msgid "I'll be out of your hair now!"
+msgstr "我不會再煩你了！"
+
+msgid "(No need to mess with it anymore.)"
+msgstr "(不需要再亂搞它了。)"
+
+msgid "An empty chair with no bag on it."
+msgstr "沒有書包的空椅子。"
+
+msgid "An empty chair."
+msgstr "空椅子。"
+
+msgid "It's the box for the game the girls were playing."
+msgstr "這是女孩們剛剛在玩的遊戲的盒子。"
+
+msgid "It says \"Wiji Game Board - for 2 to 4 players. Get answers from beyond!\"."
+msgstr "上面寫著\"通靈遊戲盤 - 2 至 4 人。得到來自另一個世界的答案！\"。"
+
+msgid "\"WARNING: We take no responsibility for any adverse effects playing this game could cause to you or your loved ones.\""
+msgstr "\"警告：我們不為任何遊戲對您或您親人造成的不良影響負責。\""
+
+msgid "Such as disappointment, I presume?"
+msgstr "真讓我失望？"
+
+msgid "The disappointment was your fault, though..."
+msgstr "是妳讓我們很失望的欸..."
+
+msgid "A thick purple book."
+msgstr "厚重的紫色書本。"
+
+msgid "(A spellbook? It looks weird. And it also looks fake.)"
+msgstr "(魔法書？看起來很奇怪。而且還看起來很假。)"
+
+msgid "There's a book entitled \"Creepy Cryptids and where to find them\"."
+msgstr "其中一本的標題是\"詭異生物與牠們的產地\"。"
+
+msgid "There's a book entitled \"The truth behind mermaids exposed\"."
+msgstr "其中一本的標題是\"美人魚的真相曝光\"。"
+
+msgid "There's a book entitled \"Magic Circles for simpletons\"."
+msgstr "其中一本的標題是\"傻瓜也能懂的魔法陣\"。"
+
+msgid "Cardboard boxes marked with a symbol. They're sealed with tape."
+msgstr "印著標誌的紙盒。它被膠帶封起來了。"
+
+msgid "(The runes my friend mentioned may be in here, but I need a way to open it.)"
+msgstr "(我朋友提到的符石可能就在裡面，可是我需要想辦法打開它。)"
+
+msgid "(I need a way to open this, I'm not going to carry the entire box around.)"
+msgstr "(得想辦法打開它，我不想帶著箱子到處跑。)"
+
+msgid "(There are two runes left in the box, but I only need one for the ritual.)"
+msgstr "(箱子裡還剩兩顆符石，可是我只需要一顆來完成儀式。)"
+
+msgid "(But maybe I picked the wrong one...)"
+msgstr "(可是我可能選錯顆了...)"
+
+msgid "Switch my rune"
+msgstr "換掉符石"
+
+msgid "Do nothing"
+msgstr "什麼也不做"
+
+msgid "Which one then?"
+msgstr "那要選哪顆呢？"
+
+msgid "Just take everything"
+msgstr "全部拿走好了"
+
+msgid "Well, it doesn't say I CAN'T have more than one."
+msgstr "其實，也沒有說我不能多拿幾個。"
+
+msgid "If only there were four..."
+msgstr "如果有四顆的話..."
+
+msgid "We could get one each. Not that they do anything."
+msgstr "我們就可以一人拿一顆。不過大概也沒什麼用。"
+
+msgid "There's nothing else of use."
+msgstr "沒有什麼有用的東西了。"
+
+msgid "I need to get this open..."
+msgstr "我需要打開它..."
+
+msgid "Um... ever heard of nails?"
+msgstr "嗯...妳知道什麼是指甲嗎？"
+
+msgid "Well..."
+msgstr "那麼..."
+
+msgid "Ugh, step aside."
+msgstr "吼，讓我來。"
+
+msgid "Tada!"
+msgstr "看吧！"
+
+msgid "Saki is so practical..."
+msgstr "沙紀真是行動派的..."
+
+msgid "Man... is this your idea of fun?"
+msgstr "唉呀...這是妳們取樂的方法嗎？"
+
+msgid "What do you mean?"
+msgstr "什麼意思？"
+
+msgid "It doesn't matter. Now let's see..."
+msgstr "算了。來看看吧..."
+
+msgid "A clean chalkboard."
+msgstr "乾淨的黑板。"
+
+msgid "My fabulous masterpiece is displayed here."
+msgstr "我的大師傑作展示於此。"
+
+msgid "There's some chalk here."
+msgstr "這裡有一些粉筆。"
+
+msgid "Take Chalk?"
+msgstr "拿走粉筆？"
+
+msgid "But it's too dark to see now."
+msgstr "可是這裡太暗了。"
+
+msgid "A stuffed crow."
+msgstr "填充烏鴉。"
+
+msgid "(An interesting choice of decoration...)"
+msgstr "(用來當裝飾還真特別...)"
+
+msgid "It's messed up now."
+msgstr "已經被弄壞了。"
+
+msgid "A crystal ball resting on a cushion."
+msgstr "在墊子上的水晶球。"
+
+msgid "(Wow, that cheap plastic exterior really makes it look authentic.)"
+msgstr "(哇，這塑膠外殼看起來就像真的一樣。)"
+
+msgid "This drawer won't open."
+msgstr "這個抽屜打不開。"
+
+msgid "(I don't see a keyhole, so it must be stuck somehow.)"
+msgstr "(我找不到鑰匙孔，所以一定是被卡住了。)"
+
+msgid "There's nothing of use here."
+msgstr "沒有什麼有用的東西了。"
+
+msgid "Don't even bother sitting with us after you ruined our night."
+msgstr "毀了我們的夜晚還想坐在旁邊啊。"
+
+msgid "Can't you read the room? We don't want you around. Leave!"
+msgstr "會不會看氣氛啊？我們不想看到妳。走開！"
+
+msgid "An empty chair. Sit down?"
+msgstr "空椅子。坐下嗎？"
+
+msgid "The girls are gone."
+msgstr "女孩們離開了。"
+
+msgid "A spherical model of the Earth. Red crosses mark certain locations."
+msgstr "圓球狀的地球模型。紅色的叉叉標記了一些地點。"
+
+msgid "Some books and jars filled with.... something."
+msgstr "一些書本和罐子，裡面裝著....某種東西。"
+
+msgid "There's no need to mess with the lights anymore."
+msgstr "不需要再動電燈開關了。"
+
+msgid "The light switch isn't working."
+msgstr "電燈開關沒有作用。"
+
+msgid "Some small plants. Their quiet existence fascinates you."
+msgstr "小植物。他們寂靜的存在令我著迷。"
+
+msgid "The drawer underneath is empty."
+msgstr "抽屜是空的。"
+
+msgid "Suspicious news articles and posters representing magic circles."
+msgstr "可疑的新聞報導和有著魔法陣的海報。"
+
+msgid "An expensive-looking radio."
+msgstr "看起來很貴的收音機。"
+
+msgid "Turn it on?"
+msgstr "開啟它嗎？"
+
+msgid "What are you even doing?"
+msgstr "妳到底在做什麼？"
+
+msgid "Just looking around."
+msgstr "只是看看。"
+
+msgid "No need to turn it on again."
+msgstr "不需要再開啟它了。"
+
+msgid "It has no power."
+msgstr "它沒電了。"
+
+msgid "A trash can. It seems to be full."
+msgstr "垃圾桶。看起來滿了。"
+
+msgid "There's a certain level of desperation needed for someone to dig through the trash. You're not at that level."
+msgstr "翻遍垃圾需要有著某種程度的決心。妳還沒到那個程度。"
+
+msgid "A cool breeze blows in from outside."
+msgstr "涼風從外面吹來。"
+
+msgid "Close the window?"
+msgstr "關上窗戶？"
+
+msgid "Open the window?"
+msgstr "打開窗戶？"
+
+msgid "...Huh?"
+msgstr "...咦？"
+
+msgid "I can't seem to open it..."
+msgstr "好像打不開..."
+
+msgid "Are you trying to freak us out on purpose?"
+msgstr "妳是在嚇我們？"
+
+msgid "(These curtains are very thin. I don't think they would work.)"
+msgstr "(那些簾布太薄了。我不認為有用。)"
+
+msgid "(Better read my notes to make sure I'm not forgetting anything in this room before leaving.)"
+msgstr "(最好在離開前再讀一次我的筆記以免忘了什麼東西。)"

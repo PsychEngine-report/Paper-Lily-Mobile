@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You left a flower.)"
+msgstr "(Оставихте цвете.)"
+
+msgid "Some building blocks."
+msgstr "Няколко градивни блока."
+
+msgid "A sand bucket."
+msgstr "Кофичка за пясък."
+
+msgid "A stack of playing cards. They look handmade."
+msgstr "Купчина карти за игра. Изглеждат ръчно изработени."
+
+msgid "A gravestone lies here. You can't make out the name on it."
+msgstr "Тук има надгробен камък. Не можеш да различиш името върху него."
+
+msgid "There's a neatly written note taped to the back of the gravestone."
+msgstr "На гърба на надгробния камък е залепена грижливо написана бележка."
+
+msgid "Read it?"
+msgstr "Прочети я?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "It's been 5 years since your passing."
+msgstr "Изминаха 5 години от смъртта ви."
+
+msgid "I often wonder if things would have been different, had I been with you."
+msgstr "Често се чудя дали нещата щяха да бъдат различни, ако бях с теб."
+
+msgid "Would I have been able to protect you?"
+msgstr "Щях ли да мога да те защитя?"
+
+msgid "Would I have died in your place?"
+msgstr "Дали щях да умра на твое място?"
+
+msgid "I would have gladly accepted that resolution."
+msgstr "С удоволствие щях да приема тази резолюция."
+
+msgid "I wish I was strong and brave enough to fight for you."
+msgstr "Иска ми се да бях достатъчно силен и смел, за да се боря за теб."
+
+msgid "But vengeance won't bring you back."
+msgstr "Но отмъщението няма да те върне обратно."
+
+msgid "I can only continue to warn everyone, and hope the locked site doesn't take another victim."
+msgstr "Мога само да продължа да предупреждавам всички и да се надявам, че блокираният обект няма да вземе друга жертва."
+
+msgid "It's been quiet in the forest for the past few years."
+msgstr "През последните няколко години в гората беше тихо."
+
+msgid "But I know you always hated quiet."
+msgstr "Но аз знам, че винаги си мразела тишината."
+
+msgid "Please rest well."
+msgstr "Моля, почини си добре."
+
+msgid "I'll visit you again soon."
+msgstr "Ще те посетя отново, скоро."
+
+msgid "- Marzie"
+msgstr "- Марзие"
+
+msgid "A vase with fresh cut flowers."
+msgstr "Ваза със свежо отрязани цветя."

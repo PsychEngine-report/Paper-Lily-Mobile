@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OH."
+msgstr "ОО."
+
+msgid "A child."
+msgstr "Дете."
+
+msgid "A child is in my gallery. But my gallery is closed. So how can a child be in my gallery?"
+msgstr "Дете в галерията ми. Но тя е затворена. Така че как може дете да бъде в моята галерия?"
+
+msgid "Atrocious."
+msgstr "Възмутително."
+
+msgid "Smells like..."
+msgstr "Мирише на…"
+
+msgid "..."
+msgstr "…"
+
+msgid "GARBAGE."
+msgstr "БОКЛУК."
+
+msgid "What? That's not true..."
+msgstr "Какво? Не е вярно…"
+
+msgid "Who is this child?"
+msgstr "Кое е това дете?"
+
+msgid "My name is Lacie."
+msgstr "Казвам се Лейси."
+
+msgid "(Wait... I shouldn't give out my name like that to demons!)"
+msgstr "(Почакай… не бива да издавам името си по такъв начин на демони!)"
+
+msgid "Lacie..."
+msgstr "Лейси…"
+
+msgid "(Did he figure out I'm human...?)"
+msgstr "(Дали е разбрал, че съм човек…?)"
+
+msgid "So..."
+msgstr "Значи..."
+
+msgid "What is your name?"
+msgstr "Как е името ти?"
+
+msgid "What's under that drape?"
+msgstr "Какво се крие под тази завеса?"
+
+msgid "You seem better now."
+msgstr "Вече ми изглеждаш по-добре."
+
+msgid "You're dropping a lot of flowers."
+msgstr "Изглежда че изпускаш доста цветя."
+
+msgid "Never mind"
+msgstr "Няма значение"
+
+msgid "Kett is what I am called."
+msgstr "Кетт е това което ме наричат."
+
+msgid "Oh."
+msgstr "Оу."
+
+msgid "And who are you?"
+msgstr "А ти си?"
+
+msgid "I... already told you my name."
+msgstr "Аз… вече ти казах името си."
+
+msgid "(He forgot it...? Maybe that's a good thing.)"
+msgstr "(Той го забрави…? Може би е за добро.)"
+
+msgid "Please excuse me. I have no use for meaningless information in my mind."
+msgstr "Моля да ме извиниш. Нямам нужда от безсмислена информация в главата си."
+
+msgid "No... that's okay."
+msgstr "Не… няма проблем."
+
+msgid "A commission."
+msgstr "Комисиона."
+
+msgid "I have been stuck, blocked, uninspired, you could say."
+msgstr "Може да се каже, че бях заседнала, възпрепятствана, без вдъхновение."
+
+msgid "FOR AGES."
+msgstr "ЗА ВЕКОВЕ."
+
+msgid "Everything I made..."
+msgstr "Всичко което сътворих…"
+
+msgid "But now suddenly I feel..."
+msgstr "Но сега, внезапно се чувствам…"
+
+msgid "Awaken."
+msgstr "Пробуден."
+
+msgid "You seemed very um...crazy...a while ago."
+msgstr "Изглеждаше ми доста ъм…луд…преди време."
+
+msgid "Ah, sleep deprivation."
+msgstr "Ах, липса на сън."
+
+msgid "I feel that."
+msgstr "Така го чувствам."
+
+msgid "HOWEVER, AN ANGEL delivered salvation to me."
+msgstr "ВСЕ ПАК, АНГЕЛ донеси спасението над мен."
+
+msgid "I brought you that."
+msgstr "Донесох ти това."
+
+msgid "IF I COULD FIND THIS ANGEL, well, they would be humbly welcomed into my gallery, for no fee."
+msgstr "АКО УСПЕЯ ДА ОТКРИЯ ТОЗИ АНГЕЛ, е, те ще бъдат посрещнати смирено в моята галерия без заплащане."
+
+msgid "It was me."
+msgstr "Това бях аз."
+
+msgid "BUT ALAS."
+msgstr "НО УВИ."
+
+msgid "They are the fruit of my inspiration."
+msgstr "Те са плод на моето вдъхновение."
+
+msgid "I picked up some of your inspiration, I hope you don't mind."
+msgstr "Избрах някои, на базата на твоето вдъхновение, надявам се че нямаш нищо против."
+
+msgid "Your inspiration is all over the floor."
+msgstr "Твоето вдъхновение е навсякъде по пода."
+
+msgid "What is that commission about?"
+msgstr "А тази комисиона – тя за какво е?"
+
+msgid "I keep my business matters private."
+msgstr "Държа деловите си въпроси лични."
+
+msgid "Can I commission you for a piece?"
+msgstr "Мога ли да ви възложа изработката на едно произведение?"
+
+msgid "Of course. You may add your name to my waiting list."
+msgstr "Естествено. Можеш да добавиш своето име в листа ми за изчакване."
+
+msgid "...Never mind then."
+msgstr "…Тогава няма значение."
+
+msgid "Where is it?"
+msgstr "Къде е то?"
+
+msgid "On the wall."
+msgstr "На стената."
+
+msgid "Why don't you make anything colorful?"
+msgstr "Защо не оцветяваш нищо?"
+
+msgid "Color....ful..?"
+msgstr "Цвят…пълнота…?"
+
+msgid "What ever do you mean?"
+msgstr "Какво за бога искаш да кажеш?"
+
+msgid "Well...all of your...art...is blue or grey."
+msgstr "Ами…всичките ти…творби…са сини или сиви."
+
+msgid "Blue...? Grey...?"
+msgstr "Синьо…? Сиво…?"
+
+msgid "(He seems really perplexed.)"
+msgstr "(Изглежда наистина озадачен.)"
+
+msgid "What did you smell on me earlier?"
+msgstr "Какво усетихте по мен по-рано?"
+
+msgid "I don't recall the event you're referring to."
+msgstr "Не си спомням това събитие, което намекваш."
+
+msgid "Because you don't keep meaningless information in your mind?"
+msgstr "Защото не съхранявате безсмислена информация в съзнанието си?"
+
+msgid "Yes, how did you know?"
+msgstr "Именно, как знаеш?"
+
+msgid "Just a feeling."
+msgstr "Просто усещане."
+
+msgid "Of course.. the patterns must match on each limb."
+msgstr "Разбира се… моделите трябва да съвпадат на всеки крайник."
+
+msgid "But how shall I go about it...?"
+msgstr "Но как да постъпя по въпроса…?"
+
+msgid "Kett seems to be concentrated."
+msgstr "Кетт изглежда е съсредоточен."
+
+msgid "There's someone there. Grab their attention?"
+msgstr "Там има някого. Привличате вниманието им?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "!!!"
+msgstr "!!!"
+
+msgid "He seems to be asleep."
+msgstr "Изглежда е заспал."
+
+msgid "I'd really rather not bother him..."
+msgstr "Наистина предпочитам да не го притеснявам…"
+
+msgid "This isn't the time for that."
+msgstr "Това не е момента за това."
+
+msgid "This is from the lighthouse."
+msgstr "Това е от къщата на фара."
+
+msgid "Garbage."
+msgstr "Боклук."
+
+msgid "Huh? Really?"
+msgstr "Хм? Наистина?"
+
+msgid "It sickens me."
+msgstr "Отвращава ме."
+
+msgid "Do you know where the lighthouse is?"
+msgstr "Знаеш ли къде е къщата на морския фар?"
+
+msgid "Begone, child."
+msgstr "Изчезни, дете."
+
+msgid "...Guess not."
+msgstr "…Изглежда че не."
+
+msgid "This candle looks familiar to me. How curious."
+msgstr "Тази свещ ми изглежда позната. Колко любопитно."
+
+msgid "What is that garbage smell?"
+msgstr "Каква е тази миризма на отпадъци?"
+
+msgid "You may keep that. It is little more than garbage to me."
+msgstr "Можеш да го задържиш. По стойност е малко повече от боклук за мен."
+
+msgid "A rock. It's carving is skillful."
+msgstr "Камък. Изваян е умело."
+
+msgid "Could there be another artist out there...?"
+msgstr "Възможно ли е да има друг художник там…?"
+
+msgid "No. Impossible."
+msgstr "Не. Невъзможно."
+
+msgid "(He ate it!?)"
+msgstr "(Той го изяде!?)"
+
+msgid "This tool is not well suited for carving."
+msgstr "Този инструмент не е подходящ за карвинг."
+
+msgid "This is one of those things that isn't very interesting when seen from behind."
+msgstr "Това е едно от онези неща, които не са много интересни, когато се гледат отзад."
+
+msgid "Blue paint."
+msgstr "Синя боя."
+
+msgid "A blank canvas. Paint something?"
+msgstr "Празно платно. Нарисувай нещо?"
+
+msgid "What should I paint?"
+msgstr "Какво ли да нарисувам?"
+
+msgid "A blue butterfly"
+msgstr "Синя пеперуда"
+
+msgid "A self-portrait"
+msgstr "Автопортрет"
+
+msgid "Hiro"
+msgstr "Хиро"
+
+msgid "A portrait of Kett"
+msgstr "Портрет на Кетт"
+
+msgid "A ghost"
+msgstr "Призрак"
+
+msgid "A dinosaur"
+msgstr "Динозавър"
+
+msgid "Show drawing here"
+msgstr "Покажи рисунката тук"
+
+msgid "It's the painting I made. Kett will probably trash it soon enough."
+msgstr "Това е картината, която направих. Кетт сигурно скоро ще я изхвърли."
+
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "Вземи ${item:ch1.kett_flower}?"
+
+msgid "A waiting list. It has over a hundred names on it."
+msgstr "Лист за изчакване. На него има над хиляда имена."
+
+msgid "...Never mind."
+msgstr "…Няма значение."
+
+msgid "A painting of some landscape."
+msgstr "Картина на някакъв пейзаж."
+
+msgid "There must be a huge sculpture hidden under this drape."
+msgstr "Под тази завеса със сигурност е скрита огромна скулптура."
+
+msgid "Check under the drape?"
+msgstr "Надникни под покривката?"
+
+msgid "It looks like an unfinished sculpture of a lady. She looks like she's made of porcelain."
+msgstr "Изглежда че е недовършена скулптура на дама. Изглежда е направена от порцелан."
+
+msgid "There's a sculpture of a lady under this drape."
+msgstr "Има скулптура на дама под покривалото."
+
+msgid "A tall vase."
+msgstr "Висока ваза."
+
+msgid "Reach inside?"
+msgstr "Протегни се навътре?"
+
+msgid "There's nothing inside."
+msgstr "Вътре няма нищо."
+
+msgid "A small art piece."
+msgstr "Малка творба на изкуството."
+
+msgid "A weird thing."
+msgstr "Нещо странно."
+
+msgid "What... is this?"
+msgstr "Какво… е това?"
+
+msgid "A twisty pot."
+msgstr "Усукано гърне."
+
+msgid "A broken pot."
+msgstr "Счупено гърне."
+
+msgid "It looks like a dinosaur."
+msgstr "Изглежда като динозавър."
+
+msgid "A small dinosaur."
+msgstr "малък динозавър."

@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The flower sank into the water."
+msgstr "花朵沉進水中了。"
+
+msgid "Pity."
+msgstr "可惜。"
+
+msgid "You thought that would work?"
+msgstr "妳覺得那會有用嗎？"
+
+msgid "You should be more careful about the decisions you make."
+msgstr "妳應該為妳的決定下更多心思。"
+
+msgid "The solution may seem obvious, but..."
+msgstr "解答可能看起來很明顯，但是..."
+
+msgid "THERE IS ALWAYS ANOTHER WAY"
+msgstr "一定會有別的方法"
+
+msgid "You may not notice it right away, but your actions will have an impact sooner or later."
+msgstr "妳可能不會馬上注意到，但是妳的行為遲早會造成影響。"
+
+msgid "You may not even remember what you did to cause it."
+msgstr "妳甚至會不記得是什麼行為造成的。"
+
+msgid "Sadly, regret is always in the shadow of choice."
+msgstr "遺憾的是，悔恨總是隱藏在選擇之中。"
+
+msgid "Also, you know very well this isn't your home."
+msgstr "而且，妳很清楚這不是妳的家。"
+
+msgid "So why do you mess with things that don't belong to you?"
+msgstr "那麼妳為什麼要碰不屬於妳的東西呢？"
+
+msgid "YOU'RE NOT WELCOME HERE"
+msgstr "*這裡不歡迎妳*"
+
+msgid "Look."
+msgstr "妳看。"
+
+msgid "This is the result of your actions."
+msgstr "這是妳行為造成的結果。"
+
+msgid "The result of your expectations."
+msgstr "妳的期待所造成的結果。"
+
+msgid "Things are not always what they seem."
+msgstr "事物不是只有表象而已。"
+
+msgid "What do you think?"
+msgstr "妳怎麼想？"
+
+msgid "Does this still look like a flower to you?"
+msgstr "看起來還像是一朵花嗎？"
+
+msgid "You're not prepared to deal with the truth."
+msgstr "妳還沒準備好面對真相。"
+
+msgid "Are you?"
+msgstr "沒有錯吧？"
+
+msgid "I can't stop you from coming here."
+msgstr "我無法阻止妳來到這裡。"
+
+msgid "But if you're foolish enough to cross my path,"
+msgstr "但是如果妳愚蠢到再與我相遇，"
+
+msgid "I'LL KILL YOU MYSELF"
+msgstr "我會親手殺了妳"
+
+msgid "...such is the way of our world."
+msgstr "...這就是我們世界的法則。"
+
+msgid "..."
+msgstr "..."
+
+msgid "The door opened!"
+msgstr "門開了！"
+
+msgid "Fascinating."
+msgstr "太有趣了。"
+
+msgid "You've done the opposite of what I expected."
+msgstr "妳做了與我期待完全相反的事。"
+
+msgid "A delightful surprise."
+msgstr "令人愉快的驚喜。"
+
+msgid "How did you know, I wonder?"
+msgstr "妳是怎麼知道的，我想知道？"
+
+msgid "Perhaps you're different."
+msgstr "也許妳與眾不同。"
+
+msgid "Or perhaps..."
+msgstr "或是..."
+
+msgid "...you cheated?"
+msgstr "...妳作弊？"
+
+msgid "How odd."
+msgstr "真奇怪。"
+
+msgid "Regardless, I advise you not to mess with things that don't belong to you."
+msgstr "無論如何，我建議妳不要碰不屬於妳的東西。"
+
+msgid "It's not safe for you."
+msgstr "對妳來說不安全。"
+
+msgid "As you already know, in this place..."
+msgstr "就如妳所知，這個地方..."
+
+msgid "THINGS ARE NOT ALWAYS WHAT THEY SEEM"
+msgstr "事物不是只有表象而已"
+
+msgid "The answers you're looking for are not yours to take,"
+msgstr "妳所追尋的解答不屬於妳，"
+
+msgid "You're not ready to learn the truth..."
+msgstr "妳還沒準備好面對真相..."
+
+msgid "...and the truth is not willing to be learned by you."
+msgstr "...而真相不願被妳所知。"
+
+msgid "I can't stop you from coming."
+msgstr "我無法阻止妳到來。"
+
+msgid "Just know that if you do,"
+msgstr "但是如果你這麼做，"
+
+msgid "YOU WILL BE KILLED"
+msgstr "妳會被殺掉"
+
+msgid "The building ahead seems locked somehow."
+msgstr "眼前的建築似乎被鎖住了。"
+
+msgid "There's a white flower on the ground."
+msgstr "地上有一朵白花。"
+
+msgid "Take Flower?"
+msgstr "拿走花嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "There's already a flower there."
+msgstr "已經有花了。"
+
+msgid "The light turned green."
+msgstr "燈變綠了。"
+
+msgid "A door with 4 colored lights."
+msgstr "有著 4 個色燈的門。"
+
+msgid "It's locked."
+msgstr "被鎖住了。"
+
+msgid "A small building adorned with flowers."
+msgstr "有著花朵裝飾的建築。"
+
+msgid "A tree with pink flowers."
+msgstr "有著粉紅花朵的樹。"
+
+msgid "A big flower vase with a white flower in it."
+msgstr "裡面有白色花朵的大花瓶。"
+
+msgid "Take out the flower?"
+msgstr "把花拿出來嗎？"
+
+msgid "The green light turned red."
+msgstr "綠燈變紅了。"
+
+msgid "Put the flower back in?"
+msgstr "把花放回去嗎？"
+
+msgid "The light turned back green."
+msgstr "燈又變綠了。"
+
+msgid "A big flower vase. The flower is missing."
+msgstr "大花瓶。裡面沒有花。"
+
+msgid "A big flower vase. Unlike the others, this one has no flower."
+msgstr "大花瓶。不像其他只，這只裡面沒有花。"
+
+msgid "A big flower vase. I placed a flower inside."
+msgstr "大花瓶。我把花放到裡面了。"
+
+msgid "Take it out?"
+msgstr "把花拿出來嗎？"
+
+msgid "The light turned back red."
+msgstr "燈又變紅了。"
+
+msgid "Some large windows. You can't see what's inside."
+msgstr "很大的窗戶。妳看不到裡面。"

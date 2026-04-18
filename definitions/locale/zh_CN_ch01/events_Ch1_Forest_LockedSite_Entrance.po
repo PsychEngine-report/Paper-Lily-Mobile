@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.item_boltcutter_on_fence.dlg.narrator"
+msgid "There's no reason to do that."
+msgstr "没有这样做的理由。"
+
+msgid "(Why damage the fence when I can just cut the chain that locks the gate...?)"
+msgstr "（我可以直接剪断锁住大门的铁链，为什么要破坏栅栏呢...？）"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.item_boltcutter_on_gate.dlg.narrator"
+msgid "There's no reason to do that."
+msgstr "没有这样做的理由。"
+
+msgid "It's a little too late for that."
+msgstr "现在做这个有点太迟了。"
+
+msgid "I don't have all 3 keys yet..."
+msgstr "我还没找到全部的3把钥匙..."
+
+msgid "A gate locked with 3 padlocks."
+msgstr "大门被3个挂锁锁住了。"
+
+msgid "The warning sign reads:"
+msgstr "警告牌上写着："
+
+msgid "\"NO TRESPASSING. RISK OF SERIOUS INJURY OR DEATH\"."
+msgstr "\"禁止入内。有严重伤亡风险\"。"
+
+msgid "A fence blocks your path."
+msgstr "围墙挡住了你的去路。"
+
+msgid "I could've probably climbed over it... if not for those spikes."
+msgstr "我也许能爬过去...如果没有那些刺的话。"
+
+msgid "A lamppost."
+msgstr "一盏路灯。"
+
+msgid "I'm not confident in my ability to climb this and jump to the other side."
+msgstr "我对自己爬上这里跳到另一边的能力没有信心。"
+
+msgid "The note reads:"
+msgstr "字条上写着："
+
+msgid "\"Due to the recent primal incident, we ask residents stupid enough to go inside to close the gate behind you.\""
+msgstr "“由于最近的原初恶魔事故，我们要求蠢到要进去的人关上背后的大门。”"
+
+msgid "As expected, the back of the note is blank."
+msgstr "跟预期的一样，字条的背面是空白的。"
+
+msgid "A statue that looks out of place."
+msgstr "一尊看起来格格不入的雕像。"
+
+msgid "A torn piece of paper seems to be stuck underneath. Take it?"
+msgstr "下面似乎粘着一张撕碎的纸。要拿出来吗？"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.misc_statue.choice.A torn piece of paper seems to be stuck underneath. Take it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.misc_statue.choice.A torn piece of paper seems to be stuck underneath. Take it?"
+msgid "No"
+msgstr "否"
+
+msgid "This path looks really dark and dangerous..."
+msgstr "这条路看起来真的很黑，而且很危险..."
+
+msgid "I went through the trouble of opening that gate but..."
+msgstr "我费尽周折打开了那扇门，但是..."
+
+msgid "I don't think there's a reason to go in there."
+msgstr "我觉得没必要进去。"
+
+msgid "I don't have any other sources of light..."
+msgstr "我没有任何其他光源..."
+
+msgid "Should I just use my phone's flashlight? It may be too bright..."
+msgstr "我要直接用我手机的闪光灯吗？可能会太亮..."
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Should I just use my phone's flashlight? It may be too bright..."
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Should I just use my phone's flashlight? It may be too bright..."
+msgid "No"
+msgstr "否"
+
+msgid "I might not be able to come back after I go through here..."
+msgstr "一旦我穿过这里，可能就回不来了..."
+
+msgid "Continue down this path?"
+msgstr "要继续沿着这条路走下去？"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Continue down this path?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Continue down this path?"
+msgid "No"
+msgstr "否"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "我觉得走这条路帮不到科兹莫..."
+
+msgid "Go in anyway?"
+msgstr "无论如何也要进去吗？"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Go in anyway?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Go in anyway?"
+msgid "No"
+msgstr "否"

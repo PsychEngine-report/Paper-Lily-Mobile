@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "..."
+
+msgid "The code was incorrect."
+msgstr "密碼錯了。"
+
+msgid "The door opens!"
+msgstr "門開了！"
+
+msgid "Now that I think about it, this is a strange location for such a large mirror."
+msgstr "現在想想，這麼大的鏡子就放在這裡真是奇怪。"
+
+msgid "Maybe there's something behind it?"
+msgstr "也許後面有什麼東西？"
+
+msgid "Kick the mirror?"
+msgstr "踢鏡子嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "A door... and a keypad... for a code, I think."
+msgstr "一扇門...和數字鍵盤...應該是用來輸入密碼的。"
+
+msgid "Is it the door behind the mirror?"
+msgstr "這門是在鏡子後面嗎？"
+
+msgid "(Maybe there's a better way?)"
+msgstr "(也許有更好的辦法？)"
+
+msgid "Here you go."
+msgstr "來吧。"
+
+msgid "...Huh. Thanks."
+msgstr "...嗯。謝了。"
+
+msgid "I'm not carrying this thing around..."
+msgstr "我不想帶著這東西到處走..."
+
+msgid "Pssst."
+msgstr "嘿..."
+
+msgid "Hey girlie."
+msgstr "嘿小姑娘。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Been a while since I've seen anybody come down here."
+msgstr "這裡已經有一段時間沒有人來了。"
+
+msgid "Even that smug asshole hasn't been around."
+msgstr "就連那個自以為是的混蛋也沒有出現過。"
+
+msgid "Who do you mean?"
+msgstr "什麼意思？"
+
+msgid "You know who I mean, or you wouldn't be snooping around here, would ya?"
+msgstr "妳知道我指的是誰，否則妳不會在這裡鬼鬼祟祟，對吧？"
+
+msgid "...Red?"
+msgstr "...瑞德？"
+
+msgid "Ding ding diiiing!"
+msgstr "叮叮叮！"
+
+msgid "Did Red lock you in here?"
+msgstr "是瑞德把你鎖在這裡的嗎？"
+
+msgid "Correct."
+msgstr "沒錯。"
+
+msgid "Why?"
+msgstr "為什麼？"
+
+msgid "My, aren't you asking lots of questions..."
+msgstr "唉呀，妳的問題還真多..."
+
+msgid "Maybe I'll tell you if you come a bit closer."
+msgstr "我也許會告訴妳，只要妳靠近一點。"
+
+msgid "Get closer?"
+msgstr "靠近一點嗎？"
+
+msgid "Aww... What a shame."
+msgstr "噢...真可惜。"
+
+msgid "No more chit chat then."
+msgstr "那就不閒聊了。"
+
+msgid "(Better safe than sorry.)"
+msgstr "(安全為上。)"
+
+msgid "That's the spirit."
+msgstr "就是這樣沒錯。"
+
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "瑞德把我鎖在這裡，因為我可能有點麻煩。"
+
+msgid "I'm the only one who can cast curses."
+msgstr "我是唯一能施展詛咒的人。"
+
+msgid "Curses...?"
+msgstr "詛咒...？"
+
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "就你一個人嗎？那麼，我的詛咒與你有什麼關係嗎？"
+
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "如果妳靠近一點的話，也許我會告訴妳。"
+
+msgid "Welcome back, what is it you wanted to know again?"
+msgstr "歡迎回來，妳還想知道什麼？"
+
+msgid "Why are you locked up?"
+msgstr "你為什麼被關起來？"
+
+msgid "I have a feeling you'll just try to kill me."
+msgstr "感覺你只是想要殺我。"
+
+msgid "Hahahaha!"
+msgstr "哈哈哈哈！"
+
+msgid "Fine then, I'll humor you this time."
+msgstr "好啦，就跟妳玩玩。"
+
+msgid "I didn't curse you."
+msgstr "我沒有詛咒妳。"
+
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "那麼是誰做的呢？你說過你是唯一能施加詛咒的人。"
+
+msgid "...and live."
+msgstr "...而且還能活下來。"
+
+msgid "Look girlie, I hate doing shit for free."
+msgstr "聽著小姑娘，我最討厭免費做事。"
+
+msgid "Yep. It's a shortcut."
+msgstr "對。這是捷徑。"
+
+msgid "It needs a code."
+msgstr "需要密碼。"
+
+msgid "I can give it to you, provided you do one more thing for me."
+msgstr "我可以把它給你，只要你再為我做一件事。"
+
+msgid "How do I know it's actually a shortcut?"
+msgstr "我要怎麼知道這真的是捷徑？"
+
+msgid "You don't. You'll just have to trust me."
+msgstr "妳沒辦法知道。只能相信我。"
+
+msgid "Sounds like a bad choice."
+msgstr "聽起來是個糟糕的選擇。"
+
+msgid "Your call, girlie."
+msgstr "妳來決定，小姑娘。"
+
+msgid "If you bring me a blue light, I'll give you the code."
+msgstr "如果妳給我藍光，我就給妳密碼。"
+
+msgid "A blue light?"
+msgstr "藍光？"
+
+msgid "Correct. A blue light. Not green, not red, certainly not white. A blue light."
+msgstr "正確。藍光。不是綠的，不是紅的，絕對不是白的。藍光。"
+
+msgid "I have this blue candle, does it count?"
+msgstr "我有根藍色蠟燭，這可以嗎？"
+
+msgid "I'll be damned, you already have it?"
+msgstr "這也太好了吧，妳已經有了？"
+
+msgid "Then give it to me, unless you don't want the code."
+msgstr "那給我吧，除非妳不想要密碼。"
+
+msgid "Where am I going to find that?"
+msgstr "我要去哪裡找到？"
+
+msgid "Don't know. I think I saw a candle-looking guy selling some a while back."
+msgstr "不知道。我之前看到有個看起來像是蠟燭的傢伙在賣。"
+
+msgid "Hey wait wait!"
+msgstr "嘿等等！"
+
+msgid "Won't you do something for me? Pretty please little girl?"
+msgstr "不能為我做點事嗎？拜託了小女孩？"
+
+msgid "No thank you."
+msgstr "不用，謝了。"
+
+msgid "Come oooonnn, I've been stuck here for years, help me out!"
+msgstr "拜託~~，我已經被困在這裡好幾年了，幫幫忙！"
+
+msgid "Tch."
+msgstr "嘖。"
+
+msgid "When I get out of here..."
+msgstr "當我逃離這裡的時候..."
+
+msgid "I'll make you suffer."
+msgstr "我會讓妳受苦。"
+
+msgid "It's a promise."
+msgstr "我保證。"
+
+msgid "You do something I ask, and I'll answer one of your questions. Yeah?"
+msgstr "妳為我做一件事，我就回答妳一個問題。好嗎？"
+
+msgid "You want me to open your cage?"
+msgstr "你要我打開你的籠子嗎？"
+
+msgid "Hahahaha as if you could! You severely overestimate yourself, kid."
+msgstr "哈哈哈說得好像妳可以！妳嚴重高估自己了，小子。"
+
+msgid "No, this is something you can actually do."
+msgstr "不，有個妳真的可以做到的事。"
+
+msgid "I can't see it from here, but somewhere in this room there should be a jar of slugs."
+msgstr "我從這裡看不到它，但是在這個房間的某處應該有一罐蛞蝓。"
+
+msgid "Slugs?"
+msgstr "蛞蝓？"
+
+msgid "Yeah. Large, slimy, gross? You know."
+msgstr "對。巨大、黏呼呼、很噁心？妳知道的。"
+
+msgid "Bring it to me and we can continue this conversation."
+msgstr "把它交給我，我們可以繼續這個對話。"
+
+msgid "I won't be coming anywhere close to you."
+msgstr "我絕對不會靠近你。"
+
+msgid "Fair."
+msgstr "好吧。"
+
+msgid "Throw it to me from where you're standing right now then, if you're such a scaredy cat."
+msgstr "如果妳膽小地跟貓一樣，那就從妳現在的位置把它丟給我吧。"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "You tricked me."
+msgstr "你耍我。"
+
+msgid "Not exactly."
+msgstr "不盡然。"
+
+msgid "Just tell me. Did you curse me?"
+msgstr "告訴我。是你詛咒我的嗎？"
+
+msgid "I did not."
+msgstr "不是我。"
+
+msgid "Look girlie, you get the drift."
+msgstr "小姑娘，妳懂的。"
+
+msgid "Amazing..."
+msgstr "太驚人了..."
+
+msgid "I haven't seen a light in years..."
+msgstr "我已經好幾年沒見到光了..."
+
+msgid "So bright..."
+msgstr "好亮..."
+
+msgid "So warm..."
+msgstr "好溫暖..."
+
+msgid "*Ahem*"
+msgstr "*輕咳*"
+
+msgid "Yeah yeah, thanks girlie."
+msgstr "好啦好啦，謝了小姑娘。"
+
+msgid "You really did me a solid here."
+msgstr "妳真的幫了我大忙。"
+
+msgid "I'll remember this."
+msgstr "我會記得的。"
+
+msgid "Thanks."
+msgstr "謝了。"
+
+msgid "What's your name?"
+msgstr "你的名字是什麼？"
+
+msgid "There's no need to get buddy-buddy. You won't be alive for long enough for us to meet again."
+msgstr "沒必跟我套交情。妳活不到我們再次見面的時候。"
+
+msgid "...But if we do, I'll make sure to introduce myself properly."
+msgstr "...但如果我們再見面了，我會確保好好地介紹自己。"
+
+msgid "Why... why are you giving this to me?"
+msgstr "為什麼...為什麼妳要給我這個？"
+
+msgid "I don't know... just a feeling?"
+msgstr "我不知道...一種感覺？"
+
+msgid "Hahahahahaha incredible... were you just screwing with me before?"
+msgstr "哈哈哈哈哈哈太妙了...妳之前是在跟我開玩笑嗎？"
+
+msgid "I guess I'm not gonna make you suffer after all."
+msgstr "我想我最後不會讓妳受苦。"
+
+msgid "Here, take the slugs as well."
+msgstr "來吧，把蛞蝓也拿了。"
+
+msgid "Huh..."
+msgstr "蛤..."
+
+msgid "I don't know who you are but..."
+msgstr "我不知道你是什麼，但是..."
+
+msgid "So... about this room..."
+msgstr "那麼...關於這房間..."
+
+msgid "Oh man you're slow. Check the mirror."
+msgstr "老天妳的反應也太慢了。看看鏡子。"
+
+msgid "Hahahahahaha oh god... so good..."
+msgstr "哈哈哈哈哈哈天哪...太棒了..."
+
+msgid "There's your jar."
+msgstr "你的罐子。"
+
+msgid "Good..."
+msgstr "很好..."
+
+msgid "What would you like to know?"
+msgstr "妳想知道些什麼？"
+
+msgid "You said you're the only demon who can inflict curses, correct?"
+msgstr "你說過你是唯一能施加詛咒的惡魔，對嗎？"
+
+msgid "Did you place this curse on me?"
+msgstr "是你對我下詛咒的嗎？"
+
+msgid "I'm the only demon who can inflict curses and LIVE."
+msgstr "我是唯一能施加詛咒而且*還活著*的惡魔。"
+
+msgid "Any demon can place a curse on someone on their dying breath."
+msgstr "任何惡魔都可以在他們將死之時對某人下詛咒。"
+
+msgid "But I can place a thousand, with no repercussions."
+msgstr "但是我可以下一千個，不會有任何後果。"
+
+msgid "(Isn't that a bit OP?)"
+msgstr "(這有點太 OP 了吧？)"
+
+msgid "That sounds too powerful."
+msgstr "聽起來太強了。"
+
+msgid "Why do you think I'm locked up?"
+msgstr "不然妳以為我為什麼被關起來？"
+
+msgid "Red's being a little bitch about it."
+msgstr "瑞德有點機掰。"
+
+msgid "You're obviously a human with a weird aura."
+msgstr "妳顯然是個帶有奇怪氣息的人類。"
+
+msgid "You lookin' to remove your curse?"
+msgstr "妳想要移除妳的詛咒嗎？"
+
+msgid "Yes."
+msgstr "對。"
+
+msgid "Then you'd probably need Red's help."
+msgstr "那妳大概需要瑞德的協助。"
+
+msgid "Yes, that's the idea."
+msgstr "是啊，正有此意。"
+
+msgid "How do you plan to do that?"
+msgstr "妳打算怎麼做？"
+
+msgid "Someone told me to go to the lighthouse, so I have to go North."
+msgstr "有人告訴我要去燈塔，所以我必須往北走。"
+
+msgid "Ooh~ North."
+msgstr "喔~~北方。"
+
+msgid "You're gonna die if you go through the locked site, y'know?"
+msgstr "妳活不過封鎖區的，知道嗎？"
+
+msgid "What other choice do I have?"
+msgstr "我還有別的選擇嗎？"
+
+msgid "There's always another choice."
+msgstr "總是有別的選擇。"
+
+msgid "Do you mean that door to the right?"
+msgstr "你是在說右邊的門嗎？"
+
+msgid "Is that so..."
+msgstr "是這樣嗎..."
+
+msgid "You just haven't looked around this room well enough."
+msgstr "妳只是還沒有好好觀察過這房間。"
+
+msgid "...Actually, I have no idea."
+msgstr "...其實，我完全不懂。"
+
+msgid "Ahahahaha, you crack me up!"
+msgstr "啊哈哈哈哈，妳笑死我了！"
+
+msgid "Any suggestions?"
+msgstr "有任何建議嗎？"
+
+msgid "Why not follow Red? That little shit left through here last time."
+msgstr "為何不跟隨瑞德？那死傢伙上次從這裡離開。"
+
+msgid "But that was long ago."
+msgstr "但那是很久以前了。"
+
+msgid "Do you mean through that door to the right?"
+msgstr "你是說從右邊的門嗎？"
+
+msgid "Through... here? What do you mean?"
+msgstr "從...這裡？什麼意思？"
+
+msgid "You haven't looked at this room much, have you?"
+msgstr "妳還沒有好好地觀察過這房間，對吧？"
+
+msgid "A plain cardboard box."
+msgstr "普通的紙箱。"
+
+msgid "Some cardboard boxes."
+msgstr "一些紙箱。"
+
+msgid "A blue butterfly."
+msgstr "藍色蝴蝶。"
+
+msgid "A sturdy cage housing a being."
+msgstr "住著一個生物的堅固籠子。"
+
+msgid "The drawers are empty."
+msgstr "抽屜是空的。"
+
+msgid "A jar filled with slugs."
+msgstr "裝滿了蛞蝓的罐子。"
+
+msgid "(They're alive in there...)"
+msgstr "(牠們是活的...)"
+
+msgid "Take ${item:ch1.red_jar}?"
+msgstr "拿走 ${item:ch1.red_jar} 嗎？"
+
+msgid "The drawers underneath are empty."
+msgstr "底下的抽屜是空的。"
+
+msgid "Bug-themed lamps."
+msgstr "蟲蟲主題的燈。"
+
+msgid "I'm not going to carry the slugs with me..."
+msgstr "我不想帶著蛞蝓..."
+
+msgid "A large mirror."
+msgstr "巨大的鏡子。"
+
+msgid "A door with a keypad has been exposed."
+msgstr "有著數字鍵盤的門被揭露了。"
+
+msgid "Input a code?"
+msgstr "輸入密碼嗎？"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "我不認為往這個方向走可以幫助柯茲莫..."
+
+msgid "Continue down this path?"
+msgstr "繼續走下去嗎？"

@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's probably no point, this one didn't even do anything."
+msgstr "そんなことをしても意味ないと思う。この個体は何もしてないんだし。"
+
+msgid "Nothing good can come out of stabbing every single plant you see."
+msgstr "目に映る植物を見境なく刺していても良いことはない。"
+
+msgid "(Is this plant eating something... or someone?)"
+msgstr "(この植物、何か……いや、誰か食べてる？)"
+
+msgid "(Should I really risk opening it?)"
+msgstr "(本当に、危険を冒して開けてみるべきかな？)"
+
+msgid "Yes"
+msgstr "開けてみる"
+
+msgid "No"
+msgstr "やめておく"
+
+msgid "(Probably best not to...)"
+msgstr "(やめておくのが一番だと思う……)"
+
+msgid "(It's a person.)"
+msgstr "(人だ。)"
+
+msgid "(Are they... alright? They seem asleep.)"
+msgstr "(無事……なのかな？　眠ってるみたい。)"
+
+msgid "(Wait... that might be a demon. Maybe I'd better leave them alone.)"
+msgstr "(待って……妖魔の可能性もある。関わらない方が良いかも。)"
+
+msgid "(Well... I'll look around while they wake up.)"
+msgstr "(うん……目が覚める前に、辺りを見てこよう。)"
+
+msgid "AH!"
+msgstr "ああ！"
+
+msgid "...!?"
+msgstr "……!?"
+
+msgid "Ahh... AHH!"
+msgstr "あぁ……あぁぁ！"
+
+msgid "Get it off get it off get it off!!!"
+msgstr "離れろ離れろ離れろ!!!"
+
+msgid "Oh god... oh god... gaaaah!"
+msgstr "あぁ……うわぁ……うあぁぁぁあ！"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...!"
+msgstr "……！"
+
+msgid "Did you just save me?!?"
+msgstr "き、君が助けてくれたの?!?"
+
+msgid "Everything was so dark and so gross, I thought I was gonna die for real this time!"
+msgstr "何もかも真っ暗で気持ち悪くて、今度こそ本当に死ぬかと思った！"
+
+msgid "That gooey stuff was eating away at my skin, it's so itchy, uuugh I still feel it!!!"
+msgstr "あのねちゃねちゃしたやつが皮膚を溶かしてきてもうかゆくてたまんなくて、うぅぅぅまだ残ってる!!!!"
+
+msgid "I don't want it to eat me!!!"
+msgstr "あんなのに食べられたくない!!!"
+
+msgid "Oh god, I didn't plan to get digested today, this is NOT how I pictured my death!"
+msgstr "あぁ神様、今日こんな風に消化される予定じゃなかったんです、こんな死に方想定外です！"
+
+msgid "WHAT IS THIS PLACE?!?"
+msgstr "ここは一体どこ?!?"
+
+msgid "Oh."
+msgstr "あぁ。"
+
+msgid "Hahaha no..."
+msgstr "あはは、そうだ……"
+
+msgid "We're in the fairy ring aren't we?!"
+msgstr "フェアリーリングの中だよね!?"
+
+msgid "Noooo! There's no way to get out of here!!"
+msgstr "うわぁぁぁ！　そんなの絶対出られないじゃん!!"
+
+msgid "This is it. WE'RE DEAD!"
+msgstr "終わりだ。僕たち死ぬんだ！"
+
+msgid "I might as well go back in the plant, at least it will be faster."
+msgstr "いっそ植物の中に戻ろうかな、少なくともそのほうが早く済むし。"
+
+msgid "Nooo I don't want it to end this way!!!"
+msgstr "嫌だ、こんなふうに死にたくないぃぃぃ!!!"
+
+msgid "Hey."
+msgstr "ねえ。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...?"
+msgstr "……？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "Cut it off."
+msgstr "切り上げて。"
+
+msgid "...W-what...?"
+msgstr "……え――えぇ……？"
+
+msgid "I said: cut it off."
+msgstr "切り上げて、って言ったの。"
+
+msgid "Ah, s-sorry..."
+msgstr "あぁ、ご――ごめん……"
+
+msgid "(Is that supposed to be... a joke?)"
+msgstr "(もしかして……ジョークのつもり？)"
+
+msgid "You know, I'm actually okay with dying."
+msgstr "いやさ、実は、死ぬこと自体は別にいいんだ。"
+
+msgid "But I feel like being eaten alive isn't really the way to go, you know?"
+msgstr "でも、生きたまま食べられるっていうのはほら、ちょっと無しかなって感じがしない？"
+
+msgid "I see... I guess so."
+msgstr "うん……まぁ。"
+
+msgid "My name's Aoi."
+msgstr "僕はアオイ。"
+
+msgid "...I see."
+msgstr "……そう。"
+
+msgid "Lacie."
+msgstr "レイシー。"
+
+msgid "Hehe... Were you trapped in one of those things too?"
+msgstr "えへへ……君も、この植物に閉じ込められてたの？"
+
+msgid "Yeah."
+msgstr "うん。"
+
+msgid "How'd you get out?"
+msgstr "どうやって出たの？"
+
+msgid "${item:ch1.scissors}."
+msgstr "${item:ch1.scissors}。"
+
+msgid "Whoa."
+msgstr "わぁ。"
+
+msgid "If I get out of here I'll always carry scissors on me!"
+msgstr "もし出られたら、僕もハサミを欠かさず持ち歩くことにするよ！"
+
+msgid "I promise you-"
+msgstr "約束する――"
+
+msgid "No!"
+msgstr "いや！"
+
+msgid "I SWEAR to you."
+msgstr "宣誓するよ。"
+
+msgid "O-okay..."
+msgstr "う――うん……"
+
+msgid "(What am I supposed to say to that...?)"
+msgstr "(何て返せばいいの……？)"
+
+msgid "So um..."
+msgstr "えと、それで……"
+
+msgid "H-how do we get out..."
+msgstr "ど――どうやって出ようか……"
+
+msgid "I don't know."
+msgstr "わからない。"
+
+msgid "WE'RE ABSOLUTELY NEVER GETTING OUT WHAT ARE WE GOING TO DO!?!"
+msgstr "やっぱりもう絶対永遠に出られないんだ一体どうしようぅぅぅ!?!"
+
+msgid "Should I go back and get eaten by that plant instead?"
+msgstr "いっそ戻ってあの植物に食べられようかな？"
+
+msgid "That might actually be better than losing my mind as I walk endlessly through this hellish place..."
+msgstr "実はそのほうがいいのかも、この地獄みたいな場所を果てしなくさまよって、正気を失っていくより……"
+
+msgid "Can you imagine it???"
+msgstr "想像できる???"
+
+msgid "We would go insane!"
+msgstr "きっと気が狂っちゃうよ！"
+
+msgid "I hear the fairy ring slowly digests you, even if you're not caught in a plant."
+msgstr "噂じゃ、仮に植物に捕まってなくても、フェアリーリングにいるとゆっくり消化されていくんだって。"
+
+msgid "Eventually the skin on our feet will start chipping away from walking through this visceral floor."
+msgstr "この内臓みたいな床を歩いてるうちに、最後には足の皮がボロボロに剥がれはじめるんだ。"
+
+msgid "Then we'll start crawling, when our feet no longer work, hoping for the sweet release of death."
+msgstr "足がダメになったら這い回って、死んで解き放たれる甘美な瞬間を待ち望む。"
+
+msgid "We might even wind up eating each other..."
+msgstr "最後には、共食いが始まるかも……"
+
+msgid "Aoi."
+msgstr "アオイ。"
+
+msgid "R-right..."
+msgstr "わ――わかった……"
+
+msgid "Sorry."
+msgstr "ごめん。"
+
+msgid "I'll look around first."
+msgstr "まずは辺りを見て回ってくる。"
+
+msgid "I want to take another look at the next room."
+msgstr "隣の部屋をもう一度見ておきたいから。"
+
+msgid "I haven't even left this room yet."
+msgstr "まだこの部屋を出てみてもいないし。"
+
+msgid "OKAY!"
+msgstr "わかった！"
+
+msgid "Can I follow you?"
+msgstr "ついて行ってもいい？"
+
+msgid "No thank you."
+msgstr "いや、1人で行ける。"
+
+msgid "Y-you'll leave me alone?!"
+msgstr "ぼ――僕を置いていくの!?"
+
+msgid "Please let me come with you, I promise I'll be useful!"
+msgstr "お願い一緒に行かせて、きっと役に立つから！"
+
+msgid "...uh..."
+msgstr "……う……"
+
+msgid "PLEASE!!!"
+msgstr "お願い!!!"
+
+msgid "Okay... okay."
+msgstr "わかった……わかったから。"
+
+msgid "(It's probably a bad idea, but...)"
+msgstr "(まずいかもしれないけど、でも……)"
+
+msgid "(This... boy... or girl? They don't seem dangerous.)"
+msgstr "(この子……いや……この娘？は、危険そうな感じはしない。)"
+
+msgid "(Maybe it's best not to be alone in this place.)"
+msgstr "(それに、ここでは1人にならないほうが良いかも。)"
+
+msgid "...Yes, I don't see why not."
+msgstr "……いいよ。断る理由もないし。"
+
+msgid "Yay!"
+msgstr "イェイ！"
+
+msgid "I promise I'll be useful!"
+msgstr "きっと役に立つよ！"
+
+msgid "Sure. Pleased to make your acquaintance."
+msgstr "うん。よろしくね。"
+
+msgid "(I wonder if this girl... or boy... can help me with my problem.)"
+msgstr "(この娘……いや、男の子かもしれないけど……は、私の問題を解決する助けになってくれるかな？)"
+
+msgid "(Were they... melting? They might be a spirit or something...)"
+msgstr "(さっき……溶けてたよね？　精霊か何かなのかも……)"
+
+msgid "(For now, let's focus on getting out of this place.)"
+msgstr "(今は、ここを出ることに集中しよう。)"
+
+msgid "There's no one else to rescue in there."
+msgstr "もう他に助ける相手はいない。"
+
+msgid "It probably learned its lesson, I think."
+msgstr "もう十分身に染みたと思う。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plants.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "自分が捕まっていたものと似た、様々な植物。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_aoi.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "自分が捕まっていたものと似た、様々な植物。"
+
+msgid "This one seems to be digesting something..."
+msgstr "この個体は何かを消化しているようだ……"
+
+msgid "The thing that almost ate Aoi. It's wide open."
+msgstr "危うくアオイを食べてしまうところだったもの。ぱっくり開いている。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "私が閉じ込められていた植物。"
+
+msgid "It's not nice in there."
+msgstr "居心地は悪かった。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine_aoi.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "私が閉じ込められていた植物。"
+
+msgid "Does this even classify as a plant?"
+msgstr "これ、そもそも植物なのかな？"
+
+msgid "Not sure..."
+msgstr "さあ……"
+
+msgid "It kinda looks like one."
+msgstr "見た目はそれっぽいけどね。"

@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"WARNING\n"
+"\n"
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"警告\n"
+"\n"
+"このゲームには激しい光の点滅、\n"
+"および暴力描写や乱暴な言葉遣いが含まれます。"
+
+msgid "Special Thanks"
+msgstr "スペシャルサンクス"
+
+msgid "Everyone who made a video or stream"
+msgstr "動画投稿や配信をしてくださった皆様"
+
+msgid "Everyone who completed the survey"
+msgstr "アンケートに協力してくださった皆様"
+
+msgid "Everyone who left a comment or rating"
+msgstr "コメントや評価をくださった皆様"
+
+msgid "Our families and friends"
+msgstr "家族と友人の皆様"
+
+msgid "And You!"
+msgstr "そしてあなた！"
+
+msgid ""
+"Note from the devs:\n"
+"We really appreciate you taking the time to play our little game! It means the world to us!\n"
+"\n"
+"What you have played is the prologue of Paper Lily, a larger project we are currently working on. Right now, Chapter 1 is out so we hope you'll give it a try!\n"
+"\n"
+"If you liked what you played, it would help us a lot if you could leave a review!\n"
+"\n"
+"Thank you so much!"
+msgstr ""
+"開発者より:\n"
+"私たちのささやかなゲームをプレイして下さりありがとうございます！私たちにとっては何物にも代えがたい喜びです！\n"
+"\n"
+"今プレイして頂いたのは、私たちが現在取り組んでいる、より大きなプロジェクト、Paper Lilyのプロローグに当たるものです。現在、第1章(Chapter 1)が公開中ですので、そちらも遊んでみていただければ幸いです！\n"
+"\n"
+"楽しんでいただけたなら、レビューを残していただけるととても助かります！\n"
+"\n"
+"本当にありがとうございました！"
+
+msgid "True End K1 - Curiosity Killed the Kat"
+msgstr "True End K1 - 好奇心猫をも殺す"
+
+msgid "I need:"
+msgstr "材料:"
+
+msgid "Preparations:"
+msgstr "準備:"
+
+msgid "After waiting:"
+msgstr "待った後:"
+
+msgid "3 rooms"
+msgstr "部屋 3つ"
+
+msgid "12 candles"
+msgstr "ロウソク 12本"
+
+msgid "A lighter"
+msgstr "ライター"
+
+msgid "A rune"
+msgstr "ルーン"
+
+msgid "A tuft of hair"
+msgstr "髪の毛ひとふさ"
+
+msgid "Chalk"
+msgstr "チョーク"
+
+msgid "1) Sort the desks in each classroom"
+msgstr "1) 各教室の机を脇に寄せる"
+
+msgid "2) Turn off all the lights & draw the curtains in each classroom"
+msgstr "2) 電気を全て消し、各教室のカーテンを引く"
+
+msgid "3) Draw a path going through the 3 rooms (with chalk)"
+msgstr "3) 3つの部屋を貫く道を描く (チョークで)"
+
+msgid "4) In the middle room, place one candle on each desk"
+msgstr "4) 真ん中の部屋の机に1本ずつロウソクを置く"
+
+msgid "5) Light the candles & wait at least 5 minutes"
+msgstr "5) ロウソクを灯し、最低5分待つ"
+
+msgid "6) Burn the tuft of hair on one of the candles"
+msgstr "6) 髪の毛の束をロウソクのうち1つで燃やす"
+
+msgid "7) Blow out all of the candles"
+msgstr "7) ロウソクを全て吹き消す"
+
+msgid "8) Close your eyes and count to 100"
+msgstr "8) 目を閉じて100まで数える"
+
+msgid "9) Open your eyes and then ?????????"
+msgstr "9) 目を開けると…?????????"
+
+msgid "Something like this ??"
+msgstr "こんな感じ？？"
+
+msgid "Windows (CLOSE CURTAINS!!)"
+msgstr "窓 (カーテン閉める！！)"
+
+msgid "White chalk lines"
+msgstr "白いチョークの線"
+
+msgid "Me"
+msgstr "私"
+
+msgid "Desks (candle on each)"
+msgstr "机 (ロウソク置く)"
+
+msgid "???"
+msgstr "？？？"
+
+msgid "Ponytail Girl"
+msgstr "ポニーテールの少女"
+
+msgid "Pretty Girl"
+msgstr "かわいい少女"
+
+msgid "Quiet Girl"
+msgstr "物静かな少女"

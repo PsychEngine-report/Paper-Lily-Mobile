@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "${item:ch1.bucket_full} boş mu?" 
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "${item:ch1.bucket_full_holy} boş mu?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "${item:ch1.bucket} doldur?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "What to do?"
+msgstr "Ne yapıyorsun?"
+
+msgid "Kill it here"
+msgstr "Burada öldür"
+
+msgid "Release it around this area"
+msgstr "Onu bu çevrede serbest bırak"
+
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgid "The crow shows no interest in it."
+msgstr "Karga hiç oralı değil."
+
+msgid "Nobody seems to want you, little one."
+msgstr "Kimse seni görmek istemiyor, küçük şey."
+
+msgid "It refuses to leave the terrarium."
+msgstr "Minyatür bitkilerden ayrılmayı reddediyor."
+
+msgid "He must not like lavender very much..."
+msgstr "Lavantadan çok da hoşlanmadı..."
+
+msgid "(Looks like it couldn't swim after all.)"
+msgstr "(Yüzemiyormuş gibi görünüyor.)"
+
+msgid "(You can't place an incomplete doorknob...)"
+msgstr "(Eksik bir kapı kolunu yerleştiremezsin...)"
+
+msgid "Lavender flowers are growing all over this place."
+msgstr "Her yanı lavanta çiçekleri sarmış."
+
+msgid "Pretty..."
+msgstr "Harikalar..."
+
+msgid "Take ${item:ch1.forest_lavender}?"
+msgstr "${item:ch1.forest_lavender} Al?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A crow standing on a log."
+msgstr "Karga bir kütüğün üzerinde duruyor."
+
+msgid "It's completely unfazed by the rain..."
+msgstr "Hiçbir şekilde yağmurdan etkilenmemiş..."
+
+msgid "A wooden log."
+msgstr "Bir kütük."
+
+msgid "I came from this direction. There's no reason to go back now."
+msgstr "Bu yönden geldim. Geri dönmem için hiçbir sebep yok."
+
+msgid "You can't see the other side of the lake from here."
+msgstr "Buradan gölün diğer tarafını göremiyorsun."
+
+msgid "A small pond."
+msgstr "Küçük bir göl."
+
+msgid "The caterpillar has moved on. You should too."
+msgstr "Tırtıl yoluna bakıyor. Sen de öyle yapmalısın."
+
+msgid "A door with two doorknobs."
+msgstr "2 kulplu bir kapı."
+
+msgid "Take a closer look?"
+msgstr "Yakından bakalım mı?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_facility.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Dönüş kapı kulpunu yerleştirdim. Başka hiçbir yere gitmemeliyim."
+
+msgid "A stairway?"
+msgstr "Bir merdiven mi?"
+
+msgid "It's so dark... I can't see anything..."
+msgstr "Çok karanlık... Hiçbir şey göremiyorum..."
+
+msgid "Agh... my head..."
+msgstr "Ah... Başım..."
+
+msgid "What's going on...?"
+msgstr "Burada ne oluyor?"
+
+msgid "This doorknob won't even turn."
+msgstr "Bu kapı kulpu dönmüyor bile."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_grave.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Dönüş kapı kulpumu yerleştirdim. Başka hiçbir yere gitmemeliyim."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "A strange door with two doorknobs... and empty slots to place more."
+msgstr "İki kapı kulpu olan farklı bir kapı... ve yerleştirmek için daha fazla yer."
+
+msgid "Amazing... my ${item:ch1.doorknob_return} fits right in. It wasn't a scam after all..."
+msgstr "Muhteşem... benim ${item:ch1.doorknob_return} buraya uyuyor."
+
+msgid "Still... I'm not ready to go home yet, but I'm glad to have found this door."
+msgstr "Yine de... Eve gitmeye henüz hazır değilim, ama bu kapıyı bulduğuma memnunum."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_library.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Dönüş kapı kulpumu yerleştirdim. Başka hiç biryere gitmemeliyim."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_moths.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Dönüş kapı kulpumu yerleştirdim. Başka hiçbir yere gitmemeliyim."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_shop.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Dönüş kapı kulpumu yerleştirdim. Başka hiçbir yere gitmemeliyim."
+
+msgid "An empty slot."
+msgstr "Boş bir yer."
+
+msgid "Place a doorknob?"
+msgstr "Kapı kulpunu yerleştir?"
+
+msgid "Gray Doorknob"
+msgstr "Gri Kapı kulpu"
+
+msgid "Doorknob With Eye"
+msgstr "Gözü olan kapı kulpu"
+
+msgid "White Doorknob"
+msgstr "Beyaz kapı kulpu"
+
+msgid "Doorknob With Flower"
+msgstr "Çiçekli kapı kulpu"
+
+msgid "Return Doorknob"
+msgstr "Dönüş Kapı Kolu"
+
+msgid "Do not"
+msgstr "Yapma"
+
+msgid "Is it really time to go home...?"
+msgstr "Gerçekten eve gitme zamanı geldi mi...?"
+
+msgid "Are you sure that you want to place this doorknob?"
+msgstr "Bu kapı kulpunu yerleştirmek istediğine emin misin?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "No"
+msgstr "Hayır"

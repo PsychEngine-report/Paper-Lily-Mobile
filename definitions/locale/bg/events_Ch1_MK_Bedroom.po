@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "Кутията остава заключена…"
+
+msgid "The box opens!"
+msgstr "Кутията се отваря!"
+
+msgid "There's a key inside."
+msgstr "Вътре има ключ."
+
+msgid "There's some kind of black rag here."
+msgstr "Тук има някакъв черен парцал."
+
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "Вземи ${item:ch1.mk_compress}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "A large basket filled with toys."
+msgstr "Голяма кошница, пълна с играчки."
+
+msgid "What is all of this..?"
+msgstr "Какво е всичко това..?"
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "Има ли там коли с дистанционно управление или други неща?"
+
+msgid "Mmm... no."
+msgstr "Ммм… не."
+
+msgid "That's oddly specific."
+msgstr "Това е странно специфично."
+
+msgid "They're fun."
+msgstr "Забавни са."
+
+msgid "An oversized bed."
+msgstr "Свръхголямо легло."
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "(Леглото е твърде голямо, дори и за онзи демон.)"
+
+msgid "Wow, what a luxury."
+msgstr "Еха, какъв разкош."
+
+msgid "There's nothing else in the box."
+msgstr "В кутията няма нищо друго."
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "Върху масичката за тоалетни принадлежности има кутия. Използва комбинирана ключалка."
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "(На кутията има рисунка на ключ…)"
+
+msgid "Try to unlock the box?"
+msgstr "Опитай да отвориш кутията?"
+
+msgid "A simple coat hanger."
+msgstr "Проста закачалка за дрехи."
+
+msgid "A small bedside table."
+msgstr "Малко нощно шкафче."
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "(Явно е твърде малка, особено за това легло.)"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "Тоалетна масичка. Чекмеджетата са пълни с няколко козметични продукта."
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "Защо да се гримирате, ако приличате на чудовище?"
+
+msgid "That's not nice."
+msgstr "Това не е особено мило."
+
+msgid "She locked me in a cage."
+msgstr "Тя ме затвори в клетка."
+
+msgid "I'd say she's not nice."
+msgstr "Бих казала, че тя не е любезна."
+
+msgid "A painting of a window."
+msgstr "Живопис на прозорец."
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "Сигурно е задушно тук без истински прозорци."

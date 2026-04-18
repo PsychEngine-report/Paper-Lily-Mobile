@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The path looks like it should continue here, but it doesn't."
+msgstr "まだ先がありそうな道だが、行き止まりになっている。"
+
+msgid "There's a sign that says [color=#8080FF]\"Daylight Gate\"[/color]. It points straight ahead."
+msgstr "[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。まっすぐ道の先を指している。"
+
+msgid "The sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。"
+
+msgid "It's pointing towards the trees."
+msgstr "木のほうを指している。"
+
+msgid "It seems to be a bit loose. You could rotate it to match the other one..."
+msgstr "少しゆるくなっているようだ。もうひとつの標識に合わせて回せるかもしれない……"
+
+msgid "Let's do it"
+msgstr "やってみる"
+
+msgid "Not my job"
+msgstr "私の仕事じゃない"
+
+msgid "It seems to be pointing in the correct direction now."
+msgstr "今は正しい方向を指し示しているようだ。"
+
+msgid "There's nothing here."
+msgstr "ここには何もない。"
+
+msgid "(Hmm... Could it be that the sign is pointing in the wrong direction?)"
+msgstr "(うーん……まさか、あの標識が間違った方向を指してるのかな？)"

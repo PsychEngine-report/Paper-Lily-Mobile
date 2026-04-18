@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "Кімната Хіро."
+
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go in without permission..."
+msgstr "Без дозволу туди краще не заходити..."
+
+msgid "You shouldn't go in."
+msgstr "Вам не слід заходити."
+
+msgid "You won't go in."
+msgstr "Ви не будете заходити."
+
+msgid "Some books and magazines."
+msgstr "Книжки та журнали."
+
+msgid "No reading space would be complete without decorative books."
+msgstr "Жоден читацький куток не зможе існувати без декоративних книжок."
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "Якась прикраса. Ви не знаєте, що це таке."
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "Схожа картина висить на першому поверсі."
+
+msgid "A painting."
+msgstr "Картина."
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "Така ж картина висить ліворуч."
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "Така ж картина висить праворуч."
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "Світлини з зимних канікул. Вас немає на жодній."
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "Гарна рослинка. Бутони неїстівні."
+
+msgid "A plant."
+msgstr "Рослина."
+
+msgid "Some old family pictures."
+msgstr "Старі сімейні фотографії."
+
+msgid "The backyard can be seen from here."
+msgstr "Звідси можна побачити задній двір."
+
+msgid "Something is written on the door:"
+msgstr "На дверях щось написано:"
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "\"Що це за кімната? Ти проводила там багато часу."
+
+msgid "Always finding new places to hide away from the world."
+msgstr "Ти завжди шукаєш, де б сховатись від світу."
+
+msgid "Did you ever stop hiding?\""
+msgstr "А коли ти не ховалась?\""

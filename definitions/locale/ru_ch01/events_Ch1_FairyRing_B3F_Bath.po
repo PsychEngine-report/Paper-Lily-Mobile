@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's... a dead end?"
+msgstr "Это... тупик?"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What now?"
+msgstr "Что теперь?"
+
+msgid "We're gonna die here, aren't we?"
+msgstr "Мы ведь здесь умрём?"
+
+msgid "I don't know."
+msgstr "Я не знаю."
+
+msgid "Oh god... I really hoped I wouldn't be right."
+msgstr "О боже... а я надеялась, что всё будет в порядке."
+
+msgid "I should have known. Of course it's a dead end."
+msgstr "Уж я-то могла догадаться. Само собой это тупик."
+
+msgid "But I felt more confident walking around with you... so I thought..."
+msgstr "Но рядом с тобой я чувствовала себя куда увереннее, поэтому не думала, что..."
+
+msgid "Please, let me think."
+msgstr "Прошу, дай подумать."
+
+msgid "(Think Lacie...)"
+msgstr "(Лэйси, думай...)"
+
+msgid "(Is there really no way out..?)"
+msgstr "(Неужели отсюда не сбежать?..)"
+
+msgid "Can't we break the ground above us and just climb out?"
+msgstr "А нельзя разломать потолок и выкарабкаться наружу?"
+
+msgid "How?"
+msgstr "Каким образом?"
+
+msgid "Well...."
+msgstr "Ну..."
+
+msgid "...I don't know."
+msgstr "...Не знаю."
+
+msgid "Sorry, that was stupid."
+msgstr "Прости, тупая идея."
+
+msgid "(Can I call someone?)"
+msgstr "(Можно ли к кому-то дозвониться?)"
+
+msgid "(There's no signal though...)"
+msgstr "(Сигнала нет, но...)"
+
+msgid "(But... it worked before...)"
+msgstr "(В прошлый раз всё получилось...)"
+
+msgid "(It doesn't work...)"
+msgstr "(Не работает...)"
+
+msgid "Say..."
+msgstr "Слушай..."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Will you tell me your name? Since we might be dying anyway..."
+msgstr "Скажешь, как тебя зовут? Мы в любом случае скоро умрём..."
+
+msgid "It's Lacie."
+msgstr "Лэйси."
+
+msgid "Oh... that's such a nice name."
+msgstr "О... какое красивое имя."
+
+msgid "...Thanks."
+msgstr "…Спасибо."
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "After that, we stayed in silence for a few minutes."
+msgstr "Следующую пару минут мы сидели молча."
+
+msgid "I tried thinking of options at first, but quickly ran out of alternatives."
+msgstr "Я обдумывала варианты, но ничего не приходило в голову."
+
+msgid "Maybe there really was no way out this time."
+msgstr "Возможно, в этот раз отсюда действительно нет выхода."
+
+msgid "Through all of this, Aoi was awfully quiet."
+msgstr "Аой всё это время сидела в глухой тишине."
+
+msgid "Um... hey."
+msgstr "Эм... слушай."
+
+msgid "Mhm..?"
+msgstr "М-м?"
+
+msgid "Don't panic. It won't solve anything."
+msgstr "Без паники. Так ты ничего не решишь."
+
+msgid "What makes you think I'm panicking?"
+msgstr "С чего ты взяла, что я паникую?"
+
+msgid "You're melting."
+msgstr "Ты плавишься."
+
+msgid "O-Oh right..."
+msgstr "А-а, ну да..."
+
+msgid "No panic... no panic..."
+msgstr "Без паники... без паники..."
+
+msgid "Wait... you're melting."
+msgstr "Стой, ты плавишься."
+
+msgid "YES, I KNOW!"
+msgstr "ДА, Я ЗНАЮ!"
+
+msgid "I can't stop!!!"
+msgstr "Я не могу перестать!!!"
+
+msgid "No, Aoi!"
+msgstr "Нет, Аой!"
+
+msgid "I have an idea."
+msgstr "У меня есть идея."
+
+msgid "Huh!?"
+msgstr "Какая?!"
+
+msgid "There's a drain."
+msgstr "Тут есть сток."
+
+msgid "...AND!?"
+msgstr "...И ЧТО С ТОГО?!"
+
+msgid "Where do you think it leads?"
+msgstr "Как думаешь, куда он ведёт?"
+
+msgid "You want me..."
+msgstr "Ты хочешь..."
+
+msgid "You want me to go through the drain!?"
+msgstr "...чтобы я проползла по трубе?"
+
+msgid "Even if I do... you can't come with me."
+msgstr "Даже если у меня выйдет... ты останешься тут одна."
+
+msgid "...Yeah."
+msgstr "...Ну да."
+
+msgid "I-I got it, don't worry! If this leads anywhere, I'll find a way to get you out!"
+msgstr "Я-Я всё поняла, не бойся! Если она куда-то ведёт, я найду способ тебя вытащить!"
+
+msgid "Just stay put!"
+msgstr "Ты только держись!"
+
+msgid "Really?"
+msgstr "Правда?"
+
+msgid "YEAH!"
+msgstr "А ТО!"
+
+msgid "Well, let's hope there's a way."
+msgstr "Ладно, будем надеяться, что отсюда есть выход."
+
+msgid "There's gotta be a way!"
+msgstr "Он обязан тут быть!"
+
+msgid "Okay... well... Here goes."
+msgstr "Ну окей... Поехали."
+
+msgid "(Was that a good idea...?)"
+msgstr "(Хорошая ли это мысль?..)"
+
+msgid "How long has it been..."
+msgstr "Сколько уже прошло времени?"
+
+msgid "Did I seriously just trust a demon with my life?"
+msgstr "Неужели я доверила демону свою жизнь?"
+
+msgid "Did I seriously just trust a spirit with my life?"
+msgstr "Неужели я доверила духу свою жизнь?"
+
+msgid "Aoi might not even come back."
+msgstr "Аой может даже не вернуться."
+
+msgid "Wait, Aoi could have died for all I know..."
+msgstr "Может, она вообще уже погибла..."
+
+msgid "What did I do..."
+msgstr "Что я наделала..."
+
+msgid "Did I seriously just send Aoi down the drain to die..."
+msgstr "Я что, серьёзно отправила Аой на верную смерть?"
+
+msgid "I should have said goodbye to Hiro when I had the chance..."
+msgstr "Надо было попрощаться с Хиро, пока ещё была такая возможность..."
+
+msgid "It felt like days have gone by."
+msgstr "Я сижу здесь уже будто несколько дней."
+
+msgid "I don't know exactly how long it's been."
+msgstr "Мне сложно сказать, сколько именно."
+
+msgid "But my phone battery died a long time ago..."
+msgstr "Телефон разрядился уже давно..."
+
+msgid "...And I fell asleep for a while too."
+msgstr "...И я надолго уснула."
+
+msgid "Despite this... I don't feel hungry or thirsty..."
+msgstr "Но несмотря на это... мне не хотелось есть или пить..."
+
+msgid "I don't have hope that Aoi will come back anymore."
+msgstr "Я уже не надеялась, что Аой вернётся."
+
+msgid "I don't think anyone will come."
+msgstr "Мне кажется, за мной никто не придёт."
+
+msgid "I can't believe it... I threw in everything I had..."
+msgstr "Я не могу поверить... я бросила туда всё, что у меня было..."
+
+msgid "I even threw in the fish that was here, I have nothing else I can use..."
+msgstr "Я даже бросила сюда всю рыбу, что здесь лежала. У меня больше ничего нет..."
+
+msgid "Is there really nothing I can feed this thing...? Is there nothing I can do to save Lacie?"
+msgstr "Неужели мне нечем накормить эту штуку? Неужели я не смогу спасти Лэйси?"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "There's always a way..."
+msgstr "Не бывает безвыходных ситуаций..."
+
+msgid "Think... think..."
+msgstr "Думай... думай..."
+
+msgid "Oh... oh god..."
+msgstr "Ой... о боже..."
+
+msgid "A bath tub."
+msgstr "Ванная."
+
+msgid "Why is there a bathtub in a place like this?"
+msgstr "Что в таком месте делает ванная?"
+
+msgid "Maybe the faeries take baths here?"
+msgstr "Может, феи здесь купаются?"
+
+msgid "At least it's not full of blood or something."
+msgstr "По крайней мере в ней нет крови или типа того."

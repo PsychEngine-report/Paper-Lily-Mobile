@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.item_boltcutter_on_fence.dlg.narrator"
+msgid "There's no reason to do that."
+msgstr "Bunu yapmak için bir sebep yok."
+
+msgid "(Why damage the fence when I can just cut the chain that locks the gate...?)"
+msgstr "(Girişi kilitleyen zincirleri kesmek varken neden çitlere zarar vereyim ki...?)"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.item_boltcutter_on_gate.dlg.narrator"
+msgid "There's no reason to do that."
+msgstr "Bunu yapmak için bir sebep yok."
+
+msgid "It's a little too late for that."
+msgstr "Bunun için biraz çok geç."
+
+msgid "I don't have all 3 keys yet..."
+msgstr "3 anahtarın hepsine henüz sahip değilim..."
+
+msgid "A gate locked with 3 padlocks."
+msgstr "3 tane asma kilitle kilitlenmiş bir geçit."
+
+msgid "The warning sign reads:"
+msgstr "Uyarı tabelası diyor ki:"
+
+msgid "\"NO TRESPASSING. RISK OF SERIOUS INJURY OR DEATH\"."
+msgstr "\" İZİNSİZ GİRİŞ YOK. CİDDİ YARALANMA YA DA ÖLÜM RİSKİ\"."
+
+msgid "A fence blocks your path."
+msgstr "Bir çit yolunu kapatıyor."
+
+msgid "I could've probably climbed over it... if not for those spikes."
+msgstr "Üstünden tırmanabilirdim...dikenli olmasalardı."
+
+msgid "A lamppost."
+msgstr "Sokak lambası direği."
+
+msgid "I'm not confident in my ability to climb this and jump to the other side."
+msgstr "Bundan tırmanıp öbür tarafa atlama kabiliyetime güvenmiyorum."
+
+msgid "The note reads:"
+msgstr "Not diyor ki:"
+
+msgid "\"Due to the recent primal incident, we ask residents stupid enough to go inside to close the gate behind you.\""
+msgstr "Yeni olan ilkel kazadan ötürü, içeri girecek kadar salak olan halktan, arkalarından geçiti kapatmalarını istiyoruz.\""
+
+msgid "As expected, the back of the note is blank."
+msgstr "Beklendiği gibi, notun arkası boş."
+
+msgid "A statue that looks out of place."
+msgstr "Yerine ait değilmiş gibi duran bir heykel."
+
+msgid "A torn piece of paper seems to be stuck underneath. Take it?"
+msgstr "Yırtılmış bir kağıt parçası altında sıkışmış gibi. Alacak mısın?"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.misc_statue.choice.A torn piece of paper seems to be stuck underneath. Take it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.misc_statue.choice.A torn piece of paper seems to be stuck underneath. Take it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "This path looks really dark and dangerous..."
+msgstr "Bu yol gerçekten karanlık ve tehlikeli görünüyor..."
+
+msgid "I went through the trouble of opening that gate but..."
+msgstr "O geçiti açma zahmetinde bulundum ama..."
+
+msgid "I don't think there's a reason to go in there."
+msgstr "Oraya gitmek için bir sebep olduğunu düşünmüyorum."
+
+msgid "I don't have any other sources of light..."
+msgstr "Başka bir ışık kaynağım yok..."
+
+msgid "Should I just use my phone's flashlight? It may be too bright..."
+msgstr "Telefonumun ışığını mı kullansam? Çok parlak olabilir..."
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Should I just use my phone's flashlight? It may be too bright..."
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Should I just use my phone's flashlight? It may be too bright..."
+msgid "No"
+msgstr "Hayır"
+
+msgid "I might not be able to come back after I go through here..."
+msgstr "Buradan geçtikten sonra geri dönemeyebilirim..."
+
+msgid "Continue down this path?"
+msgstr "Bu yoldan devam et?"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Continue down this path?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Continue down this path?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "Bu yoldan giderek Koz"
+
+msgid "Go in anyway?"
+msgstr "Yinede gir?"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Go in anyway?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Go in anyway?"
+msgid "No"
+msgstr "Hayır"

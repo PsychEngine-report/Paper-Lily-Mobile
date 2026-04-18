@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That entrance... wasn't there before."
+msgstr "Този вход… не беше там преди."
+
+msgid "Is it underground?"
+msgstr "Под земята ли е?"
+
+msgid "There's another signpost here. It's loose, so it can be rotated."
+msgstr "Тук има още един пътепоказател. Той е разхлабен, така че може да се завърти."
+
+msgid "Alright, I think I understand."
+msgstr "Добре, мисля, че разбрах."
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "Знакът гласи [color=#8080FF]\"Портал за дневна светлина\"[/color]. Завърти го?"
+
+msgid "North"
+msgstr "Север"
+
+msgid "South"
+msgstr "Юг"
+
+msgid "West"
+msgstr "Запад"
+
+msgid "East"
+msgstr "Изток"
+
+msgid "Don't Rotate"
+msgstr "Не завъртайте"
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "На табелката пише [color=#8080FF]\"Портал за дневна светлина\"[/color]."
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "Фиксиран е на място, тъй че не може да бъде завъртян."
+
+msgid "This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgstr "На този знак пише [color=#FF8080]\"Секретно\"[/color]. Завъртете го?"
+
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "На тази табела пише [color=#FFFF80]\"Достъп до жп гарата\"[/color]. Завъртете го?"
+
+msgid "A dark pathway through the trees. Enter?"
+msgstr "Тъмна алея между дърветата. Влезте?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"

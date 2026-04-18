@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That entrance... wasn't there before."
+msgstr "Essa entrada... não estava aqui antes."
+
+msgid "Is it underground?"
+msgstr "Está debaixo do chão?"
+
+msgid "There's another signpost here. It's loose, so it can be rotated."
+msgstr "Tem outra placa aqui. Está solta, então não pode ser rodada."
+
+msgid "Alright, I think I understand."
+msgstr "Certo, eu acho que entendi."
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "A placa diz [color=#8080FF]\"Portão do Amanhecer\"[/color]. Rodar ela?"
+
+msgid "North"
+msgstr "Norte"
+
+msgid "South"
+msgstr "Sul"
+
+msgid "West"
+msgstr "Oeste"
+
+msgid "East"
+msgstr "Leste"
+
+msgid "Don't Rotate"
+msgstr "Não rodar"
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "A placa diz [color=#8080FF]\"Portão do Amanhecer\"[/color]."
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "Está presa no lugar, então não pode ser rodada."
+
+msgid "This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgstr "A placa diz [color=#FF8080]\"Segredo\"[/color]. Rodar ela?"
+
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "A placa diz [color=#FFFF80]\"Acesso à Estação de Trem\"[/color]. Rodar ela?"
+
+msgid "A dark pathway through the trees. Enter?"
+msgstr "Um caminho escuro entre as árvores. Entrar?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"

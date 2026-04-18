@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't have the brain power for this right now."
+msgstr "我现在没空想这个问题。"
+
+msgid "You know... I could just jump over those boxes and get you the thingy."
+msgstr "其实...我可以跳过那些箱子，帮你拿那个东西。"
+
+msgid "Still not interested?"
+msgstr "还是不想让我来吗？"
+
+msgid "Ask Sai to get the shiny?"
+msgstr "要请赛伊去拿个亮晶晶的东西吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.event_react_fail_puzzle.choice.Ask Sai to get the shiny?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.event_react_fail_puzzle.choice.Ask Sai to get the shiny?"
+msgid "No"
+msgstr "否"
+
+msgid "Alright... knock yourself out."
+msgstr "好吧...随便你吧。"
+
+msgid "Be right back!"
+msgstr "马上回来！"
+
+msgid "Moments later..."
+msgstr "过了一会儿..."
+
+msgid "Easy peasy."
+msgstr "轻轻松松。"
+
+msgid "Still not interested."
+msgstr "还是不想。"
+
+msgid "No, I want to do it myself."
+msgstr "不，我想自己来。"
+
+msgid "The key fits!"
+msgstr "钥匙对上了！"
+
+msgid "Nothing happens."
+msgstr "无事发生。"
+
+msgid "An elevator door."
+msgstr "一扇电梯门。"
+
+msgid "There's a massive gap on the floor. You can't reach the door."
+msgstr "地板上有一个巨大的间隙。你够不到那扇门。"
+
+msgid "The plank allows you to cross freely."
+msgstr "这块木板让你能够自由穿行。"
+
+msgid "I've seen another hole that could use a plank like this..."
+msgstr "我还看到过另一个洞，也可以用这样的木板..."
+
+msgid "Move the plank to the other hole?"
+msgstr "要把这块木板移到另一个洞那里吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.misc_unreachable_door.choice.Move the plank to the other hole?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.misc_unreachable_door.choice.Move the plank to the other hole?"
+msgid "No"
+msgstr "否"
+
+msgid "Uugh... This is really heavy..."
+msgstr "啊...好重啊..."
+
+msgid "Hey, let me carry that."
+msgstr "嘿，让我带着吧。"
+
+msgid "Since you removed the plank, you can't cross anymore."
+msgstr "你已经移除了木板，你现在跨不过去了。"
+
+msgid "It's locked."
+msgstr "锁住了。"

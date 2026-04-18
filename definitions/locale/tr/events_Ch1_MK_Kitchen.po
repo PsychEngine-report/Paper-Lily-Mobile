@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_barrel.dlg.narrator"
+msgid "A storage compartment filled with various types of food."
+msgstr "Çeşitli yiyecek türleriyle dolu bir saklama bölmesi."
+
+msgid "There's a key in there as well."
+msgstr "Ayrıca burada bir anahtar var."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_barrel_2.dlg.narrator"
+msgid "A storage compartment filled with various types of food."
+msgstr "Çeşitli yiyecek türleriyle dolu bir saklama bölmesi."
+
+msgid "A large cauldron."
+msgstr "Büyük bir kazan."
+
+msgid "Is this where she cooks children?"
+msgstr "Burası çocukları pişirdiği yer mi?"
+
+msgid "It wouldn't surprise me, after the day I've had."
+msgstr "Bu gün yaşadıklarımdan sonra, bu beni şaşırtmadı."
+
+msgid "It looks like some sort of stew."
+msgstr "Bir çeşit güveç gibi görünüyor."
+
+msgid "It's cold and it doesn't seem to have been looked after in a long time."
+msgstr "Bu soğuk ve epey bir zamandır kullanılmamış gibi gözüküyor."
+
+msgid "There's a black thing sticking out from the stew."
+msgstr "Güvecin dışında siyah bir şey sarkıyor."
+
+msgid "Take it with you?"
+msgstr "Yanına al?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Take it with you?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Take it with you?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "...It seems to be part of something bigger."
+msgstr "...Büyük bir şeyin parçası gibi gözüküyor"
+
+msgid "You can't take all of it."
+msgstr "Hepsini çıkartamazsın."
+
+msgid "There's nothing else of interest."
+msgstr "İlginç başka bir şey yok."
+
+msgid "Stir it up?"
+msgstr "Karıştır？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Stir it up?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Stir it up?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A kitchen counter."
+msgstr "Bir mutfak tezgahı."
+
+msgid "A cutting board."
+msgstr "Kesme tahtası."
+
+msgid "Nothing on the shelves above looks useful."
+msgstr "Üst raflarda kullanışlı bir şey yok."
+
+msgid "A cookie jar."
+msgstr "Bir kurabiye kavanozu."
+
+msgid "There's something inside that doesn't belong."
+msgstr "İçinde ait olmayan bir şey var."
+
+msgid "Take it?"
+msgstr "Çıkar?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Take it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Take it?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.dlg.lacie"
+msgid "Maybe I could feed this to the plant..."
+msgstr "Belki bununla bitkiyi besleyebilirim..."
+
+msgid "Bring the cookies to the plant?"
+msgstr "Kurabiyeleri bitkiye götür?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Bring the cookies to the plant?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Bring the cookies to the plant?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "The plant rejects the cookies..."
+msgstr "Bitki kurabiyeyi reddetti..."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2_sai_react.dlg.sai"
+msgid "Whoa neat! Can I have one?"
+msgstr "Vay be! Ben de bir tane alabilir miyim?"
+
+msgid "There was an eyeball in there."
+msgstr "Burada bir göz küresi var."
+
+msgid "Ah. So, no cookie?"
+msgstr "Ahhh. O zaman, kurabiye yok mu ?"
+
+msgid "There's an eyeball in there."
+msgstr "Burada bir göz küresi var."
+
+msgid "Well, not the eyeball, I meant the cookie."
+msgstr "Peki,göz küresi değil, Ben kurabiye demek istemiştim."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2_sai_react.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I don't think you should eat that."
+msgstr "Yemen gerektiğini düşünmüyorum."
+
+msgid "Bummer."
+msgstr "Hayal kırıklığı."
+
+msgid "A green frog."
+msgstr "Yeşil bir kurbağa."
+
+msgid "Is that a frog?"
+msgstr "Bu bir kurbağa mı?"
+
+msgid "Is it alive?"
+msgstr "Yaşıyor mu?"
+
+msgid "Yes."
+msgstr "Evet."
+
+msgid "Maybe the knives lady will cook it."
+msgstr "Belki bayan Knives onu pişirir."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "An empty, frog-less spot on the shelf."
+msgstr "Rafta boş, kurbağasız bir yer."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.dlg.lacie"
+msgid "Maybe I could feed this to the plant..."
+msgstr "Belki bununla bitkiyi besleyebilirim..."
+
+msgid "Bring the frog to the plant?"
+msgstr "Kurbağayı bitkiye götür?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.choice.Bring the frog to the plant?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.choice.Bring the frog to the plant?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "\"Thank you.\""
+msgstr "\"Teşekkürler.\""

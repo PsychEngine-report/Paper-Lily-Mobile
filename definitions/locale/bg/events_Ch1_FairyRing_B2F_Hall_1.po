@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm? What's that?"
+msgstr "Хм? Какво е това?"
+
+msgid "Oh that? It's a fairy head."
+msgstr "О, това? Това е глава на фея."
+
+msgid "A... head? Is the rest of the fairy just buried?"
+msgstr "А… глава? Останалата част от феята погребана ли е?"
+
+msgid "No, it's probably roaming around somewhere."
+msgstr "Не, сигурно се скита някъде наоколо."
+
+msgid "But the heads are dangerous too, be careful."
+msgstr "Но и главите са опасни, внимавай."
+
+msgid "There's another one..."
+msgstr "Има и друга..."
+
+msgid "But... this one definitely has eyes, doesn't it?"
+msgstr "Но… тази определено има очи, нали?"
+
+msgid "Maybe they're nostrils."
+msgstr "Може би това са ноздри."
+
+msgid "Wha- nostrils?"
+msgstr "Какв- ноздри?"
+
+msgid "Could that be?"
+msgstr "Възможно ли е това?"
+
+msgid "They're eyes"
+msgstr "Това са очите им"
+
+msgid "They're nostrils"
+msgstr "Ноздрите им"
+
+msgid "(That's ridiculous.)"
+msgstr "(Това е абсурдно.)"
+
+msgid "I suppose I hadn't thought of it that way..."
+msgstr "Предполагам, че не съм мислил за това по този начин…"
+
+msgid "(Anyways... how will we pass without it seeing us?)"
+msgstr "(Както и да е… как ще минем, без да ни види?)"
+
+msgid "Now there's a bunch of them..."
+msgstr "Сега има един куп от тях…"
+
+msgid "This is going to be a thing, isn't it."
+msgstr "Това ще се превърне в нещо, нали."
+
+msgid "Wanna turn back?"
+msgstr "Желаеш ли да се върнем?"
+
+msgid "Wait, I can try to visualize a solution..."
+msgstr "Почакай, може да се опитам да визуализирам решение…"
+
+msgid "Visualize solution?"
+msgstr "Визуализираш решение?"
+
+msgid "Yes, please"
+msgstr "Да, моля"
+
+msgid "I don't need it"
+msgstr "Нямам нужда от него"
+
+msgid "It's probably something like that."
+msgstr "Вероятно е нещо подобно."
+
+msgid "Wow! Amazing!"
+msgstr "Еха! Невероятно!"
+
+msgid "Okay..."
+msgstr "Добре…"
+
+msgid "A fairy head. It only has a mouth."
+msgstr "Глава на фея. Тя има само уста."
+
+msgid "It only has a mouth... is that why it can't see me even though I'm this close?"
+msgstr "Има само уста… затова ли не ме вижда, въпреки че съм толкова близо?"
+
+msgid "A fairy head. It only has nostrils."
+msgstr "Глава на фея. Тя има само ноздри."
+
+msgid "A fairy head. It only has eyes."
+msgstr "Глава на фея. Тя има само очи."
+
+msgid "It seems like this one can only see to the sides..."
+msgstr "Изглежда, че тази вижда само настрани…"
+
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "Малко растение. То сякаш закрива гледката на феята."
+
+msgid "This thing... does it block the head's view?"
+msgstr "Това нещо… закрива ли гледката на главата?"
+
+msgid "As long as these black plant things are there, it should be possible to go around."
+msgstr "Докато тези черни растения са там, би трябвало да може да се обикаля."

@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Explore your surroundings"
+msgstr "辺りを探索する"
+
+msgid "I woke up in a strange garden. Where am I?"
+msgstr "不思議な庭で目が覚めた。ここはどこだろう？"
+
+msgid "Check your notes to refresh your memory"
+msgstr "メモを見て記憶を整理する"
+
+msgid "I should go over my ritual notes to make sure I don't forget anything."
+msgstr "記憶に抜けがないように儀式のメモに目を通しておかないと。"
+
+msgid "Gather items for the ritual"
+msgstr "儀式の道具を集める"
+
+msgid "I should gather everything I'll need for the ritual first."
+msgstr "まず儀式に必要なものを全部集める必要がある。"
+
+msgid "Chalk"
+msgstr "チョーク"
+
+msgid "This is a school - surely I can find chalk here."
+msgstr "ここは学校 ― チョークは絶対にあるはず。"
+
+msgid "Candles"
+msgstr "ロウソク"
+
+msgid "I brought some from home."
+msgstr "家からいくつか持ってきてある。"
+
+msgid "A tuft of hair"
+msgstr "髪の毛ひとふさ"
+
+msgid "It has to be human hair."
+msgstr "人間のじゃないといけない。"
+
+msgid "A rune"
+msgstr "ルーン"
+
+msgid "My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there."
+msgstr "オカルト部の部室のどこかにルーンがあるって友達に聞いた。儀式に1個必要だから、行って探さなくちゃいけない。"
+
+msgid "Find a way to open the box with the runes"
+msgstr "ルーンの入った箱を開ける方法を見つける"
+
+msgid "I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick."
+msgstr "オカルト部でルーンの入った箱を見つけたけど、テープで閉じられてた。何か鋭いものが必要だ。"
+
+msgid "Sort the desks in all three classrooms"
+msgstr "3つの教室全部の机を脇に寄せる"
+
+msgid "According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms."
+msgstr "儀式の手順によると、3つの教室全てで机を脇に寄せる必要があるらしい。"
+
+msgid "Shut the curtains in all three classrooms"
+msgstr "3つの教室全部のカーテンを閉める"
+
+msgid "According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut."
+msgstr "儀式の手順によると、教室を可能な限り暗くしなきゃいけないらしい。なので、カーテンを閉める必要がある。"
+
+msgid "Find a curtain to replace the missing one in Classroom 3-B"
+msgstr "3-B教室の窓のためのカーテンを見つける"
+
+msgid "I can't shut all the curtains if one of them is missing. I need to find something to cover that window."
+msgstr "カーテンがひとつ欠けてたら、全部のカーテンを閉められない。何か窓を覆えるものを見つけないと。"
+
+msgid "Find a way into the Theater Club room"
+msgstr "演劇部室に入る方法を見つける"
+
+msgid "I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in."
+msgstr "演劇部室にはきっとカーテンがあるはずだけど、鍵がかかってた。入る方法を探さなきゃいけない。"
+
+msgid "Retrieve the girl's notebook"
+msgstr "女の子のノートを取ってくる"
+
+msgid "One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it."
+msgstr "女の子の一人が3-C教室にノートを忘れてきたらしい。取ってきたら演劇部の鍵を貸してくれるかもしれない。ノートの中身は見るなって言ってた。"
+
+msgid "Finalize ritual preparations"
+msgstr "儀式の準備を完了する"
+
+msgid "Finally, I need to set candles, and draw a path with chalk in all 3 classrooms."
+msgstr "準備の仕上げにロウソクを設置して、3つの教室全部にチョークで道を描かないといけない。"
+
+msgid "Draw a path with chalk in all 3 classrooms"
+msgstr "3つの教室全てにチョークで道を描く"
+
+msgid "I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it."
+msgstr "3つの教室全てをつなぐように、床に線を描かなきゃいけない。メモの絵が参考になるかも。"
+
+msgid "Set and light candles in the middle room"
+msgstr "真ん中の部屋にロウソクを置いて火を灯す"
+
+msgid "I need to set and light the candles on top of all the desks in classroom 3-B."
+msgstr "3-B教室の机全部にロウソクを置いて、火を灯す必要がある。"
+
+msgid "Burn the hair tuft on a candle"
+msgstr "ロウソクで髪の毛の束を燃やす"
+
+msgid "Preparations are complete. Let's burn the hair tuft on a candle to start the ritual."
+msgstr "準備は完了。髪の毛をロウソクで燃やして、儀式を始めよう。"
+
+msgid "Explore the strange place"
+msgstr "奇妙な場所を探索する"
+
+msgid "I arrived at a mysterious location, let's take a look around!"
+msgstr "不思議な場所に来たから、辺りを見て回ろう！"
+
+msgid "Escape this cursed place"
+msgstr "呪われた場所から脱出する"
+
+msgid "This isn't fun anymore. I need to find a way back!"
+msgstr "もう楽しくなくなった。帰る方法を見つけなきゃ！"
+
+msgid "Go home"
+msgstr "家に帰る"
+
+msgid "I'm going home. Maybe I'll finish the ritual some other time."
+msgstr "家に帰る。儀式はまたいつかやろう。"
+
+msgid "Test your theory"
+msgstr "仮説を検証する"
+
+msgid "If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case... right?"
+msgstr "もし本当にループに閉じ込められてるなら、×印は上るか下りるかした先にもまだあるはず。でも、そんなことはありえない……よね？"

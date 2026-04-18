@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I think I'll just do it later."
+msgstr "また後にしよう。"
+
+msgid "That was easy."
+msgstr "簡単だった。"
+
+msgid "This isn't the right classroom for that."
+msgstr "それをするのはこの教室ではない。"
+
+msgid "The path is already drawn."
+msgstr "道は既に描いてある。"
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "まだダメ。先に必要なものを揃えておきたい。"
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "まだダメ。先に教室の準備をしておきたい。"
+
+msgid "There's some chalk here."
+msgstr "チョークがある。"
+
+msgctxt "events.Prologue_Classroom_1.item_chalk_get.choice"
+msgid "Take it?"
+msgstr "取る？"
+
+msgctxt "events.Prologue_Classroom_1.item_chalk_get.choice.Take it?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Classroom_1.item_chalk_get.choice.Take it?"
+msgid "No"
+msgstr "取らない"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "これ以上問題を起こすのは控えたい。"
+
+msgid "This is my desk. I keep all kinds of cool stuff here."
+msgstr "私の机。色んなカッコいいものが入ってる。"
+
+msgid "This might be useful."
+msgstr "これは役に立つかも。"
+
+msgid "Take Dusty Hairpin?"
+msgstr "くすんだヘアピンを取る？"
+
+msgctxt "events.Prologue_Classroom_1.item_hairpin_get.choice.Take Dusty Hairpin?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Classroom_1.item_hairpin_get.choice.Take Dusty Hairpin?"
+msgid "No"
+msgstr "取らない"
+
+msgid "There's nothing else of use for today."
+msgstr "他に今日役に立つものはもうない。"
+
+msgid "My desk. I don't need anything from it right now."
+msgstr "私の机。いま特に必要なものは入ってない。"
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "儀式の手順には学校への放火は含まれていない。"
+
+msgid "There's a pair of scissors here."
+msgstr "ハサミがある。"
+
+msgid "Take Scissors?"
+msgstr "ハサミを取る？"
+
+msgctxt "events.Prologue_Classroom_1.item_scissors.choice.Take Scissors?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Classroom_1.item_scissors.choice.Take Scissors?"
+msgid "No"
+msgstr "取らない"
+
+msgid "It's already done."
+msgstr "もう揃えてある。"
+
+msgid "This isn't the time for that."
+msgstr "今はそんなことをしている場合ではない。"
+
+msgid "Return scissors?"
+msgstr "ハサミを戻す？"
+
+msgctxt "events.Prologue_Classroom_1.item_scissors_on_shelf.choice.Return scissors?"
+msgid "Yes"
+msgstr "戻す"
+
+msgctxt "events.Prologue_Classroom_1.item_scissors_on_shelf.choice.Return scissors?"
+msgid "No"
+msgstr "戻さない"
+
+msgid "Some geometry books."
+msgstr "幾何学の教科書数冊。"
+
+msgid "A clean chalkboard."
+msgstr "きれいな黒板。"
+
+msgid "A wooden desk."
+msgstr "木の机。"
+
+msgid "A paper slip with rules for students."
+msgstr "校則の書かれた紙。"
+
+msgid "There's no time for rules right now."
+msgstr "今は校則を守ってる時間はない。"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "出欠表とスケジュール表。"
+
+msgid "A happy green plant."
+msgstr "楽しげな観葉植物。"
+
+msgid "The plant is no longer happy."
+msgstr "観葉植物。もう楽しげじゃない。"
+
+msgid "The teacher's podium."
+msgstr "教壇。"
+
+msgid "Some boring textbooks."
+msgstr "退屈な教科書が数冊。"
+
+msgid "Some very thick, school-related books."
+msgstr "分厚い学校関連の本が数冊。"
+
+msgid "Some books and... chalk."
+msgstr "本が数冊と……チョーク。"
+
+msgctxt "events.Prologue_Classroom_1.misc_shelf2b.choice"
+msgid "Take it?"
+msgstr "取る？"
+
+msgctxt "events.Prologue_Classroom_1.misc_shelf2b.choice.Take it?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Classroom_1.misc_shelf2b.choice.Take it?"
+msgid "No"
+msgstr "取らない"
+
+msgid "There's nothing else of use."
+msgstr "他に使えるものはない。"
+
+msgid "A simple trash can. Its contents look trashy."
+msgstr "シンプルなゴミ箱。中身はいかにもゴミという感じだ。"
+
+msgctxt "events.Prologue_Classroom_1.misc_window1.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "カーテンは閉めたままにしておかないといけない。"
+
+msgctxt "events.Prologue_Classroom_1.misc_window2.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "カーテンは閉めたままにしておかないといけない。"
+
+msgctxt "events.Prologue_Classroom_1.misc_window3.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "カーテンは閉めたままにしておかないといけない。"
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "今この教室の机を揃える？"
+
+msgctxt "events.Prologue_Classroom_1.move_enter.choice.Should I sort the desks in this classroom now?"
+msgid "Yes"
+msgstr "揃える"
+
+msgid "Not yet"
+msgstr "まだやめておく"
+
+msgid "This should be easy."
+msgstr "これは簡単ね。"

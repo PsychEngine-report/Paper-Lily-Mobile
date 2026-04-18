@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "赤い靴ひもが通された白い靴がある。"
+
+msgid "The shoelaces could be useful."
+msgstr "この靴ひもは使えるかもしれない。"
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "${item:ch1.shoelaces} を取る？"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "No"
+msgstr "取らない"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "It's already done."
+msgstr "もうまいてある。"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "(入口に塩をまいた。)"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "It's already done."
+msgstr "もうまいてある。"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "(入口に塩をまいた。)"
+
+msgid "Something is written here:"
+msgstr "何か書いてある。"
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "「最後にここで食事をしたのはいつ？　忘れた？」"
+
+msgid "A bookshelf with random decorative books."
+msgstr "装飾用の本が雑多に並んだ本棚。"
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "きちんと並べられた文具類もいくつかある。"
+
+msgid "Red marker. Perfect."
+msgstr "赤のマーカーだ。完璧。"
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "${item:ch1.marker} を取る？"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "大きなソファー。ヒロがよくここでうたた寝をしている。"
+
+msgid "A small couch that used to be your favorite."
+msgstr "かつてお気に入りだった小さなソファー。"
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "戸棚の上に箱と鉢植えが置いてある。"
+
+msgid "A large cupboard that could fit a person."
+msgstr "人がひとり入れそうなほどの大きな戸棚。"
+
+msgid "Some decorative plates."
+msgstr "装飾用のお皿がいくつか。"
+
+msgid "A painting of a sleeping cat."
+msgstr "眠っている猫の絵。"
+
+msgid "A painting of..."
+msgstr "猫の……"
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "あれ？　この猫、眠ってなかったっけ……？"
+
+msgid "A painting of a cat stares you down."
+msgstr "猫の絵がこちらをじっと見下ろしている。"
+
+msgid "Some bills."
+msgstr "請求書。"
+
+msgid "Some pictures of places around the world."
+msgstr "世界各地を写した写真。"
+
+msgid "Mother and father go on trips a lot..."
+msgstr "ママとパパはよく旅行に行く……"
+
+msgid "I don't even know where they are right now."
+msgstr "今どこにいるのかも知らない。"
+
+msgid "A tall plant."
+msgstr "背の高い植物。"
+
+msgid "A pretty plant."
+msgstr "きれいな植物。"
+
+msgid "A pink plant."
+msgstr "ピンク色の植物。"
+
+msgid "The TV remote."
+msgstr "テレビのリモコン。"
+
+msgid "Turn the TV on?"
+msgstr "テレビをつける？"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "Yes"
+msgstr "つける"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "No"
+msgstr "つけない"
+
+msgid "Turn the TV off?"
+msgstr "テレビを消す？"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "Yes"
+msgstr "消す"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "No"
+msgstr "消さない"
+
+msgid "A shelf containing mainly glassware."
+msgstr "主にガラス製品が入った棚。"
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "倒れてきたら間違いなくケガすると思う。"
+
+msgid "Some books on gardening."
+msgstr "ガーデニングに関する本が何冊か。"
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "様々な色の靴が並んだ靴箱。"
+
+msgid "Slippers to change into."
+msgstr "履き替える用のスリッパ。"
+
+msgid "The footprints come from under the table..."
+msgstr "足跡は机の下から出ている……"
+
+msgid "But there's nothing there."
+msgstr "しかし、下には何もない。"
+
+msgid "The family dining table."
+msgstr "家族のダイニングテーブル。"
+
+msgid "We don't eat here as much anymore."
+msgstr "もうここではあまり食事はしない。"
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "ローテーブル。ときどき植物が邪魔になる。"
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "足跡が外に続いている。普通の足には見えない……"
+
+msgid "A TV."
+msgstr "テレビ。"
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "車の番組だ……それとも、ゲームのCMかな？"
+
+msgid "Just animal videos, I guess."
+msgstr "ただの動物番組みたい。"
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "「パンと猫を与えておけば反乱は起きない」。"
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "最近、魔法少女のアニメを見始めた。"
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "ネットでは暗くなるって言ってるけど……今のところ、特に悪いことは起きてない。"
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "気味が悪い……消そう。"
+
+msgid "..."
+msgstr "……"
+
+msgid "An umbrella basket."
+msgstr "傘立て。"
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "傘立て。よくうっかり蹴飛ばされる。"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_backyard.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "もう外には十分出た。"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_exit.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "もう外には十分出た。"
+
+msgid "This is the laundry room."
+msgstr "ここは洗濯室。"
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "なんで家中のドアに鍵をかける必要があるのか、理解できる日は来ないと思う。"
+
+msgid "Maybe Hiro has the key..."
+msgstr "ヒロなら鍵を持ってるかも……"
+
+msgid "...but I don't need anything from there."
+msgstr "……でも、この部屋に必要なものはない。"
+
+msgid "The laundry room. It's locked."
+msgstr "洗濯室。鍵がかかっている。"

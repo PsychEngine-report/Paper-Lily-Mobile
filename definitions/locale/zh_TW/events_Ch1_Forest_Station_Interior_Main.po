@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "..."
+
+msgid "There's no one behind the window."
+msgstr "窗後沒有人。"
+
+msgid "Ads. Don't acknowledge them."
+msgstr "廣告。別看它們。"
+
+msgid "It says \"No cutting in line.\""
+msgstr "上面寫著\"不准插隊。\""
+
+msgid "Cutting in front of who? There's nobody here!"
+msgstr "插誰的隊？這裡沒有人！"
+
+msgid "Looks like ticket prices."
+msgstr "看起來是票價。"
+
+msgid "A regular ticket is 20 coins."
+msgstr "一張普通票 20 枚硬幣。"
+
+msgid "...That's a lot of coins... for me at least."
+msgstr "...好多硬幣啊...至少對我來說。"
+
+msgid "A number dispenser."
+msgstr "號碼機。"
+
+msgid "It looks like the numbers ran out, though."
+msgstr "可是看起來號碼沒了。"
+
+msgid "A half-withered plant."
+msgstr "半生不死的植物。"
+
+msgid "A dead plant."
+msgstr "死掉的植物。"
+
+msgid "A trash can."
+msgstr "垃圾桶。"
+
+msgid "It's missing the pedal thingy, so you can't open it to check the contents."
+msgstr "它缺了腳踏板，所以妳沒辦法檢查內容物。"
+
+msgid "Touching the lid with your bare hands is out of the question."
+msgstr "徒手摸蓋子是不可能的。"
+
+msgid "A coin-operated vending machine. It says \"OUT OF ORDER\"."
+msgstr "收硬幣的販賣機。上面寫著\"故障\"。"
+
+msgid "Insert a coin anyways?"
+msgstr "還是要投入硬幣嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "The machine took the coin, but nothing's happening."
+msgstr "機器收下了硬幣，但是什麼事也沒發生。"
+
+msgid "A coin-eating, evil vending machine."
+msgstr "一台邪惡的吃錢販賣機。"
+
+msgid "What should I do, put another coin?"
+msgstr "我該怎麼做，再投入另一枚硬幣嗎？"
+
+msgid "This upsets me..."
+msgstr "我好不爽..."
+
+msgid "A coin-swallowing, useless vending machine."
+msgstr "一台沒用的吞錢販賣機。"
+
+msgid "Kick it?"
+msgstr "踢它嗎？"
+
+msgid "Today, violence was the answer."
+msgstr "今天，暴力就是解答。"
+
+msgid "A broken vending machine."
+msgstr "一台壞掉的販賣機。"
+
+msgid "A coin-spitting vending machine that got what it deserved."
+msgstr "一台吐出硬幣的販賣機得到了它的報應。"

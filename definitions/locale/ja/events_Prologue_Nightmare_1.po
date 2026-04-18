@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Interestingly, there's no keyhole on this side."
+msgstr "興味深いことに、こちら側には鍵穴はない。"
+
+msgid "A paper slip with some rules and regulations."
+msgstr "校則が書かれた紙。"
+
+msgid ""
+"\"No running in the hallways.\n"
+"No screaming during recess.\n"
+"No escaping, ever.\""
+msgstr ""
+"「廊下は走らない。\n"
+"休み時間に叫ばない。\n"
+"逃げられない。決して。」"
+
+msgid "\"Classroom 4-A\""
+msgstr "「4-A」"
+
+msgid "\"Classroom 56-W\""
+msgstr "「56-W」"
+
+msgid "It's too dark to see anything on the other side."
+msgstr "暗くて向こう側は見えない。"
+
+msgid "Huh? What's this?"
+msgstr "あれ？ ここは？"
+
+msgid "Am I back at the school already?"
+msgstr "もう学校に戻れたの？"
+
+msgid "Let's have some fun, shall we? Entertain me for a while, and in return you get..."
+msgstr ""
+"お楽しみといこうか？　しばらく私を楽しませるがいい、\n"
+"報酬は……"
+
+msgid "Nothing."
+msgstr "ない。"
+
+msgid "Huh?"
+msgstr "んん？"
+
+msgid "Who's talking...?"
+msgstr "誰の声……？"
+
+msgid "The door won't open. It seems to be locked."
+msgstr "ドアは開かない。鍵がかかっているようだ。"

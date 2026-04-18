@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Um... okay..."
+msgstr "Hmm...pekala..."
+
+msgid "A realistic sculpture of a man with a candle for a head."
+msgstr "Kafasının yerinde mum olan gerçekçi bir insan heykeli."
+
+msgid "(What should I do?)"
+msgstr "(Ne yapmalıyım?)"
+
+msgid "Touch it"
+msgstr "Dokun"
+
+msgid "Take the candle"
+msgstr "Mumu al"
+
+msgid "Blow out the candle"
+msgstr "Mumu söndür"
+
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgid "The statue feels like stone, just as you would expect."
+msgstr "Beklenildiği gibi heykel taştan yapılmış."
+
+msgid "Are you sure?"
+msgstr "Emin misin?"
+
+msgctxt "events.Ch1_Artist_3F.misc_candleman.choice.Are you sure?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_3F.misc_candleman.choice.Are you sure?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Leftovers of what was once a sculpture."
+msgstr "Bir zamanlar heykel olan şeyin kalıntıları."
+
+msgid "The candle man is gone."
+msgstr "Mum adam gitmiş."
+
+msgid "It's hard to tell what it says from this side."
+msgstr "Buradan ne söyledigini anlamak zor."
+
+msgid "It reads: \"Exhibit closed indefinitely. If you have complaints, please direct them back to where they came from.\""
+msgstr "「Sergi süresiz olaraka kapatılmıştır.Olası şikayetlerinizi lütfen geldiği yere geri gönderiniz.」"
+
+msgid "The sculpture is either broken or unfinished. You can't really tell."
+msgstr "Heykel ya kırılmış ya da bitirilmemiş. Tam olarak emin değilsin."
+
+msgid "A tall vase."
+msgstr "Uzun bir vazo."
+
+msgid "Reach inside?"
+msgstr "Içerisine uzanacak mısın？"
+
+msgctxt "events.Ch1_Artist_3F.misc_vase.choice.Reach inside?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_3F.misc_vase.choice.Reach inside?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "..."
+msgstr "..."
+
+msgid "...tired..."
+msgstr "...yorgun..."
+
+msgid "...so....tired...."
+msgstr "...çok...yorgun..."

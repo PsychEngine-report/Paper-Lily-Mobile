@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "Bu ilüzyon artık bozulmalı, değil mi?"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "Tüh, buradan hoşlanmaya başlamıştım."
+
+msgctxt "events.Ch1_MK_Livingroom.event_ending_12.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "That's probably not good..."
+msgstr "Bu muhtemelen iyi değil..."
+
+msgid "Did you see that? The painting opened its eyes!"
+msgstr "Bunu gördün mü? Resim gözlerini açtı!"
+
+msgid "Um... did you burn the things in the right order?"
+msgstr "Hmm...Eşyaları doğru sırada mı yaktın?"
+
+msgid "I... think... so?"
+msgstr "S-sanırım?"
+
+msgid "Did I do something wrong...?"
+msgstr "Yanlış bir şey mi yaptım...?"
+
+msgid "Was the illusion supposed to LITERALLY break apart?"
+msgstr "İlüzyonun TAM ANLAMIYLA bozulması mı gerekiyordu?"
+
+msgid "I don't know...!"
+msgstr "Bilmiyorum...!"
+
+msgid "Maybe we should leave..."
+msgstr "Belki de gitmeliyiz..."
+
+msgid "Oh crap, the doors are gone!"
+msgstr "Olamaz, kapılar gitmiş!"
+
+msgid "What do I do...? I need to get out of here!"
+msgstr "Ne yapacağım ben...? Burdan çıkmam lazım!"
+
+msgid "Hey, be careful."
+msgstr "Hey, dikkat et."
+
+msgid "....."
+msgstr "....."
+
+msgctxt "events.Ch1_MK_Livingroom.event_ending_12.dlg.lacie"
+msgid "(My foot... it hurts...!)"
+msgstr "(Ayağım...acıyor...!)"
+
+msgid "(Where are we...?)"
+msgstr "(Neredeyiz biz...?)"
+
+msgid "We need to find a way out..."
+msgstr "Çıkmanın bir yolunu bulmamız lazım..."
+
+msgid "Yeahh.... WELL..."
+msgstr "Eeeh...şey..."
+
+msgid "About that..."
+msgstr "O konuda..."
+
+msgid "I..."
+msgstr "Sanırım..."
+
+msgid "...might have landed on something hard."
+msgstr "...sert bir şeye çarpmış olabilirim."
+
+msgid "Doesn't look great."
+msgstr "Pek iyi gözükmüyor."
+
+msgid "...W-what do we do...?"
+msgstr "...N-ne yapacağız biz...?"
+
+msgid "If you can still move, go on ahead."
+msgstr "Hala hareket edebileceksen, devam et."
+
+msgid "I need a moment."
+msgstr "Bir saniye bekle."
+
+msgid "O-okay..."
+msgstr "P-peki..."
+
+msgid "Uh... hey..."
+msgstr "Ah...şey..."
+
+msgid "You'll uh.... You'll come back, right?"
+msgstr "Sen... uh... Geri döneceksin, değil mi?"
+
+msgid "Yes."
+msgstr "Evet."
+
+msgid "Thanks."
+msgstr "Teşekkürler."
+
+msgid "(Where am I...?)"
+msgstr "(Neredeyim ben...?)"
+
+msgid "I need to find a way out..."
+msgstr "Çıkmanın bir yolunu bulmam lazım..."
+
+msgid "This item is yet to be unsealed."
+msgstr "Bu eşyaların mührü henüz açılmadı."
+
+msgid "The fire needs to be lit first."
+msgstr "Önce ateşin yakılması gerek."
+
+msgid "Light the fireplace?"
+msgstr "Şömine yakılsın mı?"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.Light the fireplace?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.Light the fireplace?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "I don't have all 5 items ready to burn yet..."
+msgstr "Henüz yakabilecek 5 eşyaya sahip değilim..."
+
+msgid "If I light this on, I'll just lure that lady here for no reason."
+msgstr "Eğer bunu yakarsam、o kadını sebepsiz yere buraya çekmiş olacağım."
+
+msgid "(What should I burn first?)"
+msgstr "(İlk olarak neyi yakmalıyım?)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The knife"
+msgstr "Bıçak"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The foot"
+msgstr "Ayak"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The sketchbook"
+msgstr "Eskiz defteri"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The mirror"
+msgstr "Ayna"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The cold compress"
+msgstr "Soğuk kompres"
+
+msgid "(What should I burn next?)"
+msgstr "(Sonrasında neyi yakmalıyım?)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The knife"
+msgstr "Bıçak"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The foot"
+msgstr "Ayak"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The sketchbook"
+msgstr "Eskiz defteri"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The mirror"
+msgstr "Ayna"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The cold compress"
+msgstr "Soğuk kompres"
+
+msgid "And finally... the knife."
+msgstr "Ve son olarak... bıçak."
+
+msgid "And finally... the foot."
+msgstr "Ve son olarak.. ayak"
+
+msgid "And finally... the sketchbook."
+msgstr "Ve son olarak.. eskiz defteri."
+
+msgid "And finally... the mirror."
+msgstr "Ve son olarak.. ayna"
+
+msgid "And finally... the cold compress."
+msgstr "Ve son olarak.. soğuk kompres"
+
+msgid "Take ${item:ch1.lockpick}?"
+msgstr "${item:ch1.lockpick} Alınsın mı?"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lockpick_get.choice.Take ${item:ch1.lockpick}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lockpick_get.choice.Take ${item:ch1.lockpick}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "You pour some liquid onto the rag..."
+msgstr "Bezin üzerine biraz sıvı koydun..."
+
+msgid "It's already wet enough."
+msgstr "Çoktan yeterince ıslanmış."
+
+msgid "\"Alcohol tastes just like water.\""
+msgstr "\"Alkolün tadı aynı su gibi.\""
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plant4.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Teşekkür ederim.\""
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plant4.dlg.narrator"
+msgid "(You watered the plant.)"
+msgstr "(Çiçeği suladın.)"
+
+msgid "(You pour water into the empty pot...)"
+msgstr "(Boş kabın içine su döktün...)"
+
+msgid "(...but nothing happens.)"
+msgstr "(...ama hiçbir şey olmadı.)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plants.dlg.narrator"
+msgid "(You watered the plant.)"
+msgstr "(Çiçeği suladın.)"
+
+msgid "Various useless trinkets are displayed on these shelves."
+msgstr "Bu raflarda işe yaramaz bir sürü biblo sergileniyor."
+
+msgid "A teapot, full of some liquid. Seems to be water."
+msgstr "Bir çaydanlık, içinde biraz sıvı var. Suya benziyor."
+
+msgid "I could use this..."
+msgstr "Bunu kullanabilirim..."
+
+msgid "Bring water to the plant?"
+msgstr "Bitkiye su getirilsin mi?"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.choice.Bring water to the plant?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.choice.Bring water to the plant?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Teşekkürler.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_fireplace.dlg.narrator"
+msgid "A fireplace."
+msgstr "Bir ateş şöminesi."
+
+msgid "There's no fire, so it's just... a place."
+msgstr "Burada hiç ateş yok, yani sanırım sadece şömine."
+
+msgid "Haha, good one!"
+msgstr "Ahah, bu iyiydi!"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_fireplace.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A place."
+msgstr "Bir ateşsiz şömine."
+
+msgid "An old gramophone."
+msgstr "Eski bi gramafon."
+
+msgid "What to do?"
+msgstr "Ne yapacaksın?"
+
+msgid "Play music"
+msgstr "Müziği oynat"
+
+msgid "Stop the music"
+msgstr "Müziği durdur"
+
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgid "A floor lamp."
+msgstr "Bir lambader."
+
+msgid "A rotary phone."
+msgstr "Bir çevirmeli telefon."
+
+msgid "It's old... but there's a certain charm to it."
+msgstr "Oldukça eski... Ama yine de bir çekiciliği var.."
+
+msgid "There's no dial tone."
+msgstr "Hiç çağrı teması yok."
+
+msgid "A tall plant."
+msgstr "Uzun bir bitki."
+
+msgid "A tall, pretty plant."
+msgstr "Uzun, hoş bir bitki."
+
+msgid "An empty flower vase."
+msgstr "Boş bir çiçek vazosu."
+
+msgid "Purple flowers in a vase."
+msgstr "Vazodaki mor çiçekler."
+
+msgid "I could use these flowers..."
+msgstr "Bu çiçekleri kullanabilirim..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Çiçekler bitkiye getirilsin mi?"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.choice.Bring the flowers to the plant?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.choice.Bring the flowers to the plant?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Teşekkürler.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "It's dead."
+msgstr "Bu ölmüş."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "Bitkinin üzerindeki etikette şöyle yazıyor:"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Teşekkürler.\""
+
+msgid "\"It was good while it lasted.\""
+msgstr "\"Sürdüğü sürece iyiydi.\""
+
+msgid "\"Requires medium light."
+msgstr "\"Orta düzeyde ışık gerekir."
+
+msgid "For enrichment, provide music.\""
+msgstr "Zenginleştirmek için, müzik sunun.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "It's dead."
+msgstr "Ölmüş."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "Bitkinin üzerindeki etikette şöyle yazıyor:"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Teşekkür ederim.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "\"Requires dim light."
+msgstr "\"Loş ışık gerektirir."
+
+msgid "Feed it once a day to avoid irritability. Appropriate diet includes meat of various kinds.\""
+msgstr "Sinirlenmesini engellemek için günde iki kez besleyin. Uygun beslenme için çeşitli türlerde et gerekir.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "It's dead."
+msgstr "Ölmüş."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "Bitkinin üzerindeki etikette şöyle yazıyor:"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Teşekkür ederim.\""
+
+msgid "\"Requires medium light. Provide alcohol twice daily to keep its leaves moist."
+msgstr "\"Orta düzeyde ışık gerekir, yapraklarını nemli tutmak için günde iki kez alkol verin."
+
+msgid "Water is a valid substitute, as it can't tell the difference.\""
+msgstr "Farkı anlayamadığından su geçerli bir alternatiftir.\""
+
+msgid "The pot has been destroyed."
+msgstr "Çömlek parçalanmış."
+
+msgid "An empty pot."
+msgstr "Boş bir kap."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "It's dead."
+msgstr "Bu ölmüş."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "Bitkinin üzerindeki etikette şöyle yazıyor:"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Teşekkür ederim.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "\"Requires dim light."
+msgstr "\"Loş ışık gerektirir."
+
+msgid "For enrichment, give it a flower crown once a month.\""
+msgstr "Zenginleştirmek için, ayda bir kere çiçek tacı verin.\""
+
+msgid "A warning sign."
+msgstr "Bir uyarı işareti."
+
+msgid "It doesn't say what the warning is for."
+msgstr "İşaretin ne için olduğu yazmıyor."

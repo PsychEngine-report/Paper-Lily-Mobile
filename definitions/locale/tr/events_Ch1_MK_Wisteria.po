@@ -1,0 +1,1096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You're done."
+msgstr "İşin bitti."
+
+msgid "Good work."
+msgstr "İyi iş."
+
+msgid "What now?"
+msgstr "Şimdi ne var?"
+
+msgid "Now, all of these objects need to be burned in the correct order."
+msgstr "Şimdi, bütün bu objeler doğru sırada yakılmalı."
+
+msgid "What's the order?"
+msgstr "Sıra nedir?"
+
+msgid "That's for you to figure out. The hands over there might provide a clue."
+msgstr "Bu senin anlaman gereken bir şey. Oradaki eller ipucu verebilir."
+
+msgid "I see..."
+msgstr "Anladım..."
+
+msgid "Make sure you have a way to light the fireplace as well."
+msgstr "Şömineyi yakmanı sağlayacak bir yol olduğuna da emin ol."
+
+msgid "Oh, that's true..."
+msgstr "Oh, bu doğru..."
+
+msgid "(Are there any places I haven't checked yet...?)"
+msgstr "(Henüz kontrol etmediğim bir yer kaldı mı ki..?)"
+
+msgid "Lastly... this whole thing tends to culminate with candles going out."
+msgstr "Son olarak... her şey mumların sönmesiyle sonuçlanıyor."
+
+msgid "Therefore, if you see any candles, put them out."
+msgstr "Bu sebeple, eğer herhangi bir mum görürsen onları söndür. "
+
+msgid "Understood."
+msgstr "Anlaşıldı."
+
+msgid "One more thing."
+msgstr "Bir şey daha"
+
+msgid "I couldn't help but notice how weak you look."
+msgstr "Ne kadar zayıf göründüğünü fark ettim."
+
+msgid "The challenges ahead might be beyond your capabilities."
+msgstr "Önündeki engeller kapasitenin üzerinde olabilir."
+
+msgid "There's an object inside my old hiding spot that can help with that."
+msgstr "Eski saklanma yerimdeki nesne sana bu konuda yardımcı olabilir."
+
+msgid "Spider is just dangling there."
+msgstr "Örümcek orada öylece sallanıyor."
+
+msgid "Psst..."
+msgstr "Psst..."
+
+msgid "Over here."
+msgstr "Buraya bak."
+
+msgid "Here. On the wall."
+msgstr "Burada. Duvarda."
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Spider...?"
+msgstr "Örümcek..?"
+
+msgid "Yes."
+msgstr "Evet."
+
+msgid "Is that really you?"
+msgstr "Bu gerçekten sen misin?"
+
+msgid "Huh... you really meant it when you said you talked to a spider."
+msgstr "Huh... bir örümcekle konuştuğunu söylediğinde ciddiydin yani."
+
+msgid "He looked different last time, but it's still basically a spider."
+msgstr "Geçen sefer daha farklı görünüyordu, ama hala teknik olarak bir örümcek."
+
+msgid "Oh. There's two of you now."
+msgstr "Oh. Şimdi sizden iki tane var."
+
+msgid "Well, no matter."
+msgstr "Peki, önemi yok."
+
+msgid "You look... different."
+msgstr "Farklı... görünüyorsun."
+
+msgid "...But I can't quite put my finger on it."
+msgstr "...Ancak neyin farklı olduğunu söyleyemiyorum."
+
+msgid "I don't appreciate your humor."
+msgstr "Mizah anlayışını takdir etmiyorum."
+
+msgid "Miss Knives discovered my hiding spot."
+msgstr "Bayan Knives bütün saklanma yerlerimi keşfetti."
+
+msgid "She's not fond of my presence."
+msgstr "Benim varlığımdan hoşlanmıyor."
+
+msgid "So she turned me into... this."
+msgstr "Bu yüzden beni şeye dünüştürdü... buna."
+
+msgid "It's pathetic."
+msgstr "Bu çok gülünç."
+
+msgid "Damn, she must have crazy powers."
+msgstr "Kahretsin, çılgınca güçleri olsa gerek."
+
+msgid "Is she really that powerful?"
+msgstr "Gerçekten bu kadar güçlü mü?"
+
+msgid "Not quite."
+msgstr "Pek değil."
+
+msgid "You both must have had some time to look around this place by now."
+msgstr "Şimdiye kadar ikinizin de bu mekana bakmak için biraz zamanınız olmuş olmalı."
+
+msgid "You must have had some time to look around this place by now."
+msgstr "Şimdiye kadar buraya bakmak için biraz zamanın olmuş olmalı."
+
+msgid "Did you figure out anything strange?"
+msgstr "Garip bir şey fark ettin mi?"
+
+msgid "You mean aside from... everything?"
+msgstr "Her şey haricinde... mi demek istedin?"
+
+msgid "Kind of a tall order, pal."
+msgstr "Biraz zor bir iş, dostum."
+
+msgid "...Well..."
+msgstr "...Şey..."
+
+msgid "The location of this house is strange."
+msgstr "Bu evin konumu garip."
+
+msgid "The walls are filled with creepy paintings."
+msgstr "Duvarlar ürpertici tablolarla dolu."
+
+msgid "It's all very purple, I guess."
+msgstr "Her şey biraz mor, sanırım."
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.ch1_spider"
+msgid "..."
+msgstr "..."
+
+msgid "...Maybe humans are just slow."
+msgstr "...Belki de sadece insanlar yavaştır."
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "None of what you're seeing is real."
+msgstr "Gördüğünüz hiçbir şey gerçek değil."
+
+msgid "Huh?"
+msgstr "Huh?"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.lacie"
+msgid "What?"
+msgstr "Ne?"
+
+msgid "Miss Knives is a strange case."
+msgstr "Bayan Knives garip bir dava."
+
+msgid "She created this place out of her own desires."
+msgstr "Bu mekanı kendi arzularıyla yarattı."
+
+msgid "But the house doesn't actually exist."
+msgstr "Ancak ev aslında gerçek değil. "
+
+msgid "Convenient."
+msgstr "Ne harika."
+
+msgid "So then... it's an illusion?"
+msgstr "Peki, o zaman... bu bir ilizyon mu?"
+
+msgid "To an extent, yes."
+msgstr "Bir noktaya kadar, evet."
+
+msgid "That's also why I look like this."
+msgstr "Aynı sebepten bu şekilde görünüyorum."
+
+msgid "Miss Knives only sees what she wants to see."
+msgstr "Bayan Knives sadece görmek istediği şeyi görür."
+
+msgid "So she sees you as... a little spider on the wall?"
+msgstr "Yani seni... duvardaki bir örümcek gibi mi görüyor?"
+
+msgid "It would seem so."
+msgstr "Öyle görünüyor."
+
+msgid "I see."
+msgstr "Anladım."
+
+msgid "Then... to escape..."
+msgstr "O zaman... kaçmak için..."
+
+msgid "You have to break the illusion."
+msgstr "İlizyonu bozmalısın."
+
+msgid "Remind her who she is."
+msgstr "Ona kim olduğunu hatırlat."
+
+msgid "Or rather... who she isn't."
+msgstr "Yada... kim olmadığını."
+
+msgid "That's where those objects you need to collect come into play."
+msgstr "Toplaman gereken nesneler burada devreye giriyor."
+
+msgid "They seem to have some sort of connection to her memories."
+msgstr "Onun anılarına bir tür bağı var gibi görünüyor."
+
+msgid "Once you find and unseal them all, come back and see me."
+msgstr "Hepsini bulup mühürünü kırdıktan sonra, beni görmeye buraya dön."
+
+msgid "If you need help with the burning order..."
+msgstr "Eğer yakma sırası için yardıma ihtiyacın olursa..."
+
+msgid "The painting with the hands might provide you with a hint."
+msgstr "Elleri olan tablo, size bir ipucu verebilir."
+
+msgid "That seems to be already unsealed."
+msgstr "Bunun mühürü çoktan kırılmış gibi görünüyor."
+
+msgid "You don't need to do anything else with it."
+msgstr "Bununla başka bir şey yapmana gerek yok."
+
+msgid "(The hands reject the item... it needs to be unsealed first.)"
+msgstr "(Eller eşyayı reddetti... ilk önce mühürünün kırılması gerek.)"
+
+msgid "My mother got worse one day."
+msgstr "Annem bir gün çok kötüleşti."
+
+msgid "Father thinks she might die."
+msgstr "Babam ölebileceğini düşündü."
+
+msgid "I don't want mom to die."
+msgstr "Annemin ölmesini istemiyorum."
+
+msgid "I brought her a cold compress to lower the fever."
+msgstr "Ateşini düşürmek için ona soğuk kompres getirdim."
+
+msgid "Mother always said that water provides the best healing."
+msgstr "Annem her zaman en iyi iyileşme su sayesinde olur der."
+
+msgid "That night, I said a prayer to try to help her."
+msgstr "O gece, onun için dua ettim."
+
+msgid "I wished for her to get better, and I wished for our family to go back to normal, at least."
+msgstr "Onun iyileşmesi için dua ettim, ve ailemizin en azından normal halinde dönmesi için dua ettim."
+
+msgid "The [color=#90EE90]third blessing[/color] came as a surprise to everyone in the village."
+msgstr "[color=#90EE90]Üçüncü bereket[/color] köydeki herkes için şaşırtıcıydı."
+
+msgid "The morning after my prayer, my mother was out of bed, and cooking."
+msgstr "Duamdan sonraki sabah, annem yataktan çıktı, ve yemek yapıyordu."
+
+msgid "She said she felt much better, she even had strength to go to the market."
+msgstr "Çok daha iyi hissettiğini, hatta markete gidecek kadar bile enerjisi olduğunu söyledi."
+
+msgid "You see? The cold compress did the job!"
+msgstr "Gördün mü? Soğuk kompres iyi iş yaptı."
+
+msgid "Clean water is the purest thing we have."
+msgstr "Temiz su sahip olduğumuz en saf şeydi."
+
+msgid "Are you sure you should be out of bed?"
+msgstr "Gerçekten yataktan çıkabileceğine emin misin?"
+
+msgid "This is the best I've felt in years."
+msgstr "Yıllardır bu kadar iyi hissetmemiştim."
+
+msgid "But... the doctor said..."
+msgstr "Ama.. doktorlar dedi ki..."
+
+msgid "I'm sure he was just wrong."
+msgstr "Eminim ki sadece yanılmıştır."
+
+msgid "You know, medicine isn't always entirely accurate."
+msgstr "Biliyorsun, tıp her zaman doğru olmayabiliyor."
+
+msgctxt "events.Ch1_MK_Wisteria.item_compress_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "No more than two days later, some adults knocked at the door."
+msgstr "İki gün bile sürmemişken, bazı yetişkinler kapımızı çaldı."
+
+msgid "They took my mother. They called her a witch."
+msgstr "Annemi götürdüler. Ona cadı dediler."
+
+msgid "They claimed she used her powers to get cured of a deadly illness."
+msgstr "Ölümcül hastalıktan kurtulmak için güçlerini kullandığını varsaydılar."
+
+msgid "They said the village needs to be cleansed, and that witch hunts were important for this."
+msgstr "Köyün arınması gerektiğini söylediler, ve bunun için cadı avının önemli olduğunu savundular."
+
+msgid "The next day, my mother was burned at the stake."
+msgstr "Sonraki gün, annem kazıkta yakıldı."
+
+msgid "Everyone watched, and everyone cheered, as she died slowly, for a sin she did not commit."
+msgstr "Herkes izledi, ve annem yavaşça ölürken, herkes alkışladı, işlemediği günahları için."
+
+msgid "This was the first time I wished that I couldn't see anymore."
+msgstr "Bu hiçbir şey görememeyi dilediğim ilk andı."
+
+msgid "Have you somehow missed the large painting that's lacking eyes?"
+msgstr "Bir şekilde gözü olmayan büyük tabloyu kaçırdın mı?"
+
+msgid "The [color=#90EE90]fourth blessing[/color] was something I would never wish for."
+msgstr "[color=#90EE90]Dördüncü bereket[/color] asla istemeyeceğim bir şeydi."
+
+msgid "Give it back!"
+msgstr "Geri ver!"
+
+msgid "How'd you get your hands on such an expensive-looking sketchbook, huh?"
+msgstr "Bu kadar pahalı görünen bir eskiz defterini nasıl aldın, huh?"
+
+msgid "Let's see..."
+msgstr "Bir bakalım..."
+
+msgid "Stop! Just give it to me!"
+msgstr "Dur! Lütfen sadece geri ver!"
+
+msgid "What the heck is this?"
+msgstr "B-bu şey de ne?"
+
+msgid "They flipped through the pages of my sketchbook, and their faces got an awful ghostly white."
+msgstr "eskiz defterimin sayfalarına göz gezdirdiler, ve yüzlerinin beti benzi attı."
+
+msgid "Is she a witch?"
+msgstr "O bir cadı mı?"
+
+msgid "What are those?"
+msgstr "Bunlar da ne?"
+
+msgid "I didn't draw that!"
+msgstr "Bunu ben çizmedim!"
+
+msgid "Hey, I didn't know you were a witch."
+msgstr "Hey, cadı olduğunu bilmiyordum."
+
+msgid "I'm not!!!"
+msgstr "Değilim!!!"
+
+msgid "Pages and pages of creepy drawings."
+msgstr "Ürpertici çizimler bütün sayfalardaydı."
+
+msgid "What is this? Some kind of curse casting shit?"
+msgstr "Bu da ne? Bir tür lanet saçmalığı mı?"
+
+msgid "I didn't make them! I don't know where they came from!"
+msgstr "Bunları ben yapmadım! Nereden geldiklerini bile bilmiyorum!"
+
+msgid "It's the truth. Why didn't they believe me?"
+msgstr "Gerçek bu. Neden bana inanmıyorlar?"
+
+msgid "STOP! WHAT ARE YOU DOING?!?"
+msgstr "DUR! NE YAPIYORSUN LÜTFEN!?"
+
+msgid "You're just a filthy witch!"
+msgstr "Sen sadece rezil bir cadısın!"
+
+msgid "I'm reporting you, you won't be needing this!"
+msgstr "Seni bildiricem, buna artık ihtiyacın olmayacak."
+
+msgid "PLEASE DON'T BREAK IT!"
+msgstr "LÜTFEN KIRMA YALVARIRIM!"
+
+msgid "You don't even need all of these colors."
+msgstr "Bütün bu renklere ihtiyacın bile yok."
+
+msgid "Nothing but black."
+msgstr "Siyah hariç hiçbir şey."
+
+msgid "You were never supposed to see anything but darkness anyway."
+msgstr "Karanlıktan başka bir şey görmemeliydin zaten."
+
+msgid "Blind freak."
+msgstr "Kör ucube."
+
+msgid "Please stop... Give them back..."
+msgstr "Lütfen dur... Onları geri verin..."
+
+msgid "Aww.. poor little crybaby."
+msgstr "Aww... zavallı sulugöz."
+
+msgid "I'm gonna report you."
+msgstr "Seni bildireceğim."
+
+msgid "Father will be so proud, I caught my own witch."
+msgstr "Babam benimle gurur duyacak, kendi cadımı yakaladım."
+
+msgid "I'm not a witch..."
+msgstr "Ben bir cadı değilim..."
+
+msgid "I swear I'm not..."
+msgstr "Cadı değilim, yemin ederim..."
+
+msgid "No! Don't!!!! Please!!!"
+msgstr "Hayır! Yapma!!! Lütfen!!!"
+
+msgid "(Stop, please stop...)"
+msgstr "(Dur, lütfen dur...)"
+
+msgid "(Please stop...)"
+msgstr "(Lütfen dur...)"
+
+msgid "(What did I do to you...?)"
+msgstr "(Sana ne yaptım ki..?)"
+
+msgid "(Please stop.......)"
+msgstr "(Lütfen dur.......)"
+
+msgid "I hate them. I hate my life. Why is this happening to me?"
+msgstr "Onlardan nefret ediyorum. Hayatımdan nefret ediyorum. Neden bunlar benim başıma geliyor ki? "
+
+msgid "Soon enough, the boy dropped the sketchbook."
+msgstr "Kısa süre sonra, çocuk eskiz defterimi düşürdü."
+
+msgid "My eyes were focused on the crumpled pages of my sketchbook hitting the ground, so I didn't see it until someone screamed."
+msgstr "Gözlerim yere çarpan defterimin buruşan sayfalarına takıldı, bu yüzden biri çığlık atana kadar ne olduğunu fark etmedim."
+
+msgid "...!?"
+msgstr "...!?"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+msgstr "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+
+msgid "The boy's right leg twisted almost 360 degrees, as if it was some form of nightmarish witchcraft."
+msgstr "Çocuğun sağ bacağı neredeyse 360 derece dönmüştü, kabus gibi bir büyüclüğün eseri gibiydi."
+
+msgid "Then it twisted again."
+msgstr "Ardından tekrar döndü."
+
+msgid "Something broke in his leg, and he fell down, writhing in pain."
+msgstr "Bacağında bir şeyler kırılmıştı, ve yere düştü, acıyla kıvranıyordu."
+
+msgid "I couldn't understand what I was seeing."
+msgstr "Ne gördüğümü anlayamıyordum."
+
+msgid "Y-you... what did you do to his leg?!?"
+msgstr "S-sen... onun bacağına ne yaptın sen!?"
+
+msgid "N-Nothing I didn't even touch him..."
+msgstr "H-hiçbir şey ona dokunmadım bile..."
+
+msgid "AAAAAAAAGGGHHHH! IT HURTS!!!!"
+msgstr "AAAAAAAAGGGHHHH! ACIYOR!!!! ÇOK ACIYOR!!!!"
+
+msgid "Call someone! We need help! HELP!!!"
+msgstr "Lütfen birini çağırın! Yardıma ihtiyacımız var! YARDIM EDİN!!!"
+
+msgid "YOU'RE A WITCH!! YOU'RE A WITCH!!!"
+msgstr "SEN CADISIN!! SEN BİR CADISIN!!!"
+
+msgid "I WILL DESTROY YOU!!!! YOU'LL BE BURNED!!!!"
+msgstr "SENİ ÖLDÜRÜCEM!!! ACI İÇİNDE YANACAKSIN!!!!"
+
+msgid "................."
+msgstr "................."
+
+msgid "BURN IN HELL!!!"
+msgstr "CEHENNEMDE YAN!!!"
+
+msgid "The adults came and took him away."
+msgstr "Yetişkinler gelip onun götürdüler."
+
+msgid "When I finally lifted my gaze from the dirt below my fingers, Iris was standing in front of me."
+msgstr "Sonunda bakışımı parmaklarımın altındaki topraktan kaldırdıktan sonra, Iris karşımda duruyordu."
+
+msgid "My heart sank... Did she see what happened?"
+msgstr "İçim sızladı... Olanları gördü mü?"
+
+msgid "...A-Are you alright...?"
+msgstr "...İ-İyi misin?"
+
+msgctxt "events.Ch1_MK_Wisteria.item_foot_on_holder.dlg.mk"
+msgid "............"
+msgstr "............"
+
+msgid "I-I... You didn't do that to his leg, right?"
+msgstr "B-Ben... Bacağına bunu sen yapmadın değil mi?"
+
+msgid "No! Of course I didn't!"
+msgstr "Hayır! Tabiki yapmadım!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_foot_on_holder.dlg.chara1"
+msgid "..."
+msgstr "..."
+
+msgid "O-Okay."
+msgstr "T-Tamam"
+
+msgid "...I... Why are you here?"
+msgstr "...Ben... Neden buradasın?"
+
+msgid "Um... I came because... my parents said..."
+msgstr "Um... Buraya geldim çünkü... ailem böyle yapmamı istedi."
+
+msgid "...That I'm not allowed to see you anymore."
+msgstr "...Artık seni görmeme izin yok."
+
+msgid "Take ${item:ch1.mk_jar} x3?"
+msgstr "Al ${item:ch1.mk_jar} x3?"
+
+msgctxt "events.Ch1_MK_Wisteria.item_jars_get.choice.Take ${item:ch1.mk_jar} x3?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Wisteria.item_jars_get.choice.Take ${item:ch1.mk_jar} x3?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "You may use that on the canvas over there."
+msgstr "Oradaki tuval üzerinde kullanabilirsin"
+
+msgid "That's the right idea, I think."
+msgstr "Bu doğru seçimdi, sanırım."
+
+msgid "What should I be doing with these?"
+msgstr "Bunlarla ne yapmalıyım?"
+
+msgid "They're probably related to that canvas over there."
+msgstr "Muhtemelen şuradaki tuval ile bir şey yapacağım."
+
+msgid "Maybe you use them to make paint."
+msgstr "Belki bunları resim çizmek için kullanırsın."
+
+msgid "That's the key to the bedroom."
+msgstr "Bu yatak odasının anahtarı."
+
+msgid "Oh... I don't need this anymore."
+msgstr "Oh... Artık buna ihtiyacım yok."
+
+msgid "That's a key to the cages."
+msgstr "Bu kafeslerin anahtarı."
+
+msgid "I see you don't need it anymore."
+msgstr "Anladım demek artık ihtiyacın yok."
+
+msgid "I can take that off your hands."
+msgstr "Bunu elinden çıkarabilirim."
+
+msgid "Oh... I see."
+msgstr "Oh... Anladım."
+
+msgid "That's the key to this room."
+msgstr "Bu odanın anahtarı."
+
+msgid "I shall get rid of it, given that you already made it in."
+msgstr "Zaten bunu yaptığın göz önüne alındığında, bundan kurtulsam iyi olur."
+
+msgid "After the incident with that boy's leg, the authorities knocked at our door again."
+msgstr "Çocuğun bacağıyla ilgili olan kazadan sonra, yetkililer kapımızı tekrar çaldı."
+
+msgid "\"Your daughter is a witch\" they said to my father."
+msgstr "\"Kızınız bir cadı\" dediler babama.."
+
+msgid "They talked about how I hurt that boy, how my mother healed from a fatal illness, how my eyesight came back."
+msgstr "O çocuğa nasıl zarar verdiğim hakkında konuştular, annemin nasıl ölümcül hastalığı iyileştirdiğinden, nasıl görüşümü geri kazandığımdan."
+
+msgid "They told us both me and my father are accused of witchcraft."
+msgstr "İkimize de babamın ve benim büyücülükten suçlandığını söylediler."
+
+msgid "T-That's nonsense! What are you talking about??"
+msgstr "B-Bu saçmalık! Ne saçmalıyorsunuz siz??"
+
+msgid "The whole family needs to be cleansed."
+msgstr "Bütün aile arındırılmalı."
+
+msgid "Your daughter will be tried for witchcraft, and due to your ties to her, you will be as well."
+msgstr "Kızınız büyücülükten yargılanacak, ve ona olan bağınız yüzünden siz de yargılanacaksınız."
+
+msgid "H-Hold on... Wait... You've got it all wrong. She's not my daughter."
+msgstr "B-Bekle bir saniye... Bekle... Yanlış anladınız. O benim kızım değil."
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "I merely found her on the streets, she does not share my blood."
+msgstr "Onu sokakta sürünürken buldum, kan bağımız yok."
+
+msgid "(...Father...)"
+msgstr "(...Baba...)"
+
+msgid "Take him."
+msgstr "Götürün onu."
+
+msgid "N-NO NO! PLEASE! I HAVE NOTHING TO DO WITH THIS!"
+msgstr "H-HAYIR HAYIR! LÜTFEN! BUNUNLA BİR İLGİM YOK!"
+
+msgid "When the men walked in the house, my father ran towards the back door."
+msgstr "Adam içeri girdiği zaman, babam arka kapıya doğru kaçtı."
+
+msgid "He was frantically bumping into the furniture to reach it."
+msgstr "Kapıya ulaşmak için çılgınca mobilyalara çarpıyordu."
+
+msgid "Find the girl."
+msgstr "Kızı bul."
+
+msgid "And burn his body."
+msgstr "Ve bedenini yakın."
+
+msgid "Burn the whole house, it's cursed."
+msgstr "Bütün evi yakın, lanetlendi."
+
+msgid "My father's blood ran down the hallway like a small river stream."
+msgstr "Babamın kanı koridorda küçük bir nehir gibi akıyordu."
+
+msgid "It seeped into the cracks of the broken floorboards."
+msgstr "Kırık döşeme tahtalarının çatlaklarından aşşağıya sızıyordu. "
+
+msgid "This is all that boy's fault."
+msgstr "Hepsi o çocuğun hatasıydı."
+
+msgid "The prison cell was cold, and dark."
+msgstr "Hapishane hücresi soğuk, ve karanlıktı."
+
+msgid "There was nobody else there with me, except for the occasional rat."
+msgstr "Benimle birlikte kimse yoktu, ara sıra çıkan sıçanlar hariç."
+
+msgid "People always said rats are dirty and dangerous."
+msgstr "İnsanlar sürekli farelerin kirli ve tehlikeli olduklarını söylerler."
+
+msgid "But at that moment, I appreciated the company."
+msgstr "Ancak o zaman, arkadaşa ihtiyacım vardı."
+
+msgid "The adults told me my execution will be the following morning."
+msgstr "Yetişkinler bana idamımın sonraki sabah yapılacağını söyledi."
+
+msgid "They said I will be burned in order to purify the village."
+msgstr "Bana köyü arındırmak için yakılmam gerektiğini söylediler."
+
+msgid "What does that even mean? Purify the village..."
+msgstr "Köyü arındırmak... Bu ne anlama geliyor ki?"
+
+msgid "I was alone with my thoughts for what felt like hours before someone came by."
+msgstr "Düşüncelerimle başbaşa kalmıştım sanki yüzlerce saat geçmiş gibiydi, taaki biri gelene kadar."
+
+msgid "Hey..."
+msgstr "Hey..."
+
+msgid "Iris...?"
+msgstr "Iris..?"
+
+msgid "(Will I get out of here...??)"
+msgstr "(Buradan çıkacak mıyım?)"
+
+msgid "Um... listen... I'm so sorry...!"
+msgstr "Um... dinle... Gerçekten çok üzgünüm..!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "...?"
+msgstr "...?"
+
+msgid "I-... I told my dad about everything..."
+msgstr "Ben-... Ben babama her şeyi anlattım..."
+
+msgid "What...?"
+msgstr "Ne..?"
+
+msgid "(...No way...)"
+msgstr "(...Olamaz...)"
+
+msgid "I... I thought if you might really be a witch, he could protect you...."
+msgstr "Ben... düşündüm ki eğer gerçekten cadıysan, sani koruyabilir sandım...."
+
+msgid "B-Because he knew we were friends!"
+msgstr "Ç-Çünkü bizim arkadaş olduğumuzu biliyordu!"
+
+msgid "I'm sorry... I did this...!"
+msgstr "Çok üzgünüm... Bunu ben yaptım..!"
+
+msgid "I didn't know he would kill your dad... and... and you..."
+msgstr "Babanı öldüreceğini bilmiyordum... ve... ve seni..."
+
+msgid "Please..."
+msgstr "Lütfen..."
+
+msgid "Please take this knife..."
+msgstr "Lütfen bu bıçağı al..."
+
+msgid "P-please... please use it... before they kill you."
+msgstr "L-lütfen... lütfen kullan bunu... onlar seni öldürmeden önce."
+
+msgid "You'll be better off if you end it this way...!"
+msgstr "Bu şekilde bitirirsen çok daha iyi olur..!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "............"
+msgstr "............"
+
+msgid "What's happening?"
+msgstr "Neler oluyor?"
+
+msgid "Why would she tell me something like this?"
+msgstr "Neden bana böyle bir şey söylüyor?"
+
+msgid "What's going on?"
+msgstr "Neler oluyor?"
+
+msgid "I-I love you and... father said burning is slow and painful...!!"
+msgstr "S-Seni seviyorum ve... babam yanarak ölmenin yavaş ve acılı olduğunu söyledi...!!"
+
+msgid "You're better off doing it this way..!"
+msgstr "Bu şekilde yaparsan daha iyi olur..!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "....."
+msgstr "...."
+
+msgid "You're asking me to kill myself..?"
+msgstr "Kendimi öldürmemi mi söylüyorsun..?"
+
+msgid "Y-Yes... because... I still care about you...!"
+msgstr "E-Evet... çünkü... hala seni umursuyorum..!"
+
+msgid "Is this what you call... care?"
+msgstr "Umursamak dediğin şey... bu mu?"
+
+msgid "I didn't know that my vision would get blurry if I cry."
+msgstr "Ağlarsam eğer görüşümün bulanıklaşacağını bilmiyordum."
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "Bu konuda yardıma ihtiyacım var."
+
+msgid "Ah, this is a knife."
+msgstr "Ah, bu bir bıçak."
+
+msgid "You might have to draw some blood to unseal it."
+msgstr "Mühürü kırmak için biraz kan çizmelisin."
+
+msgid "Are you brave enough to cut yourself?"
+msgstr "Kendini kesecek kadar cesur musun?"
+
+msgid "Why should I cut myself?"
+msgstr "Nedne kendimi keseyim ki?"
+
+msgid "I don't see who else you could cut."
+msgstr "Kesebileceğin başka kimseyi görmüyorum."
+
+msgid "I could cut you instead."
+msgstr "Seni kesebilirim."
+
+msgid "You'll never aim properly."
+msgstr "Asla düzgünce tutturamayacaksın."
+
+msgid "Your aim is terrible."
+msgstr "Nişanın berbat."
+
+msgid "Perhaps there are advantages to being small after all."
+msgstr "Belkide küçük olmanın da avanatjaları vardır."
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_spider.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're not skilled enough for that."
+msgstr "Bunun için yeterince yetenekli değilsin."
+
+msgid "(The hands reject the item... they're scared of it.)"
+msgstr "(Eller eşyayı reddetti... ondan korkuyorlardı.)"
+
+msgid "That should serve you well in lighting the fireplace."
+msgstr "Bu şömineyi yakarken işine yarayacaktır."
+
+msgid "My life is below average."
+msgstr "Hayatım ortalamanın altında."
+
+msgid "I've been blind since I was a baby, so my parents thought of abandoning me."
+msgstr "Bebekliğimden beri kördüm, bu sebeple ailem beni terk etmeyi düşündü."
+
+msgid "\"A blind child cannot help the family\" they said. \"Especially not a girl.\""
+msgstr "\"Kör bir çocuk aileye yardım edemez\" dediler. \"Özellikle de bir kız.\""
+
+msgid "But my mother says they loved me so much that they wanted to give me a chance."
+msgstr "Ama annem bana beni çok sevdiğini ve bu yüzden bir şans vermek istediğini söyledi."
+
+msgid "Right now, I manage just fine."
+msgstr "Şu anda, iyi gibiyim."
+
+msgid "I do my chores, I go to the market, I help with the vegetable garden."
+msgstr "Görevlerimi yapıyorum, markete gidiyorum, bahçemize yardım ediyorum."
+
+msgid "Mother is sick, so she's always in bed."
+msgstr "Annem hasta, bu sebeple hep yatakta."
+
+msgid "The doctor says she might be like this for the rest of her life."
+msgstr "Doktorlar hayatının geri kalanını böyle geçirebileceğini söylüyor."
+
+msgid "Every day, I go meet my friend at the riverbank."
+msgstr "Her gün, nehir kıyısında bir arkadaşımla buluşmaya giderdim."
+
+msgid "Iris is always talking excitedly about everything you could find outside of the village."
+msgstr "Iris sürekli köyün dışında bulabileceğin her şey hakkında heyecanla konuşuyordu."
+
+msgid "She makes the world sound so bright."
+msgstr "Onu dinledikçe dünya harika bir yer gibi geliyor."
+
+msgid "We made a deal, that when we turn 14, we'll run away together, and travel to mountains and seas."
+msgstr "Bir anlaşma yaptık, 14 yaşına geldiğimizde, birlikte kaçacaktık, ve denizleri dağları gezecektik."
+
+msgid "But I was actually fine with a simple life. The bare minimum was enough, as long as I had Iris."
+msgstr "Ama aslında basit sade bir hayat bana yeterdi. Minimum düzey yeterdi, Iris'e sahip olduğum sürece."
+
+msgid "If there's one thing I wanted..."
+msgstr "İstediğim bir şey vardıysa..."
+
+msgid "It was just to be able to see her."
+msgstr "O da onu bir kez görebilmekti."
+
+msgid "The [color=#90EE90]first blessing[/color] changed the course of my life."
+msgstr "[color=#90EE90]İlk bereket[/color] hayatımın seyrini değiştirdi."
+
+msgctxt "events.Ch1_MK_Wisteria.item_mirror_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "........."
+msgstr "........."
+
+msgid "I couldn't calm my breathing."
+msgstr "Nefesimi sakinleştiremiyordum."
+
+msgid "I woke up one morning and I could see."
+msgstr "Bir gün uyandığımda, görebiliyordum!"
+
+msgid "I saw shapes, and colors, and my parents."
+msgstr "Şekilleri görüyordum, renkleri görüyordum, ve ailemi gördüm."
+
+msgid "I saw the broken dining table."
+msgstr "Kırık yemek masasını gördüm."
+
+msgid "I saw the weeds in the vegetable garden."
+msgstr "Bahçedeki otları gördüm."
+
+msgid "I saw the chipped cup that I drank from."
+msgstr "İçmek için kullandığım kırık badağı gördüm"
+
+msgid "I saw my wrinkled clothes."
+msgstr "Buruşuk kıyafetlerimi gördüm"
+
+msgid "Despite not having much, they were the most beautiful things I laid my eyes on."
+msgstr "Pek bir şey olmasa bile, gözlerimi diktiğim en güzel şeylerdi."
+
+msgid "I couldn't say the same about my reflection."
+msgstr "Aynısını yansımam için söyleyemezdim."
+
+msgid "(Have I always looked like this?)"
+msgstr "(Hep böyle mi görünüyordum?)"
+
+msgid "(Were my eyes always so... bland?)"
+msgstr "(Gözlerim her zaman bu kadar... sönük müydü?)"
+
+msgid "(Was my hair always so... dull?)"
+msgstr "(Saçlarım her zaman bu kadar... mat mıydı?)"
+
+msgid "My parents gradually grew distant."
+msgstr "Ailem yavaşça bana karşı mesafe koydular."
+
+msgid "People in the village stared at me, and whispered behind my back."
+msgstr "Köydeki insanlar bana dik dik baktı, ve arkamdan fısıldadılar."
+
+msgid "Why did they seem scared of me?"
+msgstr "Neden benden korkuyor gibiler?"
+
+msgid "Iris said she's a little nervous around me, but she was really happy that I got my eyesight."
+msgstr "Iris benim etrafımda gergin olduğunu söyledi, ama görüşümü geri kazandığı için mutluydu."
+
+msgid "She called it a miracle."
+msgstr "Buna mucize diyordu."
+
+msgid "My parents started avoiding me."
+msgstr "Ailem benden uzak durmaya başladı."
+
+msgid "When I spoke to them, they always tried to brush me away."
+msgstr "Onlarla konuştuğum zaman, beni başlarından savmaya çalışıyorlardı."
+
+msgid "The only times their tired eyes met mine, I only saw hatred in them."
+msgstr "Gözlerimiz kesiştiği tek seferde, Bana karşı olan nefretlerini gördüm."
+
+msgid "Did they always look at me this way?"
+msgstr "Bana hep böyle mi bakıyorlardı?"
+
+msgctxt "events.Ch1_MK_Wisteria.item_mirror_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "Bununla yardıma ihtiyacım var."
+
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+msgid "Have you tried simply looking at it?"
+msgstr "Basitçe bakmayı denedin mi?"
+
+msgid "(The hands reject the item... it is irrelevant to them.)"
+msgstr "(Eller eşyayı reddetti... bu onlarla alakasızdı.)"
+
+msgid "With your masterpiece complete, the canvas turns into a sketchbook."
+msgstr "Başyapıtının tamamlanmasıyla beraber, tuval eskiz defterine dönüştü."
+
+msgid "The pigment doesn't stick on its own..."
+msgstr "Pigmentler kendi başlarına yapışamıyorlar..."
+
+msgid "You soak the rag in the pool..."
+msgstr "Bezi havuzda ıslattın."
+
+msgid "It's already wet enough."
+msgstr "Çoktan yeterince ıslak."
+
+msgctxt "events.Ch1_MK_Wisteria.item_rag_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "Bununla ilgili yardıma ihtiyacım var."
+
+msgid "A dry piece of cloth?"
+msgstr "Kuru bir parça kıyafetler mi?"
+
+msgid "Try moisturizing it."
+msgstr "Nemlendirmeyi dene."
+
+msgid "The [color=#90EE90]second blessing[/color] came as a gift."
+msgstr "[color=#90EE90]İkinci bereket[/color] hediye olarak geldi."
+
+msgid "I always met Iris out by the river, and we sat and talked for hours."
+msgstr "Iris ile sürekli nehir kenarında buluşurduk, ve oturup saatlerce konuşurduk."
+
+msgid "She told me all about the things I couldn't see."
+msgstr "Göremediğim şeylerden bahsederdi."
+
+msgid "But it was different now."
+msgstr "Ama şimdi biraz farklı."
+
+msgid "She spoke with such happiness and excitement."
+msgstr "Mutlu ve heyecanlı bir şekilde konuşuyordu."
+
+msgid "I couldn't take my eyes off of her."
+msgstr "Gözlerimi ondan alamıyordum."
+
+msgid "So to celebrate this miracle..."
+msgstr "Yani bu mucizeyi kutlamak için..."
+
+msgid "I got you something!"
+msgstr "Sana bir şey aldım!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_sketchbook_on_holder.dlg.mk"
+msgid "What?"
+msgstr "Ne?"
+
+msgid "For me?"
+msgstr "Benim için mi?"
+
+msgid "Of course! Your eyes work now! It's amazing! We have to celebrate!"
+msgstr "Tabiki! Gözlerin artık çalışıyor! Bu muhteşem! Bunu kutlamalıyız!"
+
+msgid "So... I stole this from my family..."
+msgstr "Yani... Bunu ailemden çaldım..."
+
+msgid "But shh!"
+msgstr "Ama şşşş!"
+
+msgid "Don't tell!"
+msgstr "Sakın söyleme!"
+
+msgid "Wha-.."
+msgstr "Ne-.."
+
+msgid "Iris! A sketchbook and paints are... so expensive...!"
+msgstr "Iris! eskiz defteri ve boylara... bunlar çok pahalı..!"
+
+msgid "H-How...? Why...?"
+msgstr "N-Nasıl? Neden..?"
+
+msgid "You always said you wanted to paint! I believe in you!"
+msgstr "Bana hep resim çizmek istediğini söyledin! Sana inanıyorum!"
+
+msgid "I'm so excited to see what you'll come up with!"
+msgstr "Neler yapacağını görmek için sabırsızlanıyorum!"
+
+msgid "I couldn't believe it! My very own sketchbook and watercolors!"
+msgstr "İnanamıyorum! Benim kendi eskiz defterim ve sulu boyalarım!"
+
+msgid "There were so many things I could paint!"
+msgstr "Çizebileceğim çok fazla şeyler var!"
+
+msgid "Mother was always bedridden, so I made a habit of showing her my paintings."
+msgstr "Annem hep yatalaktı, bu sebeple ona resimlerimi göstermeyi alışkanlık haline getirdim."
+
+msgid "I started with trees and objects."
+msgstr "Ağaçlar ve nesnelerle başladım."
+
+msgid "But I took a liking to portraits of people."
+msgstr "Ama insanların portrelerine karşı bir ilgim vardı."
+
+msgid "They all have such distinct, beautiful faces."
+msgstr "Hepsinin birbirinden farklı, güzel yüzleri var."
+
+msgid "After only 2 days, I had already made 8 portraits!"
+msgstr "Sadece 2 gün sonra, Çoktan 8 portre çizmiştim."
+
+msgid "But when I flipped to the next page... a different kind of portrait filled the brown paper."
+msgstr "Ama diğer sayfaya çevirdiğim zaman... farklı bir tür portra kahverengi sayfayı doldurmuştu."
+
+msgid "It was all painted in black, and it was twisted and scary."
+msgstr "Hepsi siyahla çizilmişti, bükük ve korkunçtu."
+
+msgid "I hadn't painted this..."
+msgstr "Bunu ben çizmedim..."
+
+msgid "I didn't even know who this person- or... creature, was."
+msgstr "Bu kişinin kim olduğunu bile bilmiyordum- yada... bu yaratığın."
+
+msgid "Every morning after that, I found new distorted portraits in the pages, but I never remembered painting them."
+msgstr "Ondan sonraki her sabah, sayfalarda yeni çarpık portreler buluyordum, ama asla onları çizdiğimi hatırlamıyorum."
+
+msgid "A bookshelf full of coloring books, and other children's books."
+msgstr "Boyama kitaplarıyla ve diğer çocukların kitaplarıyla dolu bir kitaplık."
+
+msgid "A bookshelf full of books about painting."
+msgstr "Resimle alakalı kitaplarla dolu bir raf."
+
+msgid "One of them stands out. Read a passage?"
+msgstr "Bir tanesi göze çarpıyor. Bir pasajını okuyacak mısın"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_bookshelf_2.choice.One of them stands out. Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_bookshelf_2.choice.One of them stands out. Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "\"Should a merchant not be available in your region, it is always possible to create your own paint by mixing pigments with water.\""
+msgstr "\"Bölgenizde bir tüccar bulunmuyorsa, pigmentleri suyla karıştırarak kendi boyanızı oluşturmanız her zaman mümkündür.\""
+
+msgid "There's something covered with a drape."
+msgstr "Örtüyle örtülü bir şey var."
+
+msgid "Remove the drape?"
+msgstr "Örtüyü kaldıracak mısın?"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Remove the drape?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Remove the drape?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Looks like a flat, black square."
+msgstr "Düz, siyah bir kareye benziyor."
+
+msgid "Take it with you?"
+msgstr "Yanına alacak mısın?"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Take it with you?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Take it with you?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "...It's too large and heavy to carry around."
+msgstr "...Etrafta taşıyabilmek için fazlasıyla büyük ve ağır."
+
+msgid "A crow stands at the edge of the pool."
+msgstr "Havuzun kenarında bir karga duruyor."
+
+msgid "A painting with two protruding hands expecting something."
+msgstr "İki çıkıntılı elin bir şey beklediğini gösteren bir tablo."
+
+msgid "Looks like I can place something on these hands..."
+msgstr "O ellere bir şey verebilirim gibi duruyor..."
+
+msgid "A small pool. The water looks clean."
+msgstr "Küçük bir havuz. Su temiz görünüyor."

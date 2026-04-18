@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.item_boltcutter_on_fence.dlg.narrator"
+msgid "There's no reason to do that."
+msgstr "Không có lý do gì làm thế hết."
+
+msgid "(Why damage the fence when I can just cut the chain that locks the gate...?)"
+msgstr "(Việc gì phải làm hỏng hàng rào khi mình chỉ cần cắt cái xích khóa cổng kia là được...?)"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.item_boltcutter_on_gate.dlg.narrator"
+msgid "There's no reason to do that."
+msgstr "Không có lý do gì làm thế hết."
+
+msgid "It's a little too late for that."
+msgstr "Giờ dùng chìa làm cái gì nữa."
+
+msgid "I don't have all 3 keys yet..."
+msgstr "Mình chưa có cả 3 chìa khóa..."
+
+msgid "A gate locked with 3 padlocks."
+msgstr "Cánh cổng bị khóa bằng 3 cái khóa móc."
+
+msgid "The warning sign reads:"
+msgstr "Tấm biển cảnh báo đọc là:"
+
+msgid "\"NO TRESPASSING. RISK OF SERIOUS INJURY OR DEATH\"."
+msgstr "\"CẤM VÀO. RỦI RO BỊ THƯƠNG NGHIÊM TRỌNG HOẶC TỬ VONG\"."
+
+msgid "A fence blocks your path."
+msgstr "Cái hàng rào chặn đường bạn."
+
+msgid "I could've probably climbed over it... if not for those spikes."
+msgstr "Nếu không có mấy cái gai kia... là mình chắc ăn leo qua được rồi."
+
+msgid "A lamppost."
+msgstr "Cây cột đèn."
+
+msgid "I'm not confident in my ability to climb this and jump to the other side."
+msgstr "Mình không tự tin vào kỹ năng trèo lên rồi nhảy sang phía bên kia của bản thân đâu."
+
+msgid "The note reads:"
+msgstr "Tờ ghi đọc là:"
+
+msgid "\"Due to the recent primal incident, we ask residents stupid enough to go inside to close the gate behind you.\""
+msgstr "\"Do sự cố gần đây từ loài nguyên sơ, chúng tôi yêu cầu cư dân nào mà ngu ngốc đến mức bước vào trong thì lo đóng cửa đằng sau lại giùm.\""
+
+msgid "As expected, the back of the note is blank."
+msgstr "Đúng y như rằng, mặt sau của tờ ghi là trắng trơn."
+
+msgid "A statue that looks out of place."
+msgstr "Bức tượng trông lạc lõng."
+
+msgid "A torn piece of paper seems to be stuck underneath. Take it?"
+msgstr "Có tờ giấy rách có vẻ bị kẹt ở bên dưới. Lấy nó chứ?"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.misc_statue.choice.A torn piece of paper seems to be stuck underneath. Take it?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.misc_statue.choice.A torn piece of paper seems to be stuck underneath. Take it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "This path looks really dark and dangerous..."
+msgstr "Đường này trông tối với nguy hiểm thật sự..."
+
+msgid "I went through the trouble of opening that gate but..."
+msgstr "Đã cất công mở cánh cổng đó rồi cơ mà..."
+
+msgid "I don't think there's a reason to go in there."
+msgstr "Mình không thấy có lý do gì để mà tiến vào đó cả."
+
+msgid "I don't have any other sources of light..."
+msgstr "Mình không có nguồn sáng nào khác cả..."
+
+msgid "Should I just use my phone's flashlight? It may be too bright..."
+msgstr "Có nên chỉ dùng đèn pin điện thoại mình không nhỉ? Có thể bị sáng quá..."
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Should I just use my phone's flashlight? It may be too bright..."
+msgid "Yes"
+msgstr "Dùng"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Should I just use my phone's flashlight? It may be too bright..."
+msgid "No"
+msgstr "Thôi"
+
+msgid "I might not be able to come back after I go through here..."
+msgstr "Sau khi đi qua chỗ này có khi mình không thể quay lại được."
+
+msgid "Continue down this path?"
+msgstr "Tiếp tục đi đường này chứ?"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Continue down this path?"
+msgid "Yes"
+msgstr "Tiếp tục"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Continue down this path?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "Mình thấy đi đường này chẳng giúp Kozmo được đâu..."
+
+msgid "Go in anyway?"
+msgstr "Kệ cứ đi vào chứ?"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Go in anyway?"
+msgid "Yes"
+msgstr "Đi vào"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Go in anyway?"
+msgid "No"
+msgstr "Thôi"

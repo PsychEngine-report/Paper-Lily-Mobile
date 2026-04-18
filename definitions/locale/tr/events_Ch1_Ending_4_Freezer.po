@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Ending_4_Freezer.misc_fridge_3.dlg.narrator"
+msgid "A large door with a metallic handle."
+msgstr "Metal kolu olan büyükçe bir kapı."
+
+msgid "Open it?"
+msgstr "Açılsın mı?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Frozen inside, you see..."
+msgstr "Gördüğün gibi, içerisi donmuş..."
+
+msgid "...Fingers!"
+msgstr "...Parmaklar!"
+
+msgid "Wait... arms...? Are these... human arms...?"
+msgstr "Bekle...bunlar...?　kol mu...insan kolları mı...?"
+
+msgid "Neatly stacked inside the fridge, there's fifty or so arms of different sizes, cut off from their bodies."
+msgstr "Buzdolabının içine düzgünce dizilmiş, bedenlerinden ayrılmış elliye yakın kol var."
+
+msgid "Both left and right arms can be seen."
+msgstr "Hem sol hem de sağ kollar görülebilir."
+
+msgid "....."
+msgstr "..."
+
+msgid "The arms prevent you from closing the door."
+msgstr "Kollar kapıyı kapatmanı engelliyor."
+
+msgctxt "events.Ch1_Ending_4_Freezer.misc_fridge_noopen.dlg.narrator"
+msgid "A large door with a metallic handle."
+msgstr "Metalden kolu olan büyükçe bir kapı."
+
+msgid "It won't open."
+msgstr "Açılmıyor."
+
+msgid "Better not to open it."
+msgstr "Açılmaması daha iyi."

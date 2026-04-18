@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A note details how to unclog some pipes..."
+msgstr "Notatka zawiera informacje dotyczące odblokowywania rur..."
+
+msgid "...but you have bigger problems right now."
+msgstr "...ale teraz masz znacznie większe problemy."
+
+msgid "A shrine of some sorts."
+msgstr "Coś, co przypomina ołtaż."
+
+msgid "There's no longer a goldfish inside the bowl."
+msgstr "W akwarium brakuje złotej rybki."
+
+msgid "The goldfish sits unmoving at the bottom of the bowl."
+msgstr "Złota rybka leży na dnie akwarium. Nie rusza się."
+
+msgid "The water has turned blood red."
+msgstr "Woda zmieniła kolor na krwistoczerwony."

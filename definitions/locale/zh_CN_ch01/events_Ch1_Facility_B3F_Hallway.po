@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A heavy-looking door."
+msgstr "一扇看起来很沉重的门。"
+
+msgid "Are we underwater...?"
+msgstr "我们是在水下吗...？"
+
+msgid "Looks like it."
+msgstr "好像是的。"
+
+msgid "The other side seems flooded."
+msgstr "另一边看起来被水淹没了。"
+
+msgid "Nothing happens."
+msgstr "无事发生。"
+
+msgid "An elevator door."
+msgstr "一扇电梯门。"
+
+msgid "There are stairs that go further down, but it's completely flooded."
+msgstr "有楼梯可以再往下走，但是那里已经完全被水淹没了。"

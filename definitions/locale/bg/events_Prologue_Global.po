@@ -1,0 +1,891 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alright, let's see..."
+msgstr "Добре, да видим…"
+
+msgid "According to my notes..."
+msgstr "Според записките ми…"
+
+msgid "I need to move the desks to the sides in all three classrooms."
+msgstr "Трябва да преместя бюрата към ъглите във всяка една от трите класни стаи."
+
+msgid "Then I can draw a \"path\" in the middle of each one with chalk."
+msgstr "После мога на прекарам \"линия\" по-средата на всяка с тебешир."
+
+msgid "Well, I'll leave the chalk drawing for last. I want to gather everything I need first."
+msgstr "Ами, значи ще оставя рисуването с тебешир за последно. Първо искам да събера всичко нужно."
+
+msgid "Oh no..."
+msgstr "Оо не..."
+
+msgid "What are you doing...? Is this part of the ritual?"
+msgstr "Какво правиш…? Това да не би да е част от ритуала?"
+
+msgid "Um... what's wrong with you?"
+msgstr "Мхм... Какво не ти е наред?"
+
+msgid "If this ritual involves the mass genocide of harmless plants, then I want nothing to do with it."
+msgstr "Ако този ритуал включва масов геноцид на безобидни растения, то не искам да имам нищо общо с него."
+
+msgid "Agreed."
+msgstr "Дадено."
+
+msgid "Are you seriously going to go around killing all the plants?"
+msgstr "Ти сериозно ли щеше да изтребиш всички тези растения?"
+
+msgid "I knew you were a psychopath..."
+msgstr "Знаех че си психопат..."
+
+msgid "Sorry Kat, but we didn't sign up for this."
+msgstr "Извинявай Кат, но не се записахме за това."
+
+msgid "I don't like this ritual anymore..."
+msgstr "Този ритуал вече не ми харесва..."
+
+msgid "Don't worry Kaya, we're going home now."
+msgstr "Не се тревожи Кая, отиваме си у дома."
+
+msgid "Don't talk to us again."
+msgstr "Повече не ни говори."
+
+msgid "Shelves for the students to place their school bags."
+msgstr "Рафтове за раниците на учениците."
+
+msgid "There are no bags right now though."
+msgstr "Обаче към момента нямаме чанти."
+
+msgid "Everything's ready."
+msgstr "Всичко е готово."
+
+msgid "All that's left is to wait 5 minutes and then burn the hair."
+msgstr "Остава само да изчакаме 5 минути и да изгорим косата."
+
+msgid "..."
+msgstr "..."
+
+msgid "This is going to be such a pain to clean up."
+msgstr "Това ще бъде такъв трън да се почисти."
+
+msgid "Seriously? Stop messing with things!"
+msgstr "Сериозно? Престани да се бъзикаш с тези неща!"
+
+msgid "But everything I \"mess with\" ends up being a scam."
+msgstr "Но всичко което аз \"се меся\" свършва като измама."
+
+msgid "What if some day it isn't?"
+msgstr "Ами ако един ден не е?"
+
+msgid "What if you end up summoning some ghost or the devil and condemning your soul to an eternity in the netherworld?"
+msgstr "Ами ако накрая призовеш някой дух или дявол и обречеш душата си на вечността в отвъдния свят?"
+
+msgid "What if your soul is already damned!?"
+msgstr "Ами ако душата ти е вече прокълната!?"
+
+msgid "Then I guess that's what's waiting for me after I die."
+msgstr "То тогава значи това ме очаква след като умра."
+
+msgid "KAT!"
+msgstr "КАТ!"
+
+msgid "It was a joke!"
+msgstr "Беше шега!"
+
+msgid "You're not gonna find him this way, you know?"
+msgstr "Няма да го откриеш по-този начин, знаеш това нали?"
+
+msgid "You'll just do whatever you want no matter what I say, won't you?"
+msgstr "Ти ще направиш всичко, без значение какво казвам аз, нали?"
+
+msgid "It's possible."
+msgstr "Възможно е."
+
+msgid "Stubborn idiot."
+msgstr "Твърдоглав идиот."
+
+msgid "I prefer \"ambitious idiot\"."
+msgstr "Предпочитам \"амбициозен идиот\"."
+
+msgid "So... will you tell me where the letter is?"
+msgstr "Е... ще ми кажеш ли къде е буквата?"
+
+msgid "You exhaust me Kat, you know that?"
+msgstr "Знаеш ли, изтощаващ ме Кат?"
+
+msgid "And yet here we are."
+msgstr "И все пак ето ни тук."
+
+msgid "Fine. You win. It's in the occult club."
+msgstr "Добре. Печелиш. Всичко е в окултния клуб."
+
+msgid "There's a golden envelope in one of the drawers. But they won't let you sniff around since you're not a member."
+msgstr "Има златен плик в едно от чекмеджетата. Но няма просто да ти позволят да си вреш носа наоколо след като не си член."
+
+msgid "Thanks, you're the best!"
+msgstr "Благодаря, ти си най-добрата!"
+
+msgid "Huh?"
+msgstr "Хмм?"
+
+msgid "(Is there somebody at the door..?)"
+msgstr "(Има ли някой на вратата..?)"
+
+msgid "Alright, now I just have to blow the candles off. So let's-"
+msgstr "И така, хайде сега само да издухам свещичките. Така че хайде-"
+
+msgid "Huh? The candles... Did they just...?"
+msgstr "Хмм? Свещите... Те да не би да...?"
+
+msgid "...I guess I should count to 100..."
+msgstr "Изглежда че трябва да броя до 100..."
+
+msgid "1, 2, 3, 4, 5..."
+msgstr "1, 2, 3, 4, 5..."
+
+msgid "...28, 29, 30..."
+msgstr "...28, 29, 30..."
+
+msgid "(Why am I doing this? This ridiculous game couldn't possibly work.)"
+msgstr "(Защо правя това? Тази налудничава игра просто не може да проработи.)"
+
+msgid "...55, 56, 57, 58..."
+msgstr "...55, 56, 57, 58..."
+
+msgid "(I wonder if mom is worried about me...)"
+msgstr "(Чудя се дали мама се притеснява за мен...)"
+
+msgid "(Huh? What was that?)"
+msgstr "(Хмм? Какво бе това?)"
+
+msgid "...79, 80, 81..."
+msgstr "...79, 80, 81..."
+
+msgid "(What's all that noise!?)"
+msgstr "(Какъв е всичкия този шум?)"
+
+msgid "Is anyone there...?"
+msgstr "Има ли някой там...?"
+
+msgid "...97, 98, 99..."
+msgstr "…97, 98, 99…"
+
+msgid "...100."
+msgstr "…100."
+
+msgid "So... I... open my eyes?"
+msgstr "Е... Аз... си отварям очите?"
+
+msgid "It... worked?"
+msgstr "То… проработи?"
+
+msgid "It worked?"
+msgstr "Проработи?"
+
+msgid "It worked!! I can't believe it!"
+msgstr "Проработи!! Не мога да повярвам!"
+
+msgid "This is incredible!!"
+msgstr "Това е невероятно!!"
+
+msgid "But... where am I?"
+msgstr "Но... къде съм?"
+
+msgid "It's a... hallway? It definitely isn't the school."
+msgstr "Това е... коридор? Определено не е училището."
+
+msgid "This is unbelievable, how could it have worked?"
+msgstr "Това е невероятно, как така проработи?"
+
+msgid "It doesn't make any logical sense. I was in the classroom a minute ago. Have I gone mad?"
+msgstr "Няма никаква логика. Аз бях в класната стая преди минута. Да не би да полудявам?"
+
+msgid "THIS IS SO EXCITING, I CAN'T BELIEVE IT WORKED!"
+msgstr "ТОВА Е ТОЛКОВА ВЪЛНУВАЩО, НЕ МОГА ДА ПОВЯРВАМ ЧЕ ПРОРАБОТИ!"
+
+msgid "If I wake up from this and it turns out to be a dream... well... that would be disappointing, to say the least."
+msgstr "Ако се събудя от това и се окаже сън... ами... ще бъде най-малко разочароващо."
+
+msgid "Okay. I definitely need to check this place out."
+msgstr "Определено трябва да проверя това място."
+
+msgid "Do you wish to save your progress?"
+msgstr "Желаете ли да запишете прогреса?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Now what?"
+msgstr "Сега какво?"
+
+msgid "Now we just wait 5 minutes."
+msgstr "Сега просто ще чакаме 5 минути."
+
+msgid "Doing nothing?"
+msgstr "Да не правим нищо?"
+
+msgid "Peace and quiet are not as bad as you imagine."
+msgstr "Мир и спокойствие не са чак толкова лоши както си представяш."
+
+msgid "After that, I'll burn the hair and you help me blow out the candles one by one."
+msgstr "След това, ще изгоря косата и ти ще ми помогнеш да издухам свещите една по една."
+
+msgid "Burnt hair smells bad..."
+msgstr "Изгорялата коса мирише гадно..."
+
+msgid "It does."
+msgstr "Така е.."
+
+msgid "But it's the last step, might as well do it right."
+msgstr "Но е последната стъпка, може поне да я свършим правилно."
+
+msgid "What happens then?"
+msgstr "А после какво?"
+
+msgid "No idea."
+msgstr "Нямам идея."
+
+msgid "Really?"
+msgstr "Наистина?"
+
+msgid "We probably just clean up and go home. These rituals are a scam, you know?"
+msgstr "Сигурно просто ще почистим и ще си ходим у дома. Тези ритуали са шашма, нали знаеш?"
+
+msgid "So... you're just making us make a mess, so that we can help you clean it up?"
+msgstr "Значи… просто ни принуждаваш да създадем каша, за да я почистим после?"
+
+msgid "What's the matter, are you not entertained?"
+msgstr "Какво има, не се ли забавляваш?"
+
+msgid "...Tsk."
+msgstr "…Тск."
+
+msgid "I think it's time."
+msgstr "Смятам че е време."
+
+msgid "Finally!"
+msgstr "Най-после!"
+
+msgid "Now I just burn this..."
+msgstr "Сега просто изгарям това..."
+
+msgid "Quickly, put out the candles now!"
+msgstr "Бързо, сложи една свещ сега!"
+
+msgid "Now, shut your eyes and be quiet while I count to one hundred, okay?"
+msgstr "Сега, затвори очите си и бъди тиха, докато броя до сто, ясно?"
+
+msgid "Got it."
+msgstr "Ясно."
+
+msgid "Alright then, I'll start."
+msgstr "Добре, започвам."
+
+msgid "Shhh!"
+msgstr "Шшшт!"
+
+msgid "(Huh...?)"
+msgstr "(Хмм...?)"
+
+msgid "(What the hell was that!?)"
+msgstr "(Какво по-дяволите беше това?)"
+
+msgid "...94, 95, 96, 97, 98, 99, 100!"
+msgstr "...94, 95, 96, 97, 98, 99, 100!"
+
+msgid "Huh...?"
+msgstr "Хмм...?"
+
+msgid "What the...?"
+msgstr "Какво по...?"
+
+msgid "Are those...?"
+msgstr "Това да не са...?"
+
+msgid "Well... my lines aren't perfect, but it should do the job!"
+msgstr "Ами… моите линии не са перфектни, но ще свърши работа!"
+
+msgid "I need to do this in all three rooms."
+msgstr "Трябва да го направя във всички три стаи."
+
+msgid "Two down, one to go."
+msgstr "Две готови, една остава."
+
+msgid "That night... I got cold feet, I guess."
+msgstr "Онази нощ… Имах студени крака, предполагам."
+
+msgid "I went home without completing the ritual."
+msgstr "Прибрах се у дома без да завърша ритуала."
+
+msgid "Despite that, I made plans to try again."
+msgstr "Въпреки това, правих планове да опитам отново."
+
+msgid "However, both my notes and the letter had disappeared without a trace."
+msgstr "Все пак, и двете ми записки изчезнаха без следа."
+
+msgid "I tried telling myself that maybe the ritual was a scam anyways..."
+msgstr "Постарах се да си кажа, че може би ритуалът е шашма все пак..."
+
+msgid "But now... how will I ever know?"
+msgstr "Но сега... как въобще ще узная?"
+
+msgid "Dead End K2 - Cold Kat Feet"
+msgstr "Задънена улица К2 - Студени крака на Кат"
+
+msgid "What's... going on?"
+msgstr "Какво… се случва?"
+
+msgid "These stairs are making no sense right now."
+msgstr "Тези стълби вече нямат логика."
+
+msgid "This building has only 3 floors. I've taken these stairs every day..."
+msgstr "Тази сграда има само 3 етажа. Качвам се по тези стълби всеки ден…"
+
+msgid "I must be really tired. I'll just go down without thinking."
+msgstr "Сигурно съм много уморена. Просто ще сляза долу без да мисля."
+
+msgid "I can't... get anywhere..."
+msgstr "Аз не мога... да отида никъде..."
+
+msgid "Am I dreaming right now?"
+msgstr "Сънувам ли в момента?"
+
+msgid "I think I'll just... rest here."
+msgstr "Мисля просто да... си почина тук."
+
+msgid "Tomorrow morning... someone will wake me up."
+msgstr "Утре сутрин… някой ще ме събуди."
+
+msgid "Hopefully at home, in my own bed."
+msgstr "Надявам се вкъщи, в собственото си легло."
+
+msgid "The next time I woke up, I was still in the same place."
+msgstr "Следващия път, когато се събудих, бях отново на същото място."
+
+msgid "I tried again. Going up, going down... it made no difference."
+msgstr "Пробвах отново, Изкачвайки се, слизайки..., нямаше никаква разлика."
+
+msgid "I decided to make an experiment with chalk."
+msgstr "Реших да направя експеримент с тебешира."
+
+msgid "Logic would dictate that this X isn't here if I go up or down a floor."
+msgstr "Логиката подсказва, че този Х не е тук, ако се кача или сляза с един етаж."
+
+msgid "I'm... trapped..."
+msgstr "Аз... се заклещих..."
+
+msgid "I don't think I'm going to make it home tonight either..."
+msgstr "Аз не мисля че ще успея до вкъщи тази вечер."
+
+msgid "Sorry Mom."
+msgstr "Извинявай Мамо."
+
+msgid "Dead End K3 - Academic Spiral"
+msgstr "Задънена улица К3 - Академична спирала"
+
+msgid "And so, we went home without completing the ritual."
+msgstr "И така, прибрахме се вкъщи без да завършим ритуала."
+
+msgid "For some reason, I lost interest after that."
+msgstr "Поради някаква причина, изгубих интерес след това."
+
+msgid "In exchange, I gained some new people to talk to."
+msgstr "В замяна, събрах нови хора, с които да разговарям."
+
+msgid "Well, I suppose the ritual couldn't have been that important anyways."
+msgstr "И така, предполагам бездруго ритуалът не може да е бил важен."
+
+msgid "Dead End K4 - Nevermind Forever"
+msgstr "Задънена улица - Няма значение Завинаги"
+
+msgid "You know, despite the rules,"
+msgstr "Знаете ли, въпреки правилата,"
+
+msgid "every so often some moron thinks they can bring in an entire group."
+msgstr "от време на време някой идиот си мисли, че може да доведе цяла група."
+
+msgid "Huh? Who's there?"
+msgstr "Хмм? Кой е там?"
+
+msgid "Where is this place...?"
+msgstr "Къде е това място...?"
+
+msgid "I would have at least made it interesting for you."
+msgstr "Аз поне щях да го направя интересно за Вас."
+
+msgid "But now? Forget it."
+msgstr "Но сега? Забрави."
+
+msgid "What? Wait-!"
+msgstr "Какво? Почакай-!"
+
+msgid "Dead End K5 - Party Wipe"
+msgstr "Задънена улица К5 - Парти изтрийте"
+
+msgid "Once they were gone, I felt a bit guilty so I went home as well."
+msgstr "След като си тръгнаха, се почувствах малко виновна."
+
+msgid "Maybe I'll try the ritual again, some other time."
+msgstr "Може би ще пробвам ритуала отново, някой друг път."
+
+msgid "Next time, I hope not to run into anyone."
+msgstr "Следващия път, надявам се, да се натъкна на някого."
+
+msgid "Dead End K6 - Snip snip"
+msgstr "Задънен край К6 - Изрезка изрезка"
+
+msgid "And so, we left the school and walked home."
+msgstr "И така, напуснахме училището и се отправихме към дома."
+
+msgid "No one said anything for a while."
+msgstr "Никой не каза нищо за известно време."
+
+msgid "(I think Kat is feeling down...)"
+msgstr "(Смятам че Кат е малко омърлушена...)"
+
+msgid "(Yeah.)"
+msgstr "(Мм да.)"
+
+msgid "(Should we do something?)"
+msgstr "(Да направим ли нещо?)"
+
+msgid "(What's on your mind?)"
+msgstr "(Какво ти идва на ум?)"
+
+msgid "(I don't know...)"
+msgstr "(Не знам…)"
+
+msgid "(Do you think Kat likes to sing?)"
+msgstr "(Смяташ ли дали Кат обича да пее?)"
+
+msgid "(Hmmm...)"
+msgstr "(Ммхм...)"
+
+msgid "(Good idea, Saki!)"
+msgstr "(Добра идея, Саки!)"
+
+msgid "(Haven't seen you this excited about karaoke before, Kaya...)"
+msgstr "(Не съм те виждала толкова развълнувана заради караоке преди, Кая...)"
+
+msgid "(That's a yes, then?)"
+msgstr "(Това значи да, нали)"
+
+msgid "(Alright.)"
+msgstr "(Ясно)"
+
+msgid "So..."
+msgstr "Значи..."
+
+msgid "We were thinking of going to this place..."
+msgstr "Мислихме да отидем до онова място..."
+
+msgid "(I can't do this! She's ignoring me!)"
+msgstr "(Не мога да го направя! Тя ме игнорира!)"
+
+msgid "Kat!"
+msgstr "Кат!"
+
+msgid "Hmm?"
+msgstr "Хмм?"
+
+msgid "Come with us."
+msgstr "Ела с нас."
+
+msgid "Just come."
+msgstr "Просто ела."
+
+msgid "Sure, whatever."
+msgstr "Разбира се, както и да е."
+
+msgid "(You're so good!)"
+msgstr "(Ти си толкова добра!)"
+
+msgid "(Are they trying... to cheer me up...?)"
+msgstr "(Те да не би да се опитват... да ме развеселят...?)"
+
+msgid "(Maybe... things are better this way.)"
+msgstr "(Може би... нещата са по-добре така.)"
+
+msgid "(I need to believe that much, at least.)"
+msgstr "(Поне трябва да го вярвам, силно)"
+
+msgid "Dead End K7 - Girls' Night Out"
+msgstr "Задънена улица К7 - Момичешка вечер навън"
+
+msgid "I didn't hear from the voice again."
+msgstr "Не чух отново за онзи глас."
+
+msgid "But, no matter how much I wanted to, I didn't scream for help."
+msgstr "Но, без значение колко го искам, не изкрещях за помощ."
+
+msgid "Someone will come for me... eventually."
+msgstr "В крайна сметка... някой ще дойде за мен."
+
+msgid "I just know it."
+msgstr "Просто знам."
+
+msgid "Dead End K8 - My Way"
+msgstr "Задънена улица К8 - Моят начин"
+
+msgid "We're... back here?"
+msgstr "Ние... отново сме тук?"
+
+msgid "Maybe this is the school's way of saying \"You can't leave now.\""
+msgstr "Може би това е начин училището да ни каже \"Не може да си тръгнеще сега.\""
+
+msgid "How can you just say something like that?"
+msgstr "Как е възможно просто да кажеш нещо подобно?"
+
+msgid "Are we going home soon...?"
+msgstr "Скоро ли ще се приберем вкъщи…?"
+
+msgid "I think I'll pass on burning the school down today."
+msgstr "Мисля да пропусна изгарянето на училището днес."
+
+msgid "Wow, thank you for your generosity."
+msgstr "Уоу, благодаря ти за загрижеността."
+
+msgid "What are you doing? I thought you were busy."
+msgstr "Какво правиш? Смятах че си заета."
+
+msgid "I'm just taking a break."
+msgstr "Просто си вземам почивка."
+
+msgid "Is that so..."
+msgstr "Така ли значи..."
+
+msgid "Are you scared? You're scared, aren't you?"
+msgstr "Оплашена ли си? Оплашена си, нали?"
+
+msgid "Did you come to us for comfort?"
+msgstr "Дойде при нас за утеха нали?"
+
+msgid "The only scary thing here is that attitude of yours."
+msgstr "Единственото плашещо нещо тук е твоето отношение."
+
+msgid "She's still upset at you messing up our night, as you can see."
+msgstr "Тя е все още разтроена, за дето провали нощта ни, както виждаш."
+
+msgid "It's okay to be scared..."
+msgstr "Няма нищо лошо да си уплашен..."
+
+msgid "Oh, I know! Why don't you show us your ritual as an apology?"
+msgstr "Знам! Защо не ни покажеш твоят ритуал, като извинение?"
+
+msgid "I'm kind of interested, too."
+msgstr "Аз също съм заинтересована."
+
+msgid "Well, the rules say..."
+msgstr "Изглежда, правилата остават..."
+
+msgid "Oh come on, you don't ACTUALLY think it's gonna work, do you? It's just a game, as you said."
+msgstr "О хайде де, нали не смяташ НАИСТИНА че ще проработи, смяташ ли? Както ти самата каза, това е просто игра."
+
+msgid "The rules don't actually matter."
+msgstr "Всъщност правилата нямат значение."
+
+msgid "I suppose not."
+msgstr "Предполагам че не."
+
+msgid "Then it's decided, we will tag along with you."
+msgstr "Решено е тогава, ние ще тръгнем с теб."
+
+msgid "You're tasked with entertaining us now."
+msgstr "Сега имаш за задача да ни развеселяваш."
+
+msgid "Well, I suppose it can't be helped."
+msgstr "Изглежда, предполагам, че не може да се помогне."
+
+msgid "Let's go, then."
+msgstr "Да тръгваме тогава."
+
+msgid "I'm back in this hallway..."
+msgstr "Върнах се отново в този коридор..."
+
+msgid "I don't like this... I need to get out of here..."
+msgstr "Това не ми харесва… Трябва да се измъкна от тук…"
+
+msgid "Whoa... weird dream."
+msgstr "Уаул… странен сън."
+
+msgid "Everyone must be gone already."
+msgstr "Всички вече вероятно ги няма."
+
+msgid "Looks like it's eleven... I should get to it."
+msgstr "Изглежда е единадесет… Трябва да ставам."
+
+msgid "Ohhhh no..."
+msgstr "Оо не…"
+
+msgid "You moved it!!"
+msgstr "Ти го премести!"
+
+msgid "I didn't, I swear! You know I hate this type of thing!"
+msgstr "Не бях аз, кълна се! Знаеш че мразя подобни неща!"
+
+msgid "This can't possibly be happening..."
+msgstr "Това не може да се случва..."
+
+msgid "It spelled \"DIE\"!!-"
+msgstr "Изписа се \"УМРИ\"!!-"
+
+msgid "Oh my... Oh no..."
+msgstr "О боже, О не..."
+
+msgid "Stop joking around!! This is serious!!"
+msgstr "Спри да се шегуваш!!"
+
+msgid "...Aah.... we should not have played this..."
+msgstr "...Аа... ние не трябваше да играем това..."
+
+msgid "I TOLD you we're going to be cursed!!"
+msgstr "КАЗАХ ТИ че ще бъдеш прокълната!!"
+
+msgid "WHAT WAS THAT!?"
+msgstr "КАКВО БЕ ТОВА!?"
+
+msgid "Is that a ghost?? We summoned a ghost!"
+msgstr "Това призрак ли е? Ние призовахме дух!"
+
+msgid "oh my god oh my god oh my god oh my god-"
+msgstr "о боже мой о мили боже о боже мой о мили боже-"
+
+msgid "YOU'RE MAKING TOO MUCH NOISE"
+msgstr "ВДИГАШ ТВЪРДЕ МНОГО ШУМ"
+
+msgid "Oh...It's just Kat..."
+msgstr "Оо... това е само Кат..."
+
+msgid "What's with the crazy knocking? What was that for!?"
+msgstr "Какво ви прихваща с това лудо чукане?"
+
+msgid "Did that spook you? You're not supposed to be here, you know?"
+msgstr "Това изплаши ли те? Ти не бива да си тук, знаеш го нали?"
+
+msgid "I could say the same about you. Why are YOU here?"
+msgstr "Мога да кажа същото за теб. Защо си ТИ тук?"
+
+msgid "Actually..."
+msgstr "Всъщност..."
+
+msgid "Say hello to the new member of the occult club!"
+msgstr "Кажи здравей на новият член на окултния клуб!"
+
+msgid "I had the wonderful opportunity to meet all of the members yesterday."
+msgstr "Имах невероятната възможност да се срещна с всички членове вчера."
+
+msgid "I don't recall seeing you there."
+msgstr "Не помня да те видях там."
+
+msgid "You three are not part of the club, are you?"
+msgstr "Вие трите не сте част от клуба, нали?"
+
+msgid "That's funny. I didn't pin you of all people as the \"occult\" type, Kat."
+msgstr "Това е смешно. Не ви подбрах от всички хора, от \"откултния\" тип, Кат."
+
+msgid "That's because I'm not."
+msgstr "Защото Аз не съм."
+
+msgid "H-Hey!! We were doing something here!"
+msgstr "Хей!! Случва се нещо тук. Правим нещо!"
+
+msgid "I'll save you the trouble. All three of you moved it."
+msgstr "Ще ви спестя проблемите. И трите го помръднахте."
+
+msgid "Wha...?"
+msgstr "Какв...?"
+
+msgid "The planchette. From your game. You all moved it. There's no ghost in the room."
+msgstr "Планшетът. От твоята игра. Всички го преместихте. В стаята няма призрак."
+
+msgid "There's a simple scientific explanation: it's called the ideomotor effect."
+msgstr "Има си просто научно обяснение: нарича се идеомоторен ефект."
+
+msgid "Simply put, just like your body reacts to pain reflexively, it may also react to ideas and move on its own. It pretty much bypasses the part of the brain which we use for conscious behavior."
+msgstr "Просто казано, точно както тялото ви реагира на болката рефлексивно, то може също да реагира на идеи и да се движи самостоятелно. То почти заобикаля частта от мозъка, която използваме за съзнателно поведение."
+
+msgid "It's not all that different from blinking or breathing. The effect is even stronger when a bunch of gullible people who are desperate to believe in ghost stories get together and play."
+msgstr "Не е много по различно от мигането или дишането. Ефектът е даже по-силен когато имате група хора, които отчаяно вярват в истории за духове и които се събират заедно за да играят."
+
+msgid "There was an experiment where the players were blindfolded and suddenly the \"ghosts\" could no longer spell messages. You can try it if you don't believe me."
+msgstr "Съществува експеримент, при който сляпо завързани хора, внезапно спират да чуват съобщенията от \"духовете\". Може да пробвате ако не ми вярвате."
+
+msgid "In other words, your mysterious answers from beyond... are really just your imagination playing tricks on you."
+msgstr "С други думи, вашите мистериозни отговори от отвъдното... са само вашето въображение, което ви играе номера."
+
+msgid "Great job killing the mood."
+msgstr "Страхотна работа убивайки настроението."
+
+msgid "You must be fun at parties."
+msgstr "Сигурно си забавна на партита."
+
+msgid "Thanks a lot, Kat."
+msgstr "Благодаря много, Кат."
+
+msgid "Always a pleasure."
+msgstr "Винаги е удоволствие."
+
+msgid "(Alright, time to search.)"
+msgstr "(И така, време за издирване.)"
+
+msgid "(I should go over my notes to make sure I don't forget anything.)"
+msgstr "(Трябва да прегледам моите записки, за да се убедя, че не забравям нещо.)"
+
+msgid "I already have enough chalk but... the more the merrier!"
+msgstr "Вече имам достатъчно тебешир но... повече е по-добре!"
+
+msgid "What kind of ritual is this...?"
+msgstr "Какъв по-точно е този ритуал…?"
+
+msgid "Do I really need all of this chalk...?"
+msgstr "Наистина ли имам нужда от всичкия този тебешир…?"
+
+msgid "This window already has curtains."
+msgstr "Тоза прозорец вече има пердета."
+
+msgid "The thought of its burning beauty charms you."
+msgstr "Мисълта за изгарящата му красота направо те умайва."
+
+msgid "I really shouldn't, though."
+msgstr "Наистина не трябва, все пак."
+
+msgid "It looks like a private journal."
+msgstr "Изглежда като личен дневник."
+
+msgid "This looks like that girl's private journal."
+msgstr "По-всичко личи че е личния дневник на онова момиче."
+
+msgid "Look through it?"
+msgstr "Разгледай го все пак?"
+
+msgid "Let's see..."
+msgstr "Хайде да видим…"
+
+msgid "Blegh, it's just math problems... and girly doodles all over."
+msgstr "Бла, просто математически проблеми... и момичешки рисунки навсякъде."
+
+msgid "This isn't worth my time."
+msgstr "Това не си струва моето време."
+
+msgid "A math notebook. Nothing worth looking through."
+msgstr "Тетрадка по математика. Нищо което да си струва времето."
+
+msgid "(Alright, so I need to search the school for the items first.)"
+msgstr "(Ясно, значи първо трябва да претърса училището за предметите.)"
+
+msgid "(The rune should be in this room...)"
+msgstr "(Руната трябва да е в тази стая...)"
+
+msgid "(...somewhere.)"
+msgstr "(...тук някъде)"
+
+msgid "Well, I need a tuft of hair for the ritual..."
+msgstr "Ами, всъщност трябва да отделя кичур коса за ритуала…"
+
+msgid "Should I cut my own hair?"
+msgstr "Трябва ли да си среща собствената коса?"
+
+msgid "I guess..."
+msgstr "Предполагам…"
+
+msgid "Forget it"
+msgstr "Забрави"
+
+msgid "Sigh..."
+msgstr "Въздишка…"
+
+msgid "Here I go, I suppose..."
+msgstr "Хайде започвам, предполагам..."
+
+msgid "I never want to do that again."
+msgstr "Не искам никога повече да го правя."
+
+msgid "You're so brave, Kat."
+msgstr "Толкова си смела, Кат."
+
+msgid "Of course not."
+msgstr "Разбира се че не."
+
+msgid "I already have enough hair."
+msgstr "Вече имам достатъчно коса."
+
+msgid "(Nah.)"
+msgstr "(Мм не.)"
+
+msgid "Um... any takers?"
+msgstr "Ум... кандидати, някой?"
+
+msgid "What do you need?"
+msgstr "Какво ти е нужно?"
+
+msgid "Just a bit of hair."
+msgstr "Само малко коса."
+
+msgid "Why don't you cut your own?"
+msgstr "Защо не си срежеш малко от твоята?"
+
+msgid "I thought you girls wanted to participate...?"
+msgstr "Мислих че вие момичетата искате да участвате в това...?"
+
+msgid "I don't mind helping..."
+msgstr "Нямам против да помогна…"
+
+msgid "No Kaya, you don't have to do that."
+msgstr "Не Кая, не е нужно да го правиш."
+
+msgid "It's alright, I'll give you mine."
+msgstr "Всичко е ОК, ще дам моята."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "There's no need for that. I'll just cut some of mine."
+msgstr "Няма нужда от това. Просто ще откъсна малко от моята."
+
+msgid "Are you sure?"
+msgstr "Сигурна ли си?"
+
+msgid "Yeah, it would be a waste to use yours."
+msgstr "Мм да, ще бъде загуба да ползваме твоята."
+
+msgid "Alright."
+msgstr "Хубаво."
+
+msgid "A tuft of hair from Saki. She gave it to me voluntarily."
+msgstr "Кичур коса от Саки. Тя го дава доброволно."
+
+msgid "Thanks!"
+msgstr "Благодаря!"
+
+msgid "Uuugh..."
+msgstr "Ъъъм…"
+
+msgid "It's so dark..."
+msgstr "Толкова е тъмно..."
+
+msgid "Let's see what's behind this door."
+msgstr "Да видим какво се крие зад онази врата."
+
+msgid "Maybe we'll find exam answers!"
+msgstr "Може би ще открием изпитните резултати там!"
+
+msgid "Or dead bodies!"
+msgstr "Или мъртви тела!"
+
+msgid "Or... maybe it's just a supply closet."
+msgstr "Или... може би е само килер с консумативи."
+
+msgid "Heh."
+msgstr "Хе."

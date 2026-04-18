@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Um... okay..."
+msgstr "嗯...好吧..."
+
+msgid "A realistic sculpture of a man with a candle for a head."
+msgstr "逼真的男士雕塑，頭是一根蠟燭。"
+
+msgid "(What should I do?)"
+msgstr "(我該做什麼？)"
+
+msgid "Touch it"
+msgstr "碰它"
+
+msgid "Take the candle"
+msgstr "拿走蠟燭"
+
+msgid "Blow out the candle"
+msgstr "吹熄蠟燭"
+
+msgid "Do nothing"
+msgstr "什麼也不做"
+
+msgid "The statue feels like stone, just as you would expect."
+msgstr "雕像摸起來像是石頭，就跟妳預想的一樣。"
+
+msgid "Are you sure?"
+msgstr "妳確定嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Leftovers of what was once a sculpture."
+msgstr "曾是雕塑的殘餘物。"
+
+msgid "The candle man is gone."
+msgstr "蠟燭人不見了。"
+
+msgid "It's hard to tell what it says from this side."
+msgstr "從這一面很難看出在寫什麼。"
+
+msgid "It reads: \"Exhibit closed indefinitely. If you have complaints, please direct them back to where they came from.\""
+msgstr "它寫著：\"展覽無限期關閉。如果你要投訴，請把投訴送回它們的出處。\""
+
+msgid "The sculpture is either broken or unfinished. You can't really tell."
+msgstr "這尊雕塑看起來破損或是還沒完成。妳看不太出來。"
+
+msgid "A tall vase."
+msgstr "高花瓶。"
+
+msgid "Reach inside?"
+msgstr "伸手進去嗎？"
+
+msgid "..."
+msgstr "..."
+
+msgid "...tired..."
+msgstr "...累了..."
+
+msgid "...so....tired...."
+msgstr "真的...好累..."

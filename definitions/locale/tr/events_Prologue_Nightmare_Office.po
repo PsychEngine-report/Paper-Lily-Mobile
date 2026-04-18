@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no keyhole on the door."
+msgstr "Kapıda anahtar deliği yok."
+
+msgid "The bookshelf towers over your small figure."
+msgstr "Kitaplık senin küçücük bedeninin üzerinde yükseliyor."
+
+msgid "The bookshelf has always felt too large for comfort."
+msgstr "Kitaplık burası için fazla büyük gibi görünüyor."
+
+msgid "The bookshelf is filled with hard to read books."
+msgstr "Kitaplık okuması zor kitaplarla dolu."
+
+msgid "The bookshelf has books with titles you can't even pronounce."
+msgstr "Kitaplık adını bile telaffuz edemediğin kitaplarla dolu."
+
+msgid "A pile of science books."
+msgstr "Bir yığın bilimsel kitap"
+
+msgid "A pile of science books. Many pages are bookmarked."
+msgstr "Bir yığın bilimsel kitap. Çoğu sayfa işaretlenmiş."
+
+msgid "Books on out-of-body experiences."
+msgstr "Astral seyahatle ilgili kitaplar."
+
+msgid "A pile of books. The top one is called \"Depictions of psychological trauma in research patients.\""
+msgstr "Bir yığın kitap. En üsttekinin adı 'Hastalarda psikolojik travmanın tasviri'."
+
+msgid "A pile of anatomy textbooks."
+msgstr "Bir sürü anatomi kitabı."
+
+msgid "What the hell."
+msgstr "Ne oluyor be!"
+
+msgid "Was that...?"
+msgstr "Bu...?"
+
+msgid "Was that...!?"
+msgstr "Bu da ne...!?"
+
+msgid "No. It wasn't."
+msgstr "Hayır hayır."
+
+msgid "It's just an empty couch."
+msgstr "Sadece boş bir kanepe."
+
+msgid "A familiar desk."
+msgstr "Tanıdık bir masa."
+
+msgid "______val of souls from_____avel below the_____ot follow instructions____velope______."
+msgstr "Mektup___tüm talimat______ruhları uza______iç____takip et____"
+
+msgid "It's too hazy to read."
+msgstr "Yazılar çoğunlukla silinmiş."
+
+msgid "A story book and a photo of someone."
+msgstr "Bir hikaye kitabi ve birinin fotoğrafı."
+
+msgid "Some books on physiological changes in humans in specific environments."
+msgstr "Belirli çevre koşullarında insanlardaki fizyolojik değişimlerle alakalı kitaplar."
+
+msgid "There's also a notebook filled with rough scribbles and notes."
+msgstr "Burada bir de karalama ve notlarla dolu bir defter var."
+
+msgid "A painting of a vague memory."
+msgstr "Belirsiz bir hatıranın tablosu."
+
+msgctxt "events.Prologue_Nightmare_Office.misc_painting_2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "A trashcan filled with blank pieces of paper."
+msgstr "Boş kağıt parçalarıyla dolu bir çöp kutusu."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Just what is this place..."
+msgstr "Burası da ne böyle..."
+
+msgid "Not interested, huh?"
+msgstr "İlgini çekmedi mi?"
+
+msgid "So? What do you think? I can see everything that's in your head."
+msgstr ""
+"Eee？　Ne düşünüyorsun?　Aklından geçenlerin\n"
+"hepsi yüzünden okunuyor."
+
+msgctxt "events.Prologue_Nightmare_Office.move_next.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "You really should make an effort to be more lively."
+msgstr "Daha hayat dolu görünmek için gerçekten çaba sarf etmelisin."
+
+msgid "You only have until I decide I'm done playing around with you, you know?"
+msgstr ""
+"Sadece seninle oynamaktan bıktığıma karar verene kadar\n" 
+"vaktin olduğunu biliyorsun değil mi?"
+
+msgid "And then..."
+msgstr "Ve işte o zaman..."
+
+msgid "...snap."
+msgstr "...çat"
+
+msgid "The door you came through won't open anymore."
+msgstr "Geldiğin kapı artık açılmıyor."

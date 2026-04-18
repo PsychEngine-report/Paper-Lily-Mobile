@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Prologue: School"
+msgstr "Başlangıç: Okul"
+
+msgid "Prologue: Occult Club"
+msgstr "Başlangıç: Büyü Kulübü"
+
+msgid "Prologue: Hallway of Doors"
+msgstr "Başlangıç: Koridorun Kapıları"
+
+msgid "Prologue: Into the Door"
+msgstr "Başlangıç:  Kapılara Giriş"
+
+msgid "Paper Lily: Chapter 1"
+msgstr "Paper Lily: Bölüm 1"
+
+msgid "Chapter 1: Home"
+msgstr "Bölüm 1: Ev"
+
+msgid "Chapter 1: Home (Night)"
+msgstr "Bölüm 1: Ev (Gece)"
+
+msgid "Chapter 1: Bus Stop"
+msgstr "Bölüm 1: Otobüs Durağı"
+
+msgid "Chapter 1: Forest"
+msgstr "Bölüm 1: Orman"
+
+msgid "Chapter 1: Red's Treehouse"
+msgstr "Bölüm 1: Red'in Ağaç Evi"
+
+msgid "Chapter 1: Lakeside"
+msgstr "Bölüm 1: Göl Kenarı"
+
+msgid "Chapter 1: Lavender Area"
+msgstr "Bölüm 1: Lavantalı Alan"
+
+msgid "Chapter 1: Facility"
+msgstr "Bölüm 1: Tesis"
+
+msgid "Chapter 1: Miss Knives' Home"
+msgstr "Bölüm 1: Bayan Knives'ın Evi"
+
+msgid "Paper Lily: Chapter 2"
+msgstr "Paper Lily: Bölüm 2"

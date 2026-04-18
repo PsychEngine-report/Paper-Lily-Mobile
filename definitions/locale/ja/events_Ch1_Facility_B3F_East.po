@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I'm sorry for disturbing you."
+msgstr "邪魔してごめんなさい。"
+
+msgid "(She's crying...)"
+msgstr "(泣いてる……)"
+
+msgid "How long has she been locked up in here?"
+msgstr "どのくらいここに閉じ込められてるんだ？"
+
+msgid "I don't know."
+msgstr "わからない。"
+
+msgid "No hard feelings."
+msgstr "悪く思うなよ。"
+
+msgid "You're food, after all."
+msgstr "結局、君たちは食物なのだ。"
+
+msgid "What are your thoughts?"
+msgstr "ご感想は？"
+
+msgctxt "events.Ch1_Facility_B3F_East.event_spider_force_meet.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "見てきたまえ。"
+
+msgid "Psst..."
+msgstr "シーッ……"
+
+msgid "Over here."
+msgstr "こっちだ。"
+
+msgid "A small toy."
+msgstr "小さなおもちゃ。"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Is that... Miss Knives?"
+msgstr "あれが……ミス・ナイヴズ？"
+
+msgid "Is this what she actually looks like..?"
+msgstr "本当はあんな姿なの……？"
+
+msgid "Whoa."
+msgstr "うわ。"
+
+msgid "She looks like a used napkin."
+msgstr "まるで使用済みナプキンだな。"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "このゲートは開けられるようだ。開ける？"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "開ける"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "開けない"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "You're... Spider?"
+msgstr "あなた……スパイダー？"
+
+msgid "Good work back there. Didn't think you'd actually do it."
+msgstr "あちらではよくやってくれた。まさか本当にやり遂げるとはな。"
+
+msgid "It feels good to see this place again."
+msgstr "またこの場所を見られて嬉しいよ。"
+
+msgid "How's this good? You're locked up."
+msgstr "ここのどこが良いんだよ？　閉じ込められてるじゃないか。"
+
+msgid "I don't need much to be content."
+msgstr "私は少ないもので満足できるたちでね。"
+
+msgid "My cell neighbor keeps me entertained."
+msgstr "隣の檻の住人のおかげで退屈しないのだよ。"
+
+msgid "...?"
+msgstr "……？"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "見てきたまえ。"
+
+msgid "You mean Miss Knives...?"
+msgstr "ミス・ナイヴズのこと……？"
+
+msgid "About Miss Knives..."
+msgstr "ミス・ナイヴズのことだけど……"
+
+msgid "Are you surprised?"
+msgstr "驚いたか？"
+
+msgid "Well... kind of."
+msgstr "まぁ……少し。"
+
+msgid "She's seen better days."
+msgstr "かつては良かったのだがね。"
+
+msgid "But she'll be fine. She's just like a spider."
+msgstr "だが問題ない。クモと同じようなものだ。"
+
+msgid "After a little while, she'll make a new web and entangle everyone in it again."
+msgstr "しばらくすれば新しい網を張り、また誰もかもを巻き込むだろう。"
+
+msgid "I'm curious to see what it will look like next time."
+msgstr "今度はどんな網になるか楽しみだよ。"
+
+msgid "Huh."
+msgstr "ふうん。"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "I see..."
+msgstr "そう……"
+
+msgid "Besides. She does get a visitor every so often."
+msgstr "それに。彼女には時折来客もある。"
+
+msgid "Really?"
+msgstr "ほんとに？"
+
+msgid "Yes. An intriguing one by the name of Red."
+msgstr "ああ。レッドという名の興味深い人物だ。"
+
+msgid "...!"
+msgstr "……！"
+
+msgid "Don't look so excited."
+msgstr "そう興奮するな。"
+
+msgid "Red won't be back here anytime soon."
+msgstr "レッドはすぐにはここに戻ってこない。"
+
+msgid "I see."
+msgstr "そう。"
+
+msgid "Is Red the lighthouse person?"
+msgstr "レッドってのが例の灯台のやつか？"
+
+msgid "Yes..."
+msgstr "うん……"
+
+msgid "Ah, damn."
+msgstr "残念だな。"
+
+msgid "Interesting."
+msgstr "面白い。"
+
+msgid "If the lighthouse is what you're searching for, perhaps this is of use to you."
+msgstr "灯台を探しているなら、これが役に立つかもしれないな。"
+
+msgid "Is this... a doorknob to the lighthouse?"
+msgstr "これ……灯台へのドアノブ？"
+
+msgid "What remains of it."
+msgstr "その残骸だ。"
+
+msgid "That's fine, I... I think I know how to fix it."
+msgstr "大丈夫、その……直し方は知ってると思うから。"
+
+msgid "This is a big help, Spider."
+msgstr "すごく助かるよ、スパイダー。"
+
+msgid "Thank you. I appreciate it, even if it's broken."
+msgstr "ありがとう。壊れてても、すごく助かる。"
+
+msgid "Then consider our debts settled."
+msgstr "ならこれで貸し借りなしといこう。"
+
+msgid "Spider seems at peace in its cell."
+msgstr "スパイダーは独房で穏やかに過ごしているようだ。"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "このゲートは開けられるようだ。開ける？"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "開ける"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "開けない"
+
+msgid "Crayons and children's drawings."
+msgstr "クレヨンと、子供の描いた絵。"
+
+msgid "Denomination: G8. Potential: Questionable. Training interrupted."
+msgstr "種別: G8。潜在力: 疑問。訓練中断済み。"
+
+msgid "Requesting installation of an anti-distortion field."
+msgstr "反歪曲場の導入を申請中。"
+
+msgid "An old, crusty pillow."
+msgstr "古びた、固い枕。"
+
+msgid "Denomination: G11. Potential: High. Training ongoing."
+msgstr "種別: G11。潜在力: 高。訓練続行中。"
+
+msgid "A set of four toy plants."
+msgstr "4つ1組のおもちゃの植物。"

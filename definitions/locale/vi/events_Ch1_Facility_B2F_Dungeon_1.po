@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "...This door doesn't seem to open."
+msgstr "...Cánh cửa này không có vẻ mở ra được."
+
+msgid "So I AM trapped here after all, just not in that tiny cell."
+msgstr "Thế là rốt cuộc mình BỊ mắc kẹt ở đây rồi, chỉ là không bị kẹt ở trong cái xà-lim tí tẹo kia."
+
+msgid "I suppose that's less bad..."
+msgstr "Chắc là thế thì đỡ tệ hơn đi..."
+
+msgid "Alright, vent it is."
+msgstr "Được rồi, chui vent vậy."
+
+msgid "Let's hope there's another way out."
+msgstr "Mong là có đường ra nào khác thôi."
+
+msgid "The door won't open."
+msgstr "Cánh cửa không mở ra."
+
+msgid "Looks like human bones."
+msgstr "Trông như xương người."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_cell_1.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open. Something seems to be holding it from the other side."
+msgstr "Không mở được. Phía bên kia có cái gì đó dường như đang giữ lại."
+
+msgid "\"Subject 66. Age: 38. Sex: Female. Status: Incapacitated. Extraction scheduled. Priority: Medium.\""
+msgstr "\"Đối tượng 66. Tuổi: 38. Giới tính: Nữ. Tình trạng: Bất năng. Đã lên lịch trích xuất. Độ ưu tiên: Trung.\""
+
+msgid "That's not me. Someone else must've been kept in here."
+msgstr "Đó không phải mình. Ở đây hẳn là có ai đó khác bị giam rồi."
+
+msgid "It was just... open?"
+msgstr "Cửa cứ thế... mở ra thôi?"
+
+msgid "\"Subject 41. Age: 53. Sex: Male. Status: Incapacitated. Extraction scheduled. Priority: Low.\""
+msgstr "\"Đối tượng 41. Tuổi: 53. Giới tính: Nam. Tình trạng: Bất năng. Đã lên lịch trích xuất. Độ ưu tiên: Thấp.\""
+
+msgid "\"Subject 37. Age: 13. Sex: Male. Status: Incapacitated. Extraction on hold. Awaiting further results. Follow-up tests scheduled. Priority: High.\""
+msgstr "\"Đối tượng 37. Tuổi: 13. Giới tính: Nam. Tình trạng: Bất năng. Đang hoãn trích xuất. Chờ thêm kết quả. Đã lên lịch kiểm tra tiếp theo. Độ ưu tiên: Cao.\""
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_cell_5.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open anymore. Something seems to be holding it from the other side."
+msgstr "Không mở được nữa. Phía bên kia có cái gì đó dường như đang giữ lại."
+
+msgid "These are my things... most of it anyway."
+msgstr "Đồ của mình đây này... có đây hầu hết thôi."
+
+msgid "I hadn't even noticed I had lost them."
+msgstr "Mình còn không nhận ra là làm mất khi nào cơ."
+
+msgid "Why are they here...?"
+msgstr "Sao lại ở đây nhỉ...?"
+
+msgid "(You got your items back.)"
+msgstr "(Bạn đã lấy lại đồ đạc của mình.)"
+
+msgid "There's nothing else on the desk."
+msgstr "Trên bàn không có gì khác."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_desk_left.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "Mấy ngăn kéo đều trống không."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_desk_right.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "Mấy ngăn kéo đều trống không."
+
+msgid "A huge hole."
+msgstr "Cái hố to."
+
+msgid "I hope the floor is stable..."
+msgstr "Mong là cái sàn ổn định..."
+
+msgid "This vent is suspicious."
+msgstr "Lỗ thông gió này khả nghi thế."
+
+msgid "Maybe I could escape through here?"
+msgstr "Hay là mình có thể thoát ra qua chỗ này?"
+
+msgid "It's almost like it's inviting me in."
+msgstr "Gần như là nó đang mời gọi mình vào vậy."
+
+msgid "It's too high to reach."
+msgstr "Cao quá với không tới."
+
+msgid "Wait, there's something on the desk."
+msgstr "Từ từ, trên cái bàn có cái gì kìa."
+
+msgid "Climb the box and remove the vent cover?"
+msgstr "Leo lên cái thùng rồi gỡ nắp lỗ thông chứ?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Climb the box and remove the vent cover?"
+msgid "Yes"
+msgstr "Gỡ nắp"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Climb the box and remove the vent cover?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Crawl into the vents?"
+msgstr "Bò vào trong lỗ thông chứ?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Crawl into the vents?"
+msgid "Yes"
+msgstr "Bò vào"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Crawl into the vents?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "No... at that point, it would just be silly."
+msgstr "Không... thế rồi mà còn làm chỉ có là dở hơi thôi."
+
+msgid "That guy is waiting for me outside..."
+msgstr "Cái anh đó đang đứng ngoài đợi mình..."
+
+msgid "If I go through here right now, it would take him a while to realize I left."
+msgstr "Nếu bây giờ mình chui ra qua đây thì sẽ phải một lúc sau ảnh mới nhận ra mình bỏ đi."
+
+msgid "I could get rid of him that way, I think."
+msgstr "Bằng cách này là có thể tống khứ ảnh đi, nghĩ là thế."
+
+msgid "Go through the vent and leave Sai behind?"
+msgstr "Đi qua lỗ thông và bỏ Sai lại đằng sau?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Go through the vent and leave Sai behind?"
+msgid "Yes"
+msgstr "Đi"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Go through the vent and leave Sai behind?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "No... that would probably be pretty rude."
+msgstr "Không... làm thế thì hẳn là khiếm nhã lắm."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Having fun?"
+msgstr "Vui nhể?"
+
+msgid "...Yep, plenty."
+msgstr "...Ừa, vui lắm."
+
+msgid "Let's go then?"
+msgstr "Vậy đi thôi nào?"
+
+msgid "Safe!"
+msgstr "An toàn!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai đã nhập bọn.)"

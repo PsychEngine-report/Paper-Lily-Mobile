@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What to do?"
+msgstr "該做什麼？"
+
+msgid "Kill it here"
+msgstr "在這裡殺了他"
+
+msgid "Release it around this area"
+msgstr "在這個區域釋放他"
+
+msgid "Do nothing"
+msgstr "什麼也不做"
+
+msgid "It's not wise to do that here."
+msgstr "在這裡這麼做可不明智。"
+
+msgid "I don't think I should release it so close to them..."
+msgstr "我不應該在這麼靠近他們的地方釋放他..."
+
+msgid "HEY! I'M WATCHING YOU!"
+msgstr "嘿！我在盯著妳！"
+
+msgid "IF YOU LET THAT SHIT FREE I'LL COME OUT AND KILL YOU BOTH MYSELF!!!"
+msgstr "如果妳放了那東西我會親自出來殺了你們兩個！！！"
+
+msgid "(...Sorry...)"
+msgstr "(...對不起...)"
+
+msgid "A rudimentary lamp."
+msgstr "很基本的燈。"
+
+msgid "A tent. Looks rather cozy."
+msgstr "帳篷。看起來很舒適。"
+
+msgid "There's nothing particularly interesting about the backside of the tent."
+msgstr "帳篷的後方沒有什麼有趣的地方。"
+
+msgid "Stay away!!!"
+msgstr "不要靠近！！！"

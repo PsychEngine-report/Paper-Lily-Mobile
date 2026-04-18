@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Didn't catch your name earlier."
+msgstr "Не услышал, как там тебя зовут?"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.chr_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Yeah... I see."
+msgstr "Ладно... понял."
+
+msgid "What's up?"
+msgstr "Что такое?"
+
+msgid "What... what was that thing?"
+msgstr "Что... что это была за тварь?"
+
+msgid "Huh, you can talk."
+msgstr "Ха, так ты умеешь говорить."
+
+msgid "I dunno. They call it a primal demon."
+msgstr "Не знаю. Их зовут древними демонами."
+
+msgid "Primal?"
+msgstr "Древними?"
+
+msgid "Well, if you consider all these lively fellows you encountered \"demons\"..."
+msgstr "Ну, если всех этих добряков, что мы встретили, называть \"демонами\"..."
+
+msgid "...then that would make those shadowy ones \"primal demons\"."
+msgstr "...Тогда вот эти тёмные - это \"древние демоны\"."
+
+msgid "(Hm...)"
+msgstr "(Хм...)"
+
+msgid "What else do you know?"
+msgstr "Что ты ещё знаешь?"
+
+msgid "I know lots of stuff."
+msgstr "Много чего."
+
+msgid "About primal demons?"
+msgstr "А насчёт древних демонов?"
+
+msgid "Ahh, about that..."
+msgstr "А, о них..."
+
+msgid "Not much."
+msgstr "Немного."
+
+msgid "I know they'll kill whatever crosses their path."
+msgstr "Я знаю, что они убивают всех на своём пути."
+
+msgid "Contrary to other demons, which will mostly only kill you if you're human."
+msgstr "В отличие от обычных демонов, которые убивают по большей части только людей."
+
+msgid "Hm..."
+msgstr "Хм..."
+
+msgid "Let's wait here a bit longer."
+msgstr "Давай ещё тут подождём."
+
+msgid "It might be gone."
+msgstr "Он, должно быть, уже ушёл."
+
+msgid "It's up to you when you wanna go back out."
+msgstr "Сама решай, когда хочешь выйти наружу."
+
+msgid "Are you going outside?"
+msgstr "Ты выходишь?"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.event_leave_lab.choice.Are you going outside?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.event_leave_lab.choice.Are you going outside?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.event_leave_lab.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I guess the coast is clear."
+msgstr "Думаю, путь чист."
+
+msgid "(Will I find any clues in a place like this...?)"
+msgstr "(Получится ли у меня найти здесь какие-нибудь зацепки?..)"
+
+msgid "(Maybe I should focus on getting out of here.)"
+msgstr "(Может быть, лучше сосредоточиться на поиске выхода.)"
+
+msgid "(Alright.)"
+msgstr "(Ну хорошо.)"
+
+msgid "You still use a flip phone?!"
+msgstr "Ты до сих пор пользуешься раскладушкой?"
+
+msgid "Why??"
+msgstr "Почему??"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.item_cellphone_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(It's just fun to flip it open...)"
+msgstr "(Её весело раскладывать вверх-вниз...)"
+
+msgid "Cool, you've got one of those doorknobs."
+msgstr "О, круто, у тебя есть одна из этих дверных ручек."
+
+msgid "It's pretty fun to see where they take you."
+msgstr "Всегда весело узнать, куда они тебя приведут."
+
+msgid "Ooh, it's one of those cool rocks."
+msgstr "О, один из тех классных камешков!"
+
+msgid "Did you know they glow in the dark?"
+msgstr "Ты знала, что они светятся в темноте?"
+
+msgid "Really?"
+msgstr "Правда?"
+
+msgid "No."
+msgstr "Нет."
+
+msgctxt "events.Ch1_Facility_B2F_Lab.item_runes_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "But you totally fell for that!"
+msgstr "Но ты точно купилась!"
+
+msgid "A bloody bag. It smells putrid."
+msgstr "Окровавленный мешок. Пахнет мерзко."
+
+msgid "An operating table. It has faint blood stains."
+msgstr "Операционный стол. На нём есть засохшие пятна крови."
+
+msgid "An operating table."
+msgstr "Операционный стол."
+
+msgid "(What's with the strange shape of this bed...?)"
+msgstr "(Что за странная форма у этой кушетки?..)"
+
+msgid "Looks like human bones."
+msgstr "Похоже на человеческие кости."
+
+msgid "A fallen book."
+msgstr "Упавшая книга."
+
+msgid "Read a passage?"
+msgstr "Прочитать абзац?"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_book.choice.Read a passage?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_book.choice.Read a passage?"
+msgid "No"
+msgstr "Нет"
+
+msgid "\"The soul does not reside in a specific physical location."
+msgstr "\"У души нет конкретного физического места обитания."
+
+msgid "The torso must be dissected in its entirety in order for extraction to be successful.\""
+msgstr "Для успешного извлечения нужно целиком отделить торс.\""
+
+msgid "A broken container. Whatever was inside is long gone."
+msgstr "Сломанный контейнер. Что бы там ни было раньше, сейчас этого нет."
+
+msgid "A cage filled with bones."
+msgstr "Клетка, набитая костями."
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_counter_left.dlg.narrator"
+msgid "Medication bottles and small bones fill the countertop."
+msgstr "Сверху на полке располагаются медицинские пузырьки и мелкие кости."
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_counter_right.dlg.narrator"
+msgid "Medication bottles and small bones fill the countertop."
+msgstr "Сверху на полке располагаются медицинские пузырьки и мелкие кости."
+
+msgid "There's something in the drawer."
+msgstr "В выдвижном ящике что-то лежит."
+
+msgid "There's nothing else of use."
+msgstr "Здесь больше нет ничего полезного."
+
+msgid "There's a gate here, but it's locked."
+msgstr "Здесь стоят ворота, но они закрыты."
+
+msgid "Strange goop surrounds the well. It looks like it could come alive."
+msgstr "Колодец окружает страння жижа. Такое чувство, будто она может ожить."
+
+msgid "...Indeed, the expected outcome of a light switch."
+msgstr "...Действительно, чего ещё я ожидала от выключателя?"
+
+msgid "The lights aren't working right now."
+msgstr "Выключатель сейчас не работает."
+
+msgid "Let's not do that."
+msgstr "Давайте не будем этим заниматься."
+
+msgid "A closet for medical supplies."
+msgstr "Шкаф для медицинских принадлежностей."
+
+msgid "It's empty, save for some dirty rags."
+msgstr "За исключением грязных тряпок, в нём ничего нет."
+
+msgid "(It smells...really bad.)"
+msgstr "(Пахнет... очень плохо.)"
+
+msgid "An incubator of some sort. It's warm to the touch."
+msgstr "Наверное, это инкубатор. Он тёплый на ощупь."
+
+msgid "An incubator of some sort. It's broken and nothing's left inside."
+msgstr "Наверное, это инкубатор. Он сломан, а внутри ничего нет."
+
+msgid "A well."
+msgstr "Колодец."
+
+msgid "There's probably nothing else of use in there."
+msgstr "Наверное, в нём нет больше ничего необычного."
+
+msgid "Rotate the lever?"
+msgstr "Покрутить ручку?"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_well.choice.Rotate the lever?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Lab.misc_well.choice.Rotate the lever?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A whiteboard that has been mostly erased. Only a few sticky notes with strange symbols remain."
+msgstr "Белая доска, почти полностью стёртая. На ней приклеена лишь пара заметок со странным символом."
+
+msgid "Don't go out, it's still there."
+msgstr "Не выходи, он может быть ещё там."

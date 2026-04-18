@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The train schedule is posted here. It seems the train is currently out of service."
+msgstr "O horário do trem está publicado aqui. Parece que o trem está fora de serviço."
+
+msgid "I don't quite understand these locations..."
+msgstr "Não entendo muito bem esses locais..."
+
+msgid "...but it seems this train loops around a really large area."
+msgstr "...mas parece que este trem circula por uma área muito grande."
+
+msgid "A map of the train stops is posted here."
+msgstr "Um mapa das paradas do trem está postado aqui."
+
+msgid "The clock up there... makes no sense."
+msgstr "O relógio lá em cima... não faz sentido."
+
+msgid "A sign warning passengers not to jump onto the train tracks."
+msgstr "Uma placa alertando os passageiros para não pularem nos trilhos do trem."
+
+msgid "Nah, that ship has already sailed."
+msgstr "Não, esse navio já partiu."
+
+msgid "Or should I say... that train has left the station?"
+msgstr "Ou devo dizer... que o trem saiu da estação?"
+
+msgid "A \"missing person\" sign. The photo frame is empty."
+msgstr "Uma placa de \"pessoa desaparecida\". A moldura fotográfica está vazia."
+
+msgid "The sign pointing towards the [color=#8080FF]Daylight Gate[/color] has been restored to its former glory."
+msgstr "A placa que aponta para o [color=#8080FF]Portão do Amanhecer[/color] foi restaurada à sua antiga glória."
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "Esta placa diz [color=#8080FF]\"Portão do Amanhecer\"[/color]."
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "Ela está fixo no lugar, portanto não pode ser girado."
+
+msgid "A wooden post."
+msgstr "Um poste de madeira."
+
+msgid "Hm...? Wasn't there a sign here before...?"
+msgstr "Hum...? Não havia uma placa aqui antes...?"
+
+msgid "A wooden post. The sign is missing."
+msgstr "Um poste de madeira. A placa está faltando."
+
+msgid "A trash can. It's full of train tickets, pamphlets and such."
+msgstr "Uma lata de lixo. Está cheio de passagens de trem, panfletos e coisas assim."
+
+msgid "Sadly, the tickets seem to be used."
+msgstr "Infelizmente, os ingressos parecem ter sido usados."
+
+msgid "There's a coin, though."
+msgstr "Mas há uma moeda."
+
+msgid "A trash can."
+msgstr "Uma lata de lixo."
+
+msgid "It seems to be filled with non-burnable trash."
+msgstr "Parece estar cheio de lixo não incinerável."
+
+msgid "None of it is useful to you."
+msgstr "Nada disso é útil para você."
+
+msgid "A coin-operated vending machine. It's filled with normal-looking snacks."
+msgstr "Uma máquina de venda automática que funciona com moedas. Está cheio de lanches de aparência normal."
+
+msgid "Buy something?"
+msgstr "Compre algo?"
+
+msgid "Potato chips (1 coin)"
+msgstr "Batata frita (1 moeda)"
+
+msgid "Do not buy"
+msgstr "Não compre"
+
+msgid "You don't have enough coins..."
+msgstr "Você não tem moedas suficientes..."
+
+msgid "This... looks like a regular pack of chips."
+msgstr "Isto... parece um pacote normal de batatas fritas."
+
+msgid "Eat the ${item:ch1.forest_harmless_snack}?"
+msgstr "Comer a ${item:ch1.forest_harmless_snack}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "A large window. You can see an empty waiting room inside."
+msgstr "Uma grande janela. Você pode ver uma sala de espera vazia lá dentro."
+
+msgid "A large window. You can't see anything through it."
+msgstr "Uma grande janela. Você não consegue ver nada através dele."
+
+msgid "There's no need to go back down."
+msgstr "Não há necessidade de voltar para baixo."
+
+msgid "It's not a good idea to go down there."
+msgstr "Não é uma boa ideia ir até lá."
+
+msgid "Descend onto the train tracks?"
+msgstr "Descer para os trilhos do trem?"

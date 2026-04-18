@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The little girl is swaying slowly."
+msgstr "小さな少女がゆっくりと揺れている。"
+
+msgid "Hello."
+msgstr "こんにちは。"
+
+msgctxt "events.Ch1_Shop_Back.event_shadowgirl.dlg.shadowgirl"
+msgid "..."
+msgstr "……"
+
+msgid "Um.... What do you do here?"
+msgstr "その……ここは何の店なの？"
+
+msgctxt "events.Ch1_Shop_Back.event_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "……！"
+
+msgid "Is she... giving me something?"
+msgstr "こっちに……なにか差し出してる？"
+
+msgid "Oh... Thank you."
+msgstr "えっと……ありがとう。"
+
+msgid "I guess."
+msgstr "……で、いいんだよね。"
+
+msgctxt "events.Ch1_Shop_Back.item_bunny_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "……！"
+
+msgid "(The shadow girl happily takes the bunny off your hands.)"
+msgstr "(影の少女は嬉しそうにウサギを受け取った。)"
+
+msgctxt "events.Ch1_Shop_Back.item_caterpillar_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "……！"
+
+msgid "(The shadow girl lovingly takes the caterpillar from you.)"
+msgstr "(影の少女は愛しげにイモムシを受け取った。)"
+
+msgctxt "events.Ch1_Shop_Back.item_fireflies_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "……！"
+
+msgid "(The shadow girl happily accepts the fireflies.)"
+msgstr "(影の少女は嬉しそうにホタルを受け取った。)"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "……！"
+
+msgid "(The shadow girl takes the fragment and looks up at you.)"
+msgstr "(影の少女は欠片を受け取ると、顔を上げてこちらを見た。)"
+
+msgid "...? ...?"
+msgstr "……？　……？"
+
+msgid "Oh... I don't have any more pieces than that one..."
+msgstr "いや……それ以上は持ってないの……"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.shadowgirl"
+msgid "... ..."
+msgstr "……"
+
+msgid "(The shadow girl returns the fragment to you with a sad expression.)"
+msgstr "(影の少女は悲しそうに欠片をこちらに返した。)"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.narrator"
+msgid "(The shadow girl takes the fragments from you.)"
+msgstr "(影の少女は欠片を受け取った。)"
+
+msgid "(After a few seconds, she returns them to you.)"
+msgstr "(数秒後、こちらに返してきた。)"
+
+msgid "Oh... I'm still missing a piece, am I not...?"
+msgstr "あぁ……まだ欠片がひとつ足りないの……？"
+
+msgid "Sorry for bothering you."
+msgstr "手間をかけさせちゃってごめんね。"
+
+msgid "(With some effort, she fits them together and returns them to you.)"
+msgstr "(少し苦労しつつ、少女は欠片をつなぎ合わせてこちらに返してくれた。)"
+
+msgid "Thank you, I appreciate it."
+msgstr "ありがとう。"
+
+msgid "Various colorful liquids and drinks are stored on the shelf."
+msgstr "色とりどりの液体や飲み薬が棚に保管されている。"
+
+msgid "Some papers with opening hours and upcoming shop discounts."
+msgstr "営業時間や今後のセールに関する張り紙。"
+
+msgid "There's a... shadow of a girl sitting on the other side of the desk."
+msgstr "机の向こうには……少女の影が腰かけている。"
+
+msgid "She doesn't seem much for conversation."
+msgstr "あまり話し相手にはならなそうだ。"
+
+msgid "\"CLOSED. DO NOT ENTER\" is marked on the sign."
+msgstr "看板には「準備中。入らないでください」と書かれている。"
+
+msgid "The door is locked."
+msgstr "扉には鍵がかかっている。"

@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Remove the red string?"
+msgstr "Kırmızı ipi kaldır?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.event_remove_ribbon.choice.Remove the red string?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.event_remove_ribbon.choice.Remove the red string?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "This is the cable I need to tie a red string to."
+msgstr "Kırmızı ipi bağlamam gereken kablo bu."
+
+msgid "This is the cable you should tie a red string to."
+msgstr "Kırmzı ipi bağlaman gereken kablo bu."
+
+msgid "Some bird food."
+msgstr "Biraz kuş yemi."
+
+msgid "Take ${item:ch1.bird_food}?"
+msgstr "${item:ch1.bird_food} alacak mısın?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.item_birdfood_get.choice.Take ${item:ch1.bird_food}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.item_birdfood_get.choice.Take ${item:ch1.bird_food}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Is a bunny rabbit knot fine...?"
+msgstr "Bir tavşan düğümü iyi mi...?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_counter.dlg.narrator"
+msgid "Nothing of interest."
+msgstr "İlginç birşey yok."
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_counter_2.dlg.narrator"
+msgid "Nothing of interest."
+msgstr "İlginç birşey yok."
+
+msgid "Drawers filled with miscellaneous items unfit for a kitchen."
+msgstr "Çekmeceler mutfağa uygun olmayan çeşitli eşyalarla dolu."
+
+msgid "A landline phone."
+msgstr "Bir sabit hat telefonu."
+
+msgid "Dial a number?"
+msgstr "Bir numara tuşla?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_cupboard2.choice.Dial a number?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_cupboard2.choice.Dial a number?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A red string can be seen hanging from its cord."
+msgstr "Kordondan kırmızı bir ipin sarktığı görülüyor."
+
+msgid "The phone is ringing. Pick up?"
+msgstr "Telefon çalıyor. Telefonu aç?"
+
+msgid "Pick up the phone"
+msgstr "Telefonu aç"
+
+msgid "Ignore it"
+msgstr "Görmezden gel"
+
+msgid "Looks like I just missed it..."
+msgstr "Sanırım onu az önce kaçırdım..."
+
+msgid "A large cupboard. There's nothing inside."
+msgstr "Büyük bir dolap. İçeride hiçbir şey yok."
+
+msgid "A rice cooker."
+msgstr "Bir pirinç pişirici."
+
+msgid "Various kitchen tools are stored in the drawers underneath."
+msgstr "Altındaki çekmecelerde çeşitli mutfak aletleri saklanır."
+
+msgid "Cutlery is stored in this drawer."
+msgstr "Çatal bıçak takımı bu çekmecede saklanır."
+
+msgid "Checking the contents of the fridge calms you down."
+msgstr "Buzdolabnının içindekileri kontrol etmek sizi sakinleştirir."
+
+msgid "Do you want to have the leftovers mother left for you?"
+msgstr "Annenin sana bıraktığı artıkları almak istiyor musun?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_fridge.choice.Do you want to have the leftovers mother left for you?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_fridge.choice.Do you want to have the leftovers mother left for you?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "...for a last meal, it kind of sucked."
+msgstr "...son yemek için biraz berbattı"
+
+msgid "Nothing new has materialized since the last time you checked."
+msgstr "Son kontrol ettiğinden beri pek bir gelişme olmadı."
+
+msgid "There's no time for snacks right now."
+msgstr "Şuan atıştırmalıklar için zaman yok."
+
+msgid "A bowl full of fresh fruit."
+msgstr "Taze meyvelerle dolu bir kase."
+
+msgid "The microwave emanates an aura of familiarity."
+msgstr "Mikrodalga bir tanıdıklık havası yayıyor."
+
+msgid "A microwave oven."
+msgstr "Bir mikrodalga fırın."
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.dlg.narrator"
+msgid "A note from your mother."
+msgstr "Annenden bir not."
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice"
+msgid "Read it?"
+msgstr "Okuyacak mısın?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice.Read it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice.Read it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "\"Your dad and I will be back on Monday."
+msgstr "\"baban ve ben pazartesi döneceğiz."
+
+msgid "There's food in the fridge, make sure to heat it up."
+msgstr "Buzdolabında yemek var,ısıttığından emin ol."
+
+msgid "Call us at (195)-224#1 if there's any problem."
+msgstr "Bizi (195)-224#1 numarasından bir sorun olursa ara"
+
+msgid "- Mom\""
+msgstr "― Anne\""
+
+msgid "The letter is gone."
+msgstr "Mektup gitmiş."
+
+msgid "Didyousee?Didyouseeit?Yousawit.Youpretendedyoudidnt.Yousawit.Didyoupretend?Whydidyoupretend?Yousawallofit."
+msgstr "Onugördünmü?Onugördünmü?Onugördün.Onugörmemişgibidavrandın.Onugördün.Nedendavrandın.Herşeyigördün."
+
+msgid "Butyouforgotsomething.Doyouknowwhatyouforgot?Youforgotsomethingthere.Backthen.Don'tworry.Itookcareofit.Shetookcareofit.Shetakescareofiteverytime."
+msgstr "Amabirşeyiunuttun.Neyiunuttuğunubiliyormusun?Oradabirşeyunuttun.Geçmişte.Endişelenme.Onunçaresinebaktım.Onunlailgilendi.Oherseferindeilgileniyor."
+
+msgid "A note from someone."
+msgstr "birinden bir not"
+
+msgid "\"_____ Ritual. What you'll need: Candles, a knife, a chunk of meat, a hiding place, an accomplice, a victim..."
+msgstr "\" ____ Ritüeli. İhtiyacın olacaklar: Mumlar, bıçak, bir parça et, bir saklanma yeri, bir suç ortağı, bir kurban..."
+
+msgid "Wait... was that really how it went?\""
+msgstr "Bir dakika... gerçekten de böyle mi oldu?\""
+
+msgid "The oven. You hardly ever use it."
+msgstr "Fırın. Onu neredeyse hiç kullanmıyorsun."
+
+msgid "A tall, green plant."
+msgstr "Uzun. yeşil bir bitki."
+
+msgid "A very clean sink."
+msgstr "Gerçekten temiz bir lavabo."
+
+msgid "Turn on the tap?"
+msgstr "Musluğu aç?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn on the tap?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn on the tap?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Turn off the tap?"
+msgstr "Musluğu kapat?"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn off the tap?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn off the tap?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A dining table. You sometimes eat here."
+msgstr "Bir yemek masası. Bazen burada yemek yiyorsun."
+
+msgid "A toaster."
+msgstr "Bir tost makinesi."
+
+msgid "A trash can with nothing but the memory of bad kitchen smells."
+msgstr "Kötü mutfak kokularının hatırasından başka hiçbir şeyi olmayan bir çöp kutusu."

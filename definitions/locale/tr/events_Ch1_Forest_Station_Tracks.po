@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It doesn't seem to be doing anything."
+msgstr "Bir şey yapıyor gibi durmuyor."
+
+msgid "The other tickets contain the same image."
+msgstr "Diğer biletler de aynı resime sahip."
+
+msgid "You take a number from the ticket dispenser."
+msgstr "Bilet makinesinden bir numara aldın."
+
+msgid "A potted plant sits dangerously in the middle of the tracks."
+msgstr "Saksıdaki bir bitki rayların ortasında tehlikeli bir şekilde duruyor."
+
+msgid "The tracks end here."
+msgstr "Yol burada sona eriyor."
+
+msgid "I'm not giving up just yet... I know I can solve this."
+msgstr "Henüz pes etmiyorum... Bunu çözebileceğimi biliyorum."
+
+msgid "The tickets from the dispenser probably contain a hint."
+msgstr "Muhtemelen makinedeki biletler bir ipucu barındırıyor."

@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Oh... I know where this is)."
+msgstr "(О… знам къде е това)."
+
+msgid "This must be under that weird fella's house."
+msgstr "Това трябва да е под къщата на онзи странен човек."
+
+msgid "You know, the sculptor?"
+msgstr "Знаете ли, скулпторът?"
+
+msgid "Yeah."
+msgstr "Мда."
+
+msgid "I think artists are really impressive!"
+msgstr "Мисля, че художниците са наистина впечатляващи!"
+
+msgid "(What's this..?)"
+msgstr "(Какво е това..?)"
+
+msgid "..."
+msgstr "…"
+
+msgid "Not really."
+msgstr "Не съвсем."
+
+msgid "Oh, it's a cranky old artist."
+msgstr "О, това е стар, раздразнителен художник."
+
+msgid "I've never spoken to him because he's in a bad mood when he's tired."
+msgstr "Никога не съм разговаряла с него, защото е в лошо настроение, когато е уморен."
+
+msgid "...And he's almost always tired."
+msgstr "…А той винаги е в лошо настроение."
+
+msgid "But I think artists are really impressive!"
+msgstr "Но смятам че художниците са наистина впечатляващи!"
+
+msgid "Sculpting is really hard..."
+msgstr "Скулптирането е наистина трудно…"
+
+msgid "Especially hands..."
+msgstr "Особено ръцете…"
+
+msgid "I can't seem to get my hands right..."
+msgstr "Не успявам да си нагодя ръцете…"
+
+msgid "(Oh, that explains...)"
+msgstr "(Оу, това обяснява…)"
+
+msgid "(Huh... the path is open now.)"
+msgstr "(Ха… пътят вече е отворен.)"
+
+msgid "We need to walk slowly... and uh... keep an eye out."
+msgstr "Необходимо е да вървим бавно… и ъм… да бъдем нащрек."
+
+msgid "Keep an eye out for what?"
+msgstr "Да бъдем нащрек за какво?"
+
+msgid "For... fairies."
+msgstr "За… феите."
+
+msgid "Don't you know what this place is!?"
+msgstr "Не знаеш ли що за място е това!?"
+
+msgid "Lacie, don't you know what this place is!?"
+msgstr "Лейси, не знаеш ли що за място е това!?"
+
+msgid "...No, not really."
+msgstr "…Не, не особено."
+
+msgid "...!"
+msgstr "…!"
+
+msgid "This is the inside of a fairy ring!"
+msgstr "Това е вътрешността на фееричен пръстен!"
+
+msgid "Lacie, this is the inside of a fairy ring!"
+msgstr "Лейси, това е вътрешността на фееричен пръстен!"
+
+msgid "Um..."
+msgstr "Ъм…"
+
+msgid "...The mushroom circle from outside?"
+msgstr "…Кръгът от гъби отвън?"
+
+msgid "Yep. That's a fairy ring."
+msgstr "М - да. Това е феерически пръстен."
+
+msgid "So this place is..."
+msgstr "Значи това място е…"
+
+msgid "Underneath that circle?"
+msgstr "Под кръга?"
+
+msgid "Oh."
+msgstr "Оу."
+
+msgid "Can you tell me more?"
+msgstr "Можеш ли да ми кажеш още?"
+
+msgid "Let's see... I only know the things everyone talks about."
+msgstr "Да видим… знам само нещата, за които всички говорят."
+
+msgid "For one, fairies live in fairy rings, and they're really nasty."
+msgstr "От една страна, феите живеят във феерични пръстени, а те са наистина гадни."
+
+msgid "(Fairies...)"
+msgstr "(Феите…)"
+
+msgid "They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!"
+msgstr "Изглеждат ужасно, имат яйцевидна глава, която е отделена от тялото, бели са и имат големи зъби! А някои нямат очи!"
+
+msgid "But even without the fairies, winding up inside of a fairy ring is..."
+msgstr "Но дори и без феите, да се озовеш в приказен пръстен на феи е…"
+
+msgid "Well, they say you get stuck here for 7 years."
+msgstr "Е, казват, че се задържаш тук за 7 години."
+
+msgid "But nobody has ever escaped because they usually just die before that."
+msgstr "Но до този ден, никой не се е измъкнал, тъй като обичайно умират преди това."
+
+msgid "Oh god this is horrible, we're not gonna escape!"
+msgstr "О, Боже, това е ужасно, няма да избягаме!"
+
+msgid "Even if we somehow make it 7 years, that's only a myth!"
+msgstr "Дори и да успеем да изкараме 7 години, това е само мит!"
+
+msgid "Maybe it's meant to instill hope in the poor souls that end up here!"
+msgstr "Може би това има за цел да вдъхне надежда на бедните души, които попаднат тук!"
+
+msgid "LIKE US! THIS IS A DEAD END!!!"
+msgstr "КАТО НАС! ТОВА Е ЗАДЪНЕНА УЛИЦА!!!"
+
+msgid "Aoi."
+msgstr "Аой."
+
+msgid "...?"
+msgstr "…?"
+
+msgid "Cut it off."
+msgstr "Престани."
+
+msgid "Sorry."
+msgstr "Извинявай."
+
+msgid "Are the fairies dangerous?"
+msgstr "Феите — опасни ли са?"
+
+msgid "Yeah..."
+msgstr "(Мм да.)"
+
+msgid "...But everything is dangerous."
+msgstr "…Но всичко е опасно."
+
+msgid "The floor here is also slowly digesting us."
+msgstr "Подът тук също бавно ни храносмила."
+
+msgid "I guess you don't feel it because you have shoes, hehe..."
+msgstr "Вероятно не го усещаш, тъй като имаш обувки, хехе…"
+
+msgid "I only have socks, so it's already eating away at them..."
+msgstr "Аз имам само чорапи, и следователно вече ги изяждат бавно…"
+
+msgid "(Should I offer Aoi my shoes?)"
+msgstr "(Да предложа ли на Аой обувките си?)"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Would you like my shoes?"
+msgstr "Искаш ли обувките ми?"
+
+msgid "Whaaat? You're offering me your own shoes?!?"
+msgstr "Кааакво? Предлагаш ми своите собствени обувки?!?"
+
+msgid "That's so nice of you!"
+msgstr "Това е толкова мило от твоя страна!"
+
+msgid "That's so nice, Lacie!"
+msgstr "Това е толкова мило, Лейси!"
+
+msgid "But no, I'll be alright. I'll just remake my feet if they start being unusable."
+msgstr "Но не, ще се оправя. Просто ще направя краката си наново, ако започнат да са неизползваеми."
+
+msgid "It just burns but that's okay, I'm used to burns."
+msgstr "Просто изгаря, но това е нормално, свикнала съм с изгарянията."
+
+msgid "...I'm used to burns..."
+msgstr "…свикнала съм с изгарянията…"
+
+msgid "Um... okay."
+msgstr "Ъм… добре."
+
+msgid "(Best not...)"
+msgstr "(По-добре не…)"
+
+msgid "(Who knows what this floor will do to my feet...)"
+msgstr "(Кой знае какво ще направи този под с краката ми…)"
+
+msgid "(This person is not human, so they will probably be fine.)"
+msgstr "(Този субект не е човек, така че вероятно ще се справи.)"
+
+msgid "A large skeleton of an unknown creature."
+msgstr "Голям скелет на неизвестно същество."
+
+msgid "Hm...?"
+msgstr "Хм…?"
+
+msgid "What died here...?"
+msgstr "Какво е умряло тук…?"
+
+msgid "Something big!"
+msgstr "Нещо голямо!"
+
+msgid "Oh!"
+msgstr "Оу!"
+
+msgid "A dragon!"
+msgstr "Дракон!"
+
+msgid "(A dragon...!?)"
+msgstr "(Дракон…!?)"
+
+msgid "Was I right?!"
+msgstr "Бях ли права?!"
+
+msgid "Huh? How should I know?"
+msgstr "Хм? Аз как да знам?"
+
+msgid "Aw..."
+msgstr "Ау…"
+
+msgid "A large skeleton of a dragon."
+msgstr "Огромен скелет на дракон."
+
+msgid "(Do dragons really exist in this place...?)"
+msgstr "(Нима драконите наистина съществуват на това място…?)"
+
+msgid "Isn't it so cool that humans have dragons in their world?"
+msgstr "Не е ли толкова готино, че хората имат дракони в своя свят?"
+
+msgid "I'd like dragons here too."
+msgstr "Бих искал и аз да имам дракони тук."
+
+msgid "(Never mind.)"
+msgstr "(Няма значение.)"
+
+msgid "A large skeleton of something other than a dragon."
+msgstr "Голям скелет на нещо различно от дракон."
+
+msgid "We sure are walking a lot."
+msgstr "Със сигурност ходим много."
+
+msgid "My feet don't hurt, or anything. Don't worry!"
+msgstr "Краката ми не ме болят, или друго подобно. Не се бой!"
+
+msgid "I bet there's no way out..."
+msgstr "Обзалагам се че няма никакъв път навън…"
+
+msgid "Hmm..."
+msgstr "Хмм…"
+
+msgid "There's always a way."
+msgstr "Винаги има начин."
+
+msgid "(Right...?)"
+msgstr "(Нали…?)"
+
+msgid "Whoa."
+msgstr "Еха."
+
+msgid "I like that!"
+msgstr "Това ми харесва!"
+
+msgid "The path ends here."
+msgstr "Пътят свършва тук."
+
+msgid "Huh...? Is there really nowhere to go from here...?"
+msgstr "Ааа…? Наистина ли няма накъде да се върви оттук…?"
+
+msgid "A large bone."
+msgstr "Голяма кост."
+
+msgid "A broken street lamp."
+msgstr "Счупена улична лампа."
+
+msgid "Blue mushrooms are lining the floor."
+msgstr "Сините гъби лежат на пода."
+
+msgid "A bunch of rubble."
+msgstr "Купчина отломки."
+
+msgid "A piece of a sculpture."
+msgstr "Парче от скулптура."
+
+msgid "A strangely-shaped pot."
+msgstr "Странно оформена саксия."
+
+msgid "There's a large hole on the floor."
+msgstr "На пода има огромна дупка."
+
+msgid "(It's deep... and dark.)"
+msgstr "(Тя е дълбока... и тъмна.)"
+
+msgid "It doesn't seem very smart to try going down there."
+msgstr "Не изглежда много умно да се опитваме да слизаме там."
+
+msgid "I feel like there has to be a better option than going down this hole..."
+msgstr "Струва ми се, че трябва да има по-добър вариант, отколкото да се спусна в тази дупка…"
+
+msgid "(We checked everywhere else but...)"
+msgstr "(Проверихме навсякъде, но…)"
+
+msgid "(If I go down there... it will be impossible to come back up...)"
+msgstr "(Ако сляза там… ще е невъзможно да се върна обратно…)"
+
+msgid "Go down the hole?"
+msgstr "Спуснете се в дупката?"
+
+msgid "...Sigh, here we go."
+msgstr "…Въздишка, и потегляме."
+
+msgid "Wanna turn back?"
+msgstr "Искате ли да се върнете обратно?"
+
+msgid "There's nowhere else to go, so we might as well explore whatever's down there."
+msgstr "Няма къде другаде да отидем, така че можем да изследваме всичко, което се намира там долу."
+
+msgid "Okay."
+msgstr "Добре."
+
+msgid "Going deeper down to find an exit... this isn't very smart, is it?"
+msgstr "Да се спуснеш по-надълбоко, за да намериш изход… това не е много умно, нали?"

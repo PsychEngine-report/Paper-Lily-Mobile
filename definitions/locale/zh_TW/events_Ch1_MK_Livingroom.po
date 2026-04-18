@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "這個幻象現在應該破滅了，不是嗎？"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "真可惜，我開始喜歡這個地方了。"
+
+msgid "..."
+msgstr "..."
+
+msgid "That's probably not good..."
+msgstr "這恐怕不太好..."
+
+msgid "Did you see that? The painting opened its eyes!"
+msgstr "看到了嗎？那幅畫睜開了眼睛！"
+
+msgid "Um... did you burn the things in the right order?"
+msgstr "嗯...你燒東西的順序正確嗎？"
+
+msgid "I... think... so?"
+msgstr "我...想...沒錯？"
+
+msgid "Did I do something wrong...?"
+msgstr "我做錯什麼了嗎...？"
+
+msgid "Was the illusion supposed to LITERALLY break apart?"
+msgstr "幻象應該跟*字面上*的意思一樣破滅嗎？"
+
+msgid "I don't know...!"
+msgstr "我不知道...！"
+
+msgid "Maybe we should leave..."
+msgstr "也許我們該離開..."
+
+msgid "Oh crap, the doors are gone!"
+msgstr "喔不，門不見了！"
+
+msgid "What do I do...? I need to get out of here!"
+msgstr "我要做什麼...？我需要逃離這裡！"
+
+msgid "Hey, be careful."
+msgstr "嘿，小心點 。"
+
+msgid "....."
+msgstr "....."
+
+msgid "(My foot... it hurts...!)"
+msgstr "(我的腳...好痛...！)"
+
+msgid "(Where are we...?)"
+msgstr "(我們在哪...？)"
+
+msgid "We need to find a way out..."
+msgstr "我們必須想辦法離開..."
+
+msgid "Yeahh.... WELL..."
+msgstr "是啊...那個..."
+
+msgid "About that..."
+msgstr "關於這點..."
+
+msgid "I..."
+msgstr "我..."
+
+msgid "...might have landed on something hard."
+msgstr "...可能落在了堅硬的東西上了。"
+
+msgid "Doesn't look great."
+msgstr "感覺不太妙。"
+
+msgid "...W-what do we do...?"
+msgstr "...我-我們該怎麼做...？"
+
+msgid "If you can still move, go on ahead."
+msgstr "如果妳還可以移動，那就快走吧。"
+
+msgid "I need a moment."
+msgstr "我需要一點時間。"
+
+msgid "O-okay..."
+msgstr "好-好吧..."
+
+msgid "Uh... hey..."
+msgstr "呃...嘿..."
+
+msgid "You'll uh.... You'll come back, right?"
+msgstr "妳會...妳會回來，對吧？"
+
+msgid "Yes."
+msgstr "會。"
+
+msgid "Thanks."
+msgstr "謝了。"
+
+msgid "(Where am I...?)"
+msgstr "(我在哪裡...？)"
+
+msgid "I need to find a way out..."
+msgstr "我需要想辦法離開..."
+
+msgid "This item is yet to be unsealed."
+msgstr "這個物品還沒被解除封印。"
+
+msgid "The fire needs to be lit first."
+msgstr "需要先點燃火焰。"
+
+msgid "Light the fireplace?"
+msgstr "點燃火爐嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "I don't have all 5 items ready to burn yet..."
+msgstr "我還沒準備好全部 5 個物品來燃燒..."
+
+msgid "If I light this on, I'll just lure that lady here for no reason."
+msgstr "如果我點燃了這個，只會引來那女士。"
+
+msgid "(What should I burn first?)"
+msgstr "(我應該先燒什麼？)"
+
+msgid "The knife"
+msgstr "刀子"
+
+msgid "The foot"
+msgstr "腳"
+
+msgid "The sketchbook"
+msgstr "素描本"
+
+msgid "The mirror"
+msgstr "鏡子"
+
+msgid "The cold compress"
+msgstr "冷敷"
+
+msgid "(What should I burn next?)"
+msgstr "(接下來該燒什麼？)"
+
+msgid "And finally... the knife."
+msgstr "最後...刀子。"
+
+msgid "And finally... the foot."
+msgstr "最後...腳。"
+
+msgid "And finally... the sketchbook."
+msgstr "最後...素描本。"
+
+msgid "And finally... the mirror."
+msgstr "最後...鏡子。"
+
+msgid "And finally... the cold compress."
+msgstr "最後...冷敷。"
+
+msgid "Take ${item:ch1.lockpick}?"
+msgstr "拿走 ${item:ch1.lockpick} 嗎？"
+
+msgid "You pour some liquid onto the rag..."
+msgstr "妳倒了一些液體在布上..."
+
+msgid "It's already wet enough."
+msgstr "已經夠濕了。"
+
+msgid "\"Alcohol tastes just like water.\""
+msgstr "\"酒精嚐起來像水。\""
+
+msgid "\"Thank you.\""
+msgstr "\"謝謝妳。\""
+
+msgid "(You watered the plant.)"
+msgstr "(妳給植物澆了水。)"
+
+msgid "(You pour water into the empty pot...)"
+msgstr "(妳倒了一些水在空花盆裡...)"
+
+msgid "(...but nothing happens.)"
+msgstr "(...但是什麼事也沒發生。)"
+
+msgid "Various useless trinkets are displayed on these shelves."
+msgstr "各種沒用的飾品展示在這些架子上。"
+
+msgid "A teapot, full of some liquid. Seems to be water."
+msgstr "茶壺，裝滿了某種液體。看起來像是水。"
+
+msgid "I could use this..."
+msgstr "我可以用到它..."
+
+msgid "Bring water to the plant?"
+msgstr "把水拿給植物嗎？"
+
+msgid "A fireplace."
+msgstr "火爐。"
+
+msgid "There's no fire, so it's just... a place."
+msgstr "沒有火(fire)，只是個...地方(place)。"
+
+msgid "Haha, good one!"
+msgstr "哈哈，說得好！"
+
+msgid "A place."
+msgstr "一個地方。"
+
+msgid "An old gramophone."
+msgstr "舊留聲機。"
+
+msgid "What to do?"
+msgstr "該做什麼？"
+
+msgid "Play music"
+msgstr "播放音樂"
+
+msgid "Stop the music"
+msgstr "停止音樂"
+
+msgid "Do nothing"
+msgstr "什麼也不做"
+
+msgid "A floor lamp."
+msgstr "一盞落地燈。"
+
+msgid "A rotary phone."
+msgstr "轉盤式電話。"
+
+msgid "It's old... but there's a certain charm to it."
+msgstr "很舊...但是有種魅力。"
+
+msgid "There's no dial tone."
+msgstr "沒有撥號音。"
+
+msgid "A tall plant."
+msgstr "高大的植物。"
+
+msgid "A tall, pretty plant."
+msgstr "高大、漂亮的植物。"
+
+msgid "An empty flower vase."
+msgstr "空的花瓶。"
+
+msgid "Purple flowers in a vase."
+msgstr "紫色花朵在花瓶裡。"
+
+msgid "I could use these flowers..."
+msgstr "我可以用到這些花朵..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "把花朵拿給植物嗎？"
+
+msgid "It's dead."
+msgstr "它死了。"
+
+msgid "A plant with a tag attached. It says:"
+msgstr "有著標籤的植物。寫著："
+
+msgid "\"It was good while it lasted.\""
+msgstr "\"至少剛剛還不錯。\""
+
+msgid "\"Requires medium light."
+msgstr "\"需要適當的光線。"
+
+msgid "For enrichment, provide music.\""
+msgstr "要提升品質的話，提供音樂。\""
+
+msgid "\"Requires dim light."
+msgstr "\"需要黯淡光線。"
+
+msgid "Feed it once a day to avoid irritability. Appropriate diet includes meat of various kinds.\""
+msgstr "每天餵食一次以避免發怒。適當的飲食包含了各種肉類。\""
+
+msgid "\"Requires medium light. Provide alcohol twice daily to keep its leaves moist."
+msgstr "\"需要適當光線。每天提供兩次酒精以保持葉子濕潤。"
+
+msgid "Water is a valid substitute, as it can't tell the difference.\""
+msgstr "水是有效的替代品，因為它分辨不出來。\""
+
+msgid "The pot has been destroyed."
+msgstr "花盆被摧毀了。"
+
+msgid "An empty pot."
+msgstr "空花盆。"
+
+msgid "For enrichment, give it a flower crown once a month.\""
+msgstr "要提升品質的話，每個月給它一次花冠。\""
+
+msgid "A warning sign."
+msgstr "警告牌。"
+
+msgid "It doesn't say what the warning is for."
+msgstr "沒寫在警告什麼。"

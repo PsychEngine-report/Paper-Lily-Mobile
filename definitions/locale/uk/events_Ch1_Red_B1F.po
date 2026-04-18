@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "..."
+
+msgid "The code was incorrect."
+msgstr "Код неправильний."
+
+msgid "The door opens!"
+msgstr "Двері відчинилися!"
+
+msgid "Now that I think about it, this is a strange location for such a large mirror."
+msgstr "Я тут подумала... таке велике дзеркало тут точно зайве."
+
+msgid "Maybe there's something behind it?"
+msgstr "Може, за ним щось є?"
+
+msgid "Kick the mirror?"
+msgstr "Вдарити дзеркало ногою?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "A door... and a keypad... for a code, I think."
+msgstr "Двері... з кодовим замком."
+
+msgid "Is it the door behind the mirror?"
+msgstr "Двері за дзеркалом?"
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Може, є кращий спосіб?)"
+
+msgid "Here you go."
+msgstr "Тримай."
+
+msgid "...Huh. Thanks."
+msgstr "...Дякую."
+
+msgid "I'm not carrying this thing around..."
+msgstr "Я не буду з цим вештатись..."
+
+msgid "Pssst."
+msgstr "Пс-с."
+
+msgid "Hey girlie."
+msgstr "Агов, крихітко."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Been a while since I've seen anybody come down here."
+msgstr "Давно мене вже ніхто не навідував."
+
+msgid "Even that smug asshole hasn't been around."
+msgstr "Навіть того пихатого покидька не видно."
+
+msgid "Who do you mean?"
+msgstr "Про кого йде мова?"
+
+msgid "You know who I mean, or you wouldn't be snooping around here, would ya?"
+msgstr "Ти прекрасно знаєш, інакше б не ходила тут як у себе вдома, вірно?"
+
+msgid "...Red?"
+msgstr "...Ред?"
+
+msgid "Ding ding diiiing!"
+msgstr "Отакої, вгадала!"
+
+msgid "Did Red lock you in here?"
+msgstr "Ред тебе тут закрив?"
+
+msgid "Correct."
+msgstr "Вірно."
+
+msgid "Why?"
+msgstr "Чому?"
+
+msgid "My, aren't you asking lots of questions..."
+msgstr "Забагацько ти питань мені ставиш..."
+
+msgid "Maybe I'll tell you if you come a bit closer."
+msgstr "Підійди-но трохи ближче, а там, бач, і скажу."
+
+msgid "Get closer?"
+msgstr "Підійти ближче?"
+
+msgid "Aww... What a shame."
+msgstr "Ой... як прикро."
+
+msgid "No more chit chat then."
+msgstr "Тоді не потеревенимо."
+
+msgid "(Better safe than sorry.)"
+msgstr "(Хай краще так, аніж потім шкодувати.)"
+
+msgid "That's the spirit."
+msgstr "Оце я розумію."
+
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "Ред мене тут закрив, бо я іноді чиню нехороші речі."
+
+msgid "I'm the only one who can cast curses."
+msgstr "Я один-єдиний вмію накладати прокляття."
+
+msgid "Curses...?"
+msgstr "Прокляття?.."
+
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "Тільки ти? Тоді це ти винен у моєму проклятті?"
+
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "От якби ти підійшла ближче, може, я б і сказав."
+
+msgid "Welcome back, what is it you wanted to know again?"
+msgstr "З поверненням. Що ти там хотіла дізнатись?"
+
+msgid "Why are you locked up?"
+msgstr "Чому тебе тут закрили?"
+
+msgid "I have a feeling you'll just try to kill me."
+msgstr "Мені здається, ти просто спробуєш мене вбити."
+
+msgid "Hahahaha!"
+msgstr "Ха-ха-ха-ха!"
+
+msgid "Fine then, I'll humor you this time."
+msgstr "Ну добре, цього разу втішу тебе."
+
+msgid "I didn't curse you."
+msgstr "Я тебе не проклинав."
+
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "А хто тоді? Ти ж сам сказав, що ніхто крім тебе не може накласти прокляття."
+
+msgid "...and live."
+msgstr "...і вижити."
+
+msgid "Look girlie, I hate doing shit for free."
+msgstr "Слухай, крихітко, от ненавиджу я даром працювати."
+
+msgid "Yep. It's a shortcut."
+msgstr "Так, це короткий шлях."
+
+msgid "It needs a code."
+msgstr "Але потрібен код."
+
+msgid "I can give it to you, provided you do one more thing for me."
+msgstr "Можу підказати, якщо ти дещо для мене зробиш."
+
+msgid "How do I know it's actually a shortcut?"
+msgstr "Звідки я можу знати, що це й справді короткий шлях?"
+
+msgid "You don't. You'll just have to trust me."
+msgstr "А от нізвідки. Доведеться мені довіритись."
+
+msgid "Sounds like a bad choice."
+msgstr "Звучить як дурна думка."
+
+msgid "Your call, girlie."
+msgstr "Як знаєш, крихітко."
+
+msgid "If you bring me a blue light, I'll give you the code."
+msgstr "Принесеш мені синє світло, а я тобі скажу код."
+
+msgid "A blue light?"
+msgstr "Синє світло?"
+
+msgid "Correct. A blue light. Not green, not red, certainly not white. A blue light."
+msgstr "Вірно. Синє світло. Не зелене, не червоне та аж ніяк не біле. Синє світло."
+
+msgid "I have this blue candle, does it count?"
+msgstr "У мене є ось така синя свічка, вона підходить?"
+
+msgid "I'll be damned, you already have it?"
+msgstr "Щоб мене чорти вхопили, уже знайшла?"
+
+msgid "Then give it to me, unless you don't want the code."
+msgstr "Тоді давай сюди, а то не скажу код."
+
+msgid "Where am I going to find that?"
+msgstr "І де я його тобі знайду?"
+
+msgid "Don't know. I think I saw a candle-looking guy selling some a while back."
+msgstr "Гадки не маю. Я нещодавно бачив одного хлопця, який схожий на свічку. Він світло й продавав."
+
+msgid "Hey wait wait!"
+msgstr "Чекай-чекай-чекай!"
+
+msgid "Won't you do something for me? Pretty please little girl?"
+msgstr "Не зробиш для мене дещо? Благаю тебе, дівчинонько моя."
+
+msgid "No thank you."
+msgstr "Ні, дякую."
+
+msgid "Come oooonnn, I've been stuck here for years, help me out!"
+msgstr "Ой, облиш! Я тут вже цілу вічність сиджу, ну допоможи!"
+
+msgid "Tch."
+msgstr "Тц."
+
+msgid "When I get out of here..."
+msgstr "Коли я звідси звільнюсь..."
+
+msgid "I'll make you suffer."
+msgstr "Я покажу тобі, що значить страждати."
+
+msgid "It's a promise."
+msgstr "Обіцяю."
+
+msgid "You do something I ask, and I'll answer one of your questions. Yeah?"
+msgstr "Зробиш для мене дещо, а я відповім на одне твоє питання. Як тобі?"
+
+msgid "You want me to open your cage?"
+msgstr "Ти хочеш, щоб я відкрила твою клітку?"
+
+msgid "Hahahaha as if you could! You severely overestimate yourself, kid."
+msgstr "Ха-ха-ха-ха-ха! Ну-ну! Ти себе переоцінюєш, малявко."
+
+msgid "No, this is something you can actually do."
+msgstr "Ні, моє прохання буде тобі по зубах."
+
+msgid "I can't see it from here, but somewhere in this room there should be a jar of slugs."
+msgstr "Звідси мені нічого не видно, але десь у цій кімнаті має бути банка зі слимаками."
+
+msgid "Slugs?"
+msgstr "Слимаками?"
+
+msgid "Yeah. Large, slimy, gross? You know."
+msgstr "Так. Такі здорові, слизькі, огидні. Сама розумієш."
+
+msgid "Bring it to me and we can continue this conversation."
+msgstr "Принеси їх мені і розмова продовжиться."
+
+msgid "I won't be coming anywhere close to you."
+msgstr "Я до тебе близько не підійду."
+
+msgid "Fair."
+msgstr "Справедливо."
+
+msgid "Throw it to me from where you're standing right now then, if you're such a scaredy cat."
+msgstr "Якщо ти така перелякана, можеш жбурнути їх мені звідки стоїш."
+
+msgid "...!"
+msgstr "!.."
+
+msgid "You tricked me."
+msgstr "Ти мене обдурив."
+
+msgid "Not exactly."
+msgstr "Неправда."
+
+msgid "Just tell me. Did you curse me?"
+msgstr "Скажи як є. Це ти мене прокляв?"
+
+msgid "I did not."
+msgstr "Не я."
+
+msgid "Look girlie, you get the drift."
+msgstr "Слухай, крихітко, ти все розумієш."
+
+msgid "Amazing..."
+msgstr "Неймовірно..."
+
+msgid "I haven't seen a light in years..."
+msgstr "Я так давно не бачив світло..."
+
+msgid "So bright..."
+msgstr "Таке яскраве..."
+
+msgid "So warm..."
+msgstr "Таке тепле..."
+
+msgid "*Ahem*"
+msgstr "*Кхе-кхе*"
+
+msgid "Yeah yeah, thanks girlie."
+msgstr "Так, точно. Дякую, крихітко."
+
+msgid "You really did me a solid here."
+msgstr "Ти мені сильно допомогла."
+
+msgid "I'll remember this."
+msgstr "Я цього не забуду."
+
+msgid "Thanks."
+msgstr "Дякую."
+
+msgid "What's your name?"
+msgstr "Як тебе звати?"
+
+msgid "There's no need to get buddy-buddy. You won't be alive for long enough for us to meet again."
+msgstr "Не треба зі мною брататися. Ти не доживеш до нашої наступної зустрічі."
+
+msgid "...But if we do, I'll make sure to introduce myself properly."
+msgstr "...Та якщо доживеш, тоді я представлюсь як треба."
+
+msgid "Why... why are you giving this to me?"
+msgstr "Чому... навіщо ти даєш це мені?"
+
+msgid "I don't know... just a feeling?"
+msgstr "Навіть не знаю... нутро підказало?.."
+
+msgid "Hahahahahaha incredible... were you just screwing with me before?"
+msgstr "Ха-ха-ха-ха-ха, неймовірно... то ти все ж лише жартувала?"
+
+msgid "I guess I'm not gonna make you suffer after all."
+msgstr "Що ж, тоді твої страждання скасовуються."
+
+msgid "Here, take the slugs as well."
+msgstr "Ось, і слимаків своїх тримай."
+
+msgid "Huh..."
+msgstr "Га..."
+
+msgid "I don't know who you are but..."
+msgstr "Не знаю, хто ти, але..."
+
+msgid "So... about this room..."
+msgstr "Що ж... стосовно цієї кімнати..."
+
+msgid "Oh man you're slow. Check the mirror."
+msgstr "Ой, яка ж ти дубувата. Поглянь на дзеркало."
+
+msgid "Hahahahahaha oh god... so good..."
+msgstr "Ха-ха-ха-ха-ха, господи... як же добре..."
+
+msgid "There's your jar."
+msgstr "Ось твоя банка."
+
+msgid "Good..."
+msgstr "Добре..."
+
+msgid "What would you like to know?"
+msgstr "Що ти хочеш дізнатися?"
+
+msgid "You said you're the only demon who can inflict curses, correct?"
+msgstr "Кажеш, ти єдиний демон, що може накладати прокляття?"
+
+msgid "Did you place this curse on me?"
+msgstr "Це ти мене прокляв?"
+
+msgid "I'm the only demon who can inflict curses and LIVE."
+msgstr "Я єдиний демон, що може накласти прокляття та ВИЖИТИ."
+
+msgid "Any demon can place a curse on someone on their dying breath."
+msgstr "Усі демони можуть накласти на когось прокляття перед смертю."
+
+msgid "But I can place a thousand, with no repercussions."
+msgstr "А я можу хоч тисячу, і мені буде по боку."
+
+msgid "(Isn't that a bit OP?)"
+msgstr "(Якась імбалансна абілка.)"
+
+msgid "That sounds too powerful."
+msgstr "Звучить досить сильно."
+
+msgid "Why do you think I'm locked up?"
+msgstr "А ти що, думала, я просто так тут сиджу?"
+
+msgid "Red's being a little bitch about it."
+msgstr "Ред до цього ставиться як повний покидьок."
+
+msgid "You're obviously a human with a weird aura."
+msgstr "Ти вочевидь людина з дивною аурою."
+
+msgid "You lookin' to remove your curse?"
+msgstr "Хочеш зняти прокляття?"
+
+msgid "Yes."
+msgstr "Так."
+
+msgid "Then you'd probably need Red's help."
+msgstr "Тоді тобі може знадобитися поміч Реда."
+
+msgid "Yes, that's the idea."
+msgstr "Так, знаю."
+
+msgid "How do you plan to do that?"
+msgstr "У тебе є план?"
+
+msgid "Someone told me to go to the lighthouse, so I have to go North."
+msgstr "Мені дехто сказав, що аби дістатися маяка, треба йти на північ."
+
+msgid "Ooh~ North."
+msgstr "О-хо-хо~ на північ."
+
+msgid "You're gonna die if you go through the locked site, y'know?"
+msgstr "Ти знаєш, що загинеш, якщо підеш через зачинену зону?"
+
+msgid "What other choice do I have?"
+msgstr "А який у мене ще вибір?"
+
+msgid "There's always another choice."
+msgstr "Вибір є завжди."
+
+msgid "Do you mean that door to the right?"
+msgstr "Ти кажеш за двері праворуч?"
+
+msgid "Is that so..."
+msgstr "Та невже..."
+
+msgid "You just haven't looked around this room well enough."
+msgstr "Ти просто неуважно роздивилася цю кімнату."
+
+msgid "...Actually, I have no idea."
+msgstr "...Взагалі, я гадки не маю."
+
+msgid "Ahahahaha, you crack me up!"
+msgstr "А-ха-ха-ха-ха, я зараз помру зі сміху!"
+
+msgid "Any suggestions?"
+msgstr "Хочеш щось запропонувати?"
+
+msgid "Why not follow Red? That little shit left through here last time."
+msgstr "А чом би не піти слідом за Редом? Минулого разу це падло пройшло тут."
+
+msgid "But that was long ago."
+msgstr "Проте це було давно."
+
+msgid "Do you mean through that door to the right?"
+msgstr "Ти кажеш за двері праворуч?"
+
+msgid "Through... here? What do you mean?"
+msgstr "Тут?.. Що ти маєш на увазі?"
+
+msgid "You haven't looked at this room much, have you?"
+msgstr "Ти ще не до кінця роздивилася цю кімнату."
+
+msgid "A plain cardboard box."
+msgstr "Звичайна картонна коробка."
+
+msgid "Some cardboard boxes."
+msgstr "Картонні коробки."
+
+msgid "A blue butterfly."
+msgstr "Синій метелик."
+
+msgid "A sturdy cage housing a being."
+msgstr "Міцна клітка, в якій сидить істота."
+
+msgid "The drawers are empty."
+msgstr "Шухлядки порожні."
+
+msgid "A jar filled with slugs."
+msgstr "Банка зі слимаками."
+
+msgid "(They're alive in there...)"
+msgstr "(Вони живі...)"
+
+msgid "Take ${item:ch1.red_jar}?"
+msgstr "Взяти предмет: ${item:ch1.red_jar}?"
+
+msgid "The drawers underneath are empty."
+msgstr "Шухлядки знизу порожні."
+
+msgid "Bug-themed lamps."
+msgstr "Лампи в стилі жуків."
+
+msgid "I'm not going to carry the slugs with me..."
+msgstr "Я не збираюсь ходити з цими слимаками..."
+
+msgid "A large mirror."
+msgstr "Велике дзеркало."
+
+msgid "A door with a keypad has been exposed."
+msgstr "За дзеркалом виявилися двері з кодовим замком."
+
+msgid "Input a code?"
+msgstr "Ввести код?"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "Мені здається, що там я не знайду нічого для Козмо..."
+
+msgid "Continue down this path?"
+msgstr "Все одно піти цим шляхом?"

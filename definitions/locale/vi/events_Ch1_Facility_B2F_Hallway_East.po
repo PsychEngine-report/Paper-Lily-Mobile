@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(If I pass through there, that guy might see me...)"
+msgstr "(Nếu mình đi qua đây là cái anh đó nhìn thấy mình mất...)"
+
+msgid "(Um...)"
+msgstr "(Ừm...)"
+
+msgid "(Did I adopt a stray?)"
+msgstr "(Mình mới nhận nuôi trẻ lạc?)"
+
+msgid "Are you following me?"
+msgstr "Anh đi theo tôi đấy à?"
+
+msgid "Yep."
+msgstr "Ừa."
+
+msgid "We stand a better chance together, right?"
+msgstr "Ta ở cùng nhau thì dễ sống hơn đúng không nào?"
+
+msgid "Don't worry, I won't be dead weight."
+msgstr "Khỏi lo, tôi không làm gánh nặng đâu."
+
+msgid "Well, unless I'm actually dead..."
+msgstr "Cơ mà lỡ tôi \"gãy gánh\" thì..."
+
+msgid "But then you can just leave me there."
+msgstr "Mà đến lúc đấy em cứ việc bỏ tôi lại thôi."
+
+msgid "..."
+msgstr "..."
+
+msgid "Look, you can just pretend I'm not here if you want."
+msgstr "Kìa, nếu muốn thì em cứ vờ như tôi không tồn tại thôi."
+
+msgid "See?"
+msgstr "Thấy chưa?"
+
+msgid "(That guy might still be waiting for me...)"
+msgstr "(Cái anh đó có khi vẫn đang chờ mình...)"
+
+msgid "(Should I just return to where he is?)"
+msgstr "(Mình nên về lại chỗ cái anh đó chờ không?)"
+
+msgid "Yes"
+msgstr "Về lại"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "*Sigh*"
+msgstr "Hầy."
+
+msgid "Uhm..."
+msgstr "Ừm..."
+
+msgid "Huh? Oh... what's up?"
+msgstr "Hở? Ờ... sao đây?"
+
+msgid "There was nothing important in there, let's go."
+msgstr "Ở đấy không có gì quan trọng đâu, đi thôi anh."
+
+msgid "Wait, how did you-"
+msgstr "Khoan đã, em làm sao mà-"
+
+msgid "Hurry up."
+msgstr "Nhanh lên anh."
+
+msgid "A gate. It's locked."
+msgstr "Cánh cổng. Bị khóa rồi."
+
+msgid "A gate. There's probably no point in closing it."
+msgstr "Cánh cổng. Đóng lại thì chắc là chả để làm gì rồi."
+
+msgid "The grate you kicked out of the way earlier."
+msgstr "Tấm vỉ mà ban nãy bạn đá ra khỏi lối."
+
+msgid "It's too high to reach."
+msgstr "Cao quá với không tới."
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_East.move_dungeon_1.dlg.narrator"
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](Sai đã rời bọn.)[/color]"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_East.move_dungeon_2.dlg.narrator"
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](Sai đã rời bọn.)[/color]"

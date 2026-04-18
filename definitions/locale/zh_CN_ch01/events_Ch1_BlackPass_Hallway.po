@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I just need to open my locker, and then the closet to end this."
+msgstr "我只需要打开我的储物柜，然后打开衣柜就可以结束这一切。"
+
+msgid "My locker is..."
+msgstr "我的储物柜是..."
+
+msgid "It's pretty obvious, isn't it?"
+msgstr "很明显，不是么？"
+
+msgid "This isn't your locker."
+msgstr "这不是你的储物柜。"
+
+msgid "A locker."
+msgstr "储物柜。"
+
+msgid "Huh? What's that red thing? It's the first time I see it."
+msgstr "啊？这个红色的东西是什么？这我还是第一次见到。"
+
+msgid "There's nothing else to see here."
+msgstr "这里已经没有其他能看的了。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Trash fills your locker."
+msgstr "垃圾堆满了你的储物柜。"
+
+msgid "What a mess."
+msgstr "真是一团糟啊。"
+
+msgid "\"Welcome back, Lacie."
+msgstr "“欢迎回来，莱西。"
+
+msgid "We've missed you at school."
+msgstr "我们在学校很想念你。"
+
+msgid "You'll have a lot to catch up on, so your classmates organized the reading material for you."
+msgstr "你还有很多进度要赶，所以你的同学们为你准备了阅读材料。"
+
+msgid "You can find it in your locker."
+msgstr "你可以在你的储物柜里找到。"
+
+msgid "Please be sure to look over everything carefully."
+msgstr "请务必仔细查看所有内容。"
+
+msgid "You wouldn't want to fail the year.\""
+msgstr "你也不想辜负这一年的努力吧。”"
+
+msgid "...sigh."
+msgstr "...哎。"
+
+msgid "...Blah blah blah."
+msgstr "...巴拉巴拉巴拉。"
+
+msgid "It's always the same text."
+msgstr "永远是一样的文字。"
+
+msgid "The note will be back in this spot next time, even if I crumple it."
+msgstr "即使我把这张纸揉成一团，下次它也会恢复原样。"
+
+msgid "Peace and quiet."
+msgstr "安静了。"
+
+msgid "Nah, it's better like this."
+msgstr "不，这样更好。"
+
+msgid "...Heh... never gets old."
+msgstr "...哈哈...永远都不会改变。"
+
+msgid "Pick up ${item:global.reditem_1}?"
+msgstr "要捡起${item:global.reditem_1}吗？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "It's the exit."
+msgstr "这就是出口了。"
+
+msgid "It doesn't open until I check the locker..."
+msgstr "在我检查储物柜之前，它是不会开启的..."
+
+msgid "Blindingly white light is all you can see."
+msgstr "你所能看见的只有刺眼的白光。"
+
+msgid "Students, laughing at you."
+msgstr "正在嘲笑你的同学们。"
+
+msgid "...I hate them."
+msgstr "...我讨厌他们。"
+
+msgid "The passageway has closed behind you."
+msgstr "你身后的通道已经关上了。"

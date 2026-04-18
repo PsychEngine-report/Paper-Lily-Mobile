@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"This is a demo.\n"
+"It might not properly represent the quality of the final product."
+msgstr ""
+"此為試玩版。\n"
+"可能無法適當地展現最終產品的品質。"
+
+msgid ""
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"這款遊戲包含了閃爍的燈光和效果\n"
+"以及對暴力的描寫和冒犯性的文字。"
+
+msgid "Video Creators and Streamers"
+msgstr "製作影片者和直播者"
+
+msgid "Commenters and Reviewers"
+msgstr "評論者和評分者"
+
+msgid "Our Families and Friends"
+msgstr "我們的家人和朋友"
+
+msgid "Additional Thanks"
+msgstr "額外感謝"
+
+msgid "To our fans for waiting patiently"
+msgstr "耐心等待的粉絲們"
+
+msgid "To Kaiyo's mom and dad for their unwavering support"
+msgstr "Kaiyo 的媽媽和爸爸堅定不移的支持"
+
+msgid "To those who sent an encouraging email"
+msgstr "向我們發送鼓舞人心的電子郵件的人們"
+
+msgid "And to You!"
+msgstr "還有你！"
+
+msgid "Thank you for playing..."
+msgstr "感謝你的遊玩..."
+
+msgid "See you in Chapter 2!"
+msgstr "我們第二章見！"
+
+msgid "Miss Knives Original Design"
+msgstr "刀子小姐的原始設計"
+
+msgid "Miss Knives Contest Winners"
+msgstr "刀子小姐競賽勝利者"
+
+msgid "Cabbage Masters"
+msgstr "高麗菜大師"
+
+msgid ""
+"Note from the devs:\n"
+"Congratulations for getting this far in the Paper Lily story!\n"
+"Thank you so much for your support and enthusiasm for this little world we created. Please don't hesitate to leave a review if you have the time, it helps immensely.\n"
+"\n"
+"We're still only two idiots making this game, so if you want to support future development please consider purchasing the supporter pack!"
+msgstr ""
+"開發者的訊息：\n"
+"恭喜你到達了這個階段的 Paper Lily 故事！\n"
+"非常感謝你對我們創造的這個小小世界的支持與熱情。如果有時間的話，請不要吝於留下評論，這對我們幫助很大。\n"
+"\n"
+"我們仍然只是兩個在製作這個遊戲的笨蛋，所以如果你想要支持未來的開發的話請考慮購買支持者包！"
+
+msgid "True End 1-1 - Against All Odds"
+msgstr "真結局 1-1 - 克服萬難"
+
+msgid "Change into uniform"
+msgstr "換上制服"
+
+msgid "Change into indoor clothes"
+msgstr "換上室內服"
+
+msgid "Don't change"
+msgstr "不要更換"
+
+msgid "Things to do"
+msgstr "要做的事"
+
+msgid "(before I die)"
+msgstr "(在我死前)"
+
+msgid "- Go out"
+msgstr "- 去外面"
+
+msgid "- Eat the meal mom left me"
+msgstr "- 吃媽媽留給我的餐點"
+
+msgid "- Fill up the bird feeder"
+msgstr "- 裝滿鳥食"
+
+msgid "- Feed my Tamaghost"
+msgstr "- 餵我的電子小幽靈"
+
+msgid "- Say goodbye to Hiro"
+msgstr "- 向廣人道別"
+
+msgid "A coffee and a flan"
+msgstr "咖啡和焦糖布丁"
+
+msgid "A coffee and macarons"
+msgstr "咖啡和馬卡龍"
+
+msgid "A coffee and an eclair"
+msgstr "咖啡和一顆閃電泡芙"
+
+msgid "A tea and a flan"
+msgstr "茶和焦糖布丁"
+
+msgid "A tea and macarons"
+msgstr "茶和馬卡龍"
+
+msgid "A tea and an eclair"
+msgstr "茶和一顆閃電泡芙"
+
+msgid "A milkshake and a flan"
+msgstr "奶昔和焦糖布丁"
+
+msgid "A milkshake and macarons"
+msgstr "奶昔和馬卡龍"
+
+msgid "A milkshake and an eclair"
+msgstr "奶昔和一顆閃電泡芙"
+
+msgid "???"
+msgstr "？？？"
+
+msgid "Girl A"
+msgstr "女孩 A"
+
+msgid "Girl B"
+msgstr "女孩 B"
+
+msgid "Man"
+msgstr "男人"
+
+msgid "Lady"
+msgstr "女士"
+
+msgid "Child"
+msgstr "孩子"
+
+msgid "Mother"
+msgstr "母親"
+
+msgid "Student"
+msgstr "學生"
+
+msgid "Bully"
+msgstr "惡霸"
+
+msgid "Everyone"
+msgstr "所有人"
+
+msgid "Father"
+msgstr "父親"
+
+msgid "Neighbor"
+msgstr "鄰居"
+
+msgid "Long-Faced Monster"
+msgstr "長臉怪物"
+
+msgid "One-Eyed Monster"
+msgstr "單眼怪物"
+
+msgid "Doctor?"
+msgstr "醫生？"
+
+msgid "Voice 1"
+msgstr "聲音 1"
+
+msgid "Voice 2"
+msgstr "聲音 2"
+
+msgid "Voice 3"
+msgstr "聲音 3"
+
+msgid "Prisoner"
+msgstr "囚犯"
+
+msgid "Miss Knives (Young)"
+msgstr "刀子小姐(年輕)"
+
+msgid "Iris"
+msgstr "埃芮絲"
+
+msgid "Boy 1"
+msgstr "男孩 1"
+
+msgid "Boy 2"
+msgstr "男孩 2"
+
+msgid "Boy 3"
+msgstr "男孩 3"

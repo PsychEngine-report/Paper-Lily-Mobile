@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "Para białych butów z czerwonymi sznurówkami."
+
+msgid "The shoelaces could be useful."
+msgstr "Sznurówki mogą się przydać."
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "Wziąć ${item:ch1.shoelaces}?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "It's already done."
+msgstr "To już jest zrobione."
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Rozsypałaś sól przy wejściu.)"
+
+msgid "Something is written here:"
+msgstr "Coś tu jest napisane:"
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "\"Kiedy tu ostatnio jadłaś? Czy ty to w ogóle pamiętasz?”"
+
+msgid "A bookshelf with random decorative books."
+msgstr "Półka z przypadkowymi książkami służącymi jako dekoracja."
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "Jest też parę ładnie ułożonych artykułów biurowych."
+
+msgid "Red marker. Perfect."
+msgstr "Czerwony marker. Dokładnie takiego mi potrzeba."
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "Wziąć ${item:ch1.marker}?"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "Duża sofa. Hiro często tutaj sypia."
+
+msgid "A small couch that used to be your favorite."
+msgstr "Mała kanapa, która niegdyś był twoją ulubioną."
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "Na kredensie stoi pudełko i roślinka."
+
+msgid "A large cupboard that could fit a person."
+msgstr "Duża szafa. W środku zmieściłby się człowiek."
+
+msgid "Some decorative plates."
+msgstr "Parę ładnych talerzy."
+
+msgid "A painting of a sleeping cat."
+msgstr "Malowidło przestawiające śpiącego kota."
+
+msgid "A painting of..."
+msgstr "Malowidło przestawiające…"
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "Co? Czy ten kot nie spał...?"
+
+msgid "A painting of a cat stares you down."
+msgstr "Kot z malowidła wpatruje ci się w oczy."
+
+msgid "Some bills."
+msgstr "Rachunki."
+
+msgid "Some pictures of places around the world."
+msgstr "Parę zdjęć z różnych miejsc dookoła świata."
+
+msgid "Mother and father go on trips a lot..."
+msgstr "Mama i tata dużo podróżują…"
+
+msgid "I don't even know where they are right now."
+msgstr "Nawet nie mam pojęcia, gdzie są teraz."
+
+msgid "A tall plant."
+msgstr "Wysoka roślina."
+
+msgid "A pretty plant."
+msgstr "Ładna roślina."
+
+msgid "A pink plant."
+msgstr "Różowa roślina."
+
+msgid "The TV remote."
+msgstr "Pilot do telewizora."
+
+msgid "Turn the TV on?"
+msgstr "Włączyć telewizor?"
+
+msgid "Turn the TV off?"
+msgstr "Wyłączyć telewizor?"
+
+msgid "A shelf containing mainly glassware."
+msgstr "Półka zawierająca przeważnie wyroby ze szkła."
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "Współczuję osobie, której to wszystko spadnie na głowę."
+
+msgid "Some books on gardening."
+msgstr "Książki o ogrodnictwie."
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "Półka na buty, wypełniona butami różnych kolorów."
+
+msgid "Slippers to change into."
+msgstr "Kapcie domowe."
+
+msgid "The footprints come from under the table..."
+msgstr "Ślady zaczynają się pod stołem…"
+
+msgid "But there's nothing there."
+msgstr "Ale tam nic nie ma."
+
+msgid "The family dining table."
+msgstr "Stół do wspólnego jedzenia."
+
+msgid "We don't eat here as much anymore."
+msgstr "Obecnie rzadko jemy razem."
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "Stolik do kawy. Rośliny czasami przeszkadzają."
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "Ślady stóp idą na zewnątrz. Nie wyglądają na normalne stopy…"
+
+msgid "A TV."
+msgstr "Telewizor."
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "Program o samochodach… Chwila, czy to nie jest zwiastun dla gry wideo?"
+
+msgid "Just animal videos, I guess."
+msgstr "Filmiki o zwierzętach. Nic specjalnego."
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "\"Daj im chleba i kotów, i nigdy nie będą się buntować.”"
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "Jest takie anime o magicznych dziewczynach, które oglądam ostatnio."
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "Ludzie w internetecie mówią, że robi się dosyć mroczne… ale ja jeszcze nic złego nie widziałam."
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "To jest niepokojące… Wyłączam to."
+
+msgid "..."
+msgstr "…"
+
+msgid "An umbrella basket."
+msgstr "Kosz na parasole."
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "Kosz na parasole. Często dostaje przypadkowymi kopniakami."
+
+msgid "I've been outside enough for now."
+msgstr "Mam dosyć bycia na zewnątrz."
+
+msgid "This is the laundry room."
+msgstr "Pralnia."
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "Nigdy nie zrozumiem, czemu drzwi w naszym własnym domu muszą być pozamykane na klucz."
+
+msgid "Maybe Hiro has the key..."
+msgstr "Może Hiro ma klucz do środka…"
+
+msgid "...but I don't need anything from there."
+msgstr "…ale chyba nic stamtąd nie potrzebuję."
+
+msgid "The laundry room. It's locked."
+msgstr "Pralnia. Jest zamknięta."

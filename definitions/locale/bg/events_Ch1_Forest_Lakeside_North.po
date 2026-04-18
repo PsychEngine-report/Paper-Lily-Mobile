@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "Изпразни ${item:ch1.bucket_full}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "Изпразни ${item:ch1.bucket_full_holy}?"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "Напълни ${item:ch1.bucket}?"
+
+msgid "What to do?"
+msgstr "Какво да правя?"
+
+msgid "Kill it here"
+msgstr "Убий го тук"
+
+msgid "Release it around this area"
+msgstr "Пусни го някъде наоколо"
+
+msgid "Do nothing"
+msgstr "Не прави нищо"
+
+msgid "The crow shows no interest in it."
+msgstr "Гарванът не проявява интерес към това."
+
+msgid "Nobody seems to want you, little one."
+msgstr "Изглежда, че никой не те иска, мъниче."
+
+msgid "It refuses to leave the terrarium."
+msgstr "То отказва да напусне терариума."
+
+msgid "He must not like lavender very much..."
+msgstr "Сигурно не обича много лавандула…"
+
+msgid "(Looks like it couldn't swim after all.)"
+msgstr "(Изглежда че въпреки всичко не е можело да плува.)"
+
+msgid "(You can't place an incomplete doorknob...)"
+msgstr "(Не можете да поставите непълна дръжка на вратата…)"
+
+msgid "Lavender flowers are growing all over this place."
+msgstr "Навсякъде тук растат лавандулови цветя."
+
+msgid "Pretty..."
+msgstr "Красиво…"
+
+msgid "Take ${item:ch1.forest_lavender}?"
+msgstr "Вземи ${item:ch1.forest_lavender}?"
+
+msgid "A crow standing on a log."
+msgstr "Врана, застанала на дънер."
+
+msgid "It's completely unfazed by the rain..."
+msgstr "Дъждът изобщо не я притеснява…"
+
+msgid "A wooden log."
+msgstr "Дървен дънер."
+
+msgid "I came from this direction. There's no reason to go back now."
+msgstr "Дойдох от онази посока. няма причина да се връщам сега."
+
+msgid "You can't see the other side of the lake from here."
+msgstr "Оттук не се вижда другият бряг на езерото."
+
+msgid "A small pond."
+msgstr "Малко езерце."
+
+msgid "The caterpillar has moved on. You should too."
+msgstr "Гъсеницата е продължила напред. Вие също трябва да го направите."
+
+msgid "A door with two doorknobs."
+msgstr "Врата с две дръжки."
+
+msgid "Take a closer look?"
+msgstr "Погледни по-отблизо?"
+
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Поставих дръжката за връщане на вратата. Не бива да ходя никъде другаде."
+
+msgid "A stairway?"
+msgstr "Стълбище?"
+
+msgid "It's so dark... I can't see anything..."
+msgstr "Толкова е тъмно… Нищо не виждам…"
+
+msgid "Agh... my head..."
+msgstr "Аааъх… главата ми…"
+
+msgid "What's going on...?"
+msgstr "Какво се случва…?"
+
+msgid "This doorknob won't even turn."
+msgstr "Тази дръжка дори не се завърта."
+
+msgid "Hmm..."
+msgstr "Хмм…"
+
+msgid "A strange door with two doorknobs... and empty slots to place more."
+msgstr "Странна врата с две дръжки… и празни отвори за поставяне на други."
+
+msgid "Amazing... my ${item:ch1.doorknob_return} fits right in. It wasn't a scam after all..."
+msgstr "Невероятно… моят ${item:ch1.doorknob_return} пасва идеално. Все пак не е било шашма…"
+
+msgid "Still... I'm not ready to go home yet, but I'm glad to have found this door."
+msgstr "Все пак… все още не съм готова да се върна вкъщи, но съм благодарна че открих тази врата."
+
+msgid "An empty slot."
+msgstr "Празен отвор."
+
+msgid "Place a doorknob?"
+msgstr "Поставете дръжка на вратата?"
+
+msgid "Gray Doorknob"
+msgstr "Сива дръжка за врата"
+
+msgid "Doorknob With Eye"
+msgstr "Дръжка за врата с око"
+
+msgid "White Doorknob"
+msgstr "Бяла дръжка за врата"
+
+msgid "Doorknob With Flower"
+msgstr "Дръжка на вратата с цвете"
+
+msgid "Return Doorknob"
+msgstr "Дръжка за Връщане"
+
+msgid "Do not"
+msgstr "Недей"
+
+msgid "Is it really time to go home...?"
+msgstr "Наистина ли е време да се прибирам у дома…?"
+
+msgid "Are you sure that you want to place this doorknob?"
+msgstr "Сигурни ли сте, че искате да поставите тази дръжка на вратата?"

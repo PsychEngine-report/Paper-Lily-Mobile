@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You're done."
+msgstr "妳完成了。"
+
+msgid "Good work."
+msgstr "做得好。"
+
+msgid "What now?"
+msgstr "現在呢？"
+
+msgid "Now, all of these objects need to be burned in the correct order."
+msgstr "現在，這些物品需要以正確的順序燃燒。"
+
+msgid "What's the order?"
+msgstr "順序是什麼？"
+
+msgid "That's for you to figure out. The hands over there might provide a clue."
+msgstr "那是妳要去搞清楚的。那裡的手應該會提供線索。"
+
+msgid "I see..."
+msgstr "我明白了..."
+
+msgid "Make sure you have a way to light the fireplace as well."
+msgstr "也要確定妳有點燃火爐的方法。"
+
+msgid "Oh, that's true..."
+msgstr "喔，也是..."
+
+msgid "(Are there any places I haven't checked yet...?)"
+msgstr "(還有沒檢查過的地方嗎...？)"
+
+msgid "Lastly... this whole thing tends to culminate with candles going out."
+msgstr "最後...整件事情往往以蠟燭一個個熄滅達到高潮。"
+
+msgid "Therefore, if you see any candles, put them out."
+msgstr "因此，如果妳看到任何蠟燭，把它們熄滅。"
+
+msgid "Understood."
+msgstr "了解。"
+
+msgid "One more thing."
+msgstr "還有一件事。"
+
+msgid "I couldn't help but notice how weak you look."
+msgstr "我注意到妳看起來很虛弱。"
+
+msgid "The challenges ahead might be beyond your capabilities."
+msgstr "眼前的挑戰可能會超出妳的能力。"
+
+msgid "There's an object inside my old hiding spot that can help with that."
+msgstr "我的舊藏身處有個東西可以幫助妳。"
+
+msgid "Spider is just dangling there."
+msgstr "蜘蛛只是在那懸吊著。"
+
+msgid "Psst..."
+msgstr "嘿..."
+
+msgid "Over here."
+msgstr "在這裡。"
+
+msgid "Here. On the wall."
+msgstr "這裡。在牆上。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Spider...?"
+msgstr "蜘蛛...？"
+
+msgid "Yes."
+msgstr "對。"
+
+msgid "Is that really you?"
+msgstr "真的是你嗎？"
+
+msgid "Huh... you really meant it when you said you talked to a spider."
+msgstr "嗯...妳說妳跟蜘蛛說話原來是認真的。"
+
+msgid "He looked different last time, but it's still basically a spider."
+msgstr "他看起來跟上次不一樣，但是基本上還是一隻蜘蛛。"
+
+msgid "Oh. There's two of you now."
+msgstr "喔。現在有兩個了。"
+
+msgid "Well, no matter."
+msgstr "好吧，沒差。"
+
+msgid "You look... different."
+msgstr "你看起來...不一樣。"
+
+msgid "...But I can't quite put my finger on it."
+msgstr "...但是我不能完全確定(put my finger on it)。"
+
+msgid "I don't appreciate your humor."
+msgstr "我不喜歡妳的幽默感。"
+
+msgid "Miss Knives discovered my hiding spot."
+msgstr "刀子小姐發現了我的藏身處。"
+
+msgid "She's not fond of my presence."
+msgstr "她不喜歡我的存在。"
+
+msgid "So she turned me into... this."
+msgstr "所以她把我變成...這樣。"
+
+msgid "It's pathetic."
+msgstr "真是可悲。"
+
+msgid "Damn, she must have crazy powers."
+msgstr "可惡，她一定有什麼瘋狂的能力。"
+
+msgid "Is she really that powerful?"
+msgstr "她真的那麼強大嗎？"
+
+msgid "Not quite."
+msgstr "不算是。"
+
+msgid "You both must have had some time to look around this place by now."
+msgstr "你們兩個一定已經四處看過這個地方了。"
+
+msgid "You must have had some time to look around this place by now."
+msgstr "妳一定已經四處看過這個地方了。"
+
+msgid "Did you figure out anything strange?"
+msgstr "有發現什麼異常嗎？"
+
+msgid "You mean aside from... everything?"
+msgstr "你的意思是除了...所有東西以外嗎？"
+
+msgid "Kind of a tall order, pal."
+msgstr "有點困難，朋友。"
+
+msgid "...Well..."
+msgstr "...好吧..."
+
+msgid "The location of this house is strange."
+msgstr "這房子的地點很奇怪。"
+
+msgid "The walls are filled with creepy paintings."
+msgstr "牆壁填滿了詭異的圖畫。"
+
+msgid "It's all very purple, I guess."
+msgstr "大概是這裡非常地紫。"
+
+msgid "...Maybe humans are just slow."
+msgstr "...也許人類只是反應比較遲鈍。"
+
+msgid "None of what you're seeing is real."
+msgstr "妳看到的一切都不是真的。"
+
+msgid "Huh?"
+msgstr "蛤？"
+
+msgid "What?"
+msgstr "什麼？"
+
+msgid "Miss Knives is a strange case."
+msgstr "刀子小姐很奇特。"
+
+msgid "She created this place out of her own desires."
+msgstr "她憑著自己的慾望創造了這個地方。"
+
+msgid "But the house doesn't actually exist."
+msgstr "但是房子其實並不存在。"
+
+msgid "Convenient."
+msgstr "真方便。"
+
+msgid "So then... it's an illusion?"
+msgstr "所以...這是個幻象？"
+
+msgid "To an extent, yes."
+msgstr "在某種程度上來說，沒錯。"
+
+msgid "That's also why I look like this."
+msgstr "這也是為什麼我看起來像這樣。"
+
+msgid "Miss Knives only sees what she wants to see."
+msgstr "刀子小姐只會看到她想看到的。"
+
+msgid "So she sees you as... a little spider on the wall?"
+msgstr "所以她把你看為...一隻牆上的小蜘蛛？"
+
+msgid "It would seem so."
+msgstr "看來如此。"
+
+msgid "I see."
+msgstr "我明白了。"
+
+msgid "Then... to escape..."
+msgstr "那麼...想要逃離..."
+
+msgid "You have to break the illusion."
+msgstr "妳必須打破幻象。"
+
+msgid "Remind her who she is."
+msgstr "提醒她她是誰。"
+
+msgid "Or rather... who she isn't."
+msgstr "或者是說...她不是誰。"
+
+msgid "That's where those objects you need to collect come into play."
+msgstr "那就是妳需要收集的物品派上用場的時候。"
+
+msgid "They seem to have some sort of connection to her memories."
+msgstr "它們似乎和她的記憶有某種關聯。"
+
+msgid "Once you find and unseal them all, come back and see me."
+msgstr "只要妳找到並解除它們的封印就回來找我。"
+
+msgid "If you need help with the burning order..."
+msgstr "如果妳在燃燒順序上需要協助的話..."
+
+msgid "The painting with the hands might provide you with a hint."
+msgstr "這幅有著手的畫可能可以給妳提示。"
+
+msgid "That seems to be already unsealed."
+msgstr "它看起來已經被解除封印了。"
+
+msgid "You don't need to do anything else with it."
+msgstr "妳不需要再對它做任何事。"
+
+msgid "(The hands reject the item... it needs to be unsealed first.)"
+msgstr "(手拒絕了物品...它需要先被解除封印。)"
+
+msgid "My mother got worse one day."
+msgstr "有一天，我的母親病情惡化了。"
+
+msgid "Father thinks she might die."
+msgstr "父親覺得她可能會死。"
+
+msgid "I don't want mom to die."
+msgstr "我不希望媽媽死去。"
+
+msgid "I brought her a cold compress to lower the fever."
+msgstr "我拿了冷敷來給她退燒。"
+
+msgid "Mother always said that water provides the best healing."
+msgstr "母親常說，水是最好的療癒劑。"
+
+msgid "That night, I said a prayer to try to help her."
+msgstr "那天晚上，我祈禱以試著幫助她。"
+
+msgid "I wished for her to get better, and I wished for our family to go back to normal, at least."
+msgstr "我希望她能變得好一點，還希望我們家能夠至少恢復正常。"
+
+msgid "The [color=#90EE90]third blessing[/color] came as a surprise to everyone in the village."
+msgstr "[color=#90EE90]第三個祝福[/color]對村裡的每個人來說都是個驚喜。"
+
+msgid "The morning after my prayer, my mother was out of bed, and cooking."
+msgstr "在我祈禱後的第二天早上，我的母親就起床煮飯了。"
+
+msgid "She said she felt much better, she even had strength to go to the market."
+msgstr "她說她感到好多了，甚至還有力氣去市場。"
+
+msgid "You see? The cold compress did the job!"
+msgstr "看吧？冷敷起了作用！"
+
+msgid "Clean water is the purest thing we have."
+msgstr "乾淨的水是我們擁有最純淨的東西。"
+
+msgid "Are you sure you should be out of bed?"
+msgstr "妳確定妳應該離開床嗎？"
+
+msgid "This is the best I've felt in years."
+msgstr "這是我好幾年來感到最好的一次。"
+
+msgid "But... the doctor said..."
+msgstr "但是...醫生說..."
+
+msgid "I'm sure he was just wrong."
+msgstr "我很確定他是錯的。"
+
+msgid "You know, medicine isn't always entirely accurate."
+msgstr "妳知道嗎，醫學並不總是完全準確的。"
+
+msgid "No more than two days later, some adults knocked at the door."
+msgstr "不到兩天，就有大人來敲門。"
+
+msgid "They took my mother. They called her a witch."
+msgstr "他們帶走了我的母親。他們說她是女巫。"
+
+msgid "They claimed she used her powers to get cured of a deadly illness."
+msgstr "他們聲稱她用了自己的能力來治癒了致命的疾病。"
+
+msgid "They said the village needs to be cleansed, and that witch hunts were important for this."
+msgstr "他們說這個村莊需要被淨化，而狩獵女巫至關重要。"
+
+msgid "The next day, my mother was burned at the stake."
+msgstr "隔天，我的母親就被燒死在火刑柱上。"
+
+msgid "Everyone watched, and everyone cheered, as she died slowly, for a sin she did not commit."
+msgstr "所有人都看著，然後所有人都在她慢慢死去時歡呼，為了她沒有犯下的罪刑。"
+
+msgid "This was the first time I wished that I couldn't see anymore."
+msgstr "這是我第一次希望我再也看不到。"
+
+msgid "Have you somehow missed the large painting that's lacking eyes?"
+msgstr "妳是錯過了那幅缺了眼睛的巨大繪畫嗎？"
+
+msgid "The [color=#90EE90]fourth blessing[/color] was something I would never wish for."
+msgstr "[color=#90EE90]第四個祝福[/color]是我希望我沒有許下的。"
+
+msgid "Give it back!"
+msgstr "還給我！"
+
+msgid "How'd you get your hands on such an expensive-looking sketchbook, huh?"
+msgstr "妳是怎麼拿到看起來這麼貴的素描本，蛤？"
+
+msgid "Let's see..."
+msgstr "讓我看看..."
+
+msgid "Stop! Just give it to me!"
+msgstr "別鬧！給我就對了！"
+
+msgid "What the heck is this?"
+msgstr "這是什麼鬼？"
+
+msgid "They flipped through the pages of my sketchbook, and their faces got an awful ghostly white."
+msgstr "他們翻閱了我素描本，然後臉色變得慘白。"
+
+msgid "Is she a witch?"
+msgstr "她是女巫嗎？"
+
+msgid "What are those?"
+msgstr "這是什麼？"
+
+msgid "I didn't draw that!"
+msgstr "不是我畫的！"
+
+msgid "Hey, I didn't know you were a witch."
+msgstr "嘿，我不知道妳是女巫。"
+
+msgid "I'm not!!!"
+msgstr "我不是！！！"
+
+msgid "Pages and pages of creepy drawings."
+msgstr "一頁一頁的詭異圖畫。"
+
+msgid "What is this? Some kind of curse casting shit?"
+msgstr "這是什麼？什麼詛咒方法嗎？"
+
+msgid "I didn't make them! I don't know where they came from!"
+msgstr "不是我畫的！我不知道它們是哪來的！"
+
+msgid "It's the truth. Why didn't they believe me?"
+msgstr "是真的。為什麼他們不相信我？"
+
+msgid "STOP! WHAT ARE YOU DOING?!?"
+msgstr "別鬧了！你們在做什麼？！？"
+
+msgid "You're just a filthy witch!"
+msgstr "妳只是個骯髒的女巫！"
+
+msgid "I'm reporting you, you won't be needing this!"
+msgstr "我要舉報妳，妳不需要這個了！"
+
+msgid "PLEASE DON'T BREAK IT!"
+msgstr "拜託不要弄壞它！"
+
+msgid "You don't even need all of these colors."
+msgstr "妳又不需要這麼多顏色。"
+
+msgid "Nothing but black."
+msgstr "除了黑色以外什麼都沒有。"
+
+msgid "You were never supposed to see anything but darkness anyway."
+msgstr "反正妳不應該看到除了黑暗以外的東西。"
+
+msgid "Blind freak."
+msgstr "瞎眼怪胎。"
+
+msgid "Please stop... Give them back..."
+msgstr "拜託不要...還給我..."
+
+msgid "Aww.. poor little crybaby."
+msgstr "噢...可憐的愛哭鬼。"
+
+msgid "I'm gonna report you."
+msgstr "我要舉報妳。"
+
+msgid "Father will be so proud, I caught my own witch."
+msgstr "父親會很驕傲的，我自己抓到了女巫。"
+
+msgid "I'm not a witch..."
+msgstr "我不是女巫..."
+
+msgid "I swear I'm not..."
+msgstr "我發誓我不是..."
+
+msgid "No! Don't!!!! Please!!!"
+msgstr "不！不要！！！！拜託！！！"
+
+msgid "(Stop, please stop...)"
+msgstr "(停下來，拜託停下來...)"
+
+msgid "(Please stop...)"
+msgstr "(拜託停下來...)"
+
+msgid "(What did I do to you...?)"
+msgstr "(我是對你做們了什麼...？)"
+
+msgid "(Please stop.......)"
+msgstr "(拜託停下來.......)"
+
+msgid "I hate them. I hate my life. Why is this happening to me?"
+msgstr "我討厭他們。我討厭我的人生。為什麼這種事會發生在我身上？"
+
+msgid "Soon enough, the boy dropped the sketchbook."
+msgstr "很快地，男孩丟下了素描本。"
+
+msgid "My eyes were focused on the crumpled pages of my sketchbook hitting the ground, so I didn't see it until someone screamed."
+msgstr "我專注在掉在地上的素描本被揉爛的頁面，所以直到有人尖叫我才注意到。"
+
+msgid "...!?"
+msgstr "...！？"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+msgstr "啊啊啊啊啊啊啊啊啊啊！！！！"
+
+msgid "The boy's right leg twisted almost 360 degrees, as if it was some form of nightmarish witchcraft."
+msgstr "男孩的右腿幾乎旋轉了 360 度，就像是某種惡夢般的巫術。"
+
+msgid "Then it twisted again."
+msgstr "然後它又旋轉了一次。"
+
+msgid "Something broke in his leg, and he fell down, writhing in pain."
+msgstr "他的腿被什麼東西折斷了，他摔倒在地，痛苦地扭動。"
+
+msgid "I couldn't understand what I was seeing."
+msgstr "我無法理解我看到的東西。"
+
+msgid "Y-you... what did you do to his leg?!?"
+msgstr "妳-妳...妳對他的腿做了什麼？！？"
+
+msgid "N-Nothing I didn't even touch him..."
+msgstr "沒-沒有，我根本沒碰他..."
+
+msgid "AAAAAAAAGGGHHHH! IT HURTS!!!!"
+msgstr "啊啊啊啊啊啊！好痛！！！！"
+
+msgid "Call someone! We need help! HELP!!!"
+msgstr "快找人來！我們需要幫助！救命啊！！！"
+
+msgid "YOU'RE A WITCH!! YOU'RE A WITCH!!!"
+msgstr "妳是女巫！！妳是女巫！！！"
+
+msgid "I WILL DESTROY YOU!!!! YOU'LL BE BURNED!!!!"
+msgstr "我要毀了妳！！！！妳會被燒死！！！！"
+
+msgid "................."
+msgstr "................."
+
+msgid "BURN IN HELL!!!"
+msgstr "去死吧！！！"
+
+msgid "The adults came and took him away."
+msgstr "大人過來把他帶走了。"
+
+msgid "When I finally lifted my gaze from the dirt below my fingers, Iris was standing in front of me."
+msgstr "當我終於把目光移開我手指上的泥土時，埃芮絲站在我面前。"
+
+msgid "My heart sank... Did she see what happened?"
+msgstr "我的心一沉...她看到事發經過了嗎？"
+
+msgid "...A-Are you alright...?"
+msgstr "...妳-妳還好嗎...？"
+
+msgid "............"
+msgstr "............"
+
+msgid "I-I... You didn't do that to his leg, right?"
+msgstr "我-我...不是妳讓他的腿變成那樣的，對吧？"
+
+msgid "No! Of course I didn't!"
+msgstr "不！當然不是我！"
+
+msgid "O-Okay."
+msgstr "好-好吧。"
+
+msgid "...I... Why are you here?"
+msgstr "...我...為什麼妳在這裡？"
+
+msgid "Um... I came because... my parents said..."
+msgstr "嗯...我來這裡是因為...我的父母說..."
+
+msgid "...That I'm not allowed to see you anymore."
+msgstr "...我不能再跟妳見面了。"
+
+msgid "Take ${item:ch1.mk_jar} x3?"
+msgstr "拿走 ${item:ch1.mk_jar} x3 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "You may use that on the canvas over there."
+msgstr "妳可以把它用在那裡的畫布。"
+
+msgid "That's the right idea, I think."
+msgstr "我想應該就是那樣。"
+
+msgid "What should I be doing with these?"
+msgstr "我該拿這些怎麼辦？"
+
+msgid "They're probably related to that canvas over there."
+msgstr "它們可能與那邊的畫布有關。"
+
+msgid "Maybe you use them to make paint."
+msgstr "也許你用它們來製造顏料。"
+
+msgid "That's the key to the bedroom."
+msgstr "那是臥室的鑰匙。"
+
+msgid "Oh... I don't need this anymore."
+msgstr "哦...我不再需要這個了。"
+
+msgid "That's a key to the cages."
+msgstr "那是籠子的鑰匙。"
+
+msgid "I see you don't need it anymore."
+msgstr "看來妳不再需要它了。"
+
+msgid "I can take that off your hands."
+msgstr "我可以把它從妳手上拿走。"
+
+msgid "Oh... I see."
+msgstr "喔...明白了。"
+
+msgid "That's the key to this room."
+msgstr "那是這房間的鑰匙。"
+
+msgid "I shall get rid of it, given that you already made it in."
+msgstr "既然妳已經進來了，那我就丟掉它。"
+
+msgid "After the incident with that boy's leg, the authorities knocked at our door again."
+msgstr "在那男孩的腿發生意外後，當局再次來到了我們的門前。"
+
+msgid "\"Your daughter is a witch\" they said to my father."
+msgstr "\"你的女兒是個女巫\"他們對我的父親這麼說。"
+
+msgid "They talked about how I hurt that boy, how my mother healed from a fatal illness, how my eyesight came back."
+msgstr "他們說到我是怎麼傷害那男孩，我的母親是怎麼從致命疾病中康復，我是怎麼恢復視力的。"
+
+msgid "They told us both me and my father are accused of witchcraft."
+msgstr "他們說我和我父親都被指控使用巫術。"
+
+msgid "T-That's nonsense! What are you talking about??"
+msgstr "沒-沒道理啊！！你們在說什麼？？"
+
+msgid "The whole family needs to be cleansed."
+msgstr "全家都必須被淨化。"
+
+msgid "Your daughter will be tried for witchcraft, and due to your ties to her, you will be as well."
+msgstr "你的女兒會因使用巫術受審，由於你和她的關係，你也會。"
+
+msgid "H-Hold on... Wait... You've got it all wrong. She's not my daughter."
+msgstr "等-等一下...等等...你們完全搞錯了。她不是我女兒。"
+
+msgid "I merely found her on the streets, she does not share my blood."
+msgstr "我只是在街上找到她的，她和我沒有血緣關係。"
+
+msgid "(...Father...)"
+msgstr "(...父親...)"
+
+msgid "Take him."
+msgstr "帶走他。"
+
+msgid "N-NO NO! PLEASE! I HAVE NOTHING TO DO WITH THIS!"
+msgstr "不-不要！拜託！這跟我完全沒有關係！"
+
+msgid "When the men walked in the house, my father ran towards the back door."
+msgstr "當那男人走進了房子，我的父親跑向了後門。"
+
+msgid "He was frantically bumping into the furniture to reach it."
+msgstr "他瘋狂地撞向家具以搆到後門。"
+
+msgid "Find the girl."
+msgstr "找到那女孩。"
+
+msgid "And burn his body."
+msgstr "然後燒了他的屍體。"
+
+msgid "Burn the whole house, it's cursed."
+msgstr "燒了整棟房子，它被詛咒了。"
+
+msgid "My father's blood ran down the hallway like a small river stream."
+msgstr "我父親的血就像是小河一樣流過走廊。"
+
+msgid "It seeped into the cracks of the broken floorboards."
+msgstr "它滲入破損地板的裂縫中。"
+
+msgid "This is all that boy's fault."
+msgstr "都是那男孩的錯。"
+
+msgid "The prison cell was cold, and dark."
+msgstr "牢房很冷，又很暗。"
+
+msgid "There was nobody else there with me, except for the occasional rat."
+msgstr "除了偶爾會有老鼠以外，那裡只有我一人。"
+
+msgid "People always said rats are dirty and dangerous."
+msgstr "人們總是說老鼠又髒又危險。"
+
+msgid "But at that moment, I appreciated the company."
+msgstr "但是在當時，我很感激牠們的陪伴。"
+
+msgid "The adults told me my execution will be the following morning."
+msgstr "大人告訴我我明天早上會被處決。"
+
+msgid "They said I will be burned in order to purify the village."
+msgstr "他們說我會被燒死以淨化村莊。"
+
+msgid "What does that even mean? Purify the village..."
+msgstr "到底是什麼意思？淨化村莊..."
+
+msgid "I was alone with my thoughts for what felt like hours before someone came by."
+msgstr "我獨自思考了好幾個小時，直到有人過來。"
+
+msgid "Hey..."
+msgstr "嘿..."
+
+msgid "Iris...?"
+msgstr "埃芮絲...？"
+
+msgid "(Will I get out of here...??)"
+msgstr "(我能逃離這裡嗎...？？)"
+
+msgid "Um... listen... I'm so sorry...!"
+msgstr "嗯...聽著...我很抱歉...！"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "I-... I told my dad about everything..."
+msgstr "我-...我告訴了我爸爸一切..."
+
+msgid "What...?"
+msgstr "什麼...？"
+
+msgid "(...No way...)"
+msgstr "(...怎麼可能...)"
+
+msgid "I... I thought if you might really be a witch, he could protect you...."
+msgstr "我...我以為妳真的是女巫的話，他可以保護妳..."
+
+msgid "B-Because he knew we were friends!"
+msgstr "因-因為他知道我們是朋友！"
+
+msgid "I'm sorry... I did this...!"
+msgstr "我很抱歉...是我...！"
+
+msgid "I didn't know he would kill your dad... and... and you..."
+msgstr "我不知道他會殺了妳爸爸...而...而妳..."
+
+msgid "Please..."
+msgstr "拜託..."
+
+msgid "Please take this knife..."
+msgstr "拜託收下這把刀..."
+
+msgid "P-please... please use it... before they kill you."
+msgstr "拜-拜託...拜託用它...在他們殺了妳之前。"
+
+msgid "You'll be better off if you end it this way...!"
+msgstr "這樣結束對妳比較好...！"
+
+msgid "What's happening?"
+msgstr "怎麼回事？"
+
+msgid "Why would she tell me something like this?"
+msgstr "為什麼她要告訴我這種事？"
+
+msgid "What's going on?"
+msgstr "怎麼回事...？"
+
+msgid "I-I love you and... father said burning is slow and painful...!!"
+msgstr "我-我愛妳...父親說燃燒又慢又痛苦...！！"
+
+msgid "You're better off doing it this way..!"
+msgstr "這麼做對妳比較好...！"
+
+msgid "....."
+msgstr "....."
+
+msgid "You're asking me to kill myself..?"
+msgstr "妳是要我自殺嗎...？"
+
+msgid "Y-Yes... because... I still care about you...!"
+msgstr "對-對...因為...我還很關心妳...！"
+
+msgid "Is this what you call... care?"
+msgstr "妳叫這個...關心？"
+
+msgid "I didn't know that my vision would get blurry if I cry."
+msgstr "我之前不知道哭的話視線會變得模糊。"
+
+msgid "I need help with this."
+msgstr "我需要幫助。"
+
+msgid "Ah, this is a knife."
+msgstr "啊，這是一把刀。"
+
+msgid "You might have to draw some blood to unseal it."
+msgstr "妳可能需要一些血來解除它的封印。"
+
+msgid "Are you brave enough to cut yourself?"
+msgstr "妳有勇氣割傷自己嗎？"
+
+msgid "Why should I cut myself?"
+msgstr "為什麼我要割傷自己？"
+
+msgid "I don't see who else you could cut."
+msgstr "我不知道妳還可以割傷誰。"
+
+msgid "I could cut you instead."
+msgstr "我可以割傷你啊。"
+
+msgid "You'll never aim properly."
+msgstr "妳絕對瞄不準。"
+
+msgid "Your aim is terrible."
+msgstr "妳的準頭很糟糕。"
+
+msgid "Perhaps there are advantages to being small after all."
+msgstr "也許體型小一點是有優勢的。"
+
+msgid "You're not skilled enough for that."
+msgstr "妳的技術還不到位。"
+
+msgid "(The hands reject the item... they're scared of it.)"
+msgstr "(手拒絕了物品...手害怕它。)"
+
+msgid "That should serve you well in lighting the fireplace."
+msgstr "這應該對妳點燃火爐很有幫助。"
+
+msgid "My life is below average."
+msgstr "我的人生低於水準。"
+
+msgid "I've been blind since I was a baby, so my parents thought of abandoning me."
+msgstr "我從小就看不到，所以我的父母想要拋棄我。"
+
+msgid "\"A blind child cannot help the family\" they said. \"Especially not a girl.\""
+msgstr "\"看不見的孩子沒辦法幫助這個家\"他們說道。\"尤其是女生。\""
+
+msgid "But my mother says they loved me so much that they wanted to give me a chance."
+msgstr "但我的母親說他們很愛我，所以想給我一個機會。"
+
+msgid "Right now, I manage just fine."
+msgstr "現在，我還過得去。"
+
+msgid "I do my chores, I go to the market, I help with the vegetable garden."
+msgstr "我做家事、去市場、幫忙打理菜園。"
+
+msgid "Mother is sick, so she's always in bed."
+msgstr "母親生病了，所以她總是在床上。"
+
+msgid "The doctor says she might be like this for the rest of her life."
+msgstr "醫生說她可能會這樣度過餘生。"
+
+msgid "Every day, I go meet my friend at the riverbank."
+msgstr "每天，我去河邊見我的朋友。"
+
+msgid "Iris is always talking excitedly about everything you could find outside of the village."
+msgstr "埃芮絲總是興奮地在談論村莊外可以看到的東西。"
+
+msgid "She makes the world sound so bright."
+msgstr "她讓世界聽起來很光明。"
+
+msgid "We made a deal, that when we turn 14, we'll run away together, and travel to mountains and seas."
+msgstr "我們做了個約定。當我們 14 歲的時候，我們會一起逃跑，並且上山下海。"
+
+msgid "But I was actually fine with a simple life. The bare minimum was enough, as long as I had Iris."
+msgstr "但是我對簡單的生活很滿意。只要埃芮絲在，這樣就夠了。"
+
+msgid "If there's one thing I wanted..."
+msgstr "如果有想要的東西..."
+
+msgid "It was just to be able to see her."
+msgstr "那就是能夠看見她。"
+
+msgid "The [color=#90EE90]first blessing[/color] changed the course of my life."
+msgstr "[color=#90EE90]第一個祝福[/color]改變了我的人生軌跡。"
+
+msgid "........."
+msgstr "........."
+
+msgid "I couldn't calm my breathing."
+msgstr "我無法冷靜下來呼吸。"
+
+msgid "I woke up one morning and I could see."
+msgstr "有一天早上醒來，我能看見了。"
+
+msgid "I saw shapes, and colors, and my parents."
+msgstr "我看到形狀、顏色和我的父母。"
+
+msgid "I saw the broken dining table."
+msgstr "我看到壞掉的餐桌。"
+
+msgid "I saw the weeds in the vegetable garden."
+msgstr "我看到菜園裡的雜草。"
+
+msgid "I saw the chipped cup that I drank from."
+msgstr "我看到我喝水用的缺角杯子。"
+
+msgid "I saw my wrinkled clothes."
+msgstr "我看到我皺巴巴的衣服。"
+
+msgid "Despite not having much, they were the most beautiful things I laid my eyes on."
+msgstr "儘管擁有的不多，它們是我看過最美麗的事物。"
+
+msgid "I couldn't say the same about my reflection."
+msgstr "我無法對我的倒影這麼說。"
+
+msgid "(Have I always looked like this?)"
+msgstr "(我一直都看起來是這樣嗎？)"
+
+msgid "(Were my eyes always so... bland?)"
+msgstr "(我的眼睛一直都這麼...平淡無奇？)"
+
+msgid "(Was my hair always so... dull?)"
+msgstr "(我的頭髮一直都這麼...缺乏光澤？)"
+
+msgid "My parents gradually grew distant."
+msgstr "我的父母漸漸疏遠了。"
+
+msgid "People in the village stared at me, and whispered behind my back."
+msgstr "村莊的人們都盯著我看，並在我背後竊竊私語。"
+
+msgid "Why did they seem scared of me?"
+msgstr "為什麼他們看來這麼怕我？"
+
+msgid "Iris said she's a little nervous around me, but she was really happy that I got my eyesight."
+msgstr "埃芮絲說她在我旁邊時有點緊張，但是她很高興我恢復視力了。"
+
+msgid "She called it a miracle."
+msgstr "她說這是個奇蹟。"
+
+msgid "My parents started avoiding me."
+msgstr "我的父母開始避開我。"
+
+msgid "When I spoke to them, they always tried to brush me away."
+msgstr "當我跟他們說話時，他們總是試著無視我。"
+
+msgid "The only times their tired eyes met mine, I only saw hatred in them."
+msgstr "他們疲倦的雙眼與我相視時，我只看到恨意。"
+
+msgid "Did they always look at me this way?"
+msgstr "他們一直都這麼看著我嗎？"
+
+msgid "Hmmm..."
+msgstr "嗯~~..."
+
+msgid "Have you tried simply looking at it?"
+msgstr "妳有試過單純看著它嗎？"
+
+msgid "(The hands reject the item... it is irrelevant to them.)"
+msgstr "(手拒絕了物品...它對手沒有意義。)"
+
+msgid "With your masterpiece complete, the canvas turns into a sketchbook."
+msgstr "在妳的傑作完成後，畫布變成了一本素描本。"
+
+msgid "The pigment doesn't stick on its own..."
+msgstr "染料本身不會黏上..."
+
+msgid "You soak the rag in the pool..."
+msgstr "妳把布浸入池中..."
+
+msgid "It's already wet enough."
+msgstr "已經夠濕了。"
+
+msgid "A dry piece of cloth?"
+msgstr "一塊乾布？"
+
+msgid "Try moisturizing it."
+msgstr "試著讓它變濕。"
+
+msgid "The [color=#90EE90]second blessing[/color] came as a gift."
+msgstr "[color=#90EE90]第二個祝福[/color]以禮物的形式來到。"
+
+msgid "I always met Iris out by the river, and we sat and talked for hours."
+msgstr "我總是在河邊跟埃芮絲見面，接著我們會坐下並聊上好幾個小時。"
+
+msgid "She told me all about the things I couldn't see."
+msgstr "她告訴我所有我沒辦法看到的事物。"
+
+msgid "But it was different now."
+msgstr "但是現在不一樣了。"
+
+msgid "She spoke with such happiness and excitement."
+msgstr "她語氣帶著快樂和興奮。"
+
+msgid "I couldn't take my eyes off of her."
+msgstr "我無法把目光從她身上移開。"
+
+msgid "So to celebrate this miracle..."
+msgstr "所以為了慶祝這個奇蹟..."
+
+msgid "I got you something!"
+msgstr "我帶了個東西給妳！"
+
+msgid "For me?"
+msgstr "給我？"
+
+msgid "Of course! Your eyes work now! It's amazing! We have to celebrate!"
+msgstr "當然！妳的眼睛好了！真是太棒了！我們必須慶祝！"
+
+msgid "So... I stole this from my family..."
+msgstr "所以...我從家裡偷來了這個..."
+
+msgid "But shh!"
+msgstr "但是小聲點！"
+
+msgid "Don't tell!"
+msgstr "別說出去！"
+
+msgid "Wha-.."
+msgstr "什-..."
+
+msgid "Iris! A sketchbook and paints are... so expensive...!"
+msgstr "埃芮絲！素描本跟顏料...很貴...！"
+
+msgid "H-How...? Why...?"
+msgstr "怎-怎麼...？為什麼...？"
+
+msgid "You always said you wanted to paint! I believe in you!"
+msgstr "妳總是說妳想要畫畫！我相信妳！"
+
+msgid "I'm so excited to see what you'll come up with!"
+msgstr "我很期待看到妳會畫出什麼！"
+
+msgid "I couldn't believe it! My very own sketchbook and watercolors!"
+msgstr "真不敢相信！我自己的素描本和水彩！"
+
+msgid "There were so many things I could paint!"
+msgstr "我可以畫的東西好多！"
+
+msgid "Mother was always bedridden, so I made a habit of showing her my paintings."
+msgstr "母親總是臥床，所以我養成了給她看我繪畫的習慣。"
+
+msgid "I started with trees and objects."
+msgstr "我從樹木和物件開始。"
+
+msgid "But I took a liking to portraits of people."
+msgstr "但是我開始喜歡畫人物肖像。"
+
+msgid "They all have such distinct, beautiful faces."
+msgstr "她們都有著獨特、漂亮的臉。"
+
+msgid "After only 2 days, I had already made 8 portraits!"
+msgstr "只過了 2 天，我就畫了 8 張肖像！"
+
+msgid "But when I flipped to the next page... a different kind of portrait filled the brown paper."
+msgstr "但是當我翻到了下一頁...另一種不同的肖像填滿了紙上。"
+
+msgid "It was all painted in black, and it was twisted and scary."
+msgstr "全是用黑色畫上的，而且還很扭曲又可怕。"
+
+msgid "I hadn't painted this..."
+msgstr "這不是我畫的..."
+
+msgid "I didn't even know who this person- or... creature, was."
+msgstr "我甚至不知道這個人-或是...生物是什麼。"
+
+msgid "Every morning after that, I found new distorted portraits in the pages, but I never remembered painting them."
+msgstr "在那之後的每天早上，我會發現新的扭曲肖像在頁面上，但是我不記得畫過它們。"
+
+msgid "A bookshelf full of coloring books, and other children's books."
+msgstr "放滿了著色本和其他兒童書籍的書架。"
+
+msgid "A bookshelf full of books about painting."
+msgstr "放滿了繪畫相關書籍的書架。"
+
+msgid "One of them stands out. Read a passage?"
+msgstr "其中一本脫穎而出。閱讀其中一段嗎？"
+
+msgid "\"Should a merchant not be available in your region, it is always possible to create your own paint by mixing pigments with water.\""
+msgstr "\"如果你所在的地區沒有商人，可以將染料溶於水中來創造自己的顏料。\""
+
+msgid "There's something covered with a drape."
+msgstr "有東西被簾幕蓋著。"
+
+msgid "Remove the drape?"
+msgstr "移除簾幕嗎？"
+
+msgid "Looks like a flat, black square."
+msgstr "看來是個平坦、黑色的方塊。"
+
+msgid "Take it with you?"
+msgstr "把它拿走嗎？"
+
+msgid "...It's too large and heavy to carry around."
+msgstr "...它重到沒辦法帶著走。"
+
+msgid "A crow stands at the edge of the pool."
+msgstr "一隻烏鴉站在池子的邊緣。"
+
+msgid "A painting with two protruding hands expecting something."
+msgstr "一幅畫，有著兩隻突出的手在期待著什麼。"
+
+msgid "Looks like I can place something on these hands..."
+msgstr "看來我可以在這些手上放東西..."
+
+msgid "A small pool. The water looks clean."
+msgstr "小池子。水看起來很乾淨。"

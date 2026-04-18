@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a paddle here."
+msgstr "オールがある。"
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "${item:ch1.forest_paddles} を取る？"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "The pier ends here."
+msgstr "桟橋はここで終わっている。"
+
+msgid "Some purple flowers."
+msgstr "紫色の花。"
+
+msgid "They're growing abundantly between these rocks."
+msgstr "岩の間にあふれんばかりに咲いている。"
+
+msgid "Take some ${item:ch1.lakeside_petals_purple}?"
+msgstr "${item:ch1.lakeside_petals_purple} を摘む？"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_purple}?"
+msgid "Yes"
+msgstr "摘む"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_purple}?"
+msgid "No"
+msgstr "摘まない"
+
+msgid "A large structure looms over the lake in the distance."
+msgstr "遠くで、巨大な構造物が湖の上に浮かんでいる。"
+
+msgid "What is that place..?"
+msgstr "あの場所は何……？"
+
+msgid "..."
+msgstr "……"
+
+msgid "Hmm... I can't see the lighthouse from here."
+msgstr "うーん……ここからじゃ灯台は見当たらない。"
+
+msgid "It might be beyond those trees."
+msgstr "あの森の向こう側にあるのかも。"
+
+msgid "Oh well."
+msgstr "まあいいか。"

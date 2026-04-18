@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The little girl is swaying slowly."
+msgstr "这个小女孩正在慢慢地摇来晃去。"
+
+msgid "Hello."
+msgstr "你好。"
+
+msgctxt "events.Ch1_Shop_Back.event_shadowgirl.dlg.shadowgirl"
+msgid "..."
+msgstr "..."
+
+msgid "Um.... What do you do here?"
+msgstr "呃....你在这里做什么？"
+
+msgctxt "events.Ch1_Shop_Back.event_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...！"
+
+msgid "Is she... giving me something?"
+msgstr "她这是...要给我东西？"
+
+msgid "Oh... Thank you."
+msgstr "哦...谢谢你。"
+
+msgid "I guess."
+msgstr "是这么说吧。"
+
+msgctxt "events.Ch1_Shop_Back.item_bunny_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...！"
+
+msgid "(The shadow girl happily takes the bunny off your hands.)"
+msgstr "（影子少女开心地接过了你手上的兔兔。）"
+
+msgctxt "events.Ch1_Shop_Back.item_caterpillar_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...！"
+
+msgid "(The shadow girl lovingly takes the caterpillar from you.)"
+msgstr "（影子少女宠爱地接过了你手上的毛虫。）"
+
+msgctxt "events.Ch1_Shop_Back.item_fireflies_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...！"
+
+msgid "(The shadow girl happily accepts the fireflies.)"
+msgstr "（影子少女高兴地接受了萤火虫。）"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...！"
+
+msgid "(The shadow girl takes the fragment and looks up at you.)"
+msgstr "（影子少女接走了碎片，然后抬头看着你。）"
+
+msgid "...? ...?"
+msgstr "...？...？"
+
+msgid "Oh... I don't have any more pieces than that one..."
+msgstr "哦...除了这个，我没有更多的碎片了..."
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.shadowgirl"
+msgid "... ..."
+msgstr "... ..."
+
+msgid "(The shadow girl returns the fragment to you with a sad expression.)"
+msgstr "（影子少女带着悲伤的表情把碎片还给了你。）"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.narrator"
+msgid "(The shadow girl takes the fragments from you.)"
+msgstr "（影子少女接过了你的碎片。）"
+
+msgid "(After a few seconds, she returns them to you.)"
+msgstr "（过了几秒钟，她把它们还给了你。）"
+
+msgid "Oh... I'm still missing a piece, am I not...?"
+msgstr "哦...我还缺一部分，是这样吗...？"
+
+msgid "Sorry for bothering you."
+msgstr "很抱歉打扰到你。"
+
+msgid "(With some effort, she fits them together and returns them to you.)"
+msgstr "（花了一些功夫，她把它们拼到了一起并还给了你。）"
+
+msgid "Thank you, I appreciate it."
+msgstr "谢谢你，我会很感激的。"
+
+msgid "Various colorful liquids and drinks are stored on the shelf."
+msgstr "架子上摆放着五颜六色的液体和饮料。"
+
+msgid "Some papers with opening hours and upcoming shop discounts."
+msgstr "一些写着营业时间和即将推出的商店折扣的纸张。"
+
+msgid "There's a... shadow of a girl sitting on the other side of the desk."
+msgstr "这里有一个...影子少女坐在另一侧的桌子上。"
+
+msgid "She doesn't seem much for conversation."
+msgstr "她似乎不爱说话。"
+
+msgid "\"CLOSED. DO NOT ENTER\" is marked on the sign."
+msgstr "标牌上写着“已打烊。请勿入内”。"
+
+msgid "The door is locked."
+msgstr "门锁住了。"

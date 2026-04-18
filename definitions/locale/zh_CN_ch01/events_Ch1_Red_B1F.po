@@ -1,0 +1,635 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Red_B1F.event_code_failure.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "The code was incorrect."
+msgstr "密码错误。"
+
+msgctxt "events.Ch1_Red_B1F.event_code_success.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "The door opens!"
+msgstr "门开了！"
+
+msgid "Now that I think about it, this is a strange location for such a large mirror."
+msgstr "现在想来，在这么一个奇怪的地方有这么一面大镜子。"
+
+msgid "Maybe there's something behind it?"
+msgstr "也许这背后有什么东西？"
+
+msgid "Kick the mirror?"
+msgstr "要踢镜子吗？"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.choice.Kick the mirror?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.choice.Kick the mirror?"
+msgid "No"
+msgstr "否"
+
+msgid "A door... and a keypad... for a code, I think."
+msgstr "一扇门...还有一个键盘...应该是输入密码用的。"
+
+msgid "Is it the door behind the mirror?"
+msgstr "是镜子后面的这扇门吗？"
+
+msgid "(Maybe there's a better way?)"
+msgstr "（也许还有更好的办法？）"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.dlg.unknown"
+msgid "Here you go."
+msgstr "给你。"
+
+msgid "...Huh. Thanks."
+msgstr "...嗯。谢谢。"
+
+msgid "I'm not carrying this thing around..."
+msgstr "我可不想带着这东西到处跑..."
+
+msgid "Pssst."
+msgstr "嘶。"
+
+msgid "Hey girlie."
+msgstr "嘿，小姑娘。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "Been a while since I've seen anybody come down here."
+msgstr "很久没看到有人下来啦。"
+
+msgid "Even that smug asshole hasn't been around."
+msgstr "就连那个自以为是的混蛋也不见了。"
+
+msgid "Who do you mean?"
+msgstr "你是说谁？"
+
+msgid "You know who I mean, or you wouldn't be snooping around here, would ya?"
+msgstr "你知道我说的是谁，不然你就不会在这里打听了，不是吗？"
+
+msgid "...Red?"
+msgstr "...是瑞德吗？"
+
+msgid "Ding ding diiiing!"
+msgstr "恭喜你答对了！"
+
+msgid "Did Red lock you in here?"
+msgstr "是瑞德把你锁在这里的吗？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "Correct."
+msgstr "没错。"
+
+msgid "Why?"
+msgstr "为什么呢？"
+
+msgid "My, aren't you asking lots of questions..."
+msgstr "哎，你的问题是不是太多了......"
+
+msgid "Maybe I'll tell you if you come a bit closer."
+msgstr "也许，你再靠近一点，我就会告诉你了。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice"
+msgid "Get closer?"
+msgstr "要靠近吗？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice.Get closer?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice.Get closer?"
+msgid "No"
+msgstr "否"
+
+msgid "Aww... What a shame."
+msgstr "哦...真是遗憾啊。"
+
+msgid "No more chit chat then."
+msgstr "那就不闲聊了。"
+
+msgid "(Better safe than sorry.)"
+msgstr "（安全要紧，对不起了。）"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "That's the spirit."
+msgstr "这就对了。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "可能因为我有一点烦人吧，瑞德就把我锁在这里了。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "I'm the only one who can cast curses."
+msgstr "我是唯一一个能施加诅咒的人。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "Curses...?"
+msgstr "诅咒...？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "你是唯一一个？那你是不是和我的诅咒有关系？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "如果你靠的更近一些，我可能就会告诉你了。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "That's the spirit."
+msgstr "这就对了。"
+
+msgid "Welcome back, what is it you wanted to know again?"
+msgstr "欢迎回来，你想知道什么来着？"
+
+msgid "Why are you locked up?"
+msgstr "为什么你被锁起来了？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "可能因为我有一点烦人吧，瑞德就把我锁在这里了。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "I'm the only one who can cast curses."
+msgstr "我是唯一一个能施加诅咒的人。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.lacie"
+msgid "Curses...?"
+msgstr "诅咒...？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.lacie"
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "你是唯一一个？那你是不是和我的诅咒有关系？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "如果你靠的更近一些，我可能就会告诉你了。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice"
+msgid "Get closer?"
+msgstr "要靠近吗？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice.Get closer?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice.Get closer?"
+msgid "No"
+msgstr "否"
+
+msgid "I have a feeling you'll just try to kill me."
+msgstr "我感觉你只是想杀了我。"
+
+msgid "Hahahaha!"
+msgstr "哈哈哈哈！"
+
+msgid "Fine then, I'll humor you this time."
+msgstr "好吧，我只是开个玩笑。"
+
+msgid "I didn't curse you."
+msgstr "不是我诅咒的你。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.lacie"
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "那是谁做的呢？你说你是唯一一个可以施加诅咒的人。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.unknown"
+msgid "...and live."
+msgstr "...且能存活。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "Look girlie, I hate doing shit for free."
+msgstr "听着，小姑娘，我讨厌做免费的事情。"
+
+msgid "Yep. It's a shortcut."
+msgstr "没错。那是捷径。"
+
+msgid "It needs a code."
+msgstr "它需要密码。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_door.dlg.unknown"
+msgid "Correct."
+msgstr "没错。"
+
+msgid "I can give it to you, provided you do one more thing for me."
+msgstr "我可以给你，但我要为我再做一件事。"
+
+msgid "How do I know it's actually a shortcut?"
+msgstr "你怎么知道那是捷径？"
+
+msgid "You don't. You'll just have to trust me."
+msgstr "因为你不知道。你得相信我。"
+
+msgid "Sounds like a bad choice."
+msgstr "听起来不是个好主意。"
+
+msgid "Your call, girlie."
+msgstr "这取决于你，小姑娘。"
+
+msgid "If you bring me a blue light, I'll give you the code."
+msgstr "如果你能给我带来蓝光，我就给你密码。"
+
+msgid "A blue light?"
+msgstr "蓝光？"
+
+msgid "Correct. A blue light. Not green, not red, certainly not white. A blue light."
+msgstr "没错。蓝光。不是绿的，不是红的，当然也不是白的。就是蓝光。"
+
+msgid "I have this blue candle, does it count?"
+msgstr "我有这个蓝蜡烛，这个算数吗？"
+
+msgid "I'll be damned, you already have it?"
+msgstr "我去，你已经拿到了？"
+
+msgid "Then give it to me, unless you don't want the code."
+msgstr "那就把它给我吧，不然你也得不到密码。"
+
+msgid "Where am I going to find that?"
+msgstr "我要去哪里找呢？"
+
+msgid "Don't know. I think I saw a candle-looking guy selling some a while back."
+msgstr "我不知道。不久前我好像看到一个长得像蜡烛的家伙在卖。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_door.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Hey wait wait!"
+msgstr "嘿，等等，等等！"
+
+msgid "Won't you do something for me? Pretty please little girl?"
+msgstr "你能为我做点什么吗？求你了，小姑娘？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_leave.dlg.lacie"
+msgid "No thank you."
+msgstr "不，谢谢你。"
+
+msgid "Come oooonnn, I've been stuck here for years, help me out!"
+msgstr "别啊，我都在这里被困了好几年了，帮我逃出去吧！"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_leave.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Tch."
+msgstr "哧。"
+
+msgid "When I get out of here..."
+msgstr "等我出去了..."
+
+msgid "I'll make you suffer."
+msgstr "有你好受的。"
+
+msgid "It's a promise."
+msgstr "我保证。"
+
+msgid "You do something I ask, and I'll answer one of your questions. Yeah?"
+msgstr "你按做我说的做，我按你问的答。可以吗？"
+
+msgid "You want me to open your cage?"
+msgstr "你想让我打开笼子吗？"
+
+msgid "Hahahaha as if you could! You severely overestimate yourself, kid."
+msgstr "哈哈哈哈，你能就好了！你太高估自己了，孩子。"
+
+msgid "No, this is something you can actually do."
+msgstr "不，其实有件你能做的事情。"
+
+msgid "I can't see it from here, but somewhere in this room there should be a jar of slugs."
+msgstr "我在这里看不到，但是这个房间的某处应该有一罐蛞蝓。"
+
+msgid "Slugs?"
+msgstr "蛞蝓？"
+
+msgid "Yeah. Large, slimy, gross? You know."
+msgstr "对。又大，又粘，又恶心？你知道的。"
+
+msgid "Bring it to me and we can continue this conversation."
+msgstr "把它带过来，然后我们继续谈话。"
+
+msgid "I won't be coming anywhere close to you."
+msgstr "我不想再接近你了。"
+
+msgid "Fair."
+msgstr "行吧。"
+
+msgid "Throw it to me from where you're standing right now then, if you're such a scaredy cat."
+msgstr "如果你那么胆小的话，那就从你现在站的地方扔给我吧。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_request.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "...!"
+msgstr "...！"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.unknown"
+msgid "..."
+msgstr "..."
+
+msgid "You tricked me."
+msgstr "你在耍花招。"
+
+msgid "Not exactly."
+msgstr "不算吧。"
+
+msgid "Just tell me. Did you curse me?"
+msgstr "你就告诉我。你有没有诅咒我？"
+
+msgid "I did not."
+msgstr "我没有。"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.lacie"
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "那是谁做的呢？你说你是唯一一个可以施加诅咒的人。"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.unknown"
+msgid "...and live."
+msgstr "...且能存活。"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "Look girlie, you get the drift."
+msgstr "听吧，姑娘，你懂我的意思。"
+
+msgid "Amazing..."
+msgstr "太棒了..."
+
+msgid "I haven't seen a light in years..."
+msgstr "我好几年没见过光了..."
+
+msgid "So bright..."
+msgstr "如此明亮..."
+
+msgid "So warm..."
+msgstr "如此温暖..."
+
+msgid "*Ahem*"
+msgstr "*咳咳*"
+
+msgid "Yeah yeah, thanks girlie."
+msgstr "嗯，嗯，谢谢你了，小姑娘。"
+
+msgid "You really did me a solid here."
+msgstr "你真是帮了我一个大忙。"
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.unknown"
+msgid "I'll remember this."
+msgstr "我会记着的。"
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.unknown"
+msgid "Here you go."
+msgstr "给你。"
+
+msgid "Thanks."
+msgstr "谢谢你。"
+
+msgid "What's your name?"
+msgstr "你的名字是？"
+
+msgid "There's no need to get buddy-buddy. You won't be alive for long enough for us to meet again."
+msgstr "我们没必要认熟。你的命没那么长，活不到我们再见面的时候的。"
+
+msgid "...But if we do, I'll make sure to introduce myself properly."
+msgstr "...但是如果我们见到了，我保证会好好介绍自己的。"
+
+msgid "Why... why are you giving this to me?"
+msgstr "为什么...为什么你要给我这个？"
+
+msgid "I don't know... just a feeling?"
+msgstr "不知道...就是一种感觉？"
+
+msgid "Hahahahahaha incredible... were you just screwing with me before?"
+msgstr "哈哈哈哈哈哈哈，真了不起...那你刚才是在耍我吗？"
+
+msgid "I guess I'm not gonna make you suffer after all."
+msgstr "我想，我还是别让你受苦了。"
+
+msgid "Here, take the slugs as well."
+msgstr "这儿，蛞蝓也给你。"
+
+msgid "Huh..."
+msgstr "啊..."
+
+msgid "I don't know who you are but..."
+msgstr "我不知道你是谁，但是..."
+
+msgid "So... about this room..."
+msgstr "所以...关于这个房间..."
+
+msgid "Oh man you're slow. Check the mirror."
+msgstr "天呐，你反应太慢了。看看镜子吧。"
+
+msgid "Hahahahahaha oh god... so good..."
+msgstr "哈哈哈哈哈哈，我的天哪...太好了..."
+
+msgid "There's your jar."
+msgstr "罐子给你。"
+
+msgid "Good..."
+msgstr "做的好..."
+
+msgid "What would you like to know?"
+msgstr "你想知道什么？"
+
+msgid "You said you're the only demon who can inflict curses, correct?"
+msgstr "你说你是唯一一个能施加诅咒的恶魔，对吗？"
+
+msgid "Did you place this curse on me?"
+msgstr "是你给我施加了诅咒吗？"
+
+msgid "I'm the only demon who can inflict curses and LIVE."
+msgstr "我是唯一一个能够施加诅咒，并且存活的恶魔。"
+
+msgid "Any demon can place a curse on someone on their dying breath."
+msgstr "每个恶魔都能在临死前对他人下咒。"
+
+msgid "But I can place a thousand, with no repercussions."
+msgstr "但我可以施加很多次，却不会受到任何影响。"
+
+msgid "(Isn't that a bit OP?)"
+msgstr "（这不是有点像管理员权限吗？）"
+
+msgid "That sounds too powerful."
+msgstr "那听起来很厉害。"
+
+msgid "Why do you think I'm locked up?"
+msgstr "不然你觉得我为什么会被锁起来？"
+
+msgid "Red's being a little bitch about it."
+msgstr "瑞德真是个小贱人。"
+
+msgctxt "events.Ch1_Red_B1F.item_jar_on_prisoner.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're obviously a human with a weird aura."
+msgstr "你显然是一个有着奇怪气场的人类。"
+
+msgid "You lookin' to remove your curse?"
+msgstr "你是想要解除诅咒吗？"
+
+msgid "Yes."
+msgstr "嗯。"
+
+msgid "Then you'd probably need Red's help."
+msgstr "那你可能需要瑞德的帮助。"
+
+msgid "Yes, that's the idea."
+msgstr "没错，我就是这么想的。"
+
+msgid "How do you plan to do that?"
+msgstr "你计划要怎么做？"
+
+msgid "Someone told me to go to the lighthouse, so I have to go North."
+msgstr "有人告诉我得去灯塔，所以我需要往北边走。"
+
+msgid "Ooh~ North."
+msgstr "哦~北边。"
+
+msgid "You're gonna die if you go through the locked site, y'know?"
+msgstr "如果你走封锁区的话，你会死掉的，你知道吧？"
+
+msgid "What other choice do I have?"
+msgstr "那我还有别的选择吗？"
+
+msgid "There's always another choice."
+msgstr "总会有另一种选择。"
+
+msgid "Do you mean that door to the right?"
+msgstr "你是说右边的这扇门吗？"
+
+msgid "Is that so..."
+msgstr "当然了..."
+
+msgid "You just haven't looked around this room well enough."
+msgstr "你只是对现在这个房间的观察还不够仔细。"
+
+msgid "...Actually, I have no idea."
+msgstr "...其实，我还没有计划。"
+
+msgid "Ahahahaha, you crack me up!"
+msgstr "哈哈哈哈哈哈，你把我逗乐了！"
+
+msgid "Any suggestions?"
+msgstr "你有建议吗？"
+
+msgid "Why not follow Red? That little shit left through here last time."
+msgstr "为什么不跟着瑞德走呢？那个小混蛋上次就穿过这里离开了。"
+
+msgid "But that was long ago."
+msgstr "但那是很久之前了。"
+
+msgid "Do you mean through that door to the right?"
+msgstr "你是说穿过右边的那扇门吗？"
+
+msgid "Through... here? What do you mean?"
+msgstr "穿过...这里？你是什么意思？"
+
+msgid "You haven't looked at this room much, have you?"
+msgstr "你还没怎么好好观察过这个房间，对吧？"
+
+msgid "A plain cardboard box."
+msgstr "一个普通的纸箱。"
+
+msgid "Some cardboard boxes."
+msgstr "一些纸板箱。"
+
+msgid "A blue butterfly."
+msgstr "一只蓝蝴蝶。"
+
+msgid "A sturdy cage housing a being."
+msgstr "一个坚固的笼子，里面有一个生物。"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_1.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "抽屉是空的。"
+
+msgid "A jar filled with slugs."
+msgstr "装满了蛞蝓的罐子。"
+
+msgid "(They're alive in there...)"
+msgstr "（它们还活着...）"
+
+msgid "Take ${item:ch1.red_jar}?"
+msgstr "要拿走${item:ch1.red_jar}吗？"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.choice.Take ${item:ch1.red_jar}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.choice.Take ${item:ch1.red_jar}?"
+msgid "No"
+msgstr "否"
+
+msgid "The drawers underneath are empty."
+msgstr "下面的抽屉是空的。"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "抽屉是空的。"
+
+msgid "Bug-themed lamps."
+msgstr "长得像虫子的灯。"
+
+msgid "I'm not going to carry the slugs with me..."
+msgstr "我不想把这些蛞蝓带在我身边..."
+
+msgid "A large mirror."
+msgstr "一面大镜子。"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "A door with a keypad has been exposed."
+msgstr "一扇带有密码锁的门显现了出来。"
+
+msgid "Input a code?"
+msgstr "要输入密码吗？"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Input a code?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Input a code?"
+msgid "No"
+msgstr "否"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "我觉得走这条路帮不到科兹莫..."
+
+msgid "Continue down this path?"
+msgstr "要继续沿着这条路走下去？"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Continue down this path?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Continue down this path?"
+msgid "No"
+msgstr "否"

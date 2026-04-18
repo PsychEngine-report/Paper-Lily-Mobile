@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "...This door doesn't seem to open."
+msgstr "…Изглежда че тази врата отказва да бъде отворена."
+
+msgid "So I AM trapped here after all, just not in that tiny cell."
+msgstr "И така, ЗАКЛЕЩЕНА съм тук преди всичко, само не в онази тясна килия."
+
+msgid "I suppose that's less bad..."
+msgstr "Предполагам че е по-малко лошо…"
+
+msgid "Alright, vent it is."
+msgstr "Добре, нека е отдушника."
+
+msgid "Let's hope there's another way out."
+msgstr "Да се надяваме, че има и друг изход."
+
+msgid "The door won't open."
+msgstr "Вратата не се отваря."
+
+msgid "Looks like human bones."
+msgstr "Прилича на човешки кости."
+
+msgid "..."
+msgstr "…"
+
+msgid "It doesn't open. Something seems to be holding it from the other side."
+msgstr "Не се отваря. Нещо трябва да го задържа от другата страна."
+
+msgid "\"Subject 66. Age: 38. Sex: Female. Status: Incapacitated. Extraction scheduled. Priority: Medium.\""
+msgstr "\"Субект 66. Възраст: 38. Пол: Жена Състояние: Лишен от дееспособност. Планирано изтегляне. Приоритет: Среден.\""
+
+msgid "That's not me. Someone else must've been kept in here."
+msgstr "Това не съм аз. Някой друг би трябвало да е държан тук."
+
+msgid "It was just... open?"
+msgstr "Току що бе… отворено?"
+
+msgid "\"Subject 41. Age: 53. Sex: Male. Status: Incapacitated. Extraction scheduled. Priority: Low.\""
+msgstr "\"Субект 44. Възраст: 53. Пол: Мъж Състояние: Лишен от дееспособност. Планирано изтегляне. Приоритет: Нисък.\""
+
+msgid "\"Subject 37. Age: 13. Sex: Male. Status: Incapacitated. Extraction on hold. Awaiting further results. Follow-up tests scheduled. Priority: High.\""
+msgstr "\"Субект 37. Възраст: 13. Пол: Мъж Състояние: Лишен от дееспособност. Преустановено изтегляне. В очакване на допълнителни резултати. Планирани последващи тестове. Приоритет: Среден.\""
+
+msgid "It doesn't open anymore. Something seems to be holding it from the other side."
+msgstr "Вече не се отваря. Изглежда, че нещо го държи от другата страна."
+
+msgid "These are my things... most of it anyway."
+msgstr "Това са моите неща... или поне по-голямата част от тях."
+
+msgid "I hadn't even noticed I had lost them."
+msgstr "Дори не бях забелязала, че съм ги изгубила."
+
+msgid "Why are they here...?"
+msgstr "Защо те са тук…?"
+
+msgid "(You got your items back.)"
+msgstr "(Вие си върнахте предметите.)"
+
+msgid "There's nothing else on the desk."
+msgstr "Вече няма друго на рафта."
+
+msgid "The drawers are empty."
+msgstr "Чекмеджетата са празни."
+
+msgid "A huge hole."
+msgstr "Огромна дупка."
+
+msgid "I hope the floor is stable..."
+msgstr "Надявам се подът да е стабилен…"
+
+msgid "This vent is suspicious."
+msgstr "Този отдушник е подозрителен."
+
+msgid "Maybe I could escape through here?"
+msgstr "Може би мога да избягам оттук?"
+
+msgid "It's almost like it's inviting me in."
+msgstr "Сякаш ме кани да вляза."
+
+msgid "It's too high to reach."
+msgstr "Твърде високо е, за да го достигна."
+
+msgid "Wait, there's something on the desk."
+msgstr "Чакай, на бюрото има нещо."
+
+msgid "Climb the box and remove the vent cover?"
+msgstr "Изкачете се по кутията и свалете капака на вентилационния отвор?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Crawl into the vents?"
+msgstr "Влезте във вентилационните отвори?"
+
+msgid "No... at that point, it would just be silly."
+msgstr "Не… в този момент това би било просто глупаво."
+
+msgid "That guy is waiting for me outside..."
+msgstr "Онзи тип ме чака отвън…"
+
+msgid "If I go through here right now, it would take him a while to realize I left."
+msgstr "Ако сега мина оттук, ще му отнеме известно време да разбере, че съм си тръгнала."
+
+msgid "I could get rid of him that way, I think."
+msgstr "Мисля, че така мога да се отърва от него."
+
+msgid "Go through the vent and leave Sai behind?"
+msgstr "Премини през вентилационния отвор и остави Саи зад себе си?"
+
+msgid "No... that would probably be pretty rude."
+msgstr "Не… това вероятно би било доста грубо."
+
+msgid "Having fun?"
+msgstr "Забавлявате ли се?"
+
+msgid "...Yep, plenty."
+msgstr "…Да, доста."
+
+msgid "Let's go then?"
+msgstr "Да тръгваме тогава?"
+
+msgid "Safe!"
+msgstr "В Безопасност!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Саи се присъедини към вашата дружина.)"

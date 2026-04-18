@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm? What's that?"
+msgstr "Hm? O que é aquilo?"
+
+msgid "Oh that? It's a fairy head."
+msgstr "Ah, aquilo? É uma cabeça de fada."
+
+msgid "A... head? Is the rest of the fairy just buried?"
+msgstr "Uma... cabeça? O resto da fada está enterrado?"
+
+msgid "No, it's probably roaming around somewhere."
+msgstr "Não, deve andar por aí algures."
+
+msgid "But the heads are dangerous too, be careful."
+msgstr "Mas as cabeças também são perigosas, tem cuidado."
+
+msgid "There's another one..."
+msgstr "Mais uma..."
+
+msgid "But... this one definitely has eyes, doesn't it?"
+msgstr "Mas... aquela tem olhos, não tem?"
+
+msgid "Maybe they're nostrils."
+msgstr "Se calhar são narinas."
+
+msgid "Wha- nostrils?"
+msgstr "Hã- Narinas?"
+
+msgid "Could that be?"
+msgstr "Será mesmo?"
+
+msgid "They're eyes"
+msgstr "São olhos"
+
+msgid "They're nostrils"
+msgstr "São narinas"
+
+msgid "(That's ridiculous.)"
+msgstr "(Isso é ridículo.)"
+
+msgid "I suppose I hadn't thought of it that way..."
+msgstr "Não tinha pensado dessa forma..."
+
+msgid "(Anyways... how will we pass without it seeing us?)"
+msgstr "(De qualquer forma... como é que vamos passar sem que ela nos veja?)"
+
+msgid "Now there's a bunch of them..."
+msgstr "Agora há uma série deles..."
+
+msgid "This is going to be a thing, isn't it."
+msgstr "Isto vai demorar, não vai?"
+
+msgid "Wanna turn back?"
+msgstr "Queres voltar atrás?"
+
+msgid "Wait, I can try to visualize a solution..."
+msgstr "Espera, posso tentar visualizar uma solução..."
+
+msgid "Visualize solution?"
+msgstr "Visualizar a solução?"
+
+msgid "Yes, please"
+msgstr "Sim, por favor"
+
+msgid "I don't need it"
+msgstr "Não é preciso"
+
+msgid "It's probably something like that."
+msgstr "Provavelmente é algo assim."
+
+msgid "Wow! Amazing!"
+msgstr "Uau! Incrível!"
+
+msgid "Okay..."
+msgstr "Ok..."
+
+msgid "A fairy head. It only has a mouth."
+msgstr "A fairy head. It only has eyes."
+
+msgid "It only has a mouth... is that why it can't see me even though I'm this close?"
+msgstr "Só tem boca... É por isso que não me consegue ver, apesar de eu estar tão perto?"
+
+msgid "A fairy head. It only has nostrils."
+msgstr "Uma cabeça de fada. Só tem narinas."
+
+msgid "A fairy head. It only has eyes."
+msgstr "Uma cabeça de fada. Só tem olhos."
+
+msgid "It seems like this one can only see to the sides..."
+msgstr "Parece que esta só consegue ver para os lados..."
+
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "Uma plantinha. Parece que bloqueia a visão da fada."
+
+msgid "This thing... does it block the head's view?"
+msgstr "Esta coisa... bloqueia a visão da cabeça?"
+
+msgid "As long as these black plant things are there, it should be possible to go around."
+msgstr "Enquanto estas plantas pretas estiverem aqui, deve ser possível passar."

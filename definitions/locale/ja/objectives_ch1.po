@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Go to your room"
+msgstr "部屋に行く"
+
+msgid "This day needs to end. I want to lie in bed."
+msgstr "今日はもう終わりにしよう。ベッドで横になりたい。"
+
+msgid "Find the ritual items"
+msgstr "儀式のアイテムを探す"
+
+msgid "I should gather the items that I'll need for the ritual. Shouldn't be too hard."
+msgstr "儀式に必要なアイテムを集めないといけない。そんなに苦労はしないはず。"
+
+msgid "Something red to draw"
+msgstr "赤い描くもの"
+
+msgid "I need to find something red to paint or mark the front of the house with."
+msgstr "玄関に印を描くための赤いものを見つける必要がある。"
+
+msgid "Something red to tie"
+msgstr "赤い結ぶもの"
+
+msgid "I need to find something red to tie onto the phone cord."
+msgstr "電話のコードに結ぶための、赤いものを見つける必要がある。"
+
+msgid "Prepare the ritual"
+msgstr "儀式の準備をする"
+
+msgid "I need to prepare the ritual before night time."
+msgstr "夜になる前に儀式の準備をする必要がある。"
+
+msgid "Paint symbol"
+msgstr "印を描く"
+
+msgid "I need to paint a symbol on the front door of the house. I hope no one will see me..."
+msgstr "玄関の扉に印を描く必要がある。誰にも見られないといいけど……"
+
+msgid "Tie string on phone cord"
+msgstr "電話の線に糸を結ぶ"
+
+msgid "I need to tie a red ribbon on the cord of my landline phone in the kitchen."
+msgstr "キッチンの固定電話のコードに赤いリボンを結ぶ必要がある。"
+
+msgid "Set alarm clock"
+msgstr "目覚ましをセットする"
+
+msgid "I need to set an alarm for midnight."
+msgstr "目覚まし時計を夜12時にセットする必要がある。"
+
+msgid "Get the ritual reversal instructions"
+msgstr "儀式を取り消す手順を確認する"
+
+msgid "I messed up the ritual. I need to undo it by following the steps I left at my PC."
+msgstr "儀式は失敗した。パソコンに残してある手順に従って取り消さないといけない。"
+
+msgid "Undo the ritual"
+msgstr "儀式を取り消す"
+
+msgid "I need to undo the ritual for my own safety."
+msgstr "自分の安全のために、儀式を取り消す必要がある。"
+
+msgid "Untie red string"
+msgstr "赤い糸をほどく"
+
+msgid "Add salt to front door"
+msgstr "玄関の扉に塩をまく"
+
+msgid "Add salt to back door"
+msgstr "裏口の扉に塩をまく"
+
+msgid "Add salt to garage door"
+msgstr "ガレージのシャッターに塩をまく"
+
+msgid "Go to sleep"
+msgstr "眠る"
+
+msgid "The ritual reversal is complete. There's nothing left to do other than to get in bed."
+msgstr "儀式の取り消しは終わった。あとはベッドで眠るだけ。"
+
+msgid "Talk to Hiro"
+msgstr "ヒロと話す"
+
+msgid "I need to tell Hiro to leave the house..."
+msgstr "家を離れていてほしいってヒロに伝えないと……"
+
+msgid "Get in bed"
+msgstr "ベッドに入る"
+
+msgid "Apparently, I need to lie in bed until the alarm goes off."
+msgstr "どうやら、目覚ましが鳴るまでベッドにいる必要があるらしい。"
+
+msgid "Call the Bus"
+msgstr "バスを呼ぶ"
+
+msgid "I need to call the bus. The phone number I should dial is 999281#0."
+msgstr "電話でバスを呼ばないといけない。番号は999281#0。"
+
+msgid "Take the Bus"
+msgstr "バスに乗る"
+
+msgid "Get on the bus. Hurry!"
+msgstr "バスに乗る。急いで！"
+
+msgid "Look Around"
+msgstr "あたりを見て回る"
+
+msgid "I arrived somewhere. What do I do now?"
+msgstr "どこかに着いた。これからどうしよう？"
+
+msgid "Explore the Forest"
+msgstr "森を探索する"
+
+msgid "I arrived at my destination. Can I find someone to help me?"
+msgstr "目的地に着いた。誰か助けてくれる人は見つかるかな？"
+
+msgid "Rotate the Signs"
+msgstr "標識を回す"
+
+msgid "I think I can open up a path towards the Daylight Gate if I rotate the blue signs towards the correct direction."
+msgstr "青い標識を正しい方向に回せば、デイライト・ゲートへの道が開くと思う。"
+
+msgid "Open the Daylight Gate"
+msgstr "デイライト・ゲートを開く"
+
+msgid "There's a gate impeding my progress. I need to find a way to open it."
+msgstr "行く手を阻むゲートがある。開ける方法を見つけないといけない。"
+
+msgctxt "objectives.name.ch1.forest_station_sign"
+msgid "Restore the Sign"
+msgstr "標識を直す"
+
+msgid "A sign is missing from the front of the station. If I find it, I should put it back in place."
+msgstr "駅の正面の標識がなくなってる。見つけたら、もとの場所に戻さないといけない。"
+
+msgctxt "objectives.name.ch1.forest_station_sign_2"
+msgid "Restore the Sign"
+msgstr "標識を直す"
+
+msgid "I found a blue sign. I should put it back in its spot in front of the station."
+msgstr "青い標識を見つけた。駅の正面にある柱に戻さないといけない。"
+
+msgid "Pick the Right Path"
+msgstr "正しい道を選ぶ"
+
+msgid "There are three paths in front of me, and a ticket as a hint for which one to pick..."
+msgstr "目の前には3本の道と、選ぶヒントになるチケット……"
+
+msgid "Enter the Locked Site"
+msgstr "封鎖区域に入る"
+
+msgid "Seems like the only way north might be through the Locked Site."
+msgstr "北へ行くには、封鎖区域を抜けるしかないらしい。"
+
+msgid "Find a Light"
+msgstr "明かりを見つける"
+
+msgid "Apparently, I'll' need a light to walk into the Locked Site."
+msgstr "どうやら、封鎖区域に入るには明かりが必要らしい。"
+
+msgid "Find 3 Keys"
+msgstr "3つの鍵を見つける"
+
+msgid ""
+"I found clues to the location of the three keys for the padlocks:\n"
+"-Behind a tree\n"
+"-In a cactus pot\n"
+"-Under a fake rug"
+msgstr ""
+"南京錠の3つの鍵がある場所の手がかりを見つけた。\n"
+"・木の後ろ\n"
+"・サボテンの鉢の中\n"
+"・偽装したマットの下"
+
+msgid "Key 1"
+msgstr "鍵1"
+
+msgid "Key 2"
+msgstr "鍵2"
+
+msgid "Key 3"
+msgstr "鍵3"
+
+msgid "Find an Exit"
+msgstr "出口を見つける"
+
+msgid "You're trapped inside the fairy ring. Find a way out!"
+msgstr "フェアリーリングの中に閉じ込められた。出る方法を見つけないと！"
+
+msgid "Find a Head"
+msgstr "頭を見つける"
+
+msgid "Find a new head for Kozmo. Hurry, he seems in danger!"
+msgstr "コズモのために新しい頭を探す。急がないと、このままじゃ危なそう！"
+
+msgid "Give the new head to Kozmo"
+msgstr "コズモに新しい頭を渡す"
+
+msgid "Kozmo needs his new head. Hurry!"
+msgstr "コズモに新しい頭が必要。急がないと！"
+
+msgid "Find the Lighthouse"
+msgstr "灯台を見つける"
+
+msgid "By continuing north through the forest, I should be able to find the lighthouse at some point."
+msgstr "森を抜けて北に進めば、どこかで灯台が見つかるはず。"
+
+msgid "Find Paddles"
+msgstr "オールを見つける"
+
+msgid "There's a boat I can take to continue north, but I need paddles."
+msgstr "北へ漕いで行けるボートがあるけど、オールが必要。"
+
+msgid "Get Rid of the Monster"
+msgstr "怪物を追い払う"
+
+msgid "There's a boat I can take to continue north, but a monster is guarding it."
+msgstr "北へ漕いで行けるボートがあるけど、怪物に守られてる。"
+
+msgid "Take the Boat"
+msgstr "ボートに乗る"
+
+msgid "Taking the boat might be the only way to continue north."
+msgstr "北への旅路を続けるには、ボートに乗るしかないかもしれない。"
+
+msgid "Get Rid of the Caterpillar"
+msgstr "イモムシを始末する"
+
+msgid "The moths will reward me with a doorknob if I get rid of it..."
+msgstr "始末したら、蛾のふたりからドアノブがもらえることになってる……"
+
+msgid "Get Your Reward"
+msgstr "報酬をもらう"
+
+msgid "The moths should reward me with a doorknob now."
+msgstr "蛾のふたりが報酬としてドアノブをくれるはず。"
+
+msgid "Use the Doorknob"
+msgstr "ドアノブを使う"
+
+msgid "I got a doorknob from the moths. It seems to be the only way forward."
+msgstr "蛾のふたりからドアノブをもらった。進める道はこれしかなさそう。"
+
+msgid "Escape your prison"
+msgstr "牢獄から脱出する"
+
+msgid "I woke up in a strange prison cell. I need to get out of here."
+msgstr "奇妙な独房で目が覚めた。ここから出ないといけない。"
+
+msgid "Investigate the facility"
+msgstr "施設を探索する"
+
+msgid "Explore this place."
+msgstr "この場所を探索する。"
+
+msgid "Find a way to go deeper down"
+msgstr "より深くに行く方法を見つける"
+
+msgid "The only way out of the facility is by going deeper down, according to Rune."
+msgstr "ルーンによると、この施設から出る唯一の道は、より深くへ進むことらしい。"
+
+msgid "Lower the water level"
+msgstr "水位を下げる"
+
+msgid "In order to go deeper, the water level may need to be lowered somehow."
+msgstr "より深くへ行くために、どうにかして水位を下げる必要がある。"
+
+msgid "Fix the elevator"
+msgstr "エレベーターを直す"
+
+msgid "In order to go deeper, the elevator could perhaps be fixed."
+msgstr "より深くへ行くために、エレベーターを修理する必要があるかもしれない。"
+
+msgid "Find the cursed door"
+msgstr "呪いの扉を探す"
+
+msgid "Rune said there should be a cursed door that leads outside, somewhere deep in this facility."
+msgstr "ルーンが言うには、この施設のどこか奥深くに、外へつながる呪いの扉があるはずらしい。"
+
+msgid "Find an exit"
+msgstr "出口を見つける"
+
+msgid "Find a way to leave this strange house."
+msgstr "この奇妙な家を出る方法を探す。"
+
+msgid "Find your items"
+msgstr "アイテムを探す"
+
+msgid "Find out what happened to your items and retrieve them."
+msgstr "アイテムがどうなったか突き止めて、取り戻す。"
+
+msgid "Help Sai escape"
+msgstr "サイの脱出を手伝う"
+
+msgid "Find a way to unlock the cage Sai is in."
+msgstr "サイの檻の鍵を開ける方法を見つける。"
+
+msgid "Find and Unseal 5 Special Items"
+msgstr "5つの特別なアイテムを見つけて封印を解く"
+
+msgid "Miss Knives keeps 5 important items in her house. I need to find and unseal each of them."
+msgstr "ミス・ナイヴズの家には5つの重要なアイテムがある。見つけて、それぞれ封印を解かないといけない。"
+
+msgid "Ask Spider What To Do Next"
+msgstr "スパイダーに次やるべきことを訊く"
+
+msgid "I have the 5 items, but I don't know what to do with them."
+msgstr "5つのアイテムが全部揃ったけど、この後どうすればいいのかわからない。"
+
+msgid "Find a Lighter"
+msgstr "ライターを見つける"
+
+msgid "I need to find something to start a fire with."
+msgstr "何か火をつけられるものを見つける必要がある。"
+
+msgid "Burn the 5 Special Items"
+msgstr "5つの特別なアイテムを燃やす"
+
+msgid "I need to burn the items in the correct order. There's a fireplace I could use."
+msgstr "アイテムを正しい順番で燃やす必要がある。暖炉が使えるはず。"
+
+msgid "Bring Alcohol to the Plant"
+msgstr "植物にアルコールを持って行く"
+
+msgid "One of the plants requires alcohol (or water)."
+msgstr "植物のうちひとつが、アルコール(または水)を必要としてる。"
+
+msgid "Bring Food to the Plant"
+msgstr "植物に食べ物を持って行く"
+
+msgid "One of the plants requires to be fed. Meat is recommended."
+msgstr "植物のうちひとつにエサをやらないといけない。おすすめは肉らしい。"
+
+msgid "Play Music for the Plant"
+msgstr "植物のために音楽をかける"
+
+msgid "One of the plants requires music."
+msgstr "植物のうちひとつが、音楽を必要としてる。"
+
+msgid "Bring Flowers to the Plant"
+msgstr "植物に花を持って行く"
+
+msgid "One of the plants requires a flower crown."
+msgstr "植物のうちひとつが、花冠を必要としてる。"
+
+msgid "Perform the Paper Lily ritual"
+msgstr "折り紙の百合の儀式を行う"
+
+msgid "In order to open the door, the letter needs to be folded into a paper lily and placed in the jar."
+msgstr "扉を開けるためには、手紙で百合を折って、瓶に挿す必要がある。"
+
+msgid "Go through the door"
+msgstr "扉を抜ける"
+
+msgid "The door is open. I can go home."
+msgstr "扉は開いている。これで家に帰れる。"
+
+msgctxt "objectives.name.ch1.blackpass_1_leave"
+msgid "Get to the Wardrobe"
+msgstr "衣装戸棚にたどり着く"
+
+msgctxt "objectives.desc.ch1.blackpass_1_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "この夢から覚めるには、最後にある大きな衣装戸棚にたどり着くしかない。"
+
+msgctxt "objectives.name.ch1.blackpass_2_leave"
+msgid "Get to the Wardrobe"
+msgstr "衣装戸棚にたどり着く"
+
+msgctxt "objectives.desc.ch1.blackpass_2_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "この夢から覚めるには、最後にある大きな衣装戸棚にたどり着くしかない。"
+
+msgctxt "objectives.name.ch1.blackpass_3_leave"
+msgid "Get to the Wardrobe"
+msgstr "衣装戸棚にたどり着く"
+
+msgctxt "objectives.desc.ch1.blackpass_3_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "この夢から覚めるには、最後にある大きな衣装戸棚にたどり着くしかない。"
+
+msgctxt "objectives.name.ch1.blackpass_4_leave"
+msgid "Get to the Wardrobe"
+msgstr "衣装戸棚にたどり着く"
+
+msgctxt "objectives.desc.ch1.blackpass_4_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "この夢から覚めるには、最後にある大きな衣装戸棚にたどり着くしかない。"
+
+msgid "Find a _____ for mom"
+msgstr "ママのために_____を見つける"
+
+msgid "It's in a closet in the garage."
+msgstr "ガレージの戸棚にある。"

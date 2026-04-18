@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "希罗的房间。"
+
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go in without permission..."
+msgstr "没得到允许之前，我是不会进去的..."
+
+msgid "You shouldn't go in."
+msgstr "你不应该进去。"
+
+msgid "You won't go in."
+msgstr "你不会进去的。"
+
+msgid "Some books and magazines."
+msgstr "一些书籍和杂志。"
+
+msgid "No reading space would be complete without decorative books."
+msgstr "没有装饰性书籍的阅读空间是不完整的。"
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "这是某种装饰。但你真的不知道这是什么。"
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "这是一幅画，与楼下那幅相似。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting.dlg.narrator"
+msgid "A painting."
+msgstr "一幅画。"
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "这是一幅画，和左边那幅一模一样。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_2.dlg.narrator"
+msgid "A painting."
+msgstr "一幅画。"
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "这是一幅画，和右边那幅一模一样。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_3.dlg.narrator"
+msgid "A painting."
+msgstr "一幅画。"
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "冬天去度假拍的照片。这些照片里都没有你。"
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "一种漂亮的植物。花蕾是不可食用的。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant.dlg.narrator"
+msgid "A plant."
+msgstr "一株植物。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant_2.dlg.narrator"
+msgid "A plant."
+msgstr "一株植物。"
+
+msgid "Some old family pictures."
+msgstr "一些陈旧的家庭照片。"
+
+msgid "The backyard can be seen from here."
+msgstr "从这里可以看到后院。"
+
+msgid "Something is written on the door:"
+msgstr "门上写着什么东西："
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "“这是什么房间？你已经在这待了很久了。"
+
+msgid "Always finding new places to hide away from the world."
+msgstr "你总能找到新的地方藏起来。"
+
+msgid "Did you ever stop hiding?\""
+msgstr "你有停止过逃避吗？”"

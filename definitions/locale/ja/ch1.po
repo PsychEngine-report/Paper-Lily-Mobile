@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"This is a demo.\n"
+"It might not properly represent the quality of the final product."
+msgstr ""
+"これはデモ版です。\n"
+"完成品のクオリティを適切に反映していない可能性があります。"
+
+msgid ""
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"このゲームには激しい光の点滅、\n"
+"および暴力描写や乱暴な言葉遣いが含まれます。"
+
+msgid "Video Creators and Streamers"
+msgstr "映像クリエイター・配信者の皆様"
+
+msgid "Commenters and Reviewers"
+msgstr "コメントやレビューをくれた皆様"
+
+msgid "Our Families and Friends"
+msgstr "家族と友人"
+
+msgid "Additional Thanks"
+msgstr "アディショナルサンクス"
+
+msgid "To our fans for waiting patiently"
+msgstr "辛抱強く待ってくれたファンの皆様"
+
+msgid "To Kaiyo's mom and dad for their unwavering support"
+msgstr "揺るぎなく支え続けてくれたKaiyoのママとパパ"
+
+msgid "To those who sent an encouraging email"
+msgstr "励ましのメールを送ってくれた皆様"
+
+msgid "And to You!"
+msgstr "そしてあなた！"
+
+msgid "Thank you for playing..."
+msgstr "プレイしてくださりありがとうございます……"
+
+msgid "See you in Chapter 2!"
+msgstr "第2章でお会いしましょう！"
+
+msgid "Miss Knives Original Design"
+msgstr "ミス・ナイヴズ オリジナルデザイン"
+
+msgid "Miss Knives Contest Winners"
+msgstr "ミス・ナイヴズのコンテスト受賞者"
+
+msgid "Cabbage Masters"
+msgstr "キャベツマスター"
+
+msgid ""
+"Note from the devs:\n"
+"Congratulations for getting this far in the Paper Lily story!\n"
+"Thank you so much for your support and enthusiasm for this little world we created. Please don't hesitate to leave a review if you have the time, it helps immensely.\n"
+"\n"
+"We're still only two idiots making this game, so if you want to support future development please consider purchasing the supporter pack!"
+msgstr ""
+"開発者より:\n"
+"Paper Lilyの物語のここまでたどり着いて下さったこと、お祝い申し上げます！\n"
+"私たちの創ったこの小さな世界を支援し、熱意をもって迎えていただき、本当にありがとうございます。お時間があれば、気兼ねなくレビューを残していただけるとものすごく助かります。\n"
+"\n"
+"私たちは未だにたった2人のバカだけでこのゲームを作っていますので、今後の開発を支援したい方は、サポーターパックの購入をご検討いただけますと幸いです！"
+
+msgid "True End 1-1 - Against All Odds"
+msgstr "True End 1-1 - 困難を越えて"
+
+msgid "Change into uniform"
+msgstr "制服に着替える"
+
+msgid "Change into indoor clothes"
+msgstr "部屋着に着替える"
+
+msgid "Don't change"
+msgstr "着替えない"
+
+msgid "Things to do"
+msgstr "やることリスト"
+
+msgid "(before I die)"
+msgstr "(死ぬ前に)"
+
+msgid "- Go out"
+msgstr "・外に出る"
+
+msgid "- Eat the meal mom left me"
+msgstr "・ママが残していったご飯を食べる"
+
+msgid "- Fill up the bird feeder"
+msgstr "・鳥のエサ箱を補充する"
+
+msgid "- Feed my Tamaghost"
+msgstr "・たまごーすとにごはんをあげる"
+
+msgid "- Say goodbye to Hiro"
+msgstr "・ヒロにさよならを言う"
+
+msgid "A coffee and a flan"
+msgstr "コーヒーとフラン"
+
+msgid "A coffee and macarons"
+msgstr "コーヒーとマカロン"
+
+msgid "A coffee and an eclair"
+msgstr "コーヒーとエクレア"
+
+msgid "A tea and a flan"
+msgstr "お茶とフラン"
+
+msgid "A tea and macarons"
+msgstr "お茶とマカロン"
+
+msgid "A tea and an eclair"
+msgstr "お茶とエクレア"
+
+msgid "A milkshake and a flan"
+msgstr "ミルクシェイクとフラン"
+
+msgid "A milkshake and macarons"
+msgstr "ミルクシェイクとマカロン"
+
+msgid "A milkshake and an eclair"
+msgstr "ミルクシェイクとエクレア"
+
+msgid "???"
+msgstr "？？？"
+
+msgid "Girl A"
+msgstr "少女A"
+
+msgid "Girl B"
+msgstr "少女B"
+
+msgid "Man"
+msgstr "男性"
+
+msgid "Lady"
+msgstr "女性"
+
+msgid "Child"
+msgstr "子供"
+
+msgctxt "misc.characters.npc_f"
+msgid "Mother"
+msgstr "母親"
+
+msgid "Student"
+msgstr "生徒"
+
+msgid "Bully"
+msgstr "いじめっ子"
+
+msgid "Everyone"
+msgstr "全員"
+
+msgctxt "misc.characters.mother"
+msgid "Mother"
+msgstr "母親"
+
+msgid "Father"
+msgstr "父親"
+
+msgid "Neighbor"
+msgstr "近所の人"
+
+msgid "Long-Faced Monster"
+msgstr "長い顔の怪物"
+
+msgid "One-Eyed Monster"
+msgstr "一つ目の怪物"
+
+msgid "Doctor?"
+msgstr "医者？"
+
+msgid "Voice 1"
+msgstr "声1"
+
+msgid "Voice 2"
+msgstr "声2"
+
+msgid "Voice 3"
+msgstr "声3"
+
+msgid "Prisoner"
+msgstr "囚人"
+
+msgid "Miss Knives (Young)"
+msgstr "ミス・ナイヴズ (幼少期)"
+
+msgid "Iris"
+msgstr "アイリス"
+
+msgid "Boy 1"
+msgstr "少年1"
+
+msgid "Boy 2"
+msgstr "少年2"
+
+msgid "Boy 3"
+msgstr "少年3"

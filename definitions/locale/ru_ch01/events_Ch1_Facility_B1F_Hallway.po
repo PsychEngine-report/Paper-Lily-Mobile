@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's something in there...!"
+msgstr "Там кто-то есть!.."
+
+msgid "Now is probably not a good time to go inside."
+msgstr "Сейчас туда лучше не заходить."
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "Взять ${item:ch1.bucket}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Cool, a bucket."
+msgstr "Ведро, круть."
+
+msgid "You can do lots of things with that."
+msgstr "С ним открывается много возможностей."
+
+msgid "Like...?"
+msgstr "Например?.."
+
+msgid "Hmmm..."
+msgstr "Хм..."
+
+msgid "We could try removing all the water with it."
+msgstr "Можно с его помощью убрать всю воду."
+
+msgctxt "events.Ch1_Facility_B1F_Hallway.misc_bucket.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You could wear it as a hat...?"
+msgstr "Можно надеть его на голову?.."
+
+msgid "A broken terrarium."
+msgstr "Сломанный террариум."
+
+msgid "This looks like the box I was carrying the caterpillar in..."
+msgstr "Похож на коробочку, в которой я носила гусеницу..."
+
+msgid "Large windows."
+msgstr "Большие окна."
+
+msgid "You can vaguely see some machinery inside."
+msgstr "Через них можно смутно рассмотреть какую-то технику."
+
+msgid "You can see something lurking inside."
+msgstr "Вы видите, как внутри кто-то бродит."
+
+msgctxt "events.Ch1_Facility_B1F_Hallway.move_exit.dlg.narrator"
+msgid "There's a door here, but it won't open."
+msgstr "Здесь есть дверь, но она не открывается."
+
+msgid "This is the door to the surface."
+msgstr "Это дверь, ведущая на поверхность."
+
+msgid "...Huh? It's locked?"
+msgstr "...Чего? Она закрыта?"
+
+msgid "Are we trapped after all?"
+msgstr "И всё же мы тут в ловушке?"
+
+msgid "It can't be, I just came through here... Do we need a key?"
+msgstr "Не может быть, у меня только недавно получилось здесь зайти... Нам нужен ключ?"
+
+msgid "There's no keyhole."
+msgstr "Тут нет замочной скважины."
+
+msgid "Huh... good eye."
+msgstr "Во как... глаз-алмаз."
+
+msgid "We'll just have to do as Rune said and go deeper down."
+msgstr "Придётся сделать как сказал Рун и спуститься ниже."
+
+msgctxt "events.Ch1_Facility_B1F_Hallway.move_exit_sai.dlg.narrator"
+msgid "There's a door here, but it won't open."
+msgstr "Здесь есть дверь, но она не открывается."
+
+msgid "There's a crack in the wall."
+msgstr "В стене есть трещина."

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Battle"
+msgstr "戰鬥"
+
+msgid "Move around to avoid the spikes!"
+msgstr "四處移動以躲開尖刺！"
+
+msgid "Minigame: Box Puzzle"
+msgstr "小遊戲: 箱子謎題"
+
+msgid "Push the desks into the green zones to complete the puzzle"
+msgstr "把桌子推到綠色區域以完成謎題"
+
+msgid "Documents"
+msgstr "文件"
+
+msgid "Your papers and notes are stored in the notebook in your inventory."
+msgstr "你的紙張和筆記儲存在物品欄的筆記本中。"
+
+msgid "Hiding"
+msgstr "躲藏"
+
+msgid "Hide in the bushes with {0} to avoid being caught."
+msgstr "使用 {0} 躲在草叢中以避免被抓。"
+
+msgid "Interacting"
+msgstr "互動"
+
+msgid "Press {0} to interact with the environment"
+msgstr "點擊 {0} 以與環境互動"
+
+msgid "Using Items"
+msgstr "使用物品"
+
+msgid "To use an item, stand close and select the item from the menu ({0})"
+msgstr "要使用物品的話，靠近並從選單選擇物品({0})"
+
+msgid "To use an item, stand close and select the item from the menu"
+msgstr "要使用物品的話，靠近並從選單選擇物品"
+
+msgid "Opening the Menu"
+msgstr "開啟選單"
+
+msgid "Press {0} to open the menu and see your items"
+msgstr "點擊 {0} 以開啟選單並瀏覽你的物品"
+
+msgid "Moving"
+msgstr "移動"
+
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "使用 {0}{1}{2}{3} 移動"
+
+msgid "Picking Up Items"
+msgstr "撿起物品"
+
+msgid "Press {0} to pick up items"
+msgstr "點擊 {0} 以撿起物品"
+
+msgid "Running"
+msgstr "奔跑"
+
+msgid "While moving, hold {0} to run"
+msgstr "移動時，按住 {0} 以奔跑"
+
+msgid "Saving the Game"
+msgstr "儲存遊戲"
+
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "烏鴉可以用來儲存你的遊戲。經常儲存，因為未來充滿不確定性"
+
+msgid "Sneaking"
+msgstr "潛行"
+
+msgid "Running will make you easier to spot. Hold {0} to sneak past enemies"
+msgstr "奔跑會讓你更容易被發現。按住 {0} 潛行來繞過敵人"
+
+msgid "Climbing Stairs"
+msgstr "攀爬樓梯"
+
+msgid "Hold {0} while moving to climb up the stairs"
+msgstr "移動時按住 {0} 以攀爬樓梯"
+
+msgid "Timed Event"
+msgstr "限時事件"
+
+msgid "Get to the bus before the time runs out!"
+msgstr "在時間結束前趕上公車！"
+
+msgid "Minigame: Timing Bar"
+msgstr "小遊戲: 時機反應"
+
+msgid "Press {0} when the indicator matches the green zone"
+msgstr "當游標移動到綠色區域時點擊 {0}"

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The silhouette of a large clock is reflected here."
+msgstr "大きな時計のシルエットが映っている。"
+
+msgid "A large window shaped like a clock towers above you."
+msgstr "時計のような形の大きな窓が上にそびえている。"
+
+msgid "The time is set to 12:00."
+msgstr "時刻は12時だ。"
+
+msgid "There you are!"
+msgstr "あ、いた！"
+
+msgid "How'd you get in there?"
+msgstr "どうやって入ったんだ？"
+
+msgid "I got zapped, like there's something keeping me out."
+msgstr "俺は何かに阻まれたみたいにバチッてなったぜ。"
+
+msgid "Really?"
+msgstr "ほんとに？"
+
+msgid "You didn't even notice me gone!?"
+msgstr "俺がいないのも気付かなかったのか!?"
+
+msgid "...."
+msgstr "……"
+
+msgid "No."
+msgstr "うん。"
+
+msgid "Cold..."
+msgstr "冷たいな……"
+
+msgid "So what was in there anyway?"
+msgstr "で、中には何があったんだ？"
+
+msgid "Anything fun?"
+msgstr "楽しいものか？"
+
+msgid "Yes, very fun."
+msgstr "うん、すごく楽しかった。"
+
+msgid "What? Really??"
+msgstr "何？　マジか??"
+
+msgid "What was it?"
+msgstr "何があったんだ？"
+
+msgid "I can't tell you."
+msgstr "言えない。"
+
+msgid "Huh?!"
+msgstr "はぁ!?"
+
+msgid "Why not??"
+msgstr "何でだよ??"
+
+msgid "Because it's more fun that way."
+msgstr "そのほうがもっと楽しいから。"
+
+msgid "No way, don't do me dirty like this!"
+msgstr "おい、意地悪はやめろよ！"
+
+msgid "..."
+msgstr "……"
+
+msgid "(It's strange though. Why wasn't he able to enter?)"
+msgstr "(でも不思議。どうしてサイは入れなかったんだろう？)"

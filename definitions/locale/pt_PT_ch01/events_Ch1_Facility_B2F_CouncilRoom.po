@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wow."
+msgstr "Uau."
+
+msgid "Is this a meeting room or something...?"
+msgstr "É uma sala de reuniões ou algo do género...?"
+
+msgid "What do you think they held meetings about?"
+msgstr "Sobre o que é que achas que eram as reuniões?"
+
+msgid "Wait..."
+msgstr "Espera..."
+
+msgid "Who do you think held meetings?"
+msgstr "Quem é que achas que organizava as reuniões?"
+
+msgid "Looks like a room where you plot world domination."
+msgstr "Parece uma sala onde se planeia o domínio do mundo."
+
+msgid "Think those windows lead anywhere?"
+msgstr "Acha que aquelas janelas dão para algum lado?"
+
+msgid "..."
+msgstr "..."
+
+msgid "You okay?"
+msgstr "Estás bem?"
+
+msgid "Yes. I just have this persistent headache following me around."
+msgstr "Sim. Só que tenho uma dor de cabeça persistente a perseguir-me."
+
+msgid "Oh. That sucks."
+msgstr "Ah. Isso é uma merda."
+
+msgid "A chair. It's nailed to the ground."
+msgstr "Uma cadeira. Está pregada ao chão."
+
+msgid "There's some sort of clothing hanging from the chair. You can't see very well."
+msgstr "Há uma espécie de roupa pendurada na cadeira. Não consigo ver muito bem."
+
+msgid "There's a coat hanging from the chair."
+msgstr "Há um casaco pendurado na cadeira."
+
+msgid "Put it on"
+msgstr "Vesti-lo"
+
+msgid "Check the pockets"
+msgstr "Revirar os bolsos"
+
+msgid "Don't touch it"
+msgstr "Não lhe tocar"
+
+msgid "There's a note in one of the pockets:"
+msgstr "Há um bilhete num dos bolsos:"
+
+msgid "${img:stamp_council} MEETING 221 NOTES"
+msgstr "${img:stamp_council} NOTAS DA REUNIÃO 221"
+
+msgid "\"...members are growing increasingly restless....\""
+msgstr "\"...membros estão cada vez mais inquietos....\""
+
+msgid "\"...expressing disapproval for Lilith...\""
+msgstr "\"...expressar desaprovação por Lilith…\""
+
+msgid "\"...might be planning to oust her...\""
+msgstr "\"...pode estar a planear destituí-la…\""
+
+msgid "\"...could get ugly really fast...\""
+msgstr "\"...podem ficar feias muito rápido…\""
+
+msgid "A round table."
+msgstr "Uma mesa redonda."
+
+msgid "(It almost looks like... an eye?)"
+msgstr "(Parece quase... um olho?)"
+
+msgid "There's a valve handle on the desk."
+msgstr "Há uma válvula na secretária."
+
+msgid "Take ${item:ch1.facility_handle_pentagon}?"
+msgstr "Levar a ${item:ch1.facility_handle_pentagon}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "A bright, imposing window."
+msgstr "Uma janela brilhante e imponente."

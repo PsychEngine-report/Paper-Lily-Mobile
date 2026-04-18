@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "我不想帶著這些到處走..."
+
+msgid "(Discarded ingredients)."
+msgstr "(拋棄了材料)。"
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "我還沒準備好製作這東西的所有原料..."
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "我缺少了\"藝術家的靈感\"..."
+
+msgid "Could it be Kett's flowers?"
+msgstr "難道會是蓋特的花？"
+
+msgid "What in the world is that?"
+msgstr "那到底是什麼東西？"
+
+msgid "(You don't know what to do with this...)"
+msgstr "(妳不知道該拿這個怎麼辦...)"
+
+msgid "You can't cut through that with scissors."
+msgstr "妳無法用剪刀剪開這個。"
+
+msgid "Some books about cursed trees."
+msgstr "一些關於被詛咒的樹的書。"
+
+msgid "Read a passage?"
+msgstr "閱讀其中一段嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "\"雖然被詛咒的樹通常很小，但是它們卻有一種特性，可以將根部延伸至 60 公尺的距離。"
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "它們的根能夠延伸到地下的更深處。目前尚不清楚它們能抵達多遠的地方。\""
+
+msgid "Four small blue butterflies on display."
+msgstr "四隻藍色小蝴蝶被展示著。"
+
+msgid "They're somewhat mesmerizing."
+msgstr "它們有點令人著迷。"
+
+msgid "A large blue butterfly on display."
+msgstr "一隻巨大藍色蝴蝶被展示著。"
+
+msgid "It's kind of mesmerizing..."
+msgstr "它有點令人著迷..."
+
+msgid "A small blue butterfly on display."
+msgstr "一隻小藍色蝴蝶被展示著。"
+
+msgid "It's not as mesmerizing."
+msgstr "它沒有那麼令人著迷。"
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "用於混合物質的簡單化學設備。"
+
+msgid "Some bottles and other containers."
+msgstr "一些瓶子和其他容器。"
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "一本寫滿了對各種題材廣泛研究的書。"
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "抽屜裡還有個交流電源轉接頭。"
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "拿走 ${item:ch1.forest_adapter} 嗎？"
+
+msgid "Some notes on curse removal rituals."
+msgstr "關於消除詛咒儀式的一些筆記。"
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "拿走 ${item:ch1.red_notes} 嗎？"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "(我可以拿它來做任何事嗎...？)"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "空桌子，妳從這裡偷了筆記。"
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "一個紅色玩偶。兩隻眼睛都染上了顏色。"
+
+msgid "I know this."
+msgstr "我知道這個。"
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "這是一個可以幫助你實現願望的玩偶。"
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "許願的時候為一顆眼睛上色，然後玩偶就會幫忙實現。"
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "作為回報，達成目標的時候，就為另一顆眼睛上色..."
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "...本質上就是讓玩偶重見光明以表達謝意。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "廣人讀過很多這種類型的東西。"
+
+msgid "I wonder what this person's wish was."
+msgstr "不知道這個人許了什麼願。"
+
+msgid "Some books about butterflies."
+msgstr "一些關於蝴蝶的書。"
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "\"每解除一個詛咒，一隻蝴蝶就會出現。"
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "牠們會被詛咒的樹吸引並鑽入樹幹，隨著時間推移，樹幹會變得完全中空。"
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "目前尚不清楚為什麼會發生這種行為。\""
+
+msgid "A furnace."
+msgstr "一座熔爐。"
+
+msgid "Inside is a... thing."
+msgstr "裡面有個...東西。"
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "這是...藝術品嗎？看來像是雕塑的軀體之類的東西。"
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "也許可以給柯茲莫用，但是他可能會恨我。"
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "拿走 ${item:ch1.red_pot} 嗎？"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "一些關於移除詛咒的未完成筆記。"
+
+msgid "I don't really understand any of this."
+msgstr "我真的不太懂這些東西。"
+
+msgid "A small plant."
+msgstr "小型植物。"
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "葉子看起來像是被打成一個蝴蝶結。"
+
+msgid "A plant that looks like a bow."
+msgstr "看起來像蝴蝶結的植物。"
+
+msgid "Some purple mushrooms are growing here."
+msgstr "這裡長著一些紫色蘑菇。"
+
+msgid "Some black mushrooms are growing here."
+msgstr "這裡長著一些黑色蘑菇。"
+
+msgid "Some pink plants are growing here."
+msgstr "這裡長著一些粉紅植物。"
+
+msgid "The carpet here seems suspicious."
+msgstr "地毯看起來很可疑。"
+
+msgid "Take a closer look?"
+msgstr "仔細觀察嗎？"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "有個梯子，但是入口被掛鎖鎖住了。"
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "架子上擺放著園藝用品。"
+
+msgid "A tree filled with blue butterflies."
+msgstr "長滿了藍色蝴蝶的樹。"
+
+msgid "Thin vertical windows."
+msgstr "細長的窗戶。"

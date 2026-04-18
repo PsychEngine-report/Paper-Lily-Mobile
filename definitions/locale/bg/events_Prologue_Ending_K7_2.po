@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Вече е отключено."
+
+msgid "...but there's nothing inside."
+msgstr "…но вътре няма нищо."
+
+msgid "There's some schematics for some sort of machine you don't really understand."
+msgstr "Има някакви схеми за някакъв вид машина която не разбираш напълно."
+
+msgid "What's that?"
+msgstr "Какво е това?"
+
+msgid "Not a clue... but I'm taking it."
+msgstr "Нямам идея… но ще я взема."
+
+msgid "There's some official-looking documents here."
+msgstr "Тук има някои официално изглеждащи документи."
+
+msgid "Read them?"
+msgstr "Прочети ги?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "${img:stamp_council} MEETING 176 NOTES"
+msgstr "${img:stamp_council} ЗАПИСКИ ОТ СРЕЩАТА 176"
+
+msgid "\"...disagreements on the distribution of the....\""
+msgstr "\"...неразбирателство от дистрибуцията на....\""
+
+msgid "\"...is still not participating in our...\""
+msgstr "\"...все още не участва в нашия...\""
+
+msgid "\"...the secondary duty of guardians...\""
+msgstr "\"...втория дълг на пазителите...\""
+
+msgid "\"...collection of stones from every...\""
+msgstr "\"...колекция от камъни от всеки...\""
+
+msgid "The document continues making little sense for several pages."
+msgstr "Документът продължава без да има много смисъл в продължение на няколко страници."
+
+msgid "..."
+msgstr "..."
+
+msgid "What the hell am I reading?"
+msgstr "Какво за бога чета в момента?"
+
+msgid "There's nothing else of interest."
+msgstr "Няма нищо друго интересно."
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Щипката за коса не влиза в тази ключалка."
+
+msgid "The key fits!"
+msgstr "Ключа пасва!"
+
+msgid "They're already open."
+msgstr "Вече са отворени."
+
+msgid "Despite your best efforts, you can't seem to cut through it with your scissors."
+msgstr "Въпреки най-добрите ти усилия, изглежда не можеш да проникнеш с твоите ножици."
+
+msgid "The box contains an assortment of differently sized blue cans."
+msgstr "Кутията съдържа асортимент от различни по размер сини консерви."
+
+msgid "A pile of boxes."
+msgstr "Купчина кутии."
+
+msgid "They seem to be stuck together."
+msgstr "Изглежда са залепени едно с друго."
+
+msgid "A large locker."
+msgstr "Голямо шкафче."
+
+msgid "It's locked."
+msgstr "Заключено е."
+
+msgid "It's empty."
+msgstr "Празно е."
+
+msgid "A trash can."
+msgstr "Кошче за боклук."
+
+msgid "Some black goo can be seen at the bottom."
+msgstr "Някаква черна слуз може да се види на дъното."
+
+msgid "A pile of trash cans."
+msgstr "купчина алуминиеви кенчета."
+
+msgid "So... maybe the ritual worked?"
+msgstr "Изглежда… може би ритуала сработи?"
+
+msgid "But the ritual wasn't finished."
+msgstr "Но ритуала не е завършен."
+
+msgid "Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore."
+msgstr "Това означава, че или в училището има куп прокълнати стаи и мрачна тайна, или това вече не е училището."
+
+msgid "If it's not the school, then what is it?"
+msgstr "Ако не е училището, то какво е?"
+
+msgid "No idea."
+msgstr "Нямам идея."
+
+msgid "In any case, it doesn't feel too dangerous, so let's continue."
+msgstr "Във всеки случай, не се чувства за толкова опасно, така че нека продължим."

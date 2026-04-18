@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It makes me happy to see you carry your cellphone around."
+msgstr "Я радий, що ти носиш із собою свій телефон."
+
+msgid "Because you're the one that got it for me?"
+msgstr "Тому що це ти його мені подарував?"
+
+msgid "That, but also..."
+msgstr "Не тільки через це..."
+
+msgid "...how to put this..."
+msgstr "...як би висловитись..."
+
+msgid "It would be easy to forget it in a drawer if you don't have much use for it."
+msgstr "Якщо ним не користуватимешся, то запросто залишиш його десь у шухлядці."
+
+msgid "...At the very least, it makes for a good flashlight."
+msgstr "...Принаймні з нього виходить хороший ліхтарик."
+
+msgid "Right! What matters is that you carry it with you."
+msgstr "Вірно! Головне, що ти його із собою носиш."
+
+msgid "Yeah."
+msgstr "Точно."
+
+msgid "You already have my number."
+msgstr "У тебе вже є мій номер."
+
+msgid "Or are you showing me your wallpaper?"
+msgstr "Чи ти хочеш похизуватися своїми шпалерами?"
+
+msgid "Look."
+msgstr "Диви."
+
+msgid "What's this?"
+msgstr "Що це таке?"
+
+msgid "Apparently, it's my ticket back home."
+msgstr "Схоже, це мій квиток додому."
+
+msgid "Really?"
+msgstr "Правда?"
+
+msgid "If this ritual ends up working..."
+msgstr "Якщо ритуал спрацює..."
+
+msgid "(...And this doorknob isn't just some online scam...)"
+msgstr "(...і якщо ця ручка - не обман...)"
+
+msgid "Then supposedly I can use this on a special door and it'll take me back home."
+msgstr "То ніби-то я зможу вставити її в особливі двері, які відправлять мене додому."
+
+msgid "Really?!"
+msgstr "Правда?!"
+
+msgid "Yeah, well, I wasn't going to do this ritual without a plan."
+msgstr "Звичайно. Як можна здійснювати ритуал без плану?"
+
+msgid "Thank goodness."
+msgstr "Ну й слава богу."
+
+msgid "All of my pestering worked."
+msgstr "Не просто так я докучав з цим."
+
+msgid "Don't lose it!!"
+msgstr "Не смій це втратити!!"
+
+msgid "Of course."
+msgstr "Добре."
+
+msgid "(This should reassure him a bit.)"
+msgstr "(Схоже, це його трохи заспокоїло.)"
+
+msgid "(Reassurance complete. No need to bring this back up.)"
+msgstr "(Заспокоєння пройшло успішно. Не треба підіймати цю тему.)"
+
+msgid "Are you going to try on makeup?"
+msgstr "Ти хочеш нанести собі макіяж?"
+
+msgid "Or maybe..."
+msgstr "Або..."
+
+msgid "You want to put it on me???"
+msgstr "Ти хочеш нанести його мені???"
+
+msgid "...I was just showing you..."
+msgstr "...Я просто показую..."
+
+msgid "Oh..."
+msgstr "Ось воно як..."
+
+msgid "You sound almost... disappointed?"
+msgstr "Ти ніби... розчарувався."
+
+msgid "Do you need help putting lipstick on?"
+msgstr "Тобі нафарбувати губи?"
+
+msgid "I-I'm not using it!"
+msgstr "Н-не треба мені нічого фарбувати!"
+
+msgid "You do know that you're supposed to do that while the person is asleep, right?"
+msgstr "Ти ж знаєш, що цим треба займатися, коли жертва спить?"
+
+msgid "You seemed so concentrated, I thought I could pull it off."
+msgstr "У тебе був такий зосереджений вигляд, може й вийшло б."
+
+msgid "I think I'll be locking my room tonight..."
+msgstr "Так, зачиню-но в себе двері на ніч..."
+
+msgid "Drawing on Hiro's face will have to wait."
+msgstr "Намалюємо щось на обличчі Хіро пізніше."
+
+msgid "Lace, I don't know what you're planning with that,"
+msgstr "Лейсі, не знаю, що ти збираєшся з цим робити,"
+
+msgid "but it's gonna be really hard to wash off."
+msgstr "але відмити це потім буде ой як нелегко."
+
+msgid "Yeah... I'm aware."
+msgstr "Ну так... я знаю."
+
+msgid "Um... do you need me to get up?"
+msgstr "Ем... мені встати?"
+
+msgid "Are you painting this bench?"
+msgstr "Ти хочеш пофарбувати лавку?"
+
+msgid "N-no... sorry."
+msgstr "Н-ні... вибач."
+
+msgid "Okay, turn around."
+msgstr "Добре, розвернись."
+
+msgid "...Huh?"
+msgstr "...Га?"
+
+msgid "You don't want me to tie your hair with the ribbon?"
+msgstr "Ти хіба не хочеш, щоб я допоміг тобі заплести волосся?"
+
+msgid "Oh! I forgot we used to do that."
+msgstr "О! Я й забула, що ми так колись робили."
+
+msgid "But I need it for something else, so no."
+msgstr "Проте мені це знадобиться для дечого іншого."
+
+msgid "Bummer!"
+msgstr "Облом!"
+
+msgid "Tying your hair will have to wait."
+msgstr "Доведеться заплести волосся пізніше."
+
+msgid "...This is...?"
+msgstr "...А це що?.."
+
+msgid "A rune, for the ritual."
+msgstr "Руна для ритуалу."
+
+msgid "Oh... It's just a rock with a greek letter?"
+msgstr "О... камінчик з грецькою літерою?"
+
+msgid "It's not greek, but yeah, more or less."
+msgstr "Вона не грецька, але ти приблизно вгадав."
+
+msgid "Interesting."
+msgstr "Цікаво."
+
+msgid "No reason to show him again."
+msgstr "Не треба це знову йому показувати."
+
+msgid "The salt goes on the inside only..."
+msgstr "Сіль треба розсипати зсередини..."
+
+msgid "Oh...? Lacie is learning to cook?"
+msgstr "Га?.. Лейсі вчиться готувати?"
+
+msgid "No, not yet."
+msgstr "Ні, поки ні."
+
+msgid "Aww... It could've been fun!"
+msgstr "Ой прикро... а було б весело!"
+
+msgid "Maybe some other time."
+msgstr "Іншим разом, може."
+
+msgid "Hiro needs no further seasoning."
+msgstr "Не треба солити Хіро."
+
+msgid "My shoelaces! It's going to take ages to lace those back!"
+msgstr "Мої шнурки? Я їх буду сто років зашнуровувати їх назад!"
+
+msgid "I'm sorry, it's necessary."
+msgstr "Вибач, мені вони потрібні."
+
+msgid "Those are my favorite, please don't lose them."
+msgstr "Вони мої улюблені... благаю, не загуби їх."
+
+msgid "Lucky shoes? Or lucky shoelaces?"
+msgstr "Що саме улюблені? Шнурки чи кросівки?"
+
+msgid "Lucky nothing if you lose them!!"
+msgstr "Якщо загубиш, то це не буде грати різниці!!"
+
+msgid "I'll be careful!"
+msgstr "Буду обачною!"
+
+msgid "Here, take a look at them one last time."
+msgstr "Ось, поглянь на них востаннє."
+
+msgid "Whaaat?"
+msgstr "Щоооо?"
+
+msgid "I have to burn them for the ritual."
+msgstr "Їх треба спалити для ритуалу."
+
+msgid "Can't you use different ones?"
+msgstr "А ти можеш скористатись іншими?"
+
+msgid "They have to be red, and worn by a dummy."
+msgstr "Вони мають бути червоними, а їх власник має бути дурником."
+
+msgid "There's no way it says that..."
+msgstr "Не повірю, що там так написано..."
+
+msgid "Let's not tease him anymore."
+msgstr "Перестаньмо дражнити його."
+
+msgid "Are you learning how to sew?"
+msgstr "Ти вчишся вишивати?"
+
+msgid "Not this year."
+msgstr "Тільки не цього року."
+
+msgid "I have a hole on this sweater you can practice on, you know."
+msgstr "У мене на светрі з'явилася дірка, можеш потренуватись."
+
+msgid "And risk damaging the kitty pattern even further?"
+msgstr "Щоб я ще більше пошкодила візерунок з кошенятами?"
+
+msgid "I believe in you!"
+msgstr "Я в тебе вірю!"
+
+msgid "Make me a new sweater or something."
+msgstr "Навіть не знаю, зший мені новий светр."
+
+msgid "This isn't yarn..."
+msgstr "Я не пряля..."
+
+msgid "Hiro isn't here."
+msgstr "Хіро тут немає."
+
+msgid "A nice bench, isolated from the public gaze."
+msgstr "Гарна лавка, схована від сторонніх очей."
+
+msgid "A bush."
+msgstr "Кущ."
+
+msgid "A nice chair."
+msgstr "Гарний стілець."
+
+msgid "Some pretty flowers are lined up on the sides."
+msgstr "Один навпроти одного в ряд посаджені красиві квіти."
+
+msgid "A pond surrounded by flowers."
+msgstr "Ставок, прикрашений квітами."
+
+msgid "I wish we had frogs here."
+msgstr "Якби в нас тільки були жабки."
+
+msgid "Lamps that look a lot nicer at night."
+msgstr "Лампи, які розкривають свою красу вночі."
+
+msgid "Another nice plant."
+msgstr "Ще одна чудова рослина."
+
+msgid "Some pretty flowers."
+msgstr "Милі квіточки."
+
+msgid "A potted plant. This one is called Jacques."
+msgstr "Горщик з квіткою на ім'я Жак."
+
+msgid "A potted plant."
+msgstr "Горщик з квіткою."
+
+msgid "A potted plant. This one is called Lucardo."
+msgstr "Горщик з квіткою на ім'я Люкардо."
+
+msgid "A nice table."
+msgstr "Гарний стіл."
+
+msgid "A tree."
+msgstr "Дерево."

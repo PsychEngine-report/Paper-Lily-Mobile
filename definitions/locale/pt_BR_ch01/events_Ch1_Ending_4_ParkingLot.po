@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What seems like a trash bag."
+msgstr "O que parece ser um saco de lixo."
+
+msgid "It has dust all over."
+msgstr "Tem poeira por toda parte."
+
+msgid "A wooden crate."
+msgstr "Uma caixa de madeira."
+
+msgid "A bus. It doesn't seem to have been used in a long time."
+msgstr "Um ônibus. Parece que não é usado há muito tempo."
+
+msgid "There's another bus stacked on top of it."
+msgstr "Há outro ônibus empilhado em cima dele."
+
+msgid "A broken bus is stacked on top of it."
+msgstr "Um ônibus quebrado está empilhado em cima dele."
+
+msgid "A keypad."
+msgstr "Um teclado."
+
+msgid "It doesn't seem to be working."
+msgstr "Não parece estar funcionando."
+
+msgid "Touch some buttons?"
+msgstr "Tocar em alguns botões?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "The keypad does not respond in any way."
+msgstr "O teclado não responde de forma alguma."
+
+msgid "Looks like a mailbox."
+msgstr "Parece uma caixa de correio."
+
+msgid "There's no mail right now."
+msgstr "Não há correspondência no momento."
+
+msgid "A small light. It changes colors every few seconds."
+msgstr "Uma pequena luz. Ele muda de cor a cada poucos segundos."
+
+msgid "Strange street signs fill the walls."
+msgstr "Estranhas placas de rua preenchem as paredes."
+
+msgid "A garage door."
+msgstr "Uma porta de garagem."
+
+msgid "Can I get this open somehow?"
+msgstr "Posso abrir isso de alguma forma?"

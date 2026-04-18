@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You left a flower.)"
+msgstr "(花を供えた。)"
+
+msgid "Some building blocks."
+msgstr "いくつかの積み木。"
+
+msgid "A sand bucket."
+msgstr "砂遊び用のバケツ。"
+
+msgid "A stack of playing cards. They look handmade."
+msgstr "一山のトランプ。手作りのようだ。"
+
+msgid "A gravestone lies here. You can't make out the name on it."
+msgstr "墓石がある。名前は判読できない。"
+
+msgid "There's a neatly written note taped to the back of the gravestone."
+msgstr "丁寧に書かれたメモが、墓石の裏にテープで留めてある。"
+
+msgid "Read it?"
+msgstr "メモを読む？"
+
+msgid "Yes"
+msgstr "読む"
+
+msgid "No"
+msgstr "読まない"
+
+msgid "It's been 5 years since your passing."
+msgstr "あなたが死んでもう5年になる。"
+
+msgid "I often wonder if things would have been different, had I been with you."
+msgstr "もし状況が違っていたら、もし立場が逆だったら、なんて、今でもよく考えてしまう。"
+
+msgid "Would I have been able to protect you?"
+msgstr "そうしたら、わたしはあなたを守れたかな？"
+
+msgid "Would I have died in your place?"
+msgstr "あなたの代わりに死ねたかな？"
+
+msgid "I would have gladly accepted that resolution."
+msgstr "それであなたが助かるなら、わたしは喜んでその解決策を受け入れたと思う。"
+
+msgid "I wish I was strong and brave enough to fight for you."
+msgstr "わたしが強くて、勇敢で、あなたのために戦えていればよかったのに。"
+
+msgid "But vengeance won't bring you back."
+msgstr "でも、復讐してもあなたは帰ってこない。"
+
+msgid "I can only continue to warn everyone, and hope the locked site doesn't take another victim."
+msgstr "わたしにできるのは、皆に警告を続けて、封鎖区域が新たな犠牲者を生まないよう祈ることだけ。"
+
+msgid "It's been quiet in the forest for the past few years."
+msgstr "ここ数年、森では平穏が続いてる。"
+
+msgid "But I know you always hated quiet."
+msgstr "でも、あなたはいつも平穏が大嫌いだったよね。"
+
+msgid "Please rest well."
+msgstr "ゆっくり休んで。"
+
+msgid "I'll visit you again soon."
+msgstr "またすぐ来るからね。"
+
+msgid "- Marzie"
+msgstr "――マージー"
+
+msgid "A vase with fresh cut flowers."
+msgstr "まだ新しい花々が活けられた花瓶。"

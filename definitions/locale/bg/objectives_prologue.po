@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Explore your surroundings"
+msgstr "Изследвай обкръжението си"
+
+msgid "I woke up in a strange garden. Where am I?"
+msgstr "Събудих се в странна градина. Къде съм?"
+
+msgid "Check your notes to refresh your memory"
+msgstr "Провери записките си, за да си спомниш"
+
+msgid "I should go over my ritual notes to make sure I don't forget anything."
+msgstr "Трябва да погледна отново записките си за да съм сигурна че не пропускам нещо."
+
+msgid "Gather items for the ritual"
+msgstr "Събери предмети за ритуала"
+
+msgid "I should gather everything I'll need for the ritual first."
+msgstr "Първо трябва да събера всичко от което имам нужда."
+
+msgid "Chalk"
+msgstr "Тебешир"
+
+msgid "This is a school - surely I can find chalk here."
+msgstr "Това е училище - сигурно ще открия тебешир там."
+
+msgid "Candles"
+msgstr "Свещи"
+
+msgid "I brought some from home."
+msgstr "Донесох малко от вкъщи."
+
+msgid "A tuft of hair"
+msgstr "кичур коса"
+
+msgid "It has to be human hair."
+msgstr "Трябва да е човешка коса."
+
+msgid "A rune"
+msgstr "Руна"
+
+msgid "My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there."
+msgstr "Приятелят ми каза, че окултният клуб пази руни някъде в стаята си. Имам нужда от един за моя ритуал, така че трябва да го търся там."
+
+msgid "Find a way to open the box with the runes"
+msgstr "Намери начин да отвориш кутията с помощта на руните"
+
+msgid "I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick."
+msgstr "Намерих кутията с руните в окултния клуб, но тя е запечатана с лента - всичко остро трябва да свърши работа."
+
+msgid "Sort the desks in all three classrooms"
+msgstr "Групирай чиновете във всичките три класни стаи"
+
+msgid "According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms."
+msgstr "Според ритуалните инструкции, трябва да премахна чиновете от всички три класни стаи."
+
+msgid "Shut the curtains in all three classrooms"
+msgstr "Закрий завесите във всички три класни стаи"
+
+msgid "According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut."
+msgstr "Според ритуалните инструкции, трябва за затъмня възможно най-много, така че завесите трябва да се спуснат."
+
+msgid "Find a curtain to replace the missing one in Classroom 3-B"
+msgstr "Намерете завеса, която да замени липсващата в класна стая 3-Б"
+
+msgid "I can't shut all the curtains if one of them is missing. I need to find something to cover that window."
+msgstr "Не мога да затворя всички завеси, ако една от тях липсва. Трябва да намеря нещо, което да покрие този прозорец."
+
+msgid "Find a way into the Theater Club room"
+msgstr "Намери начин да влезеш в Театърния клуб"
+
+msgid "I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in."
+msgstr "Почти съм убедена че ще открия някакви завеси в стаята на Театралния клуб, но тя е заключена. Трябва да намеря начин да вляза."
+
+msgid "Retrieve the girl's notebook"
+msgstr "Вземи бележника на момичето"
+
+msgid "One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it."
+msgstr "Едно от момичетата е забравило своя бележник в стая 3-Ц. Ако го взема, може би тя ще ми даде на заем своя ключ за клуба. Тя забрани да гледам вътре."
+
+msgid "Finalize ritual preparations"
+msgstr "Финализирай ритуалните приготовления"
+
+msgid "Finally, I need to set candles, and draw a path with chalk in all 3 classrooms."
+msgstr "И последно, трябва да сложа свещи и да нарисувам пътека с тебешир във всичките 3 класни стаи."
+
+msgid "Draw a path with chalk in all 3 classrooms"
+msgstr "Нарисувай път с тебешира във всяка от трите класни стаи"
+
+msgid "I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it."
+msgstr "Трябва да нарисувам път с тебешира, от етажа който свързва и трите класни стаи. Моето рисуване може да ми помогне да го визуализирам."
+
+msgid "Set and light candles in the middle room"
+msgstr "Постави и запали свещите в средната стая"
+
+msgid "I need to set and light the candles on top of all the desks in classroom 3-B."
+msgstr "Трябва да взема и запаля свещта отгоре на чиновете в класна стая 3-Б."
+
+msgid "Burn the hair tuft on a candle"
+msgstr "Изгори кичура коса върху свеща"
+
+msgid "Preparations are complete. Let's burn the hair tuft on a candle to start the ritual."
+msgstr "Подготовките са завършени. Хайде да изгорим кичура и да започваме ритуала."
+
+msgid "Explore the strange place"
+msgstr "Изследвай странното място"
+
+msgid "I arrived at a mysterious location, let's take a look around!"
+msgstr "Пристигнах на мистериозна дестинация, хайде да разгледаме наоколо!"
+
+msgid "Escape this cursed place"
+msgstr "Избягай това прокълнато място"
+
+msgid "This isn't fun anymore. I need to find a way back!"
+msgstr "Това вече не е забавно. Трябва да открия път обратно!"
+
+msgid "Go home"
+msgstr "Отиди у дома"
+
+msgid "I'm going home. Maybe I'll finish the ritual some other time."
+msgstr "Отивам у дома. Може би ще завърша ритуала някой друг път."
+
+msgid "Test your theory"
+msgstr "Тествай своята теория"
+
+msgid "If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case... right?"
+msgstr "Ако наистина съм заклещена в затворен цикъл, тогава хиксът Х ще бъде там когато тръгна гори или долу. Но това не може да е случая... нали?"

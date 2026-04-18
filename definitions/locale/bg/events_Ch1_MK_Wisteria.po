@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You're done."
+msgstr "Готови сте."
+
+msgid "Good work."
+msgstr "Добра работа."
+
+msgid "What now?"
+msgstr "Сега какво?"
+
+msgid "Now, all of these objects need to be burned in the correct order."
+msgstr "Сега всички тези обекти трябва да бъдат изгорени в правилния ред."
+
+msgid "What's the order?"
+msgstr "Какъв е редът?"
+
+msgid "That's for you to figure out. The hands over there might provide a clue."
+msgstr "Това трябва да разберете сами. Ръцете там може да ви подскажат."
+
+msgid "I see..."
+msgstr "Разбирам…"
+
+msgid "Make sure you have a way to light the fireplace as well."
+msgstr "Уверете се, че имате начин да запалите и камината."
+
+msgid "Oh, that's true..."
+msgstr "О, това е така…"
+
+msgid "(Are there any places I haven't checked yet...?)"
+msgstr "(Има ли места, които още не съм проверила…?)"
+
+msgid "Lastly... this whole thing tends to culminate with candles going out."
+msgstr "И накрая… цялото това нещо обикновено завършва с гасене на свещи."
+
+msgid "Therefore, if you see any candles, put them out."
+msgstr "Затова, ако видите някакви свещи, изгасете ги."
+
+msgid "Understood."
+msgstr "Разбрах."
+
+msgid "One more thing."
+msgstr "Още едно нещо."
+
+msgid "I couldn't help but notice how weak you look."
+msgstr "Не можах да не забележа колко слабо изглеждаш."
+
+msgid "The challenges ahead might be beyond your capabilities."
+msgstr "Предизвикателствата пред вас може да се окажат непосилни за вас."
+
+msgid "There's an object inside my old hiding spot that can help with that."
+msgstr "В старото ми скривалище има предмет, който може да помогне за това."
+
+msgid "Spider is just dangling there."
+msgstr "Паяче просто си виси там."
+
+msgid "Psst..."
+msgstr "Псст…"
+
+msgid "Over here."
+msgstr "Ей тук."
+
+msgid "Here. On the wall."
+msgstr "Тук. На стената."
+
+msgid "..."
+msgstr "…"
+
+msgid "Spider...?"
+msgstr "Паяче…?"
+
+msgid "Yes."
+msgstr "Да."
+
+msgid "Is that really you?"
+msgstr "Наистина ли си ти?"
+
+msgid "Huh... you really meant it when you said you talked to a spider."
+msgstr "Хм… наистина си го мислила сериозно, когато си казала, че си говорила с паяк."
+
+msgid "He looked different last time, but it's still basically a spider."
+msgstr "Последния път изглеждаше различно, но все още е основно паяк."
+
+msgid "Oh. There's two of you now."
+msgstr "Оу. Вече сте двама."
+
+msgid "Well, no matter."
+msgstr "Е, няма значение."
+
+msgid "You look... different."
+msgstr "Изглеждаш… различно"
+
+msgid "...But I can't quite put my finger on it."
+msgstr "…Но не мога да си го обясня с пръст."
+
+msgid "I don't appreciate your humor."
+msgstr "Не оценявам хумора ти."
+
+msgid "Miss Knives discovered my hiding spot."
+msgstr "Мис Найвс откри моето скривалище."
+
+msgid "She's not fond of my presence."
+msgstr "Тя не обича присъствието ми."
+
+msgid "So she turned me into... this."
+msgstr "Така че тя ме превърна в… това."
+
+msgid "It's pathetic."
+msgstr "Жалко е."
+
+msgid "Damn, she must have crazy powers."
+msgstr "По дяволите, сигурно има луди сили."
+
+msgid "Is she really that powerful?"
+msgstr "Наистина ли е толкова могъща?"
+
+msgid "Not quite."
+msgstr "Не съвсем."
+
+msgid "You both must have had some time to look around this place by now."
+msgstr "И двамата вече трябва да сте имали време да разгледате това място."
+
+msgid "You must have had some time to look around this place by now."
+msgstr "Вероятно към този момент, си имала предостатъчно време да огледаш наоколо."
+
+msgid "Did you figure out anything strange?"
+msgstr "Установи ли нещо странно?"
+
+msgid "You mean aside from... everything?"
+msgstr "Имаш предвид освен… всичко друго?"
+
+msgid "Kind of a tall order, pal."
+msgstr "Това е доста висока мисия, друже."
+
+msgid "...Well..."
+msgstr "…Ами…"
+
+msgid "The location of this house is strange."
+msgstr "Местонахождението на тази къща е странно."
+
+msgid "The walls are filled with creepy paintings."
+msgstr "Стените са пълни със страховити картини."
+
+msgid "It's all very purple, I guess."
+msgstr "Всичко е много лилаво, предполагам."
+
+msgid "...Maybe humans are just slow."
+msgstr "…Може би човеците са просто бавни."
+
+msgid "None of what you're seeing is real."
+msgstr "Нищо от това, което виждаш, не е реално."
+
+msgid "Huh?"
+msgstr "Хмм?"
+
+msgid "What?"
+msgstr "Какво?"
+
+msgid "Miss Knives is a strange case."
+msgstr "Мис Найвс е странен случай."
+
+msgid "She created this place out of her own desires."
+msgstr "Тя създаде това място от своите копнежи."
+
+msgid "But the house doesn't actually exist."
+msgstr "Но в действителност къщата не съществува."
+
+msgid "Convenient."
+msgstr "Удобно."
+
+msgid "So then... it's an illusion?"
+msgstr "Значи… това е илюзия?"
+
+msgid "To an extent, yes."
+msgstr "Донякъде, да."
+
+msgid "That's also why I look like this."
+msgstr "Затова и изглеждам така."
+
+msgid "Miss Knives only sees what she wants to see."
+msgstr "Мис Найвс вижда само това, което пожелае."
+
+msgid "So she sees you as... a little spider on the wall?"
+msgstr "И в този ред на мисли, тя вижда теб като… дребен паяк на стената?"
+
+msgid "It would seem so."
+msgstr "Така изглежда."
+
+msgid "I see."
+msgstr "Ясно."
+
+msgid "Then... to escape..."
+msgstr "Тогава… за да избяга някой…"
+
+msgid "You have to break the illusion."
+msgstr "Трябва да счупи илюзията."
+
+msgid "Remind her who she is."
+msgstr "Припомни й, коя е всъщност."
+
+msgid "Or rather... who she isn't."
+msgstr "Или по-точно… коя не е."
+
+msgid "That's where those objects you need to collect come into play."
+msgstr "И в онзи момент се появяват предметите, които трябва да съберете."
+
+msgid "They seem to have some sort of connection to her memories."
+msgstr "Изглежда, че те имат някаква връзка със спомените ѝ."
+
+msgid "Once you find and unseal them all, come back and see me."
+msgstr "Веднага щом откриеш и разпечаташ всичките, върни се да се срещнем."
+
+msgid "If you need help with the burning order..."
+msgstr "Ако имаш нужда от помощ за реда на изгарянето…"
+
+msgid "The painting with the hands might provide you with a hint."
+msgstr "Картината с ръцете може да ти подскаже нещо."
+
+msgid "That seems to be already unsealed."
+msgstr "Това изглежда вече не е запечатано."
+
+msgid "You don't need to do anything else with it."
+msgstr "Не е необходимо да правите нищо друго с него."
+
+msgid "(The hands reject the item... it needs to be unsealed first.)"
+msgstr "(Ръцете отхвърлят предмета… първо трябва да бъде освободен.)"
+
+msgid "My mother got worse one day."
+msgstr "Един ден на майка ми ѝ стана по-зле."
+
+msgid "Father thinks she might die."
+msgstr "Татко смята, че тя може да умре."
+
+msgid "I don't want mom to die."
+msgstr "Не искам мама да умре."
+
+msgid "I brought her a cold compress to lower the fever."
+msgstr "Донесох й студен компрес, за да сваля температурата."
+
+msgid "Mother always said that water provides the best healing."
+msgstr "Майка винаги е казвала, че водата е най-доброто лекарство."
+
+msgid "That night, I said a prayer to try to help her."
+msgstr "Онази нощ, казах молитва, за да опитам да й помогна."
+
+msgid "I wished for her to get better, and I wished for our family to go back to normal, at least."
+msgstr "Иска ми се тя да се оправи, и в допълнение, поне семейството ни да се върне към нормалното."
+
+msgid "The [color=#90EE90]third blessing[/color] came as a surprise to everyone in the village."
+msgstr "[color=#90EE90]Третата благословия[/color] дойде като неочаквана изненада за всички в селото."
+
+msgid "The morning after my prayer, my mother was out of bed, and cooking."
+msgstr "На сутринта след молитвата ми, майка ми беше станала от леглото и готвеше."
+
+msgid "She said she felt much better, she even had strength to go to the market."
+msgstr "Тя каза, че се чувства много по-добре, дори има сили да отиде на пазар."
+
+msgid "You see? The cold compress did the job!"
+msgstr "Виждаш ли? Студеният компрес свърши своята работа!"
+
+msgid "Clean water is the purest thing we have."
+msgstr "Чистата вода е най-чистото, което имаме."
+
+msgid "Are you sure you should be out of bed?"
+msgstr "Уверена ли си, че трябва да станеш от леглото?"
+
+msgid "This is the best I've felt in years."
+msgstr "Сега се чувствам най-добре от години насам."
+
+msgid "But... the doctor said..."
+msgstr "Но… доктора каза…"
+
+msgid "I'm sure he was just wrong."
+msgstr "Убедена съм че просто е сбъркал."
+
+msgid "You know, medicine isn't always entirely accurate."
+msgstr "Знаеш ли, медицината не винаги е съвсем прецизна."
+
+msgid "No more than two days later, some adults knocked at the door."
+msgstr "След не повече от два дни, някакви възрастни почукаха на вратата."
+
+msgid "They took my mother. They called her a witch."
+msgstr "Те отведоха майка ми. Нарекоха я вещица."
+
+msgid "They claimed she used her powers to get cured of a deadly illness."
+msgstr "Те твърдят, че е използвала силите си, за да се излекува от смъртоносна болест."
+
+msgid "They said the village needs to be cleansed, and that witch hunts were important for this."
+msgstr "Те казаха, че селото трябва да бъде прочистено и че ловът на вещици е важен за това."
+
+msgid "The next day, my mother was burned at the stake."
+msgstr "На следващия път, майка ми беше изгорена на клада."
+
+msgid "Everyone watched, and everyone cheered, as she died slowly, for a sin she did not commit."
+msgstr "Всички гледаха, и всички приветстваха, докато тя загиваше бавно, за грях, който не беше извършила."
+
+msgid "This was the first time I wished that I couldn't see anymore."
+msgstr "Това беше първият път, когато пожелах да не виждам повече."
+
+msgid "Have you somehow missed the large painting that's lacking eyes?"
+msgstr "Дали някак си сте пропуснали голямата картина, на която липсват очи?"
+
+msgid "The [color=#90EE90]fourth blessing[/color] was something I would never wish for."
+msgstr "[color=#90EE90]Четвъртата благословия[/color] беше нещо, което никога не бих желал."
+
+msgid "Give it back!"
+msgstr "Върни ми го!"
+
+msgid "How'd you get your hands on such an expensive-looking sketchbook, huh?"
+msgstr "Как се сдоби с такъв скъпо‑изглеждащ скицник, а?"
+
+msgid "Let's see..."
+msgstr "Хайде да видим…"
+
+msgid "Stop! Just give it to me!"
+msgstr "Спри! Просто ми го върни обратно!"
+
+msgid "What the heck is this?"
+msgstr "Какво мътните го взели е това?"
+
+msgid "They flipped through the pages of my sketchbook, and their faces got an awful ghostly white."
+msgstr "Те прелистваха страниците на скицника ми, а лицата им ставаха все по-призрачно бели."
+
+msgid "Is she a witch?"
+msgstr "Тя вещица ли е?"
+
+msgid "What are those?"
+msgstr "Какви са тези?"
+
+msgid "I didn't draw that!"
+msgstr "Това не съм го рисувала!"
+
+msgid "Hey, I didn't know you were a witch."
+msgstr "Ей, не знаех че си вещица."
+
+msgid "I'm not!!!"
+msgstr "Не съм!!!"
+
+msgid "Pages and pages of creepy drawings."
+msgstr "Страници и още страници със страховити рисунки."
+
+msgid "What is this? Some kind of curse casting shit?"
+msgstr "Какво е това? Някакъв вид проклятие?"
+
+msgid "I didn't make them! I don't know where they came from!"
+msgstr "Не съм ги направила аз! Не знам откъде са дошли!"
+
+msgid "It's the truth. Why didn't they believe me?"
+msgstr "Това е истината. Защо не ми вярват?"
+
+msgid "STOP! WHAT ARE YOU DOING?!?"
+msgstr "СПРИ! КАКВИ ГИ ВЪРШИШ?!?"
+
+msgid "You're just a filthy witch!"
+msgstr "Ти си мръсна вещица!"
+
+msgid "I'm reporting you, you won't be needing this!"
+msgstr "Докладвам те, няма да имаш нужда от това!"
+
+msgid "PLEASE DON'T BREAK IT!"
+msgstr "МОЛЯ, НЕ ГО ЧУПЕТЕ!"
+
+msgid "You don't even need all of these colors."
+msgstr "Даже не са ти нужни всички тези цветове."
+
+msgid "Nothing but black."
+msgstr "Нищо освен черно."
+
+msgid "You were never supposed to see anything but darkness anyway."
+msgstr "Така или иначе не се предвиждаше да виждаш нищо друго освен тъмнина."
+
+msgid "Blind freak."
+msgstr "Сляп изрод."
+
+msgid "Please stop... Give them back..."
+msgstr "Моля спрете… Върнете ги обратно…"
+
+msgid "Aww.. poor little crybaby."
+msgstr "О-о-у… бедното малко ревящо бебе."
+
+msgid "I'm gonna report you."
+msgstr "Ще те докладвам."
+
+msgid "Father will be so proud, I caught my own witch."
+msgstr "Баща ми ще се гордее, че си хванах своя собствена вещица."
+
+msgid "I'm not a witch..."
+msgstr "Не съм вещица…"
+
+msgid "I swear I'm not..."
+msgstr "Кълня се че не съм…"
+
+msgid "No! Don't!!!! Please!!!"
+msgstr "Не! Недей!!!! Моля ви!!!"
+
+msgid "(Stop, please stop...)"
+msgstr "(Спри, моля те престани…)"
+
+msgid "(Please stop...)"
+msgstr "(Моля, спрете…)"
+
+msgid "(What did I do to you...?)"
+msgstr "(Какво съм ти сторила…?)"
+
+msgid "(Please stop.......)"
+msgstr "(Моля, спрете.......)"
+
+msgid "I hate them. I hate my life. Why is this happening to me?"
+msgstr "Мразя ги. Мразя живота си. Защо това ми се случва?"
+
+msgid "Soon enough, the boy dropped the sketchbook."
+msgstr "Скоро или не, момчето изпусна своят скицник."
+
+msgid "My eyes were focused on the crumpled pages of my sketchbook hitting the ground, so I didn't see it until someone screamed."
+msgstr "Очите ми бяха съсредоточени върху смачканите страници на скицника ми, които падаха на земята, така че не го видях, докато някой не изкрещя."
+
+msgid "...!?"
+msgstr "…!?"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+msgstr "ААААААААААААААААААААААААААААААААААХХХХХХХХХ!!!!"
+
+msgid "The boy's right leg twisted almost 360 degrees, as if it was some form of nightmarish witchcraft."
+msgstr "Десният крак на момчето се завъртя почти на 360 градуса, сякаш ставаше дума за някаква форма на кошмарно магьосничество."
+
+msgid "Then it twisted again."
+msgstr "После пак се усука."
+
+msgid "Something broke in his leg, and he fell down, writhing in pain."
+msgstr "Нещо се счупи в крака му и той падна, превивайки се от болка."
+
+msgid "I couldn't understand what I was seeing."
+msgstr "Не можех да си обясня, на какво точно ставам свидетел."
+
+msgid "Y-you... what did you do to his leg?!?"
+msgstr "Т-ти… какво направи на крака му?!?"
+
+msgid "N-Nothing I didn't even touch him..."
+msgstr "Н-Нищо Дори не съм го докоснала…"
+
+msgid "AAAAAAAAGGGHHHH! IT HURTS!!!!"
+msgstr "ААААААААЪЪЪРРРР! БОЛИ!!!!"
+
+msgid "Call someone! We need help! HELP!!!"
+msgstr "Извикайте някого! Имаме нужда от помощ! ПОМОЩ!!!"
+
+msgid "YOU'RE A WITCH!! YOU'RE A WITCH!!!"
+msgstr "ТИ СИ ВЕЩИЦА!! ТИ СИ ВЕЩИЦА!!!"
+
+msgid "I WILL DESTROY YOU!!!! YOU'LL BE BURNED!!!!"
+msgstr "ЩЕ ТЕ УНИЩОЖА!!!! ЩЕ БЪДЕШ ИЗГОРЕНА!!!!"
+
+msgid "................."
+msgstr "................."
+
+msgid "BURN IN HELL!!!"
+msgstr "ГОРИ В АДА!!!"
+
+msgid "The adults came and took him away."
+msgstr "Възрастните дойдоха и го отведоха."
+
+msgid "When I finally lifted my gaze from the dirt below my fingers, Iris was standing in front of me."
+msgstr "Когато най-после вдигнах погледа си от пръстта под пръстите ми, Ирис стоеше пред мен."
+
+msgid "My heart sank... Did she see what happened?"
+msgstr "Сърцето ми се сви… Дали тя видя какво се случи?"
+
+msgid "...A-Are you alright...?"
+msgstr "…Д-Добре ли си?"
+
+msgid "............"
+msgstr "............"
+
+msgid "I-I... You didn't do that to his leg, right?"
+msgstr "А-Аз… Ти не стори това с крака му, нали?"
+
+msgid "No! Of course I didn't!"
+msgstr "Не! Разбира се че не съм!"
+
+msgid "O-Okay."
+msgstr "О-Окей."
+
+msgid "...I... Why are you here?"
+msgstr "…Аз… Защо си тук?"
+
+msgid "Um... I came because... my parents said..."
+msgstr "Ъм… Дойдох защото… родителите ми казаха…"
+
+msgid "...That I'm not allowed to see you anymore."
+msgstr "…Че вече не ми е позволено да те виждам."
+
+msgid "Take ${item:ch1.mk_jar} x3?"
+msgstr "Вземи ${item:ch1.mk_jar} x3?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "You may use that on the canvas over there."
+msgstr "Може да го ползваш върху платното там."
+
+msgid "That's the right idea, I think."
+msgstr "Това е точната идея, смятам."
+
+msgid "What should I be doing with these?"
+msgstr "Какво трябва да правя с тези?"
+
+msgid "They're probably related to that canvas over there."
+msgstr "Вероятно са свързани с платното ей там."
+
+msgid "Maybe you use them to make paint."
+msgstr "Може би ги използваш за производство на боя."
+
+msgid "That's the key to the bedroom."
+msgstr "Това е ключа за спалнята."
+
+msgid "Oh... I don't need this anymore."
+msgstr "Оу… вече нямам нужда от това."
+
+msgid "That's a key to the cages."
+msgstr "Това е ключ за клетките."
+
+msgid "I see you don't need it anymore."
+msgstr "Виждам че вече нямаш нужда от него."
+
+msgid "I can take that off your hands."
+msgstr "Мога да го иззема от ръцете ти."
+
+msgid "Oh... I see."
+msgstr "Оу… Разбирам."
+
+msgid "That's the key to this room."
+msgstr "Това е ключът за тази стая."
+
+msgid "I shall get rid of it, given that you already made it in."
+msgstr "Ще се отърва от него, имайки предвид че ти вече го вкара."
+
+msgid "After the incident with that boy's leg, the authorities knocked at our door again."
+msgstr "След инцидента с крака на онова момче властите отново почукаха на вратата ни."
+
+msgid "\"Your daughter is a witch\" they said to my father."
+msgstr "\"Дъщеря ви е вещица\" казаха те на баща ми."
+
+msgid "They talked about how I hurt that boy, how my mother healed from a fatal illness, how my eyesight came back."
+msgstr "Те приказваха как съм наранила онова момче, как майка ми се изцерила от фатална болест, как зрението ми се е върнало."
+
+msgid "They told us both me and my father are accused of witchcraft."
+msgstr "Казаха ни, че и аз, и баща ми сме обвинени в магьосничество."
+
+msgid "T-That's nonsense! What are you talking about??"
+msgstr "Т-Това са глупости! Какви ги приказваш??"
+
+msgid "The whole family needs to be cleansed."
+msgstr "Цялото семейство трабва да бъде прочистено."
+
+msgid "Your daughter will be tried for witchcraft, and due to your ties to her, you will be as well."
+msgstr "Вашата дъщеря ще бъде съдена за вещерство, и заради връзките й с вас, вие също ще бъдете подведени под отговорност."
+
+msgid "H-Hold on... Wait... You've got it all wrong. She's not my daughter."
+msgstr "П-Почакайте… Задръжте… Всичко сте разбрали погрешно. Тя не ми е дъщеря"
+
+msgid "I merely found her on the streets, she does not share my blood."
+msgstr "Просто я намерих на улицата, тя не споделя моята кръв."
+
+msgid "(...Father...)"
+msgstr "(…Татко…)"
+
+msgid "Take him."
+msgstr "Вземи го."
+
+msgid "N-NO NO! PLEASE! I HAVE NOTHING TO DO WITH THIS!"
+msgstr "Н-НЕ НЕ! МОЛЯ! НЯМАМ НИЩО ОБЩО С ТОВА!"
+
+msgid "When the men walked in the house, my father ran towards the back door."
+msgstr "Когато мъжете влязоха в къщата, баща ми побягна към задната врата."
+
+msgid "He was frantically bumping into the furniture to reach it."
+msgstr "Той трескаво се блъскаше в мебелите, за да я достигне."
+
+msgid "Find the girl."
+msgstr "Открий момичето."
+
+msgid "And burn his body."
+msgstr "И изгори тялото му."
+
+msgid "Burn the whole house, it's cursed."
+msgstr "Изгори цялата къща, прокълната е."
+
+msgid "My father's blood ran down the hallway like a small river stream."
+msgstr "Кръвта на баща ми потече надолу по коридора като малък речен поток."
+
+msgid "It seeped into the cracks of the broken floorboards."
+msgstr "Тя се просмукваше в пукнатините на счупените дъски на пода."
+
+msgid "This is all that boy's fault."
+msgstr "За всичко това е виновно онова момче."
+
+msgid "The prison cell was cold, and dark."
+msgstr "Затворническата килия беше студена, и мрачна."
+
+msgid "There was nobody else there with me, except for the occasional rat."
+msgstr "Там нямаше никой друг с мен, с изключение на случайни плъхове."
+
+msgid "People always said rats are dirty and dangerous."
+msgstr "Хората винаги са твърдели че плъховете са мръсни и опасни."
+
+msgid "But at that moment, I appreciated the company."
+msgstr "Но в онзи миг, оцених компанията му."
+
+msgid "The adults told me my execution will be the following morning."
+msgstr "Възрастните твърдяха че моята екзекуция ще последва утре сутринта."
+
+msgid "They said I will be burned in order to purify the village."
+msgstr "Казаха, че ще бъда изгорен, за да се пречисти селото."
+
+msgid "What does that even mean? Purify the village..."
+msgstr "Какво изобщо означава това? Прочистване на селото…"
+
+msgid "I was alone with my thoughts for what felt like hours before someone came by."
+msgstr "Останах насаме с мислите си в продължение на часове, преди някой да дойде."
+
+msgid "Hey..."
+msgstr "Хей…"
+
+msgid "Iris...?"
+msgstr "Ирис…?"
+
+msgid "(Will I get out of here...??)"
+msgstr "(Ще се измъкна ли оттук…??)"
+
+msgid "Um... listen... I'm so sorry...!"
+msgstr "Ам… слушай… Съжалявам…!"
+
+msgid "...?"
+msgstr "…?"
+
+msgid "I-... I told my dad about everything..."
+msgstr "Аз-… казах на баща си всичко…"
+
+msgid "What...?"
+msgstr "Какво…?"
+
+msgid "(...No way...)"
+msgstr "(…Няма начин…)"
+
+msgid "I... I thought if you might really be a witch, he could protect you...."
+msgstr "Аз… предположих че ако наистина си вещица, той може да те защити...."
+
+msgid "B-Because he knew we were friends!"
+msgstr "З-Защото той знаеше че сме приятели!"
+
+msgid "I'm sorry... I did this...!"
+msgstr "Съжалявам… Сторих това…!"
+
+msgid "I didn't know he would kill your dad... and... and you..."
+msgstr "Не знаех че ще убие баща ти… и… теб също…"
+
+msgid "Please..."
+msgstr "Моля те…"
+
+msgid "Please take this knife..."
+msgstr "Моля вземи този нож…"
+
+msgid "P-please... please use it... before they kill you."
+msgstr "М-моля… моля използвай го… преди да те убият."
+
+msgid "You'll be better off if you end it this way...!"
+msgstr "По-добре ще е, ако приключиш така…!"
+
+msgid "What's happening?"
+msgstr "Какво се случва?"
+
+msgid "Why would she tell me something like this?"
+msgstr "Защо би ми казала нещо подобно?"
+
+msgid "What's going on?"
+msgstr "Какво става?"
+
+msgid "I-I love you and... father said burning is slow and painful...!!"
+msgstr "А-Аз те обичам и… баща ми каза че изгарянето е бавно и болезнено…!!"
+
+msgid "You're better off doing it this way..!"
+msgstr "По-добре ще си ако постъпиш така…!"
+
+msgid "....."
+msgstr "....."
+
+msgid "You're asking me to kill myself..?"
+msgstr "Ти ме молиш да се самоубия..?"
+
+msgid "Y-Yes... because... I still care about you...!"
+msgstr "Д-Да… защото… все още ме е грижа за теб…!"
+
+msgid "Is this what you call... care?"
+msgstr "Това ли наричаш… грижа?"
+
+msgid "I didn't know that my vision would get blurry if I cry."
+msgstr "Не знаех че зрението ми ще са замъгли ако плача."
+
+msgid "I need help with this."
+msgstr "Имам нужда от помощ за това."
+
+msgid "Ah, this is a knife."
+msgstr "Аа, това е нож."
+
+msgid "You might have to draw some blood to unseal it."
+msgstr "Може да се наложи да пуснете малко кръв, за да го разпечатате."
+
+msgid "Are you brave enough to cut yourself?"
+msgstr "Достатъчно смели ли сте да се разрежете?"
+
+msgid "Why should I cut myself?"
+msgstr "Защо трябва да се режа?"
+
+msgid "I don't see who else you could cut."
+msgstr "Не виждам кой друг би могла да отрежеш."
+
+msgid "I could cut you instead."
+msgstr "Мога вместо това да нарежа теб."
+
+msgid "You'll never aim properly."
+msgstr "Никога няма да се прицелиш правилно."
+
+msgid "Your aim is terrible."
+msgstr "Прицелването ти е ужасно."
+
+msgid "Perhaps there are advantages to being small after all."
+msgstr "Може би има предимство да си дребна, все пак."
+
+msgid "You're not skilled enough for that."
+msgstr "Не сте достатъчно опитни за това."
+
+msgid "(The hands reject the item... they're scared of it.)"
+msgstr "(Ръцете отхвърлят предмета… уплашени са от него.)"
+
+msgid "That should serve you well in lighting the fireplace."
+msgstr "Това ще ви послужи за запалване на камината."
+
+msgid "My life is below average."
+msgstr "Животът ми е под средното."
+
+msgid "I've been blind since I was a baby, so my parents thought of abandoning me."
+msgstr "От малък съм сляп, затова родителите ми мислеха да ме изоставят."
+
+msgid "\"A blind child cannot help the family\" they said. \"Especially not a girl.\""
+msgstr "\"Едно сляпо дете не може да помогне на семейството\", казват те. \"Особено пък момиче.\""
+
+msgid "But my mother says they loved me so much that they wanted to give me a chance."
+msgstr "Но майка ми твърдеше че толкова много ме обичат, че просто искат да ми дадат шанс."
+
+msgid "Right now, I manage just fine."
+msgstr "Точно сега, се справям достатъчно добре."
+
+msgid "I do my chores, I go to the market, I help with the vegetable garden."
+msgstr "Върша домашните си задължения, ходя на пазар, помагам в зеленчуковата градина."
+
+msgid "Mother is sick, so she's always in bed."
+msgstr "Майка е болна, така че тя винаги е в леглото."
+
+msgid "The doctor says she might be like this for the rest of her life."
+msgstr "Доктора казва че може да е така до края на живота си."
+
+msgid "Every day, I go meet my friend at the riverbank."
+msgstr "Всеки ден, отивам да се срещна с другаря си на речния бряг."
+
+msgid "Iris is always talking excitedly about everything you could find outside of the village."
+msgstr "Ирис винаги говори въодушевено за всичко, което можеш да откриеш извън селото."
+
+msgid "She makes the world sound so bright."
+msgstr "Тя кара света да звучи толкова светъл."
+
+msgid "We made a deal, that when we turn 14, we'll run away together, and travel to mountains and seas."
+msgstr "Уговорихме се, че когато навършим 14 години, ще избягаме заедно и ще пътуваме до планини и морета."
+
+msgid "But I was actually fine with a simple life. The bare minimum was enough, as long as I had Iris."
+msgstr "Но всъщност ми допадаше обикновеният живот. Санитарният минимум ми беше достатъчен, стига да имах Ирис."
+
+msgid "If there's one thing I wanted..."
+msgstr "Ако имах нещо, което желая…"
+
+msgid "It was just to be able to see her."
+msgstr "Просто исках да мога да я погледна."
+
+msgid "The [color=#90EE90]first blessing[/color] changed the course of my life."
+msgstr "[color=#90EE90]Петата благословия[/color] промени хода на живота ми."
+
+msgid "........."
+msgstr "........."
+
+msgid "I couldn't calm my breathing."
+msgstr "Не можех да успокоя дишането си."
+
+msgid "I woke up one morning and I could see."
+msgstr "Една сутрин се събудих и можех да виждам."
+
+msgid "I saw shapes, and colors, and my parents."
+msgstr "Виждах форми, цветове и родителите си."
+
+msgid "I saw the broken dining table."
+msgstr "Виждах счупената маса за хранене."
+
+msgid "I saw the weeds in the vegetable garden."
+msgstr "Виждах плевелите в зеленчуковата градина."
+
+msgid "I saw the chipped cup that I drank from."
+msgstr "Виждах счупената чаша, от която пиех."
+
+msgid "I saw my wrinkled clothes."
+msgstr "Виждах измачканите си дрехи."
+
+msgid "Despite not having much, they were the most beautiful things I laid my eyes on."
+msgstr "Въпреки че не разполагах с много, това бяха най-красивите неща, които загледах с очите си."
+
+msgid "I couldn't say the same about my reflection."
+msgstr "Не мога да кажа същото за моето отражение."
+
+msgid "(Have I always looked like this?)"
+msgstr "(Винаги ли съм изглеждала по този начин?)"
+
+msgid "(Were my eyes always so... bland?)"
+msgstr "(Винаги ли очите ми са били толкова… безвкусни?)"
+
+msgid "(Was my hair always so... dull?)"
+msgstr "(Винаги ли косата ми е била толкова… изтощена?)"
+
+msgid "My parents gradually grew distant."
+msgstr "Родителите ми постепенно се отдалечиха."
+
+msgid "People in the village stared at me, and whispered behind my back."
+msgstr "Хората в селото ме зяпаха и си шепнеха зад гърба ми."
+
+msgid "Why did they seem scared of me?"
+msgstr "Защо изглежда се страхуваха от мен?"
+
+msgid "Iris said she's a little nervous around me, but she was really happy that I got my eyesight."
+msgstr "Ирис каза, че малко се притеснява около мен, но е много щастлива, че съм получила зрението си."
+
+msgid "She called it a miracle."
+msgstr "Тя го нарече чудо."
+
+msgid "My parents started avoiding me."
+msgstr "Родителите ми започнаха да ме избягват."
+
+msgid "When I spoke to them, they always tried to brush me away."
+msgstr "Когато говорих с тях, те винаги се опитваха да се отдръпнат от мен."
+
+msgid "The only times their tired eyes met mine, I only saw hatred in them."
+msgstr "Единствените пъти, когато уморените им очи се срещаха с моите, виждах в тях само омраза."
+
+msgid "Did they always look at me this way?"
+msgstr "Винаги ли са ме гледали по този начин?"
+
+msgid "Hmmm..."
+msgstr "Хммм…"
+
+msgid "Have you tried simply looking at it?"
+msgstr "Опитахте ли се просто да го погледнете?"
+
+msgid "(The hands reject the item... it is irrelevant to them.)"
+msgstr "(Ръцете отхвърлят предмета… той е без значение за тях.)"
+
+msgid "With your masterpiece complete, the canvas turns into a sketchbook."
+msgstr "Когато шедьовърът ви е завършен, платното се превръща в скицник."
+
+msgid "The pigment doesn't stick on its own..."
+msgstr "Пигментът не се захваща просто ей така…"
+
+msgid "You soak the rag in the pool..."
+msgstr "Потапяте парцала в басейна…"
+
+msgid "It's already wet enough."
+msgstr "Вече е достатъчно мокро."
+
+msgid "A dry piece of cloth?"
+msgstr "Сухо парче плат?"
+
+msgid "Try moisturizing it."
+msgstr "Опитайте се да го овлажните."
+
+msgid "The [color=#90EE90]second blessing[/color] came as a gift."
+msgstr "[color=#90EE90]Втората благословия[/color] дойде като дар."
+
+msgid "I always met Iris out by the river, and we sat and talked for hours."
+msgstr "Винаги съм се срещала с Ирис покрай реката, и ние стояхме и разговаряхме с часове."
+
+msgid "She told me all about the things I couldn't see."
+msgstr "Тя ми разказа всичко за нещата, които не можех да видя."
+
+msgid "But it was different now."
+msgstr "Но сега вече е различно."
+
+msgid "She spoke with such happiness and excitement."
+msgstr "Тя приказваше с такова щастие и въодушевление."
+
+msgid "I couldn't take my eyes off of her."
+msgstr "Не можех да откъсна очи от нея."
+
+msgid "So to celebrate this miracle..."
+msgstr "И така за да отпразнуваме това чудо…"
+
+msgid "I got you something!"
+msgstr "Взех ти нещо!"
+
+msgid "For me?"
+msgstr "За мен?"
+
+msgid "Of course! Your eyes work now! It's amazing! We have to celebrate!"
+msgstr "Разбира се! Очите ти сега работят! Това е невероятно! Трябва да го отпразнуваме!"
+
+msgid "So... I stole this from my family..."
+msgstr "Така че… откраднах това от семейството си…"
+
+msgid "But shh!"
+msgstr "Но шшш!"
+
+msgid "Don't tell!"
+msgstr "Не казвай!"
+
+msgid "Wha-.."
+msgstr "Какв-.."
+
+msgid "Iris! A sketchbook and paints are... so expensive...!"
+msgstr "Ирис! Скицникът и боите са… толкова скъпи…!"
+
+msgid "H-How...? Why...?"
+msgstr "К-Как…? Защо…?"
+
+msgid "You always said you wanted to paint! I believe in you!"
+msgstr "Винаги си казвала, че искаш да рисуваш! Вярвам в теб!"
+
+msgid "I'm so excited to see what you'll come up with!"
+msgstr "Толкова се вълнувам да видя какво ще измислиш!"
+
+msgid "I couldn't believe it! My very own sketchbook and watercolors!"
+msgstr "Не мога да повярвам! Мой собствен скицник и водни бои!"
+
+msgid "There were so many things I could paint!"
+msgstr "Имаше толкова много неща, които можех да нарисувам!"
+
+msgid "Mother was always bedridden, so I made a habit of showing her my paintings."
+msgstr "Майка винаги беше прикована към леглото, затова имах навика да й показвам картините си."
+
+msgid "I started with trees and objects."
+msgstr "Започнах с дървета и предмети."
+
+msgid "But I took a liking to portraits of people."
+msgstr "Но ми допадна да рисувам портрети на хора."
+
+msgid "They all have such distinct, beautiful faces."
+msgstr "Всички те имат толкова изразителни, красиви лица."
+
+msgid "After only 2 days, I had already made 8 portraits!"
+msgstr "Само след 2 дни, вече бях сътворила 8 портрета!"
+
+msgid "But when I flipped to the next page... a different kind of portrait filled the brown paper."
+msgstr "Но когато отгърнах на следващата страница… различен по вид портрет изпълни кафявата хартия."
+
+msgid "It was all painted in black, and it was twisted and scary."
+msgstr "Цялата беше боядисана в черно и беше изкривена и страшна."
+
+msgid "I hadn't painted this..."
+msgstr "Това не съм го рисувала аз…"
+
+msgid "I didn't even know who this person- or... creature, was."
+msgstr "Дори не знаех кой е този човек... или... създание."
+
+msgid "Every morning after that, I found new distorted portraits in the pages, but I never remembered painting them."
+msgstr "Всяка сутрин след това откривах нови изкривени портрети на страниците, но никога не съм си спомняла да съм ги рисувала."
+
+msgid "A bookshelf full of coloring books, and other children's books."
+msgstr "Рафт, пълен с книжки за оцветяване и други детски книжки."
+
+msgid "A bookshelf full of books about painting."
+msgstr "Рафт претрупан с книги за рисуване."
+
+msgid "One of them stands out. Read a passage?"
+msgstr "Един от тях се откроява. Прочети пасажа?"
+
+msgid "\"Should a merchant not be available in your region, it is always possible to create your own paint by mixing pigments with water.\""
+msgstr "\"Ако даден търговец не е на разположение във вашия регион, винаги е възможно да създадете своя собствена боя, като смесите пигменти с вода.\""
+
+msgid "There's something covered with a drape."
+msgstr "Има нещо, покрито с драперия."
+
+msgid "Remove the drape?"
+msgstr "Отстранете покривалото?"
+
+msgid "Looks like a flat, black square."
+msgstr "Прилича на плосък, черен квадрат."
+
+msgid "Take it with you?"
+msgstr "Отнеси го с теб?"
+
+msgid "...It's too large and heavy to carry around."
+msgstr "…Твърде е голямо и тежко за да се отнесе нанякъде."
+
+msgid "A crow stands at the edge of the pool."
+msgstr "Една врана стои на ръба на басейна."
+
+msgid "A painting with two protruding hands expecting something."
+msgstr "Картина с две стърчащи ръце, очакващи нещо."
+
+msgid "Looks like I can place something on these hands..."
+msgstr "Изглежда сякаш мога да поставя нещо на тези ръце…"
+
+msgid "A small pool. The water looks clean."
+msgstr "Малък басейн. Водата изглежда чиста."

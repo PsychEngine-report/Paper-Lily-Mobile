@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OH."
+msgstr "Ồ."
+
+msgid "A child."
+msgstr "Là đứa bé."
+
+msgid "A child is in my gallery. But my gallery is closed. So how can a child be in my gallery?"
+msgstr "Có đứa bé trong nghệ lang của ta. Nhưng nghệ lang ta đóng cửa rồi. Vậy sao lại có đứa bé trong nghệ lang của ta được?"
+
+msgid "Atrocious."
+msgstr "Dữ dằn."
+
+msgid "Smells like..."
+msgstr "Ngửi mùi cứ như..."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "GARBAGE."
+msgstr "RÁC."
+
+msgid "What? That's not true..."
+msgstr "Hả? Làm gì có..."
+
+msgid "Who is this child?"
+msgstr "Đứa bé này là ai?"
+
+msgid "My name is Lacie."
+msgstr "Tôi tên là Lacie."
+
+msgid "(Wait... I shouldn't give out my name like that to demons!)"
+msgstr "(Ấy... Không nên nói tên mình ra thế này cho loài quỷ chứ!)"
+
+msgid "Lacie..."
+msgstr "Lacie..."
+
+msgid "(Did he figure out I'm human...?)"
+msgstr "(Ổng nhận ra mình là con người rồi...?)"
+
+msgid "So..."
+msgstr "Thế..."
+
+msgid "What is your name?"
+msgstr "Tên của ông là gì?"
+
+msgid "What's under that drape?"
+msgstr "Bên dưới tấm che đây là gì thế?"
+
+msgid "You seem better now."
+msgstr "Giờ nom ông dễ chịu hơn rồi."
+
+msgid "You're dropping a lot of flowers."
+msgstr "Ông làm rớt ra mấy bông hoa kìa."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.choice.So..."
+msgid "Never mind"
+msgstr "Không có gì."
+
+msgid "Kett is what I am called."
+msgstr "Kett là tên người đời gọi ta."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "Oh."
+msgstr "Ồ."
+
+msgid "And who are you?"
+msgstr "Còn cô bé là ai?"
+
+msgid "I... already told you my name."
+msgstr "Tôi... nói tên cho ông rồi mà."
+
+msgid "(He forgot it...? Maybe that's a good thing.)"
+msgstr "(Ổng quên rồi à...? Có khi thế là điều tốt.)"
+
+msgid "Please excuse me. I have no use for meaningless information in my mind."
+msgstr "Xin thứ lỗi cho ta. Ta không có cất thông tin vô nghĩa trong đầu óc để làm gì hết."
+
+msgid "No... that's okay."
+msgstr "Thôi... không sao..."
+
+msgid "A commission."
+msgstr "Là tác phẩm commission."
+
+msgid "I have been stuck, blocked, uninspired, you could say."
+msgstr "Có thể nói là ta đã bị kẹt, bị bí, bị mất cảm hứng..."
+
+msgid "FOR AGES."
+msgstr "MẤY ĐỜI RỒI."
+
+msgid "Everything I made..."
+msgstr "Cái gì chế tác được cũng đều thành..."
+
+msgid "But now suddenly I feel..."
+msgstr "Nhưng giờ tự nhiên ta thấy..."
+
+msgid "Awaken."
+msgstr "Tỉnh thức."
+
+msgid "You seemed very um...crazy...a while ago."
+msgstr "Ban nãy thấy ông rất ư là...điên...luôn ấy."
+
+msgid "Ah, sleep deprivation."
+msgstr "À, tại thiếu ngủ."
+
+msgid "I feel that."
+msgstr "Đồng cảm nè."
+
+msgid "HOWEVER, AN ANGEL delivered salvation to me."
+msgstr "TUY NHIÊN, MỘT THIÊN SỨ đã ban sự cứu rỗi cho ta."
+
+msgid "I brought you that."
+msgstr "Tôi đưa cái đó cho ông mà."
+
+msgid "IF I COULD FIND THIS ANGEL, well, they would be humbly welcomed into my gallery, for no fee."
+msgstr "NẾU MÀ TA CÓ THỂ TÌM THẤY VỊ THIÊN SỨ ĐẤY, chà, khách khứa sẽ được cung kính hoan nghênh vào nghệ lang của ta miễn phí."
+
+msgid "It was me."
+msgstr "Là tôi đây này."
+
+msgid "BUT ALAS."
+msgstr "MÀ THAN ÔI."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "They are the fruit of my inspiration."
+msgstr "Mấy cái này là thành quả từ cảm hứng của ta."
+
+msgid "I picked up some of your inspiration, I hope you don't mind."
+msgstr "Tôi có nhặt vài cái cảm hứng của ông rồi, mong là ông không để bụng nhé."
+
+msgid "Your inspiration is all over the floor."
+msgstr "Cảm hứng của ông vung vãi lên sàn kìa."
+
+msgid "What is that commission about?"
+msgstr "Commission kia là về cái gì thế?"
+
+msgid "I keep my business matters private."
+msgstr "Ta giữ kín vấn đề công việc của ta."
+
+msgid "Can I commission you for a piece?"
+msgstr "Tôi đặt commission ông một tác phẩm được không?"
+
+msgid "Of course. You may add your name to my waiting list."
+msgstr "Được chứ. Cô bé có thể điền tên của mình vào danh sách chờ của ta."
+
+msgid "...Never mind then."
+msgstr "...Thôi không."
+
+msgid "Where is it?"
+msgstr "Ở đâu vậy?"
+
+msgid "On the wall."
+msgstr "Trên tường đấy."
+
+msgid "Why don't you make anything colorful?"
+msgstr "Sao ông không làm cái gì có màu sắc hết vậy?"
+
+msgid "Color....ful..?"
+msgstr "Màu...sắc...?"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_extra.dlg.kett"
+msgid "..."
+msgstr "..."
+
+msgid "What ever do you mean?"
+msgstr "Tức ý cô bé là gì?"
+
+msgid "Well...all of your...art...is blue or grey."
+msgstr "Ờ thì...thấy tác phẩm của ông...toàn...màu xanh lam hoặc xám thôi."
+
+msgid "Blue...? Grey...?"
+msgstr "Xanh lam...? Xám...?"
+
+msgid "(He seems really perplexed.)"
+msgstr "(Coi bộ ổng bị rất là lúng túng rồi.)"
+
+msgid "What did you smell on me earlier?"
+msgstr "Nãy ông ngửi cái gì người tôi vậy?"
+
+msgid "I don't recall the event you're referring to."
+msgstr "Ta không có nhớ cái sự kiện mà cô bé đang nói tới."
+
+msgid "Because you don't keep meaningless information in your mind?"
+msgstr "Tại vì ông không cất thông tin vô nghĩa trong cái đầu óc của mình à?"
+
+msgid "Yes, how did you know?"
+msgstr "Đúng, sao cô bé biết được thế?"
+
+msgid "Just a feeling."
+msgstr "Cảm thấy thôi."
+
+msgid "Of course.. the patterns must match on each limb."
+msgstr "Đương nhiên... là mô dạng phải hợp cho mỗi chi."
+
+msgid "But how shall I go about it...?"
+msgstr "Nhưng ta sẽ phải tiến hành nó ra sao...?"
+
+msgid "Kett seems to be concentrated."
+msgstr "Kett trông ra vẻ có tập trung."
+
+msgid "There's someone there. Grab their attention?"
+msgstr "Đằng đây có ai đó. Lôi kéo chú ý chứ?"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "Yes"
+msgstr "Lôi kéo chú ý"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.dlg.kett"
+msgid "!!!"
+msgstr "!!!"
+
+msgid "He seems to be asleep."
+msgstr "Ông ta trông có vẻ đang ngủ."
+
+msgid "I'd really rather not bother him..."
+msgstr "Mình thật sự không quấy rầy ổng thì hơn..."
+
+msgid "This isn't the time for that."
+msgstr "Giờ không phải lúc cho cái đó."
+
+msgid "This is from the lighthouse."
+msgstr "Cái này là từ cái nhà hải đăng."
+
+msgid "Garbage."
+msgstr "Rác."
+
+msgid "Huh? Really?"
+msgstr "Hở? Thật à?"
+
+msgid "It sickens me."
+msgstr "Nó làm ta phát ớn."
+
+msgid "Do you know where the lighthouse is?"
+msgstr "Ông có biết cái nhà hải đăng ở đâu không?"
+
+msgid "Begone, child."
+msgstr "Biến đi, nhóc con."
+
+msgid "...Guess not."
+msgstr "...Thôi vậy."
+
+msgid "This candle looks familiar to me. How curious."
+msgstr "Cây nến này trông quen quen. Lạ lùng thật."
+
+msgid "What is that garbage smell?"
+msgstr "Cái gì bốc mùi rác rưởi đây?"
+
+msgid "You may keep that. It is little more than garbage to me."
+msgstr "Cô bé giữ lấy đi. Với ta nó chẳng hơn rác là bao nhiêu."
+
+msgid "A rock. It's carving is skillful."
+msgstr "Cục đá à. Được điêu khắc khéo léo đấy."
+
+msgid "Could there be another artist out there...?"
+msgstr "Phải chăng có nghệ sĩ nào khác nữa đâu đây...?"
+
+msgctxt "events.Ch1_Artist_1F.item_runes_on_kett.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "No. Impossible."
+msgstr "Không. Bất khả năng."
+
+msgctxt "events.Ch1_Artist_1F.item_snack_on_kett.dlg.kett"
+msgid "!!!"
+msgstr "!!!"
+
+msgid "(He ate it!?)"
+msgstr "(Ổng ăn mất rồi!?)"
+
+msgid "This tool is not well suited for carving."
+msgstr "Dụng cụ này không hề thích hợp cho điêu khắc."
+
+msgid "This is one of those things that isn't very interesting when seen from behind."
+msgstr "Đây là một trong các thứ mà nhìn từ đằng sau thì không gây thú vị lắm."
+
+msgid "Blue paint."
+msgstr "Màu vẽ xanh lam."
+
+msgid "A blank canvas. Paint something?"
+msgstr "Tấm vải bạt trống không. Vẽ gì chứ?"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "Yes"
+msgstr "Vẽ"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "What should I paint?"
+msgstr "Mình nên vẽ gì đây?"
+
+msgid "A blue butterfly"
+msgstr "Con bướm xanh lam"
+
+msgid "A self-portrait"
+msgstr "Bức tự họa"
+
+msgid "Hiro"
+msgstr "Anh Hiro"
+
+msgid "A portrait of Kett"
+msgstr "Chân dung Kett"
+
+msgid "A ghost"
+msgstr "Con ma"
+
+msgid "A dinosaur"
+msgstr "Con khủng long"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.What should I paint?"
+msgid "Never mind"
+msgstr "Thôi không vẽ"
+
+msgid "Show drawing here"
+msgstr "Ở đây trưng bày bức vẽ."
+
+msgid "It's the painting I made. Kett will probably trash it soon enough."
+msgstr "Này là bức tranh mình vẽ. Ông Kett chắc là chê xối xả ngay thôi."
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "Nhặt ${item:ch1.kett_flower} chứ?"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Nhặt"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "Nhặt ${item:ch1.kett_flower} chứ?"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Nhặt"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "Nhặt ${item:ch1.kett_flower} chứ?"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Nhặt"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A waiting list. It has over a hundred names on it."
+msgstr "Bản danh sách chờ. Trên nó có hơn một trăm cái tên."
+
+msgid "...Never mind."
+msgstr "...Thôi khỏi."
+
+msgid "A painting of some landscape."
+msgstr "Bức tranh cảnh quan nào đó."
+
+msgid "There must be a huge sculpture hidden under this drape."
+msgstr "Ẩn bên dưới tấm che này hẳn là có bức điêu khắc to bự."
+
+msgid "Check under the drape?"
+msgstr "Coi bên dưới tấm che chứ?"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "Yes"
+msgstr "Coi"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "It looks like an unfinished sculpture of a lady. She looks like she's made of porcelain."
+msgstr "Trông nó như bức điêu khắc người phụ nữ chưa hoàn thành. Trông cô ấy như được làm bằng sứ vậy."
+
+msgid "There's a sculpture of a lady under this drape."
+msgstr "Bên dưới tấm che này có bức điêu khắc người phụ nữ."
+
+msgid "A tall vase."
+msgstr "Cái bình cao."
+
+msgid "Reach inside?"
+msgstr "Thò vào bên trong chứ?"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "Yes"
+msgstr "Thò vào"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's nothing inside."
+msgstr "Bên trong không có gì cả."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.narrator"
+msgid "A small art piece."
+msgstr "Món nghệ phẩm nhỏ bé."
+
+msgid "A weird thing."
+msgstr "Món đồ kì cục."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What... is this?"
+msgstr "Cái này là... gì?"
+
+msgid "A twisty pot."
+msgstr "Cái chậu xoắn."
+
+msgid "A broken pot."
+msgstr "Cái chậu vỡ."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_5.dlg.narrator"
+msgid "A small art piece."
+msgstr "Món nghệ phẩm nhỏ bé."
+
+msgid "It looks like a dinosaur."
+msgstr "Trông giống con khủng long."
+
+msgid "A small dinosaur."
+msgstr "Con khủng long nhỏ."

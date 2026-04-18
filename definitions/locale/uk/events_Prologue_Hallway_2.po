@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait a moment."
+msgstr "Зачекайте."
+
+msgid "This doesn't look right. We should've come across stairs a while back."
+msgstr "Щось тут не так. Ми вже давно повинні були дійти до сходів."
+
+msgid "That's true."
+msgstr "Точно."
+
+msgid "Maybe we took a wrong turn somewhere...?"
+msgstr "Може, ми завернули не там, де треба?.."
+
+msgid "Let's just keep going."
+msgstr "Просто ходімо далі."
+
+msgid "I want to see what's on the other side of this hallway."
+msgstr "Мені цікаво, що буде в кінці коридору."

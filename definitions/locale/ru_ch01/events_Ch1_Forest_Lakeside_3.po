@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It seems to like the white tree."
+msgstr "Кролику нравится это белое дерево."
+
+msgid "Take ${item:ch1.doorknob_grave}?"
+msgstr "Взять предмет: ${item:ch1.doorknob_grave}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Fallen white leaves surround the tree."
+msgstr "С белого дерева опали красивые белые листья."
+
+msgid "Take some ${item:ch1.lakeside_petals_white}?"
+msgstr "Взять ${item:ch1.lakeside_petals_white}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log.dlg.narrator"
+msgid "A wooden log."
+msgstr "Деревянное бревно."
+
+msgid "It's too short to use as a bridge."
+msgstr "Его длины не хватит, чтобы пересечь воду."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.dlg.narrator"
+msgid "A wooden log."
+msgstr "Деревянное бревно."
+
+msgid "I could use this to cross the river..."
+msgstr "Можно использовать его, чтобы пересечь реку..."
+
+msgid "Push it into the water?"
+msgstr "Толкнуть его в воду?"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Something's weird about this spot, but you don't know what it is."
+msgstr "С этим местом что-то не так, но вам сложно сказать, что именно."
+
+msgid "It's just trees... right?"
+msgstr "Это же просто деревья... так ведь?"
+
+msgid "The passage is camouflaged."
+msgstr "Проход замаскирован."
+
+msgid "There's no way to open it from this side."
+msgstr "Отсюда его никак не открыть."
+
+msgid "A beautiful tree with white leaves."
+msgstr "Красивое дерево с белыми листьями."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_water.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Слишком далеко, допрыгнуть не выйдет."
+
+msgid "The river fades into obscurity."
+msgstr "Река уходит в неизвестность."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_north.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Слишком далеко, допрыгнуть не выйдет."
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_south.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "Слишком далеко, допрыгнуть не выйдет."
+
+msgid "White leaves cover the ground."
+msgstr "По земле устелены белые листья."

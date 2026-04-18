@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Jest już otwarta."
+
+msgid "...but there's nothing inside."
+msgstr "...ale w środku nic nie ma."
+
+msgid "There's some schematics for some sort of machine you don't really understand."
+msgstr "Jest tam kilka schematów jakiejś maszyny, której działania nie bardzo rozumiesz."
+
+msgid "What's that?"
+msgstr "Co to jest?"
+
+msgid "Not a clue... but I'm taking it."
+msgstr "Nie mam pojęcia... ale biorę to."
+
+msgid "There's some official-looking documents here."
+msgstr "Jest tu kilka oficjalnie wyglądających dokumentów."
+
+msgid "Read them?"
+msgstr "Przeczytać je?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "${img:stamp_council} MEETING 176 NOTES"
+msgstr "${img:stamp_council} NOTATKI ZE SPOTKANIA 176"
+
+msgid "\"...disagreements on the distribution of the....\""
+msgstr "\"...nieporozumienia co do podziału....\""
+
+msgid "\"...is still not participating in our...\""
+msgstr "\"...nadal nie uczestniczy w naszym...\""
+
+msgid "\"...the secondary duty of guardians...\""
+msgstr "\"...drugorzędnym obowiązkiem opiekunów...\""
+
+msgid "\"...collection of stones from every...\""
+msgstr "\"...zebranie kamieni z każdego...\""
+
+msgid "The document continues making little sense for several pages."
+msgstr "Dokument ma jeszcze kilka stron, które nie maja żadnego sensu."
+
+msgid "..."
+msgstr "... "
+
+msgid "What the hell am I reading?"
+msgstr "Co ja do cholery czytam?"
+
+msgid "There's nothing else of interest."
+msgstr "Nie ma już nic interesującego."
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Spinka do włosów nie pasuje do tego zamka."
+
+msgid "The key fits!"
+msgstr "Klucz pasuje!"
+
+msgid "They're already open."
+msgstr "Już są otwarte."
+
+msgid "Despite your best efforts, you can't seem to cut through it with your scissors."
+msgstr "Mimo najlepszych starań, nie udaje ci się przeciąć go nożyczkami."
+
+msgid "The box contains an assortment of differently sized blue cans."
+msgstr "W pudełku znajduje się asortyment różnej wielkości niebieskich puszek."
+
+msgid "A pile of boxes."
+msgstr "Sterta pudeł."
+
+msgid "They seem to be stuck together."
+msgstr "Wydaje się, że są przyklejone do siebie."
+
+msgid "A large locker."
+msgstr "Duża szafka."
+
+msgid "It's locked."
+msgstr "Są zamknięte."
+
+msgid "It's empty."
+msgstr "Jest pusta."
+
+msgid "A trash can."
+msgstr "Kosz na śmieci."
+
+msgid "Some black goo can be seen at the bottom."
+msgstr "Na dole widać trochę czarnej mazi."
+
+msgid "A pile of trash cans."
+msgstr "Sterta śmietników."
+
+msgid "So... maybe the ritual worked?"
+msgstr "Więc... może rytuał zadziałał?"
+
+msgid "But the ritual wasn't finished."
+msgstr "Ale rytuał nie został dokończony."
+
+msgid "Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore."
+msgstr "Co oznacza, że albo szkoła ma kilka przeklętych pomieszczeń i mroczną tajemnicę, albo to już nie jest szkoła."
+
+msgid "If it's not the school, then what is it?"
+msgstr "Jeśli to nie szkoła, to co to jest?"
+
+msgid "No idea."
+msgstr "Nie mam pojęcia."
+
+msgid "In any case, it doesn't feel too dangerous, so let's continue."
+msgstr "W każdym razie, nie wydaje się to szczególnie niebezpieczne, więc chodźmy dalej."

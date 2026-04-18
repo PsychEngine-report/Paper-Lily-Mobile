@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I'm sorry for disturbing you."
+msgstr "Простите, что побеспокоила вас."
+
+msgid "(She's crying...)"
+msgstr "(Она плачет...)"
+
+msgid "How long has she been locked up in here?"
+msgstr "Сколько её тут держали?"
+
+msgid "I don't know."
+msgstr "Не знаю."
+
+msgid "No hard feelings."
+msgstr "Только без обид."
+
+msgid "You're food, after all."
+msgstr "В конце концов, вы еда."
+
+msgid "What are your thoughts?"
+msgstr "Что думаешь?"
+
+msgctxt "events.Ch1_Facility_B3F_East.event_spider_force_meet.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "Иди посмотри."
+
+msgid "Psst..."
+msgstr "Пс-с..."
+
+msgid "Over here."
+msgstr "Сюда."
+
+msgid "A small toy."
+msgstr "Маленькая игрушка."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Is that... Miss Knives?"
+msgstr "Это... Мадам Нож?"
+
+msgid "Is this what she actually looks like..?"
+msgstr "Она так выглядит на самом деле?"
+
+msgid "Whoa."
+msgstr "Воу."
+
+msgid "She looks like a used napkin."
+msgstr "Похожа на платок, в который высморкались."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "Похоже, что ворота можно открыть. Открыть их?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're... Spider?"
+msgstr "Ты же... Паучок?"
+
+msgid "Good work back there. Didn't think you'd actually do it."
+msgstr "Отлично ты тогда поработала. Я и не думал, что у тебя получится."
+
+msgid "It feels good to see this place again."
+msgstr "Приятно снова увидеть это место."
+
+msgid "How's this good? You're locked up."
+msgstr "Правда?.. Как по мне, так ты здесь взаперти."
+
+msgid "I don't need much to be content."
+msgstr "Мне для счастья много не надо."
+
+msgid "My cell neighbor keeps me entertained."
+msgstr "С моей соседкой не соскучишься."
+
+msgid "...?"
+msgstr "...?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "Иди посмотри."
+
+msgid "You mean Miss Knives...?"
+msgstr "Ты про Мадам Нож?"
+
+msgid "About Miss Knives..."
+msgstr "Насчёт Мадам Нож..."
+
+msgid "Are you surprised?"
+msgstr "Удивилась?"
+
+msgid "Well... kind of."
+msgstr "Ну... есть немного."
+
+msgid "She's seen better days."
+msgstr "Да уж, она видала дни и получше."
+
+msgid "But she'll be fine. She's just like a spider."
+msgstr "Но с ней всё будет нормально. Она прямо как паучок."
+
+msgid "After a little while, she'll make a new web and entangle everyone in it again."
+msgstr "Вскоре она совьёт новые сети и снова всех в них заманит."
+
+msgid "I'm curious to see what it will look like next time."
+msgstr "Мне интересно, что же я увижу в следующий раз."
+
+msgid "Huh."
+msgstr "Во как."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "I see..."
+msgstr "Понятно."
+
+msgid "Besides. She does get a visitor every so often."
+msgstr "Кроме того, её довольно часто навещают."
+
+msgid "Really?"
+msgstr "Правда?"
+
+msgid "Yes. An intriguing one by the name of Red."
+msgstr "Ага. Занимательный тип по имени Рэд."
+
+msgid "...!"
+msgstr "!.."
+
+msgid "Don't look so excited."
+msgstr "Смотри не заводись."
+
+msgid "Red won't be back here anytime soon."
+msgstr "Рэд ещё очень нескоро сюда придёт."
+
+msgid "I see."
+msgstr "Понятно."
+
+msgid "Is Red the lighthouse person?"
+msgstr "Рэд - это тот, который с маяка?"
+
+msgid "Yes..."
+msgstr "Да..."
+
+msgid "Ah, damn."
+msgstr "А, чёрт."
+
+msgid "Interesting."
+msgstr "Интересно."
+
+msgid "If the lighthouse is what you're searching for, perhaps this is of use to you."
+msgstr "Если ты ищешь маяк, то это тебе может пригодиться."
+
+msgid "Is this... a doorknob to the lighthouse?"
+msgstr "Это... дверная ручка к маяку?"
+
+msgid "What remains of it."
+msgstr "То, что от неё осталось."
+
+msgid "That's fine, I... I think I know how to fix it."
+msgstr "Ничего страшного... мне кажется, я знаю, как его починить."
+
+msgid "This is a big help, Spider."
+msgstr "Ты здорово помог, Паучок."
+
+msgid "Thank you. I appreciate it, even if it's broken."
+msgstr "Спасибо за ручку, хоть и поломанную."
+
+msgid "Then consider our debts settled."
+msgstr "Можешь считать, что мы помогли друг другу."
+
+msgid "Spider seems at peace in its cell."
+msgstr "Паучку спокойно сидится и в своей комнате."
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "Похоже, что ворота можно открыть. Открыть их?"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Crayons and children's drawings."
+msgstr "Мел и детские рисунки."
+
+msgid "Denomination: G8. Potential: Questionable. Training interrupted."
+msgstr "Название: G8. Потенциал: Под вопросом. Обучение временно приостановлено."
+
+msgid "Requesting installation of an anti-distortion field."
+msgstr "Просьба установить противоискажающее поле."
+
+msgid "An old, crusty pillow."
+msgstr "Старая жёсткая подушка."
+
+msgid "Denomination: G11. Potential: High. Training ongoing."
+msgstr "Название: G11: Потенциал: Высокий. Обучение продолжается."
+
+msgid "A set of four toy plants."
+msgstr "Набор из четырёх игрушечных растений."

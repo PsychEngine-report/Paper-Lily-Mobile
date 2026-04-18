@@ -1,0 +1,744 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Cellphone"
+msgstr "携帯電話"
+
+msgid "My personal phone. Hiro bought it for me."
+msgstr "私の携帯。ヒロが買ってくれた。"
+
+msgctxt "items.name.ch1.todolist"
+msgid "To-Do List"
+msgstr "ToDoリスト"
+
+msgctxt "items.desc.ch1.todolist"
+msgid "A list of things I want to do before I die."
+msgstr "死ぬ前にやりたいことのリスト。"
+
+msgctxt "items.name.ch1.todolist_hidden"
+msgid "To-Do List"
+msgstr "ToDoリスト"
+
+msgctxt "items.desc.ch1.todolist_hidden"
+msgid "A list of things I want to do before I die."
+msgstr "死ぬ前にやりたいことのリスト。"
+
+msgid "Red Ribbon"
+msgstr "赤いリボン"
+
+msgid "A soft and silky red ribbon."
+msgstr "柔らかくてなめらかな赤いリボン。"
+
+msgid "Red Thread"
+msgstr "赤い糸"
+
+msgid "Some red thread from mother's sewing kit. The color matches my scarf."
+msgstr "ママの裁縫セットから取った赤い糸。私のマフラーの色と同じ。"
+
+msgid "Red Shoelaces"
+msgstr "赤い靴ひも"
+
+msgid "From the shoe rack. Does something like this count?"
+msgstr "靴箱から取った。これでも大丈夫なのかな？"
+
+msgid "Red Paint"
+msgstr "赤いペンキ"
+
+msgid "A can of red paint. It's dusty."
+msgstr "缶入りの赤いペンキ。ほこりを被ってる。"
+
+msgid "Bird Food"
+msgstr "鳥のエサ"
+
+msgid "All-Natural Non-GMO Certified Organic Bird Food. It's as expensive as it sounds."
+msgstr "天然素材100％、遺伝子組み換え作物不使用のオーガニックバードフード。名前通りの値段がする。"
+
+msgid "Red Marker"
+msgstr "赤いマーカー"
+
+msgid "A non-erasable alcohol-based red marker."
+msgstr "消せない赤のアルコールマーカー。"
+
+msgid "Lipstick"
+msgstr "口紅"
+
+msgid "Some red lipstick from mother's makeup set. It says \"Crimson Passion\"."
+msgstr "ママのメイク道具から取った口紅。「深紅の情熱」と書いてある。"
+
+msgctxt "items.name.ch1.ritual_instructions"
+msgid "Ritual Letter"
+msgstr "儀式の手紙"
+
+msgctxt "items.desc.ch1.ritual_instructions"
+msgid "The ritual instructions I received."
+msgstr "私に届いた、儀式の手順の手紙。"
+
+msgctxt "items.name.ch1.ritual_instructions_hidden"
+msgid "Ritual Letter"
+msgstr "儀式の手紙"
+
+msgctxt "items.desc.ch1.ritual_instructions_hidden"
+msgid "The ritual instructions I received."
+msgstr "私に届いた、儀式の手順の手紙。"
+
+msgid "Table Salt"
+msgstr "食卓塩"
+
+msgid "\"For cooking and baking\". Salt can supposedly ward off spirits and such."
+msgstr "「お料理の味付けに」。塩は霊とかを追い払えるらしい。"
+
+msgid "Notebook"
+msgstr "ノート"
+
+msgid "I keep my personal notes and papers I find here."
+msgstr "個人的なメモや、拾った紙をまとめてある。"
+
+msgctxt "items.name.ch1.rune_jara"
+msgid "Rune"
+msgstr "ルーン"
+
+msgid "A rune stone I bought from a shady online merchant."
+msgstr "ネットの怪しい業者から買ったルーン。"
+
+msgctxt "items.name.ch1.rune_uruz"
+msgid "Rune"
+msgstr "ルーン"
+
+msgctxt "items.desc.ch1.rune_uruz"
+msgid "A rune stone I found."
+msgstr "拾ったルーン。"
+
+msgctxt "items.name.ch1.rune_ansuz"
+msgid "Rune"
+msgstr "ルーン"
+
+msgctxt "items.desc.ch1.rune_ansuz"
+msgid "A rune stone I found."
+msgstr "拾ったルーン。"
+
+msgctxt "items.name.ch1.rune_raidho"
+msgid "Rune"
+msgstr "ルーン"
+
+msgctxt "items.desc.ch1.rune_raidho"
+msgid "A rune stone I found."
+msgstr "拾ったルーン。"
+
+msgctxt "items.name.ch1.rune_algiz"
+msgid "Rune"
+msgstr "ルーン"
+
+msgctxt "items.desc.ch1.rune_algiz"
+msgid "A rune stone I found."
+msgstr "拾ったルーン。"
+
+msgid "Blue Sign"
+msgstr "青い標識"
+
+msgid "It says \"Daylight Gate\"."
+msgstr "「デイライト・ゲート」と書いてある。"
+
+msgid "Pack of Chips"
+msgstr "袋入りチップス"
+
+msgid "Looks like regular potato chips. The brand is literally called \"Harmless Snack\"."
+msgstr "見た感じ、普通のポテトチップス。ブランド名は文字通り「あんしんお菓子」。"
+
+msgid "Chocolate Bar"
+msgstr "板チョコ"
+
+msgid "Looks like a bar of chocolate. The brand is literally called \"Harmless Snack\"."
+msgstr "板チョコらしきもの。ブランド名は文字通り「あんしんお菓子」。"
+
+msgid "Bug Net"
+msgstr "虫捕り網"
+
+msgid "A bug net Rune gave me. I don't know what I'll do with it."
+msgstr "ルーンがくれた虫捕り網。何に使えばいいのかはわからない。"
+
+msgid "Empty Lamp"
+msgstr "空のランプ"
+
+msgid "The case of a street lamp. It has nothing inside."
+msgstr "街灯のランプ部分。何も入ってない。"
+
+msgid "Lamp with Fireflies"
+msgstr "ホタル入りのランプ"
+
+msgid "A street lamp full of fireflies."
+msgstr "ホタルで満たされた街灯のランプ。"
+
+msgid "Empty Jar"
+msgstr "空の瓶"
+
+msgid "A jar with nothing inside."
+msgstr "何も入っていない瓶。"
+
+msgid "Jar of Fireflies"
+msgstr "ホタル入りの瓶"
+
+msgid "A jar full of fireflies."
+msgstr "ホタルで満たされた瓶。"
+
+msgid "Bolt Cutter"
+msgstr "ボルトカッター"
+
+msgid "A bolt cutter Rune gave me. Looks strong."
+msgstr "ルーンがくれたボルトカッター。強そう。"
+
+msgid "Fish"
+msgstr "魚"
+
+msgid "A fish thing I purchased from a merchant. I don't think I should eat this."
+msgstr "お店で買った魚らしきもの。食べない方がよさそう。"
+
+msgid "Jar of Slugs"
+msgstr "瓶詰めのナメクジ"
+
+msgid "A jar of slugs. Heavy."
+msgstr "瓶詰めのナメクジ。重い。"
+
+msgid "Stone Curse Notes"
+msgstr "石の呪いのメモ"
+
+msgid "Notes explaining a ritual to remove a \"Stone Curse\"."
+msgstr "「石の呪い」を解くための儀式を説明したメモ。"
+
+msgid "Artistic Pot"
+msgstr "芸術的な壺"
+
+msgid "A pot I found. Hopefully it works as a new head for Kozmo."
+msgstr "見つけた壺。コズモの新しい頭に使えるといいんだけど。"
+
+msgid "Stone Curse Cure"
+msgstr "石の呪い消し"
+
+msgid "A sort of potion I made. It should cure a simple stone curse."
+msgstr "私が作ったポーションのようなもの。単純な石の呪いを治せる。"
+
+msgid "Weird Sculpture"
+msgstr "奇妙な彫刻"
+
+msgid "A thing I found. I'm almost a bit ashamed of having to give this to Kozmo."
+msgstr "見つけたもの。これをコズモに渡さないといけないのは、正直ちょっと恥ずかしさすらある。"
+
+msgid "Teapot-Shaped Head"
+msgstr "ティーポット形の頭"
+
+msgid "It came off the sculptor. It's empty inside."
+msgstr "彫刻家から取った。中身は空っぽ。"
+
+msgid "Artist's Flower"
+msgstr "芸術家の花"
+
+msgid "It came off the sculptor. It smells good."
+msgstr "彫刻家から出てきた。良い匂いがする。"
+
+msgid "Cursed Tree Bark"
+msgstr "呪われた木の皮"
+
+msgid "A piece I tore off a tree. Allegedly cursed."
+msgstr "木から取った欠片。呪われてるらしい。"
+
+msgid "Ink Mushrooms"
+msgstr "インク茸"
+
+msgid "Black mushrooms."
+msgstr "黒いキノコ。"
+
+msgid "Lit Candle"
+msgstr "火の点いたロウソク"
+
+msgctxt "items.desc.ch1.candleman_candle"
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "彫刻家の家の像から取ったロウソク。"
+
+msgid "Unlit Candle"
+msgstr "火のないロウソク"
+
+msgctxt "items.desc.ch1.candleman_candle_unlit"
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "彫刻家の家の像から取ったロウソク。"
+
+msgid "Blue Candle"
+msgstr "青いロウソク"
+
+msgid "A candle that the candle person gave to me."
+msgstr "ロウソクの人がくれたロウソク。"
+
+msgid "AC Adapter"
+msgstr "ACアダプター"
+
+msgid "A power plug adapter. It converts a 3-prong plug for a 2-prong socket."
+msgstr "電源プラグのアダプター。3ピンのプラグを2ピンのコンセント用に変換する。"
+
+msgid "Scissors"
+msgstr "ハサミ"
+
+msgid "A pair of scissors. Pointy!"
+msgstr "ハサミ。鋭い！"
+
+msgid "Padlock Key"
+msgstr "南京錠の鍵"
+
+msgid "A key that should open the gate with the warning sign."
+msgstr "警告が貼られたゲートを開けられるらしい鍵。"
+
+msgid "Caterpillar"
+msgstr "イモムシ"
+
+msgid "The moths asked me to get rid of him for a reward."
+msgstr "蛾のふたりから、報酬と引き換えに片付けてほしいと頼まれたイモムシ。"
+
+msgid "Treasure Hunter's Letter"
+msgstr "財宝ハンターの手紙"
+
+msgid "A letter I found under a statue."
+msgstr "像の下から見つけた手紙。"
+
+msgid "Treasure Hunter's Note 1"
+msgstr "財宝ハンターのメモ 1"
+
+msgctxt "items.desc.ch1.hunter_note_1"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "見つけたメモ。封鎖区域について書いてある。"
+
+msgid "Treasure Hunter's Note 2"
+msgstr "財宝ハンターのメモ 2"
+
+msgctxt "items.desc.ch1.hunter_note_2"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "見つけたメモ。封鎖区域について書いてある。"
+
+msgid "Treasure Hunter's Note 3"
+msgstr "財宝ハンターのメモ 3"
+
+msgctxt "items.desc.ch1.hunter_note_3"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "見つけたメモ。封鎖区域について書いてある。"
+
+msgid "Treasure Hunter's Note 4"
+msgstr "財宝ハンターのメモ 4"
+
+msgctxt "items.desc.ch1.hunter_note_4"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "見つけたメモ。封鎖区域について書いてある。"
+
+msgid "Secret Passage Code"
+msgstr "隠し通路の暗証コード"
+
+msgid "Contains the code to open the secret passage under Red's house."
+msgstr "レッドの家の下の隠し通路を開くためのコードが書いてある。"
+
+msgid "Boat Paddle"
+msgstr "ボートのオール"
+
+msgid "Perfect for rowing a boat."
+msgstr "ボートを漕ぐにはぴったり。"
+
+msgid "Injured Bunny"
+msgstr "ケガをしたウサギ"
+
+msgid "It couldn't run away, so now it's in my inventory. Looks like it has a broken leg."
+msgstr "逃げられなかったから、こうしてインベントリにいる。足が折れてるみたい。"
+
+msgid "Lavender Flower"
+msgstr "ラベンダーの花"
+
+msgid "Smells like laundry."
+msgstr "洗濯物の匂いがする。"
+
+msgid "Goldfish"
+msgstr "金魚"
+
+msgid "Dead Goldfish"
+msgstr "死んだ金魚"
+
+msgid "Might have been better off where it was."
+msgstr "元の場所にいたほうが良かったのかもしれない。"
+
+msgid "Black Algae"
+msgstr "黒い藻"
+
+msgctxt "items.desc.ch1.lakeside_algae_black"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "湖の底から釣った藻。"
+
+msgid "Blue Algae"
+msgstr "青い藻"
+
+msgctxt "items.desc.ch1.lakeside_algae_blue"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "湖の底から釣った藻。"
+
+msgid "Green Algae"
+msgstr "緑の藻"
+
+msgctxt "items.desc.ch1.lakeside_algae_green"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "湖の底から釣った藻。"
+
+msgid "Pink Petals"
+msgstr "桃色の花びら"
+
+msgctxt "items.desc.ch1.lakeside_petals_pink"
+msgid "Some flower petals I found."
+msgstr "見つけた花びら。"
+
+msgid "Purple Petals"
+msgstr "紫の花びら"
+
+msgctxt "items.desc.ch1.lakeside_petals_purple"
+msgid "Some flower petals I found."
+msgstr "見つけた花びら。"
+
+msgid "White Petals"
+msgstr "白い花びら"
+
+msgctxt "items.desc.ch1.lakeside_petals_white"
+msgid "Some flower petals I found."
+msgstr "見つけた花びら。"
+
+msgid "Handle (Square)"
+msgstr "ハンドル (正方形)"
+
+msgid "A purple handle for a valve mechanism. The protrusion is square-shaped."
+msgstr "バルブ用の紫色のハンドル。正方形の突起がある。"
+
+msgid "Handle (Pentagon)"
+msgstr "ハンドル (五角形)"
+
+msgid "A red handle for a valve mechanism. The protrusion is pentagon-shaped."
+msgstr "バルブ用の赤いハンドル。五角形の突起がある。"
+
+msgid "Handle (Star)"
+msgstr "ハンドル (星)"
+
+msgid "A yellow handle for a valve mechanism. The protrusion is shaped like a 5-point star."
+msgstr "バルブ用の黄色いハンドル。五芒星形の突起がある。"
+
+msgid "Handle (Diamond)"
+msgstr "ハンドル (ダイヤ)"
+
+msgid "A white handle for a valve mechanism. The protrusion is diamond-shaped."
+msgstr "バルブ用の白いハンドル。ダイヤ形の突起がある。"
+
+msgid "Fuse (5)"
+msgstr "ヒューズ (5)"
+
+msgid "Fuse (10)"
+msgstr "ヒューズ (10)"
+
+msgid "Fuse (15)"
+msgstr "ヒューズ (15)"
+
+msgid "Fuse (20)"
+msgstr "ヒューズ (20)"
+
+msgid "Fuse (25)"
+msgstr "ヒューズ (25)"
+
+msgid "Fuse (40)"
+msgstr "ヒューズ (40)"
+
+msgid "_____"
+msgstr "_____"
+
+msgid "It's sharp."
+msgstr "鋭い。"
+
+msgid "Iron Key"
+msgstr "鉄の鍵"
+
+msgid "A fairly large metallic key."
+msgstr "かなり大きい金属製の鍵。"
+
+msgid "Copper Key"
+msgstr "銅の鍵"
+
+msgid "A regular key. It probably opens a door somewhere."
+msgstr "普通の鍵。たぶんどこかのドアに使える。"
+
+msgid "Bucket"
+msgstr "バケツ"
+
+msgid "A metallic bucket. It can transport various liquid substances."
+msgstr "金属製のバケツ。いろんな液体を運べる。"
+
+msgid "Bucket of Water"
+msgstr "水入りのバケツ"
+
+msgid "A bucket full of water. It's heavy."
+msgstr "水が入ったバケツ。重い。"
+
+msgid "Bucket of Special Water"
+msgstr "特別な水のバケツ"
+
+msgid "A bucket full of water. It comes from a special faucet in the forest."
+msgstr "水が入ったバケツ。水は森の中の特別な蛇口から出てきたもの。"
+
+msgid "Flat Screwdriver"
+msgstr "マイナスドライバー"
+
+msgid "A simple screwdriver."
+msgstr "シンプルなドライバー。"
+
+msgid "Coin"
+msgstr "コイン"
+
+msgid "A coin that's not quite like the ones back home."
+msgstr "家の小銭とはちょっと違うコイン。"
+
+msgid "Return Doorknob"
+msgstr "帰還のドアノブ"
+
+msgid "Apparently, this is my ticket back home. I purchased it online."
+msgstr "これが帰りの切符になるらしい。ネットで買った。"
+
+msgid "Doorknob With Flower"
+msgstr "花のドアノブ"
+
+msgid "A doorknob. I found this lying around."
+msgstr "ドアノブ。落ちてたのを拾った。"
+
+msgctxt "items.name.ch1.doorknob_library_fragment"
+msgid "Doorknob Fragment"
+msgstr "ドアノブの欠片"
+
+msgctxt "items.desc.ch1.doorknob_library_fragment"
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "ドアノブの破片。自分ではつなぎ合わせられない。"
+
+msgid "Gray Doorknob"
+msgstr "灰色のドアノブ"
+
+msgid "A doorknob. It has the same symbol as my letter."
+msgstr "ドアノブ。手紙と同じ印が描いてある。"
+
+msgid "White Doorknob"
+msgstr "白いドアノブ"
+
+msgid "A doorknob. It looks like a white lily."
+msgstr "ドアノブ。白い百合のような見た目をしている。"
+
+msgid "Doorknob With Eye"
+msgstr "目のドアノブ"
+
+msgid "A doorknob I got from the moths. Can probably be used at that door with the slots."
+msgstr "蛾のふたりからもらったドアノブ。あの穴があるドアに使えるはず。"
+
+msgctxt "items.name.ch1.doorknob_lighthouse_fragment"
+msgid "Doorknob Fragment"
+msgstr "ドアノブの欠片"
+
+msgctxt "items.desc.ch1.doorknob_lighthouse_fragment"
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "ドアノブの破片。自分ではつなぎ合わせられない。"
+
+msgid "Paper Lily Folding Steps"
+msgstr "折り紙の百合の折り方"
+
+msgid "Instructions detailing how to fold a piece of paper to look like a lily flower."
+msgstr "紙を折って百合の花みたいな形にする手順を詳しく記したガイド。"
+
+msgid "Facility Map"
+msgstr "施設の地図"
+
+msgid "A map of the facility, drawn by someone."
+msgstr "誰かが描いた施設の地図。"
+
+msgid "Black Knife"
+msgstr "黒いナイフ"
+
+msgid "A fully black knife. It's still very sharp."
+msgstr "完全に真っ黒なナイフ。それでもすごく鋭い。"
+
+msgid "Knife"
+msgstr "ナイフ"
+
+msgid "A knife."
+msgstr "ナイフ。"
+
+msgid "Human Foot"
+msgstr "人の足"
+
+msgid "A foot that used to belong to someone."
+msgstr "かつて誰かのものだった足。"
+
+msgid "Sketchbook"
+msgstr "スケッチブック"
+
+msgid "A sketchbook full of colors you splattered all over it."
+msgstr "一面に色がまき散らされたスケッチブック。"
+
+msgctxt "items.name.ch1.mk_hand_mirror"
+msgid "Black Object"
+msgstr "黒い物体"
+
+msgid "An unknown circular object that's fully black. Feels like wood and glass."
+msgstr "完全に真っ黒な、何かわからない丸い物体。手触りは木とガラスのような感じ。"
+
+msgid "Hand Mirror"
+msgstr "手鏡"
+
+msgid "A wooden hand mirror."
+msgstr "木製の手鏡。"
+
+msgctxt "items.name.ch1.mk_compress"
+msgid "Black Object"
+msgstr "黒い物体"
+
+msgid "An unknown object that's fully black. Feels like a piece of fabric."
+msgstr "完全に真っ黒な、何かわからない物体。手触りは布のような感じ。"
+
+msgid "Cold Compress"
+msgstr "濡らした布"
+
+msgid "A wet rag."
+msgstr "湿った布切れ。"
+
+msgid "Eyeball"
+msgstr "眼球"
+
+msgid "An eyeball. The owner seems to have had golden eyes."
+msgstr "眼球。持ち主の瞳は金色だったみたい。"
+
+msgid "Small Key"
+msgstr "小さな鍵"
+
+msgid "A small key. Looks like it could belong to a padlock or something similar."
+msgstr "小さな鍵。南京錠か何かに使えそう。"
+
+msgctxt "items.name.ch1.mk_bedroom_key"
+msgid "Key"
+msgstr "鍵"
+
+msgctxt "items.desc.ch1.mk_bedroom_key"
+msgid "A key for something."
+msgstr "何かの鍵。"
+
+msgctxt "items.name.ch1.mk_key_wisteria"
+msgid "Key"
+msgstr "鍵"
+
+msgctxt "items.desc.ch1.mk_key_wisteria"
+msgid "A key for something."
+msgstr "何かの鍵。"
+
+msgid "Glass Jar"
+msgstr "ガラス瓶"
+
+msgid "A small glass jar. I found 3 of them."
+msgstr "小さなガラス瓶。3つ見つけた。"
+
+msgid "Jar of Water"
+msgstr "水入りの瓶"
+
+msgid "A small glass jar full of water."
+msgstr "水を入れた小さなガラス瓶。"
+
+msgid "Jar of Red Pigment"
+msgstr "赤い顔料入りの瓶"
+
+msgid "A small glass jar with red pigment. Needs water."
+msgstr "赤い顔料が入った小さなガラス瓶。水が必要。"
+
+msgid "Jar of Yellow Pigment"
+msgstr "黄色い顔料入りの瓶"
+
+msgid "A small glass jar with yellow pigment. Needs water."
+msgstr "黄色い顔料が入った小さなガラス瓶。水が必要。"
+
+msgid "Jar of Blue Pigment"
+msgstr "青い顔料入りの瓶"
+
+msgid "A small glass jar with blue pigment. Needs water."
+msgstr "青い顔料が入った小さなガラス瓶。"
+
+msgid "Jar of Red Paint"
+msgstr "赤い絵の具の瓶"
+
+msgid "A small glass jar with red paint."
+msgstr "赤い絵の具が入った小さなガラス瓶。"
+
+msgid "Jar of Yellow Paint"
+msgstr "黄色い絵の具の瓶"
+
+msgid "A small glass jar with yellow paint."
+msgstr "黄色い絵の具が入った小さなガラス瓶。"
+
+msgid "Jar of Blue Paint"
+msgstr "青い絵の具の瓶"
+
+msgid "A small glass jar with blue paint."
+msgstr "青い絵の具が入った小さなガラス瓶。"
+
+msgid "Lighter"
+msgstr "ライター"
+
+msgid "A lighter."
+msgstr "ライター。"
+
+msgid "Lock Pick"
+msgstr "ロックピック"
+
+msgid "A lock pick. I don't know how to use this..."
+msgstr "ロックピック。使い方はわからない……"
+
+msgid "Rainbow Potion"
+msgstr "虹のポーション"
+
+msgid "A strange potion. I wonder what it does..."
+msgstr "不思議なポーション。どんな効果があるんだろう……"
+
+msgid "Temp. Rainbow Potion"
+msgstr "弱い虹のポーション"
+
+msgid "A strange potion that Spider directed me to. It has a shorter duration than the original one."
+msgstr "スパイダーの案内で手に入れた不思議なポーション。もとのものより効果時間が短い。"
+
+msgid "Lily"
+msgstr "百合"
+
+msgid "A lily. I'm supposed to bring it home with me."
+msgstr "百合。家に持って帰らないといけない。"
+
+msgid "Flower"
+msgstr "花"
+
+msgid "Sewing Kit"
+msgstr "裁縫セット"
+
+msgid "Cabbage"
+msgstr "キャベツ"
+
+msgid "Red Item I"
+msgstr "赤いアイテム I"
+
+msgctxt "items.desc.global.reditem_1"
+msgid "A red item. I can't tell what it is."
+msgstr "赤いもの。何なのかはわからない。"
+
+msgid "Red Item II"
+msgstr "赤いアイテム II"
+
+msgctxt "items.desc.global.reditem_2"
+msgid "A red item. I can't tell what it is."
+msgstr "赤いもの。何なのかはわからない。"
+
+msgid "Red Item III"
+msgstr "赤いアイテム III"
+
+msgctxt "items.desc.global.reditem_3"
+msgid "A red item. I can't tell what it is."
+msgstr "赤いもの。何なのかはわからない。"

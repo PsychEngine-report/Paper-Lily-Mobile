@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The keyhole has vanished, making it impossible to pick."
+msgstr "Ключалката е изчезнала, поради което е невъзможно да се отвори."
+
+msgid "What... the hell? Are you guys seeing what I'm seeing?"
+msgstr "Какво... по-дяволите? Вие хора, виждате ли това което и Аз?"
+
+msgid "Maybe it's a sign..."
+msgstr "Може би е знак…"
+
+msgid "..."
+msgstr "..."
+
+msgid "This leads downstairs and outside of the school."
+msgstr "Това води долу и извън училището."
+
+msgid "I should be able to find everything I need on this floor."
+msgstr "Би следвало да намеря всичко от което имам нужда на този етаж."
+
+msgid "No need to go downstairs."
+msgstr "Няма нужда да ходя долу."
+
+msgid "Give up and go home?"
+msgstr "Откажи се и си отивай у дома?"
+
+msgid "Yes, this is scary"
+msgstr "Да, страшно си е то"
+
+msgid "No, let's finish this"
+msgstr "Не, да завършим това"
+
+msgid "What are you doing? Are we done already?"
+msgstr "Какво правиш? Свършихме ли вече?"
+
+msgid "Are we going home?"
+msgstr "Отиваме ли си у дома?"
+
+msgid "Yeah, let's go"
+msgstr "Мм да, хайде"
+
+msgid "No, we're not done"
+msgstr "Не, не сме готови"
+
+msgid "Really? I guess I'll go get my stuff."
+msgstr "Наистина? В такъв случай ще си взема нещата."
+
+msgid "I am a little creeped out but..."
+msgstr "Малко съм стресната но..."
+
+msgid "I'm going to finish what I started."
+msgstr "Ще завърша това което започнах."
+
+msgid "Yes, let's go home"
+msgstr "Да, да си ходим у дома"
+
+msgid "No, let's stay"
+msgstr "Не, да останем"
+
+msgid "The door unlocked!"
+msgstr "Вратата се отключи!"
+
+msgid "Well, that didn't go as planned."
+msgstr "В такъв случай, това не мина по план."
+
+msgid "This room is..."
+msgstr "Стаята е..."
+
+msgid "What IS this room, anyways?"
+msgstr "Каква Е тази стая, всъщност?"
+
+msgid "I don't think I've ever seen anybody use it."
+msgstr "Не мисля че съм виждала някой някога да я използва."
+
+msgid "Me neither."
+msgstr "Аз също."
+
+msgid "Say, why don't we check it out?"
+msgstr "Кажи, защо не му хвърлим един поглед а?"
+
+msgid "You want to break into this room...?"
+msgstr "Искаш да проникнеш в тази стая...?"
+
+msgid "Why not? Can't be any worse than trying a silly ritual."
+msgstr "Защо не? Не може да е по зле от опита със странен ритуал."
+
+msgid "I hope it's safe..."
+msgstr "Надявам се че е безопасно…"
+
+msgid "We would need a way to open it, though."
+msgstr "Трябва ни начин да я отворим."
+
+msgid "We're counting on you."
+msgstr "Разчитаме на теб."
+
+msgid "You can do it, Kat."
+msgstr "Ти можеш, Кат."
+
+msgid "I never said-"
+msgstr "Никога не съм казвала-"
+
+msgid "Geez, fine."
+msgstr "Боже, добре."
+
+msgid "I'm really curious as to what's behind this door..."
+msgstr "Много съм любопитна какво се крие зад тази врата..."
+
+msgid "But I don't have time for this right now."
+msgstr "Но в момента нямам време за това."
+
+msgid "It's already open."
+msgstr "Вече е отворено."
+
+msgid "You can't do that anymore."
+msgstr "Вече не можеш да го направиш."
+
+msgid "I've gotta get in somehow."
+msgstr "Трябва да вляза някак си."
+
+msgid "Should I try to pick the lock?"
+msgstr "Да се опитам ли да отворя ключалката?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Let's give it a shot."
+msgstr "Да пробваме."
+
+msgid "I don't think I need anything from here."
+msgstr "Не мисля, че имам нужда от нещо оттук."
+
+msgid "I have the key, so there's no point in that."
+msgstr "Имам ключа, така че няма свисъл в това."
+
+msgid "This key doesn't fit here."
+msgstr "Ключа не пасва тук."
+
+msgid "That's not how locks work."
+msgstr "Ключалките не работят по този начин."
+
+msgid "It reads \"No running in the hallways.\""
+msgstr "Пише \"Без бягане в коридорите.\""
+
+msgid "A list of safety regulations."
+msgstr "Списък с правилата за безопасност."
+
+msgid "The exams schedule."
+msgstr "График с изпита."
+
+msgid "A pinboard with some important school papers."
+msgstr "Табло с важни училищни документи."
+
+msgid "\"Club Room\""
+msgstr "\"Клуб стая\""
+
+msgid "\"Classroom 3-A\""
+msgstr "\"Класна стая 3-А\""
+
+msgid "\"Classroom 3-B\""
+msgstr "\"Класна стая 3-Б\""
+
+msgid "\"Classroom 3-C\""
+msgstr "\"Класна стая 3-Ц\""
+
+msgid "An unexciting trash can."
+msgstr "Неочаквана кофа за боклук."
+
+msgid "A boring trash can."
+msgstr "Скучно кошче за боклук."
+
+msgid "The front yard of the school is visible from here."
+msgstr "Предният двор на училището е видно от тук."
+
+msgid "Better stay clear of the windows or someone might see me."
+msgstr "По-добре да стоя настрана от прозорците или някой може да ме види."
+
+msgid "The windows of the classroom."
+msgstr "Прозорците на класната стая."
+
+msgid "I can't see much through them."
+msgstr "Не мога да видя много през тях."
+
+msgid "The window is cracked."
+msgstr "Прозорецът е пропукан."
+
+msgid "That spooked me..."
+msgstr "Това ме стресна…"
+
+msgid "This isn't good for my heart..."
+msgstr "Това не е хубаво за сърцето ми…"
+
+msgid "There's a handprint on the window."
+msgstr "Има отпечатък на прозореца."
+
+msgid "Was this always here?"
+msgstr "Това винаги ли е било тук?"
+
+msgid "It's locked."
+msgstr "Заключена е."
+
+msgid "It won't open anymore."
+msgstr "Вече не се отваря."
+
+msgid "This is the Theater Club's room. It's locked."
+msgstr "Това е стаята на Театралния клуб. Тя е заключена."
+
+msgid "I may be able to find some curtains in there."
+msgstr "Може би ще успея да намеря малко завеси там."
+
+msgid "I wonder if any of the girls is a member of this club?"
+msgstr "Чудя се дали някое от момичетата е член на този клуб?"
+
+msgid "I'm not on great terms with them though..."
+msgstr "Не съм в добри отношения с тях..."
+
+msgid "I wonder if any of the girls is a member of this club."
+msgstr "Чудя се дали някое от момичетата е член на този клуб."
+
+msgid "But I have the key now."
+msgstr "Вече имам ключа."
+
+msgid "How am I going to open it now...?"
+msgstr "Как ще го отворя сега...?"
+
+msgid "Maybe I should deliver that notebook."
+msgstr "Може би трябва да доставя бележника."

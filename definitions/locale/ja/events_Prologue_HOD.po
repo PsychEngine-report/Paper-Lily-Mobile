@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That's strange."
+msgstr "おかしいわ。"
+
+msgid "Have I already passed through here?"
+msgstr "ここ、さっきも通らなかったっけ？"
+
+msgctxt "events.Prologue_HOD.event_kat_explore_1.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "I have."
+msgstr "たしかに通った。"
+
+msgid "Hmm..."
+msgstr "うーん……"
+
+msgid "There must be something I missed."
+msgstr "なにか見落としがあるんだわ、きっと。"
+
+msgid "Um... am I lost? I don't remember this hallway being so long before."
+msgstr "うーん……迷った？ この廊下、こんなに長くなかったと思うんだけど。"
+
+msgid "Uh-oh... The hairpin is bent badly."
+msgstr "うわ……ヘアピンが曲がっちゃった。"
+
+msgid "I don't think it can take much more of this."
+msgstr "これ以上はもたなそうね。"
+
+msgid "The hairpin broke."
+msgstr "ヘアピンが壊れた。"
+
+msgid "The door unlocked!"
+msgstr "ドアが開いた！"
+
+msgid "Before proceeding through the door, do you wish to save your progress?"
+msgstr "ドアを通る前に、進行状況をセーブしますか？"
+
+msgctxt "events.Prologue_HOD.event_move_to_hallway.choice.Before proceeding through the door, do you wish to save your progress?"
+msgid "Yes"
+msgstr "はい"
+
+msgctxt "events.Prologue_HOD.event_move_to_hallway.choice.Before proceeding through the door, do you wish to save your progress?"
+msgid "No"
+msgstr "いいえ"
+
+msgid "The lock looks really sturdy."
+msgstr "ここの鍵はかなり手強そう。"
+
+msgid "Should I try to pick it?"
+msgstr "ピッキングしてみる？"
+
+msgctxt "events.Prologue_HOD.item_hairpin_on_door3.choice.Should I try to pick it?"
+msgid "Yes"
+msgstr "する"
+
+msgctxt "events.Prologue_HOD.item_hairpin_on_door3.choice.Should I try to pick it?"
+msgid "No"
+msgstr "しない"
+
+msgid "There's a key hanging from a hook."
+msgstr "フックから鍵が下がっている。"
+
+msgid "Take Key?"
+msgstr "鍵を取る？"
+
+msgctxt "events.Prologue_HOD.item_key_get.choice.Take Key?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_HOD.item_key_get.choice.Take Key?"
+msgid "No"
+msgstr "取らない"
+
+msgid "There's nothing left."
+msgstr "もう何もない。"
+
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgid "I don't suppose I could burn these planks down...?"
+msgstr "この板、燃やせたりしないかな……？"
+
+msgid "Ugh, it's no use. I'll run out of fuel before they even warm up."
+msgstr "う、ダメだった。温かくもならないうちに燃料切れだ。"
+
+msgid "There's no point in that."
+msgstr "そんなことをする意味はない。"
+
+msgid "Hm... This is a closed space."
+msgstr "うーん……ここは閉鎖空間。"
+
+msgid "If this turns out to be flammable, it could get really dangerous."
+msgstr "もしこの何かが可燃性だったら、かなり危険なことになりかねないわ。"
+
+msgid "I really shouldn't."
+msgstr "やめておいたほうがいい。"
+
+msgid "This door has no keyhole."
+msgstr "このドアには鍵穴はない。"
+
+msgid "This key doesn't fit here."
+msgstr "この鍵はここには合わない。"
+
+msgid "A black substance drips down from here."
+msgstr "黒い物質がここから垂れている。"
+
+msgid "Where is this stuff coming from?"
+msgstr "一体どこから流れてきてるんだろう？"
+
+msgid "A black substance drips down from above."
+msgstr "上から黒い物質が垂れてきている。"
+
+msgid "Whatever it is, it looks disgusting."
+msgstr "何であれ、嫌な感じね。"
+
+msgid "A large amount of a black substance has accumulated under the stairs."
+msgstr "階段の下に大量の黒い物質が溜まっている。"
+
+msgid "This stuff makes me uneasy... What if it comes alive or something?"
+msgstr "これを見てると落ち着かない……動き出したりしたらどうしよう？"
+
+msgid "The way these mirrors are set on the walls is almost comforting."
+msgstr "こんなふうに壁に鏡があるのは、落ち着く感じすらする。"
+
+msgid "But staring into mirrors in a place like this..."
+msgstr "でもこんな場所で鏡を覗き込むのは……"
+
+msgid "It's almost like I'm asking to be jump-scared."
+msgstr "脅かしてくれと言ってるようなものね。"
+
+msgid "Multiple reflections stare back at you."
+msgstr "鏡に映ったいくつもの自分がこちらを見つめている。"
+
+msgid "Nonsensical pipes run all over the place."
+msgstr "意味不明なパイプが一面に広がっている。"
+
+msgid "They are warm to the touch. Is this some sort of heating?"
+msgstr "触ると温かい。暖房か何かかしら？"
+
+msgctxt "events.Prologue_HOD.move_door1.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "奇妙な模様の描かれた扉。"
+
+msgctxt "events.Prologue_HOD.move_door1.dlg.kat"
+msgid "It's locked."
+msgstr "鍵がかかってる。"
+
+msgctxt "events.Prologue_HOD.move_door2.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "奇妙な模様の描かれた扉。"
+
+msgid "It's very locked."
+msgstr "厳重に閉ざされてる。"
+
+msgid "This door is open..."
+msgstr "この扉は開いてる……"
+
+msgid "Wasn't it boarded up...?"
+msgstr "さっきは、板で塞がれてなかったっけ……？"
+
+msgctxt "events.Prologue_HOD.move_door2.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "Everything else is locked... I have no other choice but to go in..."
+msgstr "他の扉は閉まってる……ここに入るしかない……"
+
+msgid "A fairly normal-looking door."
+msgstr "ごく普通の扉。"
+
+msgctxt "events.Prologue_HOD.move_door3.dlg.kat"
+msgid "It's locked."
+msgstr "鍵がかかってる。"
+
+msgid "There's nothing here."
+msgstr "ここには何もない。"
+
+msgid "A small door with an odd pattern."
+msgstr "奇妙な模様の描かれた小さな扉。"
+
+msgctxt "events.Prologue_HOD.move_door4.dlg.kat"
+msgid "It's locked."
+msgstr "鍵がかかってる。"
+
+msgid "A door with a glossy finish."
+msgstr "光沢仕上げの施された扉。"
+
+msgid "You can see yourself in it."
+msgstr "自分の姿が映って見える。"
+
+msgctxt "events.Prologue_HOD.move_door5.dlg.kat"
+msgid "It's locked."
+msgstr "鍵がかかってる。"
+
+msgctxt "events.Prologue_HOD.move_door6.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "奇妙な模様の描かれた扉。"
+
+msgctxt "events.Prologue_HOD.move_door6.dlg.kat"
+msgid "It's locked."
+msgstr "鍵がかかってる。"

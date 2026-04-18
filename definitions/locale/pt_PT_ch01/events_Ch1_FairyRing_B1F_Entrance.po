@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's probably no point, this one didn't even do anything."
+msgstr "Provavelmente não vale a pena, este nem sequer fez nada."
+
+msgid "Nothing good can come out of stabbing every single plant you see."
+msgstr "Não vale a pena esfaquear todas as plantas que se vê."
+
+msgid "(Is this plant eating something... or someone?)"
+msgstr "(Esta planta está a comer alguma coisa... ou alguém?)"
+
+msgid "(Should I really risk opening it?)"
+msgstr "(Devo mesmo arriscar-me a abri-la?)"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "(Probably best not to...)"
+msgstr "(Se calhar é melhor não...)"
+
+msgid "(It's a person.)"
+msgstr "(É uma pessoa.)"
+
+msgid "(Are they... alright? They seem asleep.)"
+msgstr "(Ela está... bem? Parece estar a dormir.)"
+
+msgid "(Wait... that might be a demon. Maybe I'd better leave them alone.)"
+msgstr "(Espera... Pode ser um demónio. Talvez seja melhor deixá-la em paz.)"
+
+msgid "(Well... I'll look around while they wake up.)"
+msgstr "(Bem… Vou dar uma vista de olhos por aqui enquanto ela não acorda.)"
+
+msgid "AH!"
+msgstr "AH!"
+
+msgid "...!?"
+msgstr "...?!"
+
+msgid "Ahh... AHH!"
+msgstr "Ahh... AHH!"
+
+msgid "Get it off get it off get it off!!!"
+msgstr "Tira-o tira-o tira-o tira-o!!!"
+
+msgid "Oh god... oh god... gaaaah!"
+msgstr "Meu Deus... Meu Deus... gaaaah!"
+
+msgid "..."
+msgstr "..."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Did you just save me?!?"
+msgstr "Acabaste de me salvar?!?"
+
+msgid "Everything was so dark and so gross, I thought I was gonna die for real this time!"
+msgstr "Estava tudo tão escuro e tão nojento que achei que desta vez ia morrer a sério!"
+
+msgid "That gooey stuff was eating away at my skin, it's so itchy, uuugh I still feel it!!!"
+msgstr "Aquela coisa pegajosa estava a corroer-me a pele, faz tanta comichão… Uuugh, ainda estou a senti-la!!!"
+
+msgid "I don't want it to eat me!!!"
+msgstr "Não quero que ela me coma!!!"
+
+msgid "Oh god, I didn't plan to get digested today, this is NOT how I pictured my death!"
+msgstr "Meu Deus, não planeava tornar-me comida hoje, não foi assim que imaginei a minha morte!"
+
+msgid "WHAT IS THIS PLACE?!?"
+msgstr "QUE SÍTIO É ESTE?!?"
+
+msgid "Oh."
+msgstr "Oh."
+
+msgid "Hahaha no..."
+msgstr "Hahaha não..."
+
+msgid "We're in the fairy ring aren't we?!"
+msgstr "Estamos no anel de fadas, não estamos?!"
+
+msgid "Noooo! There's no way to get out of here!!"
+msgstr "Nãoooo! Não há como sair daqui!!"
+
+msgid "This is it. WE'RE DEAD!"
+msgstr "Acabou. VAMOS MORRER!"
+
+msgid "I might as well go back in the plant, at least it will be faster."
+msgstr "Mais vale voltar para a fábrica, pelo menos é mais rápido."
+
+msgid "Nooo I don't want it to end this way!!!"
+msgstr "Nãooo, não quero que isto acabe assim!!!"
+
+msgid "Hey."
+msgstr "Ei."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Cut it off."
+msgstr "Corta com isso."
+
+msgid "...W-what...?"
+msgstr "...O-o quê...?"
+
+msgid "I said: cut it off."
+msgstr "Eu disse: corta com isso."
+
+msgid "Ah, s-sorry..."
+msgstr "Ah, d-desculpa..."
+
+msgid "(Is that supposed to be... a joke?)"
+msgstr "(É suposto isso ser... uma piada?)"
+
+msgid "You know, I'm actually okay with dying."
+msgstr "Na verdade, não me importo de morrer."
+
+msgid "But I feel like being eaten alive isn't really the way to go, you know?"
+msgstr "Só sinto que tornar-me comida não é a melhor maneira, sabes?"
+
+msgid "I see... I guess so."
+msgstr "É... Acho que sim."
+
+msgid "My name's Aoi."
+msgstr "Chamo-me Aoi."
+
+msgid "...I see."
+msgstr "...Entendi."
+
+msgid "Lacie."
+msgstr "Lacie."
+
+msgid "Hehe... Were you trapped in one of those things too?"
+msgstr "Hehe... Também ficaste presa numa destas coisas?"
+
+msgid "Yeah."
+msgstr "Sim."
+
+msgid "How'd you get out?"
+msgstr "Como é que saíste?"
+
+msgid "${item:ch1.scissors}."
+msgstr "${item:ch1.scissors}."
+
+msgid "Whoa."
+msgstr "Uau."
+
+msgid "If I get out of here I'll always carry scissors on me!"
+msgstr "Se eu sair daqui, vou andar sempre com uma tesoura!"
+
+msgid "I promise you-"
+msgstr "Eu prometo-te-"
+
+msgid "No!"
+msgstr "Não!"
+
+msgid "I SWEAR to you."
+msgstr "Eu JURO-te."
+
+msgid "O-okay..."
+msgstr "O-ok..."
+
+msgid "(What am I supposed to say to that...?)"
+msgstr "(O que é suposto eu responder...?)"
+
+msgid "So um..."
+msgstr "Então, hm..."
+
+msgid "H-how do we get out..."
+msgstr "C-como é que saímos daqui…?"
+
+msgid "I don't know."
+msgstr "Não sei."
+
+msgid "WE'RE ABSOLUTELY NEVER GETTING OUT WHAT ARE WE GOING TO DO!?!"
+msgstr "NUNCA MAIS VAMOS SAIR DAQUI, O QUE É QUE VAMOS FAZER!?!"
+
+msgid "Should I go back and get eaten by that plant instead?"
+msgstr "Será que volto para trás e deixo a planta comer-me?"
+
+msgid "That might actually be better than losing my mind as I walk endlessly through this hellish place..."
+msgstr "Deve ser melhor do que enlouquecer enquanto ando em círculos por este lugar infernal..."
+
+msgid "Can you imagine it???"
+msgstr "Imaginas-te???"
+
+msgid "We would go insane!"
+msgstr "Vamos enlouquecer!"
+
+msgid "I hear the fairy ring slowly digests you, even if you're not caught in a plant."
+msgstr "Ouvi dizer que o anel das fadas digere as pessoas lentamente, mesmo que elas não estejam presas numa planta."
+
+msgid "Eventually the skin on our feet will start chipping away from walking through this visceral floor."
+msgstr "Eventualmente, a pele dos nossos pés vai começar a cair de tanto andar por este chão visceral."
+
+msgid "Then we'll start crawling, when our feet no longer work, hoping for the sweet release of death."
+msgstr "Vamos ter de rastejar quando os nossos pés já não funcionarem, esperando a doce libertação da morte."
+
+msgid "We might even wind up eating each other..."
+msgstr "Até podemos acabar por cometer canibalismo..."
+
+msgid "Aoi."
+msgstr "Aoi."
+
+msgid "R-right..."
+msgstr "A-ah..."
+
+msgid "Sorry."
+msgstr "Desculpa."
+
+msgid "I'll look around first."
+msgstr "Vou dar uma vista de olhos por aqui primeiro."
+
+msgid "I want to take another look at the next room."
+msgstr "Quero dar mais uma olhadela à sala ao lado."
+
+msgid "I haven't even left this room yet."
+msgstr "Ainda nem sequer saí daqui."
+
+msgid "OKAY!"
+msgstr "OK!"
+
+msgid "Can I follow you?"
+msgstr "Posso seguir-te?"
+
+msgid "No thank you."
+msgstr "Não, obrigada."
+
+msgid "Y-you'll leave me alone?!"
+msgstr "V-vais deixar-me aqui?!"
+
+msgid "Please let me come with you, I promise I'll be useful!"
+msgstr "Por favor, deixa-me ir contigo, prometo que vou ser útil!"
+
+msgid "...uh..."
+msgstr "...Uh..."
+
+msgid "PLEASE!!!"
+msgstr "POR FAVOR!!!"
+
+msgid "Okay... okay."
+msgstr "Ok... ok."
+
+msgid "(It's probably a bad idea, but...)"
+msgstr "(Provavelmente é má ideia, mas...)"
+
+msgid "(This... boy... or girl? They don't seem dangerous.)"
+msgstr "(Este... rapaz... ou rapariga? Não parece perigosa.)"
+
+msgid "(Maybe it's best not to be alone in this place.)"
+msgstr "(Talvez seja melhor não estar sozinha neste sítio.)"
+
+msgid "...Yes, I don't see why not."
+msgstr "...Sim, não vejo porque não."
+
+msgid "Yay!"
+msgstr "Viva!"
+
+msgid "I promise I'll be useful!"
+msgstr "Prometo que serei útil!"
+
+msgid "Sure. Pleased to make your acquaintance."
+msgstr "Claro. É um prazer conhecer-te."
+
+msgid "(I wonder if this girl... or boy... can help me with my problem.)"
+msgstr "(Será que esta rapariga... ou rapaz... me pode ajudar com o meu problema?)"
+
+msgid "(Were they... melting? They might be a spirit or something...)"
+msgstr "(Ela estava... a derreter? Será um espírito ou algo do género…?)"
+
+msgid "(For now, let's focus on getting out of this place.)"
+msgstr "(Por agora, vamos concentrar-nos em sair daqui.)"
+
+msgid "There's no one else to rescue in there."
+msgstr "Não há mais ninguém para salvar lá dentro."
+
+msgid "It probably learned its lesson, I think."
+msgstr "Provavelmente aprendeu a lição, penso eu."
+
+msgid "Various plants, similar to the one that caught you."
+msgstr "Várias plantas, semelhantes à que te apanhou."
+
+msgid "This one seems to be digesting something..."
+msgstr "Esta parece estar a digerir qualquer coisa..."
+
+msgid "The thing that almost ate Aoi. It's wide open."
+msgstr "A coisa que quase comeu Aoi. Está aberta."
+
+msgid "The plant I was trapped in."
+msgstr "A planta onde eu estava presa."
+
+msgid "It's not nice in there."
+msgstr "Não é agradável estar ali."
+
+msgid "Does this even classify as a plant?"
+msgstr "Será que isto pode ser considerado uma planta?"
+
+msgid "Not sure..."
+msgstr "Não tenho a certeza..."
+
+msgid "It kinda looks like one."
+msgstr "Parece uma."

@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "These flowers seem to belong here... but..."
+msgstr "Этим цветам тут и место, но..."
+
+msgid "It would serve no purpose to plant them."
+msgstr "Если их тут посадить, то ничего не произойдёт."
+
+msgid "That would be terrible."
+msgstr "Это было бы слишком ужасно."
+
+msgid "A large pile of rubble."
+msgstr "Большая груда обломков."
+
+msgid "What is this material? Clay?"
+msgstr "Что это за материал? Глина?"
+
+msgid "There's nothing else of interest."
+msgstr "Тут больше нет ничего интересного."
+
+msgid "Seems like someone has dug here recently."
+msgstr "Похоже, кто-то тут недавно копал."
+
+msgid "Check it out?"
+msgstr "Проверить, что тут?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowerbed.choice.Check it out?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowerbed.choice.Check it out?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A set of colorful flowers."
+msgstr "Ряд цветастых цветов."
+
+msgid "A cactus among a set of colorful flowers."
+msgstr "Кактус, скрывающийся в ряду цветов."
+
+msgid "There seems to be something hidden inside the pot."
+msgstr "В горшке, похоже, что-то спрятано."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Взять ${item:ch1.forest_lockedsite_key}?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowers_cactus.choice.Take ${item:ch1.forest_lockedsite_key}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowers_cactus.choice.Take ${item:ch1.forest_lockedsite_key}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Вам не нужен этот ключ, так что вы оставили его здесь.)"
+
+msgid "There's also a note under the pot."
+msgstr "Под горшком также есть письмо."
+
+msgid "An artistic pot."
+msgstr "Искусный горшок."
+
+msgid "This could work for Kozmo."
+msgstr "Он может подойти Козмо."
+
+msgid "Take ${item:ch1.forest_pot}?"
+msgstr "Взять ${item:ch1.forest_pot}?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_pot.choice.Take ${item:ch1.forest_pot}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Artist.misc_pot.choice.Take ${item:ch1.forest_pot}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A strange looking... vase? In the shape of a... hand?"
+msgstr "Странная на вид... ваза? В форме... головы?"
+
+msgid "A pile of rubble."
+msgstr "Груда обломков."

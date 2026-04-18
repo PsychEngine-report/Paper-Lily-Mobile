@@ -1,0 +1,1316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Welcome."
+msgstr "Ласкаво прошу."
+
+msgid "5 coins each."
+msgstr "5 монет за штуку."
+
+msgid "Buy a fish?"
+msgstr "Придбати рибу?"
+
+msgid "Buy"
+msgstr "Придбати"
+
+msgid "Buy all"
+msgstr "Придбати все"
+
+msgid "Talk"
+msgstr "Поговорити"
+
+msgid "Never mind"
+msgstr "Нічого не робити"
+
+msgid "You don't have enough coins."
+msgstr "У вас бракує монет."
+
+msgid "(She looks intimidating...)"
+msgstr "(Вона така страхітлива...)"
+
+msgid "What're you staring at?"
+msgstr "На що витріщилася?"
+
+msgid "You heard me. 5 coins each, no haggling."
+msgstr "Ти все почула. 5 монет за штуку. Не торгуюсь."
+
+msgid "Or, you could buy all my fish for 10 coins. It's a pretty good deal and I get to take the rest of the day off."
+msgstr "Або можеш придбати всю мою рибу за 10 монет. І пропозиція хороша, і я раніше звільнюся від роботи."
+
+msgid "(What kind of deal is that...?)"
+msgstr "(Хороша пропозиція, кажеш?..)"
+
+msgid "I'll take one."
+msgstr "Я візьму одну."
+
+msgid "I'll take all of them."
+msgstr "Я візьму все."
+
+msgid "I don't even have 5 coins."
+msgstr "У мене й п'яти монет нема."
+
+msgid "No thanks"
+msgstr "Ні, дякую"
+
+msgid "Does that sound like my problem? 5 coins each, no exceptions."
+msgstr "Хто в цьому винен? Я? 5 монет за штуку. Без винятків."
+
+msgid "Ready to buy?"
+msgstr "Будеш купувати?"
+
+msgid "What will I use the fish for?"
+msgstr "Навіщо мені ця риба?"
+
+msgid "What do I care?"
+msgstr "Це вже не моє діло."
+
+msgid "Will you at least grill it?"
+msgstr "Може ви її принаймні підсмажите?"
+
+msgid "Do I look like a buffet?! Scram."
+msgstr "Я тобі на кухарку схожа?! Здрисни."
+
+msgid "Where can I find more coins?"
+msgstr "Де мені знайти більше монет?"
+
+msgid "Sorry...! Please forget about it."
+msgstr "Вибачте й забудьте!.."
+
+msgid "She doesn't seem like she wants to talk."
+msgstr "Вона не в настрої розмовляти з вами."
+
+msgid "Welcome~"
+msgstr "Ласкаво прошу~"
+
+msgid "We're out of stock for today, so come back again soon."
+msgstr "Товар на сьогодні скінчився, тому прийдіть трохи пізніше."
+
+msgid "Business is booming. Today was a good day."
+msgstr "Бізнес процвітає. Сьогодні був файний день."
+
+msgid "You should have rotted down there."
+msgstr "Краще б ти там згнила."
+
+msgid "Just like my fish."
+msgstr "Поряд із моєю рибою."
+
+msgid "Alba is counting the money she earned today."
+msgstr "Альба підраховує зароблені гроші."
+
+msgid "Aoi."
+msgstr "Аой."
+
+msgid "Lacie!! Thank you!"
+msgstr "Лейсі!! Дякую тобі!"
+
+msgid "..."
+msgstr "..."
+
+msgid "(I was going to say that...)"
+msgstr "(Я сама збиралась подякувати...)"
+
+msgid "Thanks to your idea, we managed to get out!!"
+msgstr "Завдяки твоєму плану нам вдалося вибратись!!"
+
+msgid "Ah, No... thank you."
+msgstr "Де там... це ТЕБЕ я мушу дякувати."
+
+msgid "Um... also... with the fish lady..."
+msgstr "Ну... а ще... ту рибну панянку."
+
+msgid "I mean... um..."
+msgstr "Ну, тобто..."
+
+msgid "You're nice."
+msgstr "Ти молодець."
+
+msgid "...!"
+msgstr "!.."
+
+msgid "Heheh I'm glad I met you Lacie!"
+msgstr "Хе-хе, я така рада, що зустрілася з тобою, Лейсі!"
+
+msgid "And I'm glad you had those amazing scissors!"
+msgstr "А ще рада, що в тебе були ті чудові ножиці!"
+
+msgid "They really saved us both."
+msgstr "Вони нас обох врятували."
+
+msgid "I hope I'll be able to have such cool scissors some day too!"
+msgstr "Сподіваюсь, що теж колись отримаю такі самі ножиці!"
+
+msgid "Oh... yeah."
+msgstr "О... добре."
+
+msgid "You can keep them."
+msgstr "Можеш залишити їх собі."
+
+msgid "WHAAAT?!"
+msgstr "ЧОГОООО?!"
+
+msgid "But Lacie, what if you need them!"
+msgstr "Лейсі, а що як вони тобі знадобляться?!"
+
+msgid "I'll be fine."
+msgstr "Якось виплутаюсь."
+
+msgid "Wow!!"
+msgstr "Ого!!"
+
+msgid "Thank you so much!"
+msgstr "Велике тобі спасибі!"
+
+msgid "This is the best gift anyone's ever given me!"
+msgstr "Такий гарний подарунок мені ще не робили!"
+
+msgid "What will you do now?"
+msgstr "Що тепер робитимеш?"
+
+msgid "Well... I'm... looking for something. Some answers, I guess."
+msgstr "Ну... я дещо шукаю. Відповіді на деякі питання, скажімо так."
+
+msgid "For now, I need to go through the locked site."
+msgstr "Зараз мені треба якось пройти повз зачинену зону."
+
+msgid "Ohh!"
+msgstr "О-о!"
+
+msgid "Be careful in there."
+msgstr "Ти там обережніше."
+
+msgid "I have a tip! Always hide in the bushes!"
+msgstr "Моя тобі порада - ховайся в кущах!"
+
+msgid "Thank you."
+msgstr "Дякую."
+
+msgid "Are you leaving?"
+msgstr "Ти збираєшся йти звідси?"
+
+msgid "Oh, yeah, back to work for me heheh."
+msgstr "А-а, так, мені пора до роботи, хе-хе-хе."
+
+msgid "I've had enough adventures..."
+msgstr "Пригодами я вже сита..."
+
+msgid "Is that good?"
+msgstr "У тебе хороша робота?"
+
+msgid "I'm not looking forward to it..."
+msgstr "Я не рвуся працювати..."
+
+msgid "But.. it's where I live, so..."
+msgstr "Але... я живу там, де й працюю... тому..."
+
+msgid "Maybe we'll meet again?"
+msgstr "Ми ще зустрінемося?"
+
+msgid "Yeah."
+msgstr "Так."
+
+msgid "(That would be nice.)"
+msgstr "(Було б непогано.)"
+
+msgid "This isn't goodbye, okay!?"
+msgstr "Я поки що з тобою не прощаюся, зрозуміла?!"
+
+msgid "Oh, okay."
+msgstr "О, добре."
+
+msgid "Then..."
+msgstr "Тоді..."
+
+msgid "See you later!"
+msgstr "Бувай!"
+
+msgid "See you."
+msgstr "Бувай."
+
+msgid "(I feel like I should have said more... Why am I so bad with words?)"
+msgstr "(Я відчуваю, що треба було сказати більше... чому я така нездара в розмовах?)"
+
+msgid "(Sigh... I just have to make sure to say it next time we meet.)"
+msgstr "(Ех… тоді розкажу все при наступній зустрічі.)"
+
+msgid "Mee-mee-mee-"
+msgstr "Ра-ра-ра-"
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Mee-meet!"
+msgstr "Радий!"
+
+msgid "Uh...N-N-Nice to... meet..."
+msgstr "Е... Р-радий з-з... зустрічі..."
+
+msgid "A-a-apologies. I-I-I'm not very good at speaking under pressure."
+msgstr "П-п-пробачте. Я д-дуже погано р-розмовляю п-п-під тиском."
+
+msgid "(He's worse than me...)"
+msgstr "(У нього все навіть гірше, ніж у мене...)"
+
+msgid "Kozmo."
+msgstr "Козмо."
+
+msgid "...What?"
+msgstr "...Що?"
+
+msgid "Oh... Y-y-you didn't ask for my name."
+msgstr "Ой... Ви ж не-не-не питали мого ім'я."
+
+msgid "Yeah... I didn't."
+msgstr "Дійсно... не питала."
+
+msgid "Th-This interaction is not enjoyable."
+msgstr "Ц-ця розмова неприємна."
+
+msgid "It's nice to meet you, Kozmo."
+msgstr "Рада познайомитись, Козмо."
+
+msgid "L-l-likewise, ...erm...?"
+msgstr "В-взаємно, ем?.."
+
+msgid "Your-your..your-"
+msgstr "А в-в-вас як?-"
+
+msgid "Your name is...?"
+msgstr "Як вас звати?.."
+
+msgid "Oh."
+msgstr "А."
+
+msgid "It's um... It's not important."
+msgstr "Це... не так важливо."
+
+msgid "O-oh... okay..."
+msgstr "О-о... ну добре."
+
+msgid "So..."
+msgstr "Отже..."
+
+msgid "Why are you so bad at speaking?"
+msgstr "Чому ти так погано розмовляєш?"
+
+msgid "What are you doing here?"
+msgstr "Що ти тут робиш?"
+
+msgid "(Knock on his head)"
+msgstr "(Стукнути йому по голові)"
+
+msgid "Y-y-y-you think I'm bad at speaking...?"
+msgstr "Д-д-д-думаєш, я погано роз-мо-мовляю?.."
+
+msgid "Well... you said it yourself, did you not?"
+msgstr "Ну... ти ж сам так виразився, ні?"
+
+msgid "Oh... w-well..."
+msgstr "Ой... н-ну..."
+
+msgid "Th-Th-The truth is..."
+msgstr "Сп-п-п-права в тому..."
+
+msgid "I-I-I've been told I sometimes....."
+msgstr "Щ-що м-м-мені іноді кажуть, щ-що я...."
+
+msgid "S-s-stutter...!"
+msgstr "З-з-заїкаюся!.."
+
+msgid "Oh. I'm sorry to hear that."
+msgstr "Лихо. Сумно таке чути."
+
+msgid "D-d-d-do you think I stutter?!?"
+msgstr "А в-в-вам здається, щ-що я заїкаюсь?!?"
+
+msgid "(Do I think Kozmo stutters...?)"
+msgstr "(Чи здається мені, що Козмо заїкається?..)"
+
+msgid "It's not my place to say."
+msgstr "Не мені це судити."
+
+msgid "Yes, it's very obvious."
+msgstr "Так, це явно чутно."
+
+msgid "O-oh... That's okay."
+msgstr "О-о... ну добре."
+
+msgid "M-m-maybe I've improved, and it's not so noticeable!"
+msgstr "М-м-мабуть, я став к-краще розмовляти!"
+
+msgid "Maybe."
+msgstr "Мабуть."
+
+msgid "O-oh dear......"
+msgstr "Ой-ой..."
+
+msgid "Do you live here?"
+msgstr "Ти тут живеш?"
+
+msgid "N-no.. Not many of us live in the forest."
+msgstr "Н-ні... У лісі мало хто живе."
+
+msgid "I-it's too distant, you see..."
+msgstr "В-він надто далеко..."
+
+msgid "Too distant to... what, exactly?"
+msgstr "Далеко від чого саме?"
+
+msgid "T-t-the city, mainly."
+msgstr "З-з-загалом, від м-м-міста."
+
+msgid "How do you get to the city from here?"
+msgstr "Як звідси дістатися міста?"
+
+msgid "Is-is-is-is this a quiz?"
+msgstr "Це що, до-до-до-допит?"
+
+msgid "No, I..."
+msgstr "Ні, я..."
+
+msgid "We-well... It's... um... y-y-you can... you can take the bus... o-o-or the train..."
+msgstr "Що ж... можеш... м... д-д-доїхати автобусом... а-а-а-або потягом..."
+
+msgid "Don't you know this though?"
+msgstr "Хіба ти цього не знаєш?"
+
+msgid "Come to think of it, where are you from?"
+msgstr "А взагалі, звідки ти взялася?"
+
+msgid "I should be going."
+msgstr "Мені час іти."
+
+msgid "A-a-a-a don't do that! It's fragile!"
+msgstr "А-а-а-а стривай! Вона крихка!"
+
+msgid "S-s-s-s-stop...!!"
+msgstr "З-з-з-зупинись!!"
+
+msgid "Um... this isn't what I expected..."
+msgstr "Ем... не цього я очікувала..."
+
+msgid "Wh-wh-what have you done..!? Oh no, oh no, oh no."
+msgstr "Що-що-що ти накоїла?! О ні-ні-ні-ні."
+
+msgid "Please help me!"
+msgstr "Прошу, рятуй мене!"
+
+msgid "P-p-please find me a new head!"
+msgstr "Бу-бу-будь ласка, знайди нову голову!"
+
+msgid "A new head..?"
+msgstr "Нову голову?.."
+
+msgid "A-a-anything hollow can serve as one, please!"
+msgstr "П-п-підійде що завгодно п-порожнє! Благаю!"
+
+msgid "H-h-h-hurry!"
+msgstr "Х-х-хутчіш!"
+
+msgid "If it all escapes I'll...I'll-"
+msgstr "Якщо все вивітриться, я... я-"
+
+msgid "Knock again?"
+msgstr "Стукнути ще раз?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "A large amount of something leaks from Kozmo."
+msgstr "З Козмо випаровується велика кількість... чогось."
+
+msgid "I should hurry."
+msgstr "Мені слід поквапитись."
+
+msgid "Kozmo sways left and right."
+msgstr "Козмо хитається туди-сюди."
+
+msgid "Kozmo is sporting a new head."
+msgstr "Козмо хизується новою головою."
+
+msgid "P-p-p-p-p-please... give me a moment..."
+msgstr "П-п-п-п-прошу... залиште мене на секунду..."
+
+msgid "Apologize?"
+msgstr "Попросити вибачення?"
+
+msgid "I'm sorry if I was rude."
+msgstr "Пробач, що я тебе образила."
+
+msgid "I'm not very good at... interacting with people either."
+msgstr "Я й сама... не найкраща співрозмовниця."
+
+msgid "I don't get much practice."
+msgstr "Мені недостає практики."
+
+msgid "R-r-really?"
+msgstr "П-п-правда?"
+
+msgid "Mhm..."
+msgstr "Угу..."
+
+msgid "I think it's okay that you stutter."
+msgstr "Я вважаю, що твої заїкання не роблять тебе гірше."
+
+msgid "At least you're still able to convey your feelings."
+msgstr "Принаймні ти досі здатен виражати свої емоції."
+
+msgid "Thank you for reassuring me!"
+msgstr "Дякую, що підбадьорила!"
+
+msgid "(Phew...)"
+msgstr "(Фух…)"
+
+msgid "Kozmo's clothes remain here."
+msgstr "Тут лишився одяг Козмо."
+
+msgid "Kozmo isn't here anymore."
+msgstr "Козмо тут більше немає."
+
+msgid "A pleasure."
+msgstr "Радий зустрічі."
+
+msgid "Huh?"
+msgstr "Га?"
+
+msgid "You're not from around here."
+msgstr "Ти не звідси родом."
+
+msgid "How do you know?"
+msgstr "Звідки ти знаєш?"
+
+msgid "You wander around anxiously."
+msgstr "Ти безцільно бігаєш навкруги."
+
+msgid "Oh..."
+msgstr "Ось як..."
+
+msgid "Sit if you wish... The fire is captivating."
+msgstr "Посидь, якщо хочеш... багаття зачаровує."
+
+msgid "No... thank you."
+msgstr "Ні, дякую..."
+
+msgid "What should I say?"
+msgstr "Що мені сказати?"
+
+msgid "\"Are you a bug?\""
+msgstr "\"Ти комаха?\""
+
+msgid "\"Can you help me?\""
+msgstr "\"Ти мені допоможеш?\""
+
+msgid "About the reward"
+msgstr "Стосовно нагороди"
+
+msgid "You have wings."
+msgstr "У тебе є крила."
+
+msgid "What of it?"
+msgstr "І що з того?"
+
+msgid "Are you a butterfly?"
+msgstr "Ти метелик?"
+
+msgid "...Disgusting."
+msgstr "...Огида."
+
+msgid "A-a-a moth is the correct term. It-it-it must be your first encounter with one."
+msgstr "В-в-вірніше сказати міль. М-м-мабуть, це твоя перша зустріч з міллю."
+
+msgid "Th-Th-Th-They say if you meet all 9 moths you'll get a reward."
+msgstr "Ка-ка-ка-кажуть, що якщо зустріти усіх дев'ятьох молей, то отримаєш нагороду."
+
+msgid "Folklore is all it is. Why would anyone give you a reward?"
+msgstr "Це не більше, ніж казка. Хто і навіщо нагороджуватиме тебе?"
+
+msgid "So-so-sometimes, you get rewarded for hard work. I-I-I've already met f-f-four."
+msgstr "Бу-бу-бува таке, що за труди винагороджують. Я вже з-з-з-зустрів чотирьох."
+
+msgid "What a fool. Nobody will reward you for a scavenger hunt. The world is not a playground."
+msgstr "Ну й дурень. За пошук якогось непотребу нагороди не чекай. Світ - це тобі не дитмайданчик."
+
+msgid "... Y-y-you're too grim, Milion."
+msgstr "...Який же ви п-похмурий, Міліан."
+
+msgid "Wh-what do you think, lady?"
+msgstr "Пані, а ви як в-в-вважаєте?"
+
+msgid "(What do I think...?)"
+msgstr "(Як я вважаю?..)"
+
+msgid "The world is really unfair"
+msgstr "Світ несправедливий"
+
+msgid "Hard work pays off"
+msgstr "Важка праця дає свої плоди"
+
+msgid "S-s-s-such pessimistic views..."
+msgstr "Який сильний п-п-песимізм..."
+
+msgid "It's wise to be realistic."
+msgstr "Бути реалістом корисно."
+
+msgid "W-w-w-well said!"
+msgstr "Ф-ф-файно сказано!"
+
+msgid "I envy your naivety."
+msgstr "Заздрю вашій наївності."
+
+msgid "Just like this warm flame, your innocence too will soon be extinguished."
+msgstr "Як і це тепле полум'я, ваша невинність теж скоро згасне."
+
+msgid "A moth, if you really care for such simplifications."
+msgstr "Можна казати \"міль\", якщо тобі не начхати на такі спрощення."
+
+msgid "I see..."
+msgstr "Зрозуміло..."
+
+msgid "I have a question."
+msgstr "У мене питання."
+
+msgid "Do you happen to know where I could lift a curse?"
+msgstr "Ти часом не знаєш, де тут можна зняти прокляття?"
+
+msgid "You must seek Red."
+msgstr "Тобі слід шукати Реда."
+
+msgid "Yeah... This isn't the first time I've heard that name."
+msgstr "Ага... я не вперше чую це ім'я."
+
+msgid "Everyone has heard that name."
+msgstr "Це ім'я знають всі."
+
+msgid "Red cures all sorts of ailments... For a hefty price."
+msgstr "Ред лікує будь-які хвороби... за немалу ціну."
+
+msgid "..?"
+msgstr "?.."
+
+msgid "That one doesn't do anything for free."
+msgstr "Ред нічого не робить задарма."
+
+msgid "The moth is entranced by the fire pit."
+msgstr "Міль зачарована багаттям."
+
+msgid "So after I find 8 more moths I'll get rewarded?"
+msgstr "Тож якщо я знайду ще вісім молей, то отримаю нагороду?"
+
+msgid "As I stated, it's nothing but a myth."
+msgstr "Як я й сказав, це всього-на-всього міф."
+
+msgid "So... What kind of reward would it be?"
+msgstr "Так... а яка буде винагорода?"
+
+msgid "I'll discuss no further with you."
+msgstr "Ця розмова закінчена."
+
+msgid "Milion is ignoring you."
+msgstr "Міліан вас ігнорує."
+
+msgid "This is quite amusing."
+msgstr "А ось це досить цікаво."
+
+msgid "It's been a while since anything interesting happened around here."
+msgstr "Тут вже цілу вічність не траплялося нічого цікавого."
+
+msgid "Milion is smiling."
+msgstr "Міліан посміхається."
+
+msgid "(I've only been here for a little while and I already have a lead.)"
+msgstr "(Я тут зовсім недовго, а вже натрапила на слід.)"
+
+msgid "(I really didn't think this would be where I might find my answers...)"
+msgstr "(Я й уявити не могла, що саме тут знайдуться відповіді на мої питання...)"
+
+msgid "Finally..."
+msgstr "Нарешті..."
+
+msgid "A curse, huh?"
+msgstr "Прокляття, значить?"
+
+msgid "It sounds probable, but how did it happen?"
+msgstr "Сумнівів мало, проте як це сталося?"
+
+msgid "And who... or what, cursed me?"
+msgstr "І хто... або що мене прокляло?"
+
+msgid "And why?"
+msgstr "І навіщо?"
+
+msgid "There's too many questions."
+msgstr "Питань вже забагато."
+
+msgid "(I wonder if I can call Hiro from here.)"
+msgstr "(Цікаво, чи вийде додзвонитися до Хіро?)"
+
+msgid "(Looks like I have no reception... Should I try anyways?)"
+msgstr "(Сигналу начебто немає... чи все-таки спробувати?)"
+
+msgid "(It works?!)"
+msgstr "(Працює?!)"
+
+msgid "LACIE?!"
+msgstr "ЛЕЙСІ?!"
+
+msgid "Hiro!"
+msgstr "Хіро!"
+
+msgid "Are you okay? How are you calling me? Are you back? Did you find out-"
+msgstr "Ти в порядку? Як ти до мене додзвонилася? Ти вже вдома? Ти знайшла-"
+
+msgid "Wait-"
+msgstr "Чекай-"
+
+msgid "ARE YOU HURT?! DO YOU NEED ME TO COME THERE? ARE YOU IN DANGER?"
+msgstr "ТИ ПОРАНИЛАСЬ? МЕНІ ПРИЙТИ ДО ТЕБЕ? ТИ В НЕБЕЗПЕЦІ?"
+
+msgid "I swear I'll get one of those letters and meet you in a jiffy! A jiffy!!-"
+msgstr "Я клянуся, що сам знайду такий же лист і миттю до тебе примчуся! Миттю!!-"
+
+msgid "I'm fine."
+msgstr "Я в порядку."
+
+msgid "Oh, thank goodness."
+msgstr "Ох, слава богу."
+
+msgid "It seems to be safe where I am right now, so I just.. tried calling you."
+msgstr "Схоже, я зараз у безпеці... тому спробувала тобі подзвонити."
+
+msgid "...and it worked."
+msgstr "...схоже, що вийшло."
+
+msgid "Huh... that doesn't make much sense."
+msgstr "Ого... як все дивно."
+
+msgid "It doesn't, does it..."
+msgstr "Дивно, це не те слово..."
+
+msgid "Tell me everything, where are you?!"
+msgstr "Розказуй усе, де ти зараз?!"
+
+msgid "I'm... in a forest."
+msgstr "Я... у лісі."
+
+msgid "A forest?! You didn't pack bug spray!"
+msgstr "У лісі?! Ти ж не взяла з собою спрей від жуків!"
+
+msgid "There's more dangerous things here than bugs."
+msgstr "Жуки тут не перше, за що слід переживати."
+
+msgid "But don't worry, I've got it handled."
+msgstr "Та не хвилюйся, у мене все під контролем."
+
+msgid "I just need to find a light..."
+msgstr "Треба лишень знайти джерело світла..."
+
+msgid "I just needed to find a light and..."
+msgstr "Треба було лише знайти джерело світла та..."
+
+msgid "Lacie no! Lights ATTRACT bugs!"
+msgstr "Лейсі, ні! Жуки ЗЛІТАЮТЬСЯ на світло!"
+
+msgid "Hiro, I don't care about tiny bugs."
+msgstr "Хіро, мені зараз не до жуків."
+
+msgid "Just trying to lighten the mood~"
+msgstr "Я просто намагаюся підняти настрій~"
+
+msgid "That's my job."
+msgstr "Отака в мене робота."
+
+msgid "Mhm."
+msgstr "Угу."
+
+msgid "Don't use up all your battery now."
+msgstr "Не розряди зараз усю батарею."
+
+msgid "Remember you can use the flashlight from your phone if you need a light."
+msgstr "Не забувай, що у твоєму телефоні є ліхтарик."
+
+msgid "That's true. How could I forget?"
+msgstr "І правда. Як я могла забути?"
+
+msgid "But it will use up my battery... I might not be able to call you again if that's the case."
+msgstr "Але він зжере усю батарею... якщо так, я потім не зможу тобі подзвонити."
+
+msgid "It's up to you to decide if you need it."
+msgstr "Користуватися ним чи ні - це вже твоє рішення."
+
+msgid "Alright, I'll go now."
+msgstr "Добре, я тоді піду."
+
+msgid "You've got this!"
+msgstr "Тобі все вдасться!"
+
+msgid "Cellphone"
+msgstr "Телефон"
+
+msgid "My personal phone. Hiro bought it for me. It may be used as a flashlight."
+msgstr "Мій мобільний телефон. Хіро купив його для мене. Ним можна скористатися як ліхтариком."
+
+msgid "I-I-I wouldn't do that if I were you. Fairy demons are vile, the worst."
+msgstr "Н-н-на твоєму місці я б цього не робив. Демони-феї жахливі, гірше не придумаєш."
+
+msgid "(I was too late.)"
+msgstr "(Я запізнилася.)"
+
+msgid "Um..."
+msgstr "Ем..."
+
+msgid "Is he..."
+msgstr "Невже він..."
+
+msgid "Hm?"
+msgstr "М?"
+
+msgid "Shouldn't you know? You're the sole cause of that."
+msgstr "А ти не знаєш? Це ж результат тільки твоїх дій."
+
+msgid "....."
+msgstr "....."
+
+msgid "That tree... is massive..."
+msgstr "Це дерево... величезне..."
+
+msgid "This probably marks the center of this place. Which means..."
+msgstr "Схоже, що я в центрі цього місця. А це значить..."
+
+msgid "This is where the search really begins."
+msgstr "Що тут і починаються мої пошуки."
+
+msgid "(She's not a bug...)"
+msgstr "(Вона не жук...)"
+
+msgid "U-um... It's nothing..."
+msgstr "Ем-м... забудьте..."
+
+msgid "(The bug net is not large enough.)"
+msgstr "(Сачок замалий.)"
+
+msgid "This is..."
+msgstr "А це..."
+
+msgid "I know this craftsmanship."
+msgstr "Знайомий стиль."
+
+msgid "I could recognize it anywhere."
+msgstr "Я всюди впізнаю руку цього майстра."
+
+msgid "What do you mean?"
+msgstr "Тобто?"
+
+msgid "It's nothing."
+msgstr "Ні, нічого."
+
+msgid "That didn't sound like nothing."
+msgstr "Це не звучало як нічого."
+
+msgid "The candle is already lit."
+msgstr "Свічка вже горить."
+
+msgid "A candle is not enough to light this campfire."
+msgstr "Однією свічкою багаття не запалити."
+
+msgid "There's no fire here."
+msgstr "Вогню немає."
+
+msgid "Is this a gift?"
+msgstr "Це подарунок?"
+
+msgid "No."
+msgstr "Ні."
+
+msgid "Pity."
+msgstr "Шкода."
+
+msgid "What do you want?"
+msgstr "Чого тобі?"
+
+msgid "Can I get a refund?"
+msgstr "А можна повернути гроші?"
+
+msgid "Absolutely not."
+msgstr "У жодному разі."
+
+msgid "That is one stinky fish."
+msgstr "Яка смердюча рибка."
+
+msgid "You didn't stutter?"
+msgstr "Ти не заїкнувся?"
+
+msgid "Is it a magic fish?!"
+msgstr "Це чарівна рибка?!"
+
+msgid "Ah, you bought that from Alba's shop?"
+msgstr "А, бачу, ти купила її в Альби."
+
+msgid "Yes."
+msgstr "Так."
+
+msgid "Alba's merchandise is always top tier."
+msgstr "В Альби товар завжди на висоті."
+
+msgid "Lovely gal."
+msgstr "Чудова дівчина."
+
+msgid "Flattery isn't going to get you anything, Milion."
+msgstr "Міліан, за гарні слова ти нічого не отримаєш."
+
+msgid "What a shame."
+msgstr "А шкода."
+
+msgid "(I seem to be interrupting something...)"
+msgstr "(Схоже, я лізу не у свою справу...)"
+
+msgid "This tree has had enough fish for today."
+msgstr "Дерево вже наїлося риби."
+
+msgid "You're not doing that again."
+msgstr "Ви не будете цього повторювати."
+
+msgid "You hold out the fish in front of the mirror, like you just caught it."
+msgstr "Ви протягнули рибу перед дзеркалом так, ніби ви самі її зловили."
+
+msgid "You feel silly, so you stop."
+msgstr "Ви почуваєтесь дурненькою, тому припиняєте."
+
+msgid "Throw it down the hole?"
+msgstr "Кинути її в порожнину?"
+
+msgid "You listen for a while, but no impact sound can be heard this time."
+msgstr "Ви деякий час прислухались, але звуку падіння не зафіксували."
+
+msgid "After six or so seconds, you hear the faint impact of the fish against something."
+msgstr "Через приблизно шість секунд ви врешті-решт ледве почули, як риба кудись впала."
+
+msgid "Throw all your fish into the hole?"
+msgstr "Кинути в порожнину всю свою рибу?"
+
+msgid "Throw all of them"
+msgstr "Кинути все"
+
+msgid "Just throw one"
+msgstr "Кинути лише одну"
+
+msgid "Don't"
+msgstr "Нічого не робити"
+
+msgid "You throw each and every fish into the hole."
+msgstr "Ви жбурляєте рибу в порожнину, одна за одною."
+
+msgid "Some of them make sounds when they hit the bottom, but many don't."
+msgstr "Деякі долітають до дна з ударом, проте більшість - ні."
+
+msgid "After a while, you run out of fish."
+msgstr "Через деякий час у вас скінчилась риба."
+
+msgid "Your hands smell terrible, and you feel like you accomplished nothing."
+msgstr "Ваші руки жахливо тхнуть, і вам здається, що ви нічого не досягли."
+
+msgid "No. You're not my type."
+msgstr "Ні. Ти не в моєму смаку."
+
+msgid "(You're not her type.)"
+msgstr "(Ви не в її смаку.)"
+
+msgid "T-thanks! Y-you're a good person!"
+msgstr "Д-дякую! Т-ти така хороша!"
+
+msgid "Is this head OK?"
+msgstr "Як тобі голова?"
+
+msgid "T-t-this is... pretty good..."
+msgstr "Ні-ні-ні... нічого так..."
+
+msgid "Glad that's solved."
+msgstr "Я радий, що проблема вирішена."
+
+msgid "Ju-just wondering though... where exactly did you get this?"
+msgstr "П-п-проте мені цікаво... а де ти це знайшла?"
+
+msgid "I... I don't think the previous owner needs it anymore..."
+msgstr "...Мені здається, що колишньому власнику вона вже не потрібна..."
+
+msgid "O-oh......."
+msgstr "О-о......."
+
+msgid ".........."
+msgstr "............"
+
+msgid "An empty lamp that fell from that post."
+msgstr "Порожній ліхтар, що впав зі стовпа."
+
+msgid "Whatever was inside is gone."
+msgstr "Що б раніше не було всередині, зараз цього немає."
+
+msgid "Can I find a use for this?"
+msgstr "Чи вийде ним якось скористатися?"
+
+msgid "Take ${item:ch1.forest_lamp_empty}?"
+msgstr "Взяти предмет: ${item:ch1.forest_lamp_empty}?"
+
+msgid "I can't reach up there."
+msgstr "Я туди не дістану."
+
+msgid "And even if I could, I can't see the point in fixing the lamp."
+msgstr "А навіть якби дістала, не бачу сенсу лагодити ліхтар."
+
+msgid "I still can't reach..."
+msgstr "Я досі не дістаю..."
+
+msgid "Besides, it's not like a secret door will open just because I fixed this particular lamp."
+msgstr "Та й навряд чи відкриються якісь таємні двері, якщо я просто полагоджу цей ліхтар."
+
+msgid "There's seriously no point in that."
+msgstr "У цьому немає сенсу."
+
+msgid "Fascinating creatures."
+msgstr "Дивовижні створіння."
+
+msgid "Naturally emitting light can be a great asset to one's value."
+msgstr "Біолюмінесценція всякому додає цінності."
+
+msgid "Is this OK?"
+msgstr "Як воно тобі?"
+
+msgid "I-I-I guess it could be worse..."
+msgstr "М-м-могло бути й гірше..."
+
+msgid "Thank you! I didn't think you would come back!"
+msgstr "Дякую! Я й не думав, що ти повернешся!"
+
+msgid "...It was my fault after all..."
+msgstr "...Це ж моя провина, врешті-решт..."
+
+msgid "You're welcome, I suppose."
+msgstr "Що ж, тоді рада допомогти."
+
+msgid "(Alba's eyes dart to your rune, so you quickly put it away.)"
+msgstr "(Очі Альби спрямувались на вашу руну, то ж ви швидесенько її сховали.)"
+
+msgid "Ooh! I-I-I also have a rock just like that. I b-b-buried it to keep it safe."
+msgstr "О-о! А-а-а-а у мене теж є такий камінчик. Я-я-я його закопав, щоб ніхто не знайшов."
+
+msgid "Do you have nothing better to do than collecting rocks?"
+msgstr "Тобі нічим зайнятись, окрім як збирати каміння?"
+
+msgid "Do you have nothing better to do than staring at a fire?"
+msgstr "Тобі нічим зайнятись, окрім як витріщатися на вогонь?"
+
+msgid "You don't need that. My fish already taste great without it."
+msgstr "Тобі воно не треба. Моя риба й так смакує на всі сто."
+
+msgid "I-i-is that for me...?!"
+msgstr "Ц-ц-це мені?!..."
+
+msgid "...No."
+msgstr "...Ні."
+
+msgid "O-oh."
+msgstr "О-оу."
+
+msgid "Let's not provoke her."
+msgstr "Краще її не дратувати."
+
+msgid "Don't threaten me, kid."
+msgstr "Мала, не лізь до мене."
+
+msgid "I will shred you."
+msgstr "Порву на стрічки."
+
+msgid "I'd rather not go around cutting random cables."
+msgstr "Не слід різати проводи навмання."
+
+msgid "P-p-please don't...! I'm fragile..."
+msgstr "Б-благаю, не треба!.. Я крихкий..."
+
+msgid "I would advise you not to challenge me."
+msgstr "Я б не радив переходити мені дорогу."
+
+msgid "There's no need to break it."
+msgstr "Немає сенсу це розбивати."
+
+msgid "You could probably smash the mirror with this."
+msgstr "Цим, здається, вийде розбити дзеркало."
+
+msgid "Break the mirror?"
+msgstr "Розбити дзеркало?"
+
+msgid "You prepare to break the mirror..."
+msgstr "Ви от-от хотіли розбити дзеркало..."
+
+msgid "But you notice there's a door handle on it."
+msgstr "Як раптом помітили на ньому дверну ручку."
+
+msgid "It doesn't seem to be locked."
+msgstr "Схоже, двері не зачинені."
+
+msgid "I don't do barter."
+msgstr "Я не обмінююсь речами."
+
+msgid "N-n-no thank you."
+msgstr "Н-н-ні, дякую."
+
+msgid "I don't need it."
+msgstr "Мені це не треба."
+
+msgid "You may give it to someone who does."
+msgstr "Можеш віддати тому, кому воно потрібно."
+
+msgid "Is this OK? I'm sorry, it's the only thing I could find..."
+msgstr "Це підійде? Вибач, я нічого іншого не знайшла..."
+
+msgid "W-Wow!! T-t-this is amazing...!!!"
+msgstr "О-ого! П-просто чудово!.."
+
+msgid "Thank you s-s-s-so much!"
+msgstr "К-к-красно вам дякую!!"
+
+msgid "...You're... welcome...?"
+msgstr "...Рада... допомогти?.."
+
+msgid "(To each their own, I suppose)"
+msgstr "(Як кажуть, кожному своє.)"
+
+msgid "A bucket full of bones and other terrible-smelling organic garbage."
+msgstr "Відро, повне кісток та іншого органічного сміття, що жахливо тхне."
+
+msgid "A cable runs through here."
+msgstr "Тут проходить провід."
+
+msgid "The cable runs into the woods, against the cliff."
+msgstr "Провід тягнеться в хащі уздовж цієї скелі."
+
+msgid "The cable runs into the woods."
+msgstr "Провід тягнеться у хащі."
+
+msgid "A campfire."
+msgstr "Багаття."
+
+msgid "There's no fire, so right now it's just a camp."
+msgstr "Якщо багаття не горить, то воно й не багате."
+
+msgid "A camp."
+msgstr "Небагаття."
+
+msgid "The fire is on. It seems to produce heat too."
+msgstr "Багаття горить і навіть виділяє тепло."
+
+msgid "A crow standing on a stump."
+msgstr "На пні стоїть ґава."
+
+msgid "They're everywhere, huh?"
+msgstr "Вони тут усюди?"
+
+msgid "Now is not the time for that."
+msgstr "Зараз не час для цього."
+
+msgid "Small mushrooms surround a patch of dead grass."
+msgstr "Невеликі гриби оточують ділянку мертвої трави."
+
+msgid "W-what..."
+msgstr "Щ-що?.."
+
+msgid "What happened? It was so sudden..."
+msgstr "Що сталося? Я не встигла зрозуміти..."
+
+msgid "Am I trapped inside of something?"
+msgstr "Мене кудись спіймали?"
+
+msgid "I can barely move..."
+msgstr "Я ледве можу рухатись..."
+
+msgid "Ugh... it's all soggy and... squishy..."
+msgstr "Грх… тут все таке мокре... і слизьке..."
+
+msgid "This is suffocating... I don't like closed spaces..."
+msgstr "Мені тяжко дихати... я не люблю замкнений простір..."
+
+msgid "Aahh... I hate this... I'm going to be sick...!"
+msgstr "А-а... Не можу це терпіти... мене зараз знудить!.."
+
+msgid "Wait... calm down."
+msgstr "Ні... заспокойся."
+
+msgid "I can move my arms, somewhat."
+msgstr "Руки в мене більш-менш вільні."
+
+msgid "Think."
+msgstr "Думай."
+
+msgid "Let's see... do I have anything that could help me?"
+msgstr "Подивимось... що мені зараз стане в пригоді?"
+
+msgid "Maybe something sharp..."
+msgstr "Щось гостре..."
+
+msgid "Oh, scissors...!"
+msgstr "Точно, ножиці!.."
+
+msgid "Sorry, but I don't feel like being eaten today."
+msgstr "Вибачте, з'їсте мене якось іншим разом."
+
+msgid "I can cross off \"being digested alive\" from my to-do list."
+msgstr "Пункт \"Бути перетравленою живцем\" можна викреслити зі свого списку."
+
+msgid "Good thing I had those scissors... ugh..."
+msgstr "Пощастило, що я знайшла ці ножиці... ух..."
+
+msgid "Now... where am I?"
+msgstr "Отже... де я?"
+
+msgid "It's no good... I can't do anything..."
+msgstr "Все марно... Я нічого не можу зробити..."
+
+msgid "Am I going to die... inside this thing?"
+msgstr "Невже я загину... всередині цієї штуки?"
+
+msgid "Nobody will even find my body..."
+msgstr "Ніхто навіть не знайде моє тіло..."
+
+msgid "Sigh... what a pointless way to go."
+msgstr "Ех… який жахливий спосіб піти на той світ."
+
+msgid "What is this smell... it's making me want to puke..."
+msgstr "Цей запах... мене зараз точно знудить..."
+
+msgid "My legs... are also itching..."
+msgstr "А ще ноги чешуться..."
+
+msgid "Wait, could it be...?"
+msgstr "Зачекайте, невже?.."
+
+msgid "Oh god... is this thing digesting me!?"
+msgstr "О ні... воно мене перетравлює?!"
+
+msgid "Nononono.... I don't want to die like that!!!"
+msgstr "Ні-ні-ні-ні... я не хочу так помирати!!!"
+
+msgid "I tried kicking around and fighting it as much as I could."
+msgstr "Я борсалася та махала руками й ногами як тільки могла."
+
+msgid "But soon enough, my skin started burning, confirming my fears."
+msgstr "Але невдовзі моя шкіра почала запалюватися. Мій страх підтвердився."
+
+msgid "The more I squirmed, the more the digestive juices got all over me."
+msgstr "Чим більше я опиралась, тим більше шлункових соків на мене падало."
+
+msgid "The more I screamed, the more the gas burned my nose and throat from inside."
+msgstr "Чим більше я кричала, тим більше ці випаровування обпалювали мій ніс та горло."
+
+msgid "It seems that the moment I stepped into that circle, my fate had been sealed."
+msgstr "Схоже, що моя доля обірвалася в ту мить, коли я зайшла в те коло."
+
+msgid "A lamppost that's missing its lamp."
+msgstr "Ліхтарний стовп без ліхтаря."
+
+msgid "Now it's just a post."
+msgstr "Тепер це просто стовп."
+
+msgid "A post."
+msgstr "Стовп."
+
+msgid "A wooden log."
+msgstr "Дерев'яна колода."
+
+msgid "This is not the time to sit around."
+msgstr "Зараз не час сидіти без діла."
+
+msgid "A big mirror is embedded in the tree trunk."
+msgstr "У стовбур дерева вбудоване велике дзеркало."
+
+msgid "A door handle can be seen."
+msgstr "На ньому видно дверну ручку."
+
+msgid "Your reflection stares anxiously back at you."
+msgstr "Ваше відображення занепокоєно дивиться на вас."
+
+msgid "On a closer inspection, there's a door handle on the mirror."
+msgstr "Ви придивилися та побачили на дзеркалі дверну ручку."
+
+msgid "Check behind the mirror?"
+msgstr "Зазирнути за дзеркало?"
+
+msgid "The tree... is hollow...?"
+msgstr "Дерево... порожнє?.."
+
+msgid "Has anything changed now that I threw all those fish in?"
+msgstr "Чи змінилося щось після того, як я кинула туди всю рибу?"
+
+msgid "I can't see the bottom, but it's really deep."
+msgstr "Я не бачу дно, тож там дуже глибоко."
+
+msgid "Why is the inside of the tree like this?"
+msgstr "Що сталося з нутрощами дерева?"
+
+msgid "Doesn't seem like it."
+msgstr "Не схоже на те."
+
+msgid "The roots of a massive tree. There's blue mushrooms everywhere."
+msgstr "Коріння величезного дерева. Навколо них усюди ростуть сині гриби."
+
+msgid "It reads: \"STOP! Do not walk inside the fairy ring.\""
+msgstr "Тут написано: \"СТОП! Не заходьте в коло фей.\""
+
+msgid "\"But if you do, please ask them to take their business elsewhere.\""
+msgstr "\"Та якщо зайдете, передайте їм, будь ласка, щоб займалися своїми справами деінде.\""
+
+msgid ""
+"South-West: Sculptor's House.\n"
+"West: Red's Treehouse."
+msgstr ""
+"На південний захід: Будинок скульптора.\n"
+"На захід: Лісова хатинка Реда."
+
+msgid ""
+"South: Train Station.\n"
+"East: Locked Site."
+msgstr ""
+"На південь: Залізнична станція.\n"
+"На схід: Зачинена зона."
+
+msgid "The sign says \"Alba's Shop\""
+msgstr "На знаку написано: \"Крамниця Альби\""
+
+msgid "A curtain covers the stand."
+msgstr "Завіска закриває прилавок."
+
+msgid "Peek behind curtain?"
+msgstr "Зазирнути за завіску?"
+
+msgid "There's some trays aligned for display, but there's nothing on them."
+msgstr "На прилавку рядами лежать таці, проте на них нічого немає."
+
+msgid "You decided to save your curiosity for later."
+msgstr "Ви вирішили заспокоїти свою допитливість."
+
+msgid "A stand lined up with fish of various sizes."
+msgstr "Прилавок з рибою різних розмірів."
+
+msgid "The shop is closed for today."
+msgstr "Крамниця на сьогодні зачинена."
+
+msgid "A massive crater that you caused."
+msgstr "Величезний кратер. Його причина - ви."
+
+msgid "I don't think there's anything this way that will help Kozmo..."
+msgstr "Сумніваюся, що я допоможу Козмо, якщо піду туди..."
+
+msgid "I need to get this to Kozmo as soon as possible..."
+msgstr "Треба якнайшвидше віднести це Козмо…"
+
+msgid "Continue down this path?"
+msgstr "Піти цим шляхом?"

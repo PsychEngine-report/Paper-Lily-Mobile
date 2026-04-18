@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Ah... here it is."
+msgstr "Ah... Aqui está."
+
+msgid "I suppose these cursed doors must be fairly common."
+msgstr "Suponho que estas portas amaldiçoadas devem ser bastante comuns."
+
+msgid "Not that common. And they kinda suck."
+msgstr "Nem tanto. E são um bocado chatas."
+
+msgid "Sometimes you get stuck with no way to go back."
+msgstr "Às vezes ficas presa e não tens como voltar."
+
+msgid "I see."
+msgstr "Entendi."
+
+msgid "So it's a dead end after all."
+msgstr "Então é um beco sem saída."
+
+msgid "Since there's no doorknobs here..."
+msgstr "Não há maçanetas aqui..."
+
+msgid "Looks like it."
+msgstr "Parece que sim."
+
+msgid "An empty slot."
+msgstr "Uma ranhura vazia."
+
+msgid "Place a doorknob?"
+msgstr "Encaixar uma maçaneta?"
+
+msgid "Gray Doorknob"
+msgstr "Maçaneta Cinzenta"
+
+msgid "White Doorknob"
+msgstr "Maçaneta Branca"
+
+msgid "Return Doorknob"
+msgstr "Maçaneta de Retorno"
+
+msgid "Do not"
+msgstr "Não inserir"
+
+msgid "I guess it's finally time to use this."
+msgstr "Acho que finalmente chegou a altura de usar isto."

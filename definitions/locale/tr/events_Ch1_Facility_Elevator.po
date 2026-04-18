@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A floor indicator."
+msgstr "Bir zemin göstergesi."
+
+msgid "The elevator has no power, so the indicator lights are off."
+msgstr "Asansörde elektrik olmadığı için gösterge ışıkları yanmıyor. "
+
+msgid "Where to?"
+msgstr "Nereye?"
+
+msgid "B1F"
+msgstr "B1F"
+
+msgid "B2F"
+msgstr "B2F"
+
+msgid "B3F"
+msgstr "B3F"
+
+msgid "B4F"
+msgstr "B4F"
+
+msgid "Never mind"
+msgstr "Boş ver"
+
+msgid "Nothing happens."
+msgstr "Hiçbir şey olmadı."
+
+msgid "The button is not responding."
+msgstr "Düğme tepki vermiyor."
+
+msgid "An emblem that looks like an eye of some sort."
+msgstr "Göz gibi bir şeye benzeyen bir amblem."
+
+msgid "The doors are stuck..."
+msgstr "Kapılar sıkışmış..."

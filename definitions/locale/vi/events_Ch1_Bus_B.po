@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A creature with a huge mouth."
+msgstr "Con sinh vật có cái mồm bự chảng."
+
+msgid "hhhhaaaaaa....."
+msgstr "hhhhaaaaaa....."
+
+msgid "(It might be best to keep my distance...)"
+msgstr "(Có khi tốt nhất là hãy đứng xa ra...)"
+
+msgid "A scary-looking monster."
+msgstr "Con quái vật trông đáng sợ."
+
+msgid "It's looking at me..."
+msgstr "Nó nhìn mình kìa..."
+
+msgid "A person holding what seems like a lamp with fish inside."
+msgstr "Cái người đang cầm cái thứ có vẻ là cái đèn có cá bên trong."
+
+msgid "A hooded young man is lying down here."
+msgstr "Chỗ này có anh chàng đeo mũ trùm đang nằm dài."
+
+msgid "Pardon me..."
+msgstr "Anh gì ơi..."
+
+msgctxt "events.Ch1_Bus_B.chr_sai.dlg.unknown"
+msgid "..."
+msgstr "..."
+
+msgid "I need some help."
+msgstr "Tôi cần giúp đỡ chút."
+
+msgctxt "events.Ch1_Bus_B.chr_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Yeah, I wouldn't talk to me either."
+msgstr "Ừ, mình thì cũng chẳng thèm nói chuyện với mình đâu."
+
+msgid "Sigh..."
+msgstr "Haầy..."
+
+msgid "An odd green man."
+msgstr "Cái người xanh lá kì cục."
+
+msgctxt "events.Ch1_Bus_B.chr_sleepy.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "zzzzz"
+msgstr "khò khò"
+
+msgid "Uh... excuse me?"
+msgstr "Ờ... ông ơi tôi xin hỏi?"
+
+msgid "zzzzzZZZZZ"
+msgstr "khò khò KHÒ KHÒ"
+
+msgid "Looks like he's trying to sleep..."
+msgstr "Hình như ông ấy đang cố gắng ngủ..."
+
+msgid "Some purple blobs with ...faces?"
+msgstr "Vài cục bọng màu tía có... mặt mũi?"
+
+msgid "If I push them together, will they disappear?"
+msgstr "Nếu mình đẩy bọn nó vào nhau, bọn nó có biến mất không?"
+
+msgid "The bus driver must be behind these curtains."
+msgstr "Tài xế chắc hẳn ở đằng sau rèm này."
+
+msgid "Take a look behind the curtains?"
+msgstr "Nhòm đằng sau rèm chứ?"
+
+msgctxt "events.Ch1_Bus_B.misc_curtain.choice.Take a look behind the curtains?"
+msgid "Yes"
+msgstr "Nhòm"
+
+msgctxt "events.Ch1_Bus_B.misc_curtain.choice.Take a look behind the curtains?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Some colorful goop is dripping from the ceiling."
+msgstr "Chất nhớt có màu nào đó đang từ trên trần rỏ xuống."
+
+msgid "An empty seat."
+msgstr "Cái ghế ngồi trống."
+
+msgid "My seat. I didn't forget anything."
+msgstr "Ghế ngồi của mình. Mình không bỏ quên gì lại cả."
+
+msgid "Should I sit back down?"
+msgstr "Mình nên ngồi xuống lại không?"
+
+msgctxt "events.Ch1_Bus_B.misc_seat_3.choice.Should I sit back down?"
+msgid "Yes"
+msgstr "Ngồi xuống lại"
+
+msgctxt "events.Ch1_Bus_B.misc_seat_3.choice.Should I sit back down?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A list of rules for the bus."
+msgstr "Bản danh sách quy định trên xe buýt."
+
+msgctxt "events.Ch1_Bus_B.misc_sign.dlg.lacie"
+msgid "\"No eating on the bus.\""
+msgstr "\"Không được ăn uống trên xe buýt.\""
+
+msgid "Seems pretty reasonable."
+msgstr "Nghe có vẻ khá là hợp lý."
+
+msgctxt "events.Ch1_Bus_B.misc_sign.dlg.narrator"
+msgid "\"No eating on the bus.\""
+msgstr "\"Không được ăn uống trên xe buýt.\""
+
+msgid "The ticketing machine."
+msgstr "Chiếc máy soát vé."
+
+msgid "You can see the bus stop and some trees out the window."
+msgstr "Bên ngoài cửa sổ bạn thấy được trạm dừng xe buýt với vài ngọn cây."
+
+msgid "...She actually got off?"
+msgstr "...Xuống xe thật à?"
+
+msgid "...Huh."
+msgstr "...Hừ."

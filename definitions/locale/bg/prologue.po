@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"WARNING\n"
+"\n"
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"Внимание\n"
+"\n"
+"Тази игра може да съдържа премигващи светлини и ефекти,\n"
+"както и изображения на насилие и твърд език."
+
+msgid "Special Thanks"
+msgstr "Специални Благодарности"
+
+msgid "Everyone who made a video or stream"
+msgstr "Всички които създадоха видео или стрийм"
+
+msgid "Everyone who completed the survey"
+msgstr "Всички които попълниха анкетата"
+
+msgid "Everyone who left a comment or rating"
+msgstr "На Всички които оставиха коментар или рейтинг"
+
+msgid "Our families and friends"
+msgstr "На нашите семейства и приятели"
+
+msgid "And You!"
+msgstr "И Ти!"
+
+msgid ""
+"Note from the devs:\n"
+"We really appreciate you taking the time to play our little game! It means the world to us!\n"
+"\n"
+"What you have played is the prologue of Paper Lily, a larger project we are currently working on. Right now, Chapter 1 is out so we hope you'll give it a try!\n"
+"\n"
+"If you liked what you played, it would help us a lot if you could leave a review!\n"
+"\n"
+"Thank you so much!"
+msgstr ""
+
+msgid "True End K1 - Curiosity Killed the Kat"
+msgstr "Истински Край К1 - Любопитството Уби Котката"
+
+msgid "I need:"
+msgstr "Нуждая се от:"
+
+msgid "Preparations:"
+msgstr "Подготовка:"
+
+msgid "After waiting:"
+msgstr "След като изчакаш:"
+
+msgid "3 rooms"
+msgstr "3 стаи"
+
+msgid "12 candles"
+msgstr "12 свещи"
+
+msgid "A lighter"
+msgstr "Запалка"
+
+msgid "A rune"
+msgstr "Руна"
+
+msgid "A tuft of hair"
+msgstr "кичур коса"
+
+msgid "Chalk"
+msgstr "Тебешир"
+
+msgid "1) Sort the desks in each classroom"
+msgstr "1) Сортирайте чиновете във всяка класна стая"
+
+msgid "2) Turn off all the lights & draw the curtains in each classroom"
+msgstr "2) Изключете всички светлини & дръпнете завесите във всяка класна стая"
+
+msgid "3) Draw a path going through the 3 rooms (with chalk)"
+msgstr "3) Начертай път, минаващ през 3-те стаи (с тебешир)"
+
+msgid "4) In the middle room, place one candle on each desk"
+msgstr "4) В средната стая, постави една свещ на всяко бюро"
+
+msgid "5) Light the candles & wait at least 5 minutes"
+msgstr "5) Запалете свещите и изчакайте поне 5 минути"
+
+msgid "6) Burn the tuft of hair on one of the candles"
+msgstr "6) Изгорете кичура коса върху една от свещите"
+
+msgid "7) Blow out all of the candles"
+msgstr "7) Издухай всички свещи"
+
+msgid "8) Close your eyes and count to 100"
+msgstr "8) Затвори очи и брой до 100"
+
+msgid "9) Open your eyes and then ?????????"
+msgstr "9) Отвори очи и после ?????????"
+
+msgid "Something like this ??"
+msgstr "Нещо такова ??"
+
+msgid "Windows (CLOSE CURTAINS!!)"
+msgstr "Прозорци (ЗАТВОРЕТЕ ЗАВЕСИТЕ!!)"
+
+msgid "White chalk lines"
+msgstr "Бели тебеширени линии"
+
+msgid "Me"
+msgstr "Аз"
+
+msgid "Desks (candle on each)"
+msgstr "Бюра (свещ на всяко)"
+
+msgid "???"
+msgstr "???"
+
+msgid "Ponytail Girl"
+msgstr "Момиче с конска опашка"
+
+msgid "Pretty Girl"
+msgstr "Красиво момиче"
+
+msgid "Quiet Girl"
+msgstr "Тихо момиче"

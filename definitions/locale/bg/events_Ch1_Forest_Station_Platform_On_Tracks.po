@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Climb back up?"
+msgstr "Изкачете се обратно?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "There's no need to go this way."
+msgstr "Няма нужда да минавате по този път."
+
+msgid "Walk down the train tracks in this direction?"
+msgstr "Вървете по железопътните релси в тази посока?"
+
+msgid "Is it just me or the path is getting narrower...?"
+msgstr "Само на мен ли ми се струва, или пътят става все по-тесен…?"
+
+msgid "Wait... no!!!"
+msgstr "Чакай… не!!!"

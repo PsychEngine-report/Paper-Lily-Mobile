@@ -1,0 +1,971 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alright, let's see..."
+msgstr "Nào để coi..."
+
+msgid "According to my notes..."
+msgstr "Dựa theo ghi chú thì..."
+
+msgid "I need to move the desks to the sides in all three classrooms."
+msgstr "Đầu tiên phải kéo bàn học dạt sang hai bên trong cả ba lớp học."
+
+msgid "Then I can draw a \"path\" in the middle of each one with chalk."
+msgstr "Sau đó vẽ một \"con đường\" bằng phấn ở chính giữa mỗi phòng."
+
+msgid "Well, I'll leave the chalk drawing for last. I want to gather everything I need first."
+msgstr "Vẽ đường thì để cuối hẵng làm đi. Mình muốn đi gom các món đồ cần thiết trước."
+
+msgid "Oh no..."
+msgstr "Sao lại..."
+
+msgid "What are you doing...? Is this part of the ritual?"
+msgstr "Mày làm cái gì thế...? Này cũng trong nghi thức à?"
+
+msgid "Um... what's wrong with you?"
+msgstr "Ê... mày bị sao vậy mày?"
+
+msgid "If this ritual involves the mass genocide of harmless plants, then I want nothing to do with it."
+msgstr "Nếu nghi thức hay gì đấy mà phải thảm sát cây cối vô hại thế này thì tao không có muốn dính dáng gì hết nhá."
+
+msgid "Agreed."
+msgstr "Đồng tình."
+
+msgid "Are you seriously going to go around killing all the plants?"
+msgstr "Thiệt tình mày tính lòng vòng giết cho hết cây cối vậy luôn hả?"
+
+msgid "I knew you were a psychopath..."
+msgstr "Quả nhiên mày bị tâm thần rồi..."
+
+msgid "Sorry Kat, but we didn't sign up for this."
+msgstr "Xin lỗi nha Kat, bọn tao không có tham dự để làm cái chuyện này đâu."
+
+msgid "I don't like this ritual anymore..."
+msgstr "Tao không có muốn coi nghi thức nữa..."
+
+msgid "Don't worry Kaya, we're going home now."
+msgstr "Không sao Kaya, giờ mình đi về luôn."
+
+msgid "Don't talk to us again."
+msgstr "Đừng có mà bắt chuyện bọn tao nữa."
+
+msgid "Shelves for the students to place their school bags."
+msgstr "Kệ tủ cho học sinh để cặp táp."
+
+msgid "There are no bags right now though."
+msgstr "Mà giờ không có cái cặp nào cả."
+
+msgid "Everything's ready."
+msgstr "Đến đây là xong xuôi hết rồi."
+
+msgid "All that's left is to wait 5 minutes and then burn the hair."
+msgstr "Còn lại là chờ 5 phút rồi đốt nhúm tóc thôi."
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "This is going to be such a pain to clean up."
+msgstr "Rồi thu dọn cái đống này chắc cũng mệt gãy xương."
+
+msgid "Seriously? Stop messing with things!"
+msgstr "Thiệt luôn!? Mày thôi mò vào mấy chuyện kì lạ giùm đi!"
+
+msgid "But everything I \"mess with\" ends up being a scam."
+msgstr "Nhưng mà mấy chuyện tao \"mò vào\" kết cục đều là giả mà."
+
+msgid "What if some day it isn't?"
+msgstr "Lỡ ngày nào đó thành thật thì sao?"
+
+msgid "What if you end up summoning some ghost or the devil and condemning your soul to an eternity in the netherworld?"
+msgstr "Lỡ mày gọi ra ma hay ra quỷ rồi linh hồn mày bị rơi vào địa ngục mãi luôn thì sao?"
+
+msgid "What if your soul is already damned!?"
+msgstr "Lỡ đâu linh hồn mày đã bị nguyền rủa rồi thì sao!?"
+
+msgid "Then I guess that's what's waiting for me after I die."
+msgstr "Thế thì chắc khi tao chết rồi tao đi xuống đó thôi."
+
+msgid "KAT!"
+msgstr "KAT!"
+
+msgid "It was a joke!"
+msgstr "Tao đùa mà!"
+
+msgid "You're not gonna find him this way, you know?"
+msgstr "Có làm thế này cũng không tìm ra được người đó đâu mày biết không?"
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.annie"
+msgid "..."
+msgstr "..."
+
+msgid "You'll just do whatever you want no matter what I say, won't you?"
+msgstr "Mà giờ tao có bảo gì thì mày cũng cứ làm gì mày muốn làm thôi nhỉ?"
+
+msgid "It's possible."
+msgstr "Có khi đấy."
+
+msgid "Stubborn idiot."
+msgstr "Cái con khùng ngoan cố."
+
+msgid "I prefer \"ambitious idiot\"."
+msgstr "Gọi là \"con khùng có khát vọng\" thì tao ưng hơn."
+
+msgid "So... will you tell me where the letter is?"
+msgstr "Thế... mày cho tao biết thư ở đâu được chưa?"
+
+msgid "You exhaust me Kat, you know that?"
+msgstr "Tao hết hơi với mày rồi đấy Kat mày biết không?"
+
+msgid "And yet here we are."
+msgstr "Thế mà vẫn ấy đây này."
+
+msgid "Fine. You win. It's in the occult club."
+msgstr "Rồi rồi mày thắng. Thư nó ở trong câu lạc bộ huyền bí."
+
+msgid "There's a golden envelope in one of the drawers. But they won't let you sniff around since you're not a member."
+msgstr "Cái phong bì màu vàng trong cái ngăn kéo đâu trong đó. Mà mày không phải thành viên nên bọn nó không cho vào lục đâu."
+
+msgid "Thanks, you're the best!"
+msgstr "Cảm ơn nhé, mày tuyệt vời luôn!"
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.kat"
+msgid "Huh?"
+msgstr "Hở?"
+
+msgid "(Is there somebody at the door..?)"
+msgstr "(Có ai ở ngoài cửa à...?)"
+
+msgid "Alright, now I just have to blow the candles off. So let's-"
+msgstr "Được rồi, giờ chỉ cần thổi tắt nến nữa. Làm ngay nào—"
+
+msgid "Huh? The candles... Did they just...?"
+msgstr "Ủa? Sao nến... tự nhiên...?"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "...I guess I should count to 100..."
+msgstr "...Chắc cứ đếm đến 100 vậy..."
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "1, 2, 3, 4, 5..."
+msgstr "1, 2, 3, 4, 5..."
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...28, 29, 30..."
+msgstr "...28, 29, 30..."
+
+msgid "(Why am I doing this? This ridiculous game couldn't possibly work.)"
+msgstr "(Sao mình lại làm thế này nhỉ? Cái trò vớ vẩn này làm gì có chuyện.)"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...55, 56, 57, 58..."
+msgstr "...55, 56, 57, 58..."
+
+msgid "(I wonder if mom is worried about me...)"
+msgstr "(Không biết mẹ có lo không...)"
+
+msgid "(Huh? What was that?)"
+msgstr "(Hở? Cái gì vừa đó?)"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...79, 80, 81..."
+msgstr "...79, 80, 81..."
+
+msgid "(What's all that noise!?)"
+msgstr "(Tiếng động đấy tức là gì!?)"
+
+msgid "Is anyone there...?"
+msgstr "Ai đang đó đấy...?"
+
+msgid "...97, 98, 99..."
+msgstr "...97, 98, 99..."
+
+msgid "...100."
+msgstr "...100."
+
+msgid "So... I... open my eyes?"
+msgstr "Vậy... mình mở mắt ra... nhỉ?"
+
+msgid "It... worked?"
+msgstr "Được rồi... sao?"
+
+msgid "It worked?"
+msgstr "Được rồi?"
+
+msgid "It worked!! I can't believe it!"
+msgstr "Được rồi nè!! Ghê thiệt trời!"
+
+msgid "This is incredible!!"
+msgstr "Hay quá hay quá!!"
+
+msgid "But... where am I?"
+msgstr "Nhưng mà... đây là đâu?"
+
+msgid "It's a... hallway? It definitely isn't the school."
+msgstr "Hành lang... à? Rõ ràng không phải ở trường."
+
+msgid "This is unbelievable, how could it have worked?"
+msgstr "Không thể tin nổi, rốt cuộc chuyện này là sao?"
+
+msgid "It doesn't make any logical sense. I was in the classroom a minute ago. Have I gone mad?"
+msgstr "Về logic cũng chẳng có lý gì cả. Một phút trước là ở lớp cơ mà. Mình điên mất rồi sao?"
+
+msgid "THIS IS SO EXCITING, I CAN'T BELIEVE IT WORKED!"
+msgstr "HƯNG PHẤN QUÁ, THỰC SỰ LÀ ĐƯỢC RỒI ĐÂY NÈ!"
+
+msgid "If I wake up from this and it turns out to be a dream... well... that would be disappointing, to say the least."
+msgstr "Giờ mà thức dậy một cái hóa ra là mơ thì... chán lắm à nha, nói chí ít là thế."
+
+msgid "Okay. I definitely need to check this place out."
+msgstr "Ô kê. Phải đi lòng vòng ngắm nghía nơi này mới được."
+
+msgid "Do you wish to save your progress?"
+msgstr "Bạn muốn lưu tiến trình chứ?"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.choice.Do you wish to save your progress?"
+msgid "Yes"
+msgstr "Lưu"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.choice.Do you wish to save your progress?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Now what?"
+msgstr "Giờ sao đây?"
+
+msgid "Now we just wait 5 minutes."
+msgstr "Giờ đợi 5 phút."
+
+msgid "Doing nothing?"
+msgstr "Cứ đứng đợi thôi à?"
+
+msgid "Peace and quiet are not as bad as you imagine."
+msgstr "Cứ yên lặng mà đợi đi, đức tính không có xấu xa gì hết."
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "After that, I'll burn the hair and you help me blow out the candles one by one."
+msgstr "Sau đó tao đốt tóc rồi bọn mày giúp tao thổi tắt từng cái nến một."
+
+msgid "Burnt hair smells bad..."
+msgstr "Đốt tóc mùi kinh lắm đó..."
+
+msgid "It does."
+msgstr "Ừ đúng."
+
+msgid "But it's the last step, might as well do it right."
+msgstr "Nhưng đấy là bước cuối rồi, cũng phải làm cho đàng hoàng."
+
+msgid "What happens then?"
+msgstr "Xong rồi thì sao nữa?"
+
+msgid "No idea."
+msgstr "Chịu à."
+
+msgid "Really?"
+msgstr "Thật à?"
+
+msgid "We probably just clean up and go home. These rituals are a scam, you know?"
+msgstr "Chắc thu dọn rồi về nhà là hết thôi. Dù gì ba nghi thức kiểu này cũng là bịp thôi í mà."
+
+msgid "So... you're just making us make a mess, so that we can help you clean it up?"
+msgstr "Thế... tức là mày cho bọn tao bày bừa ra vầy, xong bọn tao giúp mày thu dọn đống này à?"
+
+msgid "What's the matter, are you not entertained?"
+msgstr "Vấn đề gì sao? Lại chả háo hức quá?"
+
+msgid "...Tsk."
+msgstr "...Chậc."
+
+msgid "I think it's time."
+msgstr "Sắp hết 5 phút rồi đó."
+
+msgid "Finally!"
+msgstr "Cuối cùng cũng hết!"
+
+msgid "Now I just burn this..."
+msgstr "Giờ đốt một phát..."
+
+msgid "Quickly, put out the candles now!"
+msgstr "Nhanh nhanh đi tắt hết nến đi!"
+
+msgid "Now, shut your eyes and be quiet while I count to one hundred, okay?"
+msgstr "Giờ nhắm mắt lại rồi cứ im lặng còn tao đếm đến 100, OK?"
+
+msgid "Got it."
+msgstr "Ừ rồi."
+
+msgid "Alright then, I'll start."
+msgstr "Được, vậy tao bắt đầu đây."
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "1, 2, 3, 4, 5..."
+msgstr "1, 2, 3, 4, 5..."
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...28, 29, 30..."
+msgstr "...28, 29, 30..."
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...55, 56, 57, 58..."
+msgstr "...55, 56, 57, 58..."
+
+msgid "Shhh!"
+msgstr "Suỵttt!"
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...79, 80, 81..."
+msgstr "...79, 80, 81..."
+
+msgid "(Huh...?)"
+msgstr "(Hở...?)"
+
+msgid "(What the hell was that!?)"
+msgstr "(Vừa mới cái quái gì thế!?)"
+
+msgid "...94, 95, 96, 97, 98, 99, 100!"
+msgstr "...94, 95, 96, 97, 98, 99, 100!"
+
+msgid "Huh...?"
+msgstr "Ủa...?"
+
+msgid "What the...?"
+msgstr "Sao...?"
+
+msgid "Are those...?"
+msgstr "Bọn nó...?"
+
+msgid "Well... my lines aren't perfect, but it should do the job!"
+msgstr "Chà... không hoàn hảo lắm, nhưng này là đủ xài rồi đó!"
+
+msgid "I need to do this in all three rooms."
+msgstr "Cần làm thế này hết cả ba phòng thì mới được."
+
+msgid "Two down, one to go."
+msgstr "Xong hai rồi, còn một thôi."
+
+msgid "That night... I got cold feet, I guess."
+msgstr "Đêm đó... mình bị nhát quá, chắc vậy."
+
+msgid "I went home without completing the ritual."
+msgstr "Nghi thức hãy chưa xong mà đã về nhà rồi."
+
+msgid "Despite that, I made plans to try again."
+msgstr "Dẫu vậy, mình đã lập kế hoạch thử sức lại."
+
+msgid "However, both my notes and the letter had disappeared without a trace."
+msgstr "Thế nhưng, cả ghi chú lẫn thư của mình đều biến mất tiêu không một dấu vết."
+
+msgid "I tried telling myself that maybe the ritual was a scam anyways..."
+msgstr "Mình tự nhủ bản thân rằng cái nghi thức đó đằng nào cũng là bịp thôi..."
+
+msgid "But now... how will I ever know?"
+msgstr "Nhưng mà ngộ nhỡ... thì sao?"
+
+msgid "Dead End K2 - Cold Kat Feet"
+msgstr "Kết Đứt K2 – Nhát Meo"
+
+msgid "What's... going on?"
+msgstr "Rốt cuộc... là sao đây?"
+
+msgid "These stairs are making no sense right now."
+msgstr "Cầu thang này cứ kì kì ấy."
+
+msgid "This building has only 3 floors. I've taken these stairs every day..."
+msgstr "Trường có 3 tầng thôi. Thang mình đi mỗi ngày cơ mà..."
+
+msgctxt "events.Global.prologue_ending_k3.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I must be really tired. I'll just go down without thinking."
+msgstr "Hẳn mình mệt lắm rồi. Cứ đi xuống đừng nghĩ sâu xa vậy."
+
+msgid "I can't... get anywhere..."
+msgstr "Không ra được... đâu cả..."
+
+msgid "Am I dreaming right now?"
+msgstr "Đang nằm mơ hay sao trời?"
+
+msgid "I think I'll just... rest here."
+msgstr "Thôi gì thì... nghỉ đây đã."
+
+msgid "Tomorrow morning... someone will wake me up."
+msgstr "Đến sáng... ai đó gọi mình dậy thôi."
+
+msgid "Hopefully at home, in my own bed."
+msgstr "Nếu được thì, trên giường nhà mình."
+
+msgid "The next time I woke up, I was still in the same place."
+msgstr "Sau đó lúc tỉnh lại, tôi vẫn ở đúng chỗ này."
+
+msgid "I tried again. Going up, going down... it made no difference."
+msgstr "Tôi cố thử lại. Đi lên, đi xuống... Chẳng gì thay đổi."
+
+msgid "I decided to make an experiment with chalk."
+msgstr "Thành ra, tôi quyết định lấy phấn thí nghiệm xem."
+
+msgid "Logic would dictate that this X isn't here if I go up or down a floor."
+msgstr "Tuân theo logic thì dấu X này phải không ở đây sau khi mình đi lên hay đi xuống."
+
+msgctxt "events.Global.prologue_ending_k3_pt2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I'm... trapped..."
+msgstr "Mình... bị kẹt rồi..."
+
+msgid "I don't think I'm going to make it home tonight either..."
+msgstr "Có vẻ đêm nay cũng không về được nhà luôn rồi..."
+
+msgid "Sorry Mom."
+msgstr "Con xin lỗi mẹ."
+
+msgid "Dead End K3 - Academic Spiral"
+msgstr "Kết Đứt K3 – Trường Xoáy"
+
+msgid "And so, we went home without completing the ritual."
+msgstr "Và rồi, bọn tôi cứ thế về nhà mà không làm xong nghi thức đấy."
+
+msgid "For some reason, I lost interest after that."
+msgstr "Do sao đó, sau lần ấy tôi mất hứng luôn."
+
+msgid "In exchange, I gained some new people to talk to."
+msgstr "Nhưng thay vào đó, tôi có được mấy người cùng trò chuyện mới."
+
+msgid "Well, I suppose the ritual couldn't have been that important anyways."
+msgstr "Ôi dào, đằng nào nghi thức đó cũng có phải gì quan trọng mấy đâu."
+
+msgid "Dead End K4 - Nevermind Forever"
+msgstr "Kết Đứt K4 – Vĩnh Bất Niệm"
+
+msgid "You know, despite the rules,"
+msgstr "Ái chả, mặc dù có luật rồi,"
+
+msgid "every so often some moron thinks they can bring in an entire group."
+msgstr "thi thoảng lại có mấy đứa ngốc nghĩ rằng có thể dắt cả bọn vào cơ đấy."
+
+msgid "Huh? Who's there?"
+msgstr "Hở? Ai đấy?"
+
+msgid "Where is this place...?"
+msgstr "Đây là đâu vậy...?"
+
+msgid "I would have at least made it interesting for you."
+msgstr "Tao lại tính cho mày thấy điều thú vị chút nữa cơ."
+
+msgid "But now? Forget it."
+msgstr "Nhưng mà tầm này thì, khỏi đi nhé."
+
+msgid "What? Wait-!"
+msgstr "Ê? Từ từ—!"
+
+msgid "Dead End K5 - Party Wipe"
+msgstr "Kết Đứt K5 – Sạch Bọn"
+
+msgid "Once they were gone, I felt a bit guilty so I went home as well."
+msgstr "Sau khi bọn nó đi về, tôi thấy chút tội lỗi nên cũng về nhà luôn."
+
+msgid "Maybe I'll try the ritual again, some other time."
+msgstr "Thôi nghi thức lúc nào đó làm lại vậy."
+
+msgid "Next time, I hope not to run into anyone."
+msgstr "Lần sau, cho dù ai thì tôi cũng cạch thôi."
+
+msgid "Dead End K6 - Snip snip"
+msgstr "Kết Đứt K6 – Xoạch Xoạch"
+
+msgid "And so, we left the school and walked home."
+msgstr "Và rồi, bọn tôi rời khỏi trường và lên đường về nhà."
+
+msgid "No one said anything for a while."
+msgstr "Trong khoảng chốc lát, chẳng ai nói cái gì cả."
+
+msgid "(I think Kat is feeling down...)"
+msgstr "(Thấy Kat nản lắm đó...)"
+
+msgid "(Yeah.)"
+msgstr "(Ừ.)"
+
+msgid "(Should we do something?)"
+msgstr "(Mình nên làm gì cho nó chăng?)"
+
+msgid "(What's on your mind?)"
+msgstr "(Bọn mày nghĩ sao, làm gì đây?)"
+
+msgid "(I don't know...)"
+msgstr "(Không biết nữa...)"
+
+msgid "(Do you think Kat likes to sing?)"
+msgstr "(Con Kat không biết có thích hát karaoke không?)"
+
+msgid "(Hmmm...)"
+msgstr "(Hừmmm...)"
+
+msgid "(Good idea, Saki!)"
+msgstr "(Đi hát karaoke được đó Saki!)"
+
+msgid "(Haven't seen you this excited about karaoke before, Kaya...)"
+msgstr "(Hăm hở đi karaoke thế này lần đầu thấy đó Kaya...)"
+
+msgid "(That's a yes, then?)"
+msgstr "(Vậy là đi hát được đúng không?)"
+
+msgid "(Alright.)"
+msgstr "(Ờ.)"
+
+msgid "So..."
+msgstr "Ê..."
+
+msgctxt "events.Global.prologue_ending_k7.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "We were thinking of going to this place..."
+msgstr "Bọn tao định tới chỗ này nè mà..."
+
+msgctxt "events.Global.prologue_ending_k7.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "(I can't do this! She's ignoring me!)"
+msgstr "(Tao nói không được! Nó lơ tao luôn!)"
+
+msgid "Kat!"
+msgstr "Kat!"
+
+msgid "Hmm?"
+msgstr "Hửmm?"
+
+msgid "Come with us."
+msgstr "Đi hát cùng bọn tao."
+
+msgctxt "events.Global.prologue_ending_k7.dlg.kat"
+msgid "Huh?"
+msgstr "Hở?"
+
+msgid "Just come."
+msgstr "Cứ đi đi."
+
+msgid "Sure, whatever."
+msgstr "Ừ thì đi, thế nào cũng được."
+
+msgid "(You're so good!)"
+msgstr "(Được quá mày ơi!)"
+
+msgid "(Are they trying... to cheer me up...?)"
+msgstr "(Bọn nó... đang muốn động viên mình hay sao...?)"
+
+msgid "(Maybe... things are better this way.)"
+msgstr "(Có khi... cứ thế này là tốt hơn rồi.)"
+
+msgid "(I need to believe that much, at least.)"
+msgstr "(Ít ra cũng phải tin là thế.)"
+
+msgid "Dead End K7 - Girls' Night Out"
+msgstr "Kết Đứt K7 – Đám Nữ Chơi Đêm"
+
+msgid "I didn't hear from the voice again."
+msgstr "Sau đó không nghe thấy giọng ấy nữa."
+
+msgid "But, no matter how much I wanted to, I didn't scream for help."
+msgstr "Nhưng cho dù có muốn khóc thét khôn cùng, tôi không hề gào lên kêu cứu."
+
+msgid "Someone will come for me... eventually."
+msgstr "Kiểu gì cũng... có ai đó đến cứu thôi mà."
+
+msgid "I just know it."
+msgstr "Tôi cứ biết là thế."
+
+msgid "Dead End K8 - My Way"
+msgstr "Kết Đứt K8 – Đường Ta Ta Đi"
+
+msgid "We're... back here?"
+msgstr "Quay lại đây... sao?"
+
+msgid "Maybe this is the school's way of saying \"You can't leave now.\""
+msgstr "Có khi là trường đang bảo \"Giờ đừng hòng thoát ra\" chăng."
+
+msgid "How can you just say something like that?"
+msgstr "Sao lại nói điều như thế chứ?"
+
+msgid "Are we going home soon...?"
+msgstr "Sắp được về nhà chưa thế...?"
+
+msgid "I think I'll pass on burning the school down today."
+msgstr "Thôi hôm nay không đốt trường học đâu."
+
+msgid "Wow, thank you for your generosity."
+msgstr "Ôi chao, cảm ơn tấm lòng độ lượng của mày nha."
+
+msgid "What are you doing? I thought you were busy."
+msgstr "Làm gì đó? Tưởng mày bận cơ mà."
+
+msgid "I'm just taking a break."
+msgstr "Ngồi nghỉ xíu thôi."
+
+msgid "Is that so..."
+msgstr "Là thế kia à..."
+
+msgid "Are you scared? You're scared, aren't you?"
+msgstr "Mày sợ hả? Sợ rồi đúng không?"
+
+msgid "Did you come to us for comfort?"
+msgstr "Nên mới tới ngồi để bọn tao dỗ chứ gì?"
+
+msgid "The only scary thing here is that attitude of yours."
+msgstr "Cái đáng sợ ở đây là thái độ của mày thì có."
+
+msgid "She's still upset at you messing up our night, as you can see."
+msgstr "Thấy đó, con Saki nó vẫn đang bực mày phá đám đó mà."
+
+msgid "It's okay to be scared..."
+msgstr "Sợ là bình thường mà có sao đâu..."
+
+msgid "Oh, I know! Why don't you show us your ritual as an apology?"
+msgstr "À đúng rồi! Mày cho bọn tao xem cái nghi thức hay cái gì đó đi, coi như tạ lỗi!"
+
+msgid "I'm kind of interested, too."
+msgstr "Tao cũng khá có hứng đó."
+
+msgid "Well, the rules say..."
+msgstr "Nhưng mà, theo luật thì..."
+
+msgid "Oh come on, you don't ACTUALLY think it's gonna work, do you? It's just a game, as you said."
+msgstr "Cái gì đó, mày cũng đâu có thực sự nghĩ ba cái trò đó sẽ thành công đâu đúng không? Như mày nói là trò chơi thôi mà gì đâu."
+
+msgid "The rules don't actually matter."
+msgstr "Thành thử, kệ bà ba cái luật gì đó đi."
+
+msgctxt "events.Global.prologue_event_sit_with_girls.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I suppose not."
+msgstr "Thế cũng đúng."
+
+msgid "Then it's decided, we will tag along with you."
+msgstr "Vậy là quyết định nhé, bọn tao đi theo mày."
+
+msgid "You're tasked with entertaining us now."
+msgstr "Cố gắng hết mình cho bọn tao vui nha."
+
+msgid "Well, I suppose it can't be helped."
+msgstr "Chà, đành vậy thôi chứ sao."
+
+msgid "Let's go, then."
+msgstr "Ta đi thôi."
+
+msgctxt "events.Global.prologue_hod_event_wake_up.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I'm back in this hallway..."
+msgstr "Về lại hành lang này rồi..."
+
+msgid "I don't like this... I need to get out of here..."
+msgstr "Ớn lắm rồi... phải ra khỏi đây mau..."
+
+msgid "Whoa... weird dream."
+msgstr "Oaa... giấc mơ kì lạ ta."
+
+msgid "Everyone must be gone already."
+msgstr "Hẳn mấy đứa về hết rồi."
+
+msgid "Looks like it's eleven... I should get to it."
+msgstr "Chắc 11 giờ... phải bắt đầu thôi."
+
+msgid "Ohhhh no..."
+msgstr "Ui trời..."
+
+msgid "You moved it!!"
+msgstr "Rõ mày mới di!!"
+
+msgid "I didn't, I swear! You know I hate this type of thing!"
+msgstr "Đâu có! Biết tao ghét cái kiểu vậy mà!"
+
+msgid "This can't possibly be happening..."
+msgstr "Làm sao mà lại thế..."
+
+msgid "It spelled \"DIE\"!!-"
+msgstr "Nó di ra chữ \"DIE\" nè!!—"
+
+msgid "Oh my... Oh no..."
+msgstr "Trời ơi... thế này..."
+
+msgid "Stop joking around!! This is serious!!"
+msgstr "Đừng có giỡn nữa! Nghiêm túc này!!"
+
+msgid "...Aah.... we should not have played this..."
+msgstr "...Aaa... giá mà đừng chơi trò này..."
+
+msgid "I TOLD you we're going to be cursed!!"
+msgstr "Tao BẢO là sẽ bị nguyền rồi đấy!!"
+
+msgid "WHAT WAS THAT!?"
+msgstr "VỪA MỚI CÁI GÌ ĐÓ!?"
+
+msgid "Is that a ghost?? We summoned a ghost!"
+msgstr "Ma à?? Mấy đứa mình gọi ma lên mất rồi!!"
+
+msgid "oh my god oh my god oh my god oh my god-"
+msgstr "ôi trời ơi trời ơi trời ơi trời ơi-"
+
+msgid "YOU'RE MAKING TOO MUCH NOISE"
+msgstr "TỤI BÂY ỒN ÀO QUÁ NHA"
+
+msgid "Oh...It's just Kat..."
+msgstr "Ờ... là con Kat mà..."
+
+msgid "What's with the crazy knocking? What was that for!?"
+msgstr "Mắc gì gõ cửa ầm ầm thế? Gõ thế làm cái gì hả?"
+
+msgid "Did that spook you? You're not supposed to be here, you know?"
+msgstr "Bị dọa sợ à? Mà bọn mày vốn dĩ đâu có được la cà ở đây đâu?"
+
+msgid "I could say the same about you. Why are YOU here?"
+msgstr "Mày cũng vậy đó thôi. La cà ở đây làm cái gì?"
+
+msgid "Actually..."
+msgstr "À thì..."
+
+msgid "Say hello to the new member of the occult club!"
+msgstr "Bởi vì tao đây mới được vào làm thành viên của câu lạc bộ huyền bí đó!"
+
+msgid "I had the wonderful opportunity to meet all of the members yesterday."
+msgstr "Hôm qua còn được dịp vinh dự gặp gỡ toàn bộ thành viên rồi, thế mà..."
+
+msgid "I don't recall seeing you there."
+msgstr "...chả nhớ khi đó đã gặp bọn mày chưa."
+
+msgid "You three are not part of the club, are you?"
+msgstr "Bọn mày đâu phải thành viên câu lạc bộ huyền bí đâu nhỉ?"
+
+msgid "That's funny. I didn't pin you of all people as the \"occult\" type, Kat."
+msgstr "Buồn cười ghê. Cỡ mày mà chơi hệ \"huyền bí\" cái nỗi gì hả Kat."
+
+msgid "That's because I'm not."
+msgstr "Đương nhiên, bởi vì tao đâu có chơi cái hệ đó."
+
+msgid "H-Hey!! We were doing something here!"
+msgstr "Ơ kìa!! Bọn tao còn đang làm mà!"
+
+msgid "I'll save you the trouble. All three of you moved it."
+msgstr "Để tao lý giải hộ cho. Cái đó nó là do ba đứa chúng mày di chuyển thôi."
+
+msgid "Wha...?"
+msgstr "Ơ?"
+
+msgid "The planchette. From your game. You all moved it. There's no ghost in the room."
+msgstr "Cái con cơ ấy. Trong trò bọn mày chơi. Do bọn mày di chuyển cả. Ma í làm gì có."
+
+msgid "There's a simple scientific explanation: it's called the ideomotor effect."
+msgstr "Có thể giải thích đơn giản và mang tính khoa học đó là \"Hiệu ứng vận động vô thức\"."
+
+msgid "Simply put, just like your body reacts to pain reflexively, it may also react to ideas and move on its own. It pretty much bypasses the part of the brain which we use for conscious behavior."
+msgstr "Nói gọn thì, giống như phản ứng một cách có phản xạ với đau đớn, cơ thể người còn phản ứng với suy nghĩ và tự nó cử động nữa đó. Tín hiệu nó bỏ qua hẳn cái phần trong não mà ta dùng cho hành vi có ý thức."
+
+msgid "It's not all that different from blinking or breathing. The effect is even stronger when a bunch of gullible people who are desperate to believe in ghost stories get together and play."
+msgstr "Nó hao hao như chớp mắt hay hít thở vậy. Khi một đám người khờ khạo cứ một mực tin vào chuyện ma mà tụ họp lại chơi thì hiệu ứng nó còn phát huy nữa."
+
+msgid "There was an experiment where the players were blindfolded and suddenly the \"ghosts\" could no longer spell messages. You can try it if you don't believe me."
+msgstr "Có cái thí nghiệm mà người tham gia phải bịt mắt, bỗng nhiên \"ma\" không còn truyền được thông điệp nào nữa. Nếu không tin cứ làm thử mà xem."
+
+msgid "In other words, your mysterious answers from beyond... are really just your imagination playing tricks on you."
+msgstr "Nói cách khác, \"lời đáp bí ẩn từ bên kia\" bọn mày nhận được... thực ra chỉ là do trí tưởng tượng bọn mày bày ra mà thôi."
+
+msgid "Great job killing the mood."
+msgstr "Cám ơn vì phá hỏng bầu không khí giùm nhá."
+
+msgid "You must be fun at parties."
+msgstr "Hiền tài trong bang hội đây chứ đâu."
+
+msgid "Thanks a lot, Kat."
+msgstr "Chân thành cảm ơn nha Kat."
+
+msgid "Always a pleasure."
+msgstr "Không có chi."
+
+msgid "(Alright, time to search.)"
+msgstr "(Nào, đi tìm nguyên liệu thôi)"
+
+msgid "(I should go over my notes to make sure I don't forget anything.)"
+msgstr "(Để không bị sót, ta hãy rà lại ghi chú phát)"
+
+msgid "I already have enough chalk but... the more the merrier!"
+msgstr "Mình đã có đủ phấn rồi nhưng... lấy nhiều cho nó vui!"
+
+msgid "What kind of ritual is this...?"
+msgstr "Rốt cuộc thế này thì nghi thức kiểu gì ta...?"
+
+msgid "Do I really need all of this chalk...?"
+msgstr "Có cần phấn đến nhường này không nhỉ...?"
+
+msgid "This window already has curtains."
+msgstr "Cửa sổ này đã mắc rèm rồi."
+
+msgid "The thought of its burning beauty charms you."
+msgstr "Tưởng tượng cái vẻ đẹp khi cây bị cháy mà thấy quyến rũ ghê."
+
+msgid "I really shouldn't, though."
+msgstr "Mà thôi không nên làm vậy."
+
+msgid "It looks like a private journal."
+msgstr "Có vẻ là nhật ký."
+
+msgid "This looks like that girl's private journal."
+msgstr "Hình như là nhật ký của cái con đó nè."
+
+msgid "Look through it?"
+msgstr "Lật ra xem chứ?"
+
+msgctxt "events.Global.prologue_item_notebook.choice.Look through it?"
+msgid "Yes"
+msgstr "Lật xem"
+
+msgctxt "events.Global.prologue_item_notebook.choice.Look through it?"
+msgid "No"
+msgstr "Thôi không"
+
+msgid "Let's see..."
+msgstr "Coi nào coi nào..."
+
+msgid "Blegh, it's just math problems... and girly doodles all over."
+msgstr "Ựa, toàn là bài tập toán... với vẽ bậy kiểu mấy đứa con gái thôi à."
+
+msgid "This isn't worth my time."
+msgstr "Chẳng bõ thời gian tí nào."
+
+msgid "A math notebook. Nothing worth looking through."
+msgstr "Là vở môn toán. Chả đáng lướt qua."
+
+msgid "(Alright, so I need to search the school for the items first.)"
+msgstr "(Được rồi, trước tiên loanh quanh trong trường thu thập nguyên liệu nào.)"
+
+msgid "(The rune should be in this room...)"
+msgstr "(Cái rune hẳn có trong phòng này...)"
+
+msgid "(...somewhere.)"
+msgstr "(...hay đâu đó không biết nữa.)"
+
+msgid "Well, I need a tuft of hair for the ritual..."
+msgstr "Hừm, cần một nhúm tóc cho nghi thức cơ..."
+
+msgid "Should I cut my own hair?"
+msgstr "Cắt tóc bản thân chăng?"
+
+msgid "I guess..."
+msgstr "Đành vậy..."
+
+msgid "Forget it"
+msgstr "Đừng có hòng"
+
+msgid "Sigh..."
+msgstr "Hầy..."
+
+msgid "Here I go, I suppose..."
+msgstr "Chắc là cắt vậy..."
+
+msgid "I never want to do that again."
+msgstr "Mình không muốn làm thế lần nào nữa đâu."
+
+msgid "You're so brave, Kat."
+msgstr "Can đảm quá Kat ơi."
+
+msgid "Of course not."
+msgstr "Tất nhiên là không."
+
+msgid "I already have enough hair."
+msgstr "Có đủ tóc rồi mà."
+
+msgid "(Nah.)"
+msgstr "(Hông.)"
+
+msgid "Um... any takers?"
+msgstr "Ờ... đứa nào tình nguyện không?"
+
+msgid "What do you need?"
+msgstr "Cần gì thế?"
+
+msgid "Just a bit of hair."
+msgstr "Một nhúm tóc thôi."
+
+msgctxt "events.Global.prologue_item_scissors.dlg.prologue_girl2"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Global.prologue_item_scissors.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "Why don't you cut your own?"
+msgstr "Sao không tự cắt đi?"
+
+msgid "I thought you girls wanted to participate...?"
+msgstr "Tưởng bọn mày muốn tham gia vào nghi thức chớ...?"
+
+msgid "I don't mind helping..."
+msgstr "Tao thì được thôi..."
+
+msgid "No Kaya, you don't have to do that."
+msgstr "Đừng đừng Kaya, mày không cần cắt đâu."
+
+msgid "It's alright, I'll give you mine."
+msgstr "Được rồi, để tao cắt đưa cho mày."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "There's no need for that. I'll just cut some of mine."
+msgstr "Mày không cần làm. Tao cắt cho."
+
+msgid "Are you sure?"
+msgstr "Chắc rồi chứ?"
+
+msgid "Yeah, it would be a waste to use yours."
+msgstr "Ờ, xài tóc của Juli thì phí lắm."
+
+msgid "Alright."
+msgstr "Ừ cảm ơn."
+
+msgid "A tuft of hair from Saki. She gave it to me voluntarily."
+msgstr "Nhúm tóc của Saki. Nó tình nguyện cho mình."
+
+msgid "Thanks!"
+msgstr "Cám ơn!"
+
+msgid "Uuugh..."
+msgstr "Ư..."
+
+msgid "It's so dark..."
+msgstr "Tối thui à..."
+
+msgid "Let's see what's behind this door."
+msgstr "Hãy xem cái gì đằng này cánh cửa đi nào."
+
+msgid "Maybe we'll find exam answers!"
+msgstr "Không chừng là đề thi chăng?"
+
+msgid "Or dead bodies!"
+msgstr "Hay là xác chết chăng!"
+
+msgid "Or... maybe it's just a supply closet."
+msgstr "Hoặc... chỉ là kho chứa đồ thôi chăng."
+
+msgid "Heh."
+msgstr "Hứ hứ."

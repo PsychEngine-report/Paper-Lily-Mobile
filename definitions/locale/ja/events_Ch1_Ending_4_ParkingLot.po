@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What seems like a trash bag."
+msgstr "ゴミ袋らしきもの。"
+
+msgid "It has dust all over."
+msgstr "一面にほこりを被っている。"
+
+msgid "A wooden crate."
+msgstr "木箱。"
+
+msgid "A bus. It doesn't seem to have been used in a long time."
+msgstr "バス。長い間使われていないようだ。"
+
+msgid "There's another bus stacked on top of it."
+msgstr "上に別のバスが重ねられている。"
+
+msgid "A broken bus is stacked on top of it."
+msgstr "壊れたバスが上に重ねられている。"
+
+msgid "A keypad."
+msgstr "キーパッド。"
+
+msgid "It doesn't seem to be working."
+msgstr "点かないようだ。"
+
+msgid "Touch some buttons?"
+msgstr "ボタンに触れてみる？"
+
+msgid "Yes"
+msgstr "触れる"
+
+msgid "No"
+msgstr "触れない"
+
+msgid "The keypad does not respond in any way."
+msgstr "全く反応がない。"
+
+msgid "Looks like a mailbox."
+msgstr "郵便受けらしきもの。"
+
+msgid "There's no mail right now."
+msgstr "今は何も届いていない。"
+
+msgid "A small light. It changes colors every few seconds."
+msgstr "小さなライト。数秒ごとに色が変わる。"
+
+msgid "Strange street signs fill the walls."
+msgstr "奇妙な道路標識が壁を埋め尽くしている。"
+
+msgid "A garage door."
+msgstr "シャッター。"
+
+msgid "Can I get this open somehow?"
+msgstr "どうにかして開けられないかな？"

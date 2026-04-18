@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's curtains where the driver should be."
+msgstr "Tam, gdzie powinien być kierowca, są zasłony."
+
+msgid "Take a look behind the curtains?"
+msgstr "Zajrzeć za zasłony?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "There's no one there, just an empty driver's seat."
+msgstr "Nikogo tam nie ma, tylko puste siedzenie kierowcy."
+
+msgid "There's nobody behind the curtains."
+msgstr "Za zasłonami nikogo nie ma."
+
+msgid "My seat."
+msgstr "Moje miejsce."
+
+msgid "It's too dark to see out the window."
+msgstr "Jest zbyt ciemno, by wyjrzeć przez okno."
+
+msgid "Uhm... where am I?"
+msgstr "Emm... gdzie ja jestem?"

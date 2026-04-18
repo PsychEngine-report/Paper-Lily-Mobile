@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a can of red paint here."
+msgstr "Ở đây có cái hộp sơn đỏ."
+
+msgid "Take ${item:ch1.paint}?"
+msgstr "Lấy ${item:ch1.paint} chứ?"
+
+msgid "Yes"
+msgstr "Lấy"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "It's already done."
+msgstr "Đã xong rồi."
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Bạn đã rắc muối lên lối vào.)"
+
+msgid "Some boxes containing holiday decorations."
+msgstr "Mấy cái thùng đựng đồ trang trí ngày lễ."
+
+msgid "Some boxes that may or may not be empty."
+msgstr "Vài cái thùng có thể là rỗng hoặc là không rỗng."
+
+msgid "A large pile of boxes."
+msgstr "Chồng thùng chất đống."
+
+msgid "An empty bucket. Not a trash can."
+msgstr "Cái xô trống không. Chứ không phải cái thùng rác."
+
+msgid "An empty bucket."
+msgstr "Cái xô trống không."
+
+msgid "A chair that's sometimes used to reach high places."
+msgstr "Chiếc ghế thỉnh thoảng được dùng để với lên chỗ cao."
+
+msgid "A large cupboard. There's quite a bit of space inside."
+msgstr "Chiếc tủ chè lớn. Không gian bên trong khá là rộng."
+
+msgid "The garage door. It leads outside."
+msgstr "Cửa ga-ra. Dẫn ra ngoài."
+
+msgid "It opens with a remote control. My parents probably took it in the car with them."
+msgstr "Cửa mở bằng điều khiển từ xa. Ba mẹ chắc là lái xe mang đi luôn rồi."
+
+msgid "An old lamp. It's not plugged in."
+msgstr "Chiếc đèn cũ. Không được cắm điện."
+
+msgid "A shelf unit filled with various tools, paint, and old manuals."
+msgstr "Cái kệ đặt đầy đủ thứ dụng cụ, sơn, với mấy cuốn manual cũ."
+
+msgid "There's nothing of use here."
+msgstr "Ở đây không có cái gì được việc hết."
+
+msgid "A shoe rack with no shoes."
+msgstr "Cái giá để giày dép nhưng không có giày."
+
+msgid "A shoe rack."
+msgstr "Cái giá để giày dép."
+
+msgid "An empty trash can. Not a bucket."
+msgstr "Cái thùng rác trống không. Chứ không phải cái xô."
+
+msgid "An empty trash can."
+msgstr "Cái thùng rác trống không."
+
+msgid "An umbrella basket."
+msgstr "Cái giỏ đựng dù."
+
+msgid "There was a discount for buying two of them."
+msgstr "Hồi trước mua hai cái thì được giảm giá."

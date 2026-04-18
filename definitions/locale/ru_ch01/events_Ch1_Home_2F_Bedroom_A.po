@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "As I thought... the internet is not working."
+msgstr "Так и знала... интернет не работает."
+
+msgid "Thankfully, I saved that post as a PDF."
+msgstr "Хорошо, что я сохранила PDF-файл с постом."
+
+msgid "\"What to do if you mess up bus ritual\""
+msgstr "\"Что делать, если вы ошиблись в ритуале с автобусом\""
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"i was about to do the bus ritual, and saw that there are no clues about what to do if the bus doesnt come or something"
+msgstr ""
+"[color=green]spikyTrap2, 1 год назад[/color]\n"
+"я собрался делать автобусный ритуал, но никто ниде не пишет, что делать если автобуса не будет"
+
+msgid "someone here said that leaving a ritual half-done can be rly bad, so i'm just asking to be safe"
+msgstr "кто то писал, что лучше не надо прерывать ритуал так что я для себя спрашиваю"
+
+msgid ""
+"[color=green]miko_baby, 1 year ago[/color]\n"
+"I don't guarantee this will work, as I haven't personally tried the bus ritual. But! My family works at a shrine so I have some experience with banishing spirits. The steps should be:"
+msgstr ""
+"[color=green]miko_baby, 1 год назад[/color]\n"
+"Не гарантирую, что прям сработает (потому что я сама не пробовала ритуал с автобусом), НО! Моя семья работает в храме, так что изгонять духов я умею. Вот что надо сделать:"
+
+msgid ""
+"1) Untie the red string or thread or whatever you used from the phone.\n"
+"2) Take a whole bunch of salt, any salt, and pour it in front of any exit doors of your home (indoors)."
+msgstr ""
+"1) Развяжи ленточку или верёвочку, который ты делал узел на телефоне\n"
+"2) Возьми кучу соли (любой) и рассыпь её прямо у выходов в своём доме (именно изнутри)."
+
+msgid ""
+"Make sure to pour salt on EVERY exit (windows aren't necessary though).\n"
+"That's all! Hope this helps!"
+msgstr ""
+"Только рассыпай соль на ВСЕ ВЫХОДЫ (окна не считаются, если что).\n"
+"Вот и всё! Надеюсь, помогла!"
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"thanks!"
+msgstr ""
+"[color=green]spikyTrap2, 1 год назад[/color]\n"
+"пасиба!"
+
+msgid "[User marked this thread as solved]"
+msgstr "[Пользователь отметил вопрос как решённый]"
+
+msgid "In other words, remove the red string from the phone and scatter salt in front of the front door, the back door and the garage door."
+msgstr "В двух словах - надо размотать узел на телефоне и рассыпать соль возле главного и парадного входов, а также возле двери гаража."
+
+msgid "It sounds a little weak for a ritual but... it's better than nothing."
+msgstr "Как-то слабовато для ритуала... но это лучше, чем сидеть сложа руки."
+
+msgid "I'd rather not change right now..."
+msgstr "Лучше мне пока не переодеваться..."
+
+msgid "My digital alarm clock."
+msgstr "Мой электронный будильник."
+
+msgid "I'm so used to pushing snooze on this thing-"
+msgstr "Я уже так привыкла спать \"ещё пять минуточек\"-"
+
+msgid "I hope I don't do it again out of reflex and ruin the ritual."
+msgstr "Надеюсь, до этого сегодня не дойдёт и я не испорчу ритуал."
+
+msgid "Set it for midnight?"
+msgstr "Завести его на полночь?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_alarmclock.choice.Set it for midnight?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_alarmclock.choice.Set it for midnight?"
+msgid "No"
+msgstr "Нет"
+
+msgid "It's done."
+msgstr "Готово."
+
+msgid "It's set to ring at midnight."
+msgstr "Он заведён на полночь."
+
+msgid "My bed."
+msgstr "Моя кровать."
+
+msgid "Go to sleep?"
+msgstr "Лечь спать?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_bed.choice.Go to sleep?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_bed.choice.Go to sleep?"
+msgid "No"
+msgstr "Нет"
+
+msgid "There's something I need to tell Hiro first."
+msgstr "Сначала нужно кое-что сказать Хиро."
+
+msgid "I should take the stuff I left by the window, or I'm going to forget it here."
+msgstr "Нужно взять вещи, что я положила у окна, или так их и забуду."
+
+msgid "I need to finish cleaning up the ritual first..."
+msgstr "Сначала надо закончить ритуал..."
+
+msgid "A book on the occult."
+msgstr "Книга об оккультизме."
+
+msgid "Read a passage?"
+msgstr "Прочитать абзац?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_book.choice.Read a passage?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_book.choice.Read a passage?"
+msgid "No"
+msgstr "Нет"
+
+msgid "\"Salt is important when dealing with demons. For best results, a handful must be thrown at the target.\""
+msgstr "\"Соль важна в борьбе с демонами. Для достижения наилучшего эффекта нужно бросить пригоршню соли в цель.\""
+
+msgid "A bookshelf with school related books."
+msgstr "Шкаф с книгами по учёбе."
+
+msgid "Manga and other non-academic stuff gets to go in the bottom compartment."
+msgstr "Манга и прочие нешкольные книжки хранятся в нижнем его отсеке."
+
+msgid "Blue... Pink... Looks like I don't have any red markers."
+msgstr "Синий... Розовый... Похоже, у меня нет красного маркера."
+
+msgid "Maybe in my parents' room?"
+msgstr "Может, у родителей в комнате есть?"
+
+msgid "Maybe downstairs?"
+msgstr "Может, поискать на первом этаже?"
+
+msgid "My computer chair."
+msgstr "Мой компьютерный стул."
+
+msgid "The instructions are simple enough. No need to check again."
+msgstr "Инструкции вполне понятны. Незачем смотреть по два раза."
+
+msgid "Sit at the computer?"
+msgstr "Сесть за компьютер?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_computer.choice.Sit at the computer?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_computer.choice.Sit at the computer?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A gaming console."
+msgstr "Игровая консоль."
+
+msgid "There's no time for games right now."
+msgstr "Сейчас нет времени на игры."
+
+msgid "My computer. It's always on."
+msgstr "Мой компьютер. Он всегда включён."
+
+msgid "My desk."
+msgstr "Мой стол."
+
+msgid "The mugs pile up here. The drawers contain school papers."
+msgstr "Здесь в куче валяются чашки. В ящиках снизу хранятся школьные бумаги."
+
+msgid "Leftover orange juice."
+msgstr "Остаток апельсинового сока."
+
+msgid "It's too warm to drink now."
+msgstr "Выпить его не получится, так как он уже тёплый."
+
+msgid "Some blank paper."
+msgstr "Пустые листы бумаги."
+
+msgid "I doodle sometimes."
+msgstr "Порой я рисую всякие каракули."
+
+msgid "A plant."
+msgstr "Растение."
+
+msgid "The best plant in this house."
+msgstr "Лучшее растение в этом доме."
+
+msgid "Some cute posters."
+msgstr "Милые постеры."
+
+msgid "A fancy glass table."
+msgstr "Шикарный стеклянный столик."
+
+msgid "An overflowing trash can."
+msgstr "Мусорная урна, из которой уже вываливается мусор."
+
+msgid "Since you're the one who filled it up, there's no point in emptying it."
+msgstr "Раз уж именно вы её заполняете, нет смысла убирать его."
+
+msgid "My trash can."
+msgstr "Моя мусорная урна."
+
+msgid "A TV."
+msgstr "Телевизор."
+
+msgid "This TV is solely used to dock the game console."
+msgstr "Он нужен только затем, чтобы подключать к нему игровую консоль."
+
+msgid "It's too dark to see right now."
+msgstr "Из-за мрака ничего уже не увидеть."
+
+msgid "A window."
+msgstr "Окно."
+
+msgid "A cozy gaming space by the window."
+msgstr "Уютное геймерское гнёздышко у окна."
+
+msgid "..."
+msgstr "..."
+
+msgid "Various bows and hair decorations."
+msgstr "Различные бантики и украшения для волос."
+
+msgid "There's some red ribbon here."
+msgstr "Здесь есть и красная ленточка."
+
+msgid "Take ${item:ch1.ribbon}?"
+msgstr "Взять предмет: ${item:ch1.ribbon}?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bows.choice.Take ${item:ch1.ribbon}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bows.choice.Take ${item:ch1.ribbon}?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_1.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "Какую-то одежду мне подарили. Ещё не пришло время её распаковывать."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_1.dlg.narrator"
+msgid "Some clothes."
+msgstr "Какая-то одежда."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_2.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "Какую-то одежду мне подарили. Ещё не пришло время её распаковывать."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_2.dlg.narrator"
+msgid "Some clothes."
+msgstr "Какая-то одежда."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_3.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "Какую-то одежду мне подарили. Ещё не пришло время её распаковывать."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_3.dlg.narrator"
+msgid "Some clothes."
+msgstr "Какая-то одежда."
+
+msgid "A calendar. It's still stuck in March, 6 months ago."
+msgstr "Календарь. Он застрял в марте, 6 месяцев назад."
+
+msgid "Is there even a point in turning the pages?"
+msgstr "Есть ли вообще смысл переворачивать странички?"
+
+msgid "The year is more or less over anyways."
+msgstr "Год всё равно уже плюс-минус закончился."
+
+msgid "Lacie's diary."
+msgstr "Дневник Лэйси."
+
+msgid "I don't feel like going through it right now."
+msgstr "Я пока не в настроении его читать."
+
+msgid "I should take all of this with me."
+msgstr "Нужно всё это взять с собой."
+
+msgid "My notebook, to organize my thoughts..."
+msgstr "Мой блокнот - чтобы собирать мысли в порядок..."
+
+msgid "...the rune for the ritual..."
+msgstr "...Руна - для ритуала..."
+
+msgid "...salt, for self defense..."
+msgstr "...соль - для самообороны."
+
+msgid "...and finally, this thing."
+msgstr "...и вот эта штуковина."
+
+msgid "If the information I got is accurate, then this is my ticket back home."
+msgstr "Если той инфе можно верить, то это мой билет обратно домой."
+
+msgid "(You placed the letter and to-do list into the notebook.)"
+msgstr "(Вы положили письмо и список дел в блокнот.)"
+
+msgid "A happy little green plant."
+msgstr "Счастливое зелёное растеньице."
+
+msgid "It doesn't need a lot of watering, thankfully..."
+msgstr "К счастью, оно не прихотливо к поливу..."
+
+msgid "Your TamaGhost™."
+msgstr "Ваш виртуальный питомец TamaGhost™."
+
+msgid "I already fed it today."
+msgstr "Я его уже покормила."
+
+msgid "(You fed your TamaGhost™)."
+msgstr "(Вы покормили своего TamaGhost'a™)."
+
+msgid "An umbrella."
+msgstr "Зонт."
+
+msgid "It's nice outside."
+msgstr "За окном красиво."
+
+msgid "But not nice enough to want to go back out."
+msgstr "Но не настолько, чтобы снова хотеть выйти на улицу."

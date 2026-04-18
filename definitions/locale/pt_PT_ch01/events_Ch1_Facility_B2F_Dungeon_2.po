@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A broken, bloody baseball bat lies next to a skeleton."
+msgstr "Há um taco de basebol partido e ensanguentado ao lado de um esqueleto."
+
+msgid "A \"W\" is carved into it."
+msgstr "Está gravado um \"W\" nele."
+
+msgid "The door is unreachable."
+msgstr "A porta está inacessível."
+
+msgid "\"Subject D5. Age: 100-150. Status: Dormant. Awaiting further tests.\""
+msgstr "\"Cobaia D5. Idade: 100-150 anos. Estado: Inativo. A aguardar mais testes.\""
+
+msgid "\"Subject D8. Age: Unknown. Status: Highly active. Awaiting further tests.\""
+msgstr "\"Cobaia D8. Idade: Desconhecida. Estado: Altamente ativo. A aguardar mais testes.\""
+
+msgid "A confinement door. It's locked."
+msgstr "Uma porta de confinamento. Está trancada."
+
+msgid "There's something inside..."
+msgstr "Há qualquer coisa lá dentro..."
+
+msgid "Nothing of interest on the desk."
+msgstr "Não há nada de interessante na secretária."
+
+msgid "There's nothing else in the drawer."
+msgstr "Não há mais nada na gaveta."
+
+msgid "There's a valve handle in the drawer."
+msgstr "Há uma válvula na gaveta."
+
+msgid "Take ${item:ch1.facility_handle_diamond}?"
+msgstr "Levar a ${item:ch1.facility_handle_diamond}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "A hole on the floor."
+msgstr "Um buraco no chão."
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai juntou-se ao grupo.)"

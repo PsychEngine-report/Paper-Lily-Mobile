@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "On second thought, I don't feel like it."
+msgstr "Po namyśle, chyba mi się odechciało."
+
+msgid "Phew!"
+msgstr "Uff!"
+
+msgid "This is my desk. Juli sits in front of me, and Kaya sits behind."
+msgstr "To jest moje biurko. Juli siedzi przede mną, a Kaya z tyłu."
+
+msgid "I see..."
+msgstr "Rozumiem..."
+
+msgid "Thanks for letting me know...?"
+msgstr "Dzięki za poinformowanie mnie o tym...?"
+
+msgid "Saki's desk."
+msgstr "Ławka Saki."
+
+msgid "This isn't the right classroom for that."
+msgstr "To nie jest odpowiednia klasa do tego."
+
+msgid "The path is already drawn."
+msgstr "Ścieżka jest już narysowana."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Jeszcze nie. Wolę się najpierw upewnić, że mam wszystko, czego potrzebuję."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Jeszcze nie. Chcę najpierw skończyć przygotowanie sal lekcyjnych."
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "Wolę nie pakować się w większe kłopoty, niż już się wpakowałam ."
+
+msgid "This window already has curtains."
+msgstr "To okno ma już zasłony."
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "Spalenie szkoły nie jest częścią rytuału."
+
+msgid "There's a red notebook here."
+msgstr "Jakiś czerwony zeszyt."
+
+msgid "There's nothing else here."
+msgstr "Nie ma tu nic innego."
+
+msgid "It's already done."
+msgstr "To już jest zrobione."
+
+msgid "This isn't the time for that."
+msgstr "To nie jest czas na to."
+
+msgid "Some world encyclopedias."
+msgstr "Jakieś encyklopedie świata."
+
+msgid "I would definitely steal one of these if they weren't so darn heavy."
+msgstr "Zdecydowanie ukradłabym jedną z nich, gdyby nie były tak cholernie ciężkie."
+
+msgid "You can borrow my books if you need..."
+msgstr "Możesz pożyczyć moje książki, jeśli potrzebujesz..."
+
+msgid "I'll keep that in mind."
+msgstr "Będę o tym pamiętała."
+
+msgid "A clean chalkboard."
+msgstr "Czysta tablica."
+
+msgid "A wooden desk."
+msgstr "Drewniana ławka."
+
+msgid "Two paper slips filled with rules and regulations."
+msgstr "Dwie kartki papieru wypełnione zasadami i przepisami."
+
+msgid "I wonder if it says somewhere that we're not allowed on school grounds at night."
+msgstr "Ciekawe, czy gdzieś jest napisane, że w nocy nie wolno nam przebywać na terenie szkoły."
+
+msgid "Oh well! I guess we'll never know if I don't read it!"
+msgstr "No cóż! Chyba nigdy się nie dowiemy, jeśli ich nie przeczytam!"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Jakieś arkusze obecności i harmonogramy."
+
+msgid "A happy green plant."
+msgstr "Szczęśliwa zielona roślina."
+
+msgid "The plant is no longer happy."
+msgstr "Roślina nie jest już szczęśliwa."
+
+msgid "Some cute potted plants. Their silent nature enchants you."
+msgstr "Kilka uroczych roślin doniczkowych. Ich cicha natura urzeka."
+
+msgid "The teacher's podium."
+msgstr "Podium nauczyciela."
+
+msgid "A geography book and a globe sit atop it."
+msgstr "Na szczycie stoi książka do geografii i globus."
+
+msgid "Some boring textbooks."
+msgstr "Trochę nudnych podręczników."
+
+msgid "Some very thick, school-related books."
+msgstr "Kilka bardzo grubych, szkolnych książek."
+
+msgid "Some books and... chalk."
+msgstr "Kilka książek i... kreda."
+
+msgid "Take it?"
+msgstr "Wziąć?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "There's nothing else of use."
+msgstr "Nie ma nic innego, co mogłoby się przydać."
+
+msgid "A trash can."
+msgstr "Kosz na śmieci."
+
+msgid "As it's usually the case with trash cans, it's devoid of useful items."
+msgstr "Jak to zwykle bywa z koszami na śmieci, jest on pozbawiony czegokolwiek przydatnego."
+
+msgid "The curtains should stay closed."
+msgstr "Zasłony powinny pozostać zasłonięte."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Czy mam teraz poprzestawiać ławki w tej klasie?"
+
+msgid "Not yet"
+msgstr "Jeszcze nie"
+
+msgid "Let's do this."
+msgstr "Do dzieła!"

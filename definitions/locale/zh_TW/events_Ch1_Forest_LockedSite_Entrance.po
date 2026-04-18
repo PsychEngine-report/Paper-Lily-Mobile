@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no reason to do that."
+msgstr "沒有必要這麼做。"
+
+msgid "(Why damage the fence when I can just cut the chain that locks the gate...?)"
+msgstr "(可以剪斷鎖住大門的鍊子的話何必破壞柵欄呢...？)"
+
+msgid "It's a little too late for that."
+msgstr "要這麼做有點太遲了。"
+
+msgid "I don't have all 3 keys yet..."
+msgstr "我還沒有全部 3 把鑰匙..."
+
+msgid "A gate locked with 3 padlocks."
+msgstr "用 3 個掛鎖鎖住的大門。"
+
+msgid "The warning sign reads:"
+msgstr "警告牌上寫著："
+
+msgid "\"NO TRESPASSING. RISK OF SERIOUS INJURY OR DEATH\"."
+msgstr "\"不得入侵。有嚴重受傷或是死亡的風險\"。"
+
+msgid "A fence blocks your path."
+msgstr "柵欄擋住了你的去路。"
+
+msgid "I could've probably climbed over it... if not for those spikes."
+msgstr "我應該可以爬過它...如果沒有尖刺的話。"
+
+msgid "A lamppost."
+msgstr "燈柱。"
+
+msgid "I'm not confident in my ability to climb this and jump to the other side."
+msgstr "我對爬上並跳到另一側沒有信心。"
+
+msgid "The note reads:"
+msgstr "紙條寫著："
+
+msgid "\"Due to the recent primal incident, we ask residents stupid enough to go inside to close the gate behind you.\""
+msgstr "\"由於最近的原始惡魔事件，我們請求蠢到要進入的居民把大門關上。\""
+
+msgid "As expected, the back of the note is blank."
+msgstr "不出所料，紙條的背後是空白的。"
+
+msgid "A statue that looks out of place."
+msgstr "看起來格格不入的雕像。"
+
+msgid "A torn piece of paper seems to be stuck underneath. Take it?"
+msgstr "看來有一張撕開的紙卡在下面。拿走嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "This path looks really dark and dangerous..."
+msgstr "這條路看起來又黑又危險..."
+
+msgid "I went through the trouble of opening that gate but..."
+msgstr "我費了好大的勁才把大門打開了，但是..."
+
+msgid "I don't think there's a reason to go in there."
+msgstr "我覺得沒有理由進去。"
+
+msgid "I don't have any other sources of light..."
+msgstr "我沒有任何其他光源..."
+
+msgid "Should I just use my phone's flashlight? It may be too bright..."
+msgstr "我應該用我手機的手電筒嗎？可能會太亮..."
+
+msgid "I might not be able to come back after I go through here..."
+msgstr "穿過這裡後我可能沒辦法再回來..."
+
+msgid "Continue down this path?"
+msgstr "繼續走下去嗎？"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "我不認為往這個方向走可以幫助柯茲莫..."
+
+msgid "Go in anyway?"
+msgstr "還是要進去嗎？"

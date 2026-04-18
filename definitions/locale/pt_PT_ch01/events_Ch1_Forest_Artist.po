@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "These flowers seem to belong here... but..."
+msgstr "Estas flores parecem ser daqui... mas..."
+
+msgid "It would serve no purpose to plant them."
+msgstr "Não serve de nada plantá-las."
+
+msgid "That would be terrible."
+msgstr "Isso seria terrível."
+
+msgid "A large pile of rubble."
+msgstr "Um grande monte de escombros."
+
+msgid "What is this material? Clay?"
+msgstr "Que material é este? Argila?"
+
+msgid "There's nothing else of interest."
+msgstr "Não há mais nada de interessante."
+
+msgid "Seems like someone has dug here recently."
+msgstr "Parece que alguém cavou por aqui recentemente."
+
+msgid "Check it out?"
+msgstr "Verificar?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "A set of colorful flowers."
+msgstr "Várias flores coloridas."
+
+msgid "A cactus among a set of colorful flowers."
+msgstr "Um cato entre várias flores coloridas."
+
+msgid "There seems to be something hidden inside the pot."
+msgstr "Parece que há algo escondido dentro do vaso."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Levar a ${item:ch1.forest_lockedsite_key}?"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Não precisas dessa chave, então deitaste-a fora.)"
+
+msgid "There's also a note under the pot."
+msgstr "Há também uma nota debaixo do vaso."
+
+msgid "An artistic pot."
+msgstr "Um vaso artístico."
+
+msgid "This could work for Kozmo."
+msgstr "Isto pode servir para Kozmo."
+
+msgid "Take ${item:ch1.forest_pot}?"
+msgstr "Levar ${item:ch1.forest_pot}?"
+
+msgid "A strange looking... vase? In the shape of a... hand?"
+msgstr "Um vaso... estranho? Com a forma de uma... mão?"
+
+msgid "A pile of rubble."
+msgstr "Um monte de escombros."

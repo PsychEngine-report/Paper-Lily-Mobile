@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Didn't catch your name earlier."
+msgstr "Не запомних името ви по-рано."
+
+msgid "..."
+msgstr "…"
+
+msgid "Yeah... I see."
+msgstr "О да… Разбирам."
+
+msgid "What's up?"
+msgstr "Какво има?"
+
+msgid "What... what was that thing?"
+msgstr "Какво… бе онова нещо?"
+
+msgid "Huh, you can talk."
+msgstr "Хъ, ти говориш."
+
+msgid "I dunno. They call it a primal demon."
+msgstr "Не знам. Наричат го примитивен демон."
+
+msgid "Primal?"
+msgstr "Примитивен?"
+
+msgid "Well, if you consider all these lively fellows you encountered \"demons\"..."
+msgstr "Е, ако смятате всички тези живи събратя, с които сте се сблъскали, за \"демони\"…"
+
+msgid "...then that would make those shadowy ones \"primal demons\"."
+msgstr "… тогава това би означавало, че тези сенчести същества са \"първични демони\"."
+
+msgid "(Hm...)"
+msgstr "(Хм…?)"
+
+msgid "What else do you know?"
+msgstr "Какво друго знаеш?"
+
+msgid "I know lots of stuff."
+msgstr "Знам доста неща."
+
+msgid "About primal demons?"
+msgstr "За примитивните демони?"
+
+msgid "Ahh, about that..."
+msgstr "Аай, за това…"
+
+msgid "Not much."
+msgstr "Не особено."
+
+msgid "I know they'll kill whatever crosses their path."
+msgstr "Знам че ще убият всичко което прекоси пътя им."
+
+msgid "Contrary to other demons, which will mostly only kill you if you're human."
+msgstr "В противоречие с останалите демони, които вероятно ще те убият, само ако разберат че си човек."
+
+msgid "Hm..."
+msgstr "Хм…"
+
+msgid "Let's wait here a bit longer."
+msgstr "Да почакаме малко тук."
+
+msgid "It might be gone."
+msgstr "Може да си е отишло."
+
+msgid "It's up to you when you wanna go back out."
+msgstr "От вас зависи кога ще се върнете навън."
+
+msgid "Are you going outside?"
+msgstr "Ти навън ли отиваш?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "I guess the coast is clear."
+msgstr "Предполагам, че брегът е чист."
+
+msgid "(Will I find any clues in a place like this...?)"
+msgstr "(Ще открия ли някакви следи на място като това…?)"
+
+msgid "(Maybe I should focus on getting out of here.)"
+msgstr "(Може би трябва да се фокусирам как точно да се измъкна от тук.)"
+
+msgid "(Alright.)"
+msgstr "(Хубаво.)"
+
+msgid "You still use a flip phone?!"
+msgstr "Все още използваш телефон с капаче?!"
+
+msgid "Why??"
+msgstr "Защо??"
+
+msgid "(It's just fun to flip it open...)"
+msgstr "(Просто е забавно да го отваряш…)"
+
+msgid "Cool, you've got one of those doorknobs."
+msgstr "Яко, имаш една от тези дръжки за врати."
+
+msgid "It's pretty fun to see where they take you."
+msgstr "Доста е забавно да видиш къде ще те отведат."
+
+msgid "Ooh, it's one of those cool rocks."
+msgstr "Ооо, това е една от онези готини скали."
+
+msgid "Did you know they glow in the dark?"
+msgstr "Знаеш ли че светят в тъмното?"
+
+msgid "Really?"
+msgstr "Наистина?"
+
+msgid "No."
+msgstr "Не."
+
+msgid "But you totally fell for that!"
+msgstr "Но ти напълно се хвана на това!"
+
+msgid "A bloody bag. It smells putrid."
+msgstr "Кървава торба. Мирише на гнило."
+
+msgid "An operating table. It has faint blood stains."
+msgstr "Операционна маса. По него има слаби петна от кръв."
+
+msgid "An operating table."
+msgstr "Операционна маса."
+
+msgid "(What's with the strange shape of this bed...?)"
+msgstr "(Защо подобна странна форма на това легло…?)"
+
+msgid "Looks like human bones."
+msgstr "Прилича на човешки кости."
+
+msgid "A fallen book."
+msgstr "паднала книга."
+
+msgid "Read a passage?"
+msgstr "Прочетете пасаж?"
+
+msgid "\"The soul does not reside in a specific physical location."
+msgstr "\"Душата не пребивава на определена физическа локация."
+
+msgid "The torso must be dissected in its entirety in order for extraction to be successful.\""
+msgstr "Торсът трябва да бъде разчленен изцяло, за да може екстракцията да бъде успешна.\""
+
+msgid "A broken container. Whatever was inside is long gone."
+msgstr "Счупен контейнер. Каквото и да е имало вътре, отдавна го няма."
+
+msgid "A cage filled with bones."
+msgstr "Клетка пълна с кости."
+
+msgid "Medication bottles and small bones fill the countertop."
+msgstr "Бутилки с лекарства и малки костици запълват плота."
+
+msgid "There's something in the drawer."
+msgstr "В чекмеджето има нещо."
+
+msgid "There's nothing else of use."
+msgstr "Няма нищо друго, което да е от полза."
+
+msgid "There's a gate here, but it's locked."
+msgstr "Тук има порта, но тя е заключена."
+
+msgid "Strange goop surrounds the well. It looks like it could come alive."
+msgstr "Около извора има странна каша. Изглежда сякаш може да оживее."
+
+msgid "...Indeed, the expected outcome of a light switch."
+msgstr "…Именно, очакван резултат от ключ за осветление."
+
+msgid "The lights aren't working right now."
+msgstr "Светлините не работят в момента."
+
+msgid "Let's not do that."
+msgstr "По-добре да не правим това."
+
+msgid "A closet for medical supplies."
+msgstr "Килер за медицински принадлежности."
+
+msgid "It's empty, save for some dirty rags."
+msgstr "Празно е, с изключение на няколко мръсни парцала."
+
+msgid "(It smells...really bad.)"
+msgstr "(Мирише… наистина гадно.)"
+
+msgid "An incubator of some sort. It's warm to the touch."
+msgstr "Някакъв вид инкубатор. На допир е топъл."
+
+msgid "An incubator of some sort. It's broken and nothing's left inside."
+msgstr "Някакъв вид инкубатор. Счупен е и вътре нищо не е останало."
+
+msgid "A well."
+msgstr "Извор."
+
+msgid "There's probably nothing else of use in there."
+msgstr "Вероятно няма друго полезно тук."
+
+msgid "Rotate the lever?"
+msgstr "Завъртете ръчката?"
+
+msgid "A whiteboard that has been mostly erased. Only a few sticky notes with strange symbols remain."
+msgstr "Бяла дъска, която в по-голямата си част е изтрита. Останали са само няколко лепящи се листчета със странни символи."
+
+msgid "Don't go out, it's still there."
+msgstr "Не излизай навън, то все още е там."

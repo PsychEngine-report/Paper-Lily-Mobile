@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You discarded the extra eye.)"
+msgstr "(余った目を捨てた。)"
+
+msgid "Enter the painting?"
+msgstr "絵に入る？"
+
+msgid "Yes"
+msgstr "入る"
+
+msgid "No"
+msgstr "入らない"
+
+msgid "A large painting. It seems to be missing both eyes."
+msgstr "大きな絵。両目が欠けているようだ。"
+
+msgid "A spooky painting. It seems to be missing an eye."
+msgstr "不気味な絵。片目が欠けているようだ。"
+
+msgid "One eye is plenty."
+msgstr "片方あれば十分だろ。"
+
+msgid "..."
+msgstr "……"

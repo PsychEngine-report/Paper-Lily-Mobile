@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's happening?"
+msgstr "Що відбувається?"
+
+msgid "What in the world happened here...?"
+msgstr "Що тут, в біса, сталося?.."
+
+msgid "It's too large to fit in there."
+msgstr "Вона сюди не поміститься."
+
+msgid "Some pieces of old wood."
+msgstr "Старі дерев'яні дошки."
+
+msgid "They're too old to be useful."
+msgstr "Настільки старі, що ними вже не скористуєшся."
+
+msgid "The floor in the shrine is unstable."
+msgstr "Підлога у храмі ненадійна."
+
+msgid "There's a note here. It says:"
+msgstr "Тут лежить записка. У ній написано:"
+
+msgid "\"The pipes get clogged sometimes."
+msgstr "\"Час від часу труби засмічуються."
+
+msgid "If that happens, just add:"
+msgstr "В такому разі додайте наступне:"
+
+msgid "-Some pink petals"
+msgstr "- Рожеві пелюстки"
+
+msgid "-Some purple petals"
+msgstr "- Фіолетові пелюстки"
+
+msgid "-Some white petals"
+msgstr "- Білі пелюстки"
+
+msgid "-A bit of black algae"
+msgstr "- Чорні водорості"
+
+msgid "-A bit of green algae"
+msgstr "- Зелені водорості"
+
+msgid "-A bit of blue algae"
+msgstr "- Сині водорості"
+
+msgid "And that's it. Make sure you get the colors right, the little keeper is delicate.\""
+msgstr "На цьому все. Не переплутайте кольори, бо малий доглядач досить тендітний.\""
+
+msgid "A shrine of some sorts."
+msgstr "Якийсь вівтар."
+
+msgid "There's a bowl with a goldfish in it."
+msgstr "В акваріумі плаває золота рибка."
+
+msgid "Take the fish?"
+msgstr "Дістати її?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "A window with a view of the water."
+msgstr "Вікно з видом на воду."

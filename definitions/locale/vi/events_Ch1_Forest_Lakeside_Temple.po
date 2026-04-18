@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's happening?"
+msgstr "Cái gì xảy ra thế?"
+
+msgid "What in the world happened here...?"
+msgstr "Cái quái gì xảy ra ở đây rồi...?"
+
+msgid "It's too large to fit in there."
+msgstr "Nó lớn quá không bỏ vừa vào đây được."
+
+msgid "Some pieces of old wood."
+msgstr "Vài miếng gỗ cũ."
+
+msgid "They're too old to be useful."
+msgstr "Mớ này cũ quá rồi được việc gì đâu."
+
+msgid "The floor in the shrine is unstable."
+msgstr "Sàn bên trong cái đền không ổn định."
+
+msgid "There's a note here. It says:"
+msgstr "Ở đây có tờ ghi. Viết là:"
+
+msgid "\"The pipes get clogged sometimes."
+msgstr "\"Thỉnh thoảng ống nước bị tắc."
+
+msgid "If that happens, just add:"
+msgstr "Nếu là thế, chỉ cần bỏ vào:"
+
+msgid "-Some pink petals"
+msgstr "- Vài cánh hoa màu hồng"
+
+msgid "-Some purple petals"
+msgstr "- Vài cánh hoa màu tía"
+
+msgid "-Some white petals"
+msgstr "- Vài cánh hoa màu trắng"
+
+msgid "-A bit of black algae"
+msgstr "- Chút tảo đen"
+
+msgid "-A bit of green algae"
+msgstr "- Chút tảo lục"
+
+msgid "-A bit of blue algae"
+msgstr "- Chút tảo lam"
+
+msgid "And that's it. Make sure you get the colors right, the little keeper is delicate.\""
+msgstr "Và thế thôi. Bảo đảm màu sắc cho đúng nhé, cái vị canh giữ bé nhỏ này mỏng manh yếu đuối lắm.\""
+
+msgid "A shrine of some sorts."
+msgstr "Cái tế đàn gì đó."
+
+msgid "There's a bowl with a goldfish in it."
+msgstr "Có cái chậu có con cá vàng ở trong."
+
+msgid "Take the fish?"
+msgstr "Bắt con cá chứ?"
+
+msgid "Yes"
+msgstr "Bắt"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "A window with a view of the water."
+msgstr "Cái cửa sổ ngắm ra nước."

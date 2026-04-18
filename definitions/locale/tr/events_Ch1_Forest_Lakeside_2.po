@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "${item:ch1.bucket_full} boşalt?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "${item:ch1.bucket_full_holy} boşalt?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "The faucet isn't working."
+msgstr "Musluk çalışmıyor."
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "${item:ch1.bucket} doldur?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's a boat paddle here."
+msgstr "Burada bir tekne küreği var."
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "${item:ch1.forest_paddles} alacak mısın？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "I don't think this is where I'm supposed to put them..."
+msgstr "Onları buraya koymam gerektiğini sanmıyorum…"
+
+msgid "The note said something about a \"little keeper\"...?"
+msgstr "Notta \"küçük bir bekçi\" hakkında bir şeyler mi yazıyordu...?"
+
+msgid "There's a faucet coming out of the water."
+msgstr "Sudan çıkan bir musluk var."
+
+msgid "Turn it on?"
+msgstr "Aç?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Turn it on?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Turn it on?"
+msgid "No"
+msgstr "Hayır."
+
+msgid "Nothing is coming out of the faucet."
+msgstr "Musluktan hiçbir şey gelmiyor."
+
+msgid "The water flows freely from the faucet."
+msgstr "su musluktan özgürce akıyor."
+
+msgid "Something's floating near the stream..."
+msgstr "Derenin yakınında bir şey yüzüyor..."
+
+msgid "Take ${item:ch1.doorknob_library_fragment}?"
+msgstr "${item:ch1.doorknob_library_fragment} alacak mısın?"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Take ${item:ch1.doorknob_library_fragment}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Take ${item:ch1.doorknob_library_fragment}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Pink water lilies can be seen."
+msgstr "Pembe nilüferler görülebiliyor."
+
+msgid "Take some ${item:ch1.lakeside_petals_pink}?"
+msgstr "${item:ch1.lakeside_petals_pink} Alacak mısın？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_pink}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_pink}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A structure housing a lamp."
+msgstr "Bir lambanın bulunduğu yapı."
+
+msgid "The water is calm."
+msgstr "Su sakin."

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a paddle here."
+msgstr "Тут є весло."
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "Взяти предмет: ${item:ch1.forest_paddles}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "The pier ends here."
+msgstr "Це край пірса."
+
+msgid "Some purple flowers."
+msgstr "Фіалкові квіти."
+
+msgid "They're growing abundantly between these rocks."
+msgstr "Вони рясно ростуть між цими каміннями."
+
+msgid "Take some ${item:ch1.lakeside_petals_purple}?"
+msgstr "Зірвати: ${item:ch1.lakeside_petals_purple}?"
+
+msgid "A large structure looms over the lake in the distance."
+msgstr "Вдалечині над озером майорить величезна споруда."
+
+msgid "What is that place..?"
+msgstr "Що це за місце?.."
+
+msgid "..."
+msgstr "..."
+
+msgid "Hmm... I can't see the lighthouse from here."
+msgstr "Гм… Звідси мені не видно маяк."
+
+msgid "It might be beyond those trees."
+msgstr "Може, він за тими деревами?"
+
+msgid "Oh well."
+msgstr "Ну й ну."

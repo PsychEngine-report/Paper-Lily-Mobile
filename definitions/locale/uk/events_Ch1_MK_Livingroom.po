@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "Хіба ілюзія не має розвіятись?"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "А шкода, я вже вподобав це місце."
+
+msgid "..."
+msgstr "..."
+
+msgid "That's probably not good..."
+msgstr "Це не добре..."
+
+msgid "Did you see that? The painting opened its eyes!"
+msgstr "Що це було? Картини розплющили очі!"
+
+msgid "Um... did you burn the things in the right order?"
+msgstr "Ем... а ти спалила речі в правильному порядку?"
+
+msgid "I... think... so?"
+msgstr "Наче... так?.."
+
+msgid "Did I do something wrong...?"
+msgstr "Я десь схибила?.."
+
+msgid "Was the illusion supposed to LITERALLY break apart?"
+msgstr "Чи ілюзія що, має ось так буквально розвалитись?"
+
+msgid "I don't know...!"
+msgstr "Я не знаю!.."
+
+msgid "Maybe we should leave..."
+msgstr "Може, нам варто звалити..."
+
+msgid "Oh crap, the doors are gone!"
+msgstr "Хай йому грець, двері зникли!"
+
+msgid "What do I do...? I need to get out of here!"
+msgstr "Що мені робити?.. Треба забиратись звідси!"
+
+msgid "Hey, be careful."
+msgstr "Агов, обережно."
+
+msgid "....."
+msgstr "…"
+
+msgid "(My foot... it hurts...!)"
+msgstr "(Нога... як болить!..)"
+
+msgid "(Where are we...?)"
+msgstr "(Де це ми?..)"
+
+msgid "We need to find a way out..."
+msgstr "Треба знайти звідси вихід..."
+
+msgid "Yeahh.... WELL..."
+msgstr "Ха-ха… Ну-у..."
+
+msgid "About that..."
+msgstr "Як би сказати..."
+
+msgid "I..."
+msgstr "Я..."
+
+msgid "...might have landed on something hard."
+msgstr "...схоже, впав на щось тверде."
+
+msgid "Doesn't look great."
+msgstr "Почуття не найкращі."
+
+msgid "...W-what do we do...?"
+msgstr "...Щ-що нам робити?.."
+
+msgid "If you can still move, go on ahead."
+msgstr "Якщо можеш йти - іди."
+
+msgid "I need a moment."
+msgstr "Мені треба хвилинка."
+
+msgid "O-okay..."
+msgstr "Д-добре..."
+
+msgid "Uh... hey..."
+msgstr "Е... слухай...."
+
+msgid "You'll uh.... You'll come back, right?"
+msgstr "Ти ж цей... повернешся, так?"
+
+msgid "Yes."
+msgstr "Так."
+
+msgid "Thanks."
+msgstr "Дякую."
+
+msgid "(Where am I...?)"
+msgstr "(Де я?..)"
+
+msgid "I need to find a way out..."
+msgstr "Треба знайти звідси вихід..."
+
+msgid "This item is yet to be unsealed."
+msgstr "Сутність цього предмету ще треба розкрити."
+
+msgid "The fire needs to be lit first."
+msgstr "Спершу треба розпалити вогонь."
+
+msgid "Light the fireplace?"
+msgstr "Розпалити камін?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "I don't have all 5 items ready to burn yet..."
+msgstr "Мені поки що бракує усіх п'яти предметів..."
+
+msgid "If I light this on, I'll just lure that lady here for no reason."
+msgstr "Якщо я зараз запалю вогонь, то лише дарма заманю сюди ту панянку."
+
+msgid "(What should I burn first?)"
+msgstr "(Що мені спочатку спалити?)"
+
+msgid "The knife"
+msgstr "Ніж"
+
+msgid "The foot"
+msgstr "Ногу"
+
+msgid "The sketchbook"
+msgstr "Альбом"
+
+msgid "The mirror"
+msgstr "Дзеркало"
+
+msgid "The cold compress"
+msgstr "Ганчірку"
+
+msgid "(What should I burn next?)"
+msgstr "(Що тепер спалити?)"
+
+msgid "And finally... the knife."
+msgstr "І нарешті... ніж."
+
+msgid "And finally... the foot."
+msgstr "І нарешті... нога."
+
+msgid "And finally... the sketchbook."
+msgstr "І нарешті... альбом."
+
+msgid "And finally... the mirror."
+msgstr "І нарешті... дзеркало."
+
+msgid "And finally... the cold compress."
+msgstr "І нарешті... ганчірка."
+
+msgid "Take ${item:ch1.lockpick}?"
+msgstr "Взяти предмет: ${item:ch1.lockpick}?"
+
+msgid "You pour some liquid onto the rag..."
+msgstr "Ви вилили трохи рідини на ганчірку..."
+
+msgid "It's already wet enough."
+msgstr "Вона вже мокра."
+
+msgid "\"Alcohol tastes just like water.\""
+msgstr "\"Алкоголь смакує як вода.\""
+
+msgid "\"Thank you.\""
+msgstr "\"Дякую.\""
+
+msgid "(You watered the plant.)"
+msgstr "(Ви полили рослину.)"
+
+msgid "(You pour water into the empty pot...)"
+msgstr "(Ви налили воду в порожній горщик...)"
+
+msgid "(...but nothing happens.)"
+msgstr "(...але нічого не сталося.)"
+
+msgid "Various useless trinkets are displayed on these shelves."
+msgstr "На полицях лежать безглузді дрібнички."
+
+msgid "A teapot, full of some liquid. Seems to be water."
+msgstr "Чайник з якоюсь рідиною. Наче з водою."
+
+msgid "I could use this..."
+msgstr "Цим можна скористатись..."
+
+msgid "Bring water to the plant?"
+msgstr "Принести воду рослині?"
+
+msgid "A fireplace."
+msgstr "Камін."
+
+msgid "There's no fire, so it's just... a place."
+msgstr "Якщо камін не горить, то це просто... камінь."
+
+msgid "Haha, good one!"
+msgstr "Ха, непогано!"
+
+msgid "A place."
+msgstr "Камінь."
+
+msgid "An old gramophone."
+msgstr "Старий грамофон."
+
+msgid "What to do?"
+msgstr "Що зробити?"
+
+msgid "Play music"
+msgstr "Увімкнути музику"
+
+msgid "Stop the music"
+msgstr "Вимкнути музику"
+
+msgid "Do nothing"
+msgstr "Нічого не робити"
+
+msgid "A floor lamp."
+msgstr "Лампа."
+
+msgid "A rotary phone."
+msgstr "Обертовий телефон."
+
+msgid "It's old... but there's a certain charm to it."
+msgstr "Він старий... але в ньому є свій шарм."
+
+msgid "There's no dial tone."
+msgstr "Гудків немає."
+
+msgid "A tall plant."
+msgstr "Висока рослина."
+
+msgid "A tall, pretty plant."
+msgstr "Гарненька висока рослина."
+
+msgid "An empty flower vase."
+msgstr "Порожня ваза для рослин."
+
+msgid "Purple flowers in a vase."
+msgstr "Фіолетові квіточки у вазі."
+
+msgid "I could use these flowers..."
+msgstr "Я можу ними скористатись..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Віднести квіти рослині?"
+
+msgid "It's dead."
+msgstr "Воно мертве."
+
+msgid "A plant with a tag attached. It says:"
+msgstr "Рослина з прикріпленою плашкою. На ній написано:"
+
+msgid "\"It was good while it lasted.\""
+msgstr "\"Пощастило ж мені послухати музику.\""
+
+msgid "\"Requires medium light."
+msgstr "\"Потребує середнього освітлення."
+
+msgid "For enrichment, provide music.\""
+msgstr "Для удобрення увімкніть музику.\""
+
+msgid "\"Requires dim light."
+msgstr "\"Потребує тьмяного освітлення."
+
+msgid "Feed it once a day to avoid irritability. Appropriate diet includes meat of various kinds.\""
+msgstr "Годуйте раз на день для запобігання дратівливості. Правильний раціон - м'ясо різних видів.\""
+
+msgid "\"Requires medium light. Provide alcohol twice daily to keep its leaves moist."
+msgstr "\"Потребує середнього освітлення. Поливайте алкоголем двічі на день, аби листя залишалось вологим."
+
+msgid "Water is a valid substitute, as it can't tell the difference.\""
+msgstr "Можна використати й воду, оскільки рослина не відчує різницю.\""
+
+msgid "The pot has been destroyed."
+msgstr "Горщик зруйнований."
+
+msgid "An empty pot."
+msgstr "Порожній горщик."
+
+msgid "For enrichment, give it a flower crown once a month.\""
+msgstr "Для удобрення раз на місяць давайте квітковий вінок.\""
+
+msgid "A warning sign."
+msgstr "Знак з попередженням."
+
+msgid "It doesn't say what the warning is for."
+msgstr "Про що саме попереджують - не сказано."

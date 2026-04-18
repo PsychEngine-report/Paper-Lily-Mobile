@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "Đổ hết ${item:ch1.bucket_full} đi chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "Yes"
+msgstr "Đổ đi"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "Đổ hết ${item:ch1.bucket_full_holy} đi chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "Yes"
+msgstr "Đổ đi"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "Đổ đầy ${item:ch1.bucket} chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "Đổ đầy"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "What to do?"
+msgstr "Làm gì đây?"
+
+msgid "Kill it here"
+msgstr "Giết nó ở đây"
+
+msgid "Release it around this area"
+msgstr "Thả nó ra quanh quẩn khu này"
+
+msgid "Do nothing"
+msgstr "Không làm gì"
+
+msgid "The crow shows no interest in it."
+msgstr "Con quạ không tỏ ra có hứng thú gì với nó."
+
+msgid "Nobody seems to want you, little one."
+msgstr "Không có ai có vẻ muốn em rồi, bé con ạ."
+
+msgid "It refuses to leave the terrarium."
+msgstr "Nó từ chối ra khỏi cái bể địa sinh."
+
+msgid "He must not like lavender very much..."
+msgstr "Thằng bé hẳn là không thích hoa oải hương nhiều lắm..."
+
+msgid "(Looks like it couldn't swim after all.)"
+msgstr "(Thấy rốt cuộc nó không hề biết bơi rồi.)"
+
+msgid "(You can't place an incomplete doorknob...)"
+msgstr "(Bạn không đặt cái núm cửa chưa hoàn chỉnh vào được...)"
+
+msgid "Lavender flowers are growing all over this place."
+msgstr "Chỗ này chỗ kia mọc đầy hoa oải hương."
+
+msgid "Pretty..."
+msgstr "Đẹp ghê..."
+
+msgid "Take ${item:ch1.forest_lavender}?"
+msgstr "Hái ${item:ch1.forest_lavender} chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "Yes"
+msgstr "Hái"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A crow standing on a log."
+msgstr "Trên khúc gỗ có con quạ đang đậu."
+
+msgid "It's completely unfazed by the rain..."
+msgstr "Dưới mưa mà nó không hề hấn gì hết..."
+
+msgid "A wooden log."
+msgstr "Khúc gỗ."
+
+msgid "I came from this direction. There's no reason to go back now."
+msgstr "Mình đến từ phía chiều này. Giờ không có lý do gì mà quay lại."
+
+msgid "You can't see the other side of the lake from here."
+msgstr "Từ chỗ này bạn không thấy phía đằng kia của cái hồ được."
+
+msgid "A small pond."
+msgstr "Cái ao nhỏ."
+
+msgid "The caterpillar has moved on. You should too."
+msgstr "Chú sâu đã đi bước tiếp rồi. Bạn cũng nên đi tiếp thôi."
+
+msgid "A door with two doorknobs."
+msgstr "Cánh cửa có hai cái núm cửa."
+
+msgid "Take a closer look?"
+msgstr "Nhìn kĩ hơn chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Nhìn kĩ hơn"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_facility.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Mình đã đặt núm cửa trở về rồi. Không nên đi đâu khác nữa."
+
+msgid "A stairway?"
+msgstr "Cầu thang à?"
+
+msgid "It's so dark... I can't see anything..."
+msgstr "Tối quá... Không thấy gì hết..."
+
+msgid "Agh... my head..."
+msgstr "Aa... đầu mình..."
+
+msgid "What's going on...?"
+msgstr "Thế này là sao đây...?"
+
+msgid "This doorknob won't even turn."
+msgstr "Cái núm cửa này vặn còn không được."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_grave.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Mình đã đặt núm cửa trở về rồi. Không nên đi đâu khác nữa."
+
+msgid "Hmm..."
+msgstr "Hừm..."
+
+msgid "A strange door with two doorknobs... and empty slots to place more."
+msgstr "Cánh cửa kì lạ có hai cái núm cửa... và mấy cái lỗ trống để lắp nhiều nữa."
+
+msgid "Amazing... my ${item:ch1.doorknob_return} fits right in. It wasn't a scam after all..."
+msgstr "Kinh thật... cái ${item:ch1.doorknob_return} của mình khít vừa này. Vậy ra rốt cuộc không phải là lừa đảo..."
+
+msgid "Still... I'm not ready to go home yet, but I'm glad to have found this door."
+msgstr "Có điều... mình chưa sẵn sàng về nhà, nhưng mà tìm được cái cửa này là mừng rồi."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_library.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Mình đã đặt núm cửa trở về rồi. Không nên đi đâu khác nữa."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_moths.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Mình đã đặt núm cửa trở về rồi. Không nên đi đâu khác nữa."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_shop.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Mình đã đặt núm cửa trở về rồi. Không nên đi đâu khác nữa."
+
+msgid "An empty slot."
+msgstr "Cái lỗ trống."
+
+msgid "Place a doorknob?"
+msgstr "Lắp núm cửa nào vào?"
+
+msgid "Gray Doorknob"
+msgstr "Núm cửa Màu xám"
+
+msgid "Doorknob With Eye"
+msgstr "Núm cửa Có Mắt"
+
+msgid "White Doorknob"
+msgstr "Núm cửa Màu trắng"
+
+msgid "Doorknob With Flower"
+msgstr "Núm cửa Có Hoa"
+
+msgid "Return Doorknob"
+msgstr "Núm cửa Trở về"
+
+msgid "Do not"
+msgstr "Không lắp gì"
+
+msgid "Is it really time to go home...?"
+msgstr "Thật sự đến lúc về nhà rồi...?"
+
+msgid "Are you sure that you want to place this doorknob?"
+msgstr "Bạn có chắc là muốn lắp cái núm cửa này vào không?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "Yes"
+msgstr "Chắc"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "No"
+msgstr "Thôi"

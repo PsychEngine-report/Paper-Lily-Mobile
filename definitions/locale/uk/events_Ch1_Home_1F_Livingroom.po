@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "Тут лежить пара білих кросівок з червоними шнурками."
+
+msgid "The shoelaces could be useful."
+msgstr "Шнурки можуть знадобитися."
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "Взяти предмет: ${item:ch1.shoelaces}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "It's already done."
+msgstr "Все вже зроблено."
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Ви посипали сіль на двері.)"
+
+msgid "Something is written here:"
+msgstr "Тут щось написано:"
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "\"Коли ти востаннє тут їла? Ти вже забула?\""
+
+msgid "A bookshelf with random decorative books."
+msgstr "Книжкова полиця зі всілякими декоративними книгами."
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "А ще тут лежить офісне приладдя."
+
+msgid "Red marker. Perfect."
+msgstr "Червоний маркер. Чудово."
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "Взяти предмет: ${item:ch1.marker}?"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "Великий диван. Хіро часто тут засинає."
+
+msgid "A small couch that used to be your favorite."
+msgstr "Крісло, яке колись було вашим улюбленим."
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "На шафі стоїть коробка та рослина."
+
+msgid "A large cupboard that could fit a person."
+msgstr "Велика шафа, в яку можна помістити цілу людину."
+
+msgid "Some decorative plates."
+msgstr "Декоративні тарілки."
+
+msgid "A painting of a sleeping cat."
+msgstr "Картина зі сплячим котиком."
+
+msgid "A painting of..."
+msgstr "Картина зі..."
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "Га? Хіба цей котик не дрімав?.."
+
+msgid "A painting of a cat stares you down."
+msgstr "Картина з котом, що прикував на вас свій погляд."
+
+msgid "Some bills."
+msgstr "Якісь платіжки."
+
+msgid "Some pictures of places around the world."
+msgstr "Фотографії місць зі всього світу."
+
+msgid "Mother and father go on trips a lot..."
+msgstr "Мама з татом часто подорожують..."
+
+msgid "I don't even know where they are right now."
+msgstr "Я навіть гадки не маю, де вони зараз."
+
+msgid "A tall plant."
+msgstr "Висока рослина."
+
+msgid "A pretty plant."
+msgstr "Гарна рослина."
+
+msgid "A pink plant."
+msgstr "Рожева рослина."
+
+msgid "The TV remote."
+msgstr "Пульт від телевізора."
+
+msgid "Turn the TV on?"
+msgstr "Увімкнути телек?"
+
+msgid "Turn the TV off?"
+msgstr "Вимкнути телек?"
+
+msgid "A shelf containing mainly glassware."
+msgstr "Шафа зі скляним посудом."
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "Якщо впаде на когось, буде не до сміху."
+
+msgid "Some books on gardening."
+msgstr "Книжки про садівництво."
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "Поличка зі взуттям різних кольорів."
+
+msgid "Slippers to change into."
+msgstr "Капці, в які треба перевзуватись."
+
+msgid "The footprints come from under the table..."
+msgstr "З-під столу виходять сліди..."
+
+msgid "But there's nothing there."
+msgstr "Та під ним нікого немає."
+
+msgid "The family dining table."
+msgstr "Обідній стіл для всієї сім'ї."
+
+msgid "We don't eat here as much anymore."
+msgstr "Ми вже не дуже часто тут їмо."
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "Журнальний столик. Іноді рослини заважають перегляду телека."
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "Сліди, що виходять на вулицю. Вони не схожі на сліди від нормальних ніг..."
+
+msgid "A TV."
+msgstr "Телевізор."
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "Це передача про автомобілі... або трейлер нової гри?"
+
+msgid "Just animal videos, I guess."
+msgstr "Схоже на прості відео с тваринами."
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "\"Дайте людям хліба, видовищ та кошенят, та вони ніколи не повстануть.\""
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "Тут крутять аніме про дівчат-чарівниць, яке я нещодавно почала дивитись."
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "Народ каже, що там почнеться щось моторошне... але я нічого такого не бачила."
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "Це насторожує... краще це вимкнути."
+
+msgid "..."
+msgstr "..."
+
+msgid "An umbrella basket."
+msgstr "Кошик із парасольками."
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "Кошик із парасольками. Його іноді можна випадково зачепити ногою."
+
+msgid "I've been outside enough for now."
+msgstr "Мені досить вулиці на сьогодні."
+
+msgid "This is the laundry room."
+msgstr "Це пральна кімната."
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "Ніколи не розуміла, навіщо зачиняти вдома двері."
+
+msgid "Maybe Hiro has the key..."
+msgstr "Можливо, Хіро має ключ..."
+
+msgid "...but I don't need anything from there."
+msgstr "...проте мені звідти нічого не треба."
+
+msgid "The laundry room. It's locked."
+msgstr "Пральна кімната. Вона зачинена."

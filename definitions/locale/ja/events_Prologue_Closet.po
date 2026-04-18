@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "もう鍵は開いている。"
+
+msgid "The box contains various empty notebooks, textbooks and... chalk."
+msgstr "箱には様々な未使用のノートや教科書と……チョークが入っている。"
+
+msgid "Take chalk?"
+msgstr "チョークを取る？"
+
+msgctxt "events.Prologue_Closet.event_check_boxes2.choice.Take chalk?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Closet.event_check_boxes2.choice.Take chalk?"
+msgid "No"
+msgstr "取らない"
+
+msgctxt "events.Prologue_Closet.event_check_boxes2.dlg.narrator"
+msgid "There's nothing else of interest."
+msgstr "他に興味を惹くものはない。"
+
+msgid "There's some dusty documents that catch your eye."
+msgstr "ほこりを被った書類が目にとまった。"
+
+msgid "Read them?"
+msgstr "読む？"
+
+msgctxt "events.Prologue_Closet.event_read_letter.choice.Read them?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Prologue_Closet.event_read_letter.choice.Read them?"
+msgid "No"
+msgstr "読まない"
+
+msgid "..."
+msgstr "……"
+
+msgid "It's a... lawsuit?"
+msgstr "これは……訴訟の記録？"
+
+msgid "What's that doing in a place like this?"
+msgstr "何でそんなものがここに？"
+
+msgid "I heard about that from my dad."
+msgstr "パパから聞いたことある。"
+
+msgid "Supposedly someone sued the school because of their daughter's disappearance."
+msgstr "自分の娘の失踪のことで、誰かが学校を訴えたらしいって。"
+
+msgid "Oh, the 2nd year girl?"
+msgstr "ああ、あの2年の子？"
+
+msgid "I heard something happened, but I didn't know the school was involved."
+msgstr "何かあったとは聞いたけど、学校が関わってたとは初耳ね。"
+
+msgid "I don't know either."
+msgstr "私もよくは知らない。"
+
+msgid "But she was last seen at school, so her family was convinced that something happened here and it was covered up."
+msgstr "でも最後に目撃されたのが学校だから、家族の人は学校で何かあって、揉み消されたんだと信じてたみたい。"
+
+msgid "There's definitely an odd history of disappearances in this town."
+msgstr "この町で奇妙な失踪が続いてるのは間違いないわ。"
+
+msgid "When I graduate, I'm out of here."
+msgstr "私、卒業したら街を出るわ。"
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "この鍵にはヘアピンは合わない。"
+
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgid "The boxes are already open."
+msgstr "この箱はもう開いている。"
+
+msgid "Boxes filled with rags and other cleaning supplies."
+msgstr "雑巾などの掃除用具が詰まった箱。"
+
+msgid "A sealed box."
+msgstr "封のされた箱。"
+
+msgid "Some boxes filled with random objects."
+msgstr "色々な物が詰まった箱。"
+
+msgid "This is the lost and found box!"
+msgstr "落とし物箱だわ！"
+
+msgid "Really?"
+msgstr "本当？"
+
+msgid "Look, I found my old shoe."
+msgstr "あ、失くした靴だ。"
+
+msgid "A shoe...?"
+msgstr "靴……？"
+
+msgid "I lost it years ago."
+msgstr "何年も前に失くしたの。"
+
+msgid "How do you lose one shoe?"
+msgstr "どうやったら片足だけ失くせるのよ？"
+
+msgid "It just disappeared."
+msgstr "ある日突然消えたの。"
+
+msgid "Oh! My lighter!"
+msgstr "あ！　私のライター！"
+
+msgid "Don't you already have a lighter?"
+msgstr "ライターはもう持ってなかった？"
+
+msgid "This is my old one."
+msgstr "こっちは古いやつ。"
+
+msgid "You lost a lighter in the school?"
+msgstr "学校でライターを失くしたわけ？"
+
+msgid "No, they confiscated it."
+msgstr "いえ、没収されたの。"
+
+msgid "Figures. Lighters can be dangerous."
+msgstr "なるほどね。ライターは危険だもの。"
+
+msgid "Only in the wrong hands."
+msgstr "危険なのは悪い人の手に渡った時だけよ。"
+
+msgid "And yours aren't?"
+msgstr "あなたはそうじゃないわけ？"
+
+msgid "You shouldn't bring lighters to school..."
+msgstr "学校にライター持ってきちゃダメだよ……"
+
+msgctxt "events.Prologue_Closet.misc_boxes3.dlg.narrator"
+msgid "There's nothing else of interest."
+msgstr "他に興味を惹くものはない。"
+
+msgid "Some used brooms."
+msgstr "使い込まれたほうきが数本。"
+
+msgid "A calendar and information sheet for the cleaning staff."
+msgstr "清掃員用のカレンダーと掲示。"
+
+msgid "A cleaning cart."
+msgstr "清掃カート。"
+
+msgid "It could use some cleaning."
+msgstr "カート自体の掃除が必要そうだ。"
+
+msgid "A dusty lamp. The light bulb is missing."
+msgstr "ほこりを被ったランプ。電球は付いていない。"
+
+msgid "Well that's ominous."
+msgstr "不吉ね。"
+
+msgid "A little darkness won't hurt anybody."
+msgstr "ちょっと暗いだけなら無害よ。"
+
+msgid "...Probably."
+msgstr "……たぶん。"
+
+msgid "It doesn't work."
+msgstr "点かない。"
+
+msgid "A large locker that could probably fit a person."
+msgstr "人が入れそうなほどの大きなロッカー。"
+
+msgid "It's locked."
+msgstr "鍵がかかっている。"
+
+msgid "Lots of cleaning supplies. It smells weird."
+msgstr "たくさんの掃除用具。変わった臭いがする。"
+
+msgid "Lots of school supplies."
+msgstr "たくさんの学校用品。"
+
+msgid "Books and paints line the shelves."
+msgstr "棚には本やペンキが並んでいる。"
+
+msgid "There's a small key on one of the shelves."
+msgstr "棚の上に小さい鍵がある。"
+
+msgid "Take it?"
+msgstr "取る？"
+
+msgctxt "events.Prologue_Closet.misc_shelf3.choice.Take it?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Closet.misc_shelf3.choice.Take it?"
+msgid "No"
+msgstr "取らない"
+
+msgid "A trash can, even in a place like this."
+msgstr "こんなところにもゴミ箱。"
+
+msgid "Why would there be a trash can in a supply closet?"
+msgstr "何で物置にゴミ箱があるわけ？"
+
+msgid "Maybe it's a spare?"
+msgstr "予備とか？"
+
+msgid "It's... so dark."
+msgstr "く……暗いわね。"
+
+msgid "Come on Ponytail, don't chicken out on me now."
+msgstr "あらあらポニテちゃん、今さら怖気づかないでよ。"
+
+msgid "Don't call me that."
+msgstr "その呼び方やめて。"
+
+msgid "You have a ponytail, don't you?"
+msgstr "でもあなた、ポニーテールでしょ？"
+
+msgid "I have a name too."
+msgstr "ちゃんとした名前もあるの。"

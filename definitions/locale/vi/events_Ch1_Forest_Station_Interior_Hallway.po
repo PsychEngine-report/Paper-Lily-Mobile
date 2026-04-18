@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's just a flipped version of the other one..."
+msgstr "Này chỉ là phiên bản lật ngược lại của bức kia..."
+
+msgid "It's not strong enough to cut through this. It must be reinforced somehow."
+msgstr "Kìm không đủ lực mạnh để mà cắt đứt cái này. Hẳn là được gia cố sao đấy."
+
+msgid "There's a pair of scissors here."
+msgstr "Ở đây có cái kéo."
+
+msgid "Take ${item:ch1.scissors}?"
+msgstr "Lấy ${item:ch1.scissors} chứ?"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.item_scissors_get.choice.Take ${item:ch1.scissors}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.item_scissors_get.choice.Take ${item:ch1.scissors}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "You have a bad feeling about this. Are you sure?"
+msgstr "Bạn có dự cảm không lành về chuyện này. Bạn chắc chứ?"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.item_scissors_get.choice.You have a bad feeling about this. Are you sure?"
+msgid "Yes"
+msgstr "Chắc"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.item_scissors_get.choice.You have a bad feeling about this. Are you sure?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "These scissors can't cut through metal."
+msgstr "Kéo này không thể cắt đứt kim loại được."
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.misc_painting_left.dlg.narrator"
+msgid "An abstract painting."
+msgstr "Bức tranh trừu tượng."
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.misc_painting_right.dlg.narrator"
+msgid "An abstract painting."
+msgstr "Bức tranh trừu tượng."
+
+msgid "An entrance to some sort of tunnel. It's locked and doesn't seem to have been opened in a while."
+msgstr "Cái lối vào dạng như đường hầm gì đó. Bị khóa và có vẻ đã lâu rồi không hề được mở ra."

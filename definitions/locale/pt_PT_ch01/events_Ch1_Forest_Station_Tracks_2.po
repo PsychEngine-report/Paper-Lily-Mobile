@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a sign lying on the floor. It says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "Há um sinal no chão. Diz [color=#8080FF]\"Portão da Luz do Dia\"[/color]."
+
+msgid "Pick up ${item:ch1.forest_station_sign}?"
+msgstr "Levar o ${item:ch1.forest_station_sign}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"

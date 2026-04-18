@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "Esvaziar o ${item:ch1.bucket_full}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "Esvaziar o ${item:ch1.bucket_full_holy}?"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "Encher o ${item:ch1.bucket}?"
+
+msgid "What to do?"
+msgstr "O que fazer?"
+
+msgid "Kill it here"
+msgstr "Matar agora"
+
+msgid "Release it around this area"
+msgstr "Soltar isso nessa área"
+
+msgid "Do nothing"
+msgstr "Não fazer nada"
+
+msgid "The crow shows no interest in it."
+msgstr "O corvo não mostra interesse nisso."
+
+msgid "Nobody seems to want you, little one."
+msgstr "Ninguém parece querer você, pequenina."
+
+msgid "It refuses to leave the terrarium."
+msgstr "Se recusa sair do terrário."
+
+msgid "He must not like lavender very much..."
+msgstr "Ele não deve gostar muito de lavanda."
+
+msgid "(Looks like it couldn't swim after all.)"
+msgstr "(Parece que isso não podia nadar.)"
+
+msgid "(You can't place an incomplete doorknob...)"
+msgstr "(Você não pode colocar uma maçaneta incompleta.)"
+
+msgid "Lavender flowers are growing all over this place."
+msgstr "Flores de lavanda estão crescendo por todo esse lugar."
+
+msgid "Pretty..."
+msgstr "Lindo..."
+
+msgid "Take ${item:ch1.forest_lavender}?"
+msgstr "Pegar a ${item:ch1.forest_lavender}?"
+
+msgid "A crow standing on a log."
+msgstr "Um corvo sobre um tronco."
+
+msgid "It's completely unfazed by the rain..."
+msgstr "Está completamente imperturbado pela chuva."
+
+msgid "A wooden log."
+msgstr "Um tronco de madeira."
+
+msgid "I came from this direction. There's no reason to go back now."
+msgstr "Eu vim dessa direção. Não tem motivo pra voltar."
+
+msgid "You can't see the other side of the lake from here."
+msgstr "Você não pode ver o outro lado do lago daí."
+
+msgid "A small pond."
+msgstr "Uma pequena poça."
+
+msgid "The caterpillar has moved on. You should too."
+msgstr "A lagarta se mexeu. Você deve ir também."
+
+msgid "A door with two doorknobs."
+msgstr "Uma porta com duas maçanetas."
+
+msgid "Take a closer look?"
+msgstr "Olhar mais de perto?"
+
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Eu coloquei minha maçaneta do retorno. Eu não devia ir a nenhum outro lugar."
+
+msgid "A stairway?"
+msgstr "Uma escadaria?"
+
+msgid "It's so dark... I can't see anything..."
+msgstr "Está tão escuro... Eu não consigo ver nada..."
+
+msgid "Agh... my head..."
+msgstr "Agh... minha cabeça..."
+
+msgid "What's going on...?"
+msgstr "O que tá acontecendo...?"
+
+msgid "This doorknob won't even turn."
+msgstr "Essa maçaneta nem ao menos gira."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "A strange door with two doorknobs... and empty slots to place more."
+msgstr "Uma porta estranha com duas maçanetas e um espaço vazio para colocar mais."
+
+msgid "Amazing... my ${item:ch1.doorknob_return} fits right in. It wasn't a scam after all..."
+msgstr "Incrível... minha ${item:ch1.doorknob_return} encaixa perfeitamente. Pelo visto não era um engano."
+
+msgid "Still... I'm not ready to go home yet, but I'm glad to have found this door."
+msgstr "Eu... ainda não estou pronta para ir para casa, mas estou feliz que achei essa porta."
+
+msgid "An empty slot."
+msgstr "Um espaço vazio."
+
+msgid "Place a doorknob?"
+msgstr "Colocar a maçaneta?"
+
+msgid "Gray Doorknob"
+msgstr "Maçaneta Cinza"
+
+msgid "Doorknob With Eye"
+msgstr "Maçaneta Com Olho"
+
+msgid "White Doorknob"
+msgstr "Maçaneta Branca"
+
+msgid "Doorknob With Flower"
+msgstr "Maçaneta Com Flor"
+
+msgid "Return Doorknob"
+msgstr "Retornar Maçaneta"
+
+msgid "Do not"
+msgstr "Não fazer"
+
+msgid "Is it really time to go home...?"
+msgstr "É mesmo hora de ir pra casa?"
+
+msgid "Are you sure that you want to place this doorknob?"
+msgstr "Você tem certeza que quer colocar essa maçaneta?"

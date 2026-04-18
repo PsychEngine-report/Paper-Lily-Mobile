@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a can of red paint here."
+msgstr "Jest tu puszka czerwonej farby."
+
+msgid "Take ${item:ch1.paint}?"
+msgstr "Wziąć ${item:ch1.paint}?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "It's already done."
+msgstr "To już zostało zrobione."
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Rozsypałaś sól przy wejściu.)"
+
+msgid "Some boxes containing holiday decorations."
+msgstr "W niektórych pudełkach znajdują się dekoracje świąteczne."
+
+msgid "Some boxes that may or may not be empty."
+msgstr "Kilka pudełek, które równie dobrze mogą być są puste."
+
+msgid "A large pile of boxes."
+msgstr "Duży stos pudeł."
+
+msgid "An empty bucket. Not a trash can."
+msgstr "Puste wiadro. Nie jest koszem na śmieci."
+
+msgid "An empty bucket."
+msgstr "Puste wiadro."
+
+msgid "A chair that's sometimes used to reach high places."
+msgstr "Krzesło, którego można użyć by sięgnąć po rzeczy z wysokich półek ."
+
+msgid "A large cupboard. There's quite a bit of space inside."
+msgstr "Duża szafa. W środku jest całkiem sporo miejsca."
+
+msgid "The garage door. It leads outside."
+msgstr "Brama garażowa. Prowadzi na zewnątrz."
+
+msgid "It opens with a remote control. My parents probably took it in the car with them."
+msgstr "Jest otwierana zdalnie. Moi rodzice pewnie zabrali pilot ze sobą w aucie."
+
+msgid "An old lamp. It's not plugged in."
+msgstr "Stara lampa. Nie jest podłączona do prądu."
+
+msgid "A shelf unit filled with various tools, paint, and old manuals."
+msgstr "Regał wypełniony różnymi narzędziami, farbami i starymi instrukcjami."
+
+msgid "There's nothing of use here."
+msgstr "Nie ma tu nic użytecznego."
+
+msgid "A shoe rack with no shoes."
+msgstr "Półka na buty, bez butów."
+
+msgid "A shoe rack."
+msgstr "Półka na buty."
+
+msgid "An empty trash can. Not a bucket."
+msgstr "Pusty kosz na śmieci. Nie jest wiadrem."
+
+msgid "An empty trash can."
+msgstr "Pusty kosz na śmieci."
+
+msgid "An umbrella basket."
+msgstr "Koszyk na parasole."
+
+msgid "There was a discount for buying two of them."
+msgstr "Była zniżka za zakup dwóch egzemplarzy."

@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Prologue: School"
+msgstr "Пролог: Школа"
+
+msgid "Prologue: Occult Club"
+msgstr "Пролог: Гурток окультизму"
+
+msgid "Prologue: Hallway of Doors"
+msgstr "Пролог: Коридор дверей"
+
+msgid "Prologue: Into the Door"
+msgstr "Пролог: За дверима"
+
+msgid "Paper Lily: Chapter 1"
+msgstr "Paper Lily: Розділ 1"
+
+msgid "Chapter 1: Home"
+msgstr "Розділ 1: Дім"
+
+msgid "Chapter 1: Home (Night)"
+msgstr "Розділ 1: Дім (Вночі)"
+
+msgid "Chapter 1: Bus Stop"
+msgstr "Розділ 1: Автобусна зупинка"
+
+msgid "Chapter 1: Forest"
+msgstr "Розділ 1: Ліс"
+
+msgid "Chapter 1: Red's Treehouse"
+msgstr "Розділ 1: Лісова хатинка Реда"
+
+msgid "Chapter 1: Lakeside"
+msgstr "Розділ 1: Озеро"
+
+msgid "Chapter 1: Lavender Area"
+msgstr "Розділ 1: Фіалковий куток"
+
+msgid "Chapter 1: Facility"
+msgstr "Розділ 1: Комплекс"
+
+msgid "Chapter 1: Miss Knives' Home"
+msgstr "Розділ 1: Дім пані Ніж"
+
+msgid "Paper Lily: Chapter 2"
+msgstr "Paper Lily: Розділ 2"

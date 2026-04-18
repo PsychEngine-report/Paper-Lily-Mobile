@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The train schedule is posted here. It seems the train is currently out of service."
+msgstr "Chỗ này yết thị lịch tàu chạy. Có vẻ hiện tại tàu đang dừng phục vụ."
+
+msgid "I don't quite understand these locations..."
+msgstr "Mình không hiểu lắm mấy địa điểm này..."
+
+msgid "...but it seems this train loops around a really large area."
+msgstr "...nhưng có vẻ là tàu này đi vòng tròn một khu vực rất là rộng lớn."
+
+msgid "A map of the train stops is posted here."
+msgstr "Yết thị ở đây là tấm bản đồ các điểm dừng tàu hỏa."
+
+msgid "The clock up there... makes no sense."
+msgstr "Cái đồng hồ ở trên đấy... trông chẳng ra cái giống gì."
+
+msgid "A sign warning passengers not to jump onto the train tracks."
+msgstr "Tấm biển cảnh báo hành khách không nhảy vào đường ray."
+
+msgid "Nah, that ship has already sailed."
+msgstr "Hông, thuyền đã đóng ván rồi thì cảnh với chả báo."
+
+msgid "Or should I say... that train has left the station?"
+msgstr "Mà ở đây thì nói là... \"tàu\" đã đóng ván thì hợp hơn chứ nhỉ?"
+
+msgid "A \"missing person\" sign. The photo frame is empty."
+msgstr "Tấm biển \"tìm người mất tích\". Khung ảnh chân dung trống trơn."
+
+msgid "The sign pointing towards the [color=#8080FF]Daylight Gate[/color] has been restored to its former glory."
+msgstr "Tấm biển chỉ về hướng [color=#8080FF]\"Cổng Bạch Nhật\"[/color] đã được hoàn lại vẻ huy hoàng như xưa."
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "Tấm biển đề là [color=#8080FF]\"Cổng Bạch Nhật\"[/color]."
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "Nó bị cố định tại chỗ, nên không thể xoay được."
+
+msgid "A wooden post."
+msgstr "Cái cột gỗ."
+
+msgid "Hm...? Wasn't there a sign here before...?"
+msgstr "Ủa...? Không phải ban nãy có cái tấm biển đây sao...?"
+
+msgid "A wooden post. The sign is missing."
+msgstr "Cái cột gỗ. Tấm biển thiếu mất rồi."
+
+msgid "A trash can. It's full of train tickets, pamphlets and such."
+msgstr "Cái thùng rác. Nó đầy nào là vé tàu, pamfơlê với linh ta linh tinh."
+
+msgid "Sadly, the tickets seem to be used."
+msgstr "Buồn là, vé có vẻ đều đã xài rồi."
+
+msgid "There's a coin, though."
+msgstr "Cơ mà có một đồng xu."
+
+msgid "A trash can."
+msgstr "Cái thùng rác."
+
+msgid "It seems to be filled with non-burnable trash."
+msgstr "Có vẻ chứa đầy rác không đốt được."
+
+msgid "None of it is useful to you."
+msgstr "Chẳng có thứ gì có ích với bạn."
+
+msgid "A coin-operated vending machine. It's filled with normal-looking snacks."
+msgstr "Chiếc máy bán hàng sử dụng tiền xu. Máy chứa đầy các gói snack trông bình thường."
+
+msgid "Buy something?"
+msgstr "Mua gì đó chứ?"
+
+msgid "Potato chips (1 coin)"
+msgstr "Bim bim khoai tây (1 đồng xu)"
+
+msgid "Do not buy"
+msgstr "Không mua"
+
+msgid "You don't have enough coins..."
+msgstr "Bạn không có đủ tiền xu..."
+
+msgid "This... looks like a regular pack of chips."
+msgstr "Cái này... trông như gói bim bim thông thường."
+
+msgid "Eat the ${item:ch1.forest_harmless_snack}?"
+msgstr "Ăn ${item:ch1.forest_harmless_snack} chứ?"
+
+msgctxt "events.Ch1_Forest_Station_Platform.misc_vendingmachine.choice.Eat the ${item:ch1.forest_harmless_snack}?"
+msgid "Yes"
+msgstr "Ăn"
+
+msgctxt "events.Ch1_Forest_Station_Platform.misc_vendingmachine.choice.Eat the ${item:ch1.forest_harmless_snack}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A large window. You can see an empty waiting room inside."
+msgstr "Cái cửa sổ lớn. Nhìn vào bên trong bạn thấy được căn phòng đợi trống trơn."
+
+msgid "A large window. You can't see anything through it."
+msgstr "Cái cửa sổ lớn. Nhìn qua nó bạn không thấy được gì cả."
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.dlg.narrator"
+msgid "There's no need to go back down."
+msgstr "Không cần đi xuống lại đâu."
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.dlg.narrator"
+msgid "It's not a good idea to go down there."
+msgstr "Bước xuống đó thì không có hay ho đâu."
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.choice"
+msgid "Descend onto the train tracks?"
+msgstr "Hạ bước xuống đường ray tàu chứ?"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.choice.Descend onto the train tracks?"
+msgid "Yes"
+msgstr "Xuống"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend.choice.Descend onto the train tracks?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.dlg.narrator"
+msgid "There's no need to go back down."
+msgstr "Không cần đi xuống lại đâu."
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.dlg.narrator"
+msgid "It's not a good idea to go down there."
+msgstr "Bước xuống đó thì không có hay ho đâu."
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.choice"
+msgid "Descend onto the train tracks?"
+msgstr "Hạ bước xuống đường ray tàu chứ?"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.choice.Descend onto the train tracks?"
+msgid "Yes"
+msgstr "Xuống"
+
+msgctxt "events.Ch1_Forest_Station_Platform.move_tracks_descend_2.choice.Descend onto the train tracks?"
+msgid "No"
+msgstr "Thôi"

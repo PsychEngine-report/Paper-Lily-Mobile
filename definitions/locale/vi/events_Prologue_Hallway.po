@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The keyhole has vanished, making it impossible to pick."
+msgstr "Cái lỗ khóa biến mất rồi, không thể cạy được."
+
+msgid "What... the hell? Are you guys seeing what I'm seeing?"
+msgstr "...Gì vậy trời? Tao không có bị nhìn nhầm đấy chứ?"
+
+msgid "Maybe it's a sign..."
+msgstr "Có khi là dấu hiệu gì đó..."
+
+msgctxt "events.Prologue_Hallway.event_closet_door_locked_forever.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "This leads downstairs and outside of the school."
+msgstr "Đường này dẫn xuống tầng dưới và ra ngoài trường."
+
+msgid "I should be able to find everything I need on this floor."
+msgstr "Những cái mình cần thì ở tầng này hẳn là tìm được hết thôi."
+
+msgid "No need to go downstairs."
+msgstr "Không cần đi xuống dưới đâu."
+
+msgctxt "events.Prologue_Hallway.event_exit.choice"
+msgid "Give up and go home?"
+msgstr "Bỏ cuộc và về nhà chứ?"
+
+msgid "Yes, this is scary"
+msgstr "Sợ lắm, đi về thôi"
+
+msgid "No, let's finish this"
+msgstr "Không về, làm cho xong nghi thức"
+
+msgid "What are you doing? Are we done already?"
+msgstr "Ủa sao thế? Hết rồi à?"
+
+msgid "Are we going home?"
+msgstr "Về nhà chứ?"
+
+msgid "Yeah, let's go"
+msgstr "Ừ, về thôi"
+
+msgid "No, we're not done"
+msgstr "Không, chưa xong đâu"
+
+msgid "Really? I guess I'll go get my stuff."
+msgstr "Thiệt trời? Thế thì tao phải vào lấy đồ vậy."
+
+msgid "I am a little creeped out but..."
+msgstr "Có hơi sợ một tí nhưng mà..."
+
+msgid "I'm going to finish what I started."
+msgstr "Việc đã bày ra thì mình sẽ làm cho xong."
+
+msgctxt "events.Prologue_Hallway.event_exit_2.choice"
+msgid "Give up and go home?"
+msgstr "Bỏ cuộc và về nhà chứ?"
+
+msgid "Yes, let's go home"
+msgstr "Ừ, về thôi"
+
+msgid "No, let's stay"
+msgstr "Không, chưa về"
+
+msgctxt "events.Prologue_Hallway.event_lockpick_closet_fail.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Prologue_Hallway.event_lockpick_closet_success.dlg.narrator"
+msgid "The door unlocked!"
+msgstr "Cửa mở rồi!"
+
+msgctxt "events.Prologue_Hallway.event_lockpick_theater_fail.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "Well, that didn't go as planned."
+msgstr "Chà không thuận buồm xuôi gió nhỉ."
+
+msgid "This room is..."
+msgstr "Phòng này..."
+
+msgid "What IS this room, anyways?"
+msgstr "Vốn cái phòng này là gì ta?"
+
+msgid "I don't think I've ever seen anybody use it."
+msgstr "Cảm giác chưa thấy ai dùng cái phòng này bao giờ."
+
+msgid "Me neither."
+msgstr "Tao cũng chưa thấy."
+
+msgid "Say, why don't we check it out?"
+msgstr "Ê, hay là vô trỏng thử đi?"
+
+msgid "You want to break into this room...?"
+msgstr "Tính đột nhập trái phép vào luôn á...?"
+
+msgid "Why not? Can't be any worse than trying a silly ritual."
+msgstr "Sao nào? Làm nghi thức vớ vẩn chi bằng vô thử còn hơn."
+
+msgid "I hope it's safe..."
+msgstr "Mong là bình an vô sự..."
+
+msgid "We would need a way to open it, though."
+msgstr "Cần có cách mới mở cửa được cơ."
+
+msgid "We're counting on you."
+msgstr "Trông cậy mày đấy nha."
+
+msgid "You can do it, Kat."
+msgstr "Có Kat đây làm được hết."
+
+msgid "I never said-"
+msgstr "Tao còn chưa–"
+
+msgid "Geez, fine."
+msgstr "Ầy, thôi được rồi."
+
+msgctxt "events.Prologue_Hallway.event_theater_door_unlock.dlg.narrator"
+msgid "The door unlocked!"
+msgstr "Cửa mở rồi!"
+
+msgid "I'm really curious as to what's behind this door..."
+msgstr "Rất là tò mò bên kia cánh cửa này có cái gì..."
+
+msgid "But I don't have time for this right now."
+msgstr "Mà giờ chả có thời gian làm chuyện này đâu."
+
+msgctxt "events.Prologue_Hallway.item_hairpin_on_door_closet.dlg.narrator"
+msgid "It's already open."
+msgstr "Đã mở rồi."
+
+msgid "You can't do that anymore."
+msgstr "Không cạy khóa được nữa."
+
+msgid "I've gotta get in somehow."
+msgstr "Bằng cách nào đó phải vào được đây."
+
+msgid "Should I try to pick the lock?"
+msgstr "Cạy khóa thử chăng?"
+
+msgid "Yes"
+msgstr "Cạy"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "Let's give it a shot."
+msgstr "Làm thử xem nào."
+
+msgctxt "events.Prologue_Hallway.item_hairpin_on_door_theater.dlg.narrator"
+msgid "It's already open."
+msgstr "Đã mở rồi."
+
+msgctxt "events.Prologue_Hallway.item_hairpin_on_door_theater.dlg.kat"
+msgid "I don't think I need anything from here."
+msgstr "Nghĩ là trong đây không có thứ gì mình cần đâu."
+
+msgid "I have the key, so there's no point in that."
+msgstr "Có chìa rồi, cạy làm gì."
+
+msgid "This key doesn't fit here."
+msgstr "Chìa này không khít vào đây."
+
+msgctxt "events.Prologue_Hallway.item_key_on_door_theater.dlg.narrator"
+msgid "It's already open."
+msgstr "Đã mở rồi."
+
+msgid "That's not how locks work."
+msgstr "Kéo thì mở khóa kiểu gì."
+
+msgid "It reads \"No running in the hallways.\""
+msgstr "Đây viết là \"Không được chạy trong hành lang\"."
+
+msgctxt "events.Prologue_Hallway.misc_paper2.dlg.narrator"
+msgid "A list of safety regulations."
+msgstr "Danh sách quy định đảm bảo an toàn."
+
+msgid "The exams schedule."
+msgstr "Lịch thi."
+
+msgctxt "events.Prologue_Hallway.misc_paper4.dlg.narrator"
+msgid "A list of safety regulations."
+msgstr "Danh sách quy định đảm bảo an toàn."
+
+msgid "A pinboard with some important school papers."
+msgstr "Bảng yết thị với vài tờ giấy dán quan trọng."
+
+msgctxt "events.Prologue_Hallway.misc_plaque1.dlg.narrator"
+msgid "\"Club Room\""
+msgstr "\"Phòng câu lạc bộ\""
+
+msgid "\"Classroom 3-A\""
+msgstr "\"Lớp 3-A\""
+
+msgid "\"Classroom 3-B\""
+msgstr "\"Lớp 3-B\""
+
+msgid "\"Classroom 3-C\""
+msgstr "\"Lớp 3-C\""
+
+msgctxt "events.Prologue_Hallway.misc_plaque5.dlg.narrator"
+msgid "\"Club Room\""
+msgstr "\"Phòng câu lạc bộ\""
+
+msgid "An unexciting trash can."
+msgstr "Cái thùng rác trông chán."
+
+msgid "A boring trash can."
+msgstr "Cái thùng rác trông nhạt."
+
+msgid "The front yard of the school is visible from here."
+msgstr "Từ đây thấy được sân trường."
+
+msgid "Better stay clear of the windows or someone might see me."
+msgstr "Né cửa sổ ra chứ kẻo ai đó nhìn thấy mất."
+
+msgid "The windows of the classroom."
+msgstr "Cửa sổ của phòng học."
+
+msgid "I can't see much through them."
+msgstr "Không dòm được mấy bên trong."
+
+msgid "The window is cracked."
+msgstr "Cửa sổ bị nứt rồi."
+
+msgid "That spooked me..."
+msgstr "Thấy ghê ghê..."
+
+msgid "This isn't good for my heart..."
+msgstr "Hại tim tao quá..."
+
+msgid "There's a handprint on the window."
+msgstr "Trên cửa số có bám dấu tay."
+
+msgid "Was this always here?"
+msgstr "Có đây nãy giờ rồi hở?"
+
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgid "It won't open anymore."
+msgstr "Không mở được nữa."
+
+msgid "This is the Theater Club's room. It's locked."
+msgstr "Đây là phòng câu lạc bộ kịch. Bị khóa rồi."
+
+msgctxt "events.Prologue_Hallway.move_club_theater.dlg.kat"
+msgid "I don't think I need anything from here."
+msgstr "Nghĩ là trong đây không có thứ gì mình cần đâu."
+
+msgid "I may be able to find some curtains in there."
+msgstr "Không chừng trong đây kiếm được rèm."
+
+msgid "I wonder if any of the girls is a member of this club?"
+msgstr "Không biết trong mấy đứa nó có ai thành viên câu lạc bộ này không?"
+
+msgid "I'm not on great terms with them though..."
+msgstr "À mà mình qua lại với bọn nó có hay ho gì đâu mà nói..."
+
+msgid "I wonder if any of the girls is a member of this club."
+msgstr "Không biết trong mấy đứa nó có ai thành viên câu lạc bộ này không."
+
+msgid "But I have the key now."
+msgstr "Nhưng giờ có chìa đây rồi."
+
+msgid "How am I going to open it now...?"
+msgstr "Vậy tính mở làm sao đây...?"
+
+msgid "Maybe I should deliver that notebook."
+msgstr "Có khi nên mang cuốn vở đó đưa cho nó."

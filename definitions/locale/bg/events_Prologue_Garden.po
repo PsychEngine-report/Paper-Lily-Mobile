@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The flower sank into the water."
+msgstr "Цветето потъна във водата."
+
+msgid "Pity."
+msgstr "Жалко."
+
+msgid "You thought that would work?"
+msgstr "Смяташе че това ще сработи?"
+
+msgid "You should be more careful about the decisions you make."
+msgstr "Трябва да си по внимателна за решенията които вземаш."
+
+msgid "The solution may seem obvious, but..."
+msgstr "Решението може да бъде очевидно, но…"
+
+msgid "THERE IS ALWAYS ANOTHER WAY"
+msgstr "ВИНАГИ ИМА ДРУГ НАЧИН"
+
+msgid "You may not notice it right away, but your actions will have an impact sooner or later."
+msgstr "Може да не го забележиш веднага, но действията ти имат въздействие рано или късно."
+
+msgid "You may not even remember what you did to cause it."
+msgstr "Може дори да не си спомняте какво сте направили, за да го предизвикате."
+
+msgid "Sadly, regret is always in the shadow of choice."
+msgstr "За жалост, съжалението винаги е в сянката на избора."
+
+msgid "Also, you know very well this isn't your home."
+msgstr "Също така, знаеш много добре че това не е домът ти."
+
+msgid "So why do you mess with things that don't belong to you?"
+msgstr "Така че защо се месиш с неща, които не ти принадлежат? (не са твоя работа)"
+
+msgid "YOU'RE NOT WELCOME HERE"
+msgstr "НЕ СИ ДОБРЕ ЖЕЛАНА ТУК"
+
+msgid "Look."
+msgstr "Погледни."
+
+msgid "This is the result of your actions."
+msgstr "Това е резултат на твоите действия."
+
+msgid "The result of your expectations."
+msgstr "Резултат на твоите очаквания."
+
+msgid "Things are not always what they seem."
+msgstr "Нещата не винаги са това което изглеждат."
+
+msgid "What do you think?"
+msgstr "Какво мислиш?"
+
+msgid "Does this still look like a flower to you?"
+msgstr "Това все още ли ти изглежда като цвете?"
+
+msgid "You're not prepared to deal with the truth."
+msgstr "Не си готова да се справиш с истината."
+
+msgid "Are you?"
+msgstr "Вие ли сте?"
+
+msgid "I can't stop you from coming here."
+msgstr "Не мога да ви спра да идвате тук."
+
+msgid "But if you're foolish enough to cross my path,"
+msgstr "Но, ако си достатъчно глупава да пресечеш пътя ми,"
+
+msgid "I'LL KILL YOU MYSELF"
+msgstr "ЩЕ ТЕ УБИЯ СОБСТВЕНОРЪЧНО"
+
+msgid "...such is the way of our world."
+msgstr "…такъв е пътят при нашия свят."
+
+msgid "..."
+msgstr "..."
+
+msgid "The door opened!"
+msgstr "Вратата е отворена!"
+
+msgid "Fascinating."
+msgstr "Забележително."
+
+msgid "You've done the opposite of what I expected."
+msgstr "Ти направи обратното на това което очаквах."
+
+msgid "A delightful surprise."
+msgstr "Приятна изненада."
+
+msgid "How did you know, I wonder?"
+msgstr "Чуда се, от къде знаеш?"
+
+msgid "Perhaps you're different."
+msgstr "Може би си различна."
+
+msgid "Or perhaps..."
+msgstr "Или може би…"
+
+msgid "...you cheated?"
+msgstr "…ти мамиш?"
+
+msgid "How odd."
+msgstr "Колко странно."
+
+msgid "Regardless, I advise you not to mess with things that don't belong to you."
+msgstr "Без значение, посъветвам те да не се месиш с неща, които не ти принадлежат."
+
+msgid "It's not safe for you."
+msgstr "Не е безопасно за теб."
+
+msgid "As you already know, in this place..."
+msgstr "Както вече знаеш, на това място…"
+
+msgid "THINGS ARE NOT ALWAYS WHAT THEY SEEM"
+msgstr "НЕЩАТА НЕ СА ВИНАГИ ТОВА КОЕТО ИЗГЛЕЖДАТ"
+
+msgid "The answers you're looking for are not yours to take,"
+msgstr "Отговорите които търсиш не са твои да ги вземаш,"
+
+msgid "You're not ready to learn the truth..."
+msgstr "Не си готова да научиш истината…"
+
+msgid "...and the truth is not willing to be learned by you."
+msgstr "… и истината не е готова да бъде научена от теб."
+
+msgid "I can't stop you from coming."
+msgstr "Не мога да те спра да дойдеш."
+
+msgid "Just know that if you do,"
+msgstr "Просто знай че ако го направиш,"
+
+msgid "YOU WILL BE KILLED"
+msgstr "ТИ ЩЕ БЪДЕШ УБИТА"
+
+msgid "The building ahead seems locked somehow."
+msgstr "Тази сграда отпред изглежда някак заключена. (недостъпна)"
+
+msgid "There's a white flower on the ground."
+msgstr "Има бяло цвете на пода."
+
+msgid "Take Flower?"
+msgstr "Вземи Цвете?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "There's already a flower there."
+msgstr "Там вече има цвете."
+
+msgid "The light turned green."
+msgstr "Светлината стана зелена."
+
+msgid "A door with 4 colored lights."
+msgstr "Врата с четири лампи."
+
+msgid "It's locked."
+msgstr "Заключена е."
+
+msgid "A small building adorned with flowers."
+msgstr "малка постройка отрупана с цветя."
+
+msgid "A tree with pink flowers."
+msgstr "дърво с розови цветове."
+
+msgid "A big flower vase with a white flower in it."
+msgstr "Голяма ваза за цветя с бяло цвете в нея."
+
+msgid "Take out the flower?"
+msgstr "Вземи цветето?"
+
+msgid "The green light turned red."
+msgstr "Зелената светлина стана червена."
+
+msgid "Put the flower back in?"
+msgstr "Върни цветето обратно?"
+
+msgid "The light turned back green."
+msgstr "Светлината стана зелена."
+
+msgid "A big flower vase. The flower is missing."
+msgstr "Голяма ваза за цветя. Цветето липсва."
+
+msgid "A big flower vase. Unlike the others, this one has no flower."
+msgstr "Голяма ваза за цветя. За разлика от останалите, това няма цвете."
+
+msgid "A big flower vase. I placed a flower inside."
+msgstr "Аз поставих цвете вътре."
+
+msgid "Take it out?"
+msgstr "Извади го?"
+
+msgid "The light turned back red."
+msgstr "Светлината стана червена."
+
+msgid "Some large windows. You can't see what's inside."
+msgstr "Някои големи прозорци. Не можете да видите какво има вътре."

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What seems like a trash bag."
+msgstr "Cái gì có vẻ như là cái túi rác."
+
+msgid "It has dust all over."
+msgstr "Nó bám bụi đầy cả."
+
+msgid "A wooden crate."
+msgstr "Chiếc thùng gỗ thưa."
+
+msgid "A bus. It doesn't seem to have been used in a long time."
+msgstr "Chiếc xe buýt. Có vẻ lâu rồi không ai sử dụng."
+
+msgid "There's another bus stacked on top of it."
+msgstr "Có chiếc xe buýt khác chồng lên bên trên."
+
+msgid "A broken bus is stacked on top of it."
+msgstr "Có chiếc xe buýt hỏng chồng lên bên trên."
+
+msgid "A keypad."
+msgstr "Cái keypad."
+
+msgid "It doesn't seem to be working."
+msgstr "Có vẻ nó không hoạt động."
+
+msgid "Touch some buttons?"
+msgstr "Chạm vài nút bấm chứ?"
+
+msgid "Yes"
+msgstr "Chạm"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "The keypad does not respond in any way."
+msgstr "Cái keypad không phản hồi theo cách nào cả."
+
+msgid "Looks like a mailbox."
+msgstr "Trông như cái hộp thư."
+
+msgid "There's no mail right now."
+msgstr "Giờ không có thư nào."
+
+msgid "A small light. It changes colors every few seconds."
+msgstr "Cái đèn nhỏ. Cứ mỗi vài giây là đổi màu."
+
+msgid "Strange street signs fill the walls."
+msgstr "Mấy tấm biển giao thông kì lạ choán trên tường."
+
+msgid "A garage door."
+msgstr "Cánh cửa ga-ra."
+
+msgid "Can I get this open somehow?"
+msgstr "Cách nào đó mình mở cái này ra được không?"

@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "We could use it to get out of this room."
+msgstr "Можно использовать её, чтобы выбраться из этой комнаты."
+
+msgid "I could use this to get out of this room."
+msgstr "Я могу использовать её, чтобы выбраться из этой комнаты."
+
+msgid "Place plank outside?"
+msgstr "Поставить доску снаружи?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "It's done."
+msgstr "Готово."
+
+msgid "The vent cover."
+msgstr "Крышка вентиляции."
+
+msgid "It's not large enough to cross the hole outside."
+msgstr "Её размера не хватит, чтобы преодолеть пропасть снаружи."
+
+msgid "Sketches of maps are displayed on the wall."
+msgstr "На стене развешаны наброски карт."
+
+msgid "Sketches of maps are laying on the ground."
+msgstr "По полу разбросаны наброски карт."
+
+msgid "There's a large plank on the floor."
+msgstr "На полу лежит крупная доска."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "Большой экран, состоящий из маленьких экранов."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "Экраны, похоже, транслируют записи с каких-то камер наблюдения."
+
+msgid "Looks like... hallways? With lots of doors."
+msgstr "Похоже на... коридоры? С кучей дверей."
+
+msgid "Who comes up with this shit?"
+msgstr "Кто всю эту херню выдумывает?"
+
+msgid "There's blood too..."
+msgstr "А ещё там кровь..."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "Большой экран, состоящий из маленьких экранов."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "Экраны, похоже, транслируют записи с каких-то камер наблюдения."
+
+msgid "Are those... sticky notes taped to the cameras?"
+msgstr "Это что... бумажки, приклеенные к камерам?"
+
+msgid "Someone didn't want to be spied on."
+msgstr "Кто-то не хотел за собой слежки."
+
+msgid "Understandable."
+msgstr "Понятно."
+
+msgid "Scrolls containing technical drawings of different locations."
+msgstr "Скрученные планы разных мест."
+
+msgid "What's that?"
+msgstr "Что это?"
+
+msgid "I don't know."
+msgstr "Я не знаю."
+
+msgid "It looks like it's just hallways."
+msgstr "Похоже на коридоры с кучей дверей."
+
+msgid "But it's laid out like a labyrinth, and some rooms overlap each other."
+msgstr "Но они похожи на лабиринт, а некоторые комнаты накладываются друг на друга."
+
+msgid "This map doesn't make any sense."
+msgstr "Эта карта лишена какого-либо смысла."
+
+msgid "A trashcan. It's full of neatly crumpled papers."
+msgstr "Мусорная урна. В ней полно аккуратно мятых бумажек."
+
+msgid "..."
+msgstr "..."
+
+msgid "I see."
+msgstr "Понятно."
+
+msgid "It's too far to jump."
+msgstr "Слишком далеко, чтобы перепрыгнуть."
+
+msgid "It's too high to reach."
+msgstr "Слишком высоко, чтобы допрыгнуть."

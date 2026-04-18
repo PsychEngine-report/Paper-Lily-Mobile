@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "Шкатулка по-прежнему закрыта..."
+
+msgid "The box opens!"
+msgstr "Шкатулка открылась!"
+
+msgid "There's a key inside."
+msgstr "Внутри лежит ключ."
+
+msgid "There's some kind of black rag here."
+msgstr "Здесь лежит какая-то чёрная тряпка."
+
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "Взять предмет: ${item:ch1.mk_compress}?"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A large basket filled with toys."
+msgstr "Большая корзина с игрушками."
+
+msgid "What is all of this..?"
+msgstr "Что всё это такое?.."
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "Машинки на радиоуправлении или что-то такое присутствуют?"
+
+msgid "Mmm... no."
+msgstr "Ммм... нет."
+
+msgid "That's oddly specific."
+msgstr "И слишком уж конкретный запрос."
+
+msgid "They're fun."
+msgstr "С ними не соскучишься."
+
+msgid "An oversized bed."
+msgstr "Очень большая кровать."
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "(Эта кровать чересчур большая, даже для того демона.)"
+
+msgid "Wow, what a luxury."
+msgstr "Вот это роскошь."
+
+msgid "There's nothing else in the box."
+msgstr "В шкатулке больше ничего нет."
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "На туалетном столике лежит шкатулка. В ней используется замок с кодом."
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "(На шкатулке нарисован ключ...)"
+
+msgid "Try to unlock the box?"
+msgstr "Попытаться открыть шкатулку?"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A simple coat hanger."
+msgstr "Обычная вешалка."
+
+msgid "A small bedside table."
+msgstr "Небольшой прикроватный столик."
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "(Своими маленькими размерами он явно не подходит под кровать.)"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "Туалетный столик. Выдвижные ящики наполнены косметикой."
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "Зачем заморачиваться над макияжем, если ты похожа на чудище?"
+
+msgid "That's not nice."
+msgstr "Это не совсем вежливо."
+
+msgid "She locked me in a cage."
+msgstr "Она закрыла меня в клетке."
+
+msgid "I'd say she's not nice."
+msgstr "Вот это было не совсем невежливо."
+
+msgid "A painting of a window."
+msgstr "Рисунок окна."
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "Душно тут наверное, без окон-то."

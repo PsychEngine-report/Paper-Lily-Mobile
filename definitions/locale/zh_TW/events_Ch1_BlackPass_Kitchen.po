@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A knife, Lacie."
+msgstr "一把刀，萊西。"
+
+msgid "A knife."
+msgstr "一把刀。"
+
+msgid "Off you go."
+msgstr "這樣就行了。"
+
+msgid "Hm...?"
+msgstr "嗯...？"
+
+msgid "Lacie, there you are."
+msgstr "萊西，你來啦。"
+
+msgid "I called you several times, didn't you hear me?"
+msgstr "我叫妳好幾次了，妳沒有聽到嗎？"
+
+msgid "..."
+msgstr "..."
+
+msgid "I need you to go get me a _____."
+msgstr "我需要你去拿_____給我。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "A... what?"
+msgstr "...什麼？"
+
+msgid "Oh."
+msgstr "喔。"
+
+msgid "It shouldn't be too hard to find. It's in the closet in the garage."
+msgstr "應該不會太難找，在車庫的櫥櫃裡。"
+
+msgid "...Okay."
+msgstr "...好吧。"
+
+msgid "Well done. Off you go."
+msgstr "做得好，這樣就行了。"
+
+msgid "A kitchen counter. Mother seems to be preparing something."
+msgstr "流理檯。母親看起來在準備些什麼。"
+
+msgid "There's nothing on the counter."
+msgstr "流理檯上什麼也沒有。"
+
+msgid "None of this can be used."
+msgstr "這些都沒辦法使用。"
+
+msgid "The surfaces are completely flat, and there are no handles."
+msgstr "表面完全平坦，而且沒有手把。"
+
+msgid "It only looks like a kitchen on the surface..."
+msgstr "只有表面上看起來像是廚房..."
+
+msgid "Pick up ${item:global.reditem_2}?"
+msgstr "撿起 ${item:global.reditem_2} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "An empty dining table."
+msgstr "空蕩蕩的餐桌。"
+
+msgid "The passageway has closed behind you."
+msgstr "通道在你身後關閉了。"
+
+msgid "It's locked."
+msgstr "被鎖住了。"

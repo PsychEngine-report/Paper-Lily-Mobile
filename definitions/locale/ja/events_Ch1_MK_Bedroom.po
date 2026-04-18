@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "箱は開かない……"
+
+msgid "The box opens!"
+msgstr "箱が開いた！"
+
+msgid "There's a key inside."
+msgstr "中には鍵が入っていた。"
+
+msgid "There's some kind of black rag here."
+msgstr "何らかの黒い布がある。"
+
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "${item:ch1.mk_compress} を取る？"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "A large basket filled with toys."
+msgstr "おもちゃが詰まった大きなかご。"
+
+msgid "What is all of this..?"
+msgstr "なんでこんなものが……？"
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "ラジコンカーとか、そういうのはあるか？"
+
+msgid "Mmm... no."
+msgstr "うーん……ない。"
+
+msgid "That's oddly specific."
+msgstr "妙に具体的だね。"
+
+msgid "They're fun."
+msgstr "楽しいだろ、ああいうの。"
+
+msgid "An oversized bed."
+msgstr "特大のベッド。"
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "(あの妖魔が使うにしても大きすぎる。)"
+
+msgid "Wow, what a luxury."
+msgstr "おぉ、贅沢だな。"
+
+msgid "There's nothing else in the box."
+msgstr "箱には他に何も入っていない。"
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "化粧台の上に箱がある。ダイヤル錠がかかっているようだ。"
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "(鍵の絵が描いてある……)"
+
+msgid "Try to unlock the box?"
+msgstr "箱を開けてみる？"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "Yes"
+msgstr "開けてみる"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "A simple coat hanger."
+msgstr "シンプルなコート掛け。"
+
+msgid "A small bedside table."
+msgstr "小さなベッドサイドテーブル。"
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "(明らかに小さすぎる、このベッドには特に。)"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "化粧台。引き出しには化粧品がいくつか入っている。"
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "怪物みたいな見た目なのに、なんでわざわざメイクなんてするんだ？"
+
+msgid "That's not nice."
+msgstr "良くないよ、そういうの。"
+
+msgid "She locked me in a cage."
+msgstr "檻に閉じ込められたんだぜ。"
+
+msgid "I'd say she's not nice."
+msgstr "良くないのはあっちだろ。"
+
+msgid "A painting of a window."
+msgstr "窓の絵。"
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "本物の窓がないから息が詰まるんだろうな。"

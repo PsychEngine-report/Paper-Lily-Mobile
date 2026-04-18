@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "Cái hộp vẫn là bị khóa..."
+
+msgid "The box opens!"
+msgstr "Cái hộp mở rồi!"
+
+msgid "There's a key inside."
+msgstr "Bên trong có cái chìa khóa."
+
+msgid "There's some kind of black rag here."
+msgstr "Ở đây có cái giẻ gì đó màu đen."
+
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "Lấy ${item:ch1.mk_compress} chứ?"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A large basket filled with toys."
+msgstr "Cái sọt lớn chứa đầy đồ chơi."
+
+msgid "What is all of this..?"
+msgstr "Thảy mấy cái này là sao...?"
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "Trong có mấy cái xe điều khiển từ xa hay mấy cái nào không?"
+
+msgid "Mmm... no."
+msgstr "Ừm... không có."
+
+msgid "That's oddly specific."
+msgstr "Hỏi cụ thể lạ thường thế."
+
+msgid "They're fun."
+msgstr "Mấy cái đó chơi vui mà."
+
+msgid "An oversized bed."
+msgstr "Chiếc giường ngoại cỡ."
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "(Cả với con quỷ đó thì cái giường này cũng to quá xá)"
+
+msgid "Wow, what a luxury."
+msgstr "Oa, xa hoa thật đấy."
+
+msgid "There's nothing else in the box."
+msgstr "Trong hộp không có gì khác."
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "Bên trên bàn trang điểm có cái hộp. Nó xài khóa vặn số."
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "(Trên cái hộp có hình vẽ cái chìa khóa...)"
+
+msgid "Try to unlock the box?"
+msgstr "Thử mở khóa cái hộp chứ?"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "Yes"
+msgstr "Thử mở"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A simple coat hanger."
+msgstr "Cái giá mắc áo khoác giản dị."
+
+msgid "A small bedside table."
+msgstr "Chiếc bàn nhỏ cạnh giường."
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "(Rõ ràng là quá nhỏ, nhất là với cái giường này.)"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "Cái bàn trang điểm. Mấy ngăn kéo cất đầy mỹ phẩm."
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "Bản thân trông như quỷ thì sao lại còn bày đặt trang điểm nhể?"
+
+msgid "That's not nice."
+msgstr "Nói thế không có tử tế đâu."
+
+msgid "She locked me in a cage."
+msgstr "Con mụ đó nhốt tôi trong lồng ơ kìa."
+
+msgid "I'd say she's not nice."
+msgstr "Tôi là tôi nói con mụ đó mới không tử tế."
+
+msgid "A painting of a window."
+msgstr "Bức tranh vẽ cái cửa sổ."
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "Không có cái cửa sổ hàng thật nào thì trong này chắc ngộp lắm đây."

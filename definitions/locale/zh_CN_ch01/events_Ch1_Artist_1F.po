@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OH."
+msgstr "噢。"
+
+msgid "A child."
+msgstr "一个孩子。"
+
+msgid "A child is in my gallery. But my gallery is closed. So how can a child be in my gallery?"
+msgstr "有个孩子在我的画廊里。但是我的画廊关门了。那怎么会有孩子在我的画廊里呢？"
+
+msgid "Atrocious."
+msgstr "糟糕透顶。"
+
+msgid "Smells like..."
+msgstr "闻起来就像..."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "GARBAGE."
+msgstr "垃圾。"
+
+msgid "What? That's not true..."
+msgstr "什么？不是这样的..."
+
+msgid "Who is this child?"
+msgstr "这孩子是谁？"
+
+msgid "My name is Lacie."
+msgstr "我的名字是莱西。"
+
+msgid "(Wait... I shouldn't give out my name like that to demons!)"
+msgstr "（慢着...我不应该像这样把我的名字交给恶魔的！）"
+
+msgid "Lacie..."
+msgstr "莱西..."
+
+msgid "(Did he figure out I'm human...?)"
+msgstr "（他认出我是人类了吗...？）"
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "What is your name?"
+msgstr "你的名字是？"
+
+msgid "What's under that drape?"
+msgstr "那个帷幔下面的是什么？"
+
+msgid "You seem better now."
+msgstr "你现在看起来好多了。"
+
+msgid "You're dropping a lot of flowers."
+msgstr "你正在掉很多花。"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.choice.So..."
+msgid "Never mind"
+msgstr "没事"
+
+msgid "Kett is what I am called."
+msgstr "我被称作科特。"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "Oh."
+msgstr "哦。"
+
+msgid "And who are you?"
+msgstr "那么你是谁呢？"
+
+msgid "I... already told you my name."
+msgstr "我...已经告诉过你我的名字了。"
+
+msgid "(He forgot it...? Maybe that's a good thing.)"
+msgstr "（他忘记了吗...？这或许是件好事。）"
+
+msgid "Please excuse me. I have no use for meaningless information in my mind."
+msgstr "请原谅我。我的脑海不会保留无意义的信息。"
+
+msgid "No... that's okay."
+msgstr "不...没关系的。"
+
+msgid "A commission."
+msgstr "一个委托。"
+
+msgid "I have been stuck, blocked, uninspired, you could say."
+msgstr "你可以这样理解，我已经苦思冥想，搜肠刮肚，灵感殆尽。"
+
+msgid "FOR AGES."
+msgstr "很长一段时间了。"
+
+msgid "Everything I made..."
+msgstr "我所做的一切都是..."
+
+msgid "But now suddenly I feel..."
+msgstr "但是现在我突然感觉..."
+
+msgid "Awaken."
+msgstr "茅塞顿开。"
+
+msgid "You seemed very um...crazy...a while ago."
+msgstr "你看起来有段时间...特别的...神魂颠倒。"
+
+msgid "Ah, sleep deprivation."
+msgstr "啊，睡眠不足。"
+
+msgid "I feel that."
+msgstr "我感受到了。"
+
+msgid "HOWEVER, AN ANGEL delivered salvation to me."
+msgstr "然而，一位天使将救赎送到了我的手中。"
+
+msgid "I brought you that."
+msgstr "是我带给你的。"
+
+msgid "IF I COULD FIND THIS ANGEL, well, they would be humbly welcomed into my gallery, for no fee."
+msgstr "如果我能找到这位天使，嗯，祂会被我谦恭地欢迎到我的画廊，而且不要钱。"
+
+msgid "It was me."
+msgstr "祂就是我。"
+
+msgid "BUT ALAS."
+msgstr "可惜了。"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "They are the fruit of my inspiration."
+msgstr "它们是我的灵感的果实。"
+
+msgid "I picked up some of your inspiration, I hope you don't mind."
+msgstr "我捡起了一些你的灵感，我希望你不要介意。"
+
+msgid "Your inspiration is all over the floor."
+msgstr "你的灵感洒了一地。"
+
+msgid "What is that commission about?"
+msgstr "这个委托是关于什么的？"
+
+msgid "I keep my business matters private."
+msgstr "我对自己的公事保密。"
+
+msgid "Can I commission you for a piece?"
+msgstr "我能委托你做一件作品吗？"
+
+msgid "Of course. You may add your name to my waiting list."
+msgstr "当然可以。你可以在我的等待清单上加上你的名字。"
+
+msgid "...Never mind then."
+msgstr "...那就算了吧。"
+
+msgid "Where is it?"
+msgstr "它在哪里？"
+
+msgid "On the wall."
+msgstr "墙上。"
+
+msgid "Why don't you make anything colorful?"
+msgstr "为什么你没有给任何东西着色？"
+
+msgid "Color....ful..?"
+msgstr "着...色...？"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_extra.dlg.kett"
+msgid "..."
+msgstr "..."
+
+msgid "What ever do you mean?"
+msgstr "你是什么意思呢？"
+
+msgid "Well...all of your...art...is blue or grey."
+msgstr "嗯...你的所有...艺术品...都是蓝色或者灰色的。"
+
+msgid "Blue...? Grey...?"
+msgstr "蓝色...？灰色...？"
+
+msgid "(He seems really perplexed.)"
+msgstr "（他看起来真的很困惑。）"
+
+msgid "What did you smell on me earlier?"
+msgstr "你之前在我身上闻到了什么？"
+
+msgid "I don't recall the event you're referring to."
+msgstr "我想不起你说的那件事了。"
+
+msgid "Because you don't keep meaningless information in your mind?"
+msgstr "因为你的脑海不会保留无意义的信息？"
+
+msgid "Yes, how did you know?"
+msgstr "是的，你是怎么知道的？"
+
+msgid "Just a feeling."
+msgstr "只是感觉罢了。"
+
+msgid "Of course.. the patterns must match on each limb."
+msgstr "当然...每个肢体上的图案都必须对应。"
+
+msgid "But how shall I go about it...?"
+msgstr "但是我应该要怎么做...呢？"
+
+msgid "Kett seems to be concentrated."
+msgstr "科特看起来很专心。"
+
+msgid "There's someone there. Grab their attention?"
+msgstr "这里有个人。要吸引他的注意力吗？"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.dlg.kett"
+msgid "!!!"
+msgstr "！！！"
+
+msgid "He seems to be asleep."
+msgstr "他看起来睡着了。"
+
+msgid "I'd really rather not bother him..."
+msgstr "我最好不要打扰他..."
+
+msgid "This isn't the time for that."
+msgstr "现在最好不要这样做。"
+
+msgid "This is from the lighthouse."
+msgstr "这是从灯塔来的。"
+
+msgid "Garbage."
+msgstr "垃圾。"
+
+msgid "Huh? Really?"
+msgstr "啊？真的吗？"
+
+msgid "It sickens me."
+msgstr "它让我恶心。"
+
+msgid "Do you know where the lighthouse is?"
+msgstr "你知道灯塔在哪吗？"
+
+msgid "Begone, child."
+msgstr "走吧，孩子。"
+
+msgid "...Guess not."
+msgstr "...看来是不知道。"
+
+msgid "This candle looks familiar to me. How curious."
+msgstr "这个蜡烛看起来很眼熟。真令人好奇。"
+
+msgid "What is that garbage smell?"
+msgstr "那是什么垃圾的味道？"
+
+msgid "You may keep that. It is little more than garbage to me."
+msgstr "你可以把它留着。对我来说，它不过是垃圾而已。"
+
+msgid "A rock. It's carving is skillful."
+msgstr "一块石头。雕刻技艺高超。"
+
+msgid "Could there be another artist out there...?"
+msgstr "你是说这里还有一位艺术家吗...？"
+
+msgctxt "events.Ch1_Artist_1F.item_runes_on_kett.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "No. Impossible."
+msgstr "不。不可能。"
+
+msgctxt "events.Ch1_Artist_1F.item_snack_on_kett.dlg.kett"
+msgid "!!!"
+msgstr "！！！"
+
+msgid "(He ate it!?)"
+msgstr "（他把它吃下去了！？）"
+
+msgid "This tool is not well suited for carving."
+msgstr "该工具不适合雕刻。"
+
+msgid "This is one of those things that isn't very interesting when seen from behind."
+msgstr "这是那种从后面看没什么意思的东西之一。"
+
+msgid "Blue paint."
+msgstr "蓝色颜料。"
+
+msgid "A blank canvas. Paint something?"
+msgstr "一张空白的画框。要画点东西上去吗？"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "No"
+msgstr "否"
+
+msgid "What should I paint?"
+msgstr "我应该画什么呢？"
+
+msgid "A blue butterfly"
+msgstr "一只蓝蝴蝶"
+
+msgid "A self-portrait"
+msgstr "一幅自画像"
+
+msgid "Hiro"
+msgstr "希罗"
+
+msgid "A portrait of Kett"
+msgstr "科特的肖像画"
+
+msgid "A ghost"
+msgstr "一只幽灵"
+
+msgid "A dinosaur"
+msgstr "一只恐龙"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.What should I paint?"
+msgid "Never mind"
+msgstr "没事"
+
+msgid "Show drawing here"
+msgstr "在此显示画作"
+
+msgid "It's the painting I made. Kett will probably trash it soon enough."
+msgstr "这是我画的画。科特可能过会儿就把它扔了。"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "要捡起${item:ch1.kett_flower}吗？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "要捡起${item:ch1.kett_flower}吗？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "要捡起${item:ch1.kett_flower}吗？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "否"
+
+msgid "A waiting list. It has over a hundred names on it."
+msgstr "一张等待清单。上面有上百个名字。"
+
+msgid "...Never mind."
+msgstr "...那没事了。"
+
+msgid "A painting of some landscape."
+msgstr "一幅风景画。"
+
+msgid "There must be a huge sculpture hidden under this drape."
+msgstr "帷幔下一定藏着一座巨大的雕塑。"
+
+msgid "Check under the drape?"
+msgstr "要检查帷幔底下吗？"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "No"
+msgstr "否"
+
+msgid "It looks like an unfinished sculpture of a lady. She looks like she's made of porcelain."
+msgstr "看起来像是一尊未完成的女士的雕像。她看起来像是用瓷做的。"
+
+msgid "There's a sculpture of a lady under this drape."
+msgstr "帷幔下有一尊女士的雕像。"
+
+msgid "A tall vase."
+msgstr "一个高大的花瓶。"
+
+msgid "Reach inside?"
+msgstr "要伸手进去吗？"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "No"
+msgstr "否"
+
+msgid "There's nothing inside."
+msgstr "里面什么也没有。"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.narrator"
+msgid "A small art piece."
+msgstr "一件小艺术品。"
+
+msgid "A weird thing."
+msgstr "一个怪东西。"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What... is this?"
+msgstr "这...是什么？"
+
+msgid "A twisty pot."
+msgstr "一个扭曲的壶。"
+
+msgid "A broken pot."
+msgstr "一个破烂的壶。"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_5.dlg.narrator"
+msgid "A small art piece."
+msgstr "一件小艺术品。"
+
+msgid "It looks like a dinosaur."
+msgstr "它看起来像一只恐龙。"
+
+msgid "A small dinosaur."
+msgstr "一只小恐龙。"

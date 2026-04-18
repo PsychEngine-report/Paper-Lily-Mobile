@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Juli's dismembered body."
+msgstr "Thi thể bị chặt đứt của Juli."
+
+msgctxt "events.Prologue_Ending_K5.chr_juli.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "What...?"
+msgstr "Cái g...?"
+
+msgid "This can't be..."
+msgstr "Sao lại thế này..."
+
+msgid "Kaya's lifeless body."
+msgstr "Xác của Kaya."
+
+msgid "Oh my god."
+msgstr "Trời ơi là trời."
+
+msgid "She didn't deserve this..."
+msgstr "Nó đâu đáng bị thế này..."
+
+msgid "Saki's headless body."
+msgstr "Cái xác bị lìa đầu của Saki."
+
+msgctxt "events.Prologue_Ending_K5.chr_saki.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "No way... this can't be real..."
+msgstr "Không thể nào... đây không thể là thực..."
+
+msgid "A school desk."
+msgstr "Cái bàn học ở trường."
+
+msgid "It feels unnatural to the touch, like it's made of stone."
+msgstr "Chạm tay vào thấy không tự nhiên, như thể làm bằng đá vậy."
+
+msgid "Wait...!"
+msgstr "Từ từ...!"

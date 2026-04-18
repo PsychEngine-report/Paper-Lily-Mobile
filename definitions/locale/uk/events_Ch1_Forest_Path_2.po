@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That entrance... wasn't there before."
+msgstr "Цього проходу тут раніше не було."
+
+msgid "Is it underground?"
+msgstr "Він веде під землю?"
+
+msgid "There's another signpost here. It's loose, so it can be rotated."
+msgstr "Тут є ще один вказівник. Він ненадійно прикріплений, тож його можна покрутити."
+
+msgid "Alright, I think I understand."
+msgstr "Так, мабуть, я зрозуміла."
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "На вказівнику написано [color=#8080FF]\"Світанкова Брама\"[/color]. Покрутити його?"
+
+msgid "North"
+msgstr "На північ"
+
+msgid "South"
+msgstr "На південь"
+
+msgid "West"
+msgstr "На захід"
+
+msgid "East"
+msgstr "На схід"
+
+msgid "Don't Rotate"
+msgstr "Не крутити"
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "На вказівнику написано [color=#8080FF]\"Світанкова Брама\"[/color]."
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "Він зафіксований в одному положенні."
+
+msgid "This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgstr "На вказівнику написано [color=#FF8080]\"Секрет\"[/color]. Покрутити його?"
+
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "На вказівнику написано [color=#FFFF80]\"Доступ до залізничної станції\"[/color]. Покрутити його?"
+
+msgid "A dark pathway through the trees. Enter?"
+msgstr "Стежка, що веде в хащі. Пройти далі?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"

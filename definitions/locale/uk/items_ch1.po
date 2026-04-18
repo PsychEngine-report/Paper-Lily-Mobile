@@ -1,0 +1,624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Cellphone"
+msgstr "Телефон"
+
+msgid "My personal phone. Hiro bought it for me."
+msgstr "Мій мобільний телефон. Хіро купив його для мене."
+
+msgid "To-Do List"
+msgstr "Список справ"
+
+msgid "A list of things I want to do before I die."
+msgstr "Список речей, які я хочу зробити перед смертю."
+
+msgid "Red Ribbon"
+msgstr "Червона стрічка"
+
+msgid "A soft and silky red ribbon."
+msgstr "М'яка червона стрічка з шовку."
+
+msgid "Red Thread"
+msgstr "Червона нитка"
+
+msgid "Some red thread from mother's sewing kit. The color matches my scarf."
+msgstr "Червона нитка з маминого набору для шиття. Вона такого ж кольору, що й мій шалик."
+
+msgid "Red Shoelaces"
+msgstr "Червоні шнурки"
+
+msgid "From the shoe rack. Does something like this count?"
+msgstr "Взяла з полички для взуття. Їх же можна використати?"
+
+msgid "Red Paint"
+msgstr "Червона фарба"
+
+msgid "A can of red paint. It's dusty."
+msgstr "Банка з червоною фарбою. Вона пильна."
+
+msgid "Bird Food"
+msgstr "Корм для птахів"
+
+msgid "All-Natural Non-GMO Certified Organic Bird Food. It's as expensive as it sounds."
+msgstr "Сертифікований органічний корм для птахів з натуральних інгредієнтів без ГМО. Коштує немало."
+
+msgid "Red Marker"
+msgstr "Червоний маркер"
+
+msgid "A non-erasable alcohol-based red marker."
+msgstr "Маркер на спиртовій основі. Його важко вивести."
+
+msgid "Lipstick"
+msgstr "Помада"
+
+msgid "Some red lipstick from mother's makeup set. It says \"Crimson Passion\"."
+msgstr "Губна помада з маминого набору для макіяжу. На ній написано \"Червона жага\"."
+
+msgid "Ritual Letter"
+msgstr "Лист з ритуалом"
+
+msgid "The ritual instructions I received."
+msgstr "Інструкції, які мені відправили."
+
+msgid "Table Salt"
+msgstr "Кухонна сіль"
+
+msgid "\"For cooking and baking\". Salt can supposedly ward off spirits and such."
+msgstr "\"Для смаження та випікання\". Схоже, сіль також здатна відлякувати духів та всіх їм подібних."
+
+msgid "Notebook"
+msgstr "Нотатник"
+
+msgid "I keep my personal notes and papers I find here."
+msgstr "Тут я зберігаю свої записи та інші папери."
+
+msgid "Rune"
+msgstr "Руна"
+
+msgid "A rune stone I bought from a shady online merchant."
+msgstr "Руна, яку я купила в сумнівного продавця в інтернеті."
+
+msgid "A rune stone I found."
+msgstr "Руна, яку я знайшла."
+
+msgid "Blue Sign"
+msgstr "Синій вказівник"
+
+msgid "It says \"Daylight Gate\"."
+msgstr "На ньому написано \"Світанкова Брама\"."
+
+msgid "Pack of Chips"
+msgstr "Пачка чипсів"
+
+msgid "Looks like regular potato chips. The brand is literally called \"Harmless Snack\"."
+msgstr "На вигляд звичайні картопляні чипси. Бренд так і називається \"Здоровий перекус\"."
+
+msgid "Chocolate Bar"
+msgstr "Шоколадка"
+
+msgid "Looks like a bar of chocolate. The brand is literally called \"Harmless Snack\"."
+msgstr "Схоже на звичайну плитку шоколаду. Бренд так і називається \"Здоровий перекус\"."
+
+msgid "Bug Net"
+msgstr "Сачок"
+
+msgid "A bug net Rune gave me. I don't know what I'll do with it."
+msgstr "Сачок, який мені дав Рун. Гадки не маю, що мені з ним робити."
+
+msgid "Empty Lamp"
+msgstr "Пустий ліхтар"
+
+msgid "The case of a street lamp. It has nothing inside."
+msgstr "Порожній вуличний ліхтар."
+
+msgid "Lamp with Fireflies"
+msgstr "Ліхтар зі світлячками"
+
+msgid "A street lamp full of fireflies."
+msgstr "Вуличний ліхтар з купою світлячків."
+
+msgid "Empty Jar"
+msgstr "Пуста банка"
+
+msgid "A jar with nothing inside."
+msgstr "Просто порожня банка."
+
+msgid "Jar of Fireflies"
+msgstr "Банка зі світлячками"
+
+msgid "A jar full of fireflies."
+msgstr "Банка з купою світлячків."
+
+msgid "Bolt Cutter"
+msgstr "Болторіз"
+
+msgid "A bolt cutter Rune gave me. Looks strong."
+msgstr "Болторіз, який мені дав Рун. Міцна річ."
+
+msgid "Fish"
+msgstr "Риба"
+
+msgid "A fish thing I purchased from a merchant. I don't think I should eat this."
+msgstr "Риба, яку я купила в торговки. Мені здається, це не слід їсти."
+
+msgid "Jar of Slugs"
+msgstr "Банка зі слимаками"
+
+msgid "A jar of slugs. Heavy."
+msgstr "Банка зі слимаками. Важка."
+
+msgid "Stone Curse Notes"
+msgstr "Записи з прокляття скам'яніння"
+
+msgid "Notes explaining a ritual to remove a \"Stone Curse\"."
+msgstr "Записи з поясненнями щодо зняття \"Прокляття скам'яніння\"."
+
+msgid "Artistic Pot"
+msgstr "Мистецький горщик"
+
+msgid "A pot I found. Hopefully it works as a new head for Kozmo."
+msgstr "Горщик, який я знайшла. Сподіваюсь, він підійде на роль голови для Козмо."
+
+msgid "Stone Curse Cure"
+msgstr "Зілля від скам'яніння"
+
+msgid "A sort of potion I made. It should cure a simple stone curse."
+msgstr "Зілля, яке я зварила. Воно має вилікувати просте прокляття скам'яніння."
+
+msgid "Weird Sculpture"
+msgstr "Дивна скульптура"
+
+msgid "A thing I found. I'm almost a bit ashamed of having to give this to Kozmo."
+msgstr "Штукенція, яку я знайшла. Мені навіть шкода, що доводиться віддавати її Козмо."
+
+msgid "Teapot-Shaped Head"
+msgstr "Голова-чайник"
+
+msgid "It came off the sculptor. It's empty inside."
+msgstr "Вона випала зі скульптора. Вона порожня зсередини."
+
+msgid "Artist's Flower"
+msgstr "Квітка митця"
+
+msgid "It came off the sculptor. It smells good."
+msgstr "Вона випала зі скульптора. Пахне приємно."
+
+msgid "Cursed Tree Bark"
+msgstr "Кора проклятого дерева"
+
+msgid "A piece I tore off a tree. Allegedly cursed."
+msgstr "Шматочок дерева, який я відірвала. Буцімто проклятий."
+
+msgid "Ink Mushrooms"
+msgstr "Чорнильні гриби"
+
+msgid "Black mushrooms."
+msgstr "Чорні гриби."
+
+msgid "Lit Candle"
+msgstr "Запалена свічка"
+
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "Свічка, яку я забрала зі статуї в оселі скульптора."
+
+msgid "Unlit Candle"
+msgstr "Погашена свічка"
+
+msgid "Blue Candle"
+msgstr "Синя свічка"
+
+msgid "A candle that the candle person gave to me."
+msgstr "Її мені дав чоловік-свічка."
+
+msgid "AC Adapter"
+msgstr "Адаптер змін. струму"
+
+msgid "A power plug adapter. It converts a 3-prong plug for a 2-prong socket."
+msgstr "Адаптер, що перетворює вилку з трьома контактами у вилку з двома контактами."
+
+msgid "Scissors"
+msgstr "Ножиці"
+
+msgid "A pair of scissors. Pointy!"
+msgstr "Звичайна пара ножиць. Гостренькі!"
+
+msgid "Padlock Key"
+msgstr "Малий ключик"
+
+msgid "A key that should open the gate with the warning sign."
+msgstr "Ключ, що має відчинити браму з попереджувальними знаками."
+
+msgid "Caterpillar"
+msgstr "Гусінь"
+
+msgid "The moths asked me to get rid of him for a reward."
+msgstr "Молі нагородять мене, якщо я її позбудусь."
+
+msgid "Treasure Hunter's Letter"
+msgstr "Лист мисливця за скарбами"
+
+msgid "A letter I found under a statue."
+msgstr "Лист, який я знайшла попід статуєю."
+
+msgid "Treasure Hunter's Note 1"
+msgstr "Перша записка мисливця за скарбами"
+
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Записка, яку я знайшла. У ній йдеться про Зачинену Зону."
+
+msgid "Treasure Hunter's Note 2"
+msgstr "Друга записка мисливця за скарбами"
+
+msgid "Treasure Hunter's Note 3"
+msgstr "Третя записка мисливця за скарбами"
+
+msgid "Treasure Hunter's Note 4"
+msgstr "Четверта записка мисливця за скарбами"
+
+msgid "Secret Passage Code"
+msgstr "Код від потаємного проходу"
+
+msgid "Contains the code to open the secret passage under Red's house."
+msgstr "Код від потаємного проходу під хатинкою Реда."
+
+msgid "Boat Paddle"
+msgstr "Весло"
+
+msgid "Perfect for rowing a boat."
+msgstr "Саме те, щоб гребти."
+
+msgid "Injured Bunny"
+msgstr "Поранений зайчик"
+
+msgid "It couldn't run away, so now it's in my inventory. Looks like it has a broken leg."
+msgstr "Він не зміг втекти, тому хай поки побуде у мене в інвентарі. Схоже, у нього зламана лапка."
+
+msgid "Lavender Flower"
+msgstr "Лаванда"
+
+msgid "Smells like laundry."
+msgstr "Пахне як пральний порошок."
+
+msgid "Goldfish"
+msgstr "Золота рибка"
+
+msgid "Dead Goldfish"
+msgstr "Мертва золота рибка"
+
+msgid "Might have been better off where it was."
+msgstr "Вона почувалася краще там, звідки я її взяла."
+
+msgid "Black Algae"
+msgstr "Чорні водорості"
+
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Водорості, які я виловила зі дна озера."
+
+msgid "Blue Algae"
+msgstr "Сині водорості"
+
+msgid "Green Algae"
+msgstr "Зелені водорості"
+
+msgid "Pink Petals"
+msgstr "Рожеві пелюстки"
+
+msgid "Some flower petals I found."
+msgstr "Квіткові пелюстки, які я знайшла."
+
+msgid "Purple Petals"
+msgstr "Фіолетові пелюстки"
+
+msgid "White Petals"
+msgstr "Білі пелюстки"
+
+msgid "Handle (Square)"
+msgstr "Вентиль (Квадрат)"
+
+msgid "A purple handle for a valve mechanism. The protrusion is square-shaped."
+msgstr "Фіолетовий вентиль для механізму. Форма кріплення - квадрат."
+
+msgid "Handle (Pentagon)"
+msgstr "Вентиль (П'ятикутник)"
+
+msgid "A red handle for a valve mechanism. The protrusion is pentagon-shaped."
+msgstr "Червоний вентиль для механізму. Форма кріплення - п'ятикутник."
+
+msgid "Handle (Star)"
+msgstr "Вентиль (Зірка)"
+
+msgid "A yellow handle for a valve mechanism. The protrusion is shaped like a 5-point star."
+msgstr "Жовтий вентиль для механізму. Форма кріплення - п'ятикутна зірка."
+
+msgid "Handle (Diamond)"
+msgstr "Вентиль (Ромб)"
+
+msgid "A white handle for a valve mechanism. The protrusion is diamond-shaped."
+msgstr "Білий вентиль для механізму. Форма кріплення - ромб."
+
+msgid "Fuse (5)"
+msgstr "Запобіжник (5)"
+
+msgid "Fuse (10)"
+msgstr "Запобіжник (10)"
+
+msgid "Fuse (15)"
+msgstr "Запобіжник (15)"
+
+msgid "Fuse (20)"
+msgstr "Запобіжник (20)"
+
+msgid "Fuse (25)"
+msgstr "Запобіжник (25)"
+
+msgid "Fuse (40)"
+msgstr "Запобіжник (40)"
+
+msgid "_____"
+msgstr "_____"
+
+msgid "It's sharp."
+msgstr "Він гострий."
+
+msgid "Iron Key"
+msgstr "Залізний ключ"
+
+msgid "A fairly large metallic key."
+msgstr "Досить великий металевий ключ."
+
+msgid "Copper Key"
+msgstr "Мідний ключ"
+
+msgid "A regular key. It probably opens a door somewhere."
+msgstr "Звичайний ключ. Має відчинити якісь двері."
+
+msgid "Bucket"
+msgstr "Відро"
+
+msgid "A metallic bucket. It can transport various liquid substances."
+msgstr "Металеве відро. У нього можна набирати різноманітні рідини."
+
+msgid "Bucket of Water"
+msgstr "Відро з водою"
+
+msgid "A bucket full of water. It's heavy."
+msgstr "Повне відро з водою. Важке."
+
+msgid "Bucket of Special Water"
+msgstr "Відро з особливою водою"
+
+msgid "A bucket full of water. It comes from a special faucet in the forest."
+msgstr "Повне відро з водою. Сама вода походить з особливого крану в лісі."
+
+msgid "Flat Screwdriver"
+msgstr "Пласка викрутка"
+
+msgid "A simple screwdriver."
+msgstr "Звичайна викрутка."
+
+msgid "Coin"
+msgstr "Монета"
+
+msgid "A coin that's not quite like the ones back home."
+msgstr "Вдома такі не знайдеш."
+
+msgid "Return Doorknob"
+msgstr "Ручка вороття"
+
+msgid "Apparently, this is my ticket back home. I purchased it online."
+msgstr "Схоже, ця дверна ручка в змозі повернути мене додому. Я придбала її в інтернеті."
+
+msgid "Doorknob With Flower"
+msgstr "Ручка з квіткою"
+
+msgid "A doorknob. I found this lying around."
+msgstr "Дверна ручка. Вона лежала на землі."
+
+msgid "Doorknob Fragment"
+msgstr "Відламок ручки"
+
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "Частини дверної ручки. Я не можу скласти їх докупи."
+
+msgid "Gray Doorknob"
+msgstr "Сіра ручка"
+
+msgid "A doorknob. It has the same symbol as my letter."
+msgstr "Дверна ручка. На ній намальований той же символ, що й на моєму листі."
+
+msgid "White Doorknob"
+msgstr "Біла ручка"
+
+msgid "A doorknob. It looks like a white lily."
+msgstr "Дверна ручка. Схожа на білу лілію."
+
+msgid "Doorknob With Eye"
+msgstr "Ручка з оком"
+
+msgid "A doorknob I got from the moths. Can probably be used at that door with the slots."
+msgstr "Дверна ручка, яку мені дали молі. Мабуть, вийде вставити її у двері."
+
+msgid "Paper Lily Folding Steps"
+msgstr "Інструкції зі складання паперової лілії"
+
+msgid "Instructions detailing how to fold a piece of paper to look like a lily flower."
+msgstr "Покрокова інструкція зі складання паперової лілії з аркуша паперу."
+
+msgid "Facility Map"
+msgstr "Мапа комплексу"
+
+msgid "A map of the facility, drawn by someone."
+msgstr "Кимось намальована мапа комплексу."
+
+msgid "Black Knife"
+msgstr "Чорний ніж"
+
+msgid "A fully black knife. It's still very sharp."
+msgstr "Почорнівший ніж. Він геть не тупий."
+
+msgid "Knife"
+msgstr "Ніж"
+
+msgid "A knife."
+msgstr "Просто ніж."
+
+msgid "Human Foot"
+msgstr "Людська нога"
+
+msgid "A foot that used to belong to someone."
+msgstr "Нога, яка комусь належала."
+
+msgid "Sketchbook"
+msgstr "Альбом"
+
+msgid "A sketchbook full of colors you splattered all over it."
+msgstr "Ескізний альбом, повний фарб, які ви по ньому розбризкали."
+
+msgid "Black Object"
+msgstr "Чорний предмет"
+
+msgid "An unknown circular object that's fully black. Feels like wood and glass."
+msgstr "Невідомий круглий та повністю чорний предмет. На дотик мов дерево та скло."
+
+msgid "Hand Mirror"
+msgstr "Дзеркальце"
+
+msgid "A wooden hand mirror."
+msgstr "Мале дерев'яне дзеркало."
+
+msgid "An unknown object that's fully black. Feels like a piece of fabric."
+msgstr "Невідомий круглий та повністю чорний предмет. На дотик як шматок тканини."
+
+msgid "Cold Compress"
+msgstr "Холодна ганчірка"
+
+msgid "A wet rag."
+msgstr "Мокра ганчірка."
+
+msgid "Eyeball"
+msgstr "Око"
+
+msgid "An eyeball. The owner seems to have had golden eyes."
+msgstr "Очне яблуко. У його власника були золоті очі."
+
+msgid "Small Key"
+msgstr "Ключик"
+
+msgid "A small key. Looks like it could belong to a padlock or something similar."
+msgstr "Невеликий ключик. Схоже, він має відчинити якийсь невеликий замок."
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "A key for something."
+msgstr "Ключ від чогось."
+
+msgid "Glass Jar"
+msgstr "Скляна банка"
+
+msgid "A small glass jar. I found 3 of them."
+msgstr "Невелика скляна банка. Я знайшла одразу три такі."
+
+msgid "Jar of Water"
+msgstr "Банка з водою"
+
+msgid "A small glass jar full of water."
+msgstr "Невелика банка з водою."
+
+msgid "Jar of Red Pigment"
+msgstr "Банка з чер. пігментом"
+
+msgid "A small glass jar with red pigment. Needs water."
+msgstr "Невелика банка з червоним пігментом. Треба додати води."
+
+msgid "Jar of Yellow Pigment"
+msgstr "Банка з жов. пігментом"
+
+msgid "A small glass jar with yellow pigment. Needs water."
+msgstr "Невелика банка з жовтим пігментом. Треба додати води."
+
+msgid "Jar of Blue Pigment"
+msgstr "Банка з син. пігментом"
+
+msgid "A small glass jar with blue pigment. Needs water."
+msgstr "Невелика банка з синім пігментом. Треба додати води."
+
+msgid "Jar of Red Paint"
+msgstr "Банка з чер. фарбою"
+
+msgid "A small glass jar with red paint."
+msgstr "Невелика банка з червоною фарбою."
+
+msgid "Jar of Yellow Paint"
+msgstr "Банка з жов. фарбою"
+
+msgid "A small glass jar with yellow paint."
+msgstr "Невелика банка з жовтою фарбою."
+
+msgid "Jar of Blue Paint"
+msgstr "Банка з син. фарбою"
+
+msgid "A small glass jar with blue paint."
+msgstr "Невелика банка з синьою фарбою."
+
+msgid "Lighter"
+msgstr "Запальничка"
+
+msgid "A lighter."
+msgstr "Звичайна запальничка."
+
+msgid "Lock Pick"
+msgstr "Відмичка"
+
+msgid "A lock pick. I don't know how to use this..."
+msgstr "Відмичка. Я не вмію нею користуватись..."
+
+msgid "Rainbow Potion"
+msgstr "Райдужне зілля"
+
+msgid "A strange potion. I wonder what it does..."
+msgstr "Чудернацьке зілля. Цікаво, що воно робить..."
+
+msgid "Temp. Rainbow Potion"
+msgstr "Тимчасове райд. зілля"
+
+msgid "A strange potion that Spider directed me to. It has a shorter duration than the original one."
+msgstr "Чудернацьке зілля, яке я знайшла завдяки Павучку. Воно діє не так довго, як звичайне зілля."
+
+msgid "Lily"
+msgstr "Лілія"
+
+msgid "A lily. I'm supposed to bring it home with me."
+msgstr "Лілія. Я маю повернутися з нею додому."
+
+msgid "Flower"
+msgstr "Квітка"
+
+msgid "Sewing Kit"
+msgstr "Набір для шиття"
+
+msgid "Cabbage"
+msgstr "Капуста"
+
+msgid "Red Item I"
+msgstr "Червоний предмет I"
+
+msgid "A red item. I can't tell what it is."
+msgstr "Щось червоне. Я не знаю, що це таке."
+
+msgid "Red Item II"
+msgstr "Червоний предмет II"
+
+msgid "Red Item III"
+msgstr "Червоний предмет III"

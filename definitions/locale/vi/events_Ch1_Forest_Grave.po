@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You left a flower.)"
+msgstr "(Bạn đã để lại bông hoa.)"
+
+msgid "Some building blocks."
+msgstr "Vài cái khối xếp đồ chơi."
+
+msgid "A sand bucket."
+msgstr "Cái xô cát."
+
+msgid "A stack of playing cards. They look handmade."
+msgstr "Chồng bài tú-lơ-khơ. Trông như đồ chế bằng tay."
+
+msgid "A gravestone lies here. You can't make out the name on it."
+msgstr "Ở đây có dựng phiến mộ thạch. Bạn không nhìn ra được cái tên trên nó."
+
+msgid "There's a neatly written note taped to the back of the gravestone."
+msgstr "Đằng sau phiến bia mộ có dán băng dính tờ ghi chữ nắn nót."
+
+msgid "Read it?"
+msgstr "Đọc nó chứ?"
+
+msgid "Yes"
+msgstr "Đọc"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "It's been 5 years since your passing."
+msgstr "Từ khi cậu qua đời giờ đã 5 năm rồi."
+
+msgid "I often wonder if things would have been different, had I been with you."
+msgstr "Tớ hay thắc mắc rằng nếu chuyện mà khác đi, nếu lúc đó tớ ở bên cậu."
+
+msgid "Would I have been able to protect you?"
+msgstr "Thì tớ có thể bảo vệ cậu không?"
+
+msgid "Would I have died in your place?"
+msgstr "Thì tớ có chết thay cho cậu không?"
+
+msgid "I would have gladly accepted that resolution."
+msgstr "Giải pháp khi đó mà là thế thì tớ sẵn lòng chấp nhận."
+
+msgid "I wish I was strong and brave enough to fight for you."
+msgstr "Giá mà tớ đủ dũng cảm và mạnh mẽ để mà chiến đấu cho cậu."
+
+msgid "But vengeance won't bring you back."
+msgstr "Nhưng có trả thù cũng không đem về người đã khuất."
+
+msgid "I can only continue to warn everyone, and hope the locked site doesn't take another victim."
+msgstr "Tớ chỉ còn cách tiếp tục cảnh báo mọi người, và hy vọng rằng khu bị khóa đấy không lấy mạng ai khác nữa."
+
+msgid "It's been quiet in the forest for the past few years."
+msgstr "Mấy năm qua khu rừng yên tĩnh nhỉ."
+
+msgid "But I know you always hated quiet."
+msgstr "Nhưng mà tớ biết cậu lúc nào cũng ghét tĩnh mịch."
+
+msgid "Please rest well."
+msgstr "Hãy yên nghỉ nhé."
+
+msgid "I'll visit you again soon."
+msgstr "Tớ sẽ thăm lại cậu sớm."
+
+msgid "- Marzie"
+msgstr "– Marzie"
+
+msgid "A vase with fresh cut flowers."
+msgstr "Chiếc lọ có cắt cắm hoa tươi."

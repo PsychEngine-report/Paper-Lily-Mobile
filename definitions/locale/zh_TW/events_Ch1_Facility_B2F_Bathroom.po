@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Huh... A bathroom?)"
+msgstr "(嗯...廁所？)"
+
+msgid "Um... excuse me."
+msgstr "呃...不好意思。"
+
+msgid "Could you wait outside?"
+msgstr "你可以在外面等嗎？"
+
+msgid "Wha-? Oh. Of course."
+msgstr "什麼-？喔。當然。"
+
+msgid "I- ...I guess I'll stay out there."
+msgstr "我...我會在外面等。"
+
+msgid "Scream if you need me."
+msgstr "需要我的話就大叫。"
+
+msgid "...I won't."
+msgstr "...我不會的。"
+
+msgid "(Now I get to have some time away from that guy.)"
+msgstr "(現在我可以離開那傢伙一段時間了。)"
+
+msgid "(Is it really safe to have him around?)"
+msgstr "(在他身邊真的安全嗎？)"
+
+msgid "(A bathroom?)"
+msgstr "(廁所？)"
+
+msgid "(I hope that guy won't find me here.)"
+msgstr "(希望那傢伙不會在這找到我。)"
+
+msgid "(I don't really trust him... Hopefully he's not searching for me...)"
+msgstr "(我真的不太信任他...希望他沒有在找我...)"
+
+msgid "(Hiro would tell me to have a bit of faith in others, but...)"
+msgstr "(廣人會告訴我要對別人有些信心，可是...)"
+
+msgid "..."
+msgstr "..."
+
+msgid "(I wonder if I could ask Hiro.)"
+msgstr "(不曉得能不能問廣人。)"
+
+msgid "(Is it even possible to call from here?)"
+msgstr "(在這裡有可能撥電話出去嗎？)"
+
+msgid "(I still have no signal... but... that didn't matter last time.)"
+msgstr "(還是沒有訊號...可是...上次也沒有影響。)"
+
+msgid "Oh... I'm out of battery."
+msgstr "喔...沒電了。"
+
+msgid "That's not good... I suppose using it as a flashlight killed it."
+msgstr "不好了...大概是把它當手電筒用完電了。"
+
+msgid "...Oh well."
+msgstr "...好吧。"
+
+msgid "I'll give it a try."
+msgstr "讓我試試。"
+
+msgid "Lace!"
+msgstr "萊西！"
+
+msgid "Oh good..."
+msgstr "太好了..."
+
+msgid "Thank goodness I can reach you, Hiro..."
+msgstr "可以聯絡到你真是太好了，廣人..."
+
+msgid "Are you alright!?"
+msgstr "妳還好嗎！？"
+
+msgid "What happened!?"
+msgstr "發生了什麼事！？"
+
+msgid "Are you safe!?"
+msgstr "妳安全嗎！？"
+
+msgid "Yes, I'm okay."
+msgstr "是啊，我很好。"
+
+msgid "(Though I did fall down the stairs and wake up in some sort of dungeon...)"
+msgstr "(雖然我從樓梯摔下來，然後在某個地窖裡醒來...)"
+
+msgid "(and there's a strange guy following me everywhere...)"
+msgstr "(然後有個奇怪的人到處跟著我...)"
+
+msgid "(...and there was a strange guy following me everywhere...)"
+msgstr "(...然後之前有個奇怪的人到處跟著我...)"
+
+msgid "(...and Rune said there's no way out.)"
+msgstr "(...而且符石說沒有辦法出去...)"
+
+msgid "Everything is okay, don't worry."
+msgstr "一切都很好，不用擔心。"
+
+msgid "Thank god."
+msgstr "謝天謝地。"
+
+msgid "Is everything alright? Why are you whispering?"
+msgstr "一切都還好嗎？妳為什麼說話這麼小聲？"
+
+msgid "Because there's someone right outside, and..."
+msgstr "因為有個人在外面，而且..."
+
+msgid "Because someone might be looking for me."
+msgstr "因為有個人可能在找我。"
+
+msgid "An enemy!?"
+msgstr "是敵人嗎！？"
+
+msgid "No, well... he says he's not."
+msgstr "不是，好吧...他說他不是。"
+
+msgid "And now he's following me around."
+msgstr "然後他現在一直跟著我。"
+
+msgid "You made a friend!?"
+msgstr "妳交到朋友了！？"
+
+msgid "No."
+msgstr "沒有。"
+
+msgid "I don't really trust him."
+msgstr "我真的不太信任他。"
+
+msgid "But maybe it's better to have company! He might be willing to tag along and help!"
+msgstr "可是有個伴可能會比較好！他可能會願意跟著並幫助妳！"
+
+msgid "But... that's why it's strange."
+msgstr "可是...這樣就很奇怪了。"
+
+msgid "Why is he willing to tag along?"
+msgstr "為什麼他願意跟著我？"
+
+msgid "...You know how people act around me, Hiro..."
+msgstr "...你知道人們在我周圍的樣子，廣人..."
+
+msgid "And he's just acting...like nothing is wrong with me."
+msgstr "而他的樣子...就像是我一點毛病都沒有。"
+
+msgid "Hmmm..."
+msgstr "嗯~~..."
+
+msgid "You sound conflicted."
+msgstr "聽起來妳很衝突。"
+
+msgid "Well... I don't really care, I just..."
+msgstr "好吧...我真的不在乎，我只是..."
+
+msgid "He's just shady."
+msgstr "他看起來不太老實。"
+
+msgid "Well, tell you what. It's your choice."
+msgstr "好吧。這是妳的選擇。"
+
+msgid "You can have him tag along and see how it plays out..."
+msgstr "妳可以讓他跟著你然後看看會發生什麼事..."
+
+msgid "...or you can ditch him."
+msgstr "...妳也可以拋下他。"
+
+msgid "No, well... he said he's not."
+msgstr "不，嗯...他說他不是。"
+
+msgid "But... it doesn't matter. I already got rid of him."
+msgstr "不過...沒有關係了。我早就甩掉他了。"
+
+msgid "Well, I can't condone murder but..."
+msgstr "好吧，我無法縱容謀殺可是..."
+
+msgid "No! Not like that! Hiro!"
+msgstr "不是！不是這樣的！廣人！"
+
+msgid "He's still somewhere around... I just slipped away for a bit."
+msgstr "他還在這附近...我只是溜走了。"
+
+msgid "Well, tell you what."
+msgstr "好吧，那麼這樣吧。"
+
+msgid "Next time he finds you, you could try locking him up somewhere."
+msgstr "下次他找到妳的時候，妳可以試著把他鎖在某個地方。"
+
+msgid "Huh... it's not like you to suggest something like that."
+msgstr "嗯...聽起來不像是你會建議的做法。"
+
+msgid "Well, I personally think you should have a bit of faith in him! But it's up to you."
+msgstr "好吧，我個人認為妳應該對他有點信心！但是這取決於妳。"
+
+msgid "Well, I personally think you could go back and apologize."
+msgstr "好吧，我個人認為妳可以回去道歉。"
+
+msgid "Nothing wrong with making a friend, right? Still, it's up to you."
+msgstr "交個朋友沒什麼壞處，對吧？不過，這取決於妳。"
+
+msgid "(Yeah... that's more like it.)"
+msgstr "(是啊...這樣才像話。)"
+
+msgid "I should go."
+msgstr "我該走了。"
+
+msgid "Be careful, Lace."
+msgstr "小心點，萊西。"
+
+msgid "Get back home safely."
+msgstr "安全回家。"
+
+msgid "Yeah."
+msgstr "好。"
+
+msgid "I can't believe I'm entertaining this idea."
+msgstr "不敢相信我在考慮這個主意。"
+
+msgid "This is the stupidest thing I've ever done."
+msgstr "這是我做過最蠢的事。"
+
+msgid "Just a few more trips!"
+msgstr "只要再多跑幾趟！"
+
+msgid "This'll work, you'll see."
+msgstr "會有用的，走著瞧。"
+
+msgid "There's no way."
+msgstr "不可能。"
+
+msgid "At least this is a good workout."
+msgstr "至少有好好運動到。"
+
+msgid "(I'm not fit enough for this...)"
+msgstr "(我的體格不適合...)"
+
+msgid "Sigh... What makes you think the drain isn't connected to the water we're removing..."
+msgstr "唉...你怎麼會覺得排水管跟我們要排掉的水不是相通的..."
+
+msgid "Hm... I don't know."
+msgstr "嗯...我不知道。"
+
+msgid "Well, too late to consider that now."
+msgstr "好吧，現在考慮到太遲了。"
+
+msgid "(What possessed me to agree to this?)"
+msgstr "(是什麼讓我同意做這種事的？)"
+
+msgid "We're really bonding over this, don't you think?"
+msgstr "我們因為這樣更加緊密了，不是嗎？"
+
+msgid "....."
+msgstr "....."
+
+msgid "One Eternity Later..."
+msgstr "一個永恆之後..."
+
+msgid "You actually did it."
+msgstr "妳真的做到了。"
+
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+msgid "This is nothing. Just wait until you hear my other ideas."
+msgstr "這沒什麼。你該聽聽我另一個點子。"
+
+msgid "I very much look forward to it!"
+msgstr "我很期待！"
+
+msgid "Will she be okay?"
+msgstr "她會沒事嗎？"
+
+msgid "She'll be fine."
+msgstr "她會沒事的。"
+
+msgid "See? She's still breathing."
+msgstr "看吧？她還在呼吸。"
+
+msgid "Um... will you be okay?"
+msgstr "呃...妳會沒事嗎？"
+
+msgid "Nice! You're sturdy, aren't you?"
+msgstr "很好！妳很堅強，不是嗎？"
+
+msgid "You ready to go?"
+msgstr "妳準備好了嗎？"
+
+msgid "A mop. It looks like it's never been used."
+msgstr "拖把，看起來沒被用過。"
+
+msgid "Everything here has been gathering dust for a really long time."
+msgstr "所有的東西都看起來積了灰塵很久。"
+
+msgid "There's something on this shelf."
+msgstr "架子上有東西。"
+
+msgid "There's nothing else of use."
+msgstr "沒有什麼有用的東西了。"
+
+msgid "A rusted sink."
+msgstr "生鏽的水槽。"
+
+msgid "A bathroom stall. It's occupied."
+msgstr "廁所隔間。被佔用了。"
+
+msgid "Try to open it anyways?"
+msgstr "仍要試著打開它嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Something shiny can be seen at the bottom of the toilet bowl."
+msgstr "在馬桶底部可以看到亮亮的東西。"
+
+msgid "Fish it out?"
+msgstr "撈出來嗎？"
+
+msgid "A small hand towel."
+msgstr "小擦手巾。"
+
+msgid "That took a million years."
+msgstr "還待得真久。"
+
+msgid "Were you talking to someone in there?"
+msgstr "妳在裡面跟誰說話嗎？"
+
+msgid "(Did he overhear anything...?)"
+msgstr "(他聽到了什麼嗎...？)"
+
+msgid "It kinda sounded like it."
+msgstr "聽起來像是。"
+
+msgid "I wasn't."
+msgstr "我沒有。"
+
+msgid "Oh."
+msgstr "喔。"
+
+msgid "It's cool, I talk to myself sometimes too."
+msgstr "沒關係，有時候我也會跟自己說話。"
+
+msgid "Like having a little narrator, right?"
+msgstr "就像是有個小旁白，對吧？"
+
+msgid "Find anything cool?"
+msgstr "有找到什麼酷玩意兒嗎？"
+
+msgid "Nope."
+msgstr "沒有。"
+
+msgid "...Where did you get that?"
+msgstr "...你是在哪裡拿到的？"
+
+msgid "The lollipop? I had 'em with me."
+msgstr "棒棒糖嗎？我一直帶著這些。"
+
+msgid "Want some?"
+msgstr "想要嗎？"
+
+msgid "I don't accept candy from strangers."
+msgstr "我不接受陌生人的糖果。"
+
+msgid "(Sai joined your party.)"
+msgstr "(賽伊加入了妳的隊伍。)"

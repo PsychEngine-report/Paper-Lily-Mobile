@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "Вилити: ${item:ch1.bucket_full}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "Вилити: ${item:ch1.bucket_full_holy}?"
+
+msgid "The faucet isn't working."
+msgstr "Кран не працює."
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "Набрати: ${item:ch1.bucket}?"
+
+msgid "There's a boat paddle here."
+msgstr "Тут лежить весло."
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "Взяти предмет: ${item:ch1.forest_paddles}?"
+
+msgid "I don't think this is where I'm supposed to put them..."
+msgstr "Мені здається, це треба класти не сюди..."
+
+msgid "The note said something about a \"little keeper\"...?"
+msgstr "У записці начебто було написано про якогось малого доглядача?.."
+
+msgid "There's a faucet coming out of the water."
+msgstr "З води стирчить кран."
+
+msgid "Turn it on?"
+msgstr "Увімкнути його?"
+
+msgid "Nothing is coming out of the faucet."
+msgstr "З крана нічого не тече."
+
+msgid "The water flows freely from the faucet."
+msgstr "З крана вільно тече вода."
+
+msgid "Something's floating near the stream..."
+msgstr "Біля потоку води щось плаває..."
+
+msgid "Take ${item:ch1.doorknob_library_fragment}?"
+msgstr "Взяти предмет: ${item:ch1.doorknob_library_fragment}?"
+
+msgid "Pink water lilies can be seen."
+msgstr "Тут є рожеве латаття."
+
+msgid "Take some ${item:ch1.lakeside_petals_pink}?"
+msgstr "Взяти предмет: ${item:ch1.lakeside_petals_pink}?"
+
+msgid "A structure housing a lamp."
+msgstr "Каркас з лампою всередині."
+
+msgid "The water is calm."
+msgstr "Води спокійні."

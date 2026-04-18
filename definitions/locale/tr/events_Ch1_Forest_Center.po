@@ -1,0 +1,1479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Welcome."
+msgstr "Hoşgeldin."
+
+msgid "5 coins each."
+msgstr "Her biri 5 madeni para."
+
+msgid "Buy a fish?"
+msgstr "Balık satın al?"
+
+msgid "Buy"
+msgstr "Satın al"
+
+msgid "Buy all"
+msgstr "Hepsini al"
+
+msgid "Talk"
+msgstr "Konuş"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.choice.Buy a fish?"
+msgid "Never mind"
+msgstr "Boşver"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.dlg.narrator"
+msgid "You don't have enough coins."
+msgstr "Yeterli madeni paran yok."
+
+msgid "(She looks intimidating...)"
+msgstr "(Korkutucu görünüyor...)"
+
+msgid "What're you staring at?"
+msgstr "Neye bakıyorsun?"
+
+msgid "You heard me. 5 coins each, no haggling."
+msgstr "Beni duydun. Her biri 5 madeni para, pazarlık yok."
+
+msgid "Or, you could buy all my fish for 10 coins. It's a pretty good deal and I get to take the rest of the day off."
+msgstr "Ya da, tüm balıklarımı 10 madeni paraya alabilirsin. Gayet iyi bir anlaşma ve bende geri kalan zamanımda dinlenirim."
+
+msgid "(What kind of deal is that...?)"
+msgstr "(Bu nasıl bir anlaşma...?)"
+
+msgid "I'll take one."
+msgstr "Bir tane alacağım."
+
+msgid "I'll take all of them."
+msgstr "Hepsini alacağım."
+
+msgid "I don't even have 5 coins."
+msgstr "5 madeni param bile yok."
+
+msgid "No thanks"
+msgstr "Yok kalsın"
+
+msgid "Does that sound like my problem? 5 coins each, no exceptions."
+msgstr "Benim sorunummuş gibi mi duruyor? Her biri için 5 madeni para, istisna yok."
+
+msgid "Ready to buy?"
+msgstr "Almaya hazır mısın?"
+
+msgid "What will I use the fish for?"
+msgstr "Balığı ne için kullanacağım?"
+
+msgid "What do I care?"
+msgstr "Umurumda mı?"
+
+msgid "Will you at least grill it?"
+msgstr "En azından ızgara yapacak mısın?"
+
+msgid "Do I look like a buffet?! Scram."
+msgstr "Büfeye mi benziyorum!? Defol."
+
+msgid "Where can I find more coins?"
+msgstr "Nereden daha fazla madeni para bulabilirim?"
+
+msgid "Sorry...! Please forget about it."
+msgstr "Pardon...! Lütfen onu unut."
+
+msgid "She doesn't seem like she wants to talk."
+msgstr "Konuşmak istiyormuş gibi görünmüyor."
+
+msgid "Welcome~"
+msgstr "Hoşgeldin~"
+
+msgid "We're out of stock for today, so come back again soon."
+msgstr "Stoğumuz bugünlük tükendi, yani sonra tekrar gelin."
+
+msgid "Business is booming. Today was a good day."
+msgstr "İş efsane gidiyor. Bugün iyi bir gündü."
+
+msgid "You should have rotted down there."
+msgstr "Orada çürümen gerekiyordu."
+
+msgid "Just like my fish."
+msgstr "Balığım gibi."
+
+msgid "Alba is counting the money she earned today."
+msgstr "Alba bugün kazandığı parayı sayıyor."
+
+msgid "Aoi."
+msgstr "Aoi."
+
+msgid "Lacie!! Thank you!"
+msgstr "Lacie!! Teşekkürler!"
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I was going to say that...)"
+msgstr "(Onu ben söyleyecektim...)"
+
+msgid "Thanks to your idea, we managed to get out!!"
+msgstr "Senin fikrin sayesinde, çıkabilmeyi başardık!!"
+
+msgid "Ah, No... thank you."
+msgstr "Ah, Hayır...teşekkürler."
+
+msgid "Um... also... with the fish lady..."
+msgstr "Uh...bide...balık hanım ile..."
+
+msgid "I mean... um..."
+msgstr "Ben şey...uh..."
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "You're nice."
+msgstr "İyisin."
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "...!"
+msgstr "...!"
+
+msgid "Heheh I'm glad I met you Lacie!"
+msgstr "Heheh seninle tanıştığıma memnun oldum Lacie!"
+
+msgid "And I'm glad you had those amazing scissors!"
+msgstr "Ve o harika makasa sahip olduğun için minnettarım!"
+
+msgid "They really saved us both."
+msgstr "Cidden ikimizi de kurtardılar."
+
+msgid "I hope I'll be able to have such cool scissors some day too!"
+msgstr "Umarım bende bir gün öyle havalı bir makasa sahip olurum!"
+
+msgid "Oh... yeah."
+msgstr "Ah...tabii."
+
+msgid "You can keep them."
+msgstr "Sende kalabilir."
+
+msgid "WHAAAT?!"
+msgstr "NEE?!"
+
+msgid "But Lacie, what if you need them!"
+msgstr "Ama Lacie, ya ihtiyacın olursa!"
+
+msgid "I'll be fine."
+msgstr "İyi olacağım."
+
+msgid "Wow!!"
+msgstr "Vay!!"
+
+msgid "Thank you so much!"
+msgstr "Çok teşekkürler!"
+
+msgid "This is the best gift anyone's ever given me!"
+msgstr "Bu birinin bana verdiği en iyi hediye!"
+
+msgid "What will you do now?"
+msgstr "Şimdi ne yapacaksın?"
+
+msgid "Well... I'm... looking for something. Some answers, I guess."
+msgstr "Şey...ben...bir şey arıyorum. Bazı cevaplar,sanırım."
+
+msgid "For now, I need to go through the locked site."
+msgstr "Şimdilik, o kilitli yerden geçmem gerek."
+
+msgid "Ohh!"
+msgstr "Ohh!"
+
+msgid "Be careful in there."
+msgstr "Orada dikkatli ol."
+
+msgid "I have a tip! Always hide in the bushes!"
+msgstr "Bir taktik vereyim! Her zaman çalılara saklan!"
+
+msgid "Thank you."
+msgstr "Teşekkürler."
+
+msgid "Are you leaving?"
+msgstr "Gidiyor musun?"
+
+msgid "Oh, yeah, back to work for me heheh."
+msgstr "Oh, evet, benim için işe dönme vakti heheh."
+
+msgid "I've had enough adventures..."
+msgstr "Yeteri kadar macera yaşadım..."
+
+msgid "Is that good?"
+msgstr "Bu iyi bir şey mi?"
+
+msgid "I'm not looking forward to it..."
+msgstr "Çokta hevesli değilim..."
+
+msgid "But.. it's where I live, so..."
+msgstr "Ama...orası yaşadığım yer, yani..."
+
+msgid "Maybe we'll meet again?"
+msgstr "Belki tekrar karşılaşırız?"
+
+msgid "Yeah."
+msgstr "Evet."
+
+msgid "(That would be nice.)"
+msgstr "(Güzel olurdu.)"
+
+msgid "This isn't goodbye, okay!?"
+msgstr "Bu bir elveda değil, tamam mı!?"
+
+msgid "Oh, okay."
+msgstr "Oh, tamam."
+
+msgid "Then..."
+msgstr "O zaman..."
+
+msgid "See you later!"
+msgstr "Sonra görüşürüz!"
+
+msgid "See you."
+msgstr "Görüşürüz."
+
+msgid "(I feel like I should have said more... Why am I so bad with words?)"
+msgstr "(Daha fazla konuşmalıymışım gibi hissediyorum...neden kelimelerle bu kadar kötüyüm?)"
+
+msgid "(Sigh... I just have to make sure to say it next time we meet.)"
+msgstr "(Ahh...bir sonraki buluşmamızda söylediğimden emin olmam gerek.)"
+
+msgid "Mee-mee-mee-"
+msgstr "T-ta-tanı-"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "...?"
+msgstr "...?"
+
+msgid "Mee-meet!"
+msgstr "Tanı-tanış!"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Uh...N-N-Nice to... meet..."
+msgstr "Uh...T-t-tanıştığımıza...memnun..."
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "..."
+msgstr "..."
+
+msgid "A-a-apologies. I-I-I'm not very good at speaking under pressure."
+msgstr "A-a-afedersin. B-b-baskı altında konuşmakta çok iyi değilim."
+
+msgid "(He's worse than me...)"
+msgstr "(Benden daha beter...)"
+
+msgid "Kozmo."
+msgstr "Kozmo."
+
+msgid "...What?"
+msgstr "...ne?"
+
+msgid "Oh... Y-y-you didn't ask for my name."
+msgstr "Oh...A-a-adımı sormadın bana."
+
+msgid "Yeah... I didn't."
+msgstr "Evet...sormadım."
+
+msgid "Th-This interaction is not enjoyable."
+msgstr "Bu-bu etkileşim hiç eğlenceli değil."
+
+msgid "It's nice to meet you, Kozmo."
+msgstr "Tanıştığıma memnun oldum, Kozmo."
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "...!"
+
+msgid "L-l-likewise, ...erm...?"
+msgstr "A-a-aynı şekilde, ...uhm...?"
+
+msgid "Your-your..your-"
+msgstr "Senin-senin..senin-"
+
+msgid "Your name is...?"
+msgstr "Senin adın...?"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "Oh."
+msgstr "Oh."
+
+msgid "It's um... It's not important."
+msgstr "Uh...bu önemli değil."
+
+msgid "O-oh... okay..."
+msgstr "O-oh... tamam..."
+
+msgid "So..."
+msgstr "Peki..."
+
+msgid "Why are you so bad at speaking?"
+msgstr "Neden konuşmakta bu kadar kötüsün?"
+
+msgid "What are you doing here?"
+msgstr "Burada ne yapıyorsun?"
+
+msgid "(Knock on his head)"
+msgstr "(Kafasına vur)"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.So..."
+msgid "Never mind"
+msgstr "Boşver"
+
+msgid "Y-y-y-you think I'm bad at speaking...?"
+msgstr "K-k-konuşmakta kötü olduğumu mu düşünüyorsun...?"
+
+msgid "Well... you said it yourself, did you not?"
+msgstr "Uh...sen kendin bunu söyledin, söylemedin mi?"
+
+msgid "Oh... w-well..."
+msgstr "Oh... ş-şey..."
+
+msgid "Th-Th-The truth is..."
+msgstr "G-ger-gerçek şu ki..."
+
+msgid "I-I-I've been told I sometimes....."
+msgstr "B-ba-bana söylendi ki ben bazen..."
+
+msgid "S-s-stutter...!"
+msgstr "k-k-kekeliyormuşum!"
+
+msgid "Oh. I'm sorry to hear that."
+msgstr "Oh. Bunu duyduğuma üzüldüm."
+
+msgid "D-d-d-do you think I stutter?!?"
+msgstr "B-b-benim kekelediğimi düşünüyor musun?!?"
+
+msgid "(Do I think Kozmo stutters...?)"
+msgstr "(Kozmo'nun kekelediğini düşünüyor muyum...?)"
+
+msgid "It's not my place to say."
+msgstr "Bunu söylemek bana düşmez."
+
+msgid "Yes, it's very obvious."
+msgstr "Evet, gayet belli."
+
+msgid "O-oh... That's okay."
+msgstr "O-oh...sorun değil."
+
+msgid "M-m-maybe I've improved, and it's not so noticeable!"
+msgstr "B-b-belki de geliştim, ve çokta farkedilebilir değil!"
+
+msgid "Maybe."
+msgstr "Belki."
+
+msgid "O-oh dear......"
+msgstr "A-amanın......"
+
+msgid "Do you live here?"
+msgstr "Burada mı yaşıyorsun?"
+
+msgid "N-no.. Not many of us live in the forest."
+msgstr "H-hayır...çoğumuz ormanda yaşamıyor..."
+
+msgid "I-it's too distant, you see..."
+msgstr "Anlayabileceğin gibi, ç-çok uzakta."
+
+msgid "Too distant to... what, exactly?"
+msgstr "Tam olarak, neye çok uzak?？"
+
+msgid "T-t-the city, mainly."
+msgstr "Ş-ş-şehire, çoğunlukla."
+
+msgid "How do you get to the city from here?"
+msgstr "Buradan şehire nasıl gidilir?"
+
+msgid "Is-is-is-is this a quiz?"
+msgstr "B-b-bu-bu bir sınav mı?"
+
+msgid "No, I..."
+msgstr "Hayır, ben..."
+
+msgid "We-well... It's... um... y-y-you can... you can take the bus... o-o-or the train..."
+msgstr "Ş-şey... bu... um... o-o-otobüse binebilirsin...y-ya da trene..."
+
+msgid "Don't you know this though?"
+msgstr "Bunu zaten bilmiyor musun?"
+
+msgid "Come to think of it, where are you from?"
+msgstr "Aklıma gelmişken, sen neredensin?"
+
+msgid "I should be going."
+msgstr "Gitmem gerekiyor."
+
+msgid "A-a-a-a don't do that! It's fragile!"
+msgstr "A-a-a-a onu yapma! O çok narin!"
+
+msgid "S-s-s-s-stop...!!"
+msgstr "D-d-d-d-dur...!!"
+
+msgid "Um... this isn't what I expected..."
+msgstr "Um... bu beklediğim gibi değildi..."
+
+msgid "Wh-wh-what have you done..!? Oh no, oh no, oh no."
+msgstr "N-n-ne yaptın sen..!? Oh hayır, oh hayır ,oh hayır."
+
+msgid "Please help me!"
+msgstr "Lütfen bana yardım et!"
+
+msgid "P-p-please find me a new head!"
+msgstr "L-l-lütfen bana yeni bir kafa bul!"
+
+msgid "A new head..?"
+msgstr "Yeni bir kafa..?"
+
+msgid "A-a-anything hollow can serve as one, please!"
+msgstr "O-o-oyuk olan herhangi birşey olur, lütfen!"
+
+msgid "H-h-h-hurry!"
+msgstr "Ç-ç-çabuk!"
+
+msgid "If it all escapes I'll...I'll-"
+msgstr "Eğer hepsi sızarsa ben...ben-"
+
+msgid "Knock again?"
+msgstr "Tekrar vur?"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A large amount of something leaks from Kozmo."
+msgstr "Büyük oranda birşey Kozmo'dan sızıyor."
+
+msgid "I should hurry."
+msgstr "Acele etmem gerek."
+
+msgid "Kozmo sways left and right."
+msgstr "Kozmo sağa sola sallanıyor."
+
+msgid "Kozmo is sporting a new head."
+msgstr "Kozmo yeni bir kafaya sahip oldu."
+
+msgid "P-p-p-p-p-please... give me a moment..."
+msgstr "L-l-l-l-lütfen...bana bir dakika ver..."
+
+msgid "Apologize?"
+msgstr "Özür dile?"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "I'm sorry if I was rude."
+msgstr "Kaba davrandıysam özür dilerim."
+
+msgid "I'm not very good at... interacting with people either."
+msgstr "Bende...insanlarla etkileşim kurmakta iyi değilim."
+
+msgid "I don't get much practice."
+msgstr "Çok fazla uğraşmıyorum."
+
+msgid "R-r-really?"
+msgstr "C-c-cidden mi?"
+
+msgid "Mhm..."
+msgstr "hmhm..."
+
+msgid "I think it's okay that you stutter."
+msgstr "Bence kekelemende sorun yok."
+
+msgid "At least you're still able to convey your feelings."
+msgstr "En azından hala hislerini aktarabiliyorsun."
+
+msgid "Thank you for reassuring me!"
+msgstr "Bana güven verdiğin için teşekkürler!"
+
+msgid "(Phew...)"
+msgstr "(Phew...)"
+
+msgid "Kozmo's clothes remain here."
+msgstr "Kozmo'nun kıyafetleri burada."
+
+msgid "Kozmo isn't here anymore."
+msgstr "Kozmo artık burada değil."
+
+msgid "A pleasure."
+msgstr "Bir zevk."
+
+msgid "Huh?"
+msgstr "He?"
+
+msgid "You're not from around here."
+msgstr "Buralardan değilsin."
+
+msgid "How do you know?"
+msgstr "Nereden biliyorsun?"
+
+msgid "You wander around anxiously."
+msgstr "Etrafta gergince dolanıyorsun."
+
+msgid "Oh..."
+msgstr "Oh..."
+
+msgid "Sit if you wish... The fire is captivating."
+msgstr "İstersen otur...ateş büyüleyici."
+
+msgid "No... thank you."
+msgstr "Hayır...teşekkürler."
+
+msgid "What should I say?"
+msgstr "Ne söylemeliyim?"
+
+msgid "\"Are you a bug?\""
+msgstr "\"Bir böcek misin?\""
+
+msgid "\"Can you help me?\""
+msgstr "\"Bana yardım edebilir misin?\""
+
+msgid "About the reward"
+msgstr "Ödül hakkında"
+
+msgid "You have wings."
+msgstr "Kanatların var."
+
+msgid "What of it?"
+msgstr "Ne olmuş yani?"
+
+msgid "Are you a butterfly?"
+msgstr "Kelebek misin?"
+
+msgid "...Disgusting."
+msgstr "...iğrenç."
+
+msgctxt "events.Ch1_Forest_Center.chr_milion.dlg.lacie"
+msgid "Oh."
+msgstr "Oh."
+
+msgid "A-a-a moth is the correct term. It-it-it must be your first encounter with one."
+msgstr "G-g-güve doğru olan tanım. B-b-bir tanesiyle ilk karşılaşman olmalı."
+
+msgid "Th-Th-Th-They say if you meet all 9 moths you'll get a reward."
+msgstr "D-d-der-derler ki eğer 9 güvenin hepsiyle tanışırsan bir ödül alırsın."
+
+msgid "Folklore is all it is. Why would anyone give you a reward?"
+msgstr "Hepsi söylentiden ibaret. Neden birisi sana hediye versin ki?"
+
+msgid "So-so-sometimes, you get rewarded for hard work. I-I-I've already met f-f-four."
+msgstr "B-ba-bazenleri, sıkı çalıştığın için ödüllendirilirsin. D-d-dört tanesi ile zaten tanıştım."
+
+msgid "What a fool. Nobody will reward you for a scavenger hunt. The world is not a playground."
+msgstr "Aptal. Bir leşçil avı için kimse seni ödüllendirmeyecek. Dünya bir oyun parkı değil."
+
+msgid "... Y-y-you're too grim, Milion."
+msgstr "...Ç-ç-çok zalimsin, Milion."
+
+msgid "Wh-what do you think, lady?"
+msgstr "Se-sen ne düşünüyorsun, hanımefendi?"
+
+msgid "(What do I think...?)"
+msgstr "(Ne düşünüyorum...?)"
+
+msgid "The world is really unfair"
+msgstr "Dünya gerçekten adil değil."
+
+msgid "Hard work pays off"
+msgstr "Çok çalışmak karşılığını verir"
+
+msgid "S-s-s-such pessimistic views..."
+msgstr "n-n-ne kadar karamsar görüşler..."
+
+msgid "It's wise to be realistic."
+msgstr "Gerçekçi olmak akıllıcadır."
+
+msgid "W-w-w-well said!"
+msgstr "İ-i-iyi dein!"
+
+msgid "I envy your naivety."
+msgstr "Senin saflığını kıskanıyorum."
+
+msgid "Just like this warm flame, your innocence too will soon be extinguished."
+msgstr "Bu sıcak ateş gibi,senin masumluğunda yakında sönecek."
+
+msgid "A moth, if you really care for such simplifications."
+msgstr "Eğer böyle kolaylaştırmalara çok önem veriyorsan,bir güve."
+
+msgid "I see..."
+msgstr "Anlıyorum..."
+
+msgid "I have a question."
+msgstr "Bir sorum var."
+
+msgid "Do you happen to know where I could lift a curse?"
+msgstr "Bir lanetden nerede kurtulabileceğimi biliyor musun?"
+
+msgid "You must seek Red."
+msgstr "Red'i bulman gerek."
+
+msgid "Yeah... This isn't the first time I've heard that name."
+msgstr "Evet...bu ismi ilk defa duymuyorum."
+
+msgid "Everyone has heard that name."
+msgstr "Herkes o ismi duydu."
+
+msgid "Red cures all sorts of ailments... For a hefty price."
+msgstr "Red her tür hastalığı iyileştirir...ağır bir fiyata."
+
+msgid "..?"
+msgstr "..?"
+
+msgid "That one doesn't do anything for free."
+msgstr "Bedavaya hiç birşey yapmıyor."
+
+msgid "The moth is entranced by the fire pit."
+msgstr "Güve ateş çukuru tarafından mest olmuş durumda."
+
+msgid "So after I find 8 more moths I'll get rewarded?"
+msgstr "Yani 8 tane daha güve bulduktan sonra ödüllendirelecek miyim?"
+
+msgid "As I stated, it's nothing but a myth."
+msgstr "Belirttiğim gibi, söylentiden başka bir şey değil."
+
+msgid "So... What kind of reward would it be?"
+msgstr "Şey...ne tür bir ödül olurdu?"
+
+msgid "I'll discuss no further with you."
+msgstr "Seninle daha fazla konuşmayacağım."
+
+msgid "Milion is ignoring you."
+msgstr "Milion seni görmezlikten geliyor."
+
+msgid "This is quite amusing."
+msgstr "Bu gerçekten komik."
+
+msgctxt "events.Ch1_Forest_Center.chr_milion_post_tree.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It's been a while since anything interesting happened around here."
+msgstr "Burada ilgi çekici birşey olalı baya oluyor."
+
+msgid "Milion is smiling."
+msgstr "Milion gülümsüyor."
+
+msgid "(I've only been here for a little while and I already have a lead.)"
+msgstr "(Sadece kısa bir süredir buradayım ve şimdiden bir ipucum var.)"
+
+msgid "(I really didn't think this would be where I might find my answers...)"
+msgstr "(Gerçekten cevaplarımı böyle bir yerde bulacağımı düşünmemiştim...)"
+
+msgid "Finally..."
+msgstr "Sonunda..."
+
+msgid "A curse, huh?"
+msgstr "Bir lanet, ha?"
+
+msgid "It sounds probable, but how did it happen?"
+msgstr "Kulağa muhtemel geliyor, ama nasıl oldu?"
+
+msgid "And who... or what, cursed me?"
+msgstr "Ve kim... ya da, ne beni lanetledi?"
+
+msgid "And why?"
+msgstr "Ve neden?"
+
+msgid "There's too many questions."
+msgstr "Çok fazla soru var."
+
+msgid "(I wonder if I can call Hiro from here.)"
+msgstr "(Hiro'yu buradan arayabilir miyim merak ediyorum.)"
+
+msgid "(Looks like I have no reception... Should I try anyways?)"
+msgstr "(Sinyal yok gibi görünüyor... yine de denemeli miyim?)"
+
+msgid "(It works?!)"
+msgstr "(Çalışıyor?!)"
+
+msgid "LACIE?!"
+msgstr "LACIE!?"
+
+msgctxt "events.Ch1_Forest_Center.event_hiro_call.dlg.lacie"
+msgid "Hiro!"
+msgstr "Hiro!"
+
+msgid "Are you okay? How are you calling me? Are you back? Did you find out-"
+msgstr "İyi misin? Beni nasıl arıyorsun? Geri geldin mi? Bulabildin mi-"
+
+msgid "Wait-"
+msgstr "Bekle-"
+
+msgid "ARE YOU HURT?! DO YOU NEED ME TO COME THERE? ARE YOU IN DANGER?"
+msgstr "YARALI MISIN!? ORAYA GELMEME İHTİYACIN VAR MI? TEHLİKEDE MİSİN?"
+
+msgid "I swear I'll get one of those letters and meet you in a jiffy! A jiffy!!-"
+msgstr "Yemin ediyorum o mektuplardan birini alacağım ve hemencecik yanında olacağım! Hemencecik!!-"
+
+msgid "I'm fine."
+msgstr "İyiyim."
+
+msgid "Oh, thank goodness."
+msgstr "Ah, şükürler olsun."
+
+msgid "It seems to be safe where I am right now, so I just.. tried calling you."
+msgstr "Şuanda olduğum yer güvenli gözüküyor, o yüzden bende.. seni aramaya çalıştım."
+
+msgid "...and it worked."
+msgstr "...ve işe yaradı."
+
+msgid "Huh... that doesn't make much sense."
+msgstr "Hah...çok mantıklı değil."
+
+msgid "It doesn't, does it..."
+msgstr "Değil, değil mi..."
+
+msgid "Tell me everything, where are you?!"
+msgstr "Herşeyi söyle bana, neredesin?!"
+
+msgid "I'm... in a forest."
+msgstr "Ben... bir ormandayım."
+
+msgid "A forest?! You didn't pack bug spray!"
+msgstr "Bir orman?! Böcek spreyi almadın yanına!"
+
+msgid "There's more dangerous things here than bugs."
+msgstr "Burada böceklerden daha tehlikeli şeyler var."
+
+msgid "But don't worry, I've got it handled."
+msgstr "Ama endişelenme, her şey kontrolüm altında."
+
+msgid "I just need to find a light..."
+msgstr "Sadece bir ışık bulmam gerek..."
+
+msgid "I just needed to find a light and..."
+msgstr "Sadece bir ışık bulmam gerekiyordu ve..."
+
+msgid "Lacie no! Lights ATTRACT bugs!"
+msgstr "Lacie hayır! Işık böcekleri ÇEKER!"
+
+msgid "Hiro, I don't care about tiny bugs."
+msgstr "Hiro, küçük böcekler umurumda değil."
+
+msgid "Just trying to lighten the mood~"
+msgstr "Sadece modu aydınlatmaya çalışıyorum!"
+
+msgid "That's my job."
+msgstr "Bu benim işim."
+
+msgid "Mhm."
+msgstr "hmhm."
+
+msgid "Don't use up all your battery now."
+msgstr "Tüm şarjını bitirme şimdi."
+
+msgid "Remember you can use the flashlight from your phone if you need a light."
+msgstr "Unutma, eğer ışığa ihtiyacın varsa telefonunun fenerini kullanabilirsin."
+
+msgid "That's true. How could I forget?"
+msgstr "Bu doğru, nasıl unutabildim?"
+
+msgid "But it will use up my battery... I might not be able to call you again if that's the case."
+msgstr "Ama bu benim şarjımı yer...eğer öyle olursa seni bir daha arayamayabilirim."
+
+msgid "It's up to you to decide if you need it."
+msgstr "İhtiyacın olursa karar vermek sana kalmış."
+
+msgid "Alright, I'll go now."
+msgstr "Pekala, şimdi gidiyorum."
+
+msgid "You've got this!"
+msgstr "Bunu yapabilirsin!"
+
+msgid "Cellphone"
+msgstr "Cep telefonu"
+
+msgid "My personal phone. Hiro bought it for me. It may be used as a flashlight."
+msgstr "Benim kişisel telefonum. Hiro benim için aldı. Fener olarak kullanılabilir."
+
+msgid "I-I-I wouldn't do that if I were you. Fairy demons are vile, the worst."
+msgstr "Y-y-yerinde olsaydım onu yapmazdım. Peri iblisleri alçaktır, en kötüleri."
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I was too late.)"
+msgstr "(Çok geç kaldım.)"
+
+msgid "Um..."
+msgstr "Uh..."
+
+msgid "Is he..."
+msgstr "O..."
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.milion"
+msgid "Hm?"
+msgstr "Hm?"
+
+msgid "Shouldn't you know? You're the sole cause of that."
+msgstr "Bilmen gerekmez mi? Bunun tüm sebebi sensin."
+
+msgid "....."
+msgstr "..."
+
+msgid "That tree... is massive..."
+msgstr "O ağaç...devasa.."
+
+msgid "This probably marks the center of this place. Which means..."
+msgstr "Bu muhtemelen bu yerin merkezini belirtiyor. Bu da demek ki..."
+
+msgid "This is where the search really begins."
+msgstr "Arayış asıl burada başlıyor."
+
+msgid "(She's not a bug...)"
+msgstr "(O bir böcek değil...)"
+
+msgctxt "events.Ch1_Forest_Center.item_bugnet_on_milion.dlg.milion"
+msgid "...?"
+msgstr "...?"
+
+msgid "U-um... It's nothing..."
+msgstr "U-um...yok birşey..."
+
+msgid "(The bug net is not large enough.)"
+msgstr "(Böcek ağı yeteri kadar büyük değil.)"
+
+msgid "This is..."
+msgstr "Bu..."
+
+msgid "I know this craftsmanship."
+msgstr "Bu işçiliği biliyorum."
+
+msgid "I could recognize it anywhere."
+msgstr "Bunu herhangi bir yerde tanıyabilirim."
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What do you mean?"
+msgstr "Ne dmek istiyorsun?"
+
+msgid "It's nothing."
+msgstr "Yok bir şey."
+
+msgid "That didn't sound like nothing."
+msgstr "Bir şey yokmuş gibi gelmiyor."
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.milion"
+msgid "..."
+msgstr "..."
+
+msgid "The candle is already lit."
+msgstr "Mum zaten yanıyor."
+
+msgid "A candle is not enough to light this campfire."
+msgstr "Bir mum bu kamp ateşini yakmaya yeterli değil."
+
+msgid "There's no fire here."
+msgstr "Burada ateş yok."
+
+msgid "Is this a gift?"
+msgstr "Bu bir hediye mi?"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "No."
+msgstr "Hayır."
+
+msgid "Pity."
+msgstr "Yazık."
+
+msgid "What do you want?"
+msgstr "Ne istiyorsun?"
+
+msgid "Can I get a refund?"
+msgstr "İade alabilir miyim?"
+
+msgid "Absolutely not."
+msgstr "Asla olmaz."
+
+msgid "That is one stinky fish."
+msgstr "Tam anlamıyla kokuşmuş bir balık."
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "Hm?"
+msgstr "Hm?"
+
+msgid "You didn't stutter?"
+msgstr "Kekelemedin?"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "...!"
+
+msgid "Is it a magic fish?!"
+msgstr "Sihirli bir balık mı?!"
+
+msgid "Ah, you bought that from Alba's shop?"
+msgstr "Ah,onu Alba'nın mağazasından mı aldın?"
+
+msgid "Yes."
+msgstr "Evet."
+
+msgid "Alba's merchandise is always top tier."
+msgstr "Alba'nın ürünleri her zaman üst kalitedir."
+
+msgid "Lovely gal."
+msgstr "Sevimli hanım."
+
+msgid "Flattery isn't going to get you anything, Milion."
+msgstr "Yağcılık seni bir yere götürmeyecek Milion."
+
+msgid "What a shame."
+msgstr "Yazık oldu."
+
+msgid "(I seem to be interrupting something...)"
+msgstr "(Bir şeyi bölüyormuşum gibi duruyor...)"
+
+msgid "This tree has had enough fish for today."
+msgstr "Bu ağaç bugün yeterince balık aldı."
+
+msgid "You're not doing that again."
+msgstr "Bunu bir daha yapmıyorsun."
+
+msgid "You hold out the fish in front of the mirror, like you just caught it."
+msgstr "Balığı aynanın önüne tutuyorsun, sanki daha yeni yakalamışsın gibi."
+
+msgid "You feel silly, so you stop."
+msgstr "Şapşal hissediyorsun, bu yüzden durdun."
+
+msgid "Throw it down the hole?"
+msgstr "Delikten aşağı fırlat?"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "You listen for a while, but no impact sound can be heard this time."
+msgstr "Bir süre dinliyorsun, ama bu sefer bir düşme sesi yok."
+
+msgid "After six or so seconds, you hear the faint impact of the fish against something."
+msgstr "Altı ya da gibi bir kaç saniye sonra, balığın birşeye çarpma sesini hafifçe duyuyorsun."
+
+msgid "Throw all your fish into the hole?"
+msgstr "Tüm balıklarını deliğe at?"
+
+msgid "Throw all of them"
+msgstr "Hepsini at"
+
+msgid "Just throw one"
+msgstr "Sadece bir tanesini"
+
+msgid "Don't"
+msgstr "Atma"
+
+msgid "You throw each and every fish into the hole."
+msgstr "Her türde ve şekilde olan balıkları deliğe attın."
+
+msgid "Some of them make sounds when they hit the bottom, but many don't."
+msgstr "Bazıları yere çakıldığında ses çıkarttı, ama çoğu çıkarmadı."
+
+msgid "After a while, you run out of fish."
+msgstr "Bir süre sonra, balığın bitti."
+
+msgid "Your hands smell terrible, and you feel like you accomplished nothing."
+msgstr "Ellerin berbat kokuyor, ve hiçbir şey başaramamış gibi hissediyorsun. "
+
+msgid "No. You're not my type."
+msgstr "Hayır. Benim tipim değilsin."
+
+msgid "(You're not her type.)"
+msgstr "(Onun tipi değilsin.)"
+
+msgid "T-thanks! Y-you're a good person!"
+msgstr "T-teşekkürler! S-sen iyi bir insansın!"
+
+msgid "Is this head OK?"
+msgstr "Bu kafa iyi mi?"
+
+msgid "T-t-this is... pretty good..."
+msgstr "B-b-bu gayet...güzel..."
+
+msgid "Glad that's solved."
+msgstr "Çözüldüğüne sevindim."
+
+msgid "Ju-just wondering though... where exactly did you get this?"
+msgstr "S-sadece meraktan...bunu tam olarak nereden aldın?"
+
+msgctxt "events.Ch1_Forest_Center.item_head_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I... I don't think the previous owner needs it anymore..."
+msgstr "Ben...önceki sahibinin artık buna ihtiyacı olduğunu sanmıyorum..."
+
+msgid "O-oh......."
+msgstr "O-oh......"
+
+msgid ".........."
+msgstr ".........."
+
+msgid "An empty lamp that fell from that post."
+msgstr "Direkten düşen boş bir lamba."
+
+msgid "Whatever was inside is gone."
+msgstr "İçinde ne varsa artık yok."
+
+msgid "Can I find a use for this?"
+msgstr "Bunu kullanabilir miyim?"
+
+msgid "Take ${item:ch1.forest_lamp_empty}?"
+msgstr "${item:ch1.forest_lamp_empty} al？"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "I can't reach up there."
+msgstr "Oraya uzanamıyorum."
+
+msgid "And even if I could, I can't see the point in fixing the lamp."
+msgstr "Ulaşabilseydim bile, lambayı onarmak için bir sebep göremiyorum."
+
+msgid "I still can't reach..."
+msgstr "Hala uzanamıyorum..."
+
+msgid "Besides, it's not like a secret door will open just because I fixed this particular lamp."
+msgstr "Hem, özellikle bu lambayı onardım diye gizli bir kapı açılacak değil ya."
+
+msgid "There's seriously no point in that."
+msgstr "Cidden bunun bir amacı yok."
+
+msgid "Fascinating creatures."
+msgstr "büyüleyici yaratıklar."
+
+msgid "Naturally emitting light can be a great asset to one's value."
+msgstr "Doğal olarak yayılan ışık kişinin değeri açısından büyük bir kazanç olabilir."
+
+msgctxt "events.Ch1_Forest_Center.item_light_full_on_milion.dlg.lacie"
+msgid "...?"
+msgstr "...?"
+
+msgid "Is this OK?"
+msgstr "Bu iyi mi?"
+
+msgid "I-I-I guess it could be worse..."
+msgstr "S-s-sanırım daha kötüsü de olabilirdi..."
+
+msgid "Thank you! I didn't think you would come back!"
+msgstr "Teşekkürler! Geri geleceğini düşünmemiştim!"
+
+msgid "...It was my fault after all..."
+msgstr "...sonuçta benim suçumdu..."
+
+msgid "You're welcome, I suppose."
+msgstr "Rica ederim, sanırım."
+
+msgid "(Alba's eyes dart to your rune, so you quickly put it away.)"
+msgstr "(Alba'nın gözleri senin rün taşına dikildi, hızlıca ortadan kaldırdın.)"
+
+msgid "Ooh! I-I-I also have a rock just like that. I b-b-buried it to keep it safe."
+msgstr "Ooh! B-b-benimde aynı öyle bir taşım var. Güvende tutmak için g-g-gömdüm."
+
+msgid "Do you have nothing better to do than collecting rocks?"
+msgstr "Taş toplamaktan başka yapacak daha iyi bir şeyin yokmu?"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Do you have nothing better to do than staring at a fire?"
+msgstr "Ateşe bakmaktan başka yapacak daha iyi bir şeyin yokmu?"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.milion"
+msgid "..."
+msgstr "..."
+
+msgid "You don't need that. My fish already taste great without it."
+msgstr "Ona ihtiyacın yok. Balıklarımın tadı onlar olmadan da zaten harika. "
+
+msgid "I-i-is that for me...?!"
+msgstr "O-o-o benim için mi...?!"
+
+msgctxt "events.Ch1_Forest_Center.item_salt_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "...No."
+msgstr "...Hayır."
+
+msgid "O-oh."
+msgstr "A-ah."
+
+msgid "Let's not provoke her."
+msgstr "Hadi onu kışkırtmayalım."
+
+msgid "Don't threaten me, kid."
+msgstr "Tehdit etme beni velet."
+
+msgid "I will shred you."
+msgstr "Seni parçalayacağım."
+
+msgctxt "events.Ch1_Forest_Center.item_scissors_on_alba.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go around cutting random cables."
+msgstr "Etrafta dolaşıp rastgele kabloları kesmemeyi tercih ederim."
+
+msgid "P-p-please don't...! I'm fragile..."
+msgstr "L-l-lütfen yapma...! Ben hassasım..."
+
+msgid "I would advise you not to challenge me."
+msgstr "Bana meydan okumamanı öneririm."
+
+msgid "There's no need to break it."
+msgstr "Bunu kırmana gerek yok."
+
+msgid "You could probably smash the mirror with this."
+msgstr "Muhtemelen bununla aynayı kırabilirsin."
+
+msgid "Break the mirror?"
+msgstr "Aynayı kır?"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "You prepare to break the mirror..."
+msgstr "Aynayı kırmaya hazırlanıyorsun..."
+
+msgid "But you notice there's a door handle on it."
+msgstr "Ama üstünde kapı kolu olduğunu fark ediyorsun."
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "Kilitli durmuyor."
+
+msgid "I don't do barter."
+msgstr "Takas yapmıyorum."
+
+msgid "N-n-no thank you."
+msgstr "H-h-hayır teşekkürler."
+
+msgid "I don't need it."
+msgstr "Ona ihtiyacım yok."
+
+msgid "You may give it to someone who does."
+msgstr "İhtiyacı olan birine verebilirsin."
+
+msgid "Is this OK? I'm sorry, it's the only thing I could find..."
+msgstr "Bu iyi mi? Üzgünüm, bu bulabildiğim tek şeydi.."
+
+msgid "W-Wow!! T-t-this is amazing...!!!"
+msgstr "V-vay be!! B-b-bu efsane...!!!"
+
+msgid "Thank you s-s-s-so much!"
+msgstr "Ç-ç-ç-çok teşekkürler!"
+
+msgid "...You're... welcome...?"
+msgstr "...Rice...ederim...?"
+
+msgid "(To each their own, I suppose)"
+msgstr "(Herkesin kendi tercihi var, sanırım.)"
+
+msgid "A bucket full of bones and other terrible-smelling organic garbage."
+msgstr "Kemiklerle ve diğer berbat kokan organik çöplerle dolu bir kova."
+
+msgid "A cable runs through here."
+msgstr "Bir kablo buradan geçiyor."
+
+msgid "The cable runs into the woods, against the cliff."
+msgstr "Kablo ormana gidiyor, uçurumun karşısına."
+
+msgid "The cable runs into the woods."
+msgstr "Kablo ormana gidiyor."
+
+msgid "A campfire."
+msgstr "Bir kamp ateşi."
+
+msgid "There's no fire, so right now it's just a camp."
+msgstr "Ateş yok, o yüzden şuan sadece bir kamp."
+
+msgid "A camp."
+msgstr "Bir kamp."
+
+msgid "The fire is on. It seems to produce heat too."
+msgstr "Ateş yanıyor. Isıda üretiyor gibi görünüyor."
+
+msgid "A crow standing on a stump."
+msgstr "Kütüğün üstünde duran bir karga."
+
+msgid "They're everywhere, huh?"
+msgstr "Her yerdeler, hm?"
+
+msgid "Now is not the time for that."
+msgstr "Şuan sohbetin sırası değil."
+
+msgid "Small mushrooms surround a patch of dead grass."
+msgstr "Ölü otların etrafını saran küçük mantarlar."
+
+msgid "W-what..."
+msgstr "N-ne..."
+
+msgid "What happened? It was so sudden..."
+msgstr "Ne oldu? Çok aniydi..."
+
+msgid "Am I trapped inside of something?"
+msgstr "Bir şeyin içinde mi sıkışıp kaldım?"
+
+msgid "I can barely move..."
+msgstr "Neredeyse hiç hareket edemiyorum.."
+
+msgid "Ugh... it's all soggy and... squishy..."
+msgstr "Uf...sırılsıklam ve... yumuşak..."
+
+msgctxt "events.Ch1_Forest_Center.misc_fairyring_death.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "This is suffocating... I don't like closed spaces..."
+msgstr "Çok boğucu... kapalı alanları sevmiyorum..."
+
+msgid "Aahh... I hate this... I'm going to be sick...!"
+msgstr "Aahh... bundan nefret ediyorum... delireceğim...!"
+
+msgid "Wait... calm down."
+msgstr "Bekle... sakin ol."
+
+msgid "I can move my arms, somewhat."
+msgstr "Kollarımı, nsaıl oluyorsa, hareket ettirebiliyorum."
+
+msgid "Think."
+msgstr "Düşün."
+
+msgid "Let's see... do I have anything that could help me?"
+msgstr "Bakalım... bana yardım edebilecek herhangi bir şeyim var mı?"
+
+msgid "Maybe something sharp..."
+msgstr "Belki keskin birşey..."
+
+msgid "Oh, scissors...!"
+msgstr "Ah, makas...!"
+
+msgid "Sorry, but I don't feel like being eaten today."
+msgstr "Üzgünüm, bugün yenilecek gibi hissetmiyorum."
+
+msgid "I can cross off \"being digested alive\" from my to-do list."
+msgstr "Yapılacaklar listemden \"canlı canlı sindirilmeyi\" çizebilirim."
+
+msgid "Good thing I had those scissors... ugh..."
+msgstr "İyi ki o makas bendeydi...ugh..."
+
+msgid "Now... where am I?"
+msgstr "Şimdi... neredeyim ben?"
+
+msgid "It's no good... I can't do anything..."
+msgstr "Bu iyi değil... hiçbir şey yapamıyorum..."
+
+msgid "Am I going to die... inside this thing?"
+msgstr "Ölecek miyim...bu şeyin içinde?"
+
+msgid "Nobody will even find my body..."
+msgstr "Kimse benim bedenimi bile bulamayacak..."
+
+msgid "Sigh... what a pointless way to go."
+msgstr "Ahh...göçmenin ne kadarda gereksiz bir yolu."
+
+msgid "What is this smell... it's making me want to puke..."
+msgstr "Bu koku da ne... kusmak istiyorum..."
+
+msgid "My legs... are also itching..."
+msgstr "Bacaklarım da...kaşınıyor..."
+
+msgid "Wait, could it be...?"
+msgstr "Bekle, yoksa...?"
+
+msgid "Oh god... is this thing digesting me!?"
+msgstr "Tanrım... bu şey beni sindiriyor mu!?"
+
+msgid "Nononono.... I don't want to die like that!!!"
+msgstr "Yoyoyoyo...Böyle ölmek istemiyorum!!!"
+
+msgid "I tried kicking around and fighting it as much as I could."
+msgstr "Yapabildiğim kadar tekmeleyip savaşmayı denedim."
+
+msgid "But soon enough, my skin started burning, confirming my fears."
+msgstr "Ama yakın bir zaman sonra, derim yanmaya başladı, korkularımı doğrulayarak."
+
+msgid "The more I squirmed, the more the digestive juices got all over me."
+msgstr "Ne kadar savaştıysam, sindirici sıvılar daha fazla üstüme geldi."
+
+msgid "The more I screamed, the more the gas burned my nose and throat from inside."
+msgstr "Ne kadar çığlık attıysam, gaz burnumu ve boğazımı içten o kadar çok yaktı."
+
+msgid "It seems that the moment I stepped into that circle, my fate had been sealed."
+msgstr "Öyle görünüyor ki, o halkaya adımımı attığım anda, kaderim mühürlenmişti."
+
+msgid "A lamppost that's missing its lamp."
+msgstr "Lambası olmayan bir sokak lambası direği."
+
+msgid "Now it's just a post."
+msgstr "Artık sadece bir direk."
+
+msgid "A post."
+msgstr "Direk."
+
+msgid "A wooden log."
+msgstr "Ahşap bir kütük."
+
+msgid "This is not the time to sit around."
+msgstr "Şuan oturulacak zaman değil."
+
+msgid "A big mirror is embedded in the tree trunk."
+msgstr "Büyük bir ayne ağaç gövdesine gömülü."
+
+msgid "A door handle can be seen."
+msgstr "Bir kapı kolu gözüküyor."
+
+msgid "Your reflection stares anxiously back at you."
+msgstr "Yansıman sana gergince geri bakıyor."
+
+msgid "On a closer inspection, there's a door handle on the mirror."
+msgstr "Daha yakından inceleyine, aynada kapı kolu var."
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "Kilitli görünmüyor."
+
+msgid "Check behind the mirror?"
+msgstr "Aynanın arkasını kontrol et?"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "The tree... is hollow...?"
+msgstr "Ağacın... içi boş?"
+
+msgid "Has anything changed now that I threw all those fish in?"
+msgstr "Tüm balıkları içine atınca bir şey değişti mi şimdi?"
+
+msgid "I can't see the bottom, but it's really deep."
+msgstr "Dibini göremiyorum,ama gerçekten çok derin."
+
+msgid "Why is the inside of the tree like this?"
+msgstr "Neden ağacın içi böyle?"
+
+msgid "Doesn't seem like it."
+msgstr "Öyle görünmüyor."
+
+msgid "The roots of a massive tree. There's blue mushrooms everywhere."
+msgstr "Devasa bir ağacın kökleri. Her yerde mavi mantarlar var."
+
+msgid "It reads: \"STOP! Do not walk inside the fairy ring.\""
+msgstr "Diyor ki: \"DUR! Peri çemberinin içine girme.\""
+
+msgid "\"But if you do, please ask them to take their business elsewhere.\""
+msgstr "\"Ama yaparsan, lütfen onlara işlerini başka yerde yapmalarını söyle.\""
+
+msgid ""
+"South-West: Sculptor's House.\n"
+"West: Red's Treehouse."
+msgstr ""
+"Güney-Batı: Heykeytraşın evi.\n"
+"Batı: Red'in ağaç evi."
+
+msgid ""
+"South: Train Station.\n"
+"East: Locked Site."
+msgstr ""
+"Güney: Tren istasyonu.\n"
+"Doğu: Kilitli alan."
+
+msgid "The sign says \"Alba's Shop\""
+msgstr "Tabela diyor ki \"Alba'nın dükkanı\""
+
+msgid "A curtain covers the stand."
+msgstr "Bir perde standı kapatıyor."
+
+msgid "Peek behind curtain?"
+msgstr "Perdenin arkasına bak?"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's some trays aligned for display, but there's nothing on them."
+msgstr "Sergilemek için bazı sıralanmış tepsiler var, ama onlarda hiçbir şey yok."
+
+msgid "You decided to save your curiosity for later."
+msgstr "Merakını sonraya saklamaya karar verdin."
+
+msgid "A stand lined up with fish of various sizes."
+msgstr "Çeşitli boylarda olan balıkların sıralandığı bir stant"
+
+msgid "The shop is closed for today."
+msgstr "Dükkan bugünlük kapalı."
+
+msgid "A massive crater that you caused."
+msgstr "Senin sebep olduğun devasa bir krater."
+
+msgid "I don't think there's anything this way that will help Kozmo..."
+msgstr "Bu tarafta Kozmo'ya yardım edecek bir şey olduğunu sanmıyorum..."
+
+msgid "I need to get this to Kozmo as soon as possible..."
+msgstr "Bunu en kısa sürede Kozmo'ya götürmem gerek..."
+
+msgid "Continue down this path?"
+msgstr "Bu yoldan devam et?"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "No"
+msgstr "Hayır"

@@ -1,0 +1,635 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Red_B1F.event_code_failure.dlg.narrator"
+msgid "..."
+msgstr "……"
+
+msgid "The code was incorrect."
+msgstr "コードが違った。"
+
+msgctxt "events.Ch1_Red_B1F.event_code_success.dlg.narrator"
+msgid "..."
+msgstr "……"
+
+msgid "The door opens!"
+msgstr "ドアが開いた！"
+
+msgid "Now that I think about it, this is a strange location for such a large mirror."
+msgstr "考えてみると、こんなところに大きな鏡があるのは変な気がする。"
+
+msgid "Maybe there's something behind it?"
+msgstr "裏に何かあるのかな？"
+
+msgid "Kick the mirror?"
+msgstr "鏡を蹴る？"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.choice.Kick the mirror?"
+msgid "Yes"
+msgstr "蹴る"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.choice.Kick the mirror?"
+msgid "No"
+msgstr "蹴らない"
+
+msgid "A door... and a keypad... for a code, I think."
+msgstr "ドアと……たぶん、コードを入れるためのキーパッド。"
+
+msgid "Is it the door behind the mirror?"
+msgstr "選択肢って、鏡の裏のドアのこと？"
+
+msgid "(Maybe there's a better way?)"
+msgstr "(もっといい方法があるのかも？)"
+
+msgctxt "events.Ch1_Red_B1F.event_kick_mirror.dlg.unknown"
+msgid "Here you go."
+msgstr "ほらよ。"
+
+msgid "...Huh. Thanks."
+msgstr "……あぁ。ありがと。"
+
+msgid "I'm not carrying this thing around..."
+msgstr "これを持ち歩く気はしない……"
+
+msgid "Pssst."
+msgstr "シーッ。"
+
+msgid "Hey girlie."
+msgstr "よぉ嬢ちゃん。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "...?"
+msgstr "……？"
+
+msgid "Been a while since I've seen anybody come down here."
+msgstr "誰かが降りてきたのは久しぶりだ。"
+
+msgid "Even that smug asshole hasn't been around."
+msgstr "あのキザなクソ野郎すらしばらく来てない。"
+
+msgid "Who do you mean?"
+msgstr "誰のこと？"
+
+msgid "You know who I mean, or you wouldn't be snooping around here, would ya?"
+msgstr "嬢ちゃんも知ってるはずだ、じゃなきゃこの辺を嗅ぎ回ったりしてないはずだろ？"
+
+msgid "...Red?"
+msgstr "……レッド？"
+
+msgid "Ding ding diiiing!"
+msgstr "ピンポンピンポンピンポーン！"
+
+msgid "Did Red lock you in here?"
+msgstr "レッドに閉じ込められてるの？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "Correct."
+msgstr "その通り。"
+
+msgid "Why?"
+msgstr "どうして？"
+
+msgid "My, aren't you asking lots of questions..."
+msgstr "おっと、質問が多すぎやしないか……"
+
+msgid "Maybe I'll tell you if you come a bit closer."
+msgstr "もうちょっと近くに来たら教えてやるかもな。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice"
+msgid "Get closer?"
+msgstr "近づく？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice.Get closer?"
+msgid "Yes"
+msgstr "近づく"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.choice.Get closer?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "Aww... What a shame."
+msgstr "おぉ……残念だね。"
+
+msgid "No more chit chat then."
+msgstr "ならもうおしゃべりは無しだ。"
+
+msgid "(Better safe than sorry.)"
+msgstr "(用心するに越したことはない。)"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "That's the spirit."
+msgstr "そうこなくっちゃ。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "レッドが俺をここに閉じ込めたのは、俺がちょいと厄介者になりかねないからだ。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "I'm the only one who can cast curses."
+msgstr "俺は呪いをかけられる唯一の存在なんだよ。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "Curses...?"
+msgstr "呪い……？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.lacie"
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "あなたが唯一？　じゃあ、私の呪いとも関係あるの？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner.dlg.unknown"
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "もう少し近くに来たら、教えてやらんこともないな。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "That's the spirit."
+msgstr "そうこなくっちゃ。"
+
+msgid "Welcome back, what is it you wanted to know again?"
+msgstr "おかえり嬢ちゃん、何を知りたいんだったかな？"
+
+msgid "Why are you locked up?"
+msgstr "どうして閉じ込められてるの？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "レッドが俺をここにを閉じ込めたのは、俺がちょいと厄介者になりかねないからだ。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "I'm the only one who can cast curses."
+msgstr "俺は呪いをかけられる唯一の存在なんだよ。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.lacie"
+msgid "Curses...?"
+msgstr "呪い……？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.lacie"
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "あなたが唯一？　じゃあ、私の呪いとも関係あるの？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.dlg.unknown"
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "もう少し近くに来たら、教えてやらんこともないな。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice"
+msgid "Get closer?"
+msgstr "近づく？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice.Get closer?"
+msgid "Yes"
+msgstr "近づく"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_2.choice.Get closer?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "I have a feeling you'll just try to kill me."
+msgstr "近づいたら殺されそうな気がする。"
+
+msgid "Hahahaha!"
+msgstr "はははは！"
+
+msgid "Fine then, I'll humor you this time."
+msgstr "いいだろう、今回は嬢ちゃんに合わせてやる。"
+
+msgid "I didn't curse you."
+msgstr "嬢ちゃんに呪いをかけたのは俺じゃない。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.lacie"
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "なら誰？　呪いをかけられるのはあなただけだって言ってたでしょ。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.unknown"
+msgid "...and live."
+msgstr "……生きてられるのは、な。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_3.dlg.lacie"
+msgid "...?"
+msgstr "……？"
+
+msgid "Look girlie, I hate doing shit for free."
+msgstr "嬢ちゃん、俺はタダ働きが大嫌いなんだ。"
+
+msgid "Yep. It's a shortcut."
+msgstr "そう。それが近道だ。"
+
+msgid "It needs a code."
+msgstr "コードが必要。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_door.dlg.unknown"
+msgid "Correct."
+msgstr "その通り。"
+
+msgid "I can give it to you, provided you do one more thing for me."
+msgstr "教えてやってもいいが、その前にもうひとつ頼みを聞いてくれ。"
+
+msgid "How do I know it's actually a shortcut?"
+msgstr "本当に近道だってどうしたらわかるの？"
+
+msgid "You don't. You'll just have to trust me."
+msgstr "わからないさ。俺を信じるしかないんだよ。"
+
+msgid "Sounds like a bad choice."
+msgstr "悪い選択肢みたいだけど。"
+
+msgid "Your call, girlie."
+msgstr "決めるのは嬢ちゃんだ。"
+
+msgid "If you bring me a blue light, I'll give you the code."
+msgstr "青い明かりを持ってきてくれたら、コードを渡そう。"
+
+msgid "A blue light?"
+msgstr "青い明かり？"
+
+msgid "Correct. A blue light. Not green, not red, certainly not white. A blue light."
+msgstr "その通り。青い明かりだ。緑でも、赤でも、もちろん白でもない。青い明かり。"
+
+msgid "I have this blue candle, does it count?"
+msgstr "この青いロウソクでもいい？"
+
+msgid "I'll be damned, you already have it?"
+msgstr "マジかよ、もう持ってんのか？"
+
+msgid "Then give it to me, unless you don't want the code."
+msgstr "ならさっさとよこせ、コードが欲しいならな。"
+
+msgid "Where am I going to find that?"
+msgstr "どこで見つかるの？"
+
+msgid "Don't know. I think I saw a candle-looking guy selling some a while back."
+msgstr "さあな。ずいぶん前、ロウソクみたいな奴が売ってたのは見たが。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_door.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Hey wait wait!"
+msgstr "おい待て待て！"
+
+msgid "Won't you do something for me? Pretty please little girl?"
+msgstr "頼みを聞いてくれないか？　かわいい嬢ちゃん、お願いだからさ？"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_leave.dlg.lacie"
+msgid "No thank you."
+msgstr "遠慮しとく。"
+
+msgid "Come oooonnn, I've been stuck here for years, help me out!"
+msgstr "おい頼むよぉぉぉぉぉ、もう何年もここに閉じ込められてんだ、少しは力を貸してくれよ！"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_leave.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Tch."
+msgstr "チッ。"
+
+msgid "When I get out of here..."
+msgstr "ここから出られたら……"
+
+msgid "I'll make you suffer."
+msgstr "お前を苦しめてやる。"
+
+msgid "It's a promise."
+msgstr "ここに誓う。"
+
+msgid "You do something I ask, and I'll answer one of your questions. Yeah?"
+msgstr "頼みを聞いてくれたら、質問にひとつ答えてやる。どうだ？"
+
+msgid "You want me to open your cage?"
+msgstr "檻を開けて欲しいの？"
+
+msgid "Hahahaha as if you could! You severely overestimate yourself, kid."
+msgstr "ははは、できるもんならな！　本当、自分を高く見積もりすぎだぜ。"
+
+msgid "No, this is something you can actually do."
+msgstr "そうじゃなく、嬢ちゃんにもちゃんとできることだ。"
+
+msgid "I can't see it from here, but somewhere in this room there should be a jar of slugs."
+msgstr "ここからじゃ見えないが、この部屋のどこかにナメクジが詰まった瓶があるはずだ。"
+
+msgid "Slugs?"
+msgstr "ナメクジ？"
+
+msgid "Yeah. Large, slimy, gross? You know."
+msgstr "そうだ。でかくて、ねばねばで、気色悪い、な？　わかるだろ。"
+
+msgid "Bring it to me and we can continue this conversation."
+msgstr "そいつを持ってきてくれたら、話を続けてやるよ。"
+
+msgid "I won't be coming anywhere close to you."
+msgstr "近づく気はないよ。"
+
+msgid "Fair."
+msgstr "いいだろう。"
+
+msgid "Throw it to me from where you're standing right now then, if you're such a scaredy cat."
+msgstr "なら、今立ってるそこから投げてくれればいい。嬢ちゃんがそんなに弱虫ならな。"
+
+msgctxt "events.Ch1_Red_B1F.event_prisoner_request.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "...!"
+msgstr "……！"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.unknown"
+msgid "..."
+msgstr "……"
+
+msgid "You tricked me."
+msgstr "だましたね。"
+
+msgid "Not exactly."
+msgstr "そうでもない。"
+
+msgid "Just tell me. Did you curse me?"
+msgstr "教えて。あなたが私に呪いをかけたの？"
+
+msgid "I did not."
+msgstr "いや、違う。"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.lacie"
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "なら誰？　呪いをかけられるのはあなただけだって言ってたでしょ。"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.unknown"
+msgid "...and live."
+msgstr "……生きてられるのは、な。"
+
+msgctxt "events.Ch1_Red_B1F.event_strangle_success.dlg.lacie"
+msgid "...?"
+msgstr "……？"
+
+msgid "Look girlie, you get the drift."
+msgstr "嬢ちゃん、だんだん分かってきただろ。"
+
+msgid "Amazing..."
+msgstr "素晴らしい……"
+
+msgid "I haven't seen a light in years..."
+msgstr "光なんてもう何年も見てなかった……"
+
+msgid "So bright..."
+msgstr "こんなに明るくて……"
+
+msgid "So warm..."
+msgstr "こんなに温かい……"
+
+msgid "*Ahem*"
+msgstr "(おほん)"
+
+msgid "Yeah yeah, thanks girlie."
+msgstr "わかったわかった、ありがとな嬢ちゃん。"
+
+msgid "You really did me a solid here."
+msgstr "本当に助かった。"
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.unknown"
+msgid "I'll remember this."
+msgstr "このことは覚えとくよ。"
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_Red_B1F.item_bluecandle_on_prisoner.dlg.unknown"
+msgid "Here you go."
+msgstr "ほらよ。"
+
+msgid "Thanks."
+msgstr "ありがとう。"
+
+msgid "What's your name?"
+msgstr "あなたの名前は？"
+
+msgid "There's no need to get buddy-buddy. You won't be alive for long enough for us to meet again."
+msgstr "仲良くなる必要はない。また会えるほど嬢ちゃんは長生きしないはずだからな。"
+
+msgid "...But if we do, I'll make sure to introduce myself properly."
+msgstr "……だが、もしまた会ったら、そのときは必ずちゃんと自己紹介するよ。"
+
+msgid "Why... why are you giving this to me?"
+msgstr "な……どうしてこれを俺に？"
+
+msgid "I don't know... just a feeling?"
+msgstr "さぁ……何となく？"
+
+msgid "Hahahahahaha incredible... were you just screwing with me before?"
+msgstr "はははははは、信じられん……さっきのは俺で遊んでただけか？"
+
+msgid "I guess I'm not gonna make you suffer after all."
+msgstr "やっぱり苦しめるのは無しにしよう。"
+
+msgid "Here, take the slugs as well."
+msgstr "ほら、ナメクジも。"
+
+msgid "Huh..."
+msgstr "ほう……"
+
+msgid "I don't know who you are but..."
+msgstr "嬢ちゃんが誰だか知らないが……"
+
+msgid "So... about this room..."
+msgstr "で……この部屋のことだけど……"
+
+msgid "Oh man you're slow. Check the mirror."
+msgstr "何だ、トロいな。鏡を調べろ。"
+
+msgid "Hahahahahaha oh god... so good..."
+msgstr "ははははは、ああ……最高だ……"
+
+msgid "There's your jar."
+msgstr "ほら、瓶だよ。"
+
+msgid "Good..."
+msgstr "よし……"
+
+msgid "What would you like to know?"
+msgstr "何を知りたい？"
+
+msgid "You said you're the only demon who can inflict curses, correct?"
+msgstr "呪いをかけられるのは自分だけだって言ってたよね？"
+
+msgid "Did you place this curse on me?"
+msgstr "あなたが私にこの呪いをかけたの？"
+
+msgid "I'm the only demon who can inflict curses and LIVE."
+msgstr "呪いをかけて、「生きてられるのは」俺だけだ。"
+
+msgid "Any demon can place a curse on someone on their dying breath."
+msgstr "どんな妖魔でも、死に際なら誰かに呪いをかけられる。"
+
+msgid "But I can place a thousand, with no repercussions."
+msgstr "だが俺の場合、副作用なしでいくらでも可能だ。"
+
+msgid "(Isn't that a bit OP?)"
+msgstr "(ちょっとチートすぎじゃない？)"
+
+msgid "That sounds too powerful."
+msgstr "強すぎる気がするけど。"
+
+msgid "Why do you think I'm locked up?"
+msgstr "俺が閉じ込められてるのはなぜだと思う？"
+
+msgid "Red's being a little bitch about it."
+msgstr "レッドがこの力にちょいと不満だからだよ。"
+
+msgctxt "events.Ch1_Red_B1F.item_jar_on_prisoner.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "You're obviously a human with a weird aura."
+msgstr "嬢ちゃんは見るからに変なオーラの人間だ。"
+
+msgid "You lookin' to remove your curse?"
+msgstr "呪いを解こうとしてるのか？"
+
+msgid "Yes."
+msgstr "うん。"
+
+msgid "Then you'd probably need Red's help."
+msgstr "ならレッドの助けが必要だろうな。"
+
+msgid "Yes, that's the idea."
+msgstr "うん、そのはず。"
+
+msgid "How do you plan to do that?"
+msgstr "どうやって手を借りるつもりだ？"
+
+msgid "Someone told me to go to the lighthouse, so I have to go North."
+msgstr "灯台に行くといいって言われたから、北に行かないといけない。"
+
+msgid "Ooh~ North."
+msgstr "ほぉ～、北か。"
+
+msgid "You're gonna die if you go through the locked site, y'know?"
+msgstr "だが封鎖区域を通ったら、嬢ちゃん、死ぬぜ？"
+
+msgid "What other choice do I have?"
+msgstr "他に選択肢もないでしょ？"
+
+msgid "There's always another choice."
+msgstr "常に別の選択肢はあるさ。"
+
+msgid "Do you mean that door to the right?"
+msgstr "あの右のドアのこと？"
+
+msgid "Is that so..."
+msgstr "そうかな……"
+
+msgid "You just haven't looked around this room well enough."
+msgstr "単に、嬢ちゃんがこの部屋をまだ十分見て回ってないだけだと思うぜ。"
+
+msgid "...Actually, I have no idea."
+msgstr "……実は、見当もついてないの。"
+
+msgid "Ahahahaha, you crack me up!"
+msgstr "はははは、傑作だな！"
+
+msgid "Any suggestions?"
+msgstr "なにか案はない？"
+
+msgid "Why not follow Red? That little shit left through here last time."
+msgstr "レッドを追ったらどうだ？　前回あのクソはここを通って行ったぜ。"
+
+msgid "But that was long ago."
+msgstr "ま、ずいぶん前の話だがな。"
+
+msgid "Do you mean through that door to the right?"
+msgstr "右のドアのこと？"
+
+msgid "Through... here? What do you mean?"
+msgstr "ここを……通って？　どういうこと？"
+
+msgid "You haven't looked at this room much, have you?"
+msgstr "嬢ちゃん、この部屋をまだ十分見て回ってないだろ？"
+
+msgid "A plain cardboard box."
+msgstr "無地の段ボール箱。"
+
+msgid "Some cardboard boxes."
+msgstr "いくつかの段ボール箱。"
+
+msgid "A blue butterfly."
+msgstr "青い蝶。"
+
+msgid "A sturdy cage housing a being."
+msgstr "なにかを閉じ込めている頑丈な檻。"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_1.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "引き出しは空だ。"
+
+msgid "A jar filled with slugs."
+msgstr "ナメクジの詰まった瓶。"
+
+msgid "(They're alive in there...)"
+msgstr "(中で生きてる……)"
+
+msgid "Take ${item:ch1.red_jar}?"
+msgstr "${item:ch1.red_jar} を取る？"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.choice.Take ${item:ch1.red_jar}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.choice.Take ${item:ch1.red_jar}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "The drawers underneath are empty."
+msgstr "その下の引き出しは空だ。"
+
+msgctxt "events.Ch1_Red_B1F.misc_drawer_2.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "引き出しは空だ。"
+
+msgid "Bug-themed lamps."
+msgstr "虫をモチーフにしたランプ。"
+
+msgid "I'm not going to carry the slugs with me..."
+msgstr "ナメクジを持ち歩く気はしない……"
+
+msgid "A large mirror."
+msgstr "大きな鏡。"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.dlg.lacie"
+msgid "...?"
+msgstr "……？"
+
+msgid "A door with a keypad has been exposed."
+msgstr "キーパッドのついたドアがあらわになっている。"
+
+msgid "Input a code?"
+msgstr "コードを入れる？"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Input a code?"
+msgid "Yes"
+msgstr "入れる"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Input a code?"
+msgid "No"
+msgstr "入れない"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "こっちに行ってもコズモは助けられないと思う……"
+
+msgid "Continue down this path?"
+msgstr "このままこの道を進む？"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Continue down this path?"
+msgid "Yes"
+msgstr "進む"
+
+msgctxt "events.Ch1_Red_B1F.move_secret.choice.Continue down this path?"
+msgid "No"
+msgstr "やめておく"

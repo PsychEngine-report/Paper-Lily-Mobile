@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "有紅色鞋帶的一雙白鞋。"
+
+msgid "The shoelaces could be useful."
+msgstr "鞋帶會很有用。"
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "拿走 ${item:ch1.shoelaces} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "It's already done."
+msgstr "已經完成了。"
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(妳在入口撒上鹽巴。)"
+
+msgid "Something is written here:"
+msgstr "有東西寫在上面："
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "\"妳上次在這裡吃東西是什麼時候？妳忘記了嗎？\""
+
+msgid "A bookshelf with random decorative books."
+msgstr "裝著各種裝飾用書的書櫃。"
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "還有排列整齊的辦公用品。"
+
+msgid "Red marker. Perfect."
+msgstr "紅色奇異筆。完美。"
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "拿走 ${item:ch1.marker} 嗎？"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "大沙發。廣人常常在這裡睡著。"
+
+msgid "A small couch that used to be your favorite."
+msgstr "過去是我最愛的小沙發。"
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "櫥櫃上有些箱子和植物。"
+
+msgid "A large cupboard that could fit a person."
+msgstr "可以裝入一個人的大櫥櫃。"
+
+msgid "Some decorative plates."
+msgstr "一些裝飾用的盤子。"
+
+msgid "A painting of a sleeping cat."
+msgstr "一幅睡覺貓咪的畫。"
+
+msgid "A painting of..."
+msgstr "一幅..."
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "嗯？貓咪不是應該在睡覺嗎...？"
+
+msgid "A painting of a cat stares you down."
+msgstr "一幅凝視著妳的貓咪的畫。"
+
+msgid "Some bills."
+msgstr "一些帳單。"
+
+msgid "Some pictures of places around the world."
+msgstr "一些世界各地的照片。"
+
+msgid "Mother and father go on trips a lot..."
+msgstr "母親和父親常常旅行..."
+
+msgid "I don't even know where they are right now."
+msgstr "我連他們現在在哪裡都不知道。"
+
+msgid "A tall plant."
+msgstr "高大的植物。"
+
+msgid "A pretty plant."
+msgstr "漂亮的植物。"
+
+msgid "A pink plant."
+msgstr "粉紅的植物。"
+
+msgid "The TV remote."
+msgstr "電視遙控器。"
+
+msgid "Turn the TV on?"
+msgstr "打開電視嗎？"
+
+msgid "Turn the TV off?"
+msgstr "關閉電視嗎？"
+
+msgid "A shelf containing mainly glassware."
+msgstr "主要擺放了玻璃器皿的架子。"
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "如果這掉在人身上一定會很痛。"
+
+msgid "Some books on gardening."
+msgstr "一些園藝書籍。"
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "鞋架，放滿了各種顏色的鞋子。"
+
+msgid "Slippers to change into."
+msgstr "可以換上的拖鞋。"
+
+msgid "The footprints come from under the table..."
+msgstr "腳印是從桌子底下出來的..."
+
+msgid "But there's nothing there."
+msgstr "但是那裡什麼也沒有。"
+
+msgid "The family dining table."
+msgstr "家庭餐桌。"
+
+msgid "We don't eat here as much anymore."
+msgstr "我們已經不常在這裡吃東西了。"
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "咖啡桌。有的時候植物會擋到。"
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "腳印走向外面。看起來不像正常的腳..."
+
+msgid "A TV."
+msgstr "一台電視。"
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "關於貓咪的節目...還是電玩的預告片？"
+
+msgid "Just animal videos, I guess."
+msgstr "只是動物影片吧。"
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "\"給他們麵包和貓咪，他們就永遠不會反抗。\""
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "有部我最近開始看的魔法少女動畫。"
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "網路上有人說會變得很黑暗...但是我還沒看到什麼不好的地方。"
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "真是令人不安...還是關掉吧。"
+
+msgid "..."
+msgstr "..."
+
+msgid "An umbrella basket."
+msgstr "雨傘籃。"
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "雨傘籃。常常不小心被踢到。"
+
+msgid "I've been outside enough for now."
+msgstr "我在外面已經待夠了。"
+
+msgid "This is the laundry room."
+msgstr "這是洗衣房。"
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "我不懂為什麼家裡的門需要被鎖起來。"
+
+msgid "Maybe Hiro has the key..."
+msgstr "也許廣人會有鑰匙..."
+
+msgid "...but I don't need anything from there."
+msgstr "...但是我不需要裡面的東西。"
+
+msgid "The laundry room. It's locked."
+msgstr "洗衣房。被鎖住了。"

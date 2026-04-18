@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Oh... I know where this is)."
+msgstr "(Oh... Nerede olduğunu biliyorum)."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "This must be under that weird fella's house."
+msgstr "O tuhaf adamın evinin altında olmalı."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "You know, the sculptor?"
+msgstr "Heykeltıraş'ı, tanıyoru musun?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "Yeah."
+msgstr "Evet."
+
+msgid "I think artists are really impressive!"
+msgstr "Sanatçıların oldukça etkileyici olduğunu düşünüyorum."
+
+msgid "(What's this..?)"
+msgstr "(Bu da ne..?)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Not really."
+msgstr "Pek değil."
+
+msgid "Oh, it's a cranky old artist."
+msgstr "Oh, o huysuz yaşlı bir sanatçı"
+
+msgid "I've never spoken to him because he's in a bad mood when he's tired."
+msgstr "Onunla hiç konuşmamıştım çünkü yogun olduğu zaman çok huysuz oluyor."
+
+msgid "...And he's almost always tired."
+msgstr "...Ve o neredeyse her zaman yorgun."
+
+msgid "But I think artists are really impressive!"
+msgstr "Ancak sanatçıların gerçekten etkileyici olduğunu düşünüyorum."
+
+msgid "Sculpting is really hard..."
+msgstr "Heykel yapmak gerçekten zor..."
+
+msgid "Especially hands..."
+msgstr "Özellikle eller..."
+
+msgid "I can't seem to get my hands right..."
+msgstr "Elleri doğru yapamıyorum gibi görünüyor..."
+
+msgid "(Oh, that explains...)"
+msgstr "(Oh, bu açıklar...)"
+
+msgid "(Huh... the path is open now.)"
+msgstr "(Huh... yol açılmış.)"
+
+msgid "We need to walk slowly... and uh... keep an eye out."
+msgstr "Yavaş yürümeliyiz... ve uh... dikkat et."
+
+msgid "Keep an eye out for what?"
+msgstr "Dikkat et mi, neye?"
+
+msgid "For... fairies."
+msgstr "Şeye... perilere."
+
+msgid "Don't you know what this place is!?"
+msgstr "Buranın neresi olduğunu bilmiyor musun?"
+
+msgid "Lacie, don't you know what this place is!?"
+msgstr "Lacie, buranın neresi olduğunu bilmiyor musun?"
+
+msgid "...No, not really."
+msgstr "...Hayır, pek değil."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "This is the inside of a fairy ring!"
+msgstr "Burası peri çemberinin içi!"
+
+msgid "Lacie, this is the inside of a fairy ring!"
+msgstr "Lacie, burası peri çemberinin içi."
+
+msgid "Um..."
+msgstr "Um..."
+
+msgid "...The mushroom circle from outside?"
+msgstr "...Dışarıdaki mantar çemberi mi?"
+
+msgid "Yep. That's a fairy ring."
+msgstr "Evet. O peri çemberi."
+
+msgid "So this place is..."
+msgstr "Yani burası..."
+
+msgid "Underneath that circle?"
+msgstr "O çemberin altı öyle mi?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "Yeah."
+msgstr "Evet."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "Oh."
+msgstr "Oh."
+
+msgid "Can you tell me more?"
+msgstr "Dahasını anlatır mısın?"
+
+msgid "Let's see... I only know the things everyone talks about."
+msgstr "Bir bakalım... Bende herkesin bildiği temel şeyleri biliyorum."
+
+msgid "For one, fairies live in fairy rings, and they're really nasty."
+msgstr "İlki, periler peri çemberinde yaşarlar, ve gerçekten kötüler."
+
+msgid "(Fairies...)"
+msgstr "(Periler...)"
+
+msgid "They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!"
+msgstr "Aynı zamanda kötü de görünürler, bedenlerinden ayrı yumurta şeklinde kafaları vardır, ve beyazlar, ve büyük dişleri var! Ve bazılarının gözleri yok!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "But even without the fairies, winding up inside of a fairy ring is..."
+msgstr "Ama periler olmasa bile, bir peri çemberinin içinde gezinmek..."
+
+msgid "Well, they say you get stuck here for 7 years."
+msgstr "Şey, burada 7 yıl mahsur kalacağını söylerler."
+
+msgid "But nobody has ever escaped because they usually just die before that."
+msgstr "Ancak kimse kaçamamış çünkü genellikle bu olmadan ölmüşler."
+
+msgid "Oh god this is horrible, we're not gonna escape!"
+msgstr "Aman tanrım bu korkunç, kaçamayacak mıyız!"
+
+msgid "Even if we somehow make it 7 years, that's only a myth!"
+msgstr "Bir şekilde 7 yıl hayatta kalsak bile, bu sadece bir efsane!"
+
+msgid "Maybe it's meant to instill hope in the poor souls that end up here!"
+msgstr "Belkide buraya düşen zavallı ruhlara umut olması için uydurulmuştur!"
+
+msgid "LIKE US! THIS IS A DEAD END!!!"
+msgstr "TIPKI BİZİM GİBİ! BU BİZİM İÇİN YOLUN SONU!!! MAHVOLDUK!!"
+
+msgid "Aoi."
+msgstr "Aoi."	
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Cut it off."
+msgstr "Kes şunu."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "Sorry."
+msgstr "Üzgünüm."
+
+msgid "Are the fairies dangerous?"
+msgstr "Periler tehlikeliler mi?"
+
+msgid "Yeah..."
+msgstr "Evet..."
+
+msgid "...But everything is dangerous."
+msgstr "...Ama her şey çok tehlikeli."
+
+msgid "The floor here is also slowly digesting us."
+msgstr "Ayrıca zemin de yavaşça bizi sindiriyor."
+
+msgid "I guess you don't feel it because you have shoes, hehe..."
+msgstr "Sanırım ayakkabın odluğu için hissetmiyorsun, hehe..."
+
+msgid "I only have socks, so it's already eating away at them..."
+msgstr "Benim sadece çoraplarım var, yani çoktan onları sindiriyor..."
+
+msgid "(Should I offer Aoi my shoes?)"
+msgstr "(Aoi'ye ayakkabılarımı vermeli miyim?)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Would you like my shoes?"
+msgstr "Ayakkabılarımı ister misin?"
+
+msgid "Whaaat? You're offering me your own shoes?!?"
+msgstr "Neeee? Kendi ayakkabılarını bana mı vereceksin?!?"
+
+msgid "That's so nice of you!"
+msgstr "Bu çok kibarca!"
+
+msgid "That's so nice, Lacie!"
+msgstr "Bu çok güzel, Lacie!"
+
+msgid "But no, I'll be alright. I'll just remake my feet if they start being unusable."
+msgstr "Ama hayır, iyi olacağım. Sadece kullanılamaz hale gelirse ayaklarımı tekrar yapmam gerek o kadar."
+
+msgid "It just burns but that's okay, I'm used to burns."
+msgstr "Sadece yanıyor ama sorun yok, Yanmaya alışığım."
+
+msgid "...I'm used to burns..."
+msgstr "...Yanıklara alışığım..."
+
+msgid "Um... okay."
+msgstr "Um... tamam."
+
+msgid "(Best not...)"
+msgstr "(En iyisi yapmamak...)"
+
+msgid "(Who knows what this floor will do to my feet...)"
+msgstr "(Zeminin ayaklarıma ne yapacağını kim bilir...)"
+
+msgid "(This person is not human, so they will probably be fine.)"
+msgstr "(Bu kişi bir insan değil, yani muhtemelen iyi olacaktır.)"
+
+msgid "A large skeleton of an unknown creature."
+msgstr "Bilinmeyen bir yaratığın büyük iskeleti."
+
+msgid "Hm...?"
+msgstr "Hm..?"
+
+msgid "What died here...?"
+msgstr "Burada ne öldü..?"
+
+msgid "Something big!"
+msgstr "Büyük bir şey!"
+
+msgid "Oh!"
+msgstr "Oh!"
+
+msgid "A dragon!"
+msgstr "Bir ejderha!"
+
+msgid "(A dragon...!?)"
+msgstr "(Bir ejderha mı..?)"
+
+msgid "Was I right?!"
+msgstr "Haklı mıydım?!"
+
+msgid "Huh? How should I know?"
+msgstr "Huh? Nasıl bilebilirim ki?"
+
+msgid "Aw..."
+msgstr "Aw..."
+
+msgid "A large skeleton of a dragon."
+msgstr "Bir ejderhanın büyük iskeleti."
+
+msgid "(Do dragons really exist in this place...?)"
+msgstr "(Burada ejderhalar gerçek mi...?)"
+
+msgid "Isn't it so cool that humans have dragons in their world?"
+msgstr "İnsanların dünyalarında ejderhaların olması havalı değil mi?"
+
+msgid "I'd like dragons here too."
+msgstr "Buradaki ejderhaları ben de seviyorum."
+
+msgid "(Never mind.)"
+msgstr "(Boş ver.)"
+
+msgid "A large skeleton of something other than a dragon."
+msgstr "Ejderhadan başka bir şeye ait büyük bir iskelet."
+
+msgid "We sure are walking a lot."
+msgstr "Gerçekten fazla yürüyoruz değil mi?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "My feet don't hurt, or anything. Don't worry!"
+msgstr "Ayaklarım acı falan hissetmiyor. Endişelenme!"
+
+msgid "I bet there's no way out..."
+msgstr "İddiasına varım ki buradan çıkmanın bir yolu yok..."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "There's always a way."
+msgstr "Her zaman bir yol vardır."
+
+msgid "(Right...?)"
+msgstr "(Doğru...?)"
+
+msgid "Whoa."
+msgstr "Whoa."
+
+msgid "I like that!"
+msgstr "Bunu beğendim!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "The path ends here."
+msgstr "Yol burada bitiyor."
+
+msgid "Huh...? Is there really nowhere to go from here...?"
+msgstr "Huh..? Gerçekten buradan gidebileceğimiz bir yer yok mu?"
+
+msgid "A large bone."
+msgstr "Büyük bir kemik."
+
+msgid "A broken street lamp."
+msgstr "Kırık bir sokak lambası."
+
+msgid "Blue mushrooms are lining the floor."
+msgstr "Mavi mantarlar zemini kaplıyor."
+
+msgid "A bunch of rubble."
+msgstr "Bir avuç moloz."
+
+msgid "A piece of a sculpture."
+msgstr "Bir heykel parçası."
+
+msgid "A strangely-shaped pot."
+msgstr "Girp bir şekile sahip çömlek."
+
+msgid "There's a large hole on the floor."
+msgstr "Yerde geniş bir delik var."
+
+msgid "(It's deep... and dark.)"
+msgstr "(Oldukça derin... ve karanlık.)"
+
+msgid "It doesn't seem very smart to try going down there."
+msgstr "Oradan aşşağı inmek pek zekice değil gibi."
+
+msgid "I feel like there has to be a better option than going down this hole..."
+msgstr "O deliğe girmekten daha iyi seçeneklerim olmalı gibi hissediyorum..."
+
+msgid "(We checked everywhere else but...)"
+msgstr "(Her yere baktık ama...)"
+
+msgid "(If I go down there... it will be impossible to come back up...)"
+msgstr "(Eğer oradan aşşağı inersem... geri dönmek benim için imkansız olacaktır...)"
+
+msgid "Go down the hole?"
+msgstr "Delikten inmeli miyim?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "...Sigh, here we go."
+msgstr "...Huff, hadi bakalım."
+
+msgid "Wanna turn back?"
+msgstr "Geri dönmek ister misin"
+
+msgid "There's nowhere else to go, so we might as well explore whatever's down there."
+msgstr "Gidecek başka bir yer yok, yani aşşağıda ne varsa onu da bir keşfetmeliyiz."
+
+msgid "Okay."
+msgstr "Tamam."
+
+msgid "Going deeper down to find an exit... this isn't very smart, is it?"
+msgstr "Çıkış bulmak için daha da derinlere gitmek... pek zekice değil, değil mi?"

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Dead End 1-3 - A Walk in the Dark"
+msgstr "Тупик 1-3 - Прогулка во мраке"
+
+msgid "Huh... these stairs weren't here before."
+msgstr "Хм... этих ступенек здесь раньше не было."
+
+msgid "But I don't think there's anywhere to go out there."
+msgstr "Но мне кажется, они никуда меня не выведут."
+
+msgid "It's all blackness as far as I can see."
+msgstr "Я впереди вижу лишь непроглядную темень."
+
+msgid "Huh...? Red... stairs?"
+msgstr "Чего?... Красные... ступеньки?"
+
+msgid "I don't have time for this anyways."
+msgstr "Но у меня нет на это времени."
+
+msgid "I need to wake up or the bus will take me away!"
+msgstr "Нужно проснуться, пока автобус меня не унёс!"
+
+msgid "A bed. It's similar to mine, but it's always cold."
+msgstr "Кровать. Похожа на мою, но она всегда холодная."
+
+msgid "Well, here we go."
+msgstr "Что ж, поехали."
+
+msgid "Once I cross this area, this dream will be over."
+msgstr "Как только я дойду до конца, сон закончится."
+
+msgid "A second door?"
+msgstr "Вторая дверь?"
+
+msgid "This door doesn't open."
+msgstr "Эта дверь не открывается."
+
+msgid "There's nothing special behind it."
+msgstr "За ней нет ничего особенного."

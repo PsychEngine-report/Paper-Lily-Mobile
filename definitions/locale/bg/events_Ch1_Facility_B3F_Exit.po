@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Ah... here it is."
+msgstr "Ах... ето го."
+
+msgid "I suppose these cursed doors must be fairly common."
+msgstr "Предполагам, че тези прокълнати врати трябва да са доста разпространени."
+
+msgid "Not that common. And they kinda suck."
+msgstr "Не е толкова често срещано. И са доста гадни."
+
+msgid "Sometimes you get stuck with no way to go back."
+msgstr "Понякога се оказвате в безизходица и няма как да се върнете назад."
+
+msgid "I see."
+msgstr "Разбирам."
+
+msgid "So it's a dead end after all."
+msgstr "Така че това все пак е задънена улица."
+
+msgid "Since there's no doorknobs here..."
+msgstr "Тъй като тук няма дръжки на врати…"
+
+msgid "Looks like it."
+msgstr "Така изглежда."
+
+msgid "An empty slot."
+msgstr "Празен слот."
+
+msgid "Place a doorknob?"
+msgstr "Поставете дръжка на вратата?"
+
+msgid "Gray Doorknob"
+msgstr "Сива дръжка за врата"
+
+msgid "White Doorknob"
+msgstr "Бяла дръжка за врата"
+
+msgid "Return Doorknob"
+msgstr "Дръжка за Връщане"
+
+msgid "Do not"
+msgstr "Недей"
+
+msgid "I guess it's finally time to use this."
+msgstr "Май дойде мигът да го използвам."

@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "О, шик, как раз думал, как бы убить время."
+
+msgid "You got a crayon too?"
+msgstr "А фломастеры можно?"
+
+msgid "It's not for you."
+msgstr "Это не тебе."
+
+msgid "What!?"
+msgstr "Что?!"
+
+msgid "You about to start cleaning in here?"
+msgstr "Ты собралась тут всё чистить?"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "Нахрена ты мотыляешь этой ногой?!"
+
+msgid "Did you cut it..?"
+msgstr "Ты что, её отрезала?.."
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_foot_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I had to."
+msgstr "Мне пришлось."
+
+msgid "Mhmmm..."
+msgstr "Ага..."
+
+msgid "It's true."
+msgstr "Я не вру."
+
+msgid "Yeah..."
+msgstr "Угу..."
+
+msgid "It's a jar."
+msgstr "Это банка."
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_jar_on_sai.dlg.lacie"
+msgid "Yes."
+msgstr "Да."
+
+msgid "It's empty."
+msgstr "Она пустая."
+
+msgid "...Yes."
+msgstr "...Да."
+
+msgid "Why are you showing it to me?"
+msgstr "Зачем ты мне её показываешь?"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "Мало ли, вдруг ты скажешь что-нибудь интересное."
+
+msgid "It seems you don't."
+msgstr "Наверное, не скажешь."
+
+msgid "H-Hey!"
+msgstr "Д-да ну тебя!"
+
+msgid "The key fits!"
+msgstr "Ключ подошёл!"
+
+msgid "Thanks!"
+msgstr "Спасибо!"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_key_correct_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "(Сай присоединяется к отряду.)"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "В клетке нет замочной скважины."
+
+msgid "The key does not fit."
+msgstr "Ключ не подходит."
+
+msgid "Um... could you..."
+msgstr "Слушай... ты не мог бы?.."
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "Что? Ты мне даже не помогла, а уже хочешь, чтобы я себя порезал?"
+
+msgid "Is this how you make friends?"
+msgstr "Вот так ты заводишь друзей?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_knife_blk_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "(Ага, щас... у меня нет друзей.)"
+
+msgid "That's not gonna cut through this cage."
+msgstr "Клетку этим не разрежешь."
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "Ты точно не пироманьячка?"
+
+msgid "I won't judge, really."
+msgstr "Ноль осуждения, честное слово."
+
+msgid "...I'm not."
+msgstr "...Нет, я не пироманьячка."
+
+msgid "I found this, but I don't know how to use it."
+msgstr "Я нашла вот такую вещицу, но не умею ей пользоваться."
+
+msgid "Can you pick your own lock or something?"
+msgstr "Ты можешь сам открыть свою клетку или типа того?"
+
+msgid "Sure can!"
+msgstr "А то!"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_lockpick_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "(Сай присоединяется к отряду.)"
+
+msgid "I still look pretty good, all things considered."
+msgstr "Знаешь, а я даже сейчас тот ещё симпатяга."
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_mirror_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "То есть, ты нашла время самой сделать краски, но не нашла времени меня освободить?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_paint_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Correct."
+msgstr "Верно."
+
+msgid "A large cage."
+msgstr "Крупная клетка."
+
+msgid "A large cage hangs from the ceiling."
+msgstr "Крупная клетка, свисающая с потолка."
+
+msgid "A small cage housing a crow."
+msgstr "Небольшая клетка с вороной."
+
+msgid "How cruel, locking up a bird like this."
+msgstr "Как жестоко, закрыть тут бедную птичку."
+
+msgid "...Or is it just a regular pet?"
+msgstr "...Или это просто питомец?"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "(Кажется, эту ворону отсюда никак не выпустить.)"
+
+msgid "The crow is dead."
+msgstr "Ворона мертва."
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "Вот говно. Походу, тут побывала наша дамочка с ножами."
+
+msgid "How do you know?"
+msgstr "Откуда ты знаешь?"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "Мой жизненный опыт подсказывает, что птицы сами собой не взрываются."
+
+msgid "A small cage. It's empty."
+msgstr "Маленькая клетка. Она пустая."
+
+msgid "The cage you were trapped in."
+msgstr "Клетка, в которой вас держали."
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "Она со всех сторон закрыта."
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "Лучше быть аккуратной и случайно не залезть туда обратно."
+
+msgid "So how'd you... get out?"
+msgstr "Итак... как же ты выбралась?"
+
+msgid "I'm not sure."
+msgstr "Даже не знаю."
+
+msgid "You were here, didn't you see it?"
+msgstr "Ты ведь был внутри, неужели ничего не заметил?"
+
+msgid "I wasn't paying attention."
+msgstr "Внимательность не качал."
+
+msgid "Good job getting out of that."
+msgstr "Молодец, что выбралась оттуда."
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "Я не видел, что произошло, но ты, должно быть, умеешь проходить через стальные прутья."
+
+msgid "Thanks."
+msgstr "Спасибо."
+
+msgid "Looks like you're in a bind yourself."
+msgstr "А ты, похоже, сам ещё взаперти."
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "(Будь он демоном, он бы просто использовал свои силы, чтобы сбежать... верно?)"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "(Или ему просто на всё плевать?..)"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "Слушай, тебе лучше тут не задерживаться."
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "Если эта дамочка услышит, какой шум ты тут подняла и вернётся всё проверить, тебе будет не до смеха."
+
+msgid "Hmm... you're right."
+msgstr "Хм-м... а ты прав."
+
+msgid "Well, see you."
+msgstr "Что ж, ещё увидимся."
+
+msgid "Where are you going?"
+msgstr "Куда ты?"
+
+msgid "I'm going to look around a bit."
+msgstr "Я пойду осмотрюсь."
+
+msgid "...and...?"
+msgstr "...и?.."
+
+msgid "I should try to find an exit too."
+msgstr "Постараюсь найти выход отсюда."
+
+msgid "...And nothing else...?"
+msgstr "...и ещё?.."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Are you serious? Get me out of here!"
+msgstr "Ты шутишь? Выпусти меня отсюда!"
+
+msgid "Ah, of course."
+msgstr "А, разумеется."
+
+msgid "Sure, I'll try."
+msgstr "Хорошо, я попробую."
+
+msgid "...Alright."
+msgstr "...Хорошо."
+
+msgid "I lost all my items..."
+msgstr "Я потеряла все свои вещи..."
+
+msgid "Do you still have your belongings?"
+msgstr "А твои вещи ещё при тебе?"
+
+msgid "My stuff? It's all gone."
+msgstr "Мои? Не, они все пропали."
+
+msgid "I guess the demon lady took it."
+msgstr "Наверное, их та демоница забрала."
+
+msgid "I see..."
+msgstr "Понятно..."
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "(Это пипец как плохо. Без своих вещей я не смогу вернуться домой.)"
+
+msgid "You're back."
+msgstr "Ты вернулась."
+
+msgid "Any clues?"
+msgstr "Есть зацепки?"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "Да, я разговаривала с паучком."
+
+msgid "You spoke to a spider...?"
+msgstr "Разговаривала с паучком?.."
+
+msgid "And did the spider speak back?"
+msgstr "А он что-то говорил в ответ?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "Yes."
+msgstr "Да."
+
+msgid "Ok, that's kinda intriguing."
+msgstr "Так, вот сейчас становится интересно."
+
+msgid "He told me what to do to get out of here."
+msgstr "Он сказал, что нужно сделать, чтобы сбежать отсюда."
+
+msgid "Really?"
+msgstr "Неужели?"
+
+msgid "Yes. I'll take care of it."
+msgstr "Да. Я со всем разберусь."
+
+msgid "Aaaalright."
+msgstr "Ну ла-а-а-адно."
+
+msgid "I'll just... be here."
+msgstr "А я тогда... здесь побуду."
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Well, see you later."
+msgstr "Что ж, увидимся."
+
+msgid "Got it."
+msgstr "Окей."
+
+msgid "If you want a lollipop I have more."
+msgstr "Если хочешь леденец, у меня ещё есть."
+
+msgid "No thank you."
+msgstr "Нет, спасибо."
+
+msgid "Be careful out there."
+msgstr "Ты там осторожнее."
+
+msgid "The cage Sai was in."
+msgstr "Клетка, в которой держали Сая."
+
+msgid "Sai isn't here anymore."
+msgstr "Сая здесь уже нет."
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "Эй-эй... ты что, просто уйдёшь?.."
+
+msgid "Wait."
+msgstr "Стой."
+
+msgid "Hm?"
+msgstr "М-м?"
+
+msgid "What did you try to buy?"
+msgstr "А что ты пробовала купить?"
+
+msgid "...What?"
+msgstr "...Что?"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "Ты сказала, что сегодня пробовала что-то купить в магазине."
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "...И почему ты именно сейчас об этом спрашиваешь?"
+
+msgid "Just curious."
+msgstr "Мне просто интересно."
+
+msgid "...It was just a flan."
+msgstr "...Обычный фруктовый пирог."
+
+msgid "...It was just some macarons."
+msgstr "...Обычный макарун."
+
+msgid "...It was just a chocolate eclair."
+msgstr "...Обычный шоколадный эклер."
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.sai"
+msgid "Huh."
+msgstr "Во как."
+
+msgid "So you like flan?"
+msgstr "Значит, любишь пироги?"
+
+msgid "So you like macarons?"
+msgstr "Значит, любишь макаруны?"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "Значит, любишь эклеры? Только шоколадные?"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "Тебе что, кажется, что сейчас самое время это обсуждать?"
+
+msgid "When else? I'm bored now, not later."
+msgstr "А когда ещё? Мне скучно сейчас, а не потом."
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "В этой клетке можно мало о чём размышлять."
+
+msgid "...I'm leaving."
+msgstr "...Я пошла."
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "Стой, скажи хотя бы, как тебя зовут, и я тебя отпущу!"
+
+msgid "...Sigh."
+msgstr "...*Вздох*"
+
+msgid "It's Lacie."
+msgstr "Лэйси."
+
+msgid "Will that be all?"
+msgstr "Это всё?"
+
+msgid "Yeah!"
+msgstr "Да!"
+
+msgid "I'll be going then."
+msgstr "Тогда я пошла."
+
+msgid "Good luck, try not to get killed."
+msgstr "Удачи, смотри не убейся."
+
+msgid "...Mhm."
+msgstr "...Угу."
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'm not sure where I am right now..."
+msgstr "Я не знаю, где я сейчас нахожусь..."
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "Но мне нужно всего лишь найти выход и не наткнуться на то чудище."
+
+msgid "...Or should I help that guy first?"
+msgstr "...Или же сначала помочь этому парню?"
+
+msgid "Um, so..."
+msgstr "Эм, короче..."
+
+msgid "The knives lady was here."
+msgstr "Сюда заходила мадама с ножами."
+
+msgid "She pulverized that bird."
+msgstr "Она разнесла эту птичку."
+
+msgctxt "events.Ch1_MK_B2F_Cages.on_enter_sai_crow_react.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It was crazy, I thought I was toast."
+msgstr "Это была полная чума. Думал, мне тоже кранты."
+
+msgid "Where did she go after?"
+msgstr "А куда она потом ушла?"
+
+msgid "No clue."
+msgstr "Кто её знает?"

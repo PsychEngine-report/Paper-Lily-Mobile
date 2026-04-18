@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OH."
+msgstr "OH."
+
+msgid "A child."
+msgstr "Bir çocuk."
+
+msgid "A child is in my gallery. But my gallery is closed. So how can a child be in my gallery?"
+msgstr "Bir çocuk benim galerimde. Ama galerim kapalı. O zaman bir çocuk nasıl benim galerimde olabilir?"
+
+msgid "Atrocious."
+msgstr "Felaket."
+
+msgid "Smells like..."
+msgstr "Şey gibi kokuyor..."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "GARBAGE."
+msgstr "ÇÖP."
+
+msgid "What? That's not true..."
+msgstr "Ne? Bu doğru değil..."
+
+msgid "Who is this child?"
+msgstr "Bu çocuk kim?"
+
+msgid "My name is Lacie."
+msgstr "Benim adım Lacie."
+
+msgid "(Wait... I shouldn't give out my name like that to demons!)"
+msgstr "(Bekle...iblislere öylece ismimi vermemeliyim!)"
+
+msgid "Lacie..."
+msgstr "Lacie..."
+
+msgid "(Did he figure out I'm human...?)"
+msgstr "(İnsan olduğumu anladı mı..?)"
+
+msgid "So..."
+msgstr "Ee..."
+
+msgid "What is your name?"
+msgstr "Senin adın ne?"
+
+msgid "What's under that drape?"
+msgstr "O perdenin altında ne var?"
+
+msgid "You seem better now."
+msgstr "Şimdi daha iyi görünüyorsun."
+
+msgid "You're dropping a lot of flowers."
+msgstr "Çok fazla çiçek düşürüyorsun."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.choice.So..."
+msgid "Never mind"
+msgstr "Boş ver"
+
+msgid "Kett is what I am called."
+msgstr "Bana Kett derler."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "Oh."
+msgstr "Oh."
+
+msgid "And who are you?"
+msgstr "Ve sen kimsin?"
+
+msgid "I... already told you my name."
+msgstr "Ben...zaten sana ismimi söyledim."
+
+msgid "(He forgot it...? Maybe that's a good thing.)"
+msgstr "(Unuttu mu...? Belki de bu iyi bir şeydir.)"
+
+msgid "Please excuse me. I have no use for meaningless information in my mind."
+msgstr "Lütfen kusura bakma. Aklımda anlamsız bilgilere ihtiyacım yok."
+
+msgid "No... that's okay."
+msgstr "Hayır...sorun yok."
+
+msgid "A commission."
+msgstr "Bir komisyon."
+
+msgid "I have been stuck, blocked, uninspired, you could say."
+msgstr "Sıkışmış,engellenmiş,ilhamsız olduğumu söyleyebilirsin."
+
+msgid "FOR AGES."
+msgstr "UZUN ZAMANDIR."
+
+msgid "Everything I made..."
+msgstr "Yaptığım herşey..."
+
+msgid "But now suddenly I feel..."
+msgstr "Ama şuan aniden hissediyorum..."
+
+msgid "Awaken."
+msgstr "Uyandığımı."
+
+msgid "You seemed very um...crazy...a while ago."
+msgstr "Çok şey gözüküyordun..uh...deli...biraz zaman önce."
+
+msgid "Ah, sleep deprivation."
+msgstr "Ah,uykusuzluktandır."
+
+msgid "I feel that."
+msgstr "Anlıyorum."
+
+msgid "HOWEVER, AN ANGEL delivered salvation to me."
+msgstr "ANCAK, BİR MELEK bana kurtuluş getirdi。"
+
+msgid "I brought you that."
+msgstr "Sana onu ben getirdim."
+
+msgid "IF I COULD FIND THIS ANGEL, well, they would be humbly welcomed into my gallery, for no fee."
+msgstr "EĞER O MELEĞİ BULABİLSEYDİM, şey, galerimde alçakgönüllülükle karşılanırlardı, ücretsiz olarak."
+
+msgid "It was me."
+msgstr "O bendim."
+
+msgid "BUT ALAS."
+msgstr "AMA NE YAZIK."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "They are the fruit of my inspiration."
+msgstr "Onlar benim ilhamımın meyvesi."
+
+msgid "I picked up some of your inspiration, I hope you don't mind."
+msgstr "Senin bazı ilhamlarını aldım, umarım sorun etmezsin."
+
+msgid "Your inspiration is all over the floor."
+msgstr "İlhamın yerlerde sürünüyor."
+
+msgid "What is that commission about?"
+msgstr "Bu komisyon ne hakkında?"
+
+msgid "I keep my business matters private."
+msgstr "İş mevzularımı gizli tutuyorum."
+
+msgid "Can I commission you for a piece?"
+msgstr "Senden bir parça isteyebilir miyim?"
+
+msgid "Of course. You may add your name to my waiting list."
+msgstr "Tabii ki de. İsmini bekleyenler listeme ekleyebilirsin."
+
+msgid "...Never mind then."
+msgstr "...O zaman boşver."
+
+msgid "Where is it?"
+msgstr "Nerede o?"
+
+msgid "On the wall."
+msgstr "Duvarda."
+
+msgid "Why don't you make anything colorful?"
+msgstr "Neden renkli herhangi bir şey yapmıyorsun?"
+
+msgid "Color....ful..?"
+msgstr "Renk...li..?"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_extra.dlg.kett"
+msgid "..."
+msgstr "..."
+
+msgid "What ever do you mean?"
+msgstr "Ne demek istiyorsun?"
+
+msgid "Well...all of your...art...is blue or grey."
+msgstr "Şey...tüm..eserlerin...ya mavi ya da gri."
+
+msgid "Blue...? Grey...?"
+msgstr "Mavi...? Gri...?"
+
+msgid "(He seems really perplexed.)"
+msgstr "(Cidden çok kafası karışmış görünüyor.)"
+
+msgid "What did you smell on me earlier?"
+msgstr "Daha önce bende ne kokladın?"
+
+msgid "I don't recall the event you're referring to."
+msgstr "Bahsettiğin olayı hatırlamıyorum."
+
+msgid "Because you don't keep meaningless information in your mind?"
+msgstr "Anlamsız bilgileri aklında tutmadığın için mi?"
+
+msgid "Yes, how did you know?"
+msgstr "Evet, nereden bildin?"
+
+msgid "Just a feeling."
+msgstr "Sadece his."
+
+msgid "Of course.. the patterns must match on each limb."
+msgstr "Tabii ki..desenler her uzuvda uyuşmalı."
+
+msgid "But how shall I go about it...?"
+msgstr "Ama nasıl yapmalıyım...?"
+
+msgid "Kett seems to be concentrated."
+msgstr "Kett odaklanmış duruyor."
+
+msgid "There's someone there. Grab their attention?"
+msgstr "Orada biri var. Dikkatlerini çek?"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.dlg.kett"
+msgid "!!!"
+msgstr "!!!"
+
+msgid "He seem to be asleep."
+msgstr "Uyuyormuş gibi duruyor."
+
+msgid "I'd really rather not bother him..."
+msgstr "Onu rahatsız etmemeyi tercih ederim..."
+
+msgid "This isn't the time for that."
+msgstr "Bunun zamanı zamanı değil."
+
+msgid "This is from the lighthouse."
+msgstr "Bu deniz fenerinden."
+
+msgid "Garbage."
+msgstr "Çöp."
+
+msgid "Huh? Really?"
+msgstr "Huh? Cidden mi?"
+
+msgid "It sickens me."
+msgstr "Midemi bulandırıyor."
+
+msgid "Do you know where the lighthouse is?"
+msgstr "Deniz feneri nerede biliyor musun?"
+
+msgid "Begone, child."
+msgstr "Defol çocuk."
+
+msgid "...Guess not."
+msgstr "...sanırım hayır."
+
+msgid "This candle looks familiar to me. How curious."
+msgstr "Bu mum çok tanıdık görünüyor. Ne kadar ilginç."
+
+msgid "What is that garbage smell?"
+msgstr "Bu çöp kokusu da ne?"
+
+msgid "You may keep that. It is little more than garbage to me."
+msgstr "Onu alabilirsin. Benim için çöpten yalnızca biraz fazla."
+
+msgid "A rock. It's carving is skillful."
+msgstr "Bir taş. Oymacılığı ustaca."
+
+msgid "Could there be another artist out there...?"
+msgstr "Orada bir yerlerde başka bir sanatçı olabilir mi..?"
+
+msgctxt "events.Ch1_Artist_1F.item_runes_on_kett.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "No. Impossible."
+msgstr "Hayır. İmkansız."
+
+msgctxt "events.Ch1_Artist_1F.item_snack_on_kett.dlg.kett"
+msgid "!!!"
+msgstr "!!!"
+
+msgid "(He ate it!?)"
+msgstr "(Onu yedi!?)"
+
+msgid "This tool is not well suited for carving."
+msgstr "Bu alet oymak için uygun değil."
+
+msgid "This is one of those things that isn't very interesting when seen from behind."
+msgstr "Bu arkadan bakıldığında çok da ilginç olmayan şeylerden biri."
+
+msgid "Blue paint."
+msgstr "Mavi boya."
+
+msgid "A blank canvas. Paint something?"
+msgstr "Boş bir tuval. Bir şeyler çiz?"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "What should I paint?"
+msgstr "Ne çizmeliyim?"
+
+msgid "A blue butterfly"
+msgstr "Mavi bir kelebek"
+
+msgid "A self-portrait"
+msgstr "Kişisel bir portre"
+
+msgid "Hiro"
+msgstr "Hiro"
+
+msgid "A portrait of Kett"
+msgstr "Kett'in bir portresi"
+
+msgid "A ghost"
+msgstr "Bir hayalet"
+
+msgid "A dinosaur"
+msgstr "Bir dinazor"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.What should I paint?"
+msgid "Never mind"
+msgstr "Boş ver"
+
+msgid "Show drawing here"
+msgstr "Çizimi burada göster"
+
+msgid "It's the painting I made. Kett will probably trash it soon enough."
+msgstr "Bu benim çizimim. Kett büyük ihtimalle yakında çöpe atar."
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "${item:ch1.kett_flower} al？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "${item:ch1.kett_flower} al？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "${item:ch1.kett_flower} al？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A waiting list. It has over a hundred names on it."
+msgstr "Bir bekleme listesi. Üstünde yüzden fazla isim var."
+
+msgid "...Never mind."
+msgstr "...Boşver."
+
+msgid "A painting of some landscape."
+msgstr "Bir manzara resmi."
+
+msgid "There must be a huge sculpture hidden under this drape."
+msgstr "Bu örtünün altında devasa bir heykel saklanıyor olmalı."
+
+msgid "Check under the drape?"
+msgstr "Perdenin altını kontrol et?"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "It looks like an unfinished sculpture of a lady. She looks like she's made of porcelain."
+msgstr "Bitmemiş bir kadın heykeli gibi görünüyor. Kadın porselenden yapılmış gibi görünüyor."
+
+msgid "There's a sculpture of a lady under this drape."
+msgstr "Bu perdenin altında bir kadın heykeli var."
+
+msgid "A tall vase."
+msgstr "Uzun bir vazo."
+
+msgid "Reach inside?"
+msgstr "İçine uzan?"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's nothing inside."
+msgstr "İçinde hiçbir şey yok."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.narrator"
+msgid "A small art piece."
+msgstr "küçük bir sanat eseri."
+
+msgid "A weird thing."
+msgstr "Garip birşey."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What... is this?"
+msgstr "Bu...da ne?"
+
+msgid "A twisty pot."
+msgstr "Kıvrımlı bir çanak."
+
+msgid "A broken pot."
+msgstr "Kırık bir çanak."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_5.dlg.narrator"
+msgid "A small art piece."
+msgstr "Küçük bir sanat eseri."
+
+msgid "It looks like a dinosaur."
+msgstr "Dinazora benziyor."
+
+msgid "A small dinosaur."
+msgstr "Küçük bir dinazor."

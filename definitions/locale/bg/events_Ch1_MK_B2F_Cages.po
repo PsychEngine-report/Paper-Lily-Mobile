@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "О-о страхотно, трябва ми нещо да отбия времето."
+
+msgid "You got a crayon too?"
+msgstr "Имаш ли също и пастел?"
+
+msgid "It's not for you."
+msgstr "Не е за теб."
+
+msgid "What!?"
+msgstr "Какво!?"
+
+msgid "You about to start cleaning in here?"
+msgstr "Ще започнеш да почистваш оттук ли?"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "За какво, по дяволите, размахваш този крак!?"
+
+msgid "Did you cut it..?"
+msgstr "Изряза ли го..?"
+
+msgid "..."
+msgstr "…"
+
+msgid "I had to."
+msgstr "Налагаше се."
+
+msgid "Mhmmm..."
+msgstr "Мхммм..."
+
+msgid "It's true."
+msgstr "Така е."
+
+msgid "Yeah..."
+msgstr "Мда…"
+
+msgid "It's a jar."
+msgstr "Това е буркан."
+
+msgid "Yes."
+msgstr "Да."
+
+msgid "It's empty."
+msgstr "Празна е."
+
+msgid "...Yes."
+msgstr "…Да."
+
+msgid "Why are you showing it to me?"
+msgstr "Защо ми го показваш?"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "Просто исках да видя дали имаш някакви мъдри забележки."
+
+msgid "It seems you don't."
+msgstr "Изглежда че нямаш."
+
+msgid "H-Hey!"
+msgstr "Х-Хей!"
+
+msgid "The key fits!"
+msgstr "Ключът пасва!"
+
+msgid "Thanks!"
+msgstr "Благодаря!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Саи се присъедини към вашата дружина.)"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "Тази клетка няма ключалка."
+
+msgid "The key does not fit."
+msgstr "Ключът не пасва."
+
+msgid "Um... could you..."
+msgstr "Ъм… би ли могъл…"
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "Какво? Дори не ми помогна там, а сега очакваш да се порежа сама?"
+
+msgid "Is this how you make friends?"
+msgstr "Така ли създаваш приятели?"
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "(Шегата е за теб… аз не създавам приятели.)"
+
+msgid "That's not gonna cut through this cage."
+msgstr "Това няма да пробие тази клетка."
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "Сигурен ли си, че не си пироман?"
+
+msgid "I won't judge, really."
+msgstr "Няма да съдя, наистина."
+
+msgid "...I'm not."
+msgstr "…Не съм."
+
+msgid "I found this, but I don't know how to use it."
+msgstr "Открих това, но не знам как да го използвам."
+
+msgid "Can you pick your own lock or something?"
+msgstr "Можеш ли да отвориш сам ключалката си или нещо подобно?"
+
+msgid "Sure can!"
+msgstr "Разбира се че мога!"
+
+msgid "I still look pretty good, all things considered."
+msgstr "Все още изглеждам доста добре, като се има предвид всичко."
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "Значи си имала време да боядисваш ръчно, но не и да ме измъкнеш оттук?"
+
+msgid "Correct."
+msgstr "Правилно."
+
+msgid "A large cage."
+msgstr "Голяма клетка."
+
+msgid "A large cage hangs from the ceiling."
+msgstr "От тавана виси голяма клетка."
+
+msgid "A small cage housing a crow."
+msgstr "Малка клетка, в която е настанена врана."
+
+msgid "How cruel, locking up a bird like this."
+msgstr "Колко е жестоко да затвориш една птица по този начин."
+
+msgid "...Or is it just a regular pet?"
+msgstr "…Или е просто нормален домашен любимец?"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "(Изглежда няма начин да освободите птицата.)"
+
+msgid "The crow is dead."
+msgstr "Враната е мъртва."
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "Аа, проклятие. Дамата с ножовете сигурно е била тук."
+
+msgid "How do you know?"
+msgstr "Откъде знаеш?"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "Ами, в своя опит, птиците не се запалват просто така."
+
+msgid "A small cage. It's empty."
+msgstr "Малка клетка. Празна е."
+
+msgid "The cage you were trapped in."
+msgstr "Клетката, в която бяхте затворени."
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "Тя е затворена от всички страни, така че е невъзможно да се влезе вътре."
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "Нека бъдем внимателни, за да не се озова отново там."
+
+msgid "So how'd you... get out?"
+msgstr "Е, в този случай… как успя да се измъкнеш?"
+
+msgid "I'm not sure."
+msgstr "Не съм сигурна."
+
+msgid "You were here, didn't you see it?"
+msgstr "Ти беше тук, не го ли видя?"
+
+msgid "I wasn't paying attention."
+msgstr "Не внимавах особено."
+
+msgid "Good job getting out of that."
+msgstr "Добра работа, че успя да се измъкнеш от това положение."
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "Не успях да видя какво си сторила, но трябва да си наистина добра в преминаването през солидни стоманени пръти."
+
+msgid "Thanks."
+msgstr "Благодаря."
+
+msgid "Looks like you're in a bind yourself."
+msgstr "Изглежда, че самият ти си в затруднение."
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "(Ако беше демон, можеше просто да използва силите си, за да избяга… нали?)"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "(А може би просто не му пука…?)"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "Чуй, вероятно не бива до оставаш тук."
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "Ако онази чудовищна дама чуе шума, който си вдигнала, и дойде да провери, ще имаш проблеми, разбираш ли?"
+
+msgid "Hmm... you're right."
+msgstr "Хмм… прав си."
+
+msgid "Well, see you."
+msgstr "Ами, до скоро."
+
+msgid "Where are you going?"
+msgstr "Къде отиваш?"
+
+msgid "I'm going to look around a bit."
+msgstr "Ще се огледам малко."
+
+msgid "...and...?"
+msgstr "…и…?"
+
+msgid "I should try to find an exit too."
+msgstr "Ще се опитам, също така, да открия изход."
+
+msgid "...And nothing else...?"
+msgstr "…И нищо друго…?"
+
+msgid "...?"
+msgstr "…?"
+
+msgid "Are you serious? Get me out of here!"
+msgstr "Ти сериозно ли? Измъкни ме оттук!"
+
+msgid "Ah, of course."
+msgstr "Аа, разбира се."
+
+msgid "Sure, I'll try."
+msgstr "Разбира се, ще се опитам."
+
+msgid "...Alright."
+msgstr "…Добре тогава."
+
+msgid "I lost all my items..."
+msgstr "Изгубих всичките си вещи…"
+
+msgid "Do you still have your belongings?"
+msgstr "Все още ли носиш всичките си вещи?"
+
+msgid "My stuff? It's all gone."
+msgstr "Нещата ми? Няма ги."
+
+msgid "I guess the demon lady took it."
+msgstr "Предполагам, че демоничната дама го е взела."
+
+msgid "I see..."
+msgstr "Разбирам…"
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "(Това е много лошо. Не мога да се върна у дома без нещата ми.)"
+
+msgid "You're back."
+msgstr "Ти се върна."
+
+msgid "Any clues?"
+msgstr "Някакви улики?"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "М-да, разговарях с паяк."
+
+msgid "You spoke to a spider...?"
+msgstr "Ти си разговаряла с паяк…?"
+
+msgid "And did the spider speak back?"
+msgstr "А той отвърна ли?"
+
+msgid "Ok, that's kinda intriguing."
+msgstr "Ок, това е малко интригуващо."
+
+msgid "He told me what to do to get out of here."
+msgstr "Той ми каза какво да сторя за да се махна оттук."
+
+msgid "Really?"
+msgstr "Наистина?"
+
+msgid "Yes. I'll take care of it."
+msgstr "Да, ще се погрижа."
+
+msgid "Aaaalright."
+msgstr "Доообре."
+
+msgid "I'll just... be here."
+msgstr "Само… бъди тук."
+
+msgid "Well, see you later."
+msgstr "Ами, до скоро."
+
+msgid "Got it."
+msgstr "Разбрано."
+
+msgid "If you want a lollipop I have more."
+msgstr "Ако искаш близалка, имам още."
+
+msgid "No thank you."
+msgstr "Не, благодаря."
+
+msgid "Be careful out there."
+msgstr "Внимавай там отвъд."
+
+msgid "The cage Sai was in."
+msgstr "Клетката, в която се намираше Саи."
+
+msgid "Sai isn't here anymore."
+msgstr "Саи вече не е тук"
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "Хей ей… просто ще си тръгнеш…?"
+
+msgid "Wait."
+msgstr "Почакай."
+
+msgid "Hm?"
+msgstr "Хм?"
+
+msgid "What did you try to buy?"
+msgstr "Какво се опита да закупиш?"
+
+msgid "...What?"
+msgstr "…Какво?"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "Сподели, че си се опитала да купиш нещо в магазина днес."
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "…Защо от всичко на преден план, точно сега питаш това?"
+
+msgid "Just curious."
+msgstr "Просто любопитство."
+
+msgid "...It was just a flan."
+msgstr "…просто един флан."
+
+msgid "...It was just some macarons."
+msgstr "…Бяха просто едни макарони."
+
+msgid "...It was just a chocolate eclair."
+msgstr "…Беше просто един шоколадов еклер."
+
+msgid "Huh."
+msgstr "Хмм."
+
+msgid "So you like flan?"
+msgstr "Значи харесваш крем-карамел?"
+
+msgid "So you like macarons?"
+msgstr "Значи обичаш макарони?"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "Харесваш ли еклери? Само с шоколад?"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "Наистина ли сега е моментът за тази дискусия?"
+
+msgid "When else? I'm bored now, not later."
+msgstr "Какво друго? Скучно ми е в момента, не после."
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "Не е като да имам за какво да мисля в тази клетка."
+
+msgid "...I'm leaving."
+msgstr "…Тръгвам си."
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "Почакай, поне ми кажи своето име, и ще те оставя на мира!"
+
+msgid "...Sigh."
+msgstr "…Въздишка."
+
+msgid "It's Lacie."
+msgstr "То е Лейси."
+
+msgid "Will that be all?"
+msgstr "Това ли ще бъде всичко?"
+
+msgid "Yeah!"
+msgstr "Мда!"
+
+msgid "I'll be going then."
+msgstr "В такъв случай, ще тръгвам."
+
+msgid "Good luck, try not to get killed."
+msgstr "Успех, постарай се да не бъдеш убита."
+
+msgid "...Mhm."
+msgstr "…Мхм."
+
+msgid "I'm not sure where I am right now..."
+msgstr "Не съм убедена къде точно съм сега…"
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "Но всичко, което трябва да направя, е да намеря изхода, без да се сблъскам с онова чудовище."
+
+msgid "...Or should I help that guy first?"
+msgstr "…Или първо да помогна на онзи тип?"
+
+msgid "Um, so..."
+msgstr "Ъм, и така…"
+
+msgid "The knives lady was here."
+msgstr "Дамата с ножовете е била тук."
+
+msgid "She pulverized that bird."
+msgstr "Тя е разбила на пух и прах това птиче."
+
+msgid "It was crazy, I thought I was toast."
+msgstr "Беше лудост, мислех си, че съм загубена."
+
+msgid "Where did she go after?"
+msgstr "Къде ли е отишла след това?"
+
+msgid "No clue."
+msgstr "Никаква представа."

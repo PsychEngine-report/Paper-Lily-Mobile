@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lacie Engine", "Lacie Engine.csproj", "{24F2C421-8C4A-1785-F75C-7049DD64307A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F2C421-8C4A-1785-F75C-7049DD64307A}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{24F2C421-8C4A-1785-F75C-7049DD64307A}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{24F2C421-8C4A-1785-F75C-7049DD64307A}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{24F2C421-8C4A-1785-F75C-7049DD64307A}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

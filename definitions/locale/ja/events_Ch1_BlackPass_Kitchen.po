@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.chr_mom.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "ナイフよ、レイシー。"
+
+msgid "A knife."
+msgstr "ナイフ。"
+
+msgid "Off you go."
+msgstr "もう行っていいわ。"
+
+msgid "Hm...?"
+msgstr "あれ……？"
+
+msgid "Lacie, there you are."
+msgstr "レイシー、そこにいたのね。"
+
+msgid "I called you several times, didn't you hear me?"
+msgstr "何度か呼んだのに、聞こえなかったの？"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I need you to go get me a _____."
+msgstr "_____を取ってきて。"
+
+msgid "...?"
+msgstr "……？"
+
+msgid "A... what?"
+msgstr "その……何て？"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "ナイフよ、レイシー。"
+
+msgid "Oh."
+msgstr "ああ。"
+
+msgid "It shouldn't be too hard to find. It's in the closet in the garage."
+msgstr "そんなに苦労せず見つけられるはずよ。ガレージの戸棚にある。"
+
+msgid "...Okay."
+msgstr "……わかった。"
+
+msgid "Well done. Off you go."
+msgstr "ありがとう。もう行っていいわ。"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.item_knife_on_mom.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "A kitchen counter. Mother seems to be preparing something."
+msgstr "キッチンカウンター。母親は何かを準備しているようだ。"
+
+msgid "There's nothing on the counter."
+msgstr "カウンターには何も載っていない。"
+
+msgid "None of this can be used."
+msgstr "どれも実際には使えない。"
+
+msgid "The surfaces are completely flat, and there are no handles."
+msgstr "表面は完璧に平らで、取っ手もついていない。"
+
+msgid "It only looks like a kitchen on the surface..."
+msgstr "キッチンの表面だけ再現したみたい……"
+
+msgid "Pick up ${item:global.reditem_2}?"
+msgstr "${item:global.reditem_2} を拾う？"
+
+msgid "Yes"
+msgstr "拾う"
+
+msgid "No"
+msgstr "拾わない"
+
+msgid "An empty dining table."
+msgstr "何も載っていないダイニングテーブル。"
+
+msgid "The passageway has closed behind you."
+msgstr "もと来た道は閉ざされている。"
+
+msgid "It's locked."
+msgstr "鍵がかかっている。"

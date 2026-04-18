@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That's strange."
+msgstr "真奇怪。"
+
+msgid "Have I already passed through here?"
+msgstr "我經過過這裡了嗎？"
+
+msgid "..."
+msgstr "..."
+
+msgid "I have."
+msgstr "我有。"
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "There must be something I missed."
+msgstr "我一定是錯過什麼了。"
+
+msgid "Um... am I lost? I don't remember this hallway being so long before."
+msgstr "嗯...我迷路了嗎？我不記得這條走廊有這麼長。"
+
+msgid "Uh-oh... The hairpin is bent badly."
+msgstr "呃-喔...髮夾被掰彎了。"
+
+msgid "I don't think it can take much more of this."
+msgstr "我覺得它沒辦法再承受下去了。"
+
+msgid "The hairpin broke."
+msgstr "髮夾壞掉了。"
+
+msgid "The door unlocked!"
+msgstr "門開了！"
+
+msgid "Before proceeding through the door, do you wish to save your progress?"
+msgstr "在進門前，是否要儲存你的進度？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "The lock looks really sturdy."
+msgstr "鎖看起來很堅固。"
+
+msgid "Should I try to pick it?"
+msgstr "我應該嘗試撬開它嗎？"
+
+msgid "There's a key hanging from a hook."
+msgstr "鉤子上掛了一把鑰匙。"
+
+msgid "Take Key?"
+msgstr "拿走鑰匙嗎？"
+
+msgid "There's nothing left."
+msgstr "沒有東西了。"
+
+msgid "The key fits!"
+msgstr "鑰匙吻合！"
+
+msgid "I don't suppose I could burn these planks down...?"
+msgstr "我應該沒辦法燒掉這些木板...？"
+
+msgid "Ugh, it's no use. I'll run out of fuel before they even warm up."
+msgstr "啊，沒用。它們被熱起來之前燃料就會被用完。"
+
+msgid "There's no point in that."
+msgstr "這麼做沒有意義。"
+
+msgid "Hm... This is a closed space."
+msgstr "嗯...這是密閉空間。"
+
+msgid "If this turns out to be flammable, it could get really dangerous."
+msgstr "如果它們是可燃的，會很危險。"
+
+msgid "I really shouldn't."
+msgstr "我真的不該這麼做。"
+
+msgid "This door has no keyhole."
+msgstr "這扇門沒有鑰匙孔。"
+
+msgid "This key doesn't fit here."
+msgstr "鑰匙插不進去。"
+
+msgid "A black substance drips down from here."
+msgstr "黑色的物質從這裡滴出來。"
+
+msgid "Where is this stuff coming from?"
+msgstr "這東西是從哪來的？"
+
+msgid "A black substance drips down from above."
+msgstr "黑色的物質從上面滴出來。"
+
+msgid "Whatever it is, it looks disgusting."
+msgstr "不管這是什麼，看起來都很噁心。"
+
+msgid "A large amount of a black substance has accumulated under the stairs."
+msgstr "大量的黑色物質堆積在樓梯下。"
+
+msgid "This stuff makes me uneasy... What if it comes alive or something?"
+msgstr "這玩意兒讓我很不安...如果它活過來了還是怎麼樣了會發生什麼事？"
+
+msgid "The way these mirrors are set on the walls is almost comforting."
+msgstr "鏡子放在牆上的方式讓我很安心。"
+
+msgid "But staring into mirrors in a place like this..."
+msgstr "但是在這種地方看著鏡子..."
+
+msgid "It's almost like I'm asking to be jump-scared."
+msgstr "感覺就像我自己想被嚇到一樣。"
+
+msgid "Multiple reflections stare back at you."
+msgstr "多個倒影也在凝視著我。"
+
+msgid "Nonsensical pipes run all over the place."
+msgstr "毫無道理的管線布滿了此處。"
+
+msgid "They are warm to the touch. Is this some sort of heating?"
+msgstr "它們摸起來很溫暖。是某種加熱裝置嗎？"
+
+msgid "A door with an odd pattern."
+msgstr "有著奇怪圖案的門。"
+
+msgid "It's locked."
+msgstr "被鎖住了。"
+
+msgid "It's very locked."
+msgstr "絕對是被鎖住了。"
+
+msgid "This door is open..."
+msgstr "門打開了..."
+
+msgid "Wasn't it boarded up...?"
+msgstr "之前不是被封住了嗎...？"
+
+msgid "Everything else is locked... I have no other choice but to go in..."
+msgstr "其他門都被鎖住了...我沒有其他的選擇..."
+
+msgid "A fairly normal-looking door."
+msgstr "看起來很正常的門。"
+
+msgid "There's nothing here."
+msgstr "這裡沒有東西。"
+
+msgid "A small door with an odd pattern."
+msgstr "有著奇怪圖案的小門。"
+
+msgid "A door with a glossy finish."
+msgstr "有著光華外表的門。"
+
+msgid "You can see yourself in it."
+msgstr "你可以從中看到自己。"

@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You made it!"
+msgstr "У тебя получилось!"
+
+msgid "You must be really good at dodging spikes."
+msgstr "А ты ловко уклоняешься от шипов."
+
+msgid "Thank you."
+msgstr "Спасибо."
+
+msgid "(He seems friendly...)"
+msgstr "(Он вроде как дружелюбный...)"
+
+msgid "I'm surprised you're talking to me... this much."
+msgstr "А я удивлена, что ты говоришь со мной... так долго."
+
+msgid "Talking is an important means of communication, no?"
+msgstr "Так ведь разговоры - основополагающая коммуникации, разве не так?"
+
+msgid "Well yes... but-"
+msgstr "Так-то оно да... но-"
+
+msgid "You talk as well!"
+msgstr "Ты ведь тоже говоришь!"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "I do."
+msgstr "Ну да."
+
+msgid "But you're... What exactly are you?"
+msgstr "Но ты ведь... А кто ты вообще?"
+
+msgid "My name is Rune and I like runes!"
+msgstr "Меня зовут Рун, и я люблю руны!"
+
+msgid "Do you have any runes?"
+msgstr "У тебя есть руны?"
+
+msgid "(Do I have any runes?)"
+msgstr "(Есть ли у меня руны?)"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.choice.(Do I have any runes?)"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.choice.(Do I have any runes?)"
+msgid "No"
+msgstr "Нет"
+
+msgid "Yes, I do."
+msgstr "Да, есть."
+
+msgid "Amazing! Please give them to me!"
+msgstr "Прелестно! Прошу, дай их мне!"
+
+msgid "I don't."
+msgstr "Нет."
+
+msgid "Is that so."
+msgstr "Неужели..."
+
+msgid "Are you lying?"
+msgstr "Ты мне врёшь?"
+
+msgid "N-no... I don't have any runes."
+msgstr "Н-нет... у меня нет рун."
+
+msgid "Interesting."
+msgstr "Интересно."
+
+msgid "Humans are quite peculiar."
+msgstr "Люди весьма занимательны."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "..."
+msgstr "..."
+
+msgid "Well...!"
+msgstr "Ну что же!.."
+
+msgid "That's terrible!"
+msgstr "Это ужасно!"
+
+msgid "In the future, if you have any runes, please bring them to me!"
+msgstr "Если в будущем ты обзаведёшься рунами, тащи их мне!"
+
+msgid "I will give you trinkets in exchange!"
+msgstr "Дашь мне руны, а с меня причитаются всякие полезности!"
+
+msgid "Okay."
+msgstr "Хорошо."
+
+msgid "So... are you some kind of spirit?"
+msgstr "Итак... ты какой-то дух?"
+
+msgid "Not exactly!"
+msgstr "Не дух!"
+
+msgid "We've gone by many names in the past."
+msgstr "В прошлом нас называли по-разному."
+
+msgid "But humans often refer to us as \"demons\"."
+msgstr "Но люди часто зовут нас \"демонами\"."
+
+msgid "What is your name?"
+msgstr "Как тебя зовут?"
+
+msgid "Lacie."
+msgstr "Лэйси."
+
+msgid "Miss Lacie!"
+msgstr "Мисс Лэйси!"
+
+msgid "Rare to see a human around here! How exciting!"
+msgstr "Нечасто встретишь тут человека! Как захватывающе!"
+
+msgid "You ARE human, aren't you?"
+msgstr "Ты ведь человек, правда?"
+
+msgid "Yes. You can tell?"
+msgstr "Да. А ты умеешь нас определять?"
+
+msgid "A little bit."
+msgstr "Чуть-чуть."
+
+msgid "A little bit?"
+msgstr "Чуть-чуть?"
+
+msgid "Some of us may have the appearance of a human, but it's easy to tell the difference with a real one!"
+msgstr "Иногда мы предстаём в человекоподобном облике, но отличить нас очень просто!"
+
+msgid "You however..."
+msgstr "Но ты, однако..."
+
+msgid "...What about me?"
+msgstr "...А что я?"
+
+msgid "Even though you're a human, you smell a bit like..."
+msgstr "Ты, хоть и человек, но пахнешь как..."
+
+msgid "I can't speak of them, but... it's someone veeeery bad."
+msgstr "Лучше не буду говорить... как кое-кто о-о-о-очень опасный."
+
+msgid "Who is it?"
+msgstr "Кто именно?"
+
+msgid "It's 1000 years of bad luck to talk about it."
+msgstr "Обсуждать это - значит навлечь на себя тысячу лет несчастий."
+
+msgid "Please, I really need help."
+msgstr "Пожалуйста, мне правда нужна помощь."
+
+msgid "Um..."
+msgstr "Эм..."
+
+msgid "I know... that there's something off about me."
+msgstr "Я знаю, со мной что-то не так."
+
+msgid "I did this ritual to find out what it is... and how to fix it."
+msgstr "Я провела ритуал, чтобы понять, в чём дело... и как мне вылечиться."
+
+msgid "I see."
+msgstr "Понятно."
+
+msgid "For a moment I thought I might be possessed but..."
+msgstr "Я какое-то время думала, что я одержима, но..."
+
+msgid "Ooh."
+msgstr "Оу."
+
+msgid "Nonsense, possessions are an outdated concept."
+msgstr "Ерунда, одержимость - устаревшее понятие."
+
+msgid "Then do you know what it could be?"
+msgstr "Тогда, может, ты знаешь, что это может быть?"
+
+msgid "A curse!"
+msgstr "Проклятие!"
+
+msgid "What?"
+msgstr "Что?"
+
+msgid "99 percent of illnesses here are curses!"
+msgstr "99 процентов всех здешних болезний - это проклятия!"
+
+msgid "What's the other 1 percent?"
+msgstr "А ещё 1 процент?"
+
+msgid "What a silly question, there is no 1 percent!"
+msgstr "Ну что за вопросы? Нет никакого 1-го процента!"
+
+msgid "...Oh..."
+msgstr "...Вот как..."
+
+msgid "(So it's just 100 percent...?)"
+msgstr "(Значит, просто 100 процентов?..)"
+
+msgid "Do you know how I can lift this curse?"
+msgstr "Ты знаешь, как можно снять проклятие?"
+
+msgid "You should seek Red! Red lifts curses!"
+msgstr "Тебе стоит искать Рэда! Рэд снимает проклятия!"
+
+msgid "How can I find Red?"
+msgstr "Как мне найти Рэда?"
+
+msgid "Incidentally, this is Red's treehouse."
+msgstr "По счастливой воле судьбы, это лесной домик Рэда."
+
+msgid "This? But there's nobody in there."
+msgstr "Этот-то? Тут же никого нет."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "Indeed, Red hasn't been in there for a long time."
+msgstr "И правда, Рэд тут довольно давно не появлялся."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "I see..."
+msgstr "Понятно..."
+
+msgid "Yeah, I saw the sign earlier."
+msgstr "Да, я уже видела знак."
+
+msgid "I guess I should check it out."
+msgstr "Наверное, стоит тут осмотреться."
+
+msgid "Thank you, Rune."
+msgstr "Спасибо, Рун."
+
+msgid "You're welcome, Miss Lacie!"
+msgstr "Всегда пожалуйста, мисс Лэйси!"
+
+msgid "Good luck, Miss Lacie!"
+msgstr "Удачи, мисс Лэйси!"
+
+msgid "Hello again Miss Lacie!"
+msgstr "Снова здравствуй, мисс Лэйси!"
+
+msgid "Red wasn't there."
+msgstr "Рэда там нет."
+
+msgid "Why didn't you tell me?"
+msgstr "Почему ты мне не сказал?"
+
+msgid "You didn't ask."
+msgstr "А ты не спрашивала."
+
+msgid "That's true, I suppose."
+msgstr "И то верно, полагаю."
+
+msgid "Do you know of another way I could find Red?"
+msgstr "Ты знаешь, где ещё можно найти Рэда?"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "I do."
+msgstr "Ну да."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Would you like to share it with me?"
+msgstr "Может, расскажешь?"
+
+msgid "Sure!"
+msgstr "Конечно!"
+
+msgid "There's a lighthouse to the north of the big tree. Red goes there a lot!"
+msgstr "На севере от великого древа есть маяк. Там тебе кто-то обязательно поможет!"
+
+msgid "Have you seen the big tree? It's very large, you can't miss it."
+msgstr "Ты видела великое древо? Оно здоровенное такое, не пропустишь."
+
+msgid "Yes, I have."
+msgstr "Да, видела."
+
+msgid "Well, you have to head north to reach the lighthouse, but it's quite a long walk."
+msgstr "Значит, тебе нужно идти на север к маяку, но путь этот неблизок."
+
+msgid "It's right past the lake."
+msgstr "Он прямо за озером."
+
+msgid "But... the only way to go north from here is to go through the locked site."
+msgstr "Но... единственный способ туда попасть лежит через закрытую зону."
+
+msgid "Locked site?"
+msgstr "Закрытую зону?"
+
+msgid "Near the big tree there's a locked gate. If you go through there you'll be at the lake in no time."
+msgstr "Если пойдёшь на восток от великого древа, увидишь закрытую зону. Пройдёшь её - и в мгновенье ока окажешься у озера."
+
+msgid "But it's quite dangerous in there."
+msgstr "Но там весьма опасно."
+
+msgid "And you'll need a light. Since it's also very dark."
+msgstr "А ещё тебе нужен свет. Просто там очень темно."
+
+msgid "I see. Thank you for all of this information."
+msgstr "Понятно. Спасибо за информацию."
+
+msgid "I expected...\"demons\" such as yourself to be more hostile."
+msgstr "Я уж думала... что \"демоны\" вроде тебя будут настроены более враждебно."
+
+msgid "That is a fair expectation!"
+msgstr "И не зря!"
+
+msgid "One that you should keep."
+msgstr "Советую и дальше так думать."
+
+msgid "If anyone finds out you're human, they will kill you instantly."
+msgstr "Если кому-то скажешь, что ты человек, тебя в тот же миг убьют."
+
+msgid "Take care!"
+msgstr "Береги себя!"
+
+msgid "So..."
+msgstr "Итак..."
+
+msgid "Why aren't you hostile?"
+msgstr "Почему ты не враждебный?"
+
+msgid "Why do you collect runes?"
+msgstr "Почему ты собираешь руны?"
+
+msgid "Red's treehouse?"
+msgstr "Лесной домик Рэда?"
+
+msgid "What will I find at the lighthouse?"
+msgstr "Что я найду у маяка?"
+
+msgid "What is inside the locked site?"
+msgstr "Что внутри закрытой зоны?"
+
+msgid "Never mind"
+msgstr "Ничего..."
+
+msgid "How come you aren't hostile like other demons?"
+msgstr "Почему ты не враждебный как другие демоны?"
+
+msgid "I am simply well-fed."
+msgstr "Просто я хорошо питаюсь."
+
+msgid "As for runes, why do you collect them?"
+msgstr "А зачем ты собираешь руны?"
+
+msgid "I like runes!"
+msgstr "Я люблю руны!"
+
+msgid "What are you doing with them?"
+msgstr "И что ты с ними делаешь?"
+
+msgid "Liking them."
+msgstr "Люблю их."
+
+msgid "Is that why your name is Rune?"
+msgstr "Тебя поэтому зовут Рун?"
+
+msgid "I might have had another name once, but I don't recall."
+msgstr "Может, у меня и было другое имя, но я его не припоминаю."
+
+msgid "Why do you call this place \"Red's treehouse\"? This house is not in a tree."
+msgstr "Почему ты называешь это место \"Лесным домиком Рэда\"? Он ведь не в лесу."
+
+msgid "But the house is MADE of tree."
+msgstr "Но он ведь СДЕЛАН из леса."
+
+msgid "Do you mean wood?"
+msgstr "То бишь из дерева?"
+
+msgid "No...?"
+msgstr "Нет?.."
+
+msgid "You are so odd, Miss Lacie!"
+msgstr "Ты такая чудная, мисс Лэйси!"
+
+msgid "Will I find Red at the lighthouse?"
+msgstr "Я смогу найти Рэда у маяка?"
+
+msgid "Maybe. Red often goes there."
+msgstr "Может быть. Он часто туда ходит."
+
+msgid "What if Red isn't there?"
+msgstr "А если Рэда там не будет?"
+
+msgid "The lighthouse owner is a friend of Red's, he'll know how to guide you!"
+msgstr "В маяке за главного друг Рэда, он сможет помочь в достижении твоей цели!"
+
+msgid "He will not eat you, don't worry!"
+msgstr "Не бойся, он тебя не слопает!"
+
+msgid "That's good."
+msgstr "Это хорошо."
+
+msgid "What's behind that fence? In the locked site?"
+msgstr "Что таится за забором в закрытой зоне?"
+
+msgid "Mainly just forest and...a monster."
+msgstr "По большей части лес и... чудовище."
+
+msgid "A monster???"
+msgstr "Чудовище??"
+
+msgid "It's okay, he won't kill you unless he sees you or hears you!"
+msgstr "Без паники, он тебя не убьёт, если только не увидит или не услышит!"
+
+msgid "It's very dark in there so you'll need a bit of light. If you hear him approaching, you should hide!"
+msgstr "Там очень темно, так что тебе нужен будет источник света. Если слышишь, что он рядом - прячься!"
+
+msgid "That doesn't sound safe. Is it really the only way to the lighthouse?"
+msgstr "Звучит не очень-то безопасно. Это правда единственный путь к маяку?"
+
+msgid "It's the only way I know of."
+msgstr "Единственный, о котором знаю лично я."
+
+msgid "How did you cross the bridge to get all the way here?"
+msgstr "Как ты пересёк мост и добрался сюда?"
+
+msgid "I walked."
+msgstr "Пешком."
+
+msgid "But... You didn't set off any traps?"
+msgstr "Но... ты не задел ни одну ловушку?"
+
+msgid "I must have missed them."
+msgstr "Наверное, я прошёл мимо них всех."
+
+msgid "Do you live here?"
+msgstr "Ты здесь живёшь?"
+
+msgid "Nope!"
+msgstr "Не-а!"
+
+msgid "I move around a lot."
+msgstr "Я часто кочую."
+
+msgid "Why did you come here to Red's treehouse?"
+msgstr "Зачем ты пришёл в лесной домик Рэда?"
+
+msgid "I'm looking for more runes!"
+msgstr "Я ищу руны!"
+
+msgid "Rune is humming a tune."
+msgstr "Рун напевает мелодию."
+
+msgid "It sounds very off-key."
+msgstr "Он ужасно фальшивит."
+
+msgid "An empty box with a crow on top."
+msgstr "Пустой ящик с вороной, сидящей сверху."
+
+msgid "This one decided to stay."
+msgstr "Эта решила остаться."
+
+msgctxt "events.Ch1_Forest_Red.event_birdbox_save.dlg.narrator"
+msgid "This isn't the time for that."
+msgstr "Сейчас на это нет времени."
+
+msgid "That was a close one."
+msgstr "Это было близко."
+
+msgid "You almost had it!"
+msgstr "У тебя почти получилось!"
+
+msgid "Will you be okay?"
+msgstr "Ты не пострадаешь?"
+
+msgid "Maybe not."
+msgstr "Похоже, что не судьба."
+
+msgid "Ouch."
+msgstr "Ай."
+
+msgid "The trick is to not touch the spikes!"
+msgstr "Весь фокус в том, чтобы не попасть на шипы!"
+
+msgid "Everyone dies there."
+msgstr "Тут все умирают."
+
+msgid "Oh well."
+msgstr "Ой-ой."
+
+msgid "Try Again?"
+msgstr "Попробовать снова?"
+
+msgid "Retry"
+msgstr "Попробовать снова"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Give Up"
+msgstr "Сдаться"
+
+msgid "What the... a trap?"
+msgstr "Чего... ловушка?"
+
+msgid "That was dangerous... why are there traps here?"
+msgstr "Опасно... зачем здесь ловушки?"
+
+msgid "Ooh! An interesting character appears!"
+msgstr "О-о! Появился интересный персонаж!"
+
+msgid "(Someone's there?)"
+msgstr "(Там кто-то есть?)"
+
+msgid "Nobody has come in a long time!"
+msgstr "Сюда уже давно никто не приходил!"
+
+msgid "I hope you can make it over here!"
+msgstr "Надеюсь, ты сможешь сюда добраться!"
+
+msgid "Almost there!"
+msgstr "Почти на месте!"
+
+msgid "Be careful not to die."
+msgstr "Смотри не умри."
+
+msgid "How much longer is this path?"
+msgstr "Насколько же этот путь длинный?"
+
+msgid "Only 'till you get here!"
+msgstr "Главное - добраться!"
+
+msgctxt "events.Ch1_Forest_Red.event_rune_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Don't jump!"
+msgstr "Не прыгай!"
+
+msgid "You have so much to live for..."
+msgstr "У тебя ведь ещё столько причин жить..."
+
+msgid "...Eh?"
+msgstr "...Чего?"
+
+msgid "Oh! I wasn't..."
+msgstr "А! У меня и в мыслях не было..."
+
+msgid "Be careful with the traps!"
+msgstr "Осторожней с ловушками!"
+
+msgid "There's more!?"
+msgstr "Они и дальше есть?!"
+
+msgid "Good luck!"
+msgstr "Удачи!"
+
+msgctxt "events.Ch1_Forest_Red.event_rune_bridge_talk_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I want to check out the house first...)"
+msgstr "(Я хочу сначала проверить дом...)"
+
+msgid "Wow! Thank you! You can have something in return!"
+msgstr "Ого! Спасибо! Можешь взять это взамен!"
+
+msgid "What am I supposed to do with this?"
+msgstr "И что мне с этим делать?"
+
+msgid "Dunno! Maybe it will come in handy."
+msgstr "Без понятия! Авось пригодится."
+
+msgid "Yay! Another one!"
+msgstr "Ура! Ещё одна!"
+
+msgid "Here's another trinket."
+msgstr "Вот ещё кое-что."
+
+msgid "Wow... this actually looks useful."
+msgstr "Ого... А это выглядит полезным."
+
+msgid "Wow! You're amazing! Thank you!"
+msgstr "Ого! Вы просто супер! Спасибо!"
+
+msgid "I gotta say, you have terrible manners!"
+msgstr "Должен сказать, у тебя ужасные манеры!"
+
+msgid "Uhm... I'm sorry."
+msgstr "Эм... прошу прощения."
+
+msgid "Ignoring me like that, after I cheered for you to get here and everything!"
+msgstr "Не обращать на меня внимания, когда я подбадривал тебя сюда добраться!"
+
+msgid "(You didn't exactly help though...)"
+msgstr "(Но ты не то чтобы помогал...)"
+
+msgid "I was just curious about the house here."
+msgstr "Мне просто было интересно, что это за дом."
+
+msgid "Let's start over. What's your name?"
+msgstr "Давай начнём сначала. Как тебя зовут?"
+
+msgid "What should I do with this?"
+msgstr "Что мне с этим делать?"
+
+msgid "I'm not sure!"
+msgstr "Не знаю!"
+
+msgid "Maybe you could cut things that need cutting."
+msgstr "Этим можно резать то, что можно резать."
+
+msgid "Isn't it nice? It's a bug net. For catching bugs."
+msgstr "Разве не хорошая вещица? Это сачок для жуков. Им ловятся жуки."
+
+msgid "There are other kinds of nets, but this one is for catching bugs."
+msgstr "Сачки бывают разные, но этим ловятся жуки."
+
+msgid "This candle... is from the lighthouse!"
+msgstr "Эта свеча... она с маяка!"
+
+msgid "What? Really?"
+msgstr "Что? Правда?"
+
+msgid "(Did I just miss my chance to get to the lighthouse faster...?)"
+msgstr "(Неужели я упустила возможность скорее добраться до маяка?..)"
+
+msgid "Do you collect doorknobs, Miss Lacie?"
+msgstr "Мисс Лэйси, вы собираете дверные ручки?"
+
+msgid "Personally I prefer runes, but to each their own!"
+msgstr "Мне лично больше по вкусу руны, но каждому своё!"
+
+msgid "Alba sells nice fish!"
+msgstr "Альба продаёт хорошую рыбу!"
+
+msgid "She also gives me runes sometimes, in exchange for coins."
+msgstr "Порой она даёт мне руны в обмен на монеты."
+
+msgid "She's a very nice person!"
+msgstr "Она очень хорошая!"
+
+msgid "How many coins does she charge you?"
+msgstr "И сколько монет она с тебя берёт?"
+
+msgid "Usually about 40 coins."
+msgstr "Обычно около сорока."
+
+msgctxt "events.Ch1_Forest_Red.item_fish_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Rune, I think she might be ripping you off."
+msgstr "Рун, мне кажется, что тебя где-то обманывают."
+
+msgid "Not a chance! I really love runes!"
+msgstr "Никак нет! Я очень люблю руны!"
+
+msgid "An artist's inspiration!"
+msgstr "Плод вдохновения!"
+
+msgctxt "events.Ch1_Forest_Red.item_flower_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I heard it can be quite valuable."
+msgstr "Я слышал, что он может быть весьма ценен."
+
+msgid "Artist's Inspiration"
+msgstr "Плод вдохновения"
+
+msgid "Apparently, that's the flower's name."
+msgstr "Видимо, это цветок так называется."
+
+msgid "Oh, that would make a nice container for something!"
+msgstr "О, а вот в это можно что-нибудь положить!"
+
+msgid "Like what?"
+msgstr "Например?"
+
+msgid "I don't know."
+msgstr "Не знаю."
+
+msgid "Did you put fireflies inside?"
+msgstr "Вы положили туда светлячков?"
+
+msgid "Genius!"
+msgstr "Гениально!"
+
+msgid "Pointy."
+msgstr "Острые."
+
+msgid "Pointy pointy."
+msgstr "Острые-острые."
+
+msgctxt "events.Ch1_Forest_Red.item_scissors_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Miss Lacie, that's a dangerous item!"
+msgstr "Мисс Лэйси,  эта вещь опасна!"
+
+msgctxt "events.Ch1_Forest_Red.item_snack_2_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I never thought you'd try to poison me this fast."
+msgstr "Я и не подозревал, что вы так быстро задумаете меня отравить."
+
+msgid "Sorry."
+msgstr "Прости."
+
+msgid "No thank you, I don't need to sleep!"
+msgstr "Нет, спасибо, я не хочу спать!"
+
+msgid "A bag filled with... garbage, probably."
+msgstr "Мешки с... мусором, наверное."
+
+msgid "It's tied too hard to check the contents."
+msgstr "Он слишком туго завязан, чтобы проверить содержимое."
+
+msgid "A box with some birds trapped inside."
+msgstr "Ящик с запертыми в нём птицами."
+
+msgid "Open the box?"
+msgstr "Открыть ящик?"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.choice.Open the box?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.choice.Open the box?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.dlg.narrator"
+msgid "This isn't the time for that."
+msgstr "Сейчас на это нет времени."
+
+msgid "A strong lamp."
+msgstr "Прочный фонарь."
+
+msgid "A small window. You can't see anything, so it may be fake."
+msgstr "Маленькое окно. Сквозь него ничего не видно, так что оно может быть фальшивым."
+
+msgid "Thin vertical windows."
+msgstr "Тонкие вертикальные окна."
+
+msgid "I just got this far, let's take a look around."
+msgstr "Я так далеко зашла, давайте хоть осмотримся."
+
+msgid "I haven't finished talking to Rune..."
+msgstr "Я ещё не закончила разговор с Руном..."
+
+msgid "(Seems like there's nobody here...)"
+msgstr "(Похоже, здесь никого нет...)"

@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's this supposed to be? Do you guys sleep here?"
+msgstr "這是什麼意思？妳們睡在這裡嗎？"
+
+msgid "Obviously not."
+msgstr "顯然不是。"
+
+msgid "I can't believe this, are you five years old?"
+msgstr "不可置信，妳是三歲小孩嗎？"
+
+msgid "Isn't it interesting how electronics work?"
+msgstr "電子產品的運作原理不是很有趣嗎？"
+
+msgid "But they DON'T work! Not anymore!"
+msgstr "可是它們沒有在運作！壞掉了！"
+
+msgid "I think you're wasting your breath..."
+msgstr "我覺得妳在浪費時間..."
+
+msgid ""
+"\"Roses are red\n"
+"Violets are probably violet\""
+msgstr ""
+"\"玫瑰是紅色的\n"
+"紫羅蘭大概是紫色的\""
+
+msgid ""
+"\"My love for you sparkles\n"
+"Like the glow of a diamond\""
+msgstr ""
+"\"我對妳的愛閃閃發亮\n"
+"就像是鑽石般的光芒\""
+
+msgid ""
+"\"I watch you every day\n"
+"I watch you every night\""
+msgstr ""
+"\"我每天看著妳\n"
+"我每晚看著妳\""
+
+msgid "\"I watch you\""
+msgstr "\"我看著妳\""
+
+msgid "\"I watch you I watch you I watch you I watch you I watch you I watch you\""
+msgstr "\"我看著妳我看著妳我看著妳我看著妳我看著妳我看著妳\""
+
+msgid "The other side of the paper is filled with black scribbles."
+msgstr "紙的另一面塗滿了黑線。"
+
+msgid "That... doesn't sound right."
+msgstr "這...讀起來不太對勁。"
+
+msgid "Is... everyone in your club okay?"
+msgstr "妳...社團裡的人還好嗎？"
+
+msgid "Right now, I'm not sure..."
+msgstr "現在，我不太確定..."
+
+msgid "I'd rather people didn't find out I was here."
+msgstr "我寧願沒人發現我出現在這裡。"
+
+msgid "Please don't mess up this room..."
+msgstr "拜託不要搞亂社辦..."
+
+msgid "A pile of neatly folded drapes."
+msgstr "一疊折疊整齊的窗簾。"
+
+msgid "Take them?"
+msgstr "拿走嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "This could be useful."
+msgstr "這應該會有用處。"
+
+msgid "You don't need this anymore."
+msgstr "妳不需要它了。"
+
+msgid "Those poor boxes probably don't deserve it."
+msgstr "那些可憐的箱子大概不該受這種罪。"
+
+msgid "Oh how I wish..."
+msgstr "喔我多麼希望是..."
+
+msgid "..."
+msgstr "..."
+
+msgid "Alright, let's see..."
+msgstr "好吧，讓我看看..."
+
+msgid "There's a ton of useless objects in the boxes and..... a letter."
+msgstr "這箱子裡有一堆沒用的物品和...一封信。"
+
+msgid "Read it?"
+msgstr "讀它嗎？"
+
+msgid "They're already open."
+msgstr "它們已經被打開了。"
+
+msgid "There's no point in brandishing your scissors at them. They're already open."
+msgstr "對著它們揮舞剪刀是沒用的。它們已經被打開了。"
+
+msgid "Some blankets are sprawled all over the floor."
+msgstr "地板上隨意放置了些地毯。"
+
+msgid "They are too heavy to use as curtains."
+msgstr "它們用來當窗簾太重了。"
+
+msgid "A large pile of cardboard boxes sealed with tape."
+msgstr "一大堆被膠帶封住的紙箱。"
+
+msgid "There's nothing else of interest in them."
+msgstr "裡面沒什麼特別的東西了。"
+
+msgid "Read the letter?"
+msgstr "讀信嗎？"
+
+msgid "Some cardboard boxes full of neatly folded costumes."
+msgstr "紙箱裡裝滿了折疊整齊的服裝。"
+
+msgid "Chairs. No time to rest right now."
+msgstr "椅子。現在沒空休息。"
+
+msgid "A chalkboard. There's a smiley face drawn on it."
+msgstr "黑板。上面畫著笑臉。"
+
+msgid "A chalkboard. The letter F is written on it."
+msgstr "黑板。上面寫著字母 F。"
+
+msgid "A chalkboard. I can't tell what's drawn on it."
+msgstr "黑板。我看不出上面畫了什麼。"
+
+msgid "A chalkboard. There are stars drawn on it."
+msgstr "黑板。上面畫著星星。"
+
+msgid "Did you draw this?"
+msgstr "這是妳畫的嗎？"
+
+msgid "Do I look like the only member of this club?"
+msgstr "我看起來像是社團唯一的成員嗎？"
+
+msgid "So... did you draw this?"
+msgstr "所以...這是妳畫的嗎？"
+
+msgid "...Maybe I did."
+msgstr "...也許是吧。"
+
+msgid "A chalkboard. The word \"THIEF\" is written on it."
+msgstr "黑板。上面寫著\"小偷\"。"
+
+msgid "A chalkboard. There's... something drawn on it."
+msgstr "黑板。上面畫著某種東西。"
+
+msgid "Where did they find red chalk...?"
+msgstr "是哪裡找來紅粉筆的...？"
+
+msgid "A soft red curtain."
+msgstr "柔軟的紅色窗簾。"
+
+msgid "Draw curtain?"
+msgstr "拿走窗簾？"
+
+msgid "Take them out?"
+msgstr "拿走嗎？"
+
+msgid "There's some paint and brushes in the drawer."
+msgstr "抽屜裡有些顏料和刷子。"
+
+msgid "There are various makeup kits and accessories in the drawer."
+msgstr "抽屜裡有各種化妝用品和飾品。"
+
+msgid "It's not working."
+msgstr "沒有用。"
+
+msgid "It's not working anymore."
+msgstr "已經沒用了。"
+
+msgid "Several hand made costumes are hanging from the rack."
+msgstr "有些手工服裝掛在架子上。"
+
+msgid "Blegh, they have poor taste in clothes."
+msgstr "呃，他們對衣服的品味很糟。"
+
+msgid "You DO know these are for acting, right...?"
+msgstr "妳知道這些是用來演戲的，對吧...？"
+
+msgid "A rack with various hats and scarves."
+msgstr "掛著各式帽子和圍巾的架子。"
+
+msgid "A table with a blank sheet of poster paper and some colored pencils."
+msgstr "放著空白海報和色鉛筆的桌子。"
+
+msgid "Is this what you do here?"
+msgstr "妳都在這做這個嗎？"
+
+msgid "If it's a drawing club, maybe I'll join, too."
+msgstr "如果這裡是繪畫社，也許我也會加入。"
+
+msgid "Please don't."
+msgstr "拜託不要。"
+
+msgid "There's really no incentive to check out the contents of the trash can."
+msgstr "我真的沒有檢查垃圾筒內容物的動機。"

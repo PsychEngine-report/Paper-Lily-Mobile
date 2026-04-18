@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's just a flipped version of the other one..."
+msgstr "Това е просто обърната версия на другата…"
+
+msgid "It's not strong enough to cut through this. It must be reinforced somehow."
+msgstr "Не е достатъчно силно, за да се справи с това. Трябва да се подсили по някакъв начин."
+
+msgid "There's a pair of scissors here."
+msgstr "Тук има чифт ножици."
+
+msgid "Take ${item:ch1.scissors}?"
+msgstr "Вземи ${item:ch1.scissors}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "You have a bad feeling about this. Are you sure?"
+msgstr "Имаш лошо предчувствие за това. Сигурна ли си?"
+
+msgid "These scissors can't cut through metal."
+msgstr "Тези ножици не могат да режат метал."
+
+msgid "An abstract painting."
+msgstr "Абстрактна картина."
+
+msgid "An entrance to some sort of tunnel. It's locked and doesn't seem to have been opened in a while."
+msgstr "Вход към някакъв тунел. Заключен е и изглежда не е отварян от известно време."

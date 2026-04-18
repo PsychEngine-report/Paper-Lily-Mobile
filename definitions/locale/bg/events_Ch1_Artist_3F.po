@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Um... okay..."
+msgstr "Ъм… добре…"
+
+msgid "A realistic sculpture of a man with a candle for a head."
+msgstr "Реалистична скулптура на човек със свещ на главата."
+
+msgid "(What should I do?)"
+msgstr "(Какво да сторя?)"
+
+msgid "Touch it"
+msgstr "Докосни го"
+
+msgid "Take the candle"
+msgstr "Вземи свещта"
+
+msgid "Blow out the candle"
+msgstr "Издухай свещта"
+
+msgid "Do nothing"
+msgstr "Не прави нищо"
+
+msgid "The statue feels like stone, just as you would expect."
+msgstr "Статуята е като от камък, точно както бихте очаквали."
+
+msgid "Are you sure?"
+msgstr "Сигурни ли сте?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Leftovers of what was once a sculpture."
+msgstr "Остатъци от онова, което някога е било скулптура."
+
+msgid "The candle man is gone."
+msgstr "Човекът със свещите го няма."
+
+msgid "It's hard to tell what it says from this side."
+msgstr "Трудно е да кажа какво е написано, погледнато от тук."
+
+msgid "It reads: \"Exhibit closed indefinitely. If you have complaints, please direct them back to where they came from.\""
+msgstr "То гласи: \"Експозицията е затворена за неопределено време. Ако имате оплаквания, моля, насочете ги обратно там, откъдето са дошли.\""
+
+msgid "The sculpture is either broken or unfinished. You can't really tell."
+msgstr "Скулптурата е или счупена или недовършена. Не можете съвсем да определите."
+
+msgid "A tall vase."
+msgstr "Висока ваза."
+
+msgid "Reach inside?"
+msgstr "Протегни се навътре?"
+
+msgid "..."
+msgstr "…"
+
+msgid "...tired..."
+msgstr "…уморена…"
+
+msgid "...so....tired...."
+msgstr "…толкова…уморена…"

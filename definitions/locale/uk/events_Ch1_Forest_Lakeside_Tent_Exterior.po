@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What to do?"
+msgstr "Як мені бути?"
+
+msgid "Kill it here"
+msgstr "Вбити його тут"
+
+msgid "Release it around this area"
+msgstr "Випустити на волю"
+
+msgid "Do nothing"
+msgstr "Нічого не робити"
+
+msgid "It's not wise to do that here."
+msgstr "Краще не робити цього тут."
+
+msgid "I don't think I should release it so close to them..."
+msgstr "Мені здається, не варто випускати його так близько до них..."
+
+msgid "HEY! I'M WATCHING YOU!"
+msgstr "АГОВ! Я ЗА ТОБОЮ СЛІДКУЮ!"
+
+msgid "IF YOU LET THAT SHIT FREE I'LL COME OUT AND KILL YOU BOTH MYSELF!!!"
+msgstr "ЯКЩО ВІДПУСТИШ ЦЬОГО ГІВНЮКА, Я ВИЙДУ Й ВАС ОБОХ ПОШМАТУЮ!!!"
+
+msgid "(...Sorry...)"
+msgstr "(...Пробачте...)"
+
+msgid "A rudimentary lamp."
+msgstr "Звичайний ліхтар."
+
+msgid "A tent. Looks rather cozy."
+msgstr "Намет. Виглядає затишно."
+
+msgid "There's nothing particularly interesting about the backside of the tent."
+msgstr "За наметом немає нічого цікавого."
+
+msgid "Stay away!!!"
+msgstr "Не підходь!!!"

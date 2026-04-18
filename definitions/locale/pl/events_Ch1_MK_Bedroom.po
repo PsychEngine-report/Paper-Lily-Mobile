@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "Pudełko wciąż jest zamknięte..."
+
+msgid "The box opens!"
+msgstr "Pudełko otworzyło się!"
+
+msgid "There's a key inside."
+msgstr "W środku znajduje się klucz."
+
+msgid "There's some kind of black rag here."
+msgstr "Tu jest jakaś czarna szmata."
+
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "Wziąć ${item:ch1.mk_compress}?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "A large basket filled with toys."
+msgstr "Duży kosz, wypełniony zabawkami."
+
+msgid "What is all of this..?"
+msgstr "Co to ma być?"
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "Są tam jakieś zdalnie sterowane samochodziki, lub inne takie?"
+
+msgid "Mmm... no."
+msgstr "Mmm... nie."
+
+msgid "That's oddly specific."
+msgstr "To dosyć konkretne."
+
+msgid "They're fun."
+msgstr "Są fajne."
+
+msgid "An oversized bed."
+msgstr "Ogromne łóżko."
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "(To łóżko jest za duże, nawet dla tego demona.)"
+
+msgid "Wow, what a luxury."
+msgstr "Łał, co za luksus."
+
+msgid "There's nothing else in the box."
+msgstr "W pudełku nie ma nic więcej."
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "Na górze toaletki jest pudełko. Jest zamknięte na kod."
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "(Na pudełku jest rysunek klucza…)"
+
+msgid "Try to unlock the box?"
+msgstr "Spróbować otworzyć pudełko?"
+
+msgid "A simple coat hanger."
+msgstr "Zwykły wieszak na płaszcze."
+
+msgid "A small bedside table."
+msgstr "Mały nakastlik."
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "(Jest zdecydowanie za mały, szczególnie jak na to łóżko.)"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "Toaletka. Szuflady są wypełnione kilkoma kosmetykami."
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "Po co się przejmować makeup’em, jeżeli wyglądasz jak potwór?"
+
+msgid "That's not nice."
+msgstr "To nie było miłe."
+
+msgid "She locked me in a cage."
+msgstr "Przecież ona zamknęła mnie w klatce."
+
+msgid "I'd say she's not nice."
+msgstr "Powiedziałbym, że to ona nie jest miła."
+
+msgid "A painting of a window."
+msgstr "Malowidło przestawiające okno."
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "Musi tu być naprawdę duszno bez prawdziwych okien."

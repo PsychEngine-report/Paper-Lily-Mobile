@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That's strange."
+msgstr "Дивно."
+
+msgid "Have I already passed through here?"
+msgstr "Хіба я тут вже не пробігала?"
+
+msgid "..."
+msgstr "..."
+
+msgid "I have."
+msgstr "Пробігала."
+
+msgid "Hmm..."
+msgstr "Гм..."
+
+msgid "There must be something I missed."
+msgstr "Мабуть, щось пройшло повз моєї уваги."
+
+msgid "Um... am I lost? I don't remember this hallway being so long before."
+msgstr "Ем... я що, загубилась? Не пам'ятаю, щоб цей коридор був таким довгим."
+
+msgid "Uh-oh... The hairpin is bent badly."
+msgstr "Ой-ой... шпилька занадто сильна вигнулась..."
+
+msgid "I don't think it can take much more of this."
+msgstr "Гадаю, нею більше не вийде скористатись."
+
+msgid "The hairpin broke."
+msgstr "Шпилька зламалась."
+
+msgid "The door unlocked!"
+msgstr "Двері відчинились!"
+
+msgid "Before proceeding through the door, do you wish to save your progress?"
+msgstr "Бажаєте зберегти прогрес перед тим, як зайти у двері?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "The lock looks really sturdy."
+msgstr "Замок на вигляд міцний."
+
+msgid "Should I try to pick it?"
+msgstr "Спробувати його зламати?"
+
+msgid "There's a key hanging from a hook."
+msgstr "З гачка звисає ключ."
+
+msgid "Take Key?"
+msgstr "Взяти ключ?"
+
+msgid "There's nothing left."
+msgstr "Тут нічого не залишилось."
+
+msgid "The key fits!"
+msgstr "Ключ підійшов!"
+
+msgid "I don't suppose I could burn these planks down...?"
+msgstr "Мені здається, що ці дошки не вийде спалити..."
+
+msgid "Ugh, it's no use. I'll run out of fuel before they even warm up."
+msgstr "Грх, марна справа. Швидше за все в запальничці закінчиться пальне, а дошки навіть не нагріються."
+
+msgid "There's no point in that."
+msgstr "З цього нічого не вийде."
+
+msgid "Hm... This is a closed space."
+msgstr "Гм... це закритий простір."
+
+msgid "If this turns out to be flammable, it could get really dangerous."
+msgstr "Якщо воно почне палати, тут стане гаряче."
+
+msgid "I really shouldn't."
+msgstr "Не варто цього робити."
+
+msgid "This door has no keyhole."
+msgstr "У цих дверях немає замкової щілини."
+
+msgid "This key doesn't fit here."
+msgstr "Цей ключ сюди не підходить."
+
+msgid "A black substance drips down from here."
+msgstr "Сюди стікає чорна субстанція."
+
+msgid "Where is this stuff coming from?"
+msgstr "І звідки воно тільки береться?"
+
+msgid "A black substance drips down from above."
+msgstr "Звідси стікає чорна субстанція."
+
+msgid "Whatever it is, it looks disgusting."
+msgstr "Що б це не було, виглядає воно огидно."
+
+msgid "A large amount of a black substance has accumulated under the stairs."
+msgstr "Під сходами накопичився великий об'єм чорної субстанції."
+
+msgid "This stuff makes me uneasy... What if it comes alive or something?"
+msgstr "Мені зле від цієї рідини... а що як вона жива?"
+
+msgid "The way these mirrors are set on the walls is almost comforting."
+msgstr "Від того, як на стіні розвішані ці дзеркала, ви заспокоюєтесь."
+
+msgid "But staring into mirrors in a place like this..."
+msgstr "Проте вдивлятись у дзеркала в такому місці..."
+
+msgid "It's almost like I'm asking to be jump-scared."
+msgstr "Бракує тільки скрімеру."
+
+msgid "Multiple reflections stare back at you."
+msgstr "Декілька ваших відображень дивляться на вас."
+
+msgid "Nonsensical pipes run all over the place."
+msgstr "Тут скрізь проведені не зв'язані між собою труби."
+
+msgid "They are warm to the touch. Is this some sort of heating?"
+msgstr "Вони теплі на дотик. Система опалення?"
+
+msgid "A door with an odd pattern."
+msgstr "Двері з дивним візерунком."
+
+msgid "It's locked."
+msgstr "Вони зачинені."
+
+msgid "It's very locked."
+msgstr "Вони дуже зачинені."
+
+msgid "This door is open..."
+msgstr "Ці двері відчинені..."
+
+msgid "Wasn't it boarded up...?"
+msgstr "Хіба вони не були прибиті дошками?.."
+
+msgid "Everything else is locked... I have no other choice but to go in..."
+msgstr "Усі інші двері зачинені... робити нічого, треба заходити..."
+
+msgid "A fairly normal-looking door."
+msgstr "Досить звичайні на вигляд двері."
+
+msgid "There's nothing here."
+msgstr "Тут нічого немає."
+
+msgid "A small door with an odd pattern."
+msgstr "Малі двері з дивним візерунком."
+
+msgid "A door with a glossy finish."
+msgstr "Двері з глянцевим покриттям."
+
+msgid "You can see yourself in it."
+msgstr "У ньому видно ваше відображення."

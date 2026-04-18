@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "Хм?.. Не работает?.."
+
+msgid "Those two thingies look burnt."
+msgstr "Вот эти две штуковины, похоже, сгорели."
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "А, тут два сгоревших предохранителя. Тогда неудивительно."
+
+msgid "Let's throw this damaged fuse away."
+msgstr "Выкинем-ка сгоревшие предохранители."
+
+msgid "Why? Just use it as a zero or something."
+msgstr "Зачем? Можно же использовать их как ноль или типа того."
+
+msgid "No... that's really not how fuses work."
+msgstr "Нет... предохранители так не работают."
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "Сгоревший предохранитель не замкнёт цепь."
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "Во как... а если его убрать, то на его месте будет ноль?"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "Нет... просто... тогда он тоже не замкнёт цепь. Из него не сделаешь просто ноль."
+
+msgid "Just... leave this to me, okay?"
+msgstr "Просто... оставь это мне, хорошо?"
+
+msgid "Roger!"
+msgstr "Так точно!"
+
+msgid "You hear something unlocking in the distance."
+msgstr "Вы услышали, как что-то вдалеке открылось."
+
+msgid "What? I didn't hear anything."
+msgstr "Что? Я ничего не услышал."
+
+msgid "...You're breaking my immersion."
+msgstr "...Ты ломаешь моё погружение."
+
+msgid "What in the world was that?"
+msgstr "Что это, чёрт возьми, было?"
+
+msgid "Can't say I didn't warn you."
+msgstr "Я вроде предупреждал."
+
+msgid "Wait."
+msgstr "Постой."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "Вынимать его может быть очень плохой идеей."
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "До этого я уже видел такие двери. Мне кажется, их лучше не открывать."
+
+msgid "I see..."
+msgstr "Понятно..."
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Может, есть способ получше?)"
+
+msgid "Do you think the elevator works now?"
+msgstr "Как думаешь, лифт заработал?"
+
+msgid "Ah, that's satisfying."
+msgstr "Ах, красота."
+
+msgid "Good job!"
+msgstr "Молодчина!"
+
+msgid "That sounded pretty big."
+msgstr "Как люто прозвучало."
+
+msgid "Let's check the water level."
+msgstr "Проверим-ка уровень воды."
+
+msgid "There's already a handle there."
+msgstr "Сюда уже вставлен вентиль."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.event_handle_on_wrong_valve.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Вы пытаетесь вставить вентиль..."
+
+msgid "But it doesn't fit."
+msgstr "Но он не подходит по форме."
+
+msgid "The lights... ah... not nice."
+msgstr "Свет... э... это нехорошо."
+
+msgid "Why doesn't this work?"
+msgstr "Почему не работает?"
+
+msgid "We probably need to fill all four slots."
+msgstr "Наверное, надо заполнить все четыре раъёма."
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "Иначе цепь не замкнётся."
+
+msgid "Right, contact."
+msgstr "Во-во, не замкнётся."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_1.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Вы вставили вентиль."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Вы пытаетесь вставить вентиль..."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Вентиль подошёл по форме!"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "Ну конечно, ромб - это всего лишь перевёрнутый квадрат."
+
+msgid "Yep."
+msgstr "Ага."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_2_on_valve_2.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Вы вставили вентиль."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Вы пытаетесь вставить вентиль..."
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "Что ты делаешь? Формы крепления не подходят."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Вентиль подошёл по форме!"
+
+msgid "...Huh."
+msgstr "...Во как."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_3.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Вы вставили вентиль."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Вы пытаетесь вставить вентиль..."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Вентиль подошёл по форме!"
+
+msgid "Are you switching them around...?"
+msgstr "Ты просто меняешь их местами?.."
+
+msgid "I'm just trying things."
+msgstr "Я просто пробую разные способы."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_4.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Вы вставили вентиль."
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "Тяжёлая бочка. Её никак не сдвинуть."
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "На бочке лежит вентиль."
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "Взять предметы: ${item:ch1.facility_handle_square} и ${item:ch1.facility_key_archives}?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Some sort of machine."
+msgstr "Какая-то машина."
+
+msgid "It's whirring loudly."
+msgstr "Она громко рычит."
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "Крупные шкафчики. Вы, наверное, можете целиком в них поместиться."
+
+msgid "There's something in here..."
+msgstr "Здесь что-то есть..."
+
+msgid "There's nothing else of use."
+msgstr "Здесь нет больше ничего полезного."
+
+msgid "A large machine attached to some pipes."
+msgstr "Большая машина, соединённая с какими-то трубами."
+
+msgid "There's a note here:"
+msgstr "Здесь висит записка:"
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "\"Дренажно-затопительная система - использовать в случае чрезвычайной ситуации."
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "Чтобы активировать дренажную систему, вставьте нужный предохранитель."
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "Поверните четыре вентиля, чтобы вызвать затопление."
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "Этот процесс необратим, поэтому не делайте этого, не уведомив-\""
+
+msgid "...The rest of the note is torn off."
+msgstr "...Дальше записка оборвана."
+
+msgid "Looks like an electrical panel."
+msgstr "Похоже на электрическую панель."
+
+msgid "Take a closer look?"
+msgstr "Взглянуть поближе?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "Крепление для вентиля. Оно имеет квадратную форму."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice"
+msgid "Turn it?"
+msgstr "Повернуть его?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Повернуть вентиль"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Снять вентиль"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Вентиль не поворачивается."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Он больше не поворачивается."
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "Крепление для вентиля. Оно имеет пятиугольную форму."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice"
+msgid "Turn it?"
+msgstr "Повернуть его?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Повернуть вентиль"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Снять вентиль"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Вентиль не поворачивается."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Он больше не поворачивается."
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "Крепление для вентиля. Оно имеет форму звезды."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice"
+msgid "Turn it?"
+msgstr "Повернуть его?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Повернуть вентиль"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Снять вентиль"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Вентиль не поворачивается."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Он больше не поворачивается."
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "Крепление для вентиля. Оно имеет форму ромба с равными сторонами."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice"
+msgid "Turn it?"
+msgstr "Повернуть его?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Повернуть вентиль"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Снять вентиль"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Вентиль не поворачивается."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Он больше не поворачивается."
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "Выглядит как большие ворота, которые мы видели ранее..."
+
+msgid "Doors?"
+msgstr "Двери?"
+
+msgid "This is probably an elevator."
+msgstr "Это, должно быть, лифт."
+
+msgid "Lights."
+msgstr "Освещение."
+
+msgid "Water?"
+msgstr "Вода?"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "Пустой разъём для предохранителя."
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "(Видимо, придётся расставить предохранители под нужные картинки.)"
+
+msgid "An empty fuse slot."
+msgstr "Пустой разъём для предохранителя."
+
+msgid "Place a fuse?"
+msgstr "Вставить предохранитель?"
+
+msgid "Place fuse no.5"
+msgstr "Вставить предохранитель (5)"
+
+msgid "Place fuse no.10"
+msgstr "Вставить предохранитель (10)"
+
+msgid "Place fuse no.15"
+msgstr "Вставить предохранитель (15)"
+
+msgid "Place fuse no.20"
+msgstr "Вставить предохранитель (20)"
+
+msgid "Place fuse no.25"
+msgstr "Вставить предохранитель (25)"
+
+msgid "Place fuse no.40"
+msgstr "Вставить предохранитель (40)"
+
+msgid "Do not"
+msgstr "Не вставлять"
+
+msgid "It's a spider!"
+msgstr "Паук!"
+
+msgid "I see that."
+msgstr "Я вижу."
+
+msgid "Are you scared of spiders?"
+msgstr "Ты их что, не боишься?"
+
+msgid "Not really."
+msgstr "Да нет."
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "Так, подожди. Значит, когда ты видишь у себя дома паука, ты берёшь и оставляешь его в покое?!"
+
+msgid "That's crazy."
+msgstr "Ну ты даёшь."
+
+msgid "What else should I be doing?"
+msgstr "А что мне с ними делать?"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "Не знаю, обычно их давят тапками."
+
+msgid "Why?"
+msgstr "Зачем?"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "Ну не знаю, они берут и всюду ползают своими лапками, капец как стрёмно."
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "Зачем им умирать за то, что они не выбирали?"
+
+msgid "..."
+msgstr "..."
+
+msgid "That's fair."
+msgstr "Верно подмечено."
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "И чтоб ты знала, я пауков не убиваю."
+
+msgid "I see."
+msgstr "Понятно."
+
+msgid "I used to, but now I just put them outside."
+msgstr "Раньше убивал, но сейчас я просто вывожу их на улицу."
+
+msgid "Great."
+msgstr "Отлично."
+
+msgid "A spider hangs from here."
+msgstr "Отсюда свисает паук."
+
+msgid "A spider sits here."
+msgstr "Здесь сидит паук."
+
+msgid "Take out the fuse?"
+msgstr "Вынуть предохранитель?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "No"
+msgstr "Нет"

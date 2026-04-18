@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's this supposed to be? Do you guys sleep here?"
+msgstr "Co to ma być? Czy wy tu śpicie?"
+
+msgid "Obviously not."
+msgstr "Oczywiście, że nie."
+
+msgid "I can't believe this, are you five years old?"
+msgstr "Nie mogę w to uwierzyć, czy ty masz pięć lat?"
+
+msgid "Isn't it interesting how electronics work?"
+msgstr "Czy to nie ciekawe, jak działa elektronika?"
+
+msgid "But they DON'T work! Not anymore!"
+msgstr "Ale one NIE działają! Już nie!"
+
+msgid "I think you're wasting your breath..."
+msgstr "Myślę, że tylko marnujesz na nią siły..."
+
+msgid ""
+"\"Roses are red\n"
+"Violets are probably violet\""
+msgstr ""
+"\"Róże są czerwone\n"
+"Fiołki są chyba fioletowe\""
+
+msgid ""
+"\"My love for you sparkles\n"
+"Like the glow of a diamond\""
+msgstr ""
+"\"Moja miłość do ciebie lśni\n"
+"Jak blask diamentu\""
+
+msgid ""
+"\"I watch you every day\n"
+"I watch you every night\""
+msgstr ""
+"\"Obserwuję cię każdego dnia\n"
+"Obserwuję cię każdej nocy\""
+
+msgid "\"I watch you\""
+msgstr "\"Obserwuję cię\""
+
+msgid "\"I watch you I watch you I watch you I watch you I watch you I watch you\""
+msgstr "\"Obserwuję cię obserwuję cię obserwuję cię obserwuję cię obserwuję cię obserwuję cię\""
+
+msgid "The other side of the paper is filled with black scribbles."
+msgstr "Druga strona kartki wypełniona jest czarnymi bazgrołami."
+
+msgid "That... doesn't sound right."
+msgstr "To... nie brzmi dobrze."
+
+msgid "Is... everyone in your club okay?"
+msgstr "Czy... wszyscy w twoim klubie są zdrowi na umyśle?"
+
+msgid "Right now, I'm not sure..."
+msgstr "Teraz już sama mam wątpliwości..."
+
+msgid "I'd rather people didn't find out I was here."
+msgstr "Wolałabym, żeby ludzie nie dowiedzieli się, że tu jestem."
+
+msgid "Please don't mess up this room..."
+msgstr "Błagam, nie zrób burdelu w tym pokoju..."
+
+msgid "A pile of neatly folded drapes."
+msgstr "Sterta starannie złożonych zasłon."
+
+msgid "Take them?"
+msgstr "Wziąć je?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "This could be useful."
+msgstr "To się może przydać."
+
+msgid "You don't need this anymore."
+msgstr "Już tego nie potrzebujesz."
+
+msgid "Those poor boxes probably don't deserve it."
+msgstr "Te biedne pudełka pewnie na to nie zasługują."
+
+msgid "Oh how I wish..."
+msgstr "Och, jakże bym chciała..."
+
+msgid "..."
+msgstr "... "
+
+msgid "Alright, let's see..."
+msgstr "W porządku, zobaczmy..."
+
+msgid "There's a ton of useless objects in the boxes and..... a letter."
+msgstr "W pudłach jest mnóstwo bezużytecznych przedmiotów i..... list."
+
+msgid "Read it?"
+msgstr "Przeczytać?"
+
+msgid "They're already open."
+msgstr "Już są otwarte."
+
+msgid "There's no point in brandishing your scissors at them. They're already open."
+msgstr "Nie ma sensu wywijać w nie nożyczkami. Już są otwarte."
+
+msgid "Some blankets are sprawled all over the floor."
+msgstr "Parę koców porozrzucanych na podłodze."
+
+msgid "They are too heavy to use as curtains."
+msgstr "Są zbyt ciężkie, by używać ich jako zasłon."
+
+msgid "A large pile of cardboard boxes sealed with tape."
+msgstr "Duża sterta kartonów zaklejonych taśmą."
+
+msgid "There's nothing else of interest in them."
+msgstr "Nie ma w nich już nic ciekawego."
+
+msgid "Read the letter?"
+msgstr "Przeczytać list?"
+
+msgid "Some cardboard boxes full of neatly folded costumes."
+msgstr "Kilka kartonów pełnych schludnie złożonych kostiumów."
+
+msgid "Chairs. No time to rest right now."
+msgstr "Krzesła. Nie ma teraz czasu na odpoczynek."
+
+msgid "A chalkboard. There's a smiley face drawn on it."
+msgstr "Tablica. Jest na niej narysowana uśmiechnięta buźka."
+
+msgid "A chalkboard. The letter F is written on it."
+msgstr "Tablica. Jest na niej napisana litera F."
+
+msgid "A chalkboard. I can't tell what's drawn on it."
+msgstr "Tablica. Ciężko powiedzieć, co jest na niej narysowane."
+
+msgid "A chalkboard. There are stars drawn on it."
+msgstr "Tablica. Narysowane są na niej gwiazdy."
+
+msgid "Did you draw this?"
+msgstr "Czy ty to narysowałaś?"
+
+msgid "Do I look like the only member of this club?"
+msgstr "Czy ja wyglądam na jedynego członka tego klubu?"
+
+msgid "So... did you draw this?"
+msgstr "Wiec... narysowałaś to?"
+
+msgid "...Maybe I did."
+msgstr "...Może i tak."
+
+msgid "A chalkboard. The word \"THIEF\" is written on it."
+msgstr "Tablica. Jest na niej napisane słowo \"złodziejka\"."
+
+msgid "A chalkboard. There's... something drawn on it."
+msgstr "Tablica. Jest na niej... coś narysowane."
+
+msgid "Where did they find red chalk...?"
+msgstr "Gdzie oni znaleźli czerwoną kredę...?"
+
+msgid "A soft red curtain."
+msgstr "Miękka czerwona zasłona."
+
+msgid "Draw curtain?"
+msgstr "Odsłonić zasłonę?"
+
+msgid "Take them out?"
+msgstr "Zabrać je?"
+
+msgid "There's some paint and brushes in the drawer."
+msgstr "W szufladzie jest parę farb i pędzli."
+
+msgid "There are various makeup kits and accessories in the drawer."
+msgstr "W szufladzie znajdują się różne zestawy do makijażu i akcesoria."
+
+msgid "It's not working."
+msgstr "To nie działa."
+
+msgid "It's not working anymore."
+msgstr "To już nie działa."
+
+msgid "Several hand made costumes are hanging from the rack."
+msgstr "Na stojaku wisi kilka ręcznie robionych kostiumów."
+
+msgid "Blegh, they have poor taste in clothes."
+msgstr "Blegh, oni mają kiepski gust jeśli chodzi o ubrania."
+
+msgid "You DO know these are for acting, right...?"
+msgstr "Wiesz, że to jest dla aktorów, prawda...?"
+
+msgid "A rack with various hats and scarves."
+msgstr "Stojak z rożnymi kapeluszami i szalikami."
+
+msgid "A table with a blank sheet of poster paper and some colored pencils."
+msgstr "Stół z czystym arkuszem papieru plakatowego i kilkoma kolorowymi kredkami."
+
+msgid "Is this what you do here?"
+msgstr "Czy to jest to, czym się tutaj zajmujecie?"
+
+msgid "If it's a drawing club, maybe I'll join, too."
+msgstr "Jeśli to klub rysunkowy, to może też się przyłączę."
+
+msgid "Please don't."
+msgstr "Proszę, nie."
+
+msgid "There's really no incentive to check out the contents of the trash can."
+msgstr "Nie ma żadnej zachęty do sprawdzania zawartości kosza na śmieci."

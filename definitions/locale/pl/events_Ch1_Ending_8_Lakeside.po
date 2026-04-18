@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no boat."
+msgstr "Nie ma łodzi."
+
+msgid "Only red."
+msgstr "Wszędzie czerwono."
+
+msgid "A red rabbit."
+msgstr "Czerwony królik."
+
+msgid "It's not breathing."
+msgstr "Nie oddycha."
+
+msgid "The crow that was here is gone."
+msgstr "Wrona zniknęła."
+
+msgid "Wooden logs stick out from the bloody water."
+msgstr "Drewniane kłody wystają z krwawej wody."
+
+msgid "A note is attached to the tree. It says:"
+msgstr "Do drzewa przypięta jest notatka. Napisano na niej:"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVED MEAT\n"
+"HATED WATER\""
+msgstr ""
+"\"POTWÓR\n"
+"UWIELBIAŁ MIĘSO\n"
+"NIE ZNOSIŁ WODY\""
+
+msgid "The way to the temple is sealed off."
+msgstr "Droga do świątyni jest zamknięta."
+
+msgid "Nothing but trees here."
+msgstr "Nie ma tu nic poza drzewami."
+
+msgid "The way back seems to be gone."
+msgstr "Wygląda na to, że droga powrotna zniknęła."
+
+msgid "This way is closed off by trees."
+msgstr "Droga jest zablokowana przez drzewa."

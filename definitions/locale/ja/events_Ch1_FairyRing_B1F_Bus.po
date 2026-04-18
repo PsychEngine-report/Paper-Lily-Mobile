@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is so fun, I haven't waited for the bus in ages!"
+msgstr "楽しいなあ、バスを待つなんて、ホントに久しぶりだよ！"
+
+msgid "(There's nothing fun in waiting for the bus...)"
+msgstr "(バスを待つのに楽しいもなにもないと思うけど……)"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "知ってた？　フェアリーリングはだんだん大きくなって、囲む範囲を広げていくんだって。"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "十分に食べたら、開いて地表を呑み込むらしいよ！"
+
+msgid "So when that happened, one of them swallowed the station and a whole bus."
+msgstr "だからこの停留所とバスは、そういうことがあった時に吞み込まれたんだと思う。"
+
+msgid "(Apparently Glen was really unhappy so they destroyed most of the fairy rings.)"
+msgstr "(グレンはものすごく気に食わなかったらしくて、ほとんどのフェアリーリングが壊されちゃったけど。)"
+
+msgid "(Glen?)"
+msgstr "(グレン？)"
+
+msgid "Wait... why don't they just destroy all of them?"
+msgstr "待って……どうして全部壊さなかったの？"
+
+msgid "I dunno."
+msgstr "さあ。"
+
+msgid "They usually remove some of them, every few years..."
+msgstr "たいてい、数年ごとにいくつか駆除するくらいで……"
+
+msgid "...Now that you mention it, I'm not sure why they don't just remove them all."
+msgstr "……言われてみると、なんで全部駆除しないなろう。"
+
+msgid "Maybe it's too much work to remove the fairy rings..?"
+msgstr "駆除に手間がかかるのかな……？"
+
+msgid "Hmm... I wonder..."
+msgstr "うーん……なんでだろう……"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Oh I know!"
+msgstr "そうだ！"
+
+msgid "Maybe there's something even more terrible underneath, so they're using the fairy rings to seal it away!"
+msgstr "下にもっと恐ろしいものがあるから、フェアリーリングで封印してるのかも！"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "……"
+
+msgid "No, that can't be it."
+msgstr "いや、それはないな。"
+
+msgid "I'll keep thinking."
+msgstr "もっと考えてみるよ。"
+
+msgid "Aoi is thinking."
+msgstr "アオイは考えている。"
+
+msgid "Hm?"
+msgstr "んん？"
+
+msgid "Is that...the bus stop?"
+msgstr "これ……バス停？"
+
+msgid "Not the current one."
+msgstr "今のやつじゃないけどね。"
+
+msgid "But we must be right under the current one."
+msgstr "でも、きっとここが今のバス停のちょうど真下だよ。"
+
+msgid "Wow, we sure walked a long way!"
+msgstr "うわぁ、ってことはずいぶん歩いたね！"
+
+msgid "(Did I walk all the way back to where I started...!?)"
+msgstr "(スタート地点まで徒歩で戻ってきたってこと……!?)"
+
+msgid "So... what brings you here?"
+msgstr "で……君はどうしてここに？"
+
+msgid "What brings me... down here?"
+msgstr "私が……どうしてここに来たか？"
+
+msgid "I stepped into the fairy ring."
+msgstr "フェアリーリングに入ったの。"
+
+msgid "Ah. Right."
+msgstr "あぁ。なるほど。"
+
+msgid "Classic."
+msgstr "古典的だね。"
+
+msgid "I also stepped into it."
+msgstr "僕もそうなんだ。"
+
+msgid "Yes, of course."
+msgstr "でしょうね。"
+
+msgid "So what brings you to these parts of the forest?"
+msgstr "それで、どうして森のこの辺りにいたの？"
+
+msgid "Um..."
+msgstr "えっと……"
+
+msgid "(Actually, I wonder if they can they tell I'm human?)"
+msgstr "(私が人間だってこと、バレてるかな？)"
+
+msgid "(It's best not to say anything about that...)"
+msgstr "(そこには触れない方がよさそう……)"
+
+msgid "I'm looking for a lighthouse."
+msgstr "灯台を探してるの。"
+
+msgid "Ooh."
+msgstr "そうなんだ。"
+
+msgid "What for?"
+msgstr "何のために？"
+
+msgid "Meeting... someone..?"
+msgstr "人に……会うため……？"
+
+msgid "(Aoi definitely can't help me with my problem... this is basically a child we're talking about.)"
+msgstr "(アオイはどう考えても私の問題の助けにはならなさそう……実質、子供みたいなものだし。)"
+
+msgid "(So there's no point in elaborating much, I think.)"
+msgstr "(だから、あまり詳しく話す意味もないと思う。)"
+
+msgid "I'm just looking for someone to help me with a problem."
+msgstr "問題の解決を手伝ってくれる人を探してるの。"
+
+msgid "Someone like a doctor? Or like an assassin?"
+msgstr "お医者さんとか？　それとも殺し屋？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "....."
+msgstr "……"
+
+msgid "...Probably more like a doctor, I guess."
+msgstr "……どちらかと言えば、お医者さんかな。"
+
+msgid "Oh... are you sick, Lacie?"
+msgstr "ああ……じゃあ、病気なの？"
+
+msgid "No, It's nothing serious, probably."
+msgstr "ううん。特に深刻なことじゃない、はず。"
+
+msgid "I guess I'll be able to tell once I meet them."
+msgstr "探してる相手に会えたらわかると思う。"
+
+msgid "Ooh!"
+msgstr "おー！"
+
+msgid "I had a friend I used to meet all the time!"
+msgstr "僕にも、昔よく会ってた友達がいるんだ！"
+
+msgid "But it wasn't at a lighthouse, it was..."
+msgstr "灯台じゃなくて、その……"
+
+msgid "But..."
+msgstr "もっとも……"
+
+msgid "...It was in the supply closet..."
+msgstr "……押し入れの中でだけど……"
+
+msgid "...in secret..."
+msgstr "……内緒で……"
+
+msgid "???"
+msgstr "???"
+
+msgid "...But then they died."
+msgstr "……でも、死んじゃったんだ。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "And now I'll die too....."
+msgstr "そして、今度は僕が死ぬ番……"
+
+msgid "W-what brings YOU to the forest?"
+msgstr "あ――アオイはどうして森にいたの？"
+
+msgid "Oh, I'm on vacation!"
+msgstr "ああ、お休みでね！"
+
+msgid "Oh, that's nice."
+msgstr "ああ、いいね。"
+
+msgid "(Phew...)"
+msgstr "(ふぅ……)"
+
+msgid "That looks heavy..."
+msgstr "重そう……"
+
+msgid "You're prepared for anything, aren't you?"
+msgstr "なんにでも準備万端なんだね？"
+
+msgid "I also like bug-catching!"
+msgstr "僕も虫捕り好きだよ！"
+
+msgid "The small ones, at least..."
+msgstr "少なくとも、小さいやつは……"
+
+msgid "What's that?"
+msgstr "何それ？"
+
+msgid "Hmm... I'll show you someday."
+msgstr "うーん……いつか見せる。"
+
+msgid "Aww... alright."
+msgstr "あぁ……わかった。"
+
+msgid "You'll show Aoi someday. Maybe."
+msgstr "いつかアオイに見せる。かもしれない。"
+
+msgid "Are you tired?"
+msgstr "疲れたの？"
+
+msgid "There's a bench right there, I guess."
+msgstr "たぶん、そこにベンチがあると思うよ。"
+
+msgid "I give it at least 10 more years before it will be fully swallowed!"
+msgstr "完全に飲み込まれるまで、あと10年はかかるだろうね！"
+
+msgid "Oh, I also have one of those!"
+msgstr "あぁ、僕もそれ持ってるよ！"
+
+msgid "I heard they taste great, but I'm afraid to try them since they're poisonous and all..."
+msgstr "おいしいらしいけど、毒があったりとかで、怖くて試せてないんだ……"
+
+msgid "Or... are you suggesting something???"
+msgstr "それとも……何かのほのめかしだったりする???"
+
+msgid "(Best not to spoil Aoi too much.)"
+msgstr "(あまりアオイを甘やかさないのが一番だ。)"
+
+msgid "Aww! Thanks!"
+msgstr "わぁ！　ありがとう！"
+
+msgid "It's good that you have a light, in case it gets dark in here."
+msgstr "明かりがあってよかったよ、暗くなるかもしれないし。"
+
+msgid "I really hope it doesn't..."
+msgstr "そうならないことを強く祈るけど……"
+
+msgid "Ah... those rocks..."
+msgstr "あぁ……あの石だね……"
+
+msgid "Sorry, I don't know what those do... You can keep it."
+msgstr "ごめん、僕には使い道がわからないから……君が持ってていいよ。"
+
+msgid "Oh oh, are we cooking something?"
+msgstr "おぉ、料理でもするの？"
+
+msgid "No, this is for self-defense."
+msgstr "ううん、これは自衛用。"
+
+msgid "?????"
+msgstr "?????"
+
+msgid "Y-yes... I'll cut it off..."
+msgstr "う――うん……切り上げるよ……"
+
+msgid "I'm sorry..."
+msgstr "ごめん……"
+
+msgid "Let's not traumatize Aoi any further."
+msgstr "これ以上アオイにトラウマを与えるのはやめておこう。"
+
+msgid "A bus. It has seen better days."
+msgstr "バス。かつての姿をしのばせる。"
+
+msgid "Isn't that cool?!"
+msgstr "すごいよね!?"
+
+msgid "Do you think they ever got the passengers out?"
+msgstr "乗客をちゃんと降ろせたと思う？"
+
+msgid "I can't see inside, so... I guess we'll never know."
+msgstr "中は見えないから……たぶん謎のまま。"
+
+msgid "Maybe it's best that way."
+msgstr "それが一番かもね。"
+
+msgid "I think it would ruin my day if we found corpses in there."
+msgstr "死体を見つけたりしたら最悪だろうし。"
+
+msgid "(Is your day not already ruined by being trapped in this place?)"
+msgstr "(ここに閉じ込められてる時点でもう最悪じゃないの？)"
+
+msgid "Looks like pieces of asphalt."
+msgstr "アスファルトの破片のようだ。"
+
+msgid "A signpost. It's bent."
+msgstr "バス停の標識。曲がっている。"
+
+msgid "(The schedule seems to show quite a few buses coming every day.)"
+msgstr "(時刻表を見る限り、毎日かなりのバスが来てたみたい。)"
+
+msgid "Strange... the other schedule I saw was empty."
+msgstr "不思議……上で見た時刻表は真っ白だったのに。"
+
+msgid "Oh! Back in the day, the bus used to come more often... this is probably an old schedule."
+msgstr "ああ！　昔はもっとバスが来てたんだよ……それはたぶん、古い時刻表だね。"
+
+msgid "The other schedule you saw must be the updated one."
+msgstr "君が見たのは、きっと新しいやつ。"
+
+msgid "Nowadays it's very rare..."
+msgstr "最近はほとんど来ないから……"
+
+msgid "So if you're lucky enough to see the bus, you should definitely ride it!"
+msgstr "だから、運よくバスを見かけたら、ぜったい乗ったほうがいいよ！"
+
+msgid "That's what everyone does, at least. I never saw it myself..."
+msgstr "少なくとも、みんなそうしてる。僕は見たことないけど……"
+
+msgid "(It's just a bus, though...)"
+msgstr "(ただのバスだったけど……)"
+
+msgid "A bus stop."
+msgstr "バス停。"
+
+msgid "The poster here is too faded to read."
+msgstr "ポスターはかすれていて読めない。"
+
+msgid "It looks like a dead end."
+msgstr "行き止まりのようだ。"
+
+msgid "We just walked quite a bit to get here, let's at least look around."
+msgstr "ここまでずいぶん長く歩いたし、せめて辺りを見て回ろう。"

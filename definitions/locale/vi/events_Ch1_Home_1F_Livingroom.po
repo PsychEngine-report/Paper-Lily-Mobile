@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "Có cái đôi giày màu trắng có dây giày màu đỏ."
+
+msgid "The shoelaces could be useful."
+msgstr "Dây giày có lẽ dùng được đấy."
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "Lấy ${item:ch1.shoelaces} chứ?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "It's already done."
+msgstr "Đã xong rồi."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Bạn đã rắc muối lên lối vào.)"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "It's already done."
+msgstr "Đã xong rồi."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Bạn đã rắc muối lên lối vào.)"
+
+msgid "Something is written here:"
+msgstr "Ở đây có viết cái gì đó:"
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "\"Lần cuối mày ngồi ăn ở đây là khi nào? Mày quên rồi à?\""
+
+msgid "A bookshelf with random decorative books."
+msgstr "Chiếc tủ sách với mấy cuốn sách trang trí đa tạp."
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "Còn có dụng cụ văn phòng được sắp ngay ngắn."
+
+msgid "Red marker. Perfect."
+msgstr "Bút dạ đỏ đây rồi. Được."
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "Lấy ${item:ch1.marker} chứ?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "Chiếc xô-pha lớn. Anh Hiro hay ngủ thiếp ở đây."
+
+msgid "A small couch that used to be your favorite."
+msgstr "Chiếc đi-văng nhỏ mà bạn từng ưa thích."
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "Cái thùng và cái cây tọa trên chiếc tủ chè."
+
+msgid "A large cupboard that could fit a person."
+msgstr "Chiếc tủ chè lớn có thể vừa cả một người."
+
+msgid "Some decorative plates."
+msgstr "Vài cái đĩa trang trí."
+
+msgid "A painting of a sleeping cat."
+msgstr "Bức tranh con mèo đang ngủ."
+
+msgid "A painting of..."
+msgstr "Bức tranh con..."
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "Ủa? Con mèo này nằm ngủ mà...?"
+
+msgid "A painting of a cat stares you down."
+msgstr "Bức tranh con mèo nhìn chòng chọc vào bạn."
+
+msgid "Some bills."
+msgstr "Vài cái hóa đơn."
+
+msgid "Some pictures of places around the world."
+msgstr "Vài tấm ảnh các nơi trên thế giới."
+
+msgid "Mother and father go on trips a lot..."
+msgstr "Ba mẹ đi chơi suốt..."
+
+msgid "I don't even know where they are right now."
+msgstr "Mình còn chẳng biết ba mẹ giờ đang ở đâu."
+
+msgid "A tall plant."
+msgstr "Cái cây cao."
+
+msgid "A pretty plant."
+msgstr "Cái cây xinh đẹp."
+
+msgid "A pink plant."
+msgstr "Cái cây màu hồng."
+
+msgid "The TV remote."
+msgstr "Điều khiển TV."
+
+msgid "Turn the TV on?"
+msgstr "Bật TV lên chứ?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "Yes"
+msgstr "Bật"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Turn the TV off?"
+msgstr "Tắt TV đi chứ?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "Yes"
+msgstr "Tắt"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A shelf containing mainly glassware."
+msgstr "Cái tủ chứa chủ yếu là đồ thủy tinh."
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "Nếu cái này ngã đè lên ai thì chắc chắn là đau đấy."
+
+msgid "Some books on gardening."
+msgstr "Mấy cuốn sách về làm vườn."
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "Giá để giày, có cả đống giày đủ loại màu sắc."
+
+msgid "Slippers to change into."
+msgstr "Dép để đi trong nhà."
+
+msgid "The footprints come from under the table..."
+msgstr "Các dấu chân xuất phát từ bên dưới bàn..."
+
+msgid "But there's nothing there."
+msgstr "Nhưng bên dưới lại không có gì..."
+
+msgid "The family dining table."
+msgstr "Chiếc bàn ăn gia đình."
+
+msgid "We don't eat here as much anymore."
+msgstr "Nhà mình không ngồi ăn đây mấy nữa."
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "Chiếc bàn uống cà-phê. Mấy cái cây đôi khi làm vướng víu."
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "Các dấu chân dẫn ra bên ngoài. Trông không giống chân bình thường..."
+
+msgid "A TV."
+msgstr "Chiếc TV."
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "Này là chương trình về ô-tô... Hay là trailer về video game nhể?"
+
+msgid "Just animal videos, I guess."
+msgstr "Toàn video động vật thôi nhỉ."
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "\"Cho bọn nó bánh mì với mèo và bọn nó sẽ không bao giờ phản loạn.\""
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "Có cái anime về ma pháp thiếu nữ dạo gần đây mình bắt đầu xem."
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "Trên mạng người ta nói về sau đen tối... nhưng coi đến giờ mình chưa thấy gì xấu cả."
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "Làm mình thấy bất an quá... Tắt đi thôi."
+
+msgid "..."
+msgstr "..."
+
+msgid "An umbrella basket."
+msgstr "Cái giỏ đựng dù."
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "Cái giỏ đựng dù. Hay bị sơ ý đá lăn."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_backyard.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "Mình ở ngoài đến giờ đủ rồi."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_exit.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "Mình ở ngoài đến giờ đủ rồi."
+
+msgid "This is the laundry room."
+msgstr "Đây là phòng giặt đồ."
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "Mình sẽ không bao giờ hiểu được vì sao cửa khắp nhà lại cần phải khóa."
+
+msgid "Maybe Hiro has the key..."
+msgstr "Có khi anh Hiro có chìa..."
+
+msgid "...but I don't need anything from there."
+msgstr "...nhưng mình không cần gì trong đây cả."
+
+msgid "The laundry room. It's locked."
+msgstr "Phòng giặt đồ. Bị khóa rồi."

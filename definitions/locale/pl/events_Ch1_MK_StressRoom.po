@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I think this doll has been stabbed enough times."
+msgstr "Sądzę, że ta kukła była już dźgnięta wystarczająco wiele razy."
+
+msgid "The lighter doesn't seem to work on it..."
+msgstr "Zapalniczka zdaje się nie działać..."
+
+msgid "The burnt doll blocks your path."
+msgstr "Spalona kukła blokuje ci drogę."
+
+msgid "Someone is tied to the stake, with black knives all over their body."
+msgstr "Ktoś jest przywiązany do pala, z czarnymi nożami na całym ciele."
+
+msgid "Pull out ${item:ch1.mk_knife}?"
+msgstr "Wyciągnąć ${item:ch1.mk_knife}?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "When you pulled out a knife, the rest of them crumbled apart."
+msgstr "Po wyciągnięciu jednego noża, reszta z nich się rozsypała."
+
+msgid "Someone is tied to the stake."
+msgstr "Ktoś jest przywiązany do pala."

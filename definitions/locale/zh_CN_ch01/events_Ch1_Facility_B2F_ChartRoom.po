@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "We could use it to get out of this room."
+msgstr "我们可以用它来离开这个房间。"
+
+msgid "I could use this to get out of this room."
+msgstr "我可以用这个来离开这个房间。"
+
+msgid "Place plank outside?"
+msgstr "要把木板放出去吗？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "It's done."
+msgstr "搞定了。"
+
+msgid "The vent cover."
+msgstr "通风口盖。"
+
+msgid "It's not large enough to cross the hole outside."
+msgstr "它还不够大，没法穿过门外的坑洞。"
+
+msgid "Sketches of maps are displayed on the wall."
+msgstr "墙上挂着地图的草稿。"
+
+msgid "Sketches of maps are laying on the ground."
+msgstr "地上铺满了地图的草稿。"
+
+msgid "There's a large plank on the floor."
+msgstr "地上有一块巨大的木板。"
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "一副由小屏幕组成的大屏幕。"
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "屏幕上显示的似乎是某处监控画面。"
+
+msgid "Looks like... hallways? With lots of doors."
+msgstr "这些看起来像是...长廊？有很多门。"
+
+msgid "Who comes up with this shit?"
+msgstr "这是谁想出来的鬼设计？"
+
+msgid "There's blood too..."
+msgstr "这里还有血..."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "一副由小屏幕组成的大屏幕。"
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "屏幕上显示的似乎是某处监控画面。"
+
+msgid "Are those... sticky notes taped to the cameras?"
+msgstr "那些是......粘在摄像头上的便利贴吗？"
+
+msgid "Someone didn't want to be spied on."
+msgstr "有人不想被监视吧。"
+
+msgid "Understandable."
+msgstr "还是可以理解的。"
+
+msgid "Scrolls containing technical drawings of different locations."
+msgstr "包含着不同地点的技术设计图纸的卷轴。"
+
+msgid "What's that?"
+msgstr "那是什么？"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "It looks like it's just hallways."
+msgstr "看起来好像只是个长廊。"
+
+msgid "But it's laid out like a labyrinth, and some rooms overlap each other."
+msgstr "但它的布局就像一座迷宫，有些房间相互重叠在一起。"
+
+msgid "This map doesn't make any sense."
+msgstr "这张地图完全不合理啊。"
+
+msgid "A trashcan. It's full of neatly crumpled papers."
+msgstr "一个垃圾桶。里面整齐地堆满了揉成一团的纸张。"
+
+msgid "..."
+msgstr "..."
+
+msgid "I see."
+msgstr "好吧。"
+
+msgid "It's too far to jump."
+msgstr "太远了，跳不过去。"
+
+msgid "It's too high to reach."
+msgstr "太高了，够不到。"

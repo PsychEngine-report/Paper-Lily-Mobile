@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Remove the red string?"
+msgstr "Odwiązać czerwony supeł?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "This is the cable I need to tie a red string to."
+msgstr "To jest kabel, do którego muszę przywiązać coś czerwonego."
+
+msgid "This is the cable you should tie a red string to."
+msgstr "Kabel, do którego należy przywiązać czerwoną nić."
+
+msgid "Some bird food."
+msgstr "Trochę karmy dla ptaków."
+
+msgid "Take ${item:ch1.bird_food}?"
+msgstr "Wziąć ${item:ch1.bird_food}?"
+
+msgid "Is a bunny rabbit knot fine...?"
+msgstr "Czy węzeł w kokardkę jest w porządku...?"
+
+msgid "Nothing of interest."
+msgstr "Nic ciekawego."
+
+msgid "Drawers filled with miscellaneous items unfit for a kitchen."
+msgstr "Szuflady wypełnione różnymi przedmiotami, które nie nadają się do kuchni."
+
+msgid "A landline phone."
+msgstr "Telefon stacjonarny."
+
+msgid "Dial a number?"
+msgstr "Wybrać numer?"
+
+msgid "A red string can be seen hanging from its cord."
+msgstr "Czerwony sznurek jest przywiązany do przewodu."
+
+msgid "The phone is ringing. Pick up?"
+msgstr "Telefon dzwoni. Odebrać?"
+
+msgid "Pick up the phone"
+msgstr "Odbierz telefon"
+
+msgid "Ignore it"
+msgstr "Zignoruj"
+
+msgid "Looks like I just missed it..."
+msgstr "Chyba nie zdążyłam..."
+
+msgid "A large cupboard. There's nothing inside."
+msgstr "Spora szafka. W środku nic nie ma."
+
+msgid "A rice cooker."
+msgstr "Garnek do gotowania ryżu."
+
+msgid "Various kitchen tools are stored in the drawers underneath."
+msgstr "W szufladach pod spodem przechowywane są różne narzędzia kuchenne."
+
+msgid "Cutlery is stored in this drawer."
+msgstr "W tej szufladzie przechowywane są sztućce."
+
+msgid "Checking the contents of the fridge calms you down."
+msgstr "Sprawdzenie zawartości lodówki uspokaja cię."
+
+msgid "Do you want to have the leftovers mother left for you?"
+msgstr "Czy chcesz zjeść resztki, które zostawiła dla ciebie mama?"
+
+msgid "...for a last meal, it kind of sucked."
+msgstr "...jak na ostatni posiłek, był dosyć kiepski."
+
+msgid "Nothing new has materialized since the last time you checked."
+msgstr "Nic nowego się nie pojawiło w lodówce od ostatniego razu, kiedy do niej zajrzałaś."
+
+msgid "There's no time for snacks right now."
+msgstr "To nie pora na przekąski."
+
+msgid "A bowl full of fresh fruit."
+msgstr "Miska pełna świeżych owoców."
+
+msgid "The microwave emanates an aura of familiarity."
+msgstr "Mikrofalówka emanuje znajomą aurą."
+
+msgid "A microwave oven."
+msgstr "Mikrofalówka."
+
+msgid "A note from your mother."
+msgstr "List od matki."
+
+msgid "Read it?"
+msgstr "Przeczytać?"
+
+msgid "\"Your dad and I will be back on Monday."
+msgstr "\"Twój tata i ja wrócimy w poniedziałek."
+
+msgid "There's food in the fridge, make sure to heat it up."
+msgstr "W lodówce masz jedzenie, nie zapomnij go podgrzać."
+
+msgid "Call us at (195)-224#1 if there's any problem."
+msgstr "Jeśli będziesz miała z czymś kłopot, zadzwoń do nas pod numer (195)-224#1."
+
+msgid "- Mom\""
+msgstr "- Mama\""
+
+msgid "The letter is gone."
+msgstr "List zniknął."
+
+msgid "Didyousee?Didyouseeit?Yousawit.Youpretendedyoudidnt.Yousawit.Didyoupretend?Whydidyoupretend?Yousawallofit."
+msgstr "Widziałaś?Widziałaśto?Widziałaś.Udawałaśżenie.Widziałaśto.Udawałaś?Dlaczegoudawałaś?Widziałaśwszystko."
+
+msgid "Butyouforgotsomething.Doyouknowwhatyouforgot?Youforgotsomethingthere.Backthen.Don'tworry.Itookcareofit.Shetookcareofit.Shetakescareofiteverytime."
+msgstr "Alezapomniałaśoczymś.Wieszoczym?Zapomniałaśtamoczymś.Wtedy.Niemartwsię.Zająłemsiętym.Onasiętymzajęła.Zawszesiętymzajmuje."
+
+msgid "A note from someone."
+msgstr "List od kogoś."
+
+msgid "\"_____ Ritual. What you'll need: Candles, a knife, a chunk of meat, a hiding place, an accomplice, a victim..."
+msgstr "\"Rytuał ____. Co będzie potrzebne: Świece, nóż, kawałek mięsa, kryjówka, wspólnik, ofiara..."
+
+msgid "Wait... was that really how it went?\""
+msgstr "Zaraz... czy to naprawdę tak wyglądało?\""
+
+msgid "The oven. You hardly ever use it."
+msgstr "Piekarnik. Prawie nigdy go nie używasz."
+
+msgid "A tall, green plant."
+msgstr "Wysoka, zielona roślina."
+
+msgid "A very clean sink."
+msgstr "Bardzo czysty zlew."
+
+msgid "Turn on the tap?"
+msgstr "Odkręcić kran?"
+
+msgid "Turn off the tap?"
+msgstr "Zakręcić kran?"
+
+msgid "A dining table. You sometimes eat here."
+msgstr "Stół jadalny. Czasem tutaj jesz."
+
+msgid "A toaster."
+msgstr "Toster."
+
+msgid "A trash can with nothing but the memory of bad kitchen smells."
+msgstr "Kosz na śmieci, w którym nie ma nic poza wspomnieniem nieprzyjemnych kuchennych zapachów."

@@ -1,0 +1,1298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What are you looking at?"
+msgstr "Neye bakıyorsun?"
+
+msgid "Get out of my face."
+msgstr "Çekil burnumun dibinden."
+
+msgid "My seat is on the second row from the front, in class 3-C."
+msgstr "Benim koltuğum 3-C sınıfında önden ikinci sırada."
+
+msgid "Maybe you don't suck as much as I thought."
+msgstr "Belki de düşündüğüm kadar berbat değilsindir."
+
+msgid "I'm surprised you even gave it back. Maybe I misjudged you."
+msgstr "Onu geri vermene bile şaşırdım. Belki de seni yanlış değerlendirdim."
+
+msgid "I bet you think you're SO funny. We have other plans for the night anyway."
+msgstr "Eminim ÇOK komik olduğunu düşünüyorsundur. Neyse, bu gece için başka planlarımız var."
+
+msgid "Whatever you say!"
+msgstr "Ne dersen de!"
+
+msgid "Don't talk to me anymore. I won't forget this."
+msgstr "Benimle konuşma artık. Bunu unutmayacağım."
+
+msgid "Good luck with your game."
+msgstr "Oyununda başarılar."
+
+msgid "(She's really concentrated on fixing her ribbon. Best not to disturb her.)"
+msgstr "(Gerçekten kurdelesini tamir etmeye odaklanmış durumda. Onu rahatsız etmemek en iyisi.)"
+
+msgid "(She's angrily fidgeting with her ribbon. Best not to bother her anymore.)"
+msgstr "(Sinirli sinirli kurdelesiyle oynuyor. En iyisi onu artık rahatsız etmemek.)"
+
+msgid "It's good to finally make some new friends."
+msgstr "Sonunda yeni arkadaşlar edinmek güzel."
+
+msgid "Are you leaving this here?"
+msgstr "Bunu burada bırakıyor musun?"
+
+msgid "Why not? I'll pick it up before going home."
+msgstr "Neden olmasın? Eve gitmeden önce alacağım."
+
+msgid "May I look through it?"
+msgstr "Şuna bi' bakabilir miyim?"
+
+msgid "No...?"
+msgstr "Hayır...?"
+
+msgid "Ok, let's see..."
+msgstr "Tamam, bakalım..."
+
+msgid "Um... why is there lettuce in your bag?"
+msgstr "Imm... Çantanda neden marul var?"
+
+msgid "Wha- WHAT DID I JUST SAY!?"
+msgstr "Ne- Ben az önce ne dedim!?"
+
+msgid "So... why is there lettuce in your bag?"
+msgstr "Pekii... çantanda neden marul var?"
+
+msgid "My mom asked me to pick it up on the way home, okay?"
+msgstr "Annem eve giderken onu almamı istedi, tamam mı?"
+
+msgid "God!"
+msgstr "Tanrım!"
+
+msgid "Fine, fine..."
+msgstr "Tamam, tamam..."
+
+msgid "You put the lettuce back."
+msgstr "Marulu geri koy."
+
+msgid "It's Saki's bag."
+msgstr "Bu Saki'nin çantası."
+
+msgid "Saki's bag is gone."
+msgstr "Saki'nin çantası gitmiş."
+
+msgid "What? Where is my bag?"
+msgstr "Ne? Çantam nerede?"
+
+msgid "Is someone else here with us?"
+msgstr "Burada bizimle birlikte başka biri var mı?"
+
+msgctxt "events.Prologue_Club_Occult.event_bag_with_girls.dlg.prologue_girl2"
+msgid "This isn't good..."
+msgstr "Bu iyi değil..."
+
+msgid "Hopefully it was just the janitor and you can get it back on Monday."
+msgstr "Umarım sadece hademe almıştır ve pazartesi günü geri alabilirsiniz."
+
+msgctxt "events.Prologue_Club_Occult.event_bag_with_girls.dlg.prologue_girl1"
+msgid "Uuugh..."
+msgstr "Offf..."
+
+msgid "Isn't this stuffed crow just so cool?"
+msgstr "Bu içi doldurulmuş karga çok havalı değil mi?"
+
+msgid "Oh no."
+msgstr "Oh hayır."
+
+msgid "...So you're that type, huh?"
+msgstr "...Yani, demek sen o türdensin ha?"
+
+msgid "It was an accident! And what is that supposed to mean anyways!?"
+msgstr "O bi' kazaydı! Ve ayrıca bunun ne anlama gelmesi gerekiyor!?"
+
+msgctxt "events.Prologue_Club_Occult.event_break_crow.dlg.prologue_girl2"
+msgid "This isn't good..."
+msgstr "Bu iyi değil..."
+
+msgid "It's okay, you can just apologize next week."
+msgstr "Sorun yok, önümüzdeki hafta özür dilersin."
+
+msgid "Yeah, it's okay. It was probably the only valuable thing in this room anyways."
+msgstr "Evet, sorun değil. Muhtemelen bu odadaki tek değerli şey oydu zaten."
+
+msgctxt "events.Prologue_Club_Occult.event_break_crow.dlg.prologue_girl1"
+msgid "Uuugh..."
+msgstr "Oofff..."
+
+msgid "Say, what ARE you doing here? Visiting the school at night is hardly normal no matter what you're looking for."
+msgstr ""Söylesene, burada ne yapıyorsun? Aradığın şey ne olursa olsun, geceleri okulu ziyaret etmek pek normal değil.""
+
+msgid "I could ask you the same question."
+msgstr "Aynı soruyu ben de sana sorabilirim."
+
+msgid "You already know what we were doing."
+msgstr "Ne yaptığımızı biliyorsun zaten."
+
+msgid "Key word: \"were\"."
+msgstr "Anahtar kelime: \"yaptığımızı\"."
+
+msgid "Truth is, I'm doing the same thing as you girls... But it's spookier than your game."
+msgstr "Gerçek şu ki, ben de sizinle aynı şeyi yapıyorum kızlar... Ama bu sizin oyununuzdan daha ürkütücü."
+
+msgid "A game? Can we join in?"
+msgstr "Oyun mu? Katılabilir miyiz?"
+
+msgid "I thought you had plans for the night?"
+msgstr "Bu gece için planların olduğunu sanıyordum?"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_1.dlg.prologue_girl2"
+msgid "..."
+msgstr "..."
+
+msgid "We can probably spare an hour or two."
+msgstr "Muhtemelen bir veya iki saat ayırabiliriz."
+
+msgid "In any case, it's a one-person ritual, so you can't join me on it."
+msgstr "Her halükarda, bu tek kişilik bir ritüel, bu yüzden bana katılamazsınız."
+
+msgid "Figures."
+msgstr "Anlaşıldı."
+
+msgid "If you like this kind of occult stuff, why aren't you in the club?"
+msgstr "Eğer bu tür esrarengiz şeyleri seviyorsan neden kulüpte değilsin?"
+
+msgid "Only nerds join this club."
+msgstr "Bu kulübe sadece inekler katılır."
+
+msgid "That's not entirely false..."
+msgstr "Bu tamamen yanlış değil..."
+
+msgid "You didn't bring any other games? Not even a deck of cards?"
+msgstr "Başka oyun getirmedin mi? Bir deste kart bile yok mu?"
+
+msgid "No, not really."
+msgstr "Imm, hayır."
+
+msgid "We didn't anticipate someone ruining our game."
+msgstr "Birinin oyunumuzu bozacağını beklemiyorduk."
+
+msgid "Fair enough."
+msgstr "Yeterince adil."
+
+msgid "So, how did you get in here?"
+msgstr "Peki, buraya nasıl girdin?"
+
+msgid "We got a key from someone."
+msgstr "Birinden anahtarı aldık."
+
+msgid "*I* got a key from someone."
+msgstr "*Ben* birinden anahtarı aldım."
+
+msgid "...*She* got a key from someone."
+msgstr "...*O* birinden anahtarı aldı."
+
+msgid "Couldn't you just have joined the club?"
+msgstr "Kulübe yeni katılmış olamaz mıydın?"
+
+msgid "Why? Is that what you did? Join the club just for the key?"
+msgstr "Neden? Yaptığın bu mu? Sadece anahtar için kulübe katılmak mı?"
+
+msgid "...This conversation isn't going as planned."
+msgstr "...Bu konuşma planlandığı gibi gitmiyor."
+
+msgid "What were you looking for earlier?"
+msgstr "Daha önce ne arıyordun?"
+
+msgid "Materials for the ritual."
+msgstr "Ritüel için malzemeler."
+
+msgid "Shouldn't you have gathered them ahead of time?"
+msgstr "Bunları önceden toplamanız gerekmez miydi?"
+
+msgid "Now that's boring. Do you also do your homework ahead of time?"
+msgstr "Bu çok sıkıcı. Siz de ödevinizi önceden mi yapıyorsunuz?"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_5.dlg.prologue_girl2"
+msgid "..."
+msgstr "..."
+
+msgid "I don't know what to say to that."
+msgstr "Buna ne diyeceğimi bilmiyorum."
+
+msgid "Will you at least tell us more about your game?"
+msgstr "En azından bize oyunun hakkında daha fazla bilgi verir misin?"
+
+msgid "I'll let you know how it went on Monday."
+msgstr "Pazartesi günü nasıl gittiğini size anlatacağım."
+
+msgid "If it's anything like the rest I tried, it won't really do anything."
+msgstr "Eğer denediğim diğerlerine benziyorsa, gerçekten hiçbir işe yaramayacak."
+
+msgid "What's with all the chit chat? Are we suddenly friends or something?"
+msgstr "Bütün bu saçma sohbetler de ne? Aniden arkadaş falan mı olduk?"
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_6.dlg.prologue_girl2"
+msgid "..."
+msgstr "..."
+
+msgid "She's alright, I guess."
+msgstr "Sanırım o iyi."
+
+msgid "But she ruined our night!"
+msgstr "Ama gecemizi mahvetti!"
+
+msgid "Sorry about that..."
+msgstr "Bunun için üzgünüm..."
+
+msgctxt "events.Prologue_Club_Occult.event_conversation_6.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "Well... alright, fine."
+msgstr "Imm... Peki, tamam."
+
+msgid "She means \"apology accepted\"."
+msgstr "\"Özür kabul edildi.\" demek istiyor."
+
+msgid "Nice to meet you then, I'm Kat."
+msgstr "O zaman tanıştığıma memnun oldum. Ben Kat."
+
+msgid "We KNOW."
+msgstr "Biliyoruz."
+
+msgid "I'm Juli. This is Saki, and this is Kaya."
+msgstr "Ben Juli, bu Saki ve bu da Kaya."
+
+msgid "Nice to meet you."
+msgstr "Memnun oldum."
+
+msgid "You know, you're quite the celebrity among third year students."
+msgstr "Biliyor musun, üçüncü sınıf öğrencileri arasında oldukça ünlüsün."
+
+msgid "...for all the wrong reasons."
+msgstr "...tüm yanlış sebeplerden dolayı."
+
+msgid "You should hang out at 3-C sometime."
+msgstr "Bir ara 3-C'de takılmalısın."
+
+msgid "Do you um... need help with that ribbon?"
+msgstr "Şu kurdeleyle ilgili yardıma ihtiyacın var mı?"
+
+msgid "Ah... no... I'm just fidgeting..."
+msgstr "Ah... Hayır... Kıpırdanıyorum sadece."
+
+msgid "Got it."
+msgstr "Anladım."
+
+msgid "Don't mind Saki. She's not the bitch she pretends to be."
+msgstr "Saki'ye aldırış etme. O, iddia ettiği gibi bir sürtük değil."
+
+msgid "We will probably go home soon."
+msgstr "Muhtemelen yakında eve gideceğiz."
+
+msgid "Well... at least I got what I needed."
+msgstr "En azından ihtiyacım olanı aldım."
+
+msgid "That's cute!"
+msgstr "Çok tatlı!"
+
+msgid "Thank you very much."
+msgstr "Çok teşekkürler."
+
+msgid "Is that supposed to be you...?"
+msgstr "Bunun sen olması şart mıydı...?"
+
+msgid "Please never draw a portrait of me."
+msgstr "Lütfen asla benim portremi çizme."
+
+msgid "Wasn't planning to."
+msgstr "Öyle bir şey yapmayı planlamıyordum."
+
+msgid "Kindergarten called, they want their drawing skills back."
+msgstr "Anaokulu aradı, çizim becerilerini geri istiyorlar.s"
+
+msgid "This is my depiction of a child's depiction of a house."
+msgstr "Bu benim bir çocuğun ev tasvirinin tasviri."
+
+msgid "I expected a bit better from you..."
+msgstr "Senden biraz daha iyi bekliyordum."
+
+msgid "I didn't."
+msgstr "Yapmadım."
+
+msgid "Draw something on the chalkboard?"
+msgstr "Kara tahtaya bir şey çiz?"
+
+msgctxt "events.Prologue_Club_Occult.event_draw_on_chalkboard.choice.Draw something on the chalkboard?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Club_Occult.event_draw_on_chalkboard.choice.Draw something on the chalkboard?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "What should I draw?"
+msgstr "Ne çizsem?"
+
+msgid "A flower"
+msgstr "Çiçek"
+
+msgid "A self-portrait"
+msgstr "Bir portre"
+
+msgid "A house"
+msgstr "At"
+
+msgid "A butt"
+msgstr "Popo"
+
+msgid "Don't draw"
+msgstr "Çizme"
+
+msgid "It's done!"
+msgstr "İşte bitti!"
+
+msgid "This was the most pointless thing you've done today."
+msgstr "Bu bugün yaptığın en anlamsız şeydi."
+
+msgid "My masterpiece is already perfect, no need for modifications."
+msgstr "Benim şaheserim zaten mükemmel, hiçbir değişikliğe gerek yok."
+
+msgid "It's too dark for that."
+msgstr "Bunun için teması çok karanlık."
+
+msgid "Say, are any of you members of the theater club?"
+msgstr "Söylesenize, aranızda tiyatro kulübüne üye olan var mı?"
+
+msgid "Not really."
+msgstr "Pek sayılmaz."
+
+msgid "Not really?"
+msgstr "Pek sayılmaz?"
+
+msgid "Not me."
+msgstr "Ben değilim."
+
+msgid "Who wants to know?"
+msgstr "Kim bilmek ister?"
+
+msgid "Well, there's a talent agent waiting outside. He's only interested in teenage girls with a passion for roleplaying, though."
+msgstr "Dışarıda bekleyen bir yetenek temsilcisi var. Ancak kendisi yalnızca rol yapma tutkusu olan genç kızlarla ilgileniyor."
+
+msgid "What is it that you want?"
+msgstr "İstediğin nedir?"
+
+msgid "I just need to borrow something from your club room. You have the key with you, don't you?"
+msgstr "Kulüp odanızdan bir şey ödünç almam gerekiyor. Anahtarın yanında, değil mi?"
+
+msgid "Hmmm..."
+msgstr "Hmm..."
+
+msgid "Fine, you can have it... If you can do me a favor first."
+msgstr "Peki, alabilirsin... Ama önce bana bir iyilik yaparsan."
+
+msgid "I'll do you a favor: I'll conveniently forget to tell the principal that you three broke into the school at night. Deal?"
+msgstr "Sana bir iyilik yapacağım: Üçünüzün gece okula zorla girdiğinizi müdüre söylemeyi rahatlıkla unutacağım. Anlaştık mı?"
+
+msgid "Aren't you trespassing too?"
+msgstr "Sen de izinsiz girmiyor musun?"
+
+msgid "So, what's the favor you need?"
+msgstr "Peki ihtiyacın olan iyilik nedir?"
+
+msgid "Get my notebook. It's in classroom 3-C, under my desk."
+msgstr "Defterimi al. 3-C sınıfında, masamın altında"
+
+msgid "Ponytail's Notebook"
+msgstr "At Kuyruklunun Defteri"
+
+msgid "A red notebook that the girl with the ponytail forgot. She probably wants it back."
+msgstr "At kuyruklu kızın unuttuğu kırmızı bir defter. Muhtemelen geri istiyor."
+
+msgid "Should I get the notebook for her?"
+msgstr "Onun için not defterini almalı mıyım?"
+
+msgid "Alright, I'll do it"
+msgstr "Tamam, yapacağım"
+
+msgid "Forget it"
+msgstr "Bunu unut"
+
+msgid "You will?"
+msgstr "Yapacak mısın?"
+
+msgid "Then, when you find it, please don't look through it."
+msgstr "O zaman onu bulduğunuzda, lütfen içine bakmayın."
+
+msgid "Sure, sure."
+msgstr "Tabii, tabii."
+
+msgid "Of course, of course."
+msgstr "Tabii ki, elbette."
+
+msgid "Good luck finding another key to the club room."
+msgstr "Kulüp odasının başka bir anahtarını bulmada iyi şanslar."
+
+msgid "We'll see about that."
+msgstr "Göreceğiz bakalım."
+
+msgid "You mean this one?"
+msgstr "Bundan mı bahsediyorsun?"
+
+msgctxt "events.Prologue_Club_Occult.event_key_request.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "How did you-?"
+msgstr "Sen nasıl-?"
+
+msgid "Yes, that's the one."
+msgstr "Evet, bu o."
+
+msgid "Here's the key. I expect it back at some point."
+msgstr "İşte anahtar. Bir noktada geri dönmesini bekliyorum."
+
+msgid "Happy to help."
+msgstr "Yardım edebildiğime sevindim."
+
+msgid "Well, you brought my notebook so..."
+msgstr "Not defterimi getirdin yani..."
+
+msgid "Here you go, I guess. Please don't break anything."
+msgstr "İşte, sanırım. Lütfen hiçbir şeyi kırma."
+
+msgid "And don't forget to bring it back to me."
+msgstr "Ve onu bana geri getirmeyi unutma."
+
+msgctxt "events.Prologue_Club_Occult.event_key_request.dlg.kat"
+msgid "Thanks!"
+msgstr "Teşekkürler!"
+
+msgid "There's a bunch of useless trash in here..."
+msgstr "Burada bir sürü işe yaramaz çöp var..."
+
+msgid "Aha! This little box may be it."
+msgstr "Aha! Bu küçük kutu o olabilir."
+
+msgid "There's three runes... but the ritual didn't mention a specific one."
+msgstr "Üç büyü var... ama ritüelde belirli birinden bahsedilmiyor."
+
+msgid "Which one should I take?"
+msgstr "Hangisini almalıyım?"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird C"
+msgstr "Garip C"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird B"
+msgstr "Garip B"
+
+msgctxt "events.Prologue_Club_Occult.event_open_box.choice.Which one should I take?"
+msgid "The weird O"
+msgstr "Garip O"
+
+msgid "What's that?"
+msgstr "Bu da ne?"
+
+msgid "A rune. The ritual calls for it."
+msgstr "Bir büyü. Ritüel bunu gerektirir."
+
+msgid "What does it do?"
+msgstr "Ne işe yarıyor?"
+
+msgid "No idea."
+msgstr "Bi' fikrim yok."
+
+msgid "How is this any less childish than the game we were playing...?"
+msgstr "Bu nasıl bizim oynadığımız oyundan daha az çocukça olabiliyor?"
+
+msgid "There's a golden envelope in the drawer."
+msgstr "Çekmecede altın bir zarf var."
+
+msgid "These are the instructions for the ritual I'm doing."
+msgstr "Bunlar yaptığım ritüelin talimatları."
+
+msgid "Thankfully, I shortened them when I wrote my notes."
+msgstr "Neyse ki notlarımı yazarken onları kısaltıyorum."
+
+msgid "Read the full ritual rules?"
+msgstr "Ritüel kurallarının tamamını okudunuz mu?"
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.choice.Read the full ritual rules?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.choice.Read the full ritual rules?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "You must play alone."
+msgstr "Tek başına oynamalısın."
+
+msgid "Requirements:"
+msgstr "İstenilenler:"
+
+msgid ""
+"- 3 dark, adjacent rooms\n"
+"- 12 candles\n"
+"- A lighter or matches"
+msgstr ""
+"-3 karanlık ve bitişik oda\n"
+"-12 mum\n"
+"-Bir çakmak ya da kibrit"
+
+msgid ""
+"- A rune\n"
+"- A tuft of human hair\n"
+"- White chalk or white paint"
+msgstr ""
+"-Bir büyü\n"
+"-Bir tutam insan saçı\n"
+"-Beyaz tebeşir veya beyaz boya"
+
+msgid "Preparations:"
+msgstr "Hazırlamalar:"
+
+msgid ""
+"Start after the sun has set.\n"
+"All 3 rooms must be pitch black; turn off all the lights, draw the curtains, and close the doors."
+msgstr ""
+"Güneş battıktan sonra başlayın.\n"
+"Her 3 odanın da zifiri karanlık olması gerekir; tüm ışıkları kapatın, perdeleri çekin ve kapıları kapatın."
+
+msgid "Using the chalk or paint, draw a path going through the 3 rooms. This path will serve to connect your current location to your destination."
+msgstr "Tebeşir veya boya kullanarak 3 odadan geçen bir yol çizin. Bu yol mevcut konumunuzu varış noktanıza bağlamalıdır."
+
+msgid "In the middle room, place 6 candles on each side of the drawn path, parallel to it."
+msgstr "Orta odada çizilen yolun her iki tarafına paralel olarak 6 mum yerleştirin."
+
+msgid "Instructions:"
+msgstr "Talimatlar:"
+
+msgid "Light each of the candles and let them burn for at least 5 minutes. From this point, you can no longer abort the ritual."
+msgstr "Mumların her birini yakın ve en az 5 dakika yanmalarına izin verin. Bu noktadan sonra artık ritüeli iptal edemezsiniz."
+
+msgid ""
+"After the 5 minutes have passed, burn the tuft of hair on one of the candles.\n"
+"Proceed to blow out all the candles one by one."
+msgstr ""
+"5 dakika geçtikten sonra saç tutamını mumlardan birinin üzerinde yakın.\n"
+"Tüm mumları tek tek üfleyerek devam edin."
+
+msgid "When the last candle is put out, quickly close your eyes and count to 100."
+msgstr "Son mum da söndürüldükten sonra hızla gözlerinizi kapatın ve 100'e kadar sayın."
+
+msgid "Open your eyes."
+msgstr "Gözlerinizi açın."
+
+msgid "To Remember:"
+msgstr "Hatırlatma:"
+
+msgid "You must always close the door behind you. Leaving it open may attract unwanted attention."
+msgstr "Kapıyı her zaman arkanızdan kapatmalısınız. Açık bırakmak istenmeyen dikkatleri çekebilir."
+
+msgid "Do NOT let the rune out of your possession. It is your only protection."
+msgstr "Büyünün kontrolünüzden çıkmasına SAKIN izin vermeyin. Bu sizin tek korunmanız."
+
+msgid "Do NOT bring any weapons with you. If you arm yourself, so will they."
+msgstr "Yanınızda herhangi bir silah GETİRMEYİN. Eğer kendini silahlandırırsan, onlar da silahlanır."
+
+msgid "Should anything be heard or felt while you count to 100, it must be ignored."
+msgstr "100'e kadar sayarken herhangi bir şey duyulur veya hissedilirse, dikkate alınmamalıdır."
+
+msgid "Do NOT open your eyes."
+msgstr "Gözlerinizi SAKIN açmayın."
+
+msgid "Do NOT turn on the lights."
+msgstr "Işıkları SAKIN açmayın."
+
+msgid "Do NOT move."
+msgstr "SAKIN kıpırdamayın."
+
+msgid "It is normal to feel like you are not alone. You won't be."
+msgstr "Yalnız olmadığınızı hissetmeniz normaldir. -Olmayacaksınız."
+
+msgctxt "events.Prologue_Club_Occult.event_read_letter.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "There's no need to read it again."
+msgstr "Tekrar okumaya gerek yok."
+
+msgid "Is that the ritual we're doing right now?"
+msgstr "Şu anda yaptığımız ritüel bu mu?"
+
+msgid "Yeah."
+msgstr "Evet."
+
+msgid "I wonder if anyone else tried it..."
+msgstr "Başka deneyen var mı merak ediyorum..."
+
+msgid "Probably not. It was sealed when I got to it."
+msgstr "Muhtemelen yok. Oraya vardığımda mühürlenmişti."
+
+msgid "That's weird. Did they think it was cursed?"
+msgstr "Bu tuhaf. Bunun lanetli olduğunu mu düşünüyorlardı?"
+
+msgid "Maybe. I should probably glue it back later."
+msgstr "Belki de. Muhtemelen daha sonra tekrar yapıştırmalıyım."
+
+msgid "Kat."
+msgstr "Kat."
+
+msgid "Hm?"
+msgstr "Hm?"
+
+msgid "Just decide already!"
+msgstr "Karar ver artık!"
+
+msgid "This window doesn't need any curtains."
+msgstr "Bu pencerenin perdeye ihtiyacı yok."
+
+msgid "Ugh, you disgust me!"
+msgstr "Beni iğrendiriyorsun!"
+
+msgid "Why are you holding that like some sort of sick trophy? What is wrong with you!?"
+msgstr "Bunu neden hastalıklı bir ödül gibi tutuyorsun? Neyin var!?"
+
+msgid "Leave me alone, please."
+msgstr "Beni rahat bırak, lütfen."
+
+msgid "(It's too late to put it back...)"
+msgstr "(Geri koymak için çok geç...)"
+
+msgid "Are you done with it?"
+msgstr "İşin bitti mi?"
+
+msgid "Yeah, thanks."
+msgstr "Evet, teşekkürler."
+
+msgid "Gee, thanks."
+msgstr "Vay be, teşekkürler."
+
+msgid "(I can't give it back yet, I haven't even used it!)"
+msgstr "(Henüz geri veremem, kullanmadım bile!)"
+
+msgctxt "events.Prologue_Club_Occult.item_key_on_girl1.dlg.prologue_girl1"
+msgid "...?"
+msgstr "...?"
+
+msgid "Uhh... why do you have that?"
+msgstr "Imm... neden buna sahipsin?"
+
+msgid "Well, thanks for returning it, I guess?"
+msgstr "Geri getirdiğin için teşekkürler, sanırım?"
+
+msgid "Let me guess. Returning my notebook was too much for you, so you just took the key instead."
+msgstr "Dur tahmin edeyim. Defterimi geri vermek senin için çok fazlaydı bu yüzden onun yerine anahtarı aldın."
+
+msgid "Well, at least you brought it back, I suppose."
+msgstr "En azından onu geri getirdin sanırım."
+
+msgid "Oh wow. You just took that?"
+msgstr "Vay canına. Bunu yeni mi aldın?"
+
+msgid "You're a real bitch Kat, you know that?"
+msgstr "Sen gerçek bir kaltaksın Kat, biliyor musun?"
+
+msgid "...of course you had it all along."
+msgstr "...elbette başından beri buna sahiptin."
+
+msgid "Now I feel like an idiot for worrying. Hope you enjoyed my key."
+msgstr "Şimdi endişelendiğim için kendimi aptal gibi hissediyorum. Umarım anahtarımdan memnun kalmışsınızdır."
+
+msgid "That won't accomplish anything good."
+msgstr "Bu iyi bir şey sağlamayacaktır."
+
+msgid "(I feel like setting her on fire but... I'll control myself.)"
+msgstr "(Onu ateşe vermek istiyorum ama... Kendimi kontrol edeceğim.)"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.prologue_girl1"
+msgid "What?"
+msgstr "Ne?"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.kat"
+msgid "What?"
+msgstr "Ne?"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "(She really isn't that bad.)"
+msgstr "(O gerçekten o kadar da kötü değil.)"
+
+msgid "(It would be a shame to set such pretty hair on fire.)"
+msgstr "(Bu kadar güzel saçları ateşe vermek çok yazık olurdu.)"
+
+msgctxt "events.Prologue_Club_Occult.item_lighter_on_girl3.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "(Nah...)"
+msgstr "(Cık...)"
+
+msgid "Is this your notebook?"
+msgstr "Bu senin defterin mi?"
+
+msgid "Yeah, that's it. I hope you didn't look through it."
+msgstr "Evet, işte bu. Umarım iyice incelememişsindir."
+
+msgid "Nope. Your secrets are safe."
+msgstr "Hayır. Sırların güvende."
+
+msgid "Alright."
+msgstr "İyi."
+
+msgid "Nope. Your math is safe."
+msgstr "Hayır. Matematiğin güvende."
+
+msgid "Of course you looked. Hope you at least solved some of the exercises."
+msgstr "Elbette baktın. Umarım en azından bazı alıştırmaları çözmüşsünüzdür."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "What? Did you really think I'd leave my personal journal in your hands?"
+msgstr "Ne? Gerçekten kişisel günlüğümü sizin ellerinize bırakacağımı mı düşündün?"
+
+msgid "Well, a promise is a promise anyways."
+msgstr "Her neyse, söz sözdür."
+
+msgid "Here's the key. Bring it back when you're done with it."
+msgstr "İşte anahtar. İşin bitince geri getir."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.kat"
+msgid "Thanks!"
+msgstr "Teşekkürler!"
+
+msgid "Yeah, that's it. But, you don't need the key anymore, do you?"
+msgstr "Evet işte bu. Ama artık anahtara ihtiyacın yok, değil mi?"
+
+msgid "Why did you bother stealing it if you were gonna get me the notebook either way?"
+msgstr "Her iki durumda da defteri bana alacaksan neden onu çalma zahmetine girdin?"
+
+msgid "Sigh... whatever. Thanks, weirdo."
+msgstr "Ah... Her neyse. Teşekkürler, garip tip."
+
+msgid "*gasp*"
+msgstr "(nefesi kesilir)"
+
+msgid "I uh... I don't seem to have the key with me."
+msgstr "Imm şey... Anahtar yanımda değil gibi görünüyor."
+
+msgid "I could've sworn I had it... I'm sorry. I promise to let you use it tomorrow!"
+msgstr "Elimde olduğuna yemin edebilirim... Üzgünüm. Yarın kullanmana izin vereceğime söz veriyorum!"
+
+msgid "It's fine! Don't worry about it!"
+msgstr "Bu iyi! Endişelenmeyin!"
+
+msgid "Do you seriously think I'll give you the key after what you did?"
+msgstr "Gerçekten bu yaptığından sonra sana anahtarı vereceğimi mi sanıyorsun?"
+
+msgid "...Yes?"
+msgstr "...Evet?"
+
+msgid "Piss off, Kat. And give me that!"
+msgstr "Defol git, Kat. Ve onu bana ver!"
+
+msgid "You don't even care? Whatever. Give me that!"
+msgstr "Umurunda bile değil mi? Her neyse. Bana ver!"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl1.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "You come here, you ruin our game, you cut our hair, you steal my things and now you just bring me this?"
+msgstr "Buraya geldin, oyunumuzu mahvettin, saçımızı kestin, eşyalarımı çaldın ve şimdi de bana bunu mu getirdin?"
+
+msgid "I have no words left for you, you little sociopath."
+msgstr "I have no words left for you, you little sociopath."
+
+msgid "Does this happen to be yours?"
+msgstr "Bu senin mi?"
+
+msgid "Huh? Why do you have that? Are you going through my stuff now?"
+msgstr "Ha? O niye sende? Şimdi de eşyalarımı mı karıştırıyorsun?"
+
+msgid "Nah... I just had a feeling."
+msgstr "Yo... Sadece içimde bi' his vardı."
+
+msgid "Your feeling is right. May I have my notebook back?"
+msgstr "Hislerin doğru. Defterimi geri alabilir miyim?"
+
+msgid "Here you go."
+msgstr "Buyur al."
+
+msgid "Are you kidding me? First the hair and now blackmail?"
+msgstr "Sen benimle dalga mı geçiyorsun? Önce saç, şimdi de şantaj mı?"
+
+msgid "I don't care what you want, and I don't care why you have my notebook."
+msgstr "Ne istediğin umurumda değil ve defterimin neden sende olduğu da umurumda değil."
+
+msgid "Give it back or I'll get the teacher to beat your ass tomorrow morning!"
+msgstr "Onu geri ver yoksa yarın sabah öğretmene seni dövdürürüm!"
+
+msgid "Geez... Stuff it. I don't want your stupid notebook."
+msgstr "Tanrım... Doldur şunu. Senin aptal defterini istemiyorum."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.kat"
+msgid "Hey, is this yours?"
+msgstr "Hey, bu senin mi?"
+
+msgid "Um..."
+msgstr "Imm..."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.prologue_girl1"
+msgid "Wait, can I see that...?"
+msgstr "Bi' dakika, şuna bakabilir miyim?"
+
+msgid "For the love of... give me that!"
+msgstr "Tanrı aşkına... ver şunu bana!"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl2.dlg.prologue_girl1"
+msgid "What are you doing...? Please bring that here."
+msgstr "N'apıyorsun? Lütfen onu buraya getir."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.kat"
+msgid "Hey, is this yours?"
+msgstr "Hey, bu senin mi?"
+
+msgid "Uhh..."
+msgstr "Oof..."
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.prologue_girl1"
+msgid "Wait, can I see that...?"
+msgstr "Bi' dakika, şuna bakabilir miyim?"
+
+msgid "For the love of... bring that here!"
+msgstr "Tanrı aşkına... buraya getir onu!"
+
+msgctxt "events.Prologue_Club_Occult.item_notebook_on_girl3.dlg.prologue_girl1"
+msgid "What are you doing...? Please bring that here."
+msgstr "N'apıyorsun? Lütfen onu buraya getir."
+
+msgid "Finally, let's cut this open."
+msgstr "Sonunda, hadi şunu açalım."
+
+msgid "(Nothing else needs cutting here.)"
+msgstr "(Burada başka hiçbir şeyin açılmasına gerek yok.)"
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Did you just...?"
+msgstr "Sen az önce...?"
+
+msgid "Oh. My. God."
+msgstr "Aman. Tanrım."
+
+msgid "WHAT HAVE YOU DONE!?"
+msgstr "N'APTIN SEN!?"
+
+msgid "GET THE HELL OUT!!!"
+msgstr "CEHENNEM OL!!!"
+
+msgid "Get away from me!"
+msgstr "Uzak dur benden!"
+
+msgid "(I already got all the hair I need, no need to be petty.)"
+msgstr "(Zaten ihtiyacım olan tüm saçı aldım. Fazla irdelemeye gerek yok.)"
+
+msgid "(Nah... she's fine.)"
+msgstr "(Cık... O iyi.)"
+
+msgid "...!?"
+msgstr "...!?"
+
+msgid "What in the actual hell..."
+msgstr "Ne halt oluyor...?"
+
+msgid "Are you kidding me right now!?"
+msgstr "Benimle dalga mı geçiyorsun şu an!?"
+
+msgid "Oh no..."
+msgstr "Oh hayır..."
+
+msgid "DON'T TOUCH HER! GET OUT OF HERE!"
+msgstr "ONA DOKUNMA! SİKTİR OL GİT BURDAN!"
+
+msgid "Don't you dare..."
+msgstr "Sakın cürret etme..."
+
+msgid "(I don't need to do that. Plus, I kinda like her hair - it's a pretty color.)"
+msgstr "(Bunu yapmama gerek yok. Ayrıca saçını da beğeniyorum; çok güzel bir renk.)"
+
+msgid "(I don't wanna ruin her hair.)"
+msgstr "(Saçını mahvetmek istemiyorum.)"
+
+msgctxt "events.Prologue_Club_Occult.item_scissors_on_girl3.dlg.prologue_girl3"
+msgid "...?"
+msgstr "...?"
+
+msgid "WHAT THE HELL ARE YOU DOING TO HER!?"
+msgstr "ONA NE YAPIYORSUNUZ!?"
+
+msgid "She cut... her hair..."
+msgstr "O saçını... kesti..."
+
+msgid "Why...?"
+msgstr "Neden...?"
+
+msgid "GET OUT RIGHT THIS SECOND!!!"
+msgstr "HEMEN, ŞU AN DEFOL!!!"
+
+msgid "Kat, if you touch me with those scissors..."
+msgstr "Kat, eğer bana o makasla dokunursan..."
+
+msgid "I'll make you swallow them."
+msgstr "Onları sana yuttururum."
+
+msgid "(She looks like she's asking for it, but I already have all the hair I need.)"
+msgstr "(Sanki bunu istiyormuş gibi görünüyor ama ihtiyacım olan tüm saçlara zaten sahibim.)"
+
+msgid "(She doesn't deserve it, I think.)"
+msgstr "(Bence o bunu haketmiyor.)"
+
+msgid "It's a school bag."
+msgstr "Bu bir okul çantası."
+
+msgid "There's something shiny inside."
+msgstr "İçinde parlak bir şey var."
+
+msgid "Do you need something?"
+msgstr "Bir şeye ihtiyacın var mı?"
+
+msgid "Maybe later."
+msgstr "Belki daha sonra."
+
+msgid "(What if I accidentally push the bag off the chair?)"
+msgstr "(Çantayı yanlışlıkla sandalyeden itersem ne olur ki?)"
+
+msgid "Push the bag?"
+msgstr "Çantayı it?"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.choice.Push the bag?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.choice.Push the bag?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "What the-!"
+msgstr "Ne-!"
+
+msgid "I'm so sorry! Oh dear me, let me pick that up for you!"
+msgstr "Ben çok üzgünüm! Ah canım, izin ver bunu senin için alayım!"
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "I'll be out of your hair now!"
+msgstr "Şu an saçlarınla alakamı kesiyorum!"
+
+msgid "(No need to mess with it anymore.)"
+msgstr "(Artık uğraşmaya gerek yok.)"
+
+msgid "An empty chair with no bag on it."
+msgstr "Üzerinde çanta olmayan boş bir sandalye."
+
+msgctxt "events.Prologue_Club_Occult.misc_bag.dlg.narrator"
+msgid "An empty chair."
+msgstr "Boş bir sandalye."
+
+msgid "It's the box for the game the girls were playing."
+msgstr "Kızların oynadığı oyunun kutusu."
+
+msgid "It says \"Wiji Game Board - for 2 to 4 players. Get answers from beyond!\"."
+msgstr "Diyor ki \"Ouija Oyun Tahtası - 2 ila 4 oyuncu için. Öte taraftan cevaplar alın!\"."
+
+msgid "\"WARNING: We take no responsibility for any adverse effects playing this game could cause to you or your loved ones.\""
+msgstr "\"UYARI: Bu oyunu oynamanın size veya sevdiklerinize neden olabileceği olumsuz etkilerden sorumlu değiliz.\""
+
+msgid "Such as disappointment, I presume?"
+msgstr "Hayal kırıklığı gibi bir şey sanırım?"
+
+msgid "The disappointment was your fault, though..."
+msgstr "Hayal kırıklığı senin hatandı ama..."
+
+msgid "A thick purple book."
+msgstr "Kalın mor bir kitap."
+
+msgid "(A spellbook? It looks weird. And it also looks fake.)"
+msgstr "(Büyü kitabı mı? Garip görünüyor. Ayrıca sahte görünüyor.)"
+
+msgid "There's a book entitled \"Creepy Cryptids and where to find them\"."
+msgstr "\"Ürpertici Kriptitler ve onları nerede bulabiliriz\" başlıklı bir kitap var."
+
+msgid "There's a book entitled \"The truth behind mermaids exposed\"."
+msgstr "\"Denizkızlarının ardındaki gerçek ortaya çıktı\" başlıklı bir kitap var."
+
+msgid "There's a book entitled \"Magic Circles for simpletons\"."
+msgstr "\"Aptallar için Sihirli Çemberler\" başlıklı bir kitap var"
+
+msgid "Cardboard boxes marked with a symbol. They're sealed with tape."
+msgstr "Sembolle işaretlenmiş karton kutular. Bantla kapatılmışlar."
+
+msgid "(The runes my friend mentioned may be in here, but I need a way to open it.)"
+msgstr "(Arkadaşımın bahsettiği büyüler burada olabilir ama onu açmanın bir yolunu bulmam gerek.)"
+
+msgid "(I need a way to open this, I'm not going to carry the entire box around.)"
+msgstr "(Bunu açmanın bir yoluna ihtiyacım var, kutunun tamamını yanımda taşımayacağım.)"
+
+msgid "(There are two runes left in the box, but I only need one for the ritual.)"
+msgstr "(Bunu açmanın bir yoluna ihtiyacım var, kutunun tamamını yanımda taşımayacağım.)"
+
+msgid "(But maybe I picked the wrong one...)"
+msgstr "(Ama belki de yanlış olanı seçtim...)"
+
+msgid "Switch my rune"
+msgstr "Büyümü değiştir"
+
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgid "Which one then?"
+msgstr "O zaman hangisi?"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird C"
+msgstr "Garip C"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird B"
+msgstr "Garip B"
+
+msgctxt "events.Prologue_Club_Occult.misc_boxes.choice.Which one then?"
+msgid "The weird O"
+msgstr "Garip O"
+
+msgid "Just take everything"
+msgstr "Hepsini al"
+
+msgid "Well, it doesn't say I CAN'T have more than one."
+msgstr "E birden fazlasına sahip olamazsın demiyor."
+
+msgid "If only there were four..."
+msgstr "Ya sadece dört tane olsaydı..."
+
+msgid "We could get one each. Not that they do anything."
+msgstr "Her birimiz birer tane alabiliriz. Bir şey yaptıklarından değil."
+
+msgid "There's nothing else of use."
+msgstr "Başka işe yarar hiçbir şey yok."
+
+msgid "I need to get this open..."
+msgstr "Bunu açmam lazım..."
+
+msgid "Um... ever heard of nails?"
+msgstr "Iı... Hiç tırnak diye bir şey duydun mu?"
+
+msgid "Well..."
+msgstr "Pekii..."
+
+msgid "Ugh, step aside."
+msgstr "Üff, kenara çekil."
+
+msgid "Tada!"
+msgstr "Tadaa!"
+
+msgid "Saki is so practical..."
+msgstr "Saki o kadar pratik ki..."
+
+msgid "Man... is this your idea of fun?"
+msgstr "Dostum... senin eğlence anlayışın bu mu?"
+
+msgid "What do you mean?"
+msgstr "Ne demek istiyorsun?"
+
+msgid "It doesn't matter. Now let's see..."
+msgstr "Önemli değil. Şimdi bakalım..."
+
+msgid "A clean chalkboard."
+msgstr "Temiz bir kara tahta."
+
+msgid "My fabulous masterpiece is displayed here."
+msgstr "Muhteşem şaheserim burada sergileniyor."
+
+msgid "There's some chalk here."
+msgstr "Burada biraz tebeşir var."
+
+msgid "Take Chalk?"
+msgstr "Tebeşiri al?"
+
+msgctxt "events.Prologue_Club_Occult.misc_chalkboard.choice.Take Chalk?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Club_Occult.misc_chalkboard.choice.Take Chalk?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "But it's too dark to see now."
+msgstr "Ama şu an görülemeyecek kadar karanlık."
+
+msgid "A stuffed crow."
+msgstr "Doldurulmuş bir karga."
+
+msgid "(An interesting choice of decoration...)"
+msgstr "(İlginç bir dekorasyon seçimi...)"
+
+msgid "It's messed up now."
+msgstr "Şu an işler karıştı."
+
+msgid "A crystal ball resting on a cushion."
+msgstr "Bir yastığın üzerinde duran kristal bir küre."
+
+msgid "(Wow, that cheap plastic exterior really makes it look authentic.)"
+msgstr "(Vay be, bu ucuz plastik dış kısım gerçekten otantik görünmesini sağlıyor.)"
+
+msgid "This drawer won't open."
+msgstr "Bu çekmece açılmıyor."
+
+msgid "(I don't see a keyhole, so it must be stuck somehow.)"
+msgstr "(Anahtar deliği göremiyorum, bir şekilde sıkışmış olmalı.)"
+
+msgid "There's nothing of use here."
+msgstr "Burada işe yarar hiçbir şey yok."
+
+msgid "Don't even bother sitting with us after you ruined our night."
+msgstr "Oyunumuzu mahvedip sonra da bizimle mi oturacaksın?"
+
+msgid "Can't you read the room? We don't want you around. Leave!"
+msgstr "Odayı okuyamıyor musun? Seni etrafta istemiyoruz. Çık git!"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.dlg.narrator"
+msgid "An empty chair."
+msgstr "Boş bir sandalye."
+
+msgid "An empty chair. Sit down?"
+msgstr "Boş bir sandalye. Otur?"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.choice.An empty chair. Sit down?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Club_Occult.misc_empty_chair.choice.An empty chair. Sit down?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "The girls are gone."
+msgstr "Kızlar gitmiş."
+
+msgctxt "events.Prologue_Club_Occult.misc_girl_gone.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Prologue_Club_Occult.misc_girl_gone.dlg.narrator"
+msgid "An empty chair."
+msgstr "Boş bir sandalye."
+
+msgid "A spherical model of the Earth. Red crosses mark certain locations."
+msgstr "Dünyanın küresel bir modeli. Kırmızı çarpılar belirli yerleri işaretliyor."
+
+msgid "Some books and jars filled with.... something."
+msgstr "Bazı kitaplar ve kavanozlar... bir şeylerle dolu."
+
+msgid "There's no need to mess with the lights anymore."
+msgstr "Artık ışıklarla uğraşmaya gerek yok."
+
+msgid "The light switch isn't working."
+msgstr "Işık anahtarı çalışmıyor."
+
+msgid "Some small plants. Their quiet existence fascinates you."
+msgstr "Bazı küçük bitkiler. Onların sessiz varlığı sizi büyülüyor."
+
+msgid "The drawer underneath is empty."
+msgstr "The drawer underneath is empty."
+
+msgid "Suspicious news articles and posters representing magic circles."
+msgstr "Şüpheli haber yazıları ve sihirli çemberleri temsil eden posterler."
+
+msgid "An expensive-looking radio."
+msgstr "Pahalı görünen bir radyo."
+
+msgid "Turn it on?"
+msgstr "Çalıştır?"
+
+msgctxt "events.Prologue_Club_Occult.misc_radio.choice.Turn it on?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Club_Occult.misc_radio.choice.Turn it on?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "What are you even doing?"
+msgstr "Sen ne yapıyorsun?"
+
+msgid "Just looking around."
+msgstr "Öyle etrafa bakıyorum."
+
+msgid "No need to turn it on again."
+msgstr "Tekrar açmana gerek yok."
+
+msgid "It has no power."
+msgstr "Gücü yok."
+
+msgid "A trash can. It seems to be full."
+msgstr "Bir çöp kutusu. Dolu gibi görünüyor."
+
+msgid "There's a certain level of desperation needed for someone to dig through the trash. You're not at that level."
+msgstr "Birinin çöpü karıştırması için belli bir düzeyde çaresizlik gerekir. Sen o seviyede değilsin."
+
+msgid "A cool breeze blows in from outside."
+msgstr "Dışarıdan serin bir meltem esiyor."
+
+msgid "Close the window?"
+msgstr "Pencereyi kapat?"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Close the window?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Close the window?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Open the window?"
+msgstr "Pencereyi aç?"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Open the window?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Club_Occult.misc_window.choice.Open the window?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "...Huh?"
+msgstr "...Ha?"
+
+msgid "I can't seem to open it..."
+msgstr "Açamıyorum galiba..."
+
+msgid "Are you trying to freak us out on purpose?"
+msgstr "Bizi bilerek mi korkutmaya çalışıyorsun?"
+
+msgid "(These curtains are very thin. I don't think they would work.)"
+msgstr "(Bu perdeler çok incedir. İşe yarayacaklarını sanmıyorum.)"
+
+msgid "(Better read my notes to make sure I'm not forgetting anything in this room before leaving.)"
+msgstr "(Ayrılmadan önce bu odada hiçbir şeyi unutmadığımdan emin olmak için notlarımı okusam iyi olur.)"

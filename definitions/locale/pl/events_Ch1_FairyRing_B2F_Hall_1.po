@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm? What's that?"
+msgstr "Hm? Co to?"
+
+msgid "Oh that? It's a fairy head."
+msgstr "O, tamto? To głowa wróżki."
+
+msgid "A... head? Is the rest of the fairy just buried?"
+msgstr "Tylko… głowa? Czy reszta wróżki jest zakopana?"
+
+msgid "No, it's probably roaming around somewhere."
+msgstr "Nie, pewnie kręci się gdzieś w pobliżu."
+
+msgid "But the heads are dangerous too, be careful."
+msgstr "Ale głowy też są niebezpieczne, więc uważaj."
+
+msgid "There's another one..."
+msgstr "Widzę następną..."
+
+msgid "But... this one definitely has eyes, doesn't it?"
+msgstr "Ale... ta już raczej ma oczy, nie?"
+
+msgid "Maybe they're nostrils."
+msgstr "Może to nozdrza."
+
+msgid "Wha- nostrils?"
+msgstr "Co- nozdrza?"
+
+msgid "Could that be?"
+msgstr "Czy to możliwe?"
+
+msgid "They're eyes"
+msgstr "To oczy"
+
+msgid "They're nostrils"
+msgstr "To nozdrza"
+
+msgid "(That's ridiculous.)"
+msgstr "(To jakaś bzdura.)"
+
+msgid "I suppose I hadn't thought of it that way..."
+msgstr "W sumie nie pomyślałam o tym w ten sposób..."
+
+msgid "(Anyways... how will we pass without it seeing us?)"
+msgstr "(Tak czy inaczej... jak mamy przejść, by nas nie zauważyła?)"
+
+msgid "Now there's a bunch of them..."
+msgstr "Teraz jest ich więcej..."
+
+msgid "This is going to be a thing, isn't it."
+msgstr "Chyba będziemy mieć z tym kłopot."
+
+msgid "Wanna turn back?"
+msgstr "Może zawrócimy?"
+
+msgid "Wait, I can try to visualize a solution..."
+msgstr "Chwila, mogę spróbować zwizualizować rozwiązanie..."
+
+msgid "Visualize solution?"
+msgstr "Zwizualizować rozwiązanie?"
+
+msgid "Yes, please"
+msgstr "Tak, poproszę"
+
+msgid "I don't need it"
+msgstr "Nie ma takiej potrzeby"
+
+msgid "It's probably something like that."
+msgstr "To chyba powinno wyglądać mniej więcej tak."
+
+msgid "Wow! Amazing!"
+msgstr "Łał! Niezwykłe!"
+
+msgid "Okay..."
+msgstr "Okej..."
+
+msgid "A fairy head. It only has a mouth."
+msgstr "Głowa wróżki. Ma same usta."
+
+msgid "It only has a mouth... is that why it can't see me even though I'm this close?"
+msgstr "Ma tylko usta... czy to dlatego mnie nie widzi pomimo tego, że jestem tak blisko?"
+
+msgid "A fairy head. It only has nostrils."
+msgstr "Głowa wróżki. Ma tylko nozdrza."
+
+msgid "A fairy head. It only has eyes."
+msgstr "Głowa wróżki. Ma tylko oczy."
+
+msgid "It seems like this one can only see to the sides..."
+msgstr "Zdaje się, że ta widzi tylko na boki..."
+
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "Mała roślina. Wygląda na to, że blokuje widok wróżki."
+
+msgid "This thing... does it block the head's view?"
+msgstr "Ta roślina... Czy ona blokuje widok głowy?"
+
+msgid "As long as these black plant things are there, it should be possible to go around."
+msgstr "Póki te dziwne czarne rośliny tu są, przejście obok powinno być możliwe."

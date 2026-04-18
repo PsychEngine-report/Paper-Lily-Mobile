@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "Вылить ${item:ch1.bucket_full}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "Вылить ${item:ch1.bucket_full_holy}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "Наполнить ${item:ch1.bucket}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "What to do?"
+msgstr "Что мне сделать?"
+
+msgid "Kill it here"
+msgstr "Убить его здесь"
+
+msgid "Release it around this area"
+msgstr "Выпустить его на волю"
+
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+msgid "The crow shows no interest in it."
+msgstr "Ворона в нём не заинтересована."
+
+msgid "Nobody seems to want you, little one."
+msgstr "Видимо, ты совсем никому не нужен, малыш."
+
+msgid "It refuses to leave the terrarium."
+msgstr "Он отказывается покидать террариум."
+
+msgid "He must not like lavender very much..."
+msgstr "Наверное, лаванды не в его вкусе..."
+
+msgid "(Looks like it couldn't swim after all.)"
+msgstr "(Похоже, плавать он всё же не умеет.)"
+
+msgid "(You can't place an incomplete doorknob...)"
+msgstr "(Сюда нельзя всунуть расколотую дверную ручку...)"
+
+msgid "Lavender flowers are growing all over this place."
+msgstr "Здесь повсюду растут лаванды."
+
+msgid "Pretty..."
+msgstr "Красивые..."
+
+msgid "Take ${item:ch1.forest_lavender}?"
+msgstr "Взять предмет: ${item:ch1.forest_lavender}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A crow standing on a log."
+msgstr "Ворона, сидящая на бревне."
+
+msgid "It's completely unfazed by the rain..."
+msgstr "Дождь ей совсем ни по чём..."
+
+msgid "A wooden log."
+msgstr "Деревянное бревно."
+
+msgid "I came from this direction. There's no reason to go back now."
+msgstr "Я приплыла отсюда. У меня сейчас нет причин возвращаться."
+
+msgid "You can't see the other side of the lake from here."
+msgstr "Отсюда не видно другой стороны озера."
+
+msgid "A small pond."
+msgstr "Небольшой пруд."
+
+msgid "The caterpillar has moved on. You should too."
+msgstr "Гусеница продолжила свой путь. А вы продолжите свой."
+
+msgid "A door with two doorknobs."
+msgstr "Дверь с двумя дверными ручками."
+
+msgid "Take a closer look?"
+msgstr "Взглянуть поближе?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_facility.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Я всунула сюда свою дверную ручку, так что больше я никуда не пойду."
+
+msgid "A stairway?"
+msgstr "Ступеньки?"
+
+msgid "It's so dark... I can't see anything..."
+msgstr "Тут так темно... хоть глаз выколи..."
+
+msgid "Agh... my head..."
+msgstr "Агх... моя голова..."
+
+msgid "What's going on...?"
+msgstr "Что происходит?.."
+
+msgid "This doorknob won't even turn."
+msgstr "Эта ручка даже не поворачивается."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_grave.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Я всунула сюда свою дверную ручку, так что больше я никуда не пойду."
+
+msgid "Hmm..."
+msgstr "Хм..."
+
+msgid "A strange door with two doorknobs... and empty slots to place more."
+msgstr "Странная дверь с двумя дверными ручками... в ней есть место и для других ручек."
+
+msgid "Amazing... my ${item:ch1.doorknob_return} fits right in. It wasn't a scam after all..."
+msgstr "Супер... ${item:ch1.doorknob_return} идеально подошла. Всё-таки это не развод..."
+
+msgid "Still... I'm not ready to go home yet, but I'm glad to have found this door."
+msgstr "И всё же я пока не готова возвращаться домой. Но я рада, что смогла отыскать эту дверь."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_library.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Я всунула сюда свою дверную ручку, так что больше я никуда не пойду."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_moths.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Я всунула сюда свою дверную ручку, так что больше я никуда не пойду."
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_shop.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "Я всунула сюда свою дверную ручку, так что больше я никуда не пойду."
+
+msgid "An empty slot."
+msgstr "Пустой слот."
+
+msgid "Place a doorknob?"
+msgstr "Вставить дверную ручку?"
+
+msgid "Gray Doorknob"
+msgstr "Серая дверная ручка"
+
+msgid "Doorknob With Eye"
+msgstr "Дверная ручка с глазом"
+
+msgid "White Doorknob"
+msgstr "Белая дверная ручка"
+
+msgid "Doorknob With Flower"
+msgstr "Дверная ручка с цветком"
+
+msgid "Return Doorknob"
+msgstr "Дверная ручка возврата"
+
+msgid "Do not"
+msgstr "Ничего не делать"
+
+msgid "Is it really time to go home...?"
+msgstr "Мне правда стоит идти домой?.."
+
+msgid "Are you sure that you want to place this doorknob?"
+msgstr "Вы уверены, что хотите установить сюда дверную ручку возврата?"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "No"
+msgstr "Нет"

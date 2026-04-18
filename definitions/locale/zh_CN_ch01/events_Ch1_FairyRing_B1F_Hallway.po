@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Oh... I know where this is)."
+msgstr "（哦......我知道这是哪里）。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "This must be under that weird fella's house."
+msgstr "这一定是在那个怪人的房子下面。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "You know, the sculptor?"
+msgstr "你知道吗，那个雕塑家？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "Yeah."
+msgstr "嗯。"
+
+msgid "I think artists are really impressive!"
+msgstr "我觉得艺术家真的很让人印象深刻！"
+
+msgid "(What's this..?)"
+msgstr "（这是什么..？）"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Not really."
+msgstr "不知道呢。"
+
+msgid "Oh, it's a cranky old artist."
+msgstr "哦，它是个脾气暴躁的老艺术家。"
+
+msgid "I've never spoken to him because he's in a bad mood when he's tired."
+msgstr "我从来没和他说过话，因为他一累的话心情就不好。"
+
+msgid "...And he's almost always tired."
+msgstr "...虽然说他一直都很累。"
+
+msgid "But I think artists are really impressive!"
+msgstr "但是我觉得艺术家真的很让人印象深刻！"
+
+msgid "Sculpting is really hard..."
+msgstr "雕塑是件很难的事情..."
+
+msgid "Especially hands..."
+msgstr "特别是要用手这一点..."
+
+msgid "I can't seem to get my hands right..."
+msgstr "我的手似乎怎么也弄不好..."
+
+msgid "(Oh, that explains...)"
+msgstr "（哦，确实...）"
+
+msgid "(Huh... the path is open now.)"
+msgstr "（啊...这条路现在通了。）"
+
+msgid "We need to walk slowly... and uh... keep an eye out."
+msgstr "我们要走得慢点...然后，呃...留个心眼。"
+
+msgid "Keep an eye out for what?"
+msgstr "为什么要留个心眼？"
+
+msgid "For... fairies."
+msgstr "因为...仙子们。"
+
+msgid "Don't you know what this place is!?"
+msgstr "你不知道这是什么地方吗！？"
+
+msgid "Lacie, don't you know what this place is!?"
+msgstr "莱西，你不知道这是什么地方吗！？"
+
+msgid "...No, not really."
+msgstr "...不，我不知道。"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "This is the inside of a fairy ring!"
+msgstr "这里是仙女环的内部！"
+
+msgid "Lacie, this is the inside of a fairy ring!"
+msgstr "莱西，这里是仙女环的内部！"
+
+msgid "Um..."
+msgstr "唔..."
+
+msgid "...The mushroom circle from outside?"
+msgstr "...是外面那个蘑菇围成的圈圈吗？"
+
+msgid "Yep. That's a fairy ring."
+msgstr "对。那就是仙女环。"
+
+msgid "So this place is..."
+msgstr "所以这个地方是..."
+
+msgid "Underneath that circle?"
+msgstr "圈圈下面？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "Yeah."
+msgstr "嗯。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "Oh."
+msgstr "哦。"
+
+msgid "Can you tell me more?"
+msgstr "能细说吗？"
+
+msgid "Let's see... I only know the things everyone talks about."
+msgstr "我想想...我只知道大家都在讨论的东西。"
+
+msgid "For one, fairies live in fairy rings, and they're really nasty."
+msgstr "首先，仙子们生活在仙女环内，而且它们真的很恶心。"
+
+msgid "(Fairies...)"
+msgstr "（仙子们...）"
+
+msgid "They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!"
+msgstr "它们看起来也很恶心，头是蛋形的，与身体分离，它们全身雪白，牙齿很大！有些还没有眼睛！"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "But even without the fairies, winding up inside of a fairy ring is..."
+msgstr "但是即便没有仙子的话，被缠困在仙女环里也是..."
+
+msgid "Well, they say you get stuck here for 7 years."
+msgstr "好吧，他们说你会在这里被困7年。"
+
+msgid "But nobody has ever escaped because they usually just die before that."
+msgstr "但是没有人曾逃出过，因为他们通常在那之前就死了。"
+
+msgid "Oh god this is horrible, we're not gonna escape!"
+msgstr "天呐这太可怕了，我们逃不出去的！"
+
+msgid "Even if we somehow make it 7 years, that's only a myth!"
+msgstr "即便我们怎样活了7年，那也不过只是个传说罢了！"
+
+msgid "Maybe it's meant to instill hope in the poor souls that end up here!"
+msgstr "也许这只是为了给那些来到这里的可怜人一点希望！"
+
+msgid "LIKE US! THIS IS A DEAD END!!!"
+msgstr "像我们的话！已经死定了！！！"
+
+msgid "Aoi."
+msgstr "小青。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Cut it off."
+msgstr "再讲就剪烂你的嘴。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "Sorry."
+msgstr "对不起。"
+
+msgid "Are the fairies dangerous?"
+msgstr "仙子们很危险吗？"
+
+msgid "Yeah..."
+msgstr "是的..."
+
+msgid "...But everything is dangerous."
+msgstr "...但其实所有东西都很危险。"
+
+msgid "The floor here is also slowly digesting us."
+msgstr "这里地板正在缓慢地消化着我们。"
+
+msgid "I guess you don't feel it because you have shoes, hehe..."
+msgstr "我猜你感觉不到，因为你穿着鞋子，哈哈..."
+
+msgid "I only have socks, so it's already eating away at them..."
+msgstr "我只穿了袜子，所以它已经在蚕食它们了..."
+
+msgid "(Should I offer Aoi my shoes?)"
+msgstr "（我要把自己的鞋子给小青吗？）"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "No"
+msgstr "否"
+
+msgid "Would you like my shoes?"
+msgstr "你想要我的鞋子吗？"
+
+msgid "Whaaat? You're offering me your own shoes?!?"
+msgstr "什么？你要给我你的鞋子？！？"
+
+msgid "That's so nice of you!"
+msgstr "你真好！"
+
+msgid "That's so nice, Lacie!"
+msgstr "你真好，莱西！"
+
+msgid "But no, I'll be alright. I'll just remake my feet if they start being unusable."
+msgstr "但是不用了，我没事的。如果我的脚没法走了，我只要重塑一下就可以了。"
+
+msgid "It just burns but that's okay, I'm used to burns."
+msgstr "就是有点烫而已，不过没关系，我已经习惯了。"
+
+msgid "...I'm used to burns..."
+msgstr "...我以前也被烫过..."
+
+msgid "Um... okay."
+msgstr "唔...好吧。"
+
+msgid "(Best not...)"
+msgstr "（最好还是不要了...）"
+
+msgid "(Who knows what this floor will do to my feet...)"
+msgstr "（谁知道这个地板会对我的脚做什么呢...）"
+
+msgid "(This person is not human, so they will probably be fine.)"
+msgstr "（这个人不是人类，所以它应该没事的。）"
+
+msgid "A large skeleton of an unknown creature."
+msgstr "未知生物的巨大骨架。"
+
+msgid "Hm...?"
+msgstr "唔...？"
+
+msgid "What died here...?"
+msgstr "什么东西死在这里了吗...？"
+
+msgid "Something big!"
+msgstr "真是个大家伙！"
+
+msgid "Oh!"
+msgstr "哦！"
+
+msgid "A dragon!"
+msgstr "一条龙！"
+
+msgid "(A dragon...!?)"
+msgstr "（一条龙...！？）"
+
+msgid "Was I right?!"
+msgstr "我说对了吗？！"
+
+msgid "Huh? How should I know?"
+msgstr "啊？我会知道吗？"
+
+msgid "Aw..."
+msgstr "哦..."
+
+msgid "A large skeleton of a dragon."
+msgstr "一条龙的巨大骨架。"
+
+msgid "(Do dragons really exist in this place...?)"
+msgstr "（这个地方真的存在龙吗...？）"
+
+msgid "Isn't it so cool that humans have dragons in their world?"
+msgstr "人类的世界里有龙，是不是很酷？"
+
+msgid "I'd like dragons here too."
+msgstr "我希望我们这里也能有龙。"
+
+msgid "(Never mind.)"
+msgstr "（还是别提起好。）"
+
+msgid "A large skeleton of something other than a dragon."
+msgstr "一具巨大的非龙骨架。"
+
+msgid "We sure are walking a lot."
+msgstr "我们肯定已经走了很多路了。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "My feet don't hurt, or anything. Don't worry!"
+msgstr "我的脚不会疼，也不会出毛病。不要担心！"
+
+msgid "I bet there's no way out..."
+msgstr "我敢打赌，这里没有出路..."
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "There's always a way."
+msgstr "总会有办法的。"
+
+msgid "(Right...?)"
+msgstr "（对吧...？）"
+
+msgid "Whoa."
+msgstr "哇哦。"
+
+msgid "I like that!"
+msgstr "我喜欢！"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "The path ends here."
+msgstr "这条路到此为止。"
+
+msgid "Huh...? Is there really nowhere to go from here...?"
+msgstr "啊...？这里真的没有路了吗...？"
+
+msgid "A large bone."
+msgstr "巨大的骨头。"
+
+msgid "A broken street lamp."
+msgstr "损坏的路灯。"
+
+msgid "Blue mushrooms are lining the floor."
+msgstr "蓝色的蘑菇在地板上鳞次栉比。"
+
+msgid "A bunch of rubble."
+msgstr "一堆瓦砾。"
+
+msgid "A piece of a sculpture."
+msgstr "一座雕塑的碎片。"
+
+msgid "A strangely-shaped pot."
+msgstr "造型奇特的壶。"
+
+msgid "There's a large hole on the floor."
+msgstr "地板上有个大洞。"
+
+msgid "(It's deep... and dark.)"
+msgstr "（很深...而且很黑。）"
+
+msgid "It doesn't seem very smart to try going down there."
+msgstr "看起来从这边下去不是个明智的选择。"
+
+msgid "I feel like there has to be a better option than going down this hole..."
+msgstr "我感觉比起下去还有更好的选项..."
+
+msgid "(We checked everywhere else but...)"
+msgstr "（我们已经调查过别的地方了，但是...）"
+
+msgid "(If I go down there... it will be impossible to come back up...)"
+msgstr "（如果我们下去的话...我们就没机会回来了...）"
+
+msgid "Go down the hole?"
+msgstr "要下到洞里吗？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "No"
+msgstr "否"
+
+msgid "...Sigh, here we go."
+msgstr "...哎，我们走吧。"
+
+msgid "Wanna turn back?"
+msgstr "要不回头吧？"
+
+msgid "There's nowhere else to go, so we might as well explore whatever's down there."
+msgstr "已经没有别的地方能去了，不如去探索下面的东西。"
+
+msgid "Okay."
+msgstr "好吧。"
+
+msgid "Going deeper down to find an exit... this isn't very smart, is it?"
+msgstr "深入地下寻找出口...这可不太明智，不是吗？"

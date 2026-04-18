@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "White Flower"
+msgstr "Біла квітка"
+
+msgid "A white flower I found on the grass. It appears to be a lily... I think."
+msgstr "Біла квітка, яку я знайшла у траві. Мені здається, що це... лілія."
+
+msgid "Wet White Flower"
+msgstr "Волога біла квітка"
+
+msgid "A white flower I took from a vase. It's probably a Lily."
+msgstr "Біла квітка, яку я вийняла з вази. Схожа на лілію."
+
+msgid "Ritual Notes"
+msgstr "Нотатки до ритуалу"
+
+msgid "I put everything I need to remember here."
+msgstr "Сюди я записала все стосовно ритуалу."
+
+msgid "Ritual Notes (Drawing)"
+msgstr "Ілюстрація ритуалу"
+
+msgid "This is how it looks in my head."
+msgstr "Ось так весь процес виглядає в моїй голові."
+
+msgid "Candles"
+msgstr "Свічки"
+
+msgid "A bunch of candles. I need these for the ritual."
+msgstr "Купа свічок. Вони необхідні для ритуалу."
+
+msgid "Chalk"
+msgstr "Крейда"
+
+msgid "A piece of chalk. I can draw various things with it."
+msgstr "Шматочок крейди. З його допомогою можна багато чого намалювати."
+
+msgid "Curtains"
+msgstr "Завіска"
+
+msgid "Red blackout curtains used to block as much light as possible."
+msgstr "Червоні драпрі, якими треба закрити якомога більше світла."
+
+msgid "Lighter"
+msgstr "Запальничка"
+
+msgid "My personal lighter. I don't smoke, but I enjoy watching things burn."
+msgstr "Моя запальничка. Я не палю, мені просто до вподоби, коли все горить."
+
+msgid "Old Lighter"
+msgstr "Стара запальничка"
+
+msgid "An old lighter I had lost a long time ago. It doesn't seem to work anymore."
+msgstr "Стара запальничка, яку я давно втратила. Схоже, вона більше не працює."
+
+msgid "Scissors"
+msgstr "Ножиці"
+
+msgid "A regular pair of scissors. Not pointy enough to stab people with."
+msgstr "Звичайні ножиці. Недостатньо гострі, щоб когось прирізати."
+
+msgid "Girl's Hair"
+msgstr "Дівоче волосся"
+
+msgid "A tuft of hair I cut from the girl with brown hair."
+msgstr "Пучок волосся, котрий я відсікла у дівчини з каштановим волоссям."
+
+msgid "A tuft of hair I cut from the girl with black hair."
+msgstr "Пучок волосся, котрий я відсікла у дівчини з чорним волоссям."
+
+msgid "A tuft of hair I cut from the girl with dark brown hair."
+msgstr "Пучок волосся, котрий я відсікла у дівчини темно-каштановим волоссям."
+
+msgid "My Hair"
+msgstr "Моє волосся"
+
+msgid "A bit of hair I cut from myself. Looking at it makes me sad."
+msgstr "Пучок мого власного волосся. Дивлюся на нього і стає сумно."
+
+msgid "Protective Rune"
+msgstr "Руна-оберіг"
+
+msgid "A rune with some ancient symbol engraved."
+msgstr "Руна з гравіюванням якогось старовинного символу."
+
+msgid "Student's Notebook"
+msgstr "Шкільний зошит"
+
+msgid "A red notebook, probably forgotten by a student. The color and design are not my style."
+msgstr "Червоний зошит, який, мабуть, хтось загубив. Його колір та малюнок мені не до смаку.."
+
+msgid "Theater Club Key"
+msgstr "Ключ від театр. гуртка"
+
+msgid "The key to open the theater club room."
+msgstr "Ключ, що відчиняє двері у театральний гурток."
+
+msgid "Dusty Hairpin"
+msgstr "Пильна шпилька"
+
+msgid "My trusty hairpin! I have a feeling this could come in handy."
+msgstr "Моя вірна шпилька! Здається мені, вона ще стане в пригоді."
+
+msgid "Fairly Normal-Looking Key"
+msgstr "Звичайний ключик"
+
+msgid "A key I found on a long hallway."
+msgstr "Звичайний на вид ключ, який я знайшла у довгому коридорі."
+
+msgid "Lettuce"
+msgstr "Капуста"
+
+msgid "You're not supposed to have this in your inventory."
+msgstr "Цього у вашому інвентарі бути не повинно."
+
+msgid "Small Key"
+msgstr "Ключик"
+
+msgid "A small key, probably for a locker."
+msgstr "Маленький ключик. Можливо, від шафи."
+
+msgid "Strange Blueprints"
+msgstr "Дивні креслення"
+
+msgid "Blueprints for an unknown device. You can't make heads or tails out of it."
+msgstr "Креслення невідомого пристрою. Ви нічого в них не розумієте."

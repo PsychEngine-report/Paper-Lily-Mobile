@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "So..."
+msgstr "Yani..."
+
+msgid "What is this place?"
+msgstr "Neresi burası?"
+
+msgid "What do I do about the primals?"
+msgstr "İlkelleri ne yapacağım?"
+
+msgid "How do you know Sai?"
+msgstr "Sai´yi nereden tanıyorsun?"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune.choice.So..."
+msgid "Never mind"
+msgstr "Boşver"
+
+msgid "What exactly is this place?"
+msgstr "Burası tam olarak neyin nesi böyle?"
+
+msgid "Dunno!"
+msgstr "Bilmem！"
+
+msgid "Nobody's been here for hundreds of years though."
+msgstr "Gerçi yüzyıllardır buraya kimse uğramamış."
+
+msgid "Interesting."
+msgstr "İlginç."
+
+msgid "There's... shadowy-looking demons roaming around this place."
+msgstr "Burada... gölge gibi görünen iblisler dolanıyor."
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune.dlg.rune"
+msgid "Indeed!"
+msgstr "Öyle!"
+
+msgid "They are called primals."
+msgstr "Onlara ilkeller deniyor."
+
+msgid "Best not to approach them."
+msgstr "Onlara yaklaşmamak en iyisi."
+
+msgid "Told you so."
+msgstr "Sana söylemiştim."
+
+msgid "You two said you've had several encounters with each other?"
+msgstr "Siz daha önce birçok kez karşılaştığınızı söylemiştiniz sanki?"
+
+msgid "I do a lot of rituals."
+msgstr "Çok fazla rituel yapıyorum."
+
+msgid "A lot of rituals?"
+msgstr "Çok fazla rituel mi？"
+
+msgid "And... you've survived?"
+msgstr "Ve...hayatta kalmayı başardın mı?"
+
+msgid "You almost look disappointed."
+msgstr "Neredeyse düş kırıklığına uğramış gibisin."
+
+msgid "Rune bounces up and down."
+msgstr "Rün aşağı yukarı zıplayıp duruyor."
+
+msgid "By the way..."
+msgstr "Bu arada..."
+
+msgid "The way to go \"deeper\" seems to be flooded."
+msgstr "Daha \"derine\" gideceğimiz yolu su basmışa benziyor."
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_extra.dlg.rune"
+msgid "Indeed!"
+msgstr "Aynen öyle!"
+
+msgid "Do I have to swim...?"
+msgstr "Yüzmem mi gerek...?"
+
+msgid "Do you? I wonder!"
+msgstr "Sence?"
+
+msgid "Sigh..."
+msgstr "Off..."
+
+msgid "Miss Lacie!"
+msgstr "Bayan Lacie!"
+
+msgid "Have you misplaced Mr. Sai?"
+msgstr "Bay Sai´yi kayıp mı ettiniz?"
+
+msgid "Uh..."
+msgstr "Şey..."
+
+msgid "Something like that."
+msgstr "Öyle de denebilir."
+
+msgid "How come?"
+msgstr "Nasıl yani?"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'm just more comfortable being alone."
+msgstr "Sadece tek başımayken daha rahatım."
+
+msgid "Ooh! I feel the same!"
+msgstr "Aaa!　Ben de öyle!"
+
+msgid "Anyway..."
+msgstr "Her neyse..."
+
+msgid "How did I miss the lighthouse?"
+msgstr "Deniz fenerini nasıl kaçırdım?"
+
+msgid "How will you get out of here?"
+msgstr "Buradan nasıl kurtulacaksın?"
+
+msgid "Tell me more about Sai."
+msgstr "Bana Sai´den bahset."
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.choice.Anyway..."
+msgid "Never mind"
+msgstr "Boşver gitsin."
+
+msgid "So... I went north, but somehow I didn't come across the lighthouse."
+msgstr "Şöyle ki...kuzeye doğru yol almama rağmen deniz fenerine denk gelmedim."
+
+msgid "Where did I go wrong?"
+msgstr "Nerede hata yaptım?"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Did you reach the lake?"
+msgstr "Göle ulaştın mı?"
+
+msgid "Yes."
+msgstr "Evet."
+
+msgid "Did you cross the lake?"
+msgstr "Gölü geçtin mi?"
+
+msgid "Yes, I took a boat."
+msgstr "Evet, bota binerek geçtim."
+
+msgid "You should have been able to spot it from there!"
+msgstr "Oradan görebiliyor olman lazım!"
+
+msgid "Oh, I couldn't see much because of the fog, so I just tried to keep rowing in the same direction."
+msgstr "Oh, Sisten dolayı pek bir şey seçilmiyordu, ben de sadece aynı yöne doğru kürek çekmeye çalıştım."
+
+msgid "I must have taken a wrong turn somewhere..."
+msgstr "Bir yerde yanlış yöne dönmüş olmalıyım..."
+
+msgid "That's too bad."
+msgstr "Yazık olmuş."
+
+msgid "If this place is a dead end, how do you intend to leave?"
+msgstr "Eğer burası yolun sonuysa buradan nasıl çıkmayı planlıyorsun?"
+
+msgid "I will stick around here for a bit longer!"
+msgstr "Birazcık daha burada kalmayı planlıyorum!"
+
+msgid "But after that?"
+msgstr "Peki, ya sonra?"
+
+msgid "After that what?"
+msgstr "Ya sonra ne?"
+
+msgid "How do you plan to get out?"
+msgstr "Buradan nasıl çıkmayı planlıyorsun?"
+
+msgid "I don't plan to get out for the moment! I will stick around for a bit longer!"
+msgstr "Şu an anlık planlamıyorum!　Biraz daha burada kalacağım!"
+
+msgid "But..."
+msgstr "Ama..."
+
+msgid "Miss Lacie, I will stick around here for a bit longer!"
+msgstr "Bayan Lacie, biraz daha burada kalmayı planladığımı söyledim!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "I see..."
+msgstr "Anlıyorum..."
+
+msgid "Do you know anything else about Sai? What kind of person is he?"
+msgstr "Sai hakkında ne biliyorsun?　O nasıl biri?"
+
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+msgid "I don't know."
+msgstr "Bilmem."
+
+msgid "He never talks about himself."
+msgstr "Kendisi hakkında pek konuşmaz."
+
+msgid "And he never gives me runes."
+msgstr "Üstelik bana hiç rün getirmez."
+
+msgid "Is he a demon?"
+msgstr "O bir iblis mi?"
+
+msgid "He's not!"
+msgstr "Tabiki de değil!"
+
+msgid "Oh... really?"
+msgstr "Ah...gerçekten mi?"
+
+msgid "Although there is something different about him."
+msgstr "Yine de onda farklı bir şey var."
+
+msgid "Much like you, Miss Lacie, I couldn't tell right away that he's human."
+msgstr "Aynı senin gibi Bayan Lacie! Insan olup olmadığını hemen ayırt edemedim."
+
+msgid "Normally I can smell it from quite far!"
+msgstr "Normalde kokunuzdan hemen anlarım!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "Oh."
+msgstr "Ah."
+
+msgid "Strange."
+msgstr "Tuhaf."
+
+msgid "The way forward is blocked by some sort of door."
+msgstr "İleriye giden yol bir çeşit kapıyla kapatılmış."
+
+msgid "This wasn't here before..."
+msgstr "Bu daha önce burada değildi..."
+
+msgid "(It's dead...?)"
+msgstr "(Ölmüş mü...?)"
+
+msgid "Good riddance."
+msgstr "Ucuz yırttık."
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_ending_13_primals.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Another one..?"
+msgstr "Bir tane daha...?"
+
+msgid "That makes two."
+msgstr "Bu iki eder."
+
+msgid "(What killed it...?)"
+msgstr "(Onu ne öldürmüş...?)"
+
+msgid "Are you sensing a pattern here or is it just me?"
+msgstr "Burada bir benzerlik mi var yoksa sadece bana mı öyle geliyor?"
+
+msgid "(Really... what happened here?)"
+msgstr "(Gerçekten... ne olmuş burada?)"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_ending_13_primals.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "Must be my imagination."
+msgstr "Bana öyle gelmiş olmalı."
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.rune"
+msgid "Ooh!"
+msgstr "Ooh!"
+
+msgid "Miss L-"
+msgstr "Bayan L-"
+
+msgid "Shh!"
+msgstr "Shh!"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "I don't give my name to just anyone, Rune."
+msgstr "Öyle adımı herkese söylemiyorum, Rün."
+
+msgid "Very wise!"
+msgstr "Zekice!"
+
+msgid "What?!"
+msgstr "Ne!?"
+
+msgid "You told this goblin your name but not me?"
+msgstr "Bu cüce cinine adını bahşettin ama bana söylemiyor musun?"
+
+msgid "You're still suspicious."
+msgstr "Sen hala şüphelisin."
+
+msgid "Suspicious?"
+msgstr "Şüpheli mi?"
+
+msgid "What can I even do with your name? This is ridiculous."
+msgstr "İsminle ne yapabilirim ki? Bu çok saçma."
+
+msgid "I read of a curse that can kill someone just by writing their name in a notebook."
+msgstr "İnsanların sadece isimlerini bir deftere yazarak öldürebildiğin bir lanet okumuştum."
+
+msgid "Is that the same place you read about the salt?"
+msgstr "Tuzla ilgili olanı da aynı yerde mi okudun?"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Hello Mr. Sai!"
+msgstr "Merhaba Bay Sai!"
+
+msgid "Yo."
+msgstr "Hey."
+
+msgid "Rune, you know him?"
+msgstr "Rün, onu tanıyor musun?"
+
+msgid "Yes! Though my encounters with Mr. Sai are often brief, as he does not provide me with runes."
+msgstr "Evet! Gerçi Bay Sai ile karşılaşmalarım genellikle kısa sürüyor, zira kendisi bana rün getirmiyor."
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.lacie"
+msgid "Oh."
+msgstr "Oh."
+
+msgid "Give me a break man, it's not like those things are just lying around."
+msgstr "Üzerime gelme, bu şeyler öylece ortalıkta durmuyor. "
+
+msgid "(I guess that's true...)"
+msgstr "(Haksız sayılmaz...)"
+
+msgid "(Well, I did find one...)"
+msgstr "(Aslında, ben bir tane bulmuştum...)"
+
+msgid "(They kind of are, though...)"
+msgstr "(Gerçi biraz öyleler...)"
+
+msgid "How did you get here?"
+msgstr "Buraya nasıl geldin?"
+
+msgid "I walked."
+msgstr "Yürüyerek."
+
+msgid "I see."
+msgstr "Anlıyorum."
+
+msgid "Unfortunately, I'm still looking for the lighthouse."
+msgstr "Maalesef hala deniz fenerini arıyorum."
+
+msgid "Ooh."
+msgstr "Aah."
+
+msgid "The lighthouse isn't here! You must have taken a wrong turn somewhere."
+msgstr "Deniz feneri burada değil ki!　Bir yerde yanlış tarafa dönmüş olmalısın."
+
+msgid "And there's no way to go back outside from here."
+msgstr "Ve buradan dışarıya çıkmanın bir yolu yok."
+
+msgid "What?"
+msgstr "Ne?"
+
+msgid "We're stuck here?"
+msgstr "Burada tıkılı mı kaldık?"
+
+msgid "Possibly. Some doorknobs are one-way only."
+msgstr "Yüksek ihtimalle. Bazı kapı kolları sadece tek yöne açılıyor."
+
+msgid "Rune, do you have any idea where I could go from here to reach the lighthouse?"
+msgstr "Rün, deniz fenerine buradan nasıl ulaşacabileceğim hakkında bir fikrin var mı?"
+
+msgid "The only way forward is by going deeper down."
+msgstr "İlerleyebilmenin tek yönü daha derine gitmek."
+
+msgid "The stairs are right there, in fact!"
+msgstr "Aslına bakarsanız merdivenler de hemen şurada duruyor!"
+
+msgid "That looks like a dead end."
+msgstr "Orası daha çok bir çıkmaza benziyor."
+
+msgid "Yes, death is highly probable at all times!"
+msgstr "Evet, ölüm her zaman yüksek bir ihtimaldir!"
+
+msgid "But, I heard there's a cursed door down there somewhere."
+msgstr "Fakat, ileride bir yerlerde lanetli bir kapı olduğunu duymuştum."
+
+msgid "If you're lucky, it might lead you somewhere!"
+msgstr "Eğer şanslıysanız sizi bir yerlere ulaştırabilir."
+
+msgid "Or if you're unlucky, it might not!"
+msgstr "Ya da şanssızsanız, olmayabilir de!"
+
+msgid "(Another cursed door huh...)"
+msgstr "(Başka bir lanetli kapı daha...)"
+
+msgid "(If there's a cursed door, then maybe there's a way out of here.)"
+msgstr "(Eğer lanetli bir kapı varsa belki de bir çıkış yolu da vardır.)"
+
+msgid "(Or at the very least, I could still go home if I'm stuck.)"
+msgstr "(Ya da en azından mahsur kalırsam hala eve gidebilirim.)"
+
+msgid "(I have the doorknob, after all.)"
+msgstr "(Sonuçta kapı kolu hala bende.)"
+
+msgid "(That doorknob... When I got it in the mail, it came with instructions. Almost like a ritual.)"
+msgstr "(Şu kapı kolu...Postayla geldiğinde yanında talimatlar da vardı. Aynı bir rituele benzeyen.)"
+
+msgid "(It involved folding my ritual letter into an origami lily, and placing it in some vase.)"
+msgstr "(Rituel talimatlarının yazdığı kağıdı bir zambak gibi katlayıp vazonun içerisine koymam gerektiği yazıyordu.)"
+
+msgid "(I thought it was a joke, but...)"
+msgstr "(Sadece bir şaka olduğunu düşünmüştüm...)"
+
+msgid "\"It's imperative that you learn how to fold it, if you don't, you'll regret it.\""
+msgstr "\"Nasıl yapacağını öğrenmen elzemdir, yoksa pişman olursun.\""
+
+msgid "(Anyways, I brought the folding instructions with me, just in case.)"
+msgstr "(Nolur ne olmaz diye talimatları yanımda getirmiştim zaten.)"
+
+msgid "Yo, you there? You're spacing out."
+msgstr "Hey, dünyadan sana.　Hala burada mısn?"
+
+msgid "Ah... yeah."
+msgstr "Ah...evet."
+
+msgid "Good luck on your quest!"
+msgstr "Görevinizde başarılar!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_give_rune.dlg.rune"
+msgid "Ooh!"
+msgstr "Ooh!"
+
+msgid "I have just the thing for you!"
+msgstr "Elimde tam da sana göre bir şeyim var!"
+
+msgid "It's a map!"
+msgstr "Bir harita!"
+
+msgid "A map...?"
+msgstr "Harita mı...?"
+
+msgid "Let's see, here you go!"
+msgstr "Bir bakalım, işte burada!"
+
+msgid "I love runes!"
+msgstr "Rünlere bayılırım!"
+
+msgid "Yay! Today is my lucky day!"
+msgstr "Yaşasın! Bugün şanslı günüm!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.sai"
+msgid "Oh."
+msgstr "Oh."
+
+msgid "Are we doing my idea?!"
+msgstr "Benim fikrimi mi yapıyoruz?!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.lacie"
+msgid "No."
+msgstr "Hayır."
+
+msgid "But it might work!"
+msgstr "Ama işe yarayabilir!"
+
+msgid "We just have to pick up water from here and empty it somewhere."
+msgstr "Tek yapmamız gereken suyu burada alıp başka bir yere boşaltmak."
+
+msgid "And just repeat that a couple of times."
+msgstr "Sadece biraz tekrara ihtiyacı var."
+
+msgid "Or, a lot of times."
+msgstr "Ya da bir sürü tekrara."
+
+msgid "Right?"
+msgstr "Değil mi?"
+
+msgid "We just need, like..."
+msgstr "Şeye ihtiyacımız var..."
+
+msgid "A bathtub or a sink or something."
+msgstr "Bir küvet, musluk ya da onun gibi bir şey."
+
+msgid "Eventually, the water level will be lower."
+msgstr "Eninde sonunda su seviyesi düşecektir."
+
+msgid "This is ridiculous."
+msgstr "Bu çok saçma."
+
+msgid "Here, I can carry that for you."
+msgstr "İstersen ben taşıyabilirim."
+
+msgid "I can do it."
+msgstr "Ben yaparım."
+
+msgid "Alriiight."
+msgstr "Tamaaaam."
+
+msgid "What are you doing?"
+msgstr "Ne yapıyorsunuz?"
+
+msgid "Nothing."
+msgstr "Hiç."
+
+msgid "We're lowering the water level."
+msgstr "Su seviyesi düşürmeye çalışıyoruz."
+
+msgid "Oooh..."
+msgstr "Oooh..."
+
+msgid "This looks highly inefficient!"
+msgstr "Bu oldukça verimsiz görünüyor!"
+
+msgid "Yeah, well, why don't you help then?"
+msgstr "O zaman neden bize yardım etmiyorsun?"
+
+msgid "It'll go faster."
+msgstr "Hem daha hızlı hallolur."
+
+msgid "That's okay!"
+msgstr "Yok kalsın!"
+
+msgid "I'm satisfied over here."
+msgstr "Burada halimden oldukça memnunum."
+
+msgid "Hey!"
+msgstr "Hey!"
+
+msgid "I think the water level already went down a bit!"
+msgstr "Sanırım su seviyesi biraz azaldı bile."
+
+msgid "(It hasn't moved at all...)"
+msgstr "(Gram hareket etmedi...)"
+
+msgid "Oh, you can keep it!"
+msgstr "Oh, sen de kalabilir!"
+
+msgid "Rune doesn't need it back."
+msgstr "Rün'nun ona tekrar ihtiyacı yok."
+
+msgid "A cursed artifact from the depths, best left forgotten."
+msgstr "Derinlerden gelen lanetli bir obje, unutulması en iyisi."
+
+msgid "Please, I don't want to see this thing ever again."
+msgstr "Lütfen, şu şeyi bir daha görmek istemiyorum."
+
+msgid "It's a button. It probably controls the gate."
+msgstr "Bir düğme. Büyük ihtimalle kapıyı kontrol ediyor."
+
+msgid "Press the button?"
+msgstr "Düğmeye basacak mısın?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Nothing happens."
+msgstr "Hiçbir şey olmadı."
+
+msgid "A large gate blocks your path."
+msgstr "Büyük bir kapı yolunu engelliyor."
+
+msgid "A crow standing on a white tree stump."
+msgstr "Beyaz ağaç kökünün üzerinde bir karga duruyor."
+
+msgid "I can't tell if it's the same one... but I'm glad to see it."
+msgstr "Daha önce gördüğümün aynısı mı bilmiyorum ama...onu gördüğüme sevindim."
+
+msgid "Are you friends with the crows?"
+msgstr "Kargalarla dost musun?"
+
+msgid "Sorta. They appear here and there like save points."
+msgstr "Öyle de denebilir. Sağda solda kayıt noktaları gibi karşıma çıkıyorlar."
+
+msgid "?????"
+msgstr "?????"
+
+msgid "The crow isn't here right now."
+msgstr "Karga artık burada değil."
+
+msgid "A tree that seems to be growing out of the concrete floor."
+msgstr "Beton zeminden büyüyor gibi görünen bir ağaç."
+
+msgid "(Unusual place for a tree.)"
+msgstr "(Ağaç için tuhaf bir yer.)"
+
+msgid "The path forward is flooded."
+msgstr "İlerdeki yolu su basmış."
+
+msgid "(Deeper down... do we have to go this way?)"
+msgstr "(Daha derine gitmek için...sadece buradan mı gidebiliriz?)"
+
+msgid "(That's impossible... does Rune expect us to swim?)"
+msgstr "(Bu imkansız...Rün yüzmemizi falan mı bekliyor?)"
+
+msgid "Hear me out."
+msgstr "Bir fikrim var."
+
+msgid "What if we took all this water..."
+msgstr "Eğer biz tüm bu suyu alıp..."
+
+msgid "And put it somewhere else?"
+msgstr "Başka bir yere koysak?"
+
+msgctxt "events.Ch1_Facility_Main_Hall.misc_water.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Do you have a screw loose?"
+msgstr "Kafanda eksik bir tahta falan mı var?"
+
+msgid "Look, I know it sounds crazy!"
+msgstr "Kulağa çılgınca geldiğinin farkındayım!"
+
+msgid "And we'd need a bucket..."
+msgstr "Ve bir kovaya ihtiyacımız olacak..."
+
+msgid "It's impossible."
+msgstr "İmkansız."
+
+msgid "And it would take a lot of trips..."
+msgstr "Ayrıca çok fazla git gel yapmamız gerekecek..."
+
+msgid "I can't believe I'm hearing this."
+msgstr "Bunu söylediğine inanamıyorum."
+
+msgid "(But maybe... we can lower the water level somehow?)"
+msgstr "(Ama belki de...su seviyesini başka şekilde düşürebiliriz?)"
+
+msgctxt "events.Ch1_Facility_Main_Hall.move_door_tl.dlg.narrator"
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Ch1_Facility_Main_Hall.move_door_tr.dlg.narrator"
+msgid "It's locked."
+msgstr "Kilitli."

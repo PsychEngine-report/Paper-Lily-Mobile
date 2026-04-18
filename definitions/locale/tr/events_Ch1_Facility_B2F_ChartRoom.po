@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "We could use it to get out of this room."
+msgstr "Bunu buradan çıkmak için kullanabiliriz."
+
+msgid "I could use this to get out of this room."
+msgstr "Bunu bu odadan çıkmak için kullanabilirim."
+
+msgid "Place plank outside?"
+msgstr "Tahta parçasını dışarı koyacak mısın?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "It's done."
+msgstr "Bitti."
+
+msgid "The vent cover."
+msgstr "Havalandırma kapağı."
+
+msgid "It's not large enough to cross the hole outside."
+msgstr "Dışarıdaki deliği geçebilecek kadar büyük değil."
+
+msgid "Sketches of maps are displayed on the wall."
+msgstr "Harita eskizleri duvarda sergileniyor."
+
+msgid "Sketches of maps are laying on the ground."
+msgstr "Harita eskizleri yerde duruyor."
+
+msgid "There's a large plank on the floor."
+msgstr "Yerde büyük bir tahta parçası var."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "Küçük ekranlardan oluşan büyük bir ekran."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "Ekranlar bir yerdeki güvenlik kameralarını gösteriyor gibi görünüyor."
+
+msgid "Looks like... hallways? With lots of doors."
+msgstr "Şey gibi görünüyor... koridorlar? Bir sürü kapı dolu."
+
+msgid "Who comes up with this shit?"
+msgstr "Kim bu saçmalıkları kimin aklına geliyor?"
+
+msgid "There's blood too..."
+msgstr "Kan da var..."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "Küçük ekranlardan oluşan büyük bir ekran."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "Ekranlar bir yerdeki güvenlik kameralarını gösteriyor gibi görünüyor."
+
+msgid "Are those... sticky notes taped to the cameras?"
+msgstr "Şunlar... Kameralara yapıştırılmış postitler mi?"
+
+msgid "Someone didn't want to be spied on."
+msgstr "Birisi gözetlenmek istememiş."
+
+msgid "Understandable."
+msgstr "Anlaşılabilir."
+
+msgid "Scrolls containing technical drawings of different locations."
+msgstr "Farklı mekanların teknik çizimlerini içeren parşömenler."
+
+msgid "What's that?"
+msgstr "O ne?"
+
+msgid "I don't know."
+msgstr "Bilmiyorum."
+
+msgid "It looks like it's just hallways."
+msgstr "Sadece koridor var gibi görünüyor."
+
+msgid "But it's laid out like a labyrinth, and some rooms overlap each other."
+msgstr "Ama labirent gibi düzenlenmiş ve bazı odalar birbiriyle çakışıyor."
+
+msgid "This map doesn't make any sense."
+msgstr "Bu harita çok anlamsız."
+
+msgid "A trashcan. It's full of neatly crumpled papers."
+msgstr "Bir çöp kutusu. Yeni buruşturulup atılmş kağıtlarla dolu."
+
+msgid "..."
+msgstr "..."
+
+msgid "I see."
+msgstr "Görüyorum."
+
+msgid "It's too far to jump."
+msgstr "Zıplamak için çok yüksek."
+
+msgid "It's too high to reach."
+msgstr "Ulaşmak için çok yüksek."

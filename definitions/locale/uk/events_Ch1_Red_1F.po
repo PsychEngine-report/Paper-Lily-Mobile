@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "Я не хочу з цим вештатись..."
+
+msgid "(Discarded ingredients)."
+msgstr "(Ви повернули інгредієнти на місця.)"
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "У мене не вистачає інгредієнтів..."
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "Мені бракує \"Натхнення митця\"..."
+
+msgid "Could it be Kett's flowers?"
+msgstr "Хіба це не квітки Кетта?"
+
+msgid "What in the world is that?"
+msgstr "Що це в біса таке?"
+
+msgid "(You don't know what to do with this...)"
+msgstr "(Ви не знаєте, що з цим робити...)"
+
+msgid "You can't cut through that with scissors."
+msgstr "Ножицями це не прорізати."
+
+msgid "Some books about cursed trees."
+msgstr "Книжки про прокляті дерева."
+
+msgid "Read a passage?"
+msgstr "Прочитати трохи?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "\"Попри свої, як правило, невеликі розміри, прокляті дерева мають звичку зариватися своїм корінням на глибину до 60-ти метрів."
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "Їхнє коріння проростає навіть глибше. Поки невідомо, наскільки глибоким воно має бути перед тим, як зупинить свій ріст.\""
+
+msgid "Four small blue butterflies on display."
+msgstr "Чотири маленькі блакитні метелики."
+
+msgid "They're somewhat mesmerizing."
+msgstr "Вони трохи зачаровують."
+
+msgid "A large blue butterfly on display."
+msgstr "Великий блакитний метелик."
+
+msgid "It's kind of mesmerizing..."
+msgstr "Він досить сильно зачаровує..."
+
+msgid "A small blue butterfly on display."
+msgstr "Маленький блакитний метелик."
+
+msgid "It's not as mesmerizing."
+msgstr "Він зовсім не зачаровує."
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "Простий набір хіміка, в якому можна змішувати суміші."
+
+msgid "Some bottles and other containers."
+msgstr "Склянки та інші місткості."
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "Книга з поглибленим вивченням різноманітних матеріалів."
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "У шухлядці також лежить адаптер змінного струму."
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "Взяти предмет: ${item:ch1.forest_adapter}?"
+
+msgid "Some notes on curse removal rituals."
+msgstr "Записи ритуалу зі зняття проклять."
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "Взяти предмет: ${item:ch1.red_notes}?"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "(Чи стане це в пригоді?..)"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "Порожній стіл, з якого ви поцупили записи."
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "Червона лялька. Її очі намальовані."
+
+msgid "I know this."
+msgstr "Я знаю, що це таке."
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "Такі ляльки допомагають досягати власних цілей."
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "Загадавши бажання, треба намалювати ляльці око, а вона допоможе його здійснити."
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "А коли ціль буде досягнута, треба замалювати друге око..."
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "...іншими словами, треба подарувати ляльці зір у знак подяки."
+
+msgid "..."
+msgstr "..."
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "Хіро про таке часто читає."
+
+msgid "I wonder what this person's wish was."
+msgstr "Цікаво, що загадав власник цієї ляльки?"
+
+msgid "Some books about butterflies."
+msgstr "Книжки про метеликів."
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "\"Після кожного знятого прокляття з'являється блакитний метелик."
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "Їх приваблюють прокляті дерева. Вони зариваються в їхній стовбур, з часом роблячи його повністю порожніми."
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "Причини цієї поведінки залишаються невідомими.\""
+
+msgid "A furnace."
+msgstr "Піч."
+
+msgid "Inside is a... thing."
+msgstr "Усередині лежить... щось."
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "Це... мистецтво? Схоже на якийсь каркас чи скульптуру."
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "Можливо, можна віддати це Козмо. Хоча він може мене зненавидіти."
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "Взяти предмет: ${item:ch1.red_pot}?"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "Незавершені записи зі зняття проклять."
+
+msgid "I don't really understand any of this."
+msgstr "Я нічого в цьому не кумекаю."
+
+msgid "A small plant."
+msgstr "Невелика рослина."
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "Листя неначе зав'язане в бантик."
+
+msgid "A plant that looks like a bow."
+msgstr "Рослина, що схожа на бантик."
+
+msgid "Some purple mushrooms are growing here."
+msgstr "Тут ростуть фіолетові гриби."
+
+msgid "Some black mushrooms are growing here."
+msgstr "Тут ростуть чорні гриби."
+
+msgid "Some pink plants are growing here."
+msgstr "Тут ростуть рожеві гриби."
+
+msgid "The carpet here seems suspicious."
+msgstr "Килим тут якийсь підозрілий."
+
+msgid "Take a closer look?"
+msgstr "Поглянути ближче?"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "Тут є драбина, але вхід зачинений на замок."
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "На полиці лежать приладдя для саду."
+
+msgid "A tree filled with blue butterflies."
+msgstr "Дерево з купою блакитних метеликів."
+
+msgid "Thin vertical windows."
+msgstr "Тонкі вертикальні вікна."

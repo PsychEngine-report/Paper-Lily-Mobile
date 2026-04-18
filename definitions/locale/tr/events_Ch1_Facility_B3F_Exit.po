@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Ah... here it is."
+msgstr "İşte burada."
+
+msgid "I suppose these cursed doors must be fairly common."
+msgstr "Sanırım bu lanetli kapılar oldukça yaygın olmalı."
+
+msgid "Not that common. And they kinda suck."
+msgstr "O kadar yaygın değil. Ve biraz berbatlar."
+
+msgid "Sometimes you get stuck with no way to go back."
+msgstr "Bazen geri dönme şansın olmadığında takılıp kalırsın."
+
+msgid "I see."
+msgstr "Anlıyorum."
+
+msgid "So it's a dead end after all."
+msgstr "Yani sonuçta bu bir çıkmaz sokak."
+
+msgid "Since there's no doorknobs here..."
+msgstr "Burada kapı kolu olmadığına göre..."
+
+msgid "Looks like it."
+msgstr "Öyle görünüyor."
+
+msgid "An empty slot."
+msgstr "Boş bir yer?"
+
+msgid "Place a doorknob?"
+msgstr "Kapı tokmağını yerleştir?"
+
+msgid "Gray Doorknob"
+msgstr "Gri Kapı Tokmağı"
+
+msgid "White Doorknob"
+msgstr "Beyaz Kapı Tokmağı"
+
+msgid "Return Doorknob"
+msgstr "Dönüş Kapı Tokmağı"
+
+msgid "Do not"
+msgstr "Yapma"
+
+msgid "I guess it's finally time to use this."
+msgstr "Sanırım sonunda bunu kullanmanın zamanı geldi."

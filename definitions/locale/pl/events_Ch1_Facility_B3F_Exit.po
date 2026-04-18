@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Ah... here it is."
+msgstr "Ach... tutaj są."
+
+msgid "I suppose these cursed doors must be fairly common."
+msgstr "Przypuszczam, że te przeklęte drzwi muszą być dość powszechne."
+
+msgid "Not that common. And they kinda suck."
+msgstr "Nie aż tak bardzo. I są trochę do bani."
+
+msgid "Sometimes you get stuck with no way to go back."
+msgstr "Czasami utkniesz bez możliwości powrotu."
+
+msgid "I see."
+msgstr "Rozumiem."
+
+msgid "So it's a dead end after all."
+msgstr "Więc to jednak ślepy zaułek."
+
+msgid "Since there's no doorknobs here..."
+msgstr "Skoro nie ma tu klamek..."
+
+msgid "Looks like it."
+msgstr "Na to wygląda."
+
+msgid "An empty slot."
+msgstr "Puste miejsce."
+
+msgid "Place a doorknob?"
+msgstr "Umieścić klamkę w drzwiach?"
+
+msgid "Gray Doorknob"
+msgstr "Szarą klamkę"
+
+msgid "White Doorknob"
+msgstr "Białą klamkę"
+
+msgid "Return Doorknob"
+msgstr "Klamkę Powrotu"
+
+msgid "Do not"
+msgstr "Nie wkładaj"
+
+msgid "I guess it's finally time to use this."
+msgstr "Chyba w końcu nadszedł czas, by tego użyć."

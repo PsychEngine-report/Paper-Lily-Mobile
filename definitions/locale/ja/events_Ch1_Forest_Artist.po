@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "These flowers seem to belong here... but..."
+msgstr "この花はここに合いそうだけど……でも……"
+
+msgid "It would serve no purpose to plant them."
+msgstr "植えても何にもならない。"
+
+msgid "That would be terrible."
+msgstr "それはひどい。"
+
+msgid "A large pile of rubble."
+msgstr "大きながれきの山。"
+
+msgid "What is this material? Clay?"
+msgstr "何で出来てるんだろう？　粘土？"
+
+msgid "There's nothing else of interest."
+msgstr "他に興味を惹くものはない。"
+
+msgid "Seems like someone has dug here recently."
+msgstr "誰かが最近ここを掘り返したらしい。"
+
+msgid "Check it out?"
+msgstr "調べてみる？"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowerbed.choice.Check it out?"
+msgid "Yes"
+msgstr "調べる"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowerbed.choice.Check it out?"
+msgid "No"
+msgstr "調べない"
+
+msgid "A set of colorful flowers."
+msgstr "色とりどりの花が並んでいる。"
+
+msgid "A cactus among a set of colorful flowers."
+msgstr "色とりどりの花に混じって、サボテンがひとつある。"
+
+msgid "There seems to be something hidden inside the pot."
+msgstr "鉢の中に何か隠してあるみたい。"
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "${item:ch1.forest_lockedsite_key} を取る？"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowers_cactus.choice.Take ${item:ch1.forest_lockedsite_key}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowers_cactus.choice.Take ${item:ch1.forest_lockedsite_key}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(この鍵は必要ないので、捨てた。)"
+
+msgid "There's also a note under the pot."
+msgstr "鉢の下にメモもあった。"
+
+msgid "An artistic pot."
+msgstr "芸術的な壺。"
+
+msgid "This could work for Kozmo."
+msgstr "これはコズモに使えるかも。"
+
+msgid "Take ${item:ch1.forest_pot}?"
+msgstr "${item:ch1.forest_pot} を取る？"
+
+msgctxt "events.Ch1_Forest_Artist.misc_pot.choice.Take ${item:ch1.forest_pot}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Artist.misc_pot.choice.Take ${item:ch1.forest_pot}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "A strange looking... vase? In the shape of a... hand?"
+msgstr "奇妙な見た目の……花瓶？　モチーフは……手？"
+
+msgid "A pile of rubble."
+msgstr "がれきの山。"

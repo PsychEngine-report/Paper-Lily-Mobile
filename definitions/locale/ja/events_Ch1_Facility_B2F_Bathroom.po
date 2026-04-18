@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Huh... A bathroom?)"
+msgstr "(んん……トイレ？)"
+
+msgid "Um... excuse me."
+msgstr "その……ごめん。"
+
+msgid "Could you wait outside?"
+msgstr "外で待っててくれる？"
+
+msgid "Wha-? Oh. Of course."
+msgstr "な――？　ああ。そうだな。"
+
+msgid "I- ...I guess I'll stay out there."
+msgstr "俺は――　……外で待ってるよ。"
+
+msgid "Scream if you need me."
+msgstr "俺が必要になったら叫んでくれ。"
+
+msgid "...I won't."
+msgstr "……ならないよ。"
+
+msgid "(Now I get to have some time away from that guy.)"
+msgstr "(これで少し1人になれる。)"
+
+msgid "(Is it really safe to have him around?)"
+msgstr "(あの人と一緒にいて本当に安全なのかな？)"
+
+msgid "(A bathroom?)"
+msgstr "(トイレ？)"
+
+msgid "(I hope that guy won't find me here.)"
+msgstr "(ここならあの人に見つからないかな。)"
+
+msgid "(I don't really trust him... Hopefully he's not searching for me...)"
+msgstr "(あの人は信用しきれない……探されてないといいけど……)"
+
+msgid "(Hiro would tell me to have a bit of faith in others, but...)"
+msgstr "(ヒロなら、少しは他人を信用しろって言うだろうけど……)"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(I wonder if I could ask Hiro.)"
+msgstr "(ヒロに訊けるかな。)"
+
+msgid "(Is it even possible to call from here?)"
+msgstr "(そもそも、ここから電話はつながるのかな？)"
+
+msgid "(I still have no signal... but... that didn't matter last time.)"
+msgstr "(やっぱり電波は入ってない……でも……前回はそれでもつながった。)"
+
+msgid "Oh... I'm out of battery."
+msgstr "あぁ……充電が切れてる。"
+
+msgid "That's not good... I suppose using it as a flashlight killed it."
+msgstr "ダメだ……ライトに使ったせいで切れちゃったみたい。"
+
+msgid "...Oh well."
+msgstr "……まあいいか。"
+
+msgid "I'll give it a try."
+msgstr "試してみよう。"
+
+msgid "Lace!"
+msgstr "レイス！"
+
+msgid "Oh good..."
+msgstr "ああ……"
+
+msgid "Thank goodness I can reach you, Hiro..."
+msgstr "つながってよかった、ヒロ……"
+
+msgid "Are you alright!?"
+msgstr "大丈夫かい!?"
+
+msgid "What happened!?"
+msgstr "何があったんだい!?"
+
+msgid "Are you safe!?"
+msgstr "無事なのかい!?"
+
+msgid "Yes, I'm okay."
+msgstr "うん、大丈夫。"
+
+msgid "(Though I did fall down the stairs and wake up in some sort of dungeon...)"
+msgstr "(まあ、階段を落ちて、目が覚めたら牢屋みたいなところにいたけど……)"
+
+msgid "(and there's a strange guy following me everywhere...)"
+msgstr "(あと、変な男の人に付きまとわれてるけど……)"
+
+msgid "(...and there was a strange guy following me everywhere...)"
+msgstr "(……あと、変な男の人に付きまとわれてたけど……)"
+
+msgid "(...and Rune said there's no way out.)"
+msgstr "(……それに、ここから出る方法はないってルーンが言ってたけど。)"
+
+msgid "Everything is okay, don't worry."
+msgstr "何もかもうまくいってるから、心配しないで。"
+
+msgid "Thank god."
+msgstr "よかった。"
+
+msgid "Is everything alright? Why are you whispering?"
+msgstr "何もかも平気なの？　どうして小声なんだい？"
+
+msgid "Because there's someone right outside, and..."
+msgstr "外に人がいるから、それで……"
+
+msgid "Because someone might be looking for me."
+msgstr "私を探してる人がいるかもしれないから。"
+
+msgid "An enemy!?"
+msgstr "敵かい!?"
+
+msgid "No, well... he says he's not."
+msgstr "いや、まぁ……本人は違うって言ってる。"
+
+msgid "And now he's following me around."
+msgstr "で、今は私についてきてる。"
+
+msgid "You made a friend!?"
+msgstr "友達ができたの!?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "No."
+msgstr "ううん。"
+
+msgid "I don't really trust him."
+msgstr "あんまり信用できないの。"
+
+msgid "But maybe it's better to have company! He might be willing to tag along and help!"
+msgstr "でも、仲間がいるほうがいいかもしれないよ！　一緒に来てくれて、助けになってくれるかも！"
+
+msgid "But... that's why it's strange."
+msgstr "でも……そこが変なの。"
+
+msgid "Why is he willing to tag along?"
+msgstr "どうして付いてきたがるんだと思う？"
+
+msgid "...You know how people act around me, Hiro..."
+msgstr "……私の周りの人がどんな風になるかは知ってるでしょ、ヒロ……"
+
+msgid "And he's just acting...like nothing is wrong with me."
+msgstr "なのにあの人は……何の問題もなさそうにしてる。"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.hiro"
+msgid "Hmmm..."
+msgstr "うーん……"
+
+msgid "You sound conflicted."
+msgstr "複雑そうだね。"
+
+msgid "Well... I don't really care, I just..."
+msgstr "いや……別にどうでもいいの、ただ……"
+
+msgid "He's just shady."
+msgstr "怪しいってだけ。"
+
+msgid "Well, tell you what. It's your choice."
+msgstr "じゃあ、これならどうかな。レイスが選んで。"
+
+msgid "You can have him tag along and see how it plays out..."
+msgstr "このまま付いてこさせて、どうなるか見てみるか……"
+
+msgid "...or you can ditch him."
+msgstr "……もしくは、どこかで置き去りにするか。"
+
+msgid "No, well... he said he's not."
+msgstr "いや、その……本人は違うって言ってた。"
+
+msgid "But... it doesn't matter. I already got rid of him."
+msgstr "でも……どうでもいい。もう厄介払いしたから。"
+
+msgid "Well, I can't condone murder but..."
+msgstr "殺人は見逃せないけど……"
+
+msgid "No! Not like that! Hiro!"
+msgstr "違う！　そういうのじゃないの！　ヒロ！"
+
+msgid "He's still somewhere around... I just slipped away for a bit."
+msgstr "まだ生きてて、近くにいる……ただ、ちょっとこっそり逃げてきただけ。"
+
+msgid "Well, tell you what."
+msgstr "じゃあ、こういうのはどうかな。"
+
+msgid "Next time he finds you, you could try locking him up somewhere."
+msgstr "今度その人に見つかったら、その人をどこかに閉じ込めてみるといい。"
+
+msgid "Huh... it's not like you to suggest something like that."
+msgstr "あれ……そんなこと言うなんて、ヒロらしくないね。"
+
+msgid "Well, I personally think you should have a bit of faith in him! But it's up to you."
+msgstr "まあ、個人的には、その人を少しは信じるべきだと思うよ！でも、決めるのはレイスだから。"
+
+msgid "Well, I personally think you could go back and apologize."
+msgstr "まあ、個人的には、戻って謝るべきだと思うよ。"
+
+msgid "Nothing wrong with making a friend, right? Still, it's up to you."
+msgstr "友達を作って悪いことはないでしょ？　でも、決めるのはレイスだから。"
+
+msgid "(Yeah... that's more like it.)"
+msgstr "(うん……このほうがヒロらしい。)"
+
+msgid "I should go."
+msgstr "もう切らないと。"
+
+msgid "Be careful, Lace."
+msgstr "気をつけてね、レイス。"
+
+msgid "Get back home safely."
+msgstr "無事に家まで帰ってきてね。"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "Yeah."
+msgstr "うん。"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.sai"
+msgid "..."
+msgstr "……"
+
+msgid "I can't believe I'm entertaining this idea."
+msgstr "このアイデアを受け入れてる自分が信じられない。"
+
+msgid "This is the stupidest thing I've ever done."
+msgstr "聞いたことないほどバカな案なのに。"
+
+msgid "Just a few more trips!"
+msgstr "あと数往復さ！"
+
+msgid "This'll work, you'll see."
+msgstr "きっとうまくいくぜ。"
+
+msgid "There's no way."
+msgstr "絶対ない。"
+
+msgid "At least this is a good workout."
+msgstr "少なくとも、いい運動になるだろ。"
+
+msgid "(I'm not fit enough for this...)"
+msgstr "(私にはそんな体力ない……)"
+
+msgid "Sigh... What makes you think the drain isn't connected to the water we're removing..."
+msgstr "はあ……なんでこの排水口が、向こうの水とつながってないと思うの……"
+
+msgid "Hm... I don't know."
+msgstr "うーん……わからん。"
+
+msgid "Well, too late to consider that now."
+msgstr "まあ、今更考えても遅いだろ。"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(What possessed me to agree to this?)"
+msgstr "(これに賛成するなんて、私は何に取り憑かれてたんだろう？)"
+
+msgid "We're really bonding over this, don't you think?"
+msgstr "ホント、この作業で絆が深まってると思わないか？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "....."
+msgstr "………"
+
+msgid "One Eternity Later..."
+msgstr "永遠の時が過ぎ……"
+
+msgid "You actually did it."
+msgstr "本当にやり切ったんですね。"
+
+msgid "Congratulations!"
+msgstr "おめでとうございます！"
+
+msgid "This is nothing. Just wait until you hear my other ideas."
+msgstr "何てことないさ。他のアイデアもお楽しみに。"
+
+msgid "I very much look forward to it!"
+msgstr "たいへん楽しみにしております！"
+
+msgid "Will she be okay?"
+msgstr "彼女は大丈夫ですか？"
+
+msgid "She'll be fine."
+msgstr "そのうちよくなるさ。"
+
+msgid "See? She's still breathing."
+msgstr "ほらな？　まだ息してるだろ。"
+
+msgid "Um... will you be okay?"
+msgstr "うーん……大丈夫か？"
+
+msgid "Nice! You're sturdy, aren't you?"
+msgstr "よし！　けっこう丈夫じゃないか。"
+
+msgid "You ready to go?"
+msgstr "もう行けるか？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "Yeah."
+msgstr "うん。"
+
+msgid "A mop. It looks like it's never been used."
+msgstr "モップ。一度も使われていないようだ。"
+
+msgid "Everything here has been gathering dust for a really long time."
+msgstr "ここにあるものは皆、ずいぶん長い間ほこりをかぶってるみたい。"
+
+msgid "There's something on this shelf."
+msgstr "棚の上に何かある。"
+
+msgid "There's nothing else of use."
+msgstr "他に使えるものはない。"
+
+msgid "A rusted sink."
+msgstr "錆びついたシンク。"
+
+msgid "A bathroom stall. It's occupied."
+msgstr "トイレの個室。使用中だ。"
+
+msgid "Try to open it anyways?"
+msgstr "構わず開ける？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "Yes"
+msgstr "開けてみる"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "Something shiny can be seen at the bottom of the toilet bowl."
+msgstr "便器の底に何か光るものが見える。"
+
+msgid "Fish it out?"
+msgstr "釣り上げる？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "Yes"
+msgstr "釣り上げる"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "A small hand towel."
+msgstr "小さなハンドタオル。"
+
+msgid "That took a million years."
+msgstr "百万年は経ったぜ。"
+
+msgid "Were you talking to someone in there?"
+msgstr "誰かと話してなかったか？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "No."
+msgstr "ううん。"
+
+msgid "(Did he overhear anything...?)"
+msgstr "(何か聞かれたかな……？)"
+
+msgid "It kinda sounded like it."
+msgstr "そんな音がした気がしたんだが。"
+
+msgid "I wasn't."
+msgstr "してない。"
+
+msgid "Oh."
+msgstr "そうか。"
+
+msgid "It's cool, I talk to myself sometimes too."
+msgstr "まあいいさ、ひとりごとなら俺も時々言うしな。"
+
+msgid "Like having a little narrator, right?"
+msgstr "ちょっとしたナレーターがいるみたいな感じでさ。な？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "....."
+msgstr "……"
+
+msgid "Find anything cool?"
+msgstr "何かいいものはあったか？"
+
+msgid "Nope."
+msgstr "ううん。"
+
+msgid "...Where did you get that?"
+msgstr "……それ、どこにあったの？"
+
+msgid "The lollipop? I had 'em with me."
+msgstr "ロリポップか？　持ち歩いてるんだ。"
+
+msgid "Want some?"
+msgstr "ひとつ要るか？"
+
+msgid "I don't accept candy from strangers."
+msgstr "知らない人からお菓子はもらわないようにしてるの。"
+
+msgid "(Sai joined your party.)"
+msgstr "(サイがパーティに加わった。)"

@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Khóa đã mở rồi."
+
+msgid "...but there's nothing inside."
+msgstr "...song bên trong chả cất gì cả."
+
+msgid "There's some schematics for some sort of machine you don't really understand."
+msgstr "Có vài tấm lược đồ của cái máy móc nào đó mà bạn nhìn chả hiểu gì lắm."
+
+msgid "What's that?"
+msgstr "Đó là cái gì?"
+
+msgid "Not a clue... but I'm taking it."
+msgstr "Bó tay... nhưng mà tao cầm đi thôi."
+
+msgid "There's some official-looking documents here."
+msgstr "Ở đây có mấy giấy tờ trông như là công văn."
+
+msgid "Read them?"
+msgstr "Đọc chứ?"
+
+msgid "Yes"
+msgstr "Đọc"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "${img:stamp_council} MEETING 176 NOTES"
+msgstr "${img:stamp_council} BIÊN BẢN CUỘC HỌP 176"
+
+msgid "\"...disagreements on the distribution of the....\""
+msgstr "\"...bất nhất trí về sự phân bố của...\""
+
+msgid "\"...is still not participating in our...\""
+msgstr "\"...thì vẫn chưa tham gia vào... của chúng ta...\""
+
+msgid "\"...the secondary duty of guardians...\""
+msgstr "\"...trách vụ thứ yếu của người hộ vệ...\""
+
+msgid "\"...collection of stones from every...\""
+msgstr "\"...thu thập thạch đá từ tất thảy....\""
+
+msgid "The document continues making little sense for several pages."
+msgstr "Nội dung nối tiếp suốt mấy trang hầu như chả ra cái nghĩa gì hết."
+
+msgctxt "events.Prologue_Ending_K7_2.event_read_documents.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "What the hell am I reading?"
+msgstr "Mình đang đọc cái quái gì đây?"
+
+msgid "There's nothing else of interest."
+msgstr "Chẳng có thứ gì khác hấp dẫn."
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Kẹp tóc không khít với khóa này."
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_0.dlg.narrator"
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_1.dlg.narrator"
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_2.dlg.narrator"
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_3.dlg.narrator"
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_4.dlg.narrator"
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgctxt "events.Prologue_Ending_K7_2.item_locker_key_on_locker_5.dlg.narrator"
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgid "They're already open."
+msgstr "Đã mở rồi."
+
+msgid "Despite your best efforts, you can't seem to cut through it with your scissors."
+msgstr "Cho dù cố gắng thế nào, không có vẻ dùng kéo mà có thể cắt mở được."
+
+msgid "The box contains an assortment of differently sized blue cans."
+msgstr "Trong thùng gom chứa các loại lon màu xanh cỡ lớn đủ kiểu."
+
+msgid "A pile of boxes."
+msgstr "Đống thùng."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_boxes.dlg.narrator"
+msgid "They seem to be stuck together."
+msgstr "Dường như là chúng bị dính lại với nhau."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_0.dlg.narrator"
+msgid "A large locker."
+msgstr "Tủ đồ lớn."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_0.dlg.narrator"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "A large locker."
+msgstr "Tủ đồ lớn."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_1.dlg.narrator"
+msgid "It's empty."
+msgstr "Bên trong trống không."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "A large locker."
+msgstr "Tủ đồ lớn."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_2.dlg.narrator"
+msgid "It's empty."
+msgstr "Bên trong trống không."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "A large locker."
+msgstr "Tủ đồ lớn."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_3.dlg.narrator"
+msgid "It's empty."
+msgstr "Bên trong trống không."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "A large locker."
+msgstr "Tủ đồ lớn."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_4.dlg.narrator"
+msgid "It's empty."
+msgstr "Bên trong trống không."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "A large locker."
+msgstr "Tủ đồ lớn."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_locker_5.dlg.narrator"
+msgid "It's empty."
+msgstr "Bên trong trống không."
+
+msgid "A trash can."
+msgstr "Thùng rác."
+
+msgid "Some black goo can be seen at the bottom."
+msgstr "Ở đáy thấy cái thứ nhơm nhớp gì đó màu đen."
+
+msgid "A pile of trash cans."
+msgstr "Núi thùng rác."
+
+msgctxt "events.Prologue_Ending_K7_2.misc_trashcans.dlg.narrator"
+msgid "They seem to be stuck together."
+msgstr "Dường như là chúng bị dính lại với nhau."
+
+msgid "So... maybe the ritual worked?"
+msgstr "Vậy... không khéo nghi thức đã thành công rồi?"
+
+msgid "But the ritual wasn't finished."
+msgstr "Nhưng mà nghi thức đã xong đâu."
+
+msgid "Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore."
+msgstr "Tức là hoặc trường này có vô số căn phòng trông có vẻ bị nguyền rủa cùng với bí mật đen tối này nọ, hoặc có khi đây không phải là trường học nữa."
+
+msgid "If it's not the school, then what is it?"
+msgstr "Nếu đây không phải là trường học thì rốt cuộc là gì?"
+
+msgid "No idea."
+msgstr "Chịu à."
+
+msgctxt "events.Prologue_Ending_K7_2.move_enter.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "In any case, it doesn't feel too dangerous, so let's continue."
+msgstr "Mà dù thế nào thì thấy đâu có nguy hiểm gì lắm đâu, tiếp tục tiến lên thôi."

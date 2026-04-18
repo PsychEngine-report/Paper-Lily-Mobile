@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(If I pass through there, that guy might see me...)"
+msgstr "（如果我穿过这里，那个家伙可能会看到我...）"
+
+msgid "(Um...)"
+msgstr "（呃...）"
+
+msgid "(Did I adopt a stray?)"
+msgstr "（我这是收养了一只流浪狗吗？）"
+
+msgid "Are you following me?"
+msgstr "你在跟我着我吗？"
+
+msgid "Yep."
+msgstr "没错。"
+
+msgid "We stand a better chance together, right?"
+msgstr "我们一起的话会更好，不是吗？"
+
+msgid "Don't worry, I won't be dead weight."
+msgstr "别担心，我不会成为累赘的。"
+
+msgid "Well, unless I'm actually dead..."
+msgstr "呃，除非我真的死了..."
+
+msgid "But then you can just leave me there."
+msgstr "不过那样的话，你可以把我丢在这里了。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Look, you can just pretend I'm not here if you want."
+msgstr "听着，如果你愿意的话，可以假装我不在这里。"
+
+msgid "See?"
+msgstr "看见了吗？"
+
+msgid "(That guy might still be waiting for me...)"
+msgstr "（那家伙可能还在等我...）"
+
+msgid "(Should I just return to where he is?)"
+msgstr "（我是不是该回到他在的地方？）"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "*Sigh*"
+msgstr "*叹息*"
+
+msgid "Uhm..."
+msgstr "嗯..."
+
+msgid "Huh? Oh... what's up?"
+msgstr "啊？哦...发生什么事了？"
+
+msgid "There was nothing important in there, let's go."
+msgstr "里面没什么重要的东西，我们走吧。"
+
+msgid "Wait, how did you-"
+msgstr "慢着，你怎么—"
+
+msgid "Hurry up."
+msgstr "快点吧。"
+
+msgid "A gate. It's locked."
+msgstr "一扇铁栅栏。锁住了。"
+
+msgid "A gate. There's probably no point in closing it."
+msgstr "一扇铁栅栏。没有关上它的理由。"
+
+msgid "The grate you kicked out of the way earlier."
+msgstr "这是你刚才踢开的那个通风口盖。"
+
+msgid "It's too high to reach."
+msgstr "太高了，够不到。"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_East.move_dungeon_1.dlg.narrator"
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90]（赛伊离开了队伍。）[/color]"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_East.move_dungeon_2.dlg.narrator"
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90]（赛伊离开了队伍。）[/color]"

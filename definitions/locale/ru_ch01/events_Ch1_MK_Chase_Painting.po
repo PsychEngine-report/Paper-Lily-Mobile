@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Try Again?"
+msgstr "Попробовать снова?"
+
+msgid "Retry"
+msgstr "Попробовать снова"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Give Up"
+msgstr "Сдаться"
+
+msgid "The way back has turned into a wall."
+msgstr "Путь назад превратился в стену."
+
+msgid "*huff* *puff*"
+msgstr "*фух*"
+
+msgid "We barely got away..."
+msgstr "Еле убежали..."
+
+msgid "Remind me not to mess with creepy paintings in the future."
+msgstr "В следующий раз напомни мне не шалить со стрёмными картинами."
+
+msgid "I barely got away..."
+msgstr "Еле убежала..."
+
+msgid "I need to be more careful with the things I touch..."
+msgstr "Надо быть осторожнее с тем, что я трогаю..."

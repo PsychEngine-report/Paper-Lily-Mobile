@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "Хм…? Не работи…?"
+
+msgid "Those two thingies look burnt."
+msgstr "Тези две нещица изглеждат изгорени."
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "Ааа, има два изгорели бушона. Нищо чудно."
+
+msgid "Let's throw this damaged fuse away."
+msgstr "Нека изхвърлим този повреден бушон надалеч."
+
+msgid "Why? Just use it as a zero or something."
+msgstr "Защо? Просто го използвай за нула или нещо."
+
+msgid "No... that's really not how fuses work."
+msgstr "Не… всъщност бушоните не работят съвсем така."
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "Повреден предпазител няма да завърши веригата."
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "Разбирам… значи е нула, ако го премахнеш?"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "Не… това е просто… то също няма да завърши веригата. Не можете да направите нула."
+
+msgid "Just... leave this to me, okay?"
+msgstr "Просто… остави на мен, става ли?"
+
+msgid "Roger!"
+msgstr "Разбрано!"
+
+msgid "You hear something unlocking in the distance."
+msgstr "Чувате нещо да се отключва в далечината."
+
+msgid "What? I didn't hear anything."
+msgstr "Какво? Нищо не чух."
+
+msgid "...You're breaking my immersion."
+msgstr "…Нарушаваш проникновението ми."
+
+msgid "What in the world was that?"
+msgstr "Какво за бога бе това?"
+
+msgid "Can't say I didn't warn you."
+msgstr "Не е като да не те предупредих."
+
+msgid "Wait."
+msgstr "Почакай."
+
+msgid "...?"
+msgstr "…?"
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "Да извадиш онова там, май ще се окаже много лоша идея."
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "Видях няколко врати като тази преди. Не мисля че искаме да ги отворим."
+
+msgid "I see..."
+msgstr "Разбирам…"
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Може би има по-добър начин?)"
+
+msgid "Do you think the elevator works now?"
+msgstr "Смяташ ли че асансьора работи сега?"
+
+msgid "Ah, that's satisfying."
+msgstr "Ааа, това е задоволително."
+
+msgid "Good job!"
+msgstr "Добра работа!"
+
+msgid "That sounded pretty big."
+msgstr "Това прозвуча доста крупно."
+
+msgid "Let's check the water level."
+msgstr "Да проверим отново водното ниво."
+
+msgid "There's already a handle there."
+msgstr "Там вече има дръжка."
+
+msgid "You try to fit the handle in the slot..."
+msgstr "Опитвате се да поставите дръжката в отвора…"
+
+msgid "But it doesn't fit."
+msgstr "Но тя не пасва."
+
+msgid "The lights... ah... not nice."
+msgstr "Светлините…ааа… не е хубаво."
+
+msgid "Why doesn't this work?"
+msgstr "Защо не сработва?"
+
+msgid "We probably need to fill all four slots."
+msgstr "Вероятно трябва да запълним и четирите жлеба."
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "Иначе нещото вътре няма да направи контакт."
+
+msgid "Right, contact."
+msgstr "Ясно, контакт."
+
+msgid "You place the handle in the slot."
+msgstr "Вие поставяте дръжката в жлеба."
+
+msgid "The handle fits!"
+msgstr "Дръжката пасва!"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "Разбира се, диамантът е просто завъртян квадрат."
+
+msgid "Yep."
+msgstr "М - да."
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "Какви ги вършиш? Формите няма да паснат."
+
+msgid "...Huh."
+msgstr "…Хм."
+
+msgid "Are you switching them around...?"
+msgstr "Разменяш ли ги…?"
+
+msgid "I'm just trying things."
+msgstr "Просто напипвам нещата."
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "Тежък варел. Не може да бъде поместен."
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "Върху цевта има дръжка на вентила и ключ."
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "Вземи ${item:ch1.facility_handle_square} и ${item:ch1.facility_key_archives}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Some sort of machine."
+msgstr "Някаква машина."
+
+msgid "It's whirring loudly."
+msgstr "Свири шумно."
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "Някои големи шкафове. Вероятно ще можете да се поберете вътре."
+
+msgid "There's something in here..."
+msgstr "Тук има нещо…"
+
+msgid "There's nothing else of use."
+msgstr "Няма нищо друго, което да е от полза."
+
+msgid "A large machine attached to some pipes."
+msgstr "Огромна машина прикрепена към някакви тръби."
+
+msgid "There's a note here:"
+msgstr "Тук има бележка:"
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "В случай на Аварийна Ситуация - Система за Дрениране и Наводняване"
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "За да сработи системата за дрениране, правилния превключвател трябва да си е на място."
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "Завъртете всички 4 дръжки на превключвателите, това ще активира наводняването."
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "Това е необратимо, тъй че извършвайте това без уведомление на-\""
+
+msgid "...The rest of the note is torn off."
+msgstr "…Останалата част от бележката е скъсана."
+
+msgid "Looks like an electrical panel."
+msgstr "Прилича на електрически панел."
+
+msgid "Take a closer look?"
+msgstr "Погледни по-отблизо?"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "Слот, където да бъде поставено колелото на клапана. Вдлъбнатината е с квадратна форма."
+
+msgid "Turn it?"
+msgstr "Включи го?"
+
+msgid "Turn the wheel"
+msgstr "Завъртете колелото"
+
+msgid "Remove the wheel"
+msgstr "Премахнете колелото"
+
+msgid "Do nothing"
+msgstr "Не прави нищо"
+
+msgid "The wheel won't turn."
+msgstr "Колелото не се завърта."
+
+msgid "It won't turn anymore."
+msgstr "То вече не се върти."
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "Слот, където да бъде поставено колелото на клапана. Вдлъбнатината е с форма на петоъгълник."
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "Слот, където да бъде поставено колелото на клапана. Вдлъбнатината е с звездовидна форма."
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "Слот, където да бъде поставено колелото на клапана. Вдлъбнатината е с диамантена форма."
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "Изглежда като масивната порта, която видяхме по-рано…"
+
+msgid "Doors?"
+msgstr "Врати?"
+
+msgid "This is probably an elevator."
+msgstr "Това сигурно е асансьора."
+
+msgid "Lights."
+msgstr "Светлини."
+
+msgid "Water?"
+msgstr "Вода?"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "Празен отвор, в който може да се постави предпазител."
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "(Изглежда, че трябва да пренаредя предпазителите, за да съответстват на дисплея.)"
+
+msgid "An empty fuse slot."
+msgstr "Празен слот за предпазител."
+
+msgid "Place a fuse?"
+msgstr "Поставете предпазител?"
+
+msgid "Place fuse no.5"
+msgstr "Поставете предпазител № 5"
+
+msgid "Place fuse no.10"
+msgstr "Поставете предпазител № 10"
+
+msgid "Place fuse no.15"
+msgstr "Поставете предпазител № 15"
+
+msgid "Place fuse no.20"
+msgstr "Поставете предпазител № 20"
+
+msgid "Place fuse no.25"
+msgstr "Поставете предпазител № 25"
+
+msgid "Place fuse no.40"
+msgstr "Поставете предпазител № 40"
+
+msgid "Do not"
+msgstr "Недей"
+
+msgid "It's a spider!"
+msgstr "Това е паяк!"
+
+msgid "I see that."
+msgstr "Виждам това."
+
+msgid "Are you scared of spiders?"
+msgstr "Страх ли те е от паяци?"
+
+msgid "Not really."
+msgstr "Не съвсем."
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "Ами, ако видиш паяк в къщата си, просто ще го оставиш там?!"
+
+msgid "That's crazy."
+msgstr "Това е лудост."
+
+msgid "What else should I be doing?"
+msgstr "Какво друго бих могла да направя?"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "Не знам, повечето хора го убиват с обувка или нещо подобно."
+
+msgid "Why?"
+msgstr "Защо?"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "Нямам идея, те пълзят и прочие. Страховити са."
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "Защо трябва да умира за нещо, което не е по-тяхна вина?"
+
+msgid "..."
+msgstr "…"
+
+msgid "That's fair."
+msgstr "Справедливо е."
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "Само да знаеш, не убивам паяци."
+
+msgid "I see."
+msgstr "Виждам."
+
+msgid "I used to, but now I just put them outside."
+msgstr "Преди го правех, но сега просто ги изнасям навън."
+
+msgid "Great."
+msgstr "Страхотно."
+
+msgid "A spider hangs from here."
+msgstr "Оттук виси един паяк."
+
+msgid "A spider sits here."
+msgstr "Тук седи един паяк."
+
+msgid "Take out the fuse?"
+msgstr "Извадете предпазителя?"

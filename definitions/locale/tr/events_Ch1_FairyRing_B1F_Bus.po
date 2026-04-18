@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is so fun, I haven't waited for the bus in ages!"
+msgstr "Ne de eğlenceli, yıllardır otobüsü beklememiştim!"
+
+msgid "(There's nothing fun in waiting for the bus...)"
+msgstr "Otobüsü beklerken yapılacak eğlenceli bir şey yok..."
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "Her neyse, bu elf çemberlerinin gittikçe büyüyüp daha da alan kapladığını gördün mü?"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "Duydum ki yeteri kadar beslendiklerinde, böyle açılıp yüzeydeki her şeyi yutuyorlarmış!"
+
+msgid "So when that happened, one of them swallowed the station and a whole bus."
+msgstr "Geçenlerde bu olmuş, aralarından biri otobüs durağını ve kocaman bir otobüsü yemiş."
+
+msgid "(Apparently Glen was really unhappy so they destroyed most of the fairy rings.)"
+msgstr "(Görünüşe göre Glenin morali çok bozulmuş, onlar da peri çemberlerinin çoğunu yok etmişler.)"
+
+msgid "(Glen?)"
+msgstr "(Glen mi?)"
+
+msgid "Wait... why don't they just destroy all of them?"
+msgstr "Bekle... neden sadece hepsini direkt yok etmediler ki?"
+
+msgid "I dunno."
+msgstr "Ne bileyim."
+
+msgid "They usually remove some of them, every few years..."
+msgstr "Genelde bazılarını birkaç yılda bir kaldırırlar."
+
+msgid "...Now that you mention it, I'm not sure why they don't just remove them all."
+msgstr "...Hazır bahsetmişken, neden sadece hepsini kaldırmadılar ki?"
+
+msgid "Maybe it's too much work to remove the fairy rings..?"
+msgstr "Belki de hepsini kaldırmak çok zahmetlidir?"
+
+msgid "Hmm... I wonder..."
+msgstr "Hmm... Merak ediyorum da..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Oh I know!"
+msgstr "Ah, anladım!"
+
+msgid "Maybe there's something even more terrible underneath, so they're using the fairy rings to seal it away!"
+msgstr "Belki de altında çok daha korkunç bir şey vardır, bundan ötürü peri çemberlerini mühürlemek için kullanıyorlardır!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "No, that can't be it."
+msgstr "Hayır, bence bu nedenle değil."
+
+msgid "I'll keep thinking."
+msgstr "Düşünmeye devam edeceğim."
+
+msgid "Aoi is thinking."
+msgstr "Aoi düşünüyor."
+
+msgid "Hm?"
+msgstr "Hm?"
+
+msgid "Is that...the bus stop?"
+msgstr "Şuradaki... otobüs durağı mı?"
+
+msgid "Not the current one."
+msgstr "Şu anki değil."
+
+msgid "But we must be right under the current one."
+msgstr "Ama şimdiki ile doğru yolda olmalıyız."
+
+msgid "Wow, we sure walked a long way!"
+msgstr "Vay, gerçektende çok yol katettik!"
+
+msgid "(Did I walk all the way back to where I started...!?)"
+msgstr "(Başladığım yola geri mi döndüm...!?)"
+
+msgid "So... what brings you here?"
+msgstr "Eee... seni buraya hangi rüzgar attı?"
+
+msgid "What brings me... down here?"
+msgstr "Buraya... nasıl mı geldim?"
+
+msgid "I stepped into the fairy ring."
+msgstr "Peri çemberinin içine girdim"
+
+msgid "Ah. Right."
+msgstr "Ah. Anladım."
+
+msgid "Classic."
+msgstr "Ne de şaşırtıcı."
+
+msgid "I also stepped into it."
+msgstr "Bende içine girdim."
+
+msgid "Yes, of course."
+msgstr "Elbette, tabii ki."
+
+msgid "So what brings you to these parts of the forest?"
+msgstr "Peki sen ormanın bu kısmına neden geldin?"
+
+msgid "Um..."
+msgstr "Ah..."
+
+msgid "(Actually, I wonder if they can they tell I'm human?)"
+msgstr "(Aslında, insan olduğumu anlarlar mı merak ediyorum?)"
+
+msgid "(It's best not to say anything about that...)"
+msgstr "(Bunun hakkında yorum yapmasam daha iyi olur...)"
+
+msgid "I'm looking for a lighthouse."
+msgstr "Deniz fenerini arıyordum."
+
+msgid "Ooh."
+msgstr "Vaay."
+
+msgid "What for?"
+msgstr "Niçin?"
+
+msgid "Meeting... someone..?"
+msgstr "Biriyle... buluşmak için?"
+
+msgid "(Aoi definitely can't help me with my problem... this is basically a child we're talking about.)"
+msgstr "(Aoi sorunuma kesinlikle yardımcı olamaz... sözdeki kişi çocuk sonuçta.)"
+
+msgid "(So there's no point in elaborating much, I think.)"
+msgstr "(O zaman çok da ayrıntıya girmeye gerek yok, bence.)"
+
+msgid "I'm just looking for someone to help me with a problem."
+msgstr "Sadece bana bir sorunumla yardım edecek birin arıyorum"
+
+msgid "Someone like a doctor? Or like an assassin?"
+msgstr "Doktor gibi biri mi? Ya da bir suikastçı gibi mi?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "....."
+msgstr "..."
+
+msgid "...Probably more like a doctor, I guess."
+msgstr "Sanırım daha çok doktor gibi."
+
+msgid "Oh... are you sick, Lacie?"
+msgstr "Ah... hasta mısın, Lacie?"
+
+msgid "No, It's nothing serious, probably."
+msgstr "Hayır, büyük ihtimalle ciddi birşey değildir."
+
+msgid "I guess I'll be able to tell once I meet them."
+msgstr "Onunla tanıştığımda ne olduğunu anlayabileceğimi umuyorum"
+
+msgid "Ooh!"
+msgstr "Ooo!"
+
+msgid "I had a friend I used to meet all the time!"
+msgstr "Eskiden sürekli buluştuğum bir arkadaşım vardı!"
+
+msgid "But it wasn't at a lighthouse, it was..."
+msgstr "Ama deniz fenerinde değildi, şeyde..."
+
+msgid "But..."
+msgstr "Şeydeydi..."
+
+msgid "...It was in the supply closet..."
+msgstr "...Depo dolabındaydı..."
+
+msgid "...in secret..."
+msgstr "...gizlice..."
+
+msgid "???"
+msgstr "???"
+
+msgid "...But then they died."
+msgstr "Ama daha sonra o öldü."
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "And now I'll die too....."
+msgstr "Ve şimdi ben de öleceğim..."
+
+msgid "W-what brings YOU to the forest?"
+msgstr "Peki ya SENİ ormana getiren ne?"
+
+msgid "Oh, I'm on vacation!"
+msgstr "Ah, ben tatildeyim!"
+
+msgid "Oh, that's nice."
+msgstr "Vay canına, kulağa hoş geliyor."
+
+msgid "(Phew...)"
+msgstr "(Oh...)"
+
+msgid "That looks heavy..."
+msgstr "Şunlar ağır görünüyor."
+
+msgid "You're prepared for anything, aren't you?"
+msgstr "Her şeye hazırlıklısın, değil mi?"
+
+msgid "I also like bug-catching!"
+msgstr "Birde ben böcek yakalamayı da severim!"
+
+msgid "The small ones, at least..."
+msgstr "Küçük olanları, en azından..."
+
+msgid "What's that?"
+msgstr "O da ne?"
+
+msgid "Hmm... I'll show you someday."
+msgstr "Hmm... sana bir gün gösteririm."
+
+msgid "Aww... alright."
+msgstr "Yaa... peki peki"
+
+msgid "You'll show Aoi someday. Maybe."
+msgstr "Bir gün Aoi'ye gösterirsin, belki."
+
+msgid "Are you tired?"
+msgstr "Yorulmadın mı?"
+
+msgid "There's a bench right there, I guess."
+msgstr "Şurada bir bank var galiba."
+
+msgid "I give it at least 10 more years before it will be fully swallowed!"
+msgstr "Yutulmadan önce en az 10 yılı daha olduğuna bahse girerim!"
+
+msgid "Oh, I also have one of those!"
+msgstr "Ah, bende o şeyden de var!"
+
+msgid "I heard they taste great, but I'm afraid to try them since they're poisonous and all..."
+msgstr "Tatlarının mükemmel olduğunu duydum, ama zehirli falan olduğu için denemeye korktum..."
+
+msgid "Or... are you suggesting something???"
+msgstr "Yoksa... bir şey mi tavsiye ediyorsun?"
+
+msgid "(Best not to spoil Aoi too much.)"
+msgstr "(Aoi'yi bu kadar şımartmasam daha iyi.)"
+
+msgid "Aww! Thanks!"
+msgstr "Yaa! Çok teşekkürler!"
+
+msgid "It's good that you have a light, in case it gets dark in here."
+msgstr "Işığının olması ne güzel, yoksa burası aşırı karanlık oluyor."
+
+msgid "I really hope it doesn't..."
+msgstr "Umuyorum ki olmaz..."
+
+msgid "Ah... those rocks..."
+msgstr "Ah... şu kayalar..."
+
+msgid "Sorry, I don't know what those do... You can keep it."
+msgstr "Üzgünüm, şunların ne işe yaradığını bilmiyorum... Sende kalabilirler."
+
+msgid "Oh oh, are we cooking something?"
+msgstr "Oh oh! bir şey mi pişiriyoruz?"
+
+msgid "No, this is for self-defense."
+msgstr "Hayır, bu kendimizi korumamız için."
+
+msgid "?????"
+msgstr "????"
+
+msgid "Y-yes... I'll cut it off..."
+msgstr "E-evet... hemen keseceğim..."
+
+msgid "I'm sorry..."
+msgstr "Özür dilerim..."
+
+msgid "Let's not traumatize Aoi any further."
+msgstr "Hadi Aoi'ye daha fazla travma bırakmayalım"
+
+msgid "A bus. It has seen better days."
+msgstr "Bir otobüs. Daha iyi günler görmüşe benziyor."
+
+msgid "Isn't that cool?!"
+msgstr "Aşırı havalı değil mi?!"
+
+msgid "Do you think they ever got the passengers out?"
+msgstr "Sence yolcuları hiç indirmişler midir?"
+
+msgid "I can't see inside, so... I guess we'll never know."
+msgstr "İçerisini göremiyorum... sanırım asla öğrenemeyeceğiz."
+
+msgid "Maybe it's best that way."
+msgstr "Belki de böyle olması daha iyidir."
+
+msgid "I think it would ruin my day if we found corpses in there."
+msgstr "Eğer orada ceset bulsaydık bu günümü mahvederdi"
+
+msgid "(Is your day not already ruined by being trapped in this place?)"
+msgstr "(Günün zaten burada kapana kısılarak mahvolmadı mı?)"
+
+msgid "Looks like pieces of asphalt."
+msgstr "Asfalt parçalarına benziyor."
+
+msgid "A signpost. It's bent."
+msgstr "Bir yön tabelası, bükülmüş."
+
+msgid "(The schedule seems to show quite a few buses coming every day.)"
+msgstr "(Takvim her gün birkaç otobüsün geldiğini gösteriyor.)"
+
+msgid "Strange... the other schedule I saw was empty."
+msgstr "Garip... gördüğüm diğer takvim boştu."
+
+msgid "Oh! Back in the day, the bus used to come more often... this is probably an old schedule."
+msgstr "Ha! Benim zamanımda, otobüs daha sıklıkla gelirdi... bu büyük ihtimalle eski bir takvim"
+
+msgid "The other schedule you saw must be the updated one."
+msgstr "Gördüğün diğer takvim güncellenmiş olan olmalı."
+
+msgid "Nowadays it's very rare..."
+msgstr "Bu günlerde çok nadir..."
+
+msgid "So if you're lucky enough to see the bus, you should definitely ride it!"
+msgstr "O yüzden otobüsü görmek için yeteri kadar şanslıysan, kesinlikle binmelisin!"
+
+msgid "That's what everyone does, at least. I never saw it myself..."
+msgstr "Bunu herkes yapıyor, en azından. Hiç kendim görmemiştim"
+
+msgid "(It's just a bus, though...)"
+msgstr "(Ama bu sadece bir otobüs...)"
+
+msgid "A bus stop."
+msgstr "Bir otobüs durağı"
+
+msgid "The poster here is too faded to read."
+msgstr "Bu ilan okunmak içim fazla kararmış"
+
+msgid "It looks like a dead end."
+msgstr "Çıkmaz sokak gibi görünüyor."
+
+msgid "We just walked quite a bit to get here, let's at least look around."
+msgstr "Buraya gelmek için biraz fazla yürüdük, en azından etrafa bakalım."

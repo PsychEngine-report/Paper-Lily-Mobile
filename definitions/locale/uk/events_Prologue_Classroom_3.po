@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "On second thought, I don't feel like it."
+msgstr "З іншого боку, краще пізніше."
+
+msgid "Phew!"
+msgstr "Фух!"
+
+msgid "This is my desk. Juli sits in front of me, and Kaya sits behind."
+msgstr "Це моя парта. Джулі сидить спереду, а Кая - позаду."
+
+msgid "I see..."
+msgstr "Зрозуміло..."
+
+msgid "Thanks for letting me know...?"
+msgstr "Дякую, що пояснила?.."
+
+msgid "Saki's desk."
+msgstr "Парта Сакі."
+
+msgid "This isn't the right classroom for that."
+msgstr "Це треба робити в іншому класі."
+
+msgid "The path is already drawn."
+msgstr "Я вже намалювала шлях."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Ще зарано. Я хочу бути запевнитись, що в мене є все необхідне."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Ще зарано. Я хочу спочатку закінчити приготування у класах."
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "Краще не створювати для себе ще більше неприємностей."
+
+msgid "This window already has curtains."
+msgstr "На цьому вікні вже є завіски."
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "Ритуал не вимагає спалювати школу."
+
+msgid "There's a red notebook here."
+msgstr "Тут лежить червоний зошит."
+
+msgid "There's nothing else here."
+msgstr "Тут більше нічого немає."
+
+msgid "It's already done."
+msgstr "Я вже це зробила."
+
+msgid "This isn't the time for that."
+msgstr "Мені зараз не до цього."
+
+msgid "Some world encyclopedias."
+msgstr "Декілька енциклопедій."
+
+msgid "I would definitely steal one of these if they weren't so darn heavy."
+msgstr "Якби вони були не такими важкими, я б одну таку поцупила."
+
+msgid "You can borrow my books if you need..."
+msgstr "Якщо хочеш, я можу позичити тобі свої книги..."
+
+msgid "I'll keep that in mind."
+msgstr "Візьму до відома."
+
+msgid "A clean chalkboard."
+msgstr "Чиста дошка."
+
+msgid "A wooden desk."
+msgstr "Дерев'яна парта."
+
+msgid "Two paper slips filled with rules and regulations."
+msgstr "Папірці зі зводами правил."
+
+msgid "I wonder if it says somewhere that we're not allowed on school grounds at night."
+msgstr "Цікаво, чи є там хоч слово про те, що не можна пробиратися в школу вночі?"
+
+msgid "Oh well! I guess we'll never know if I don't read it!"
+msgstr "Ну що ж, якщо не читати, то не дізнаємось!"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Листи з відвідуваності школи та розклади занять."
+
+msgid "A happy green plant."
+msgstr "Щаслива зелена рослина."
+
+msgid "The plant is no longer happy."
+msgstr "Рослина більше не щаслива."
+
+msgid "Some cute potted plants. Their silent nature enchants you."
+msgstr "Милі рослини в горщиках. Їхня тиха натура вас зачаровує."
+
+msgid "The teacher's podium."
+msgstr "Учительський подіум."
+
+msgid "A geography book and a globe sit atop it."
+msgstr "На ньому лежить книга, а зверху на ній стоїть глобус"
+
+msgid "Some boring textbooks."
+msgstr "Нудні підручники."
+
+msgid "Some very thick, school-related books."
+msgstr "Товстенні підручники."
+
+msgid "Some books and... chalk."
+msgstr "Книжки та... трохи крейди."
+
+msgid "Take it?"
+msgstr "Взяти її?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "There's nothing else of use."
+msgstr "Корисні речі тут скінчилися."
+
+msgid "A trash can."
+msgstr "Відро для сміття."
+
+msgid "As it's usually the case with trash cans, it's devoid of useful items."
+msgstr "Як це часто буває з подібними відрами, нічого корисного в них немає."
+
+msgid "The curtains should stay closed."
+msgstr "Завіски мають бути закритими."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Розставити парти зараз?"
+
+msgid "Not yet"
+msgstr "Ще зарано"
+
+msgid "Let's do this."
+msgstr "Почнімо."

@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "..."
+
+msgid "The code was incorrect."
+msgstr "Kod był nieprawidłowy."
+
+msgid "The door opens!"
+msgstr "Drzwi się otworzyły!"
+
+msgid "Now that I think about it, this is a strange location for such a large mirror."
+msgstr "Jakby się nad tym zastanowić, to dziwne miejsce dla tak dużego lustra."
+
+msgid "Maybe there's something behind it?"
+msgstr "Może coś za nim jest?"
+
+msgid "Kick the mirror?"
+msgstr "Kopnąć lustro?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "A door... and a keypad... for a code, I think."
+msgstr "Drzwi... i panel... do wpisania kodu, tak mi się zdaje."
+
+msgid "Is it the door behind the mirror?"
+msgstr "Czy to te drzwi za lustrem?"
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Może jest jakiś lepszy sposób?)"
+
+msgid "Here you go."
+msgstr "Proszę bardzo."
+
+msgid "...Huh. Thanks."
+msgstr "...Hę. Dzięki."
+
+msgid "I'm not carrying this thing around..."
+msgstr "Nie mam zamiaru tego nosić..."
+
+msgid "Pssst."
+msgstr "Pssst."
+
+msgid "Hey girlie."
+msgstr "Hej, dziewczyno."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Been a while since I've seen anybody come down here."
+msgstr "Dawno nikogo tu nie widziałem."
+
+msgid "Even that smug asshole hasn't been around."
+msgstr "Nawet tego bezczelnego gnoja nie widziano w okolicy."
+
+msgid "Who do you mean?"
+msgstr "O kim mówisz?"
+
+msgid "You know who I mean, or you wouldn't be snooping around here, would ya?"
+msgstr "Wiesz o kim mówię, inaczej byś tu nie węszyła, co?"
+
+msgid "...Red?"
+msgstr "...Red?"
+
+msgid "Ding ding diiiing!"
+msgstr "Ding ding diiiing!"
+
+msgid "Did Red lock you in here?"
+msgstr "Czy Red cię tu zamknął?"
+
+msgid "Correct."
+msgstr "Owszem."
+
+msgid "Why?"
+msgstr "Czemu?"
+
+msgid "My, aren't you asking lots of questions..."
+msgstr "Jejciu, zadajesz tyle tych pytań..."
+
+msgid "Maybe I'll tell you if you come a bit closer."
+msgstr "Może ci powiem, jeśli podejdziesz trochę bliżej."
+
+msgid "Get closer?"
+msgstr "Podejść bliżej?"
+
+msgid "Aww... What a shame."
+msgstr "Ojej… Jaka szkoda."
+
+msgid "No more chit chat then."
+msgstr "W takim razie nie ma pogaduszek."
+
+msgid "(Better safe than sorry.)"
+msgstr "(Lepiej dmuchać na zimne.)"
+
+msgid "That's the spirit."
+msgstr "To ja rozumiem."
+
+msgid "Red locked me in here because I can be a bit of a nuisance."
+msgstr "Red zamknął mnie tutaj, ponieważ potrafię być delikatnie uciążliwy."
+
+msgid "I'm the only one who can cast curses."
+msgstr "I jako jedyny mogę rzucać klątwy."
+
+msgid "Curses...?"
+msgstr "Klątwy...?"
+
+msgid "You're the only one? Then, did you have something to do with my curse?"
+msgstr "Tylko ty możesz je rzucać? Więc miałeś coś wspólnego z moją klątwą?"
+
+msgid "If you come a bit closer, maybe I'll tell you."
+msgstr "Podejdź ciut bliżej, a może ci powiem."
+
+msgid "Welcome back, what is it you wanted to know again?"
+msgstr "Witaj z powrotem. Przypomnisz mi może, co chciałaś wiedzieć?"
+
+msgid "Why are you locked up?"
+msgstr "Czemu jesteś zamknięty?"
+
+msgid "I have a feeling you'll just try to kill me."
+msgstr "Mam przeczucie, że spróbujesz mnie zabić."
+
+msgid "Hahahaha!"
+msgstr "Hahahaha!"
+
+msgid "Fine then, I'll humor you this time."
+msgstr "Dobra, tym razem ustąpię."
+
+msgid "I didn't curse you."
+msgstr "Nie rzuciłem na ciebie klątwy."
+
+msgid "Then who did? You said you're the only one who can inflict curses."
+msgstr "Więc kto to zrobił? Powiedziałeś, że tylko ty możesz rzucać klątwy."
+
+msgid "...and live."
+msgstr "...i żyć."
+
+msgid "Look girlie, I hate doing shit for free."
+msgstr "Słuchaj dziewczyno, nie znoszę robić czegokolwiek za darmo."
+
+msgid "Yep. It's a shortcut."
+msgstr "Ta. To skrót."
+
+msgid "It needs a code."
+msgstr "By tędy przejść, potrzebujesz kodu."
+
+msgid "I can give it to you, provided you do one more thing for me."
+msgstr "Mogę ci go dać, pod warunkiem, że coś jeszcze dla mnie zrobisz."
+
+msgid "How do I know it's actually a shortcut?"
+msgstr "Skąd mogę mieć pewność, że to naprawdę jest skrót?"
+
+msgid "You don't. You'll just have to trust me."
+msgstr "Nie masz. Musisz mi zaufać."
+
+msgid "Sounds like a bad choice."
+msgstr "Brzmi jak zły wybór."
+
+msgid "Your call, girlie."
+msgstr "Twój wybór, dziewczynko."
+
+msgid "If you bring me a blue light, I'll give you the code."
+msgstr "Jeśli przyniesiesz mi niebieskie światło, podam ci kod."
+
+msgid "A blue light?"
+msgstr "Niebieskie światło?"
+
+msgid "Correct. A blue light. Not green, not red, certainly not white. A blue light."
+msgstr "Dokładnie. Niebieskie światło. Nie zielone, nie czerwone, a już na pewno nie białe. Niebieskie światło."
+
+msgid "I have this blue candle, does it count?"
+msgstr "Mam tą niebieską świeczkę, czy to się liczy?"
+
+msgid "I'll be damned, you already have it?"
+msgstr "A niech mnie, już je masz?"
+
+msgid "Then give it to me, unless you don't want the code."
+msgstr "To dawaj je tu, chyba że już nie chcesz kodu."
+
+msgid "Where am I going to find that?"
+msgstr "Gdzie ja mam coś takiego znaleźć?"
+
+msgid "Don't know. I think I saw a candle-looking guy selling some a while back."
+msgstr "Nie wiem. Chyba kiedyś widziałem gościa od świeczek, który takie sprzedawał."
+
+msgid "Hey wait wait!"
+msgstr "Hej czekaj, czekaj!"
+
+msgid "Won't you do something for me? Pretty please little girl?"
+msgstr "Naprawdę mi nie pomożesz, dziewczynko? Ślicznie proszę?"
+
+msgid "No thank you."
+msgstr "Raczej nie, dziękuję."
+
+msgid "Come oooonnn, I've been stuck here for years, help me out!"
+msgstr "No weeeeź, kisnę tu już od tylu lat, zlituj się!"
+
+msgid "Tch."
+msgstr "Phi."
+
+msgid "When I get out of here..."
+msgstr "Niech ja tylko stąd wyjdę..."
+
+msgid "I'll make you suffer."
+msgstr "Oj, będzie boleć."
+
+msgid "It's a promise."
+msgstr "Już ja tego dopilnuję."
+
+msgid "You do something I ask, and I'll answer one of your questions. Yeah?"
+msgstr "Zrobisz to, o co poproszę, a ja odpowiem ci na parę pytań. Zgoda?"
+
+msgid "You want me to open your cage?"
+msgstr "Chcesz, żebym otworzyła twoją klatkę?"
+
+msgid "Hahahaha as if you could! You severely overestimate yourself, kid."
+msgstr "Hahahaha, jakbyś mogła! Naprawdę przeceniasz swoje możliwości, dziecko."
+
+msgid "No, this is something you can actually do."
+msgstr "Nie, to jest coś, co możesz zrobić."
+
+msgid "I can't see it from here, but somewhere in this room there should be a jar of slugs."
+msgstr "Niewiele stąd widać, ale gdzieś w tym pomieszczeniu powinien być słoik ze ślimakami."
+
+msgid "Slugs?"
+msgstr "Ślimakami?"
+
+msgid "Yeah. Large, slimy, gross? You know."
+msgstr "Tia. Wielkie, obślizgłe, obrzydliwe? Czaisz."
+
+msgid "Bring it to me and we can continue this conversation."
+msgstr "Kopsnij się po nie, i możemy gawędzić sobie dalej."
+
+msgid "I won't be coming anywhere close to you."
+msgstr "Nie będę się do ciebie zbliżać."
+
+msgid "Fair."
+msgstr "Dobra."
+
+msgid "Throw it to me from where you're standing right now then, if you're such a scaredy cat."
+msgstr "Więc rzuć je do mnie z miejsca w którym stoisz, jeśli takie z ciebie strachajło."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "You tricked me."
+msgstr "Oszukałeś mnie."
+
+msgid "Not exactly."
+msgstr "Nie do końca."
+
+msgid "Just tell me. Did you curse me?"
+msgstr "No gadaj. Czy to ty rzuciłeś na mnie tą klątwę?"
+
+msgid "I did not."
+msgstr "Nie."
+
+msgid "Look girlie, you get the drift."
+msgstr "Słuchaj mała. Znasz kolej rzeczy."
+
+msgid "Amazing..."
+msgstr "Zajebiście..."
+
+msgid "I haven't seen a light in years..."
+msgstr "Nie widziałem światła od lat..."
+
+msgid "So bright..."
+msgstr "Takie jasne..."
+
+msgid "So warm..."
+msgstr "Takie ciepłe..."
+
+msgid "*Ahem*"
+msgstr "*Ahem*"
+
+msgid "Yeah yeah, thanks girlie."
+msgstr "Ta, ta, dzięki dziewko."
+
+msgid "You really did me a solid here."
+msgstr "Naprawdę wyświadczyłaś mi przysługę."
+
+msgid "I'll remember this."
+msgstr "Nie zapomnę o tym."
+
+msgid "Thanks."
+msgstr "Dzięki."
+
+msgid "What's your name?"
+msgstr "Jak ci na imię?"
+
+msgid "There's no need to get buddy-buddy. You won't be alive for long enough for us to meet again."
+msgstr "Nie ma po co się kumplować. Raczej nie pożyjesz na tyle długo, byśmy się znowu spotkali."
+
+msgid "...But if we do, I'll make sure to introduce myself properly."
+msgstr "...Ale jeśli się spotkamy, upewnię się, by przedstawić się jak należy."
+
+msgid "Why... why are you giving this to me?"
+msgstr "Czemu... czemu mi to dajesz?"
+
+msgid "I don't know... just a feeling?"
+msgstr "Nie wiem... przeczucie?"
+
+msgid "Hahahahahaha incredible... were you just screwing with me before?"
+msgstr "Hahahahahaha, nie do wiary... czyli wcześniej tylko robiłaś sobie ze mnie jaja?"
+
+msgid "I guess I'm not gonna make you suffer after all."
+msgstr "Może jednak obędzie się bez cierpienia."
+
+msgid "Here, take the slugs as well."
+msgstr "Proszę, weź jeszcze ślimaki."
+
+msgid "Huh..."
+msgstr "Hm..."
+
+msgid "I don't know who you are but..."
+msgstr "Nie wiem kim jesteś, ale..."
+
+msgid "So... about this room..."
+msgstr "Więc... z tym pomieszczeniem..."
+
+msgid "Oh man you're slow. Check the mirror."
+msgstr "Ja pierdzielę, ale z ciebie niedojda. Sprawdź lustro."
+
+msgid "Hahahahahaha oh god... so good..."
+msgstr "Hahahahaha o jezu... ale jajca..."
+
+msgid "There's your jar."
+msgstr "Tu jest twój słoik."
+
+msgid "Good..."
+msgstr "Dobrze..."
+
+msgid "What would you like to know?"
+msgstr "Co chciałabyś wiedzieć?"
+
+msgid "You said you're the only demon who can inflict curses, correct?"
+msgstr "Powiedziałeś, że jesteś jedynym demonem, który może rzucać klątwy, prawda?"
+
+msgid "Did you place this curse on me?"
+msgstr "Czy rzuciłeś na mnie tą klątwę?"
+
+msgid "I'm the only demon who can inflict curses and LIVE."
+msgstr "Jestem jedynym demonem, który może rzucać klątwy i ŻYĆ."
+
+msgid "Any demon can place a curse on someone on their dying breath."
+msgstr "Każdy demon potrafi rzucić na kogoś klątwę podczas swoich ostatnich chwil."
+
+msgid "But I can place a thousand, with no repercussions."
+msgstr "Ale ja mogę ich nałożyć z tysiąc, bez żadnych konsekwencji."
+
+msgid "(Isn't that a bit OP?)"
+msgstr "(Czy to nie jest trochę za mocne?)"
+
+msgid "That sounds too powerful."
+msgstr "To brzmi zbyt potężnie."
+
+msgid "Why do you think I'm locked up?"
+msgstr "A jak myślisz, dlaczego tu siedzę?"
+
+msgid "Red's being a little bitch about it."
+msgstr "Red zachowuje się jak kawał sukinsyna z tego powodu."
+
+msgid "You're obviously a human with a weird aura."
+msgstr "Jesteś człowiekiem z dziwną aura, to jasne."
+
+msgid "You lookin' to remove your curse?"
+msgstr "Chcesz pozbyć się swojej klątwy?"
+
+msgid "Yes."
+msgstr "Tak."
+
+msgid "Then you'd probably need Red's help."
+msgstr "Więc powinnaś prosić o pomoc Reda."
+
+msgid "Yes, that's the idea."
+msgstr "Taki mam zamiar."
+
+msgid "How do you plan to do that?"
+msgstr "A jak zamierzasz to zrobić?"
+
+msgid "Someone told me to go to the lighthouse, so I have to go North."
+msgstr "Powiedziano mi, żebym udała się do latarni, więc muszę iść na północ."
+
+msgid "Ooh~ North."
+msgstr "Uuu~ Północ."
+
+msgid "You're gonna die if you go through the locked site, y'know?"
+msgstr "Zginiesz, jeśli pójdziesz drogą przez las, wiesz o tym?"
+
+msgid "What other choice do I have?"
+msgstr "A mam inny wybór?"
+
+msgid "There's always another choice."
+msgstr "Zawsze jest inny wybór."
+
+msgid "Do you mean that door to the right?"
+msgstr "Mówisz o tych drzwiach na prawo?"
+
+msgid "Is that so..."
+msgstr "Czyżby..."
+
+msgid "You just haven't looked around this room well enough."
+msgstr "Po prostu się tu jeszcze porządnie nie rozejrzałaś."
+
+msgid "...Actually, I have no idea."
+msgstr "...Właściwie, nie mam pojęcia."
+
+msgid "Ahahahaha, you crack me up!"
+msgstr "Ahahahaha, nie wytrzymam!"
+
+msgid "Any suggestions?"
+msgstr "Jakieś sugestie?"
+
+msgid "Why not follow Red? That little shit left through here last time."
+msgstr "Może pójdziesz śladem Reda? Ostatnim razem ten cham tędy wyszedł."
+
+msgid "But that was long ago."
+msgstr "Ale to było dawno temu."
+
+msgid "Do you mean through that door to the right?"
+msgstr "Mówisz o tych drzwiach na prawo?"
+
+msgid "Through... here? What do you mean?"
+msgstr "Wyszedł… tędy? Co masz na myśli?"
+
+msgid "You haven't looked at this room much, have you?"
+msgstr "Nie przyjrzałaś się temu pomieszczeniu zbyt dobrze, co nie?"
+
+msgid "A plain cardboard box."
+msgstr "Zwykłe kartonowe pudło."
+
+msgid "Some cardboard boxes."
+msgstr "Parę kartonowych pudeł."
+
+msgid "A blue butterfly."
+msgstr "Niebieski motyl."
+
+msgid "A sturdy cage housing a being."
+msgstr "Mocna klatka, utrzymująca istotę."
+
+msgid "The drawers are empty."
+msgstr "Szuflady są puste."
+
+msgid "A jar filled with slugs."
+msgstr "Słoik pełen ślimaków."
+
+msgid "(They're alive in there...)"
+msgstr "(Są żywe...)"
+
+msgid "Take ${item:ch1.red_jar}?"
+msgstr "Wziąć ${item:ch1.red_jar}?"
+
+msgid "The drawers underneath are empty."
+msgstr "Szuflady poniżej są puste."
+
+msgid "Bug-themed lamps."
+msgstr "Lampy z motywem owadów."
+
+msgid "I'm not going to carry the slugs with me..."
+msgstr "Nie będę nosić ze sobą tych ślimaków..."
+
+msgid "A large mirror."
+msgstr "Wielkie lustro."
+
+msgid "A door with a keypad has been exposed."
+msgstr "Drzwi z panelem zostały odsłonięte."
+
+msgid "Input a code?"
+msgstr "Wprowadzić kod?"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "Nie będę miała jak pomóc Kozmowi, jeśli tędy pójdę..."
+
+msgid "Continue down this path?"
+msgstr "Czy na pewno chcesz iść dalej?"

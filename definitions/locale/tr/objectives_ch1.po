@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Go to your room"
+msgstr "Odana git."
+
+msgid "This day needs to end. I want to lie in bed."
+msgstr "Bu günün bitmesi gerek.Yatağa uzanmak istiyorum."
+
+msgid "Find the ritual items"
+msgstr "Ritüel eşyalarını bul."
+
+msgid "I should gather the items that I'll need for the ritual. Shouldn't be too hard."
+msgstr "Ritüel için gereken eşyaları toplamam gerek. Çok zor olmasa gerek."
+
+msgid "Something red to draw"
+msgstr "Çizebilmek için kırmızı bir şey."
+
+msgid "I need to find something red to paint or mark the front of the house with."
+msgstr "Evin önünü boyamak veya işaretlemek için kırmızı bir şey bulmam gerekiyor."
+
+msgid "Something red to tie"
+msgstr "Bağlamak için kırmızı bir şey."
+
+msgid "I need to find something red to tie onto the phone cord."
+msgstr "Telefon kablosuna bağlayacak kırmızı bir şey bulmalıyım."
+
+msgid "Prepare the ritual"
+msgstr "Ritüeli hazırla"
+
+msgid "I need to prepare the ritual before night time."
+msgstr "Geceden önce ritüeli hazırlamam gerek."
+
+msgid "Paint symbol"
+msgstr "Sembolü boya"
+
+msgid "I need to paint a symbol on the front door of the house. I hope no one will see me..."
+msgstr "Evin ön kapısına sembolü boyamam gerek.Umarım kimse beni görmez..."
+
+msgid "Tie string on phone cord"
+msgstr "Telefon kablosuna ipi bağla"
+
+msgid "I need to tie a red ribbon on the cord of my landline phone in the kitchen."
+msgstr "Mutfaktaki sabit telefonumun kablosuna kırmızı kurdele bağlamam gerekiyor."
+
+msgid "Set alarm clock"
+msgstr "Çalar saati kur"
+
+msgid "I need to set an alarm for midnight."
+msgstr "Gece yarısı için bir alarm kurmam gerekiyor."
+
+msgid "Get the ritual reversal instructions"
+msgstr "Ritüelin tersine çevirme talimatlarını al."
+
+msgid "I messed up the ritual. I need to undo it by following the steps I left at my PC."
+msgstr "ritüeli mahvettim.Bilgisayarımda bıraktığım adımları izleyerek bu işlemi geri almam gerekiyor."
+
+msgid "Undo the ritual"
+msgstr "Ritueli geri al"
+
+msgid "I need to undo the ritual for my own safety."
+msgstr "Ritüeli kendi güvenliğim için geri almam gerekiyor."
+
+msgid "Untie red string"
+msgstr "Kırmızı ipi çöz"
+
+msgid "Add salt to front door"
+msgstr "Ön kapıya tuz dök"
+
+msgid "Add salt to back door"
+msgstr "Arka kapısına tuz dök"
+
+msgid "Add salt to garage door"
+msgstr "Garaj kapısına tuz dök"
+
+msgid "Go to sleep"
+msgstr "Uyumaya git"
+
+msgid "The ritual reversal is complete. There's nothing left to do other than to get in bed."
+msgstr "Ritüelin geri alımı tamamlandı. Yatağa girmekten başka bir şey kalmadı."
+
+msgid "Talk to Hiro"
+msgstr "Hiro ile konuş"
+
+msgid "I need to tell Hiro to leave the house..."
+msgstr "Hiro'ya evden gitmesini söylemem gerek..."
+
+msgid "Get in bed"
+msgstr "Yatağa gir"
+
+msgid "Apparently, I need to lie in bed until the alarm goes off."
+msgstr "Görünüşe göre alarm çalana kadar yatakta yatmam gerekiyor."
+
+msgid "Call the Bus"
+msgstr "Otobüsü çağır"
+
+msgid "I need to call the bus. The phone number I should dial is 999281#0."
+msgstr "Otobüsü aramam gerekiyor. Aramam gereken numara 999281#0."
+
+msgid "Take the Bus"
+msgstr "Otobüse bin"
+
+msgid "Get on the bus. Hurry!"
+msgstr "Otobüse bin. Çabuk!"
+
+msgid "Look Around"
+msgstr "Etrafa bak"
+
+msgid "I arrived somewhere. What do I do now?"
+msgstr "Bir yere vardım. Şimdi ne yapıcağım?"
+
+msgid "Explore the Forest"
+msgstr "Ormanı keşfet"
+
+msgid "I arrived at my destination. Can I find someone to help me?"
+msgstr "Varış noktama geldim.Bana yardım edecek birini bulabilir miyim?"
+
+msgid "Rotate the Signs"
+msgstr "İşaretleri Döndür"
+
+msgid "I think I can open up a path towards the Daylight Gate if I rotate the blue signs towards the correct direction."
+msgstr "Mavi işaretleri doğru yöne çevirirsem Gün Işığı Geçit'ine doğru bir yol açabileceğimi düşünüyorum."
+
+msgid "Open the Daylight Gate"
+msgstr "Gün Işığı Geçitini Aç"
+
+msgid "There's a gate impeding my progress. I need to find a way to open it."
+msgstr "İlerlememi engelleyen bir kapı var. Bunu açmanın bir yolunu bulmam lazım."
+
+msgctxt "objectives.name.ch1.forest_station_sign"
+msgid "Restore the Sign"
+msgstr "İşaretleri Döndür"
+
+msgid "A sign is missing from the front of the station. If I find it, I should put it back in place."
+msgstr "İstasyonun önünde bir tabela eksik. Eğer bulursam tekrar yerine koymalıyım."
+
+msgctxt "objectives.name.ch1.forest_station_sign_2"
+msgid "Restore the Sign"
+msgstr "İşaretleri Döndür"
+
+msgid "I found a blue sign. I should put it back in its spot in front of the station."
+msgstr "Mavi işareti buldum.Bunu istasyonun önündeki yerine geri koymalıyım."
+
+msgid "Pick the Right Path"
+msgstr "Sağ patikayı seç"
+
+msgid "There are three paths in front of me, and a ticket as a hint for which one to pick.."
+msgstr "Önümde üç patika var ve hangisini seçmek için ipucu olarak konulan bir bilet."
+
+msgid "Enter the Locked Site"
+msgstr "Kilitli alana gir"
+
+msgid "Seems like the only way north might be through the Locked Site."
+msgstr "Görünüşe göre kuzeye giden tek yol Kilitli Alan'dan geçiyor olabilir."
+
+msgid "Find a Light"
+msgstr "Bir ışık bul"
+
+msgid "Apparently, I'll' need a light to walk into the Locked Site."
+msgstr "Görünüşe göre Kilitli Alan'a girmek için ışığa ihtiyacım olacak."
+
+msgid "Find 3 Keys"
+msgstr "3 anahtar bul"
+
+msgid ""
+"I found clues to the location of the three keys for the padlocks:\n"
+"-Behind a tree\n"
+"-In a cactus pot\n"
+"-Under a fake rug"
+msgstr ""
+"Asma kilitlerin üç anahtarının konumuna dair ipuçları buldum.\n"
+"-Bir ağacın arkasında\n"
+"-Bir kaktüs saksının içinde\n"
+"-Sahte bir halının altında"
+
+msgid "Key 1"
+msgstr "Anahtar 1"
+
+msgid "Key 2"
+msgstr "Anahtar 2"
+
+msgid "Key 3"
+msgstr "Anahtar 3"
+
+msgid "Find an Exit"
+msgstr "Çıkışı bul"
+
+msgid "You're trapped inside the fairy ring. Find a way out!"
+msgstr "Bir peri çemberinde mahsur kaldın.Bir çıkış bul!"
+
+msgid "Find a Head"
+msgstr "Bir kafa bul"
+
+msgid "Find a new head for Kozmo. Hurry, he seems in danger!"
+msgstr "Kozmo için yeni bir kafa bul.Acele et. O şuan tehlikede!"
+
+msgid "Give the new head to Kozmo"
+msgstr "Kozmo'ya yeni kafasını ver."
+
+msgid "Kozmo needs his new head. Hurry!"
+msgstr "Kozmo'nun yeni kafaya ihtiyacı var acele et!"
+
+msgid "Find the Lighthouse"
+msgstr "Deniz Feneri'ni bul"
+
+msgid "By continuing north through the forest, I should be able to find the lighthouse at some point."
+msgstr "Ormanın içinden kuzeye doğru devam edersem bir noktada deniz fenerini bulabilirim."
+
+msgid "Find Paddles"
+msgstr "Kürekleri bul"
+
+msgid "There's a boat I can take to continue north, but I need paddles."
+msgstr "Kuzeye doğru gidebileceğim bir tekne var ama küreklere ihtiyacım var."
+
+msgid "Get Rid of the Monster"
+msgstr "Canavardan kurtul"
+
+msgid "There's a boat I can take to continue north, but a monster is guarding it."
+msgstr "Kuzeye doğru gidebileceğim bir tekne var ama bir canavar orayı koruyor."
+
+msgid "Take the Boat"
+msgstr "Tekneye bin"
+
+msgid "Taking the boat might be the only way to continue north."
+msgstr "Tekneye binmek belki de kuzeye gitmenin tek yoludur."
+
+msgid "Get Rid of the Caterpillar"
+msgstr "Solucandan kurtul"
+
+msgid "The moths will reward me with a doorknob if I get rid of it..."
+msgstr "Eğer ondan kurtulursam güveler beni bir kapı koluyla ödüllendirecek..."
+
+msgid "Get Your Reward"
+msgstr "Ödülünü al"
+
+msgid "The moths should reward me with a doorknob now."
+msgstr "Güveler beni şimdi kapı koluyla ödüllendirmeli."
+
+msgid "Use the Doorknob"
+msgstr "Kapı kulunu kullan"
+
+msgid "I got a doorknob from the moths. It seems to be the only way forward."
+msgstr "Güvelerden bir kapı tokmağı aldım. İlerlemenin tek yolu bu gibi görünüyor."
+
+msgid "Escape your prison"
+msgstr "Hapishanenden kaç"
+
+msgid "I woke up in a strange prison cell. I need to get out of here."
+msgstr "Garip bir hapishane hücresinin içinde uyandım. Buradan çıkmam gerek."
+
+msgid "Investigate the facility"
+msgstr "施設を探索する"
+
+msgid "Explore this place."
+msgstr "Tesisi araştır"
+
+msgid "Find a way to go deeper down"
+msgstr "Daha da aşağı gitmek için bir yol bul"
+
+msgid "The only way out of the facility is by going deeper down, according to Rune."
+msgstr "Rün'a göre tesisten çıkmanın tek yolu daha derinlere inmek."
+
+msgid "Lower the water level"
+msgstr "Su seviyesini alçalt"
+
+msgid "In order to go deeper, the water level may need to be lowered somehow."
+msgstr "Derine inmek için , su seviyesinin bir şekilde düşmesi gerekiyodur."
+
+msgid "Fix the elevator"
+msgstr "Asansörü tamir et"
+
+msgid "In order to go deeper, the elevator could perhaps be fixed."
+msgstr "Daha derine inmek için asansör belki tamir edilebilir."
+
+msgid "Find the cursed door"
+msgstr "Lanetli kapıyı bul"
+
+msgid "Rune said there should be a cursed door that leads outside, somewhere deep in this facility."
+msgstr "Rün, bu tesisin derinliklerinde bir yere, dışarıya açılan lanetli bir kapı olması gerektiğini söyledi."
+
+msgid "Find an exit"
+msgstr "Bir çıkış bul"
+
+msgid "Find a way to leave this strange house."
+msgstr "Bu garip evi terk etmek için bir yol bul."
+
+msgid "Find your items"
+msgstr "Eşyalarını bul"
+
+msgid "Find out what happened to your items and retrieve them."
+msgstr "Eşyalarına ne olduğunu ve onları geri almanın bir yolunu bul."
+
+msgid "Help Sai escape"
+msgstr "Sai'ye kaçması içim yardım et"
+
+msgid "Find a way to unlock the cage Sai is in."
+msgstr "Sai'nin içinde bulunduğu kafesin kilidini açmanın bir yolunu bul."
+
+msgid "Find and Unseal 5 Special Items"
+msgstr "5 Özel Öğeyi Bulun ve Mührünü Açın"
+
+msgid "Miss Knives keeps 5 important items in her house. I need to find and unseal each of them."
+msgstr "Bayan Knives evinde 5 önemli eşya bulunduruyor. Her birini bulup mühürlemem gerekiyor."
+
+msgid "Ask Spider What To Do Next"
+msgstr "Spider'a ne yapıcağımızı sor"
+
+msgid "I have the 5 items, but I don't know what to do with them."
+msgstr "5 öğem var ama onlarla ne yapacağımı bilmiyorum."
+
+msgid "Find a Lighter"
+msgstr "Çakmak bul"
+
+msgid "I need to find something to start a fire with."
+msgstr "Yangın başlatacak bir şey bulmam lazım."
+
+msgid "Burn the 5 Special Items"
+msgstr "5 özel eşyayı yak"
+
+msgid "I need to burn the items in the correct order. There's a fireplace I could use."
+msgstr "Eşyaları doğru sırayla yakmalıyım. Burada kullanabileceğim bir şömine var."
+
+msgid "Bring Alcohol to the Plant"
+msgstr "Bitki için alkol getir"
+
+msgid "One of the plants requires alcohol (or water)."
+msgstr "Bitkilerden biri alkol (veya su) gerek duyar."
+
+msgid "Bring Food to the Plant"
+msgstr "Bitkiye yemek getir"
+
+msgid "One of the plants requires to be fed. Meat is recommended."
+msgstr "Bitkilerden birinin beslenmesi gerekiyor. Et tavsiye edilir."
+
+msgid "Play Music for the Plant"
+msgstr "Bitki için müzik çal"
+
+msgid "One of the plants requires music."
+msgstr "Bitki için müzik çal."
+
+msgid "Bring Flowers to the Plant"
+msgstr "Bitkiye çiçekler getir"
+
+msgid "One of the plants requires a flower crown."
+msgstr "Bitkilerden birine çiçek tacı gerekir."
+
+msgid "Perform the Paper Lily ritual"
+msgstr "Paper Lily ritüelini gerçekleştir."
+
+msgid "In order to open the door, the letter needs to be folded into a paper lily and placed in the jar."
+msgstr "Kapıyı açabilmek için mektubun kağıttan bir zambak şeklinde katlanıp kavanoza yerleştirilmesi gerekiyor."
+
+msgid "Go through the door"
+msgstr "Kapıdan geç"
+
+msgid "The door is open. I can go home."
+msgstr "Kapı açık. Eve gidebilirim."
+
+msgctxt "objectives.name.ch1.blackpass_1_leave"
+msgid "Get to the Wardrobe"
+msgstr "Gardıroba git"
+
+msgctxt "objectives.desc.ch1.blackpass_1_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Bu rüyalardan ancak sondaki büyük gardıroba ulaştığımda uyanabilirim."
+
+msgctxt "objectives.name.ch1.blackpass_2_leave"
+msgid "Get to the Wardrobe"
+msgstr "Gardıroba git"
+
+msgctxt "objectives.desc.ch1.blackpass_2_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Bu rüyalardan ancak sondaki büyük gardıroba ulaştığımda uyanabilirim."
+
+msgctxt "objectives.name.ch1.blackpass_3_leave"
+msgid "Get to the Wardrobe"
+msgstr "Gardıroba git"
+
+msgctxt "objectives.desc.ch1.blackpass_3_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Bu rüyalardan ancak sondaki büyük gardıroba ulaştığımda uyanabilirim."
+
+msgctxt "objectives.name.ch1.blackpass_4_leave"
+msgid "Get to the Wardrobe"
+msgstr "Gardıroba git"
+
+msgctxt "objectives.desc.ch1.blackpass_4_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Bu rüyalardan ancak sondaki büyük gardıroba ulaştığımda uyanabilirim."
+
+msgid "Find a _____ for mom"
+msgstr "Annen içib bir _____bul"
+
+msgid "It's in a closet in the garage."
+msgstr "Garajda bir dolapta duruyor."

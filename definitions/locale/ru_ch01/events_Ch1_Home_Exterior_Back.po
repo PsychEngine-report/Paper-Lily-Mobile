@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It makes me happy to see you carry your cellphone around."
+msgstr "Я рад, что ты носишь с собой свой телефон."
+
+msgid "Because you're the one that got it for me?"
+msgstr "Потому что это твой подарок?"
+
+msgid "That, but also..."
+msgstr "Это да, но..."
+
+msgid "...how to put this..."
+msgstr "...как бы сказать..."
+
+msgid "It would be easy to forget it in a drawer if you don't have much use for it."
+msgstr "Если не будешь им пользоваться, то будешь вечно забывать его."
+
+msgid "...At the very least, it makes for a good flashlight."
+msgstr "...Хотя бы в нём нормальный фонарик."
+
+msgid "Right! What matters is that you carry it with you."
+msgstr "Ну вот! Главное, носи его с собой."
+
+msgid "Yeah."
+msgstr "Ага."
+
+msgid "You already have my number."
+msgstr "У тебя уже есть мой номер."
+
+msgid "Or are you showing me your wallpaper?"
+msgstr "Или ты хочешь показать свои обои?"
+
+msgid "Look."
+msgstr "Гляди."
+
+msgid "What's this?"
+msgstr "Что это?"
+
+msgid "Apparently, it's my ticket back home."
+msgstr "По всей видимости, мой билет домой."
+
+msgid "Really?"
+msgstr "Правда?"
+
+msgid "If this ritual ends up working..."
+msgstr "Если ритуал сработает..."
+
+msgid "(...And this doorknob isn't just some online scam...)"
+msgstr "(...А эта дверная ручка не очередной развод...)"
+
+msgid "Then supposedly I can use this on a special door and it'll take me back home."
+msgstr "...то я смогу вставить эту ручку в особую дверь, которая вернёт меня обратно."
+
+msgid "Really?!"
+msgstr "Правда?!"
+
+msgid "Yeah, well, I wasn't going to do this ritual without a plan."
+msgstr "Естественно, я бы не занималась ритуалами, не имея плана."
+
+msgid "Thank goodness."
+msgstr "Слава богу."
+
+msgid "All of my pestering worked."
+msgstr "Не зря устраивал тебе нравоучения."
+
+msgid "Don't lose it!!"
+msgstr "Смотри, не потеряй!"
+
+msgid "Of course."
+msgstr "Разумеется."
+
+msgid "(This should reassure him a bit.)"
+msgstr "(Его это немного успокоит.)"
+
+msgid "(Reassurance complete. No need to bring this back up.)"
+msgstr "(Успокоение прошло успешно. Эта тема закрыта.)"
+
+msgid "Are you going to try on makeup?"
+msgstr "Хочешь попробовать сделать себе макияж?"
+
+msgid "Or maybe..."
+msgstr "Или же..."
+
+msgid "You want to put it on me???"
+msgstr "Ты хочешь сделать его мне???"
+
+msgid "...I was just showing you..."
+msgstr "...Я просто пришла показать..."
+
+msgid "Oh..."
+msgstr "Вот как..."
+
+msgid "You sound almost... disappointed?"
+msgstr "Ты как будто... расстроился?"
+
+msgid "Do you need help putting lipstick on?"
+msgstr "Тебе помочь накрасить губы?"
+
+msgid "I-I'm not using it!"
+msgstr "Н-не надо мне их красить!"
+
+msgid "You do know that you're supposed to do that while the person is asleep, right?"
+msgstr "Ты же знаешь, что этим нужно заниматься, когда жертва спит?"
+
+msgid "You seemed so concentrated, I thought I could pull it off."
+msgstr "Ты был так сосредоточен, я думала, что получится."
+
+msgid "I think I'll be locking my room tonight..."
+msgstr "Закрою-ка я на ночь дверь в свою комнату."
+
+msgid "Drawing on Hiro's face will have to wait."
+msgstr "Придётся повременить с живописью на лице Хиро."
+
+msgid "Lace, I don't know what you're planning with that,"
+msgstr "Лэйси, уж не знаю, что ты напридумывала,"
+
+msgid "but it's gonna be really hard to wash off."
+msgstr "но смыть это потом будет ой как непросто."
+
+msgid "Yeah... I'm aware."
+msgstr "Да... я знаю."
+
+msgid "Um... do you need me to get up?"
+msgstr "Эм... Хочешь, чтобы я встал?"
+
+msgid "Are you painting this bench?"
+msgstr "Ты хочешь покрасить скамейку?"
+
+msgid "N-no... sorry."
+msgstr "Н-нет... прости."
+
+msgid "Okay, turn around."
+msgstr "Так, повернись-ка."
+
+msgid "...Huh?"
+msgstr "...Зачем?"
+
+msgid "You don't want me to tie your hair with the ribbon?"
+msgstr "А ты не хочешь, чтобы я заплёл тебе волосы?"
+
+msgid "Oh! I forgot we used to do that."
+msgstr "О! А я и забыла, что мы так раньше делали."
+
+msgid "But I need it for something else, so no."
+msgstr "Но она нужна мне не для этого, так что нет."
+
+msgid "Bummer!"
+msgstr "Облом!"
+
+msgid "Tying your hair will have to wait."
+msgstr "С заплетанием волос придётся повременить."
+
+msgid "...This is...?"
+msgstr "...А это что?.."
+
+msgid "A rune, for the ritual."
+msgstr "Руна, нужна для ритуала."
+
+msgid "Oh... It's just a rock with a greek letter?"
+msgstr "Хм... это просто камешек с греческой буквой?"
+
+msgid "It's not greek, but yeah, more or less."
+msgstr "Она не греческая, но да, как-то так."
+
+msgid "Interesting."
+msgstr "Интересно."
+
+msgid "No reason to show him again."
+msgstr "Ему больше не надо это показывать."
+
+msgid "The salt goes on the inside only..."
+msgstr "Соль нужно рассыпать изнутри..."
+
+msgid "Oh...? Lacie is learning to cook?"
+msgstr "Что?.. Лэйси учится готовить?"
+
+msgid "No, not yet."
+msgstr "Пока не планирую."
+
+msgid "Aww... It could've been fun!"
+msgstr "Да ну... а было бы весело!"
+
+msgid "Maybe some other time."
+msgstr "Как-нибудь в другой раз."
+
+msgid "Hiro needs no further seasoning."
+msgstr "Не нужно засаливать Хиро."
+
+msgid "My shoelaces! It's going to take ages to lace those back!"
+msgstr "Мои шнурочки! Я их потом буду всю вечность обратно всовывать!"
+
+msgid "I'm sorry, it's necessary."
+msgstr "Уж прости, они мне нужны."
+
+msgid "Those are my favorite, please don't lose them."
+msgstr "Они мои любимые, прошу тебя, не потеряй их."
+
+msgid "Lucky shoes? Or lucky shoelaces?"
+msgstr "Что любимые - кроссовки или шнурки?"
+
+msgid "Lucky nothing if you lose them!!"
+msgstr "Если потеряешь, то это уже будет неважно!!"
+
+msgid "I'll be careful!"
+msgstr "Я буду осмотрительна!"
+
+msgid "Here, take a look at them one last time."
+msgstr "Вот, взгляни на них в последний раз."
+
+msgid "Whaaat?"
+msgstr "Чегооо?"
+
+msgid "I have to burn them for the ritual."
+msgstr "Мне придётся их сжечь для ритуала."
+
+msgid "Can't you use different ones?"
+msgstr "А другие сжечь нельзя?"
+
+msgid "They have to be red, and worn by a dummy."
+msgstr "По правилам они должны быть красными, а их владелец должен быть дурачком."
+
+msgid "There's no way it says that..."
+msgstr "В жизни не поверю, что там так написано..."
+
+msgid "Let's not tease him anymore."
+msgstr "Перестанем-ка его дразнить."
+
+msgid "Are you learning how to sew?"
+msgstr "Ты учишься шить?"
+
+msgid "Not this year."
+msgstr "Только не в этом году."
+
+msgid "I have a hole on this sweater you can practice on, you know."
+msgstr "У меня тут на свитере есть дырка, можешь потренироваться."
+
+msgid "And risk damaging the kitty pattern even further?"
+msgstr "И ещё сильнее испортить котиков на нём?"
+
+msgid "I believe in you!"
+msgstr "А я в тебя верю!"
+
+msgid "Make me a new sweater or something."
+msgstr "Свяжи мне новый свитер, не знаю."
+
+msgid "This isn't yarn..."
+msgstr "Я тебе не пряха..."
+
+msgid "Hiro isn't here."
+msgstr "Хиро тут нет."
+
+msgid "A nice bench, isolated from the public gaze."
+msgstr "Красивая скамейка, стоит подальше от посторонних глаз."
+
+msgid "A bush."
+msgstr "Куст."
+
+msgid "A nice chair."
+msgstr "Красивый стул."
+
+msgid "Some pretty flowers are lined up on the sides."
+msgstr "Друг напротив друга в ряд посажены красивые цветы."
+
+msgid "A pond surrounded by flowers."
+msgstr "Прудик, усеянный цветами."
+
+msgid "I wish we had frogs here."
+msgstr "Жаль, у нас тут нет жаб..."
+
+msgid "Lamps that look a lot nicer at night."
+msgstr "Фонари, которые ночью раскрывают свою красоту."
+
+msgid "Another nice plant."
+msgstr "Ещё красивое растение."
+
+msgid "Some pretty flowers."
+msgstr "Милые цветочки."
+
+msgid "A potted plant. This one is called Jacques."
+msgstr "Растение в горшке. Его зовут Жак."
+
+msgctxt "events.Ch1_Home_Exterior_Back.misc_pottedplant_2.dlg.narrator"
+msgid "A potted plant."
+msgstr "Растение в горшке."
+
+msgid "A potted plant. This one is called Lucardo."
+msgstr "Растение в горшке. Его зовут Люкардо."
+
+msgctxt "events.Ch1_Home_Exterior_Back.misc_pottedplant_3.dlg.narrator"
+msgid "A potted plant."
+msgstr "Растение в горшке."
+
+msgid "A nice table."
+msgstr "Красивый стол."
+
+msgid "A tree."
+msgstr "Дерево."

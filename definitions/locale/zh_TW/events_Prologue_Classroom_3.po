@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "On second thought, I don't feel like it."
+msgstr "想了一下，還是算了。"
+
+msgid "Phew!"
+msgstr "呼！"
+
+msgid "This is my desk. Juli sits in front of me, and Kaya sits behind."
+msgstr "這是我的桌子，由里坐在我前面，香耶坐在後面。"
+
+msgid "I see..."
+msgstr "這樣啊..."
+
+msgid "Thanks for letting me know...?"
+msgstr "謝謝妳告訴我這些事...？"
+
+msgid "Saki's desk."
+msgstr "沙紀的桌子。"
+
+msgid "This isn't the right classroom for that."
+msgstr "不是在這間教室。"
+
+msgid "The path is already drawn."
+msgstr "路徑已經畫好了。"
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "還沒。我要先確定我有所有必要的東西。"
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "還沒。我要先把教室準備好。"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "我不想再惹上更多麻煩。"
+
+msgid "This window already has curtains."
+msgstr "這扇窗戶已經有窗簾了。"
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "把學校燒掉不是儀式的一部分。"
+
+msgid "There's a red notebook here."
+msgstr "這裡一本紅色筆記本。"
+
+msgid "There's nothing else here."
+msgstr "這裡沒有其他東西了。"
+
+msgid "It's already done."
+msgstr "已經完成了。"
+
+msgid "This isn't the time for that."
+msgstr "現在不是時候。"
+
+msgid "Some world encyclopedias."
+msgstr "世界百科全書。"
+
+msgid "I would definitely steal one of these if they weren't so darn heavy."
+msgstr "如果它們沒那麼重的話我絕對會偷走一本。"
+
+msgid "You can borrow my books if you need..."
+msgstr "需要的話妳可以借用我的書..."
+
+msgid "I'll keep that in mind."
+msgstr "我會留意這點的。"
+
+msgid "A clean chalkboard."
+msgstr "乾淨的黑板。"
+
+msgid "A wooden desk."
+msgstr "木桌。"
+
+msgid "Two paper slips filled with rules and regulations."
+msgstr "兩張寫滿了規定和規則的紙張。"
+
+msgid "I wonder if it says somewhere that we're not allowed on school grounds at night."
+msgstr "不知道上面有沒有寫我們不能晚上在學校出沒。"
+
+msgid "Oh well! I guess we'll never know if I don't read it!"
+msgstr "如果我沒有讀它我們大概永遠都不會知道！"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "出席表和課表。"
+
+msgid "A happy green plant."
+msgstr "快樂的綠色植物。"
+
+msgid "The plant is no longer happy."
+msgstr "植物不再快樂了。"
+
+msgid "Some cute potted plants. Their silent nature enchants you."
+msgstr "可愛的植物。它們沉默的本質吸引著妳。"
+
+msgid "The teacher's podium."
+msgstr "教師的講台。"
+
+msgid "A geography book and a globe sit atop it."
+msgstr "地理相關書本以及在其之上的地球儀。"
+
+msgid "Some boring textbooks."
+msgstr "無聊的課本。"
+
+msgid "Some very thick, school-related books."
+msgstr "非常厚重、跟學校有關的書本。"
+
+msgid "Some books and... chalk."
+msgstr "書本和...粉筆。"
+
+msgid "Take it?"
+msgstr "拿走嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "There's nothing else of use."
+msgstr "沒有什麼有用的東西了。"
+
+msgid "A trash can."
+msgstr "垃圾桶。"
+
+msgid "As it's usually the case with trash cans, it's devoid of useful items."
+msgstr "就像常見的垃圾桶一樣，它缺乏了有用的物品。"
+
+msgid "The curtains should stay closed."
+msgstr "窗簾應該關上。"
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "我應該現在把教室的桌子排好嗎？"
+
+msgid "Not yet"
+msgstr "再等等"
+
+msgid "Let's do this."
+msgstr "來吧。"

@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's happening?"
+msgstr "何？"
+
+msgid "What in the world happened here...?"
+msgstr "いったい何があったの……？"
+
+msgid "It's too large to fit in there."
+msgstr "大きすぎてここには入らない。"
+
+msgid "Some pieces of old wood."
+msgstr "古びた板切れ。"
+
+msgid "They're too old to be useful."
+msgstr "古すぎて使えそうにない。"
+
+msgid "The floor in the shrine is unstable."
+msgstr "社の床は不安定だ。"
+
+msgid "There's a note here. It says:"
+msgstr "メモがある。"
+
+msgid "\"The pipes get clogged sometimes."
+msgstr "「時々パイプが詰まることがあります。"
+
+msgid "If that happens, just add:"
+msgstr "その場合、以下のものを加えてください。"
+
+msgid "-Some pink petals"
+msgstr "・桃色の花びら数枚"
+
+msgid "-Some purple petals"
+msgstr "・紫色の花びら数枚"
+
+msgid "-Some white petals"
+msgstr "・白い花びら数枚"
+
+msgid "-A bit of black algae"
+msgstr "・黒い藻 少量"
+
+msgid "-A bit of green algae"
+msgstr "・緑の藻 少量"
+
+msgid "-A bit of blue algae"
+msgstr "・青い藻 少量"
+
+msgid "And that's it. Make sure you get the colors right, the little keeper is delicate.\""
+msgstr "以上。色を間違えないように気をつけてください、小さな番人は繊細です。」"
+
+msgid "A shrine of some sorts."
+msgstr "何かの祭壇。"
+
+msgid "There's a bowl with a goldfish in it."
+msgstr "金魚の入った鉢がある。"
+
+msgid "Take the fish?"
+msgstr "金魚を取る？"
+
+msgid "Yes"
+msgstr "取る"
+
+msgid "No"
+msgstr "取らない"
+
+msgid "A window with a view of the water."
+msgstr "水面が眺められる窓。"

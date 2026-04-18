@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Nothing happened."
+msgstr "Hiçbir şey olmadı."
+
+msgid "A crack in the wall."
+msgstr "Duvarda bir çatlak var."
+
+msgid "There's nothing else in there."
+msgstr "Başka hiçbir şey yok."
+
+msgid "There seems to be something inside..."
+msgstr "İçeride bir şey var gibi..."
+
+msgid "Take ${item:ch1.doorknob_library_fragment}?"
+msgstr "${item:ch1.doorknob_library_fragment} Alacak mısın?"
+
+msgctxt "events.Ch1_Red_Path.misc_crack.choice.Take ${item:ch1.doorknob_library_fragment}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_Path.misc_crack.choice.Take ${item:ch1.doorknob_library_fragment}?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_1.dlg.narrator"
+msgid "The gate is locked. A keypad is attached to it."
+msgstr "Geçit kilitli. Üzerinde bir tuş takımı var."
+
+msgctxt "events.Ch1_Red_Path.misc_gate_1.choice"
+msgid "Input a code?"
+msgstr "Bir kod gir?"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_1.choice.Input a code?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_1.choice.Input a code?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_2.dlg.narrator"
+msgid "The gate is locked. A keypad is attached to it."
+msgstr "Geçit kilitli. Üzerinde bir tuş takımı var."
+
+msgctxt "events.Ch1_Red_Path.misc_gate_2.choice"
+msgid "Input a code?"
+msgstr "Bir kod gir?"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_2.choice.Input a code?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_2.choice.Input a code?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_3.dlg.narrator"
+msgid "The gate is locked. A keypad is attached to it."
+msgstr "Geçit kilitli. Üzerinde bir tuş takımı var."
+
+msgctxt "events.Ch1_Red_Path.misc_gate_3.choice"
+msgid "Input a code?"
+msgstr "Bir kod gir?"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_3.choice.Input a code?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_Path.misc_gate_3.choice.Input a code?"
+msgid "No"
+msgstr "Hayır"

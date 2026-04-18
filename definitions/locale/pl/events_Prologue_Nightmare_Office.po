@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no keyhole on the door."
+msgstr "W drzwiach nie ma dziurki od klucza."
+
+msgid "The bookshelf towers over your small figure."
+msgstr "Półka z książkami góruje nad twoją drobną postacią."
+
+msgid "The bookshelf has always felt too large for comfort."
+msgstr "Półka na książki. Jej wielkość cię przytłacza."
+
+msgid "The bookshelf is filled with hard to read books."
+msgstr "Półka wypełniona jest trudnymi do przeczytania książkami."
+
+msgid "The bookshelf has books with titles you can't even pronounce."
+msgstr "Na półce leżą książki z tytułami, których nawet nie potrafisz wymówić."
+
+msgid "A pile of science books."
+msgstr "Sterta naukowych książek."
+
+msgid "A pile of science books. Many pages are bookmarked."
+msgstr "Sterta naukowych książek. Wiele stron jest oznaczonych zakładkami."
+
+msgid "Books on out-of-body experiences."
+msgstr "Książki o doświadczeniach pozacielesnych."
+
+msgid "A pile of books. The top one is called \"Depictions of psychological trauma in research patients.\""
+msgstr "Sterta książek. Ta na górze nazywa się \"Przedstawienie traumy psychologicznej u pacjentów\"."
+
+msgid "A pile of anatomy textbooks."
+msgstr "Sterta podręczników do anatomii."
+
+msgid "What the hell."
+msgstr "Co do diabła."
+
+msgid "Was that...?"
+msgstr "Czy to było...?"
+
+msgid "Was that...!?"
+msgstr "Czy to było...!?"
+
+msgid "No. It wasn't."
+msgstr "Nie, nie było."
+
+msgid "It's just an empty couch."
+msgstr "To tylko pusta kanapa."
+
+msgid "A familiar desk."
+msgstr "Znajome biurko."
+
+msgid "______val of souls from_____avel below the_____ot follow instructions____velope______."
+msgstr "______val dusz z_____avel poniżej_____ot postępuj zgodnie z instrukcjami____velope______."
+
+msgid "It's too hazy to read."
+msgstr "Zbyt niejasne, żeby to odczytać."
+
+msgid "A story book and a photo of someone."
+msgstr "Książka z opowiadaniami i czyjeś zdjęcie."
+
+msgid "Some books on physiological changes in humans in specific environments."
+msgstr "Niektóre książki na temat zmian fizjologicznych u ludzi w określonych środowiskach."
+
+msgid "There's also a notebook filled with rough scribbles and notes."
+msgstr "Jest też notes wypełniony bezładnymi bazgrołami i notatkami."
+
+msgid "A painting of a vague memory."
+msgstr "Obraz mglistego wspomnienia."
+
+msgid "..."
+msgstr "... "
+
+msgid "A trashcan filled with blank pieces of paper."
+msgstr "Kosz na śmieci wypełniony pustymi kartkami papieru."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Just what is this place..."
+msgstr "Czym jest to miejsce..."
+
+msgid "Not interested, huh?"
+msgstr "Nie jesteś zainteresowana, co?"
+
+msgid "So? What do you think? I can see everything that's in your head."
+msgstr "Więc? Co myślisz? Widzę wszystko, co jest w twojej głowie."
+
+msgid "You really should make an effort to be more lively."
+msgstr "Naprawdę powinnaś się postarać, aby być bardziej żywa."
+
+msgid "You only have until I decide I'm done playing around with you, you know?"
+msgstr "Masz tylko czas, aż zdecyduję, że skończyłem się z tobą bawić, wiesz?"
+
+msgid "And then..."
+msgstr "A potem..."
+
+msgid "...snap."
+msgstr "...ciach."
+
+msgid "The door you came through won't open anymore."
+msgstr "Drzwi, przez które weszłaś, nie chcą się już otworzyć. "

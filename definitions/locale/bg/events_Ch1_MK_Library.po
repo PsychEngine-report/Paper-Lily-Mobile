@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "Ключа пасва!"
+
+msgid "You don't know how to use it..."
+msgstr "Не знаете как да го използвате…"
+
+msgid "A pile of books."
+msgstr "Купчина книги."
+
+msgid "A pile of books, taller than you."
+msgstr "Купчина книги, по-високи от вас."
+
+msgid "A massive pile of books. If they fell on you, it would hurt."
+msgstr "Масивна купчина от книги. Ако паднат върху теб, няма да боли."
+
+msgid "A pile of books, shorter than you."
+msgstr "Купчина книги, по-ниски от вас."
+
+msgid "A bookshelf housing hundreds of books."
+msgstr "Рафт със стотици книги."
+
+msgid "One of them stands out."
+msgstr "Една от тях се отличава."
+
+msgid "Read a passage?"
+msgstr "Прочети един пасаж?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "I don't think you should be testing on her anymore."
+msgstr "Не мисля, че трябва повече да я изпитвате."
+
+msgid "Her powers hold potential, I wish to entertain this idea a little longer."
+msgstr "Силите ѝ притежават потенциал, искам да разгледам тази идея още малко."
+
+msgid "She's incapable of any sort of coherent thought."
+msgstr "Тя е неспособна на каквато и да е последователна мисъл."
+
+msgid "We're just wasting souls on her."
+msgstr "Просто прахосваме душите си за нея."
+
+msgid "..."
+msgstr "…"
+
+msgid "I don't know why I've decided to talk to you."
+msgstr "Не знам защо реших да говоря с теб."
+
+msgid "Maybe it's because you look really pitiful."
+msgstr "Може би защото изглеждаш доста жалко."
+
+msgid "You're so worthless that no matter what tests they put you through, you fail them all."
+msgstr "Толкова сте безполезни, че на каквито и тестове да ви подлагат, се проваляте на всички."
+
+msgid "If I had just left you alone that day. You wouldn't be wasting all of our time."
+msgstr "Ако просто те бях изоставил онзи ден. Нямаше да ни губиш времето."
+
+msgid "You wouldn't be wasting your own time here."
+msgstr "Нямаше да си губиш времето тук."
+
+msgid "Tomorrow, Glen will discontinue your tests."
+msgstr "Утре Глен ще прекрати тестовете ти."
+
+msgid "You better thank me. I'm the one who told him to."
+msgstr "По-добре да ми благодариш. Аз съм този, който му каза."
+
+msgid "I'm just sick of seeing you."
+msgstr "Просто ми писна да те виждам."
+
+msgid "The 36th experiment has failed as well."
+msgstr "36-тия експеримент също се провали."
+
+msgid "I'm TELLING YOU, she's practically just a used tissue."
+msgstr "КАЗВАМ ВИ, че на практика тя е просто използвана кърпичка."
+
+msgid "Useless, USELESS demon. WE'RE WASTING OUR TIME!"
+msgstr "Безполезна, БЕЗПОЛЕЗЕН демон. ГУБИМ СИ ВРЕМЕТО!"
+
+msgid "Calm down. I can't work when you're so noisy."
+msgstr "Успокой се. Не мога да работя, когато си толкова шумна."
+
+msgid "Go play with your other dolls."
+msgstr "Върви да си играеш с другите кукли."
+
+msgid "Maybe I WILL."
+msgstr "Може би ЩЕ ГО НАПРАВЯ."
+
+msgid "Are you upset?"
+msgstr "Разстроена ли си?"
+
+msgid "No, of course not."
+msgstr "Не, разбира се че не."
+
+msgid "You look like you're deep in thought."
+msgstr "Изглеждаш, сякаш си замислена доста дълбоко."
+
+msgid "You are the one who did this to her, after all."
+msgstr "В края на краищата ти си този, който й е причинил това."
+
+msgid "Glen, back off."
+msgstr "Глен, отдръпни се."
+
+msgid "Heh."
+msgstr "Хе."
+
+msgid "If I'm correct, you're getting yourself into a messy situation."
+msgstr "Ако съм прав, вкарваш себе си в доста неприятна ситуация."
+
+msgid "I'll be fine."
+msgstr "Ще се справя."
+
+msgid "A large couch."
+msgstr "Голямо канапе."
+
+msgid "Maybe we should take a rest."
+msgstr "Може би трябва да си починем."
+
+msgid "You just rested."
+msgstr "Просто си починахте."
+
+msgid "In the cage."
+msgstr "В клетката."
+
+msgid "That wasn't rest, it was uncomfortable!"
+msgstr "Това не беше почивка, беше неудобно!"
+
+msgid "There's something inside the lamp."
+msgstr "Вътре в лампата има нещо."
+
+msgid "Reach for it?"
+msgstr "Протегнете ръка към него?"
+
+msgid "There's a eyeball inside the lamp, but you no longer need it."
+msgstr "В лампата има очна ябълка, но тя вече не ви е необходима."
+
+msgid "A reading table."
+msgstr "Маса за четене."

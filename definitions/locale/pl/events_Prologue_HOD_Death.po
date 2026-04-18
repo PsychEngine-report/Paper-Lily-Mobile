@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A beheaded corpse."
+msgstr "Pozbawione głowy zwłoki."
+
+msgid "Saki's beheaded corpse lies here."
+msgstr "Leżą tu pozbawione głowy zwłoki Saki."
+
+msgid "..."
+msgstr "... "
+
+msgid "That can't be..."
+msgstr "To nie może być…"
+
+msgid "How is this possible?"
+msgstr "Jak to jest możliwe?"
+
+msgid "I just saw her a while ago..."
+msgstr "Widziałam ją przed chwilą…"
+
+msgid "I-I don't understand..."
+msgstr "Nie rozumiem..."
+
+msgid "A bloody corpse. The lower half is missing."
+msgstr "Zakrwawione zwłoki. Brakuje dolnej połowy."
+
+msgid "Juli's bloody corpse. Her lower half is missing."
+msgstr "Zakrwawione zwłoki Juli. Brakuje jej dolnej połowy ciała."
+
+msgid "I..."
+msgstr "Ja..."
+
+msgid "This is my fault..."
+msgstr "To moja wina..."
+
+msgid "A bloody corpse."
+msgstr "Krwawe zwłoki."
+
+msgid "Kaya's bloody corpse."
+msgstr "Zakrwawione zwłoki Kayi."
+
+msgid "Oh no no no no no..."
+msgstr "O nie, nie, nie, nie..."
+
+msgid "Oh my god."
+msgstr "O mój Boże."
+
+msgid "This can't be real... It's not real..."
+msgstr "To nie może być prawda... To nie jest prawda..."
+
+msgid "Right...?"
+msgstr "Prawda...?"
+
+msgid "...The door..."
+msgstr "...Drzwi..."
+
+msgid "I can... leave...?"
+msgstr "Mogę... wyjść...?"
+
+msgid "I can... go home...?"
+msgstr "Mogę... wrócić do domu...?"
+
+msgid "I don't want to die..."
+msgstr "Nie chcę umierać..."
+
+msgid "Why not? Everybody should try it at least once."
+msgstr "Dlaczego nie? Każdy powinien spróbować choć raz."
+
+msgid "Right."
+msgstr "Racja."
+
+msgid "...It doesn't light up..."
+msgstr "...nie świeci się..."
+
+msgid "It's as if this place isn't dark... it's just black..."
+msgstr "To tak jakby to miejsce nie było ciemne... jest po prostu czarne..."
+
+msgid "That's not going to help."
+msgstr "To nic nie pomoże."
+
+msgid "Unfortunately, the door has no keyhole."
+msgstr "Niestety, drzwi nie maja dziurki od klucza."
+
+msgid "Blood."
+msgstr "Krew."
+
+msgid "Blood puddles."
+msgstr "Kałuże krwi."
+
+msgid "There's no door here."
+msgstr "Tu nie ma drzwi."
+
+msgid "I cant... go back..."
+msgstr "Nie mogę... wrócić..."
+
+msgid "A welcoming door."
+msgstr "Drzwi wejściowe."
+
+msgid "It's locked."
+msgstr "Są zamknięte."
+
+msgid "I... have to..."
+msgstr "...Muszę…"
+
+msgid "...get out..."
+msgstr "...się wydostać..."

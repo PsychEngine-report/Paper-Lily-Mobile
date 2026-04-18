@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(If I pass through there, that guy might see me...)"
+msgstr "(如果我穿過那裡，那傢伙可能會看到我...)"
+
+msgid "(Um...)"
+msgstr "(嗯...)"
+
+msgid "(Did I adopt a stray?)"
+msgstr "(我是領養流浪狗了嗎？)"
+
+msgid "Are you following me?"
+msgstr "你在跟著我嗎？"
+
+msgid "Yep."
+msgstr "沒錯。"
+
+msgid "We stand a better chance together, right?"
+msgstr "我們一起比較有機會，對吧？"
+
+msgid "Don't worry, I won't be dead weight."
+msgstr "別擔心，我不會扯後腿。"
+
+msgid "Well, unless I'm actually dead..."
+msgstr "好吧，除非我真的死了..."
+
+msgid "But then you can just leave me there."
+msgstr "如果那樣的話妳可以把我丟下。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Look, you can just pretend I'm not here if you want."
+msgstr "聽著，妳可以假裝我不存在。"
+
+msgid "See?"
+msgstr "看吧？"
+
+msgid "(That guy might still be waiting for me...)"
+msgstr "(那傢伙可能還在等我...)"
+
+msgid "(Should I just return to where he is?)"
+msgstr "(我應該回到他那裡嗎？)"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "*Sigh*"
+msgstr "*嘆氣*"
+
+msgid "Uhm..."
+msgstr "嗯..."
+
+msgid "Huh? Oh... what's up?"
+msgstr "蛤？喔...怎麼了？"
+
+msgid "There was nothing important in there, let's go."
+msgstr "裡面沒什麼重要的東西，走吧。"
+
+msgid "Wait, how did you-"
+msgstr "等等，你怎麼-"
+
+msgid "Hurry up."
+msgstr "快啊。"
+
+msgid "A gate. It's locked."
+msgstr "大門。鎖住了。"
+
+msgid "A gate. There's probably no point in closing it."
+msgstr "大門。沒什麼理由把它關起來。"
+
+msgid "The grate you kicked out of the way earlier."
+msgstr "你剛剛踢開的柵欄。"
+
+msgid "It's too high to reach."
+msgstr "高到搆不到。"
+
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](賽伊離開了隊伍。)[/color]"

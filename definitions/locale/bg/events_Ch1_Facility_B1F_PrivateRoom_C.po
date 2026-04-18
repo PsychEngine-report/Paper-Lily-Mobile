@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The silhouette of a large clock is reflected here."
+msgstr "Тук е отразен силуетът на голям часовник."
+
+msgid "A large window shaped like a clock towers above you."
+msgstr "Над вас се извисява голям прозорец с формата на часовник."
+
+msgid "The time is set to 12:00."
+msgstr "Часът е зададен на 12:00."
+
+msgid "There you are!"
+msgstr "Ето те!"
+
+msgid "How'd you get in there?"
+msgstr "Как попадна там?"
+
+msgid "I got zapped, like there's something keeping me out."
+msgstr "Стори ми се, че нещо ме държи навън."
+
+msgid "Really?"
+msgstr "Наистина?"
+
+msgid "You didn't even notice me gone!?"
+msgstr "Дори не забеляза че ме няма!?"
+
+msgid "...."
+msgstr "...."
+
+msgid "No."
+msgstr "Не."
+
+msgid "Cold..."
+msgstr "Студено…"
+
+msgid "So what was in there anyway?"
+msgstr "Е, какво изобщо имаше там?"
+
+msgid "Anything fun?"
+msgstr "Нещо забавно?"
+
+msgid "Yes, very fun."
+msgstr "Да, много весело."
+
+msgid "What? Really??"
+msgstr "Какво? Наистина??"
+
+msgid "What was it?"
+msgstr "Какво беше то?"
+
+msgid "I can't tell you."
+msgstr "Не мога да ти кажа."
+
+msgid "Huh?!"
+msgstr "Хмм?!"
+
+msgid "Why not??"
+msgstr "Но защо не??"
+
+msgid "Because it's more fun that way."
+msgstr "Защото така е много по-забавно."
+
+msgid "No way, don't do me dirty like this!"
+msgstr "Нямя начин, не ми прави мръсно по този начин!"
+
+msgid "..."
+msgstr "…"
+
+msgid "(It's strange though. Why wasn't he able to enter?)"
+msgstr "(Все пак е странно. Защо не е могъл да влезе?)"

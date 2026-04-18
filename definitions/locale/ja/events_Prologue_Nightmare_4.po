@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "\"Are you lost?\""
+msgstr "「迷ったか？」"
+
+msgid "\"You should give up, you will never leave this place.\""
+msgstr "「諦めたほうがいい、お前は決してここから出られない。」"
+
+msgid "The figures stare at you from the other side of the windows."
+msgstr "人影が窓の向こう側からこちらを見つめている。"
+
+msgid "Your mother will be devastated to learn that she's now completely alone."
+msgstr ""
+"今や自分が天涯孤独だと知ったら、\n"
+"お前の母親は途方に暮れるだろうな。"
+
+msgid "No husband, no daughter. Everybody left her. How pitiful."
+msgstr ""
+"夫もおらず、娘もいない。誰もが彼女を残して去った。\n"
+"可哀想なことだ。"
+
+msgid "How dare you... say something like that..."
+msgstr "よくも……そんなこと言えるわね……"
+
+msgid "You know nothing about me."
+msgstr "私のこと、何も知らないくせに。"
+
+msgid "The door is stuck. It won't open."
+msgstr "ドアは開かない。"

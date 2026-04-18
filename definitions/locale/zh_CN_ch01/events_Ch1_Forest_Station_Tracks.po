@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It doesn't seem to be doing anything."
+msgstr "它似乎什么都没打算做。"
+
+msgid "The other tickets contain the same image."
+msgstr "另一张票上画着相同的图像。"
+
+msgid "You take a number from the ticket dispenser."
+msgstr "你从自动取票机上取了一个号。"
+
+msgid "A potted plant sits dangerously in the middle of the tracks."
+msgstr "盆栽危险地摆放在铁轨中央。"
+
+msgid "The tracks end here."
+msgstr "轨道到这里就结束了。"
+
+msgid "I'm not giving up just yet... I know I can solve this."
+msgstr "我还没打算放弃...我知道我可以解决的。"
+
+msgid "The tickets from the dispenser probably contain a hint."
+msgstr "自动取票机里的票上可能有提示。"

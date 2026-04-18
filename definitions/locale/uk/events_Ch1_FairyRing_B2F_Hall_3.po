@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's another large hole on the floor."
+msgstr "У підлозі є ще одна велика діра."
+
+msgid "Jump down?"
+msgstr "Зістрибнути вниз?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "..."
+msgstr "..."
+
+msgid "It's not like there's anywhere else to go."
+msgstr "Нам все одно більше нікуди піти."
+
+msgid "Wanna turn back?"
+msgstr "Не хочеш повернути назад?"
+
+msgid "No, the further away from those heads we go, the better."
+msgstr "Ні. Чим далі від цих голів, тим краще."
+
+msgid "Okay."
+msgstr "Добре."
+
+msgid "I'm starting to doubt there's an exit, with how deep we've gone..."
+msgstr "Ми так глибоко забралися... Я починаю сумніватись, що звідси можна втекти..."

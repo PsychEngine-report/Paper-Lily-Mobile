@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Please hurry, or my sister will kill us both."
+msgstr "Por favor, despacha-te, antes que a minha irmã nos mate aos dois."
+
+msgid "Here or outside is fine."
+msgstr "Pode ser aqui dentro ou lá fora."
+
+msgid "We really appreciate it."
+msgstr "Agradecemos imenso."
+
+msgid "Hurry the hell up already!"
+msgstr "Despacha-te!"
+
+msgid "What are you doing?"
+msgstr "O que é que estás a fazer?"
+
+msgid "Don't babysit him, KILL HIM!"
+msgstr "Não tomes conta dela, MATA-A!"
+
+msgid "Oh my god. The silence. It's so damn good."
+msgstr "Meu Deus. O silêncio. É tão bom."
+
+msgid "Here you go, you earned it."
+msgstr "Aqui tens, mereceste."
+
+msgid "Not sure why you'd want this though."
+msgstr "Só não sei porque é que a queres."
+
+msgid "Thanks."
+msgstr "Obrigada."
+
+msgid "Thank the cursed heavens it's gone."
+msgstr "Finalmente desapareceu."
+
+msgid "Alright, I guess I'll just..."
+msgstr "Está bem, acho que vou..."
+
+msgid "Yes, kill it. Do it."
+msgstr "Sim, mata-a. Mata."
+
+msgid "Quickly."
+msgstr "Rápido."
+
+msgid "HUZZAH!!!!!"
+msgstr "HURRA!!!!!"
+
+msgid "Finally."
+msgstr "Até que enfim."
+
+msgid "Dead dead dead!"
+msgstr "Morta, morta, morta!"
+
+msgid "You'll kill him???"
+msgstr "Vais matá-la???"
+
+msgid "I guess so."
+msgstr "Acho que sim."
+
+msgid "THANK THE HEAVENS."
+msgstr "GRAÇAS A DEUS."
+
+msgid "..."
+msgstr "..."
+
+msgid "You shut the hell up. You're dead meat, jerk."
+msgstr "Está calado. Eu mato-te, estúpido."
+
+msgid "Farewell, little brother. It has been a displeasure."
+msgstr "Adeus, irmãozinho. Foi um desprazer."
+
+msgid "(What now...?)"
+msgstr "(E agora...?)"
+
+msgid "Kill it here"
+msgstr "Matá-la aqui"
+
+msgid "Do not"
+msgstr "Não matar"
+
+msgid "Why're you carrying a bucket?"
+msgstr "Por que é que andas com um balde?"
+
+msgid "(To be honest, I'm not so sure myself.)"
+msgstr "(Sinceramente, nem eu sei.)"
+
+msgid "(Um...)"
+msgstr "(Hm...)"
+
+msgid "What's taking so long?!"
+msgstr "Porque é que estás a demorar tanto?!"
+
+msgid "...Damn. That was pretty metal."
+msgstr "...Caramba. Isso foi bué porreiro."
+
+msgid "It stinks though."
+msgstr "Mas cheira mal."
+
+msgid "No take backs!"
+msgstr "Sem devoluções!"
+
+msgid "Dang."
+msgstr "Raios."
+
+msgid "Huh... he's a lot quieter when he's with you."
+msgstr "Hm... Ele fica muito mais calmo quando está contigo."
+
+msgid "Maybe he's anticipating his demise!?"
+msgstr "Talvez ele esteja a sentir a morte?!"
+
+msgid "Oh man, can't wait!!!"
+msgstr "Mal posso esperar!!!"
+
+msgid "I don't need to see him anymore."
+msgstr "Já não preciso de o ver."
+
+msgid "Not ALIVE, at least."
+msgstr "Não VIVO, pelo menos."
+
+msgid "Do you know where this leads?"
+msgstr "Sabes onde é que isto vai dar?"
+
+msgid "No. We found that lying around when we were setting up camp."
+msgstr "Não. Encontrámos por aí quando estávamos a montar a tenda."
+
+msgid "I see..."
+msgstr "Estou a ver..."
+
+msgid "No idea."
+msgstr "Sei lá."
+
+msgid "Please, we already gave you the doorknob."
+msgstr "Santa paciência, já te demos a maçaneta."
+
+msgid "What more do you want?"
+msgstr "O que é que queres mais?"
+
+msgid "Oh god..."
+msgstr "Meu Deus..."
+
+msgid "Please stop, I seriously can't stand that."
+msgstr "Por favor, para, não aguento mais."
+
+msgid "Get that shit away from me."
+msgstr "Tira-me essa merda da frente."
+
+msgid "Hate that crap."
+msgstr "Odeio essa porcaria."
+
+msgid "Alright alright geez!"
+msgstr "Ok, ok, calma!"
+
+msgid "Just take the stupid doorknob and leave!"
+msgstr "Leva lá a maçaneta estúpida e vai-te embora!"
+
+msgid "That smells putrid..."
+msgstr "Isso cheira a podre..."
+
+msgid "I guess I get to keep him...?"
+msgstr "Acho que posso ficar com ele...?"
+
+msgid "No thanks, I don't care for stones."
+msgstr "Não, obrigado. Não gosto de pedras."
+
+msgid "The heck would I need that for?"
+msgstr "Para que raios é que eu vou precisar disso?"
+
+msgid "I don't know."
+msgstr "Não sei."
+
+msgid "To give to Rune..?"
+msgstr "Para dar ao Rune..?"
+
+msgid "Who the heck is Rune?"
+msgstr "E quem é Rune?"
+
+msgid "What in the world are you doing!?"
+msgstr "Que raio estás a fazer?!"
+
+msgid "Maybe she's deranged."
+msgstr "Se calhar ela é maluca."
+
+msgid "You said to kill it."
+msgstr "Disseste para matar."
+
+msgid "Yeah, so do it already!"
+msgstr "Sim, então mata!"
+
+msgid "(Hmmm...)"
+msgstr "(Hmmm...)"
+
+msgid "(I guess salt doesn't work on moths.)"
+msgstr "(Acho que o sal não funciona com traças.)"
+
+msgid "What. The. FUCK."
+msgstr "Que. MERDA."
+
+msgid "...Oh man..."
+msgstr "...Meu..."
+
+msgid "A fireplace."
+msgstr "Uma lareira."
+
+msgid "(There's no smoke...?)"
+msgstr "(Não dá fumo...?)"
+
+msgid "Take ${item:ch1.forest_caterpillar}?"
+msgstr "Levar a ${item:ch1.forest_caterpillar}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"

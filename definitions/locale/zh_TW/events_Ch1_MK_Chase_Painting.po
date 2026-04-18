@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Try Again?"
+msgstr "再試一次嗎？"
+
+msgid "Retry"
+msgstr "重試"
+
+msgid "Skip"
+msgstr "跳過"
+
+msgid "Give Up"
+msgstr "放棄"
+
+msgid "The way back has turned into a wall."
+msgstr "回去的道路已經變成了一面牆。"
+
+msgid "*huff* *puff*"
+msgstr "*喘氣* *喘氣*"
+
+msgid "We barely got away..."
+msgstr "我們好不容易才逃脫..."
+
+msgid "Remind me not to mess with creepy paintings in the future."
+msgstr "提醒我以後不要亂搞恐怖的畫作。"
+
+msgid "I barely got away..."
+msgstr "我好不容易才逃脫..."
+
+msgid "I need to be more careful with the things I touch..."
+msgstr "我需要對我接觸到的東西更加小心..."

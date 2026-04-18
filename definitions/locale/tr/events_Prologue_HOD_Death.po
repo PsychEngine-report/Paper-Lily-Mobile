@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A beheaded corpse."
+msgstr "Kafası kesilmiş bir ceset."
+
+msgid "Saki's beheaded corpse lies here."
+msgstr "Saki'nin kafası kesilmiş cesedi burada yatıyor."
+
+msgctxt "events.Prologue_HOD_Death.chr_girl1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "That can't be..."
+msgstr "Bu olamaz..."
+
+msgid "How is this possible?"
+msgstr "Bu nasıl mümkün olabilir?"
+
+msgid "I just saw her a while ago..."
+msgstr "Onu kısa zaman önce gördüm..."
+
+msgid "I-I don't understand..."
+msgstr "A-anlamıyorum..."
+
+msgid "A bloody corpse. The lower half is missing."
+msgstr "Kanlı bir ceset. Belden aşağısı yok."
+
+msgid "Juli's bloody corpse. Her lower half is missing."
+msgstr "Juli'nin kanlı cesedi. Belden aşağısı yok."
+
+msgctxt "events.Prologue_HOD_Death.chr_girl2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I..."
+msgstr "Ben..."
+
+msgid "This is my fault..."
+msgstr "Bu benim suçum..."
+
+msgid "A bloody corpse."
+msgstr "Kanlı bir ceset."
+
+msgid "Kaya's bloody corpse."
+msgstr "Kaya'nın kanlı cesedi."
+
+msgid "Oh no no no no no..."
+msgstr "Oh hayır hayır hayır hayır hayır..."
+
+msgid "Oh my god."
+msgstr "Aman tamrım."
+
+msgid "This can't be real... It's not real..."
+msgstr "Bu gerçek olamaz... Bu gerçek değil..."
+
+msgid "Right...?"
+msgstr "Değil mi...?"
+
+msgid "...The door..."
+msgstr "...Kapı..."
+
+msgid "I can... leave...?"
+msgstr "Gide...bilirim..?"
+
+msgid "I can... go home...?"
+msgstr "Eve... gidebilirim..?"
+
+msgid "I don't want to die..."
+msgstr "Ölmek istemiyorum..."
+
+msgid "Why not? Everybody should try it at least once."
+msgstr "Neden olmasın? Herkes en az bir kere denemeli."
+
+msgid "Right."
+msgstr "Değil mi."
+
+msgid "...It doesn't light up..."
+msgstr "...yanmıyor..."
+
+msgid "It's as if this place isn't dark... it's just black..."
+msgstr "Sanki bu yer karanlık değilmiş gibi...sadece siyah..."
+
+msgid "That's not going to help."
+msgstr "Bunun yardımı olmayacak."
+
+msgid "Unfortunately, the door has no keyhole."
+msgstr "Ne yazık ki, kapının bir anahtar deliği yok."
+
+msgid "Blood."
+msgstr "Kan."
+
+msgid "Blood puddles."
+msgstr "Kan birikintileri."
+
+msgctxt "events.Prologue_HOD_Death.misc_blood_2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "There's no door here."
+msgstr "Burada bir kapı yok."
+
+msgid "I cant... go back..."
+msgstr "Geri...dönemem..."
+
+msgid "A welcoming door."
+msgstr "Karşılayan bir kapı."
+
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgctxt "events.Prologue_HOD_Death.move_exit.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I... have to..."
+msgstr "Benim...çıkmam..."
+
+msgid "...get out..."
+msgstr "...gerek..."

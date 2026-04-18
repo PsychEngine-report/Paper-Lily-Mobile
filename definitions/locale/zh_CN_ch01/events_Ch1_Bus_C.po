@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's curtains where the driver should be."
+msgstr "窗帘背后肯定就是司机在的地方。"
+
+msgid "Take a look behind the curtains?"
+msgstr "要往窗帘后面看看吗？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "There's no one there, just an empty driver's seat."
+msgstr "这里没有人，只有一张空的司机座椅。"
+
+msgid "There's nobody behind the curtains."
+msgstr "窗帘背后没有人。"
+
+msgid "My seat."
+msgstr "我的座位。"
+
+msgid "It's too dark to see out the window."
+msgstr "太暗了，看不清窗外。"
+
+msgid "Uhm... where am I?"
+msgstr "唔...我在哪里？"

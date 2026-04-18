@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This locker has no keyhole."
+msgstr "Ta szafka nie ma dziurki od klucza."
+
+msgid "They're already open, so there's nothing to cut."
+msgstr "Już są otwarte, więc nie ma czego ciąć."
+
+msgid "Boxes filled to the brim with cleaning products."
+msgstr "Pudełka wypełnione po brzegi środkami czystości."
+
+msgid "It's packed with white chalk and nothing else."
+msgstr "Są wypełnione białą kredą i niczym więcej."
+
+msgid "This must be like... a year's supply."
+msgstr "To musi być chyba... zapas na cały rok."
+
+msgid "..."
+msgstr "... "
+
+msgid "They're packed too tightly, I can't pull any out."
+msgstr "Są zbyt ciasno upakowane, nie mogę żadnego wyciągnąć."
+
+msgid "Some boxes filled with left shoes and lighters."
+msgstr "Kilka pudełek wypełnionych pozostawionymi butami i zapalniczkami."
+
+msgid "Some brand new brooms."
+msgstr "Kilka nowych mioteł."
+
+msgid "A calendar... probably."
+msgstr "Kalendarz... chyba."
+
+msgid "There are no dates or month names in it."
+msgstr "Nie ma w nim żadnych dat ani nazw miesięcy."
+
+msgid "A cleaning cart."
+msgstr "Wózek do sprzątania."
+
+msgid "It's sparkling clean."
+msgstr "Jest lśniąco czysty."
+
+msgid "A lamp. There's no light bulb nor a slot to place one."
+msgstr "Lampa. Nie ma żarówki ani miejsca, żeby takową umieścić."
+
+msgid "A large locker. It's sealed shut."
+msgstr "Duża szafka. Jest szczelnie zamknięta."
+
+msgid "A trash can. You can't see the bottom."
+msgstr "Kosz na śmieci. Nie widać dna."
+
+msgid "That's... weird."
+msgstr "To jest... dziwne."
+
+msgid "What is?"
+msgstr "Co jest?"
+
+msgid "The existence of this room... makes no sense."
+msgstr "Istnienie tego pokoju... nie ma sensu."
+
+msgid "What do you mean?"
+msgstr "Co masz na myśli?"
+
+msgid "Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside."
+msgstr "Biorąc pod uwagę kształt szkoły, nie może tu być żadnego pomieszczenia. Z zewnątrz unosiłoby się w powietrzu."
+
+msgid "Interesting..."
+msgstr "Interesujące..."
+
+msgid "But... we didn't even finish the ritual! What's happening?"
+msgstr "Ale... nawet nie dokończyłyśmy rytuału! Co się dzieje?"
+
+msgid "I don't know..."
+msgstr "Nie wiem..."
+
+msgid "Isn't it exciting!?"
+msgstr "Czyż to nie ekscytujące!?"
+
+msgid "Let's keep going."
+msgstr "Nie zatrzymujmy się."

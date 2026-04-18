@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "Коробочка залишається зачиненою..."
+
+msgid "The box opens!"
+msgstr "Коробочка відчинилась!"
+
+msgid "There's a key inside."
+msgstr "У ній лежить ключ."
+
+msgid "There's some kind of black rag here."
+msgstr "Тут лежить якась чорна тканина."
+
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "Взяти предмет: ${item:ch1.mk_compress}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "A large basket filled with toys."
+msgstr "Великий кошик з іграшками."
+
+msgid "What is all of this..?"
+msgstr "Що це все таке?"
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "А тут є машинки на радіокеруванні чи щось подібне?"
+
+msgid "Mmm... no."
+msgstr "М-м... ні."
+
+msgid "That's oddly specific."
+msgstr "І надто в тебе специфічні запити."
+
+msgid "They're fun."
+msgstr "З ними не засумуєш."
+
+msgid "An oversized bed."
+msgstr "Величезне ліжко."
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "(Це ліжко завелике навіть для того чудовиська.)"
+
+msgid "Wow, what a luxury."
+msgstr "Оце шик."
+
+msgid "There's nothing else in the box."
+msgstr "У коробочці більше нічого немає."
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "Дамський стіл, на якому стоїть коробочка. Вона відкривається кодовим замком."
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "(На коробочці намальований ключ...)"
+
+msgid "Try to unlock the box?"
+msgstr "Спробувати відчинити коробочку?"
+
+msgid "A simple coat hanger."
+msgstr "Звичайний вішак."
+
+msgid "A small bedside table."
+msgstr "Малий столик при ліжку."
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "(Він здається дуже малим, особливо поряд з цим ліжком.)"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "Дамський стіл. У шухлядках лежить косметика."
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "Нащо турбуватися про косметику, коли ти чудовисько?"
+
+msgid "That's not nice."
+msgstr "Ти досить неввічливий."
+
+msgid "She locked me in a cage."
+msgstr "Вона замкнула мене в клітці."
+
+msgid "I'd say she's not nice."
+msgstr "Це вона неввічлива."
+
+msgid "A painting of a window."
+msgstr "Малюнок вікна."
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "Без справжніх вікон тут можна задихнутися."

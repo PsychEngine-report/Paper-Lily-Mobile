@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Dozens of books are neatly organized on the shelves."
+msgstr "书架上整齐地摆放着好几十本书。"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "一本无题之书很显眼。要读一段吗？"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "Variations of rituals ______carefully documented ______ recipient."
+msgstr "仪式的各种变体______详尽记录了______收件人。"
+
+msgid "Any human that enters ______ by way of a ritual is carefully tracked."
+msgstr "任何通过仪式进入______的人类都会被精确定位。"
+
+msgid "No accounts of humans infiltrating by their own means exist, _________ easily detected."
+msgstr "没有任何关于人类通过自己的方式进行渗透的记载，_________很容易被检测。"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "一本无题之书很显眼。要读一段吗？"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "Average recorded survival time of humans following ritual rules: 15 minutes."
+msgstr "人类遵守仪式规则时，平均的存活时间：15分钟。"
+
+msgid "Average survival time ________ breaching ritual rules: 140 minutes."
+msgstr "________违反仪式规则时，平均的存活时间：140分钟。"
+
+msgid "Average rate of adherence to the ritual rules: 98.31%"
+msgstr "仪式规则的平均遵守率：98.31%"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "一本无题之书很显眼。要读一段吗？"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "Demons can pick up on a human's soul from at least five meters away."
+msgstr "恶魔能在至少五米之外感受到人类的灵魂。"
+
+msgid "Exceptions exist ___________ as well as the elderly or the sick; they are less perceivable and less satiating."
+msgstr "例外也存在于___________以及老人或病患之中；他们不太容易被察觉，也不太容易产生饱腹感。"
+
+msgid "Due to these factors, their value is considered to be negligible."
+msgstr "由于这些因素，它们的价值也可以忽略不计。"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "一本无题之书很显眼。要读一段吗？"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "Demons won't hesitate to kill and consume ______"
+msgstr "恶魔会毫不犹豫地杀死并吞噬______"
+
+msgid "_____'s regulations don't allow free consumption of souls ________ must be reported."
+msgstr "_____的规定不允许随意地吞噬灵魂________这件事必须要被报告。"
+
+msgid "Any demand ________ through the appropriate channels."
+msgstr "任何需求都可通过适当的渠道________。"
+
+msgid "White grass is growing on the floor. It's soft to the touch."
+msgstr "地板上长出了白色的小草。摸上去软软的。"
+
+msgid "You can spot some faint shapes in the window."
+msgstr "你可以从窗户里看到一些模糊的形影。"

@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It could be dangerous to topple these boxes over."
+msgstr "Повалити ці коробки може бути небезпечно."
+
+msgid "A large pile of boxes that goes all the way to the ceiling."
+msgstr "Велика купа коробок, що дістає до стелі."
+
+msgid "This room feels different..."
+msgstr "Ця кімната незвичайна..."
+
+msgid "Is it safe...?"
+msgstr "Тут безпечно?.."
+
+msgid "Ah, there you are."
+msgstr "Ах, он ви де."
+
+msgid "Who are you...? What is this place?"
+msgstr "Хто ти?.. І що це за місце?"
+
+msgid "Straight to the point I see."
+msgstr "Одразу до суті? Розумію."
+
+msgid "Well, this isn't quite your world."
+msgstr "Словом, це не ваш світ."
+
+msgid "...What?"
+msgstr "...Що?"
+
+msgid "Let's not get into it. You're doing a ritual, correct?"
+msgstr "Поки забудемо про це. Ти ж виконуєш ритуал, чи не так?"
+
+msgid "..."
+msgstr "..."
+
+msgid "Stop, and go home."
+msgstr "Зупинись та йди додому."
+
+msgid "All of you. I mean it."
+msgstr "Всі інші теж. Я не жартую."
+
+msgid "Excuse me...?"
+msgstr "Перепрошую?.."
+
+msgid "Kat, if you keep doing what you're doing, things won't end well."
+msgstr "Кет, якщо продовжиш у тому ж дусі, нічого хорошого не вийде."
+
+msgid "Do you know this person, Kat?"
+msgstr "Кет, ти знаєш, хто це?"
+
+msgid "Not at all."
+msgstr "Вперше бачу."
+
+msgid "They seem to know you, though."
+msgstr "А тебе, видно, знають.."
+
+msgid "What is it with everyone warning me lately?"
+msgstr "І чому всі раптом почали мене попереджувати?"
+
+msgid "I need some answers."
+msgstr "Мені потрібні відповіді на питання."
+
+msgid "So far, you haven't-"
+msgstr "І я досі не почула жодного-"
+
+msgid "Stop! Don't cross that line."
+msgstr "Стривай! Не переходь цю рису."
+
+msgid "Sigh..."
+msgstr "*Позіхає*..."
+
+msgid "If you haven't realized by now, the ritual works."
+msgstr "Якщо ти не втямила, то ритуал працює."
+
+msgid "It will take you somewhere you'll never return from."
+msgstr "Він забере тебе туди, звідки тобі не вдасться повернутись."
+
+msgid "If it works then... I should definitely finish it."
+msgstr "Якщо він і справді працює... то я маю його закінчити.."
+
+msgid "Kat, what are you saying...?"
+msgstr "Кет, що ти таке кажеш?.."
+
+msgid "Sorry, but I can't listen to this person. I have my reasons for doing this."
+msgstr "Пробачте, та я не послухаюсь цієї людини. На те є причини."
+
+msgid "I don't know how much you value what you have right now but..."
+msgstr "Не знаю, чи цінуєш ти те, що маєш зараз..."
+
+msgid "If you continue down this path, you'll lose everything."
+msgstr "Але якщо ти зробиш ще один крок, то втратиш геть усе."
+
+msgid "Everything you hold dear, and everything you don't."
+msgstr "І те, чим твоє серце дорожить, і те, на що тобі байдуже."
+
+msgid "Your questions will not receive any satisfying answers..."
+msgstr "І навряд чи тебе задовольнять відповіді, які ти шукаєш."
+
+msgid "And everything you know about the world will turn meaningless."
+msgstr "Більш того, усе твоє уявлення про світ розсиплеться."
+
+msgid "Those three."
+msgstr "А ці троє..."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Are you willing to sacrifice their lives for your so-called \"reasons\"?"
+msgstr "Чи твої \"причини\" достатньо вагомі, щоб пожертвувати їхніми життями?"
+
+msgid "Lives...?"
+msgstr "Життями?.."
+
+msgid "Furthermore, your own life."
+msgstr "І не тільки їхніми - твоїм життям теж."
+
+msgid "Are you willing to die for the answers you're seeking?"
+msgstr "Чи готова ти померти за відповіді, які так наполегливо шукаєш?"
+
+msgid "Let's go back, Kat."
+msgstr "Гайда назад, Кет."
+
+msgid "I want to leave..."
+msgstr "Я хочу піти звідси..."
+
+msgid "I don't believe you. Why don't you just give me my answers yourself then? Spare me the trip."
+msgstr "Я тобі не вірю. Що заважає тут і зараз дати мені всі відповіді? Заразом збережеш нам час."
+
+msgid "I thought so."
+msgstr "От і все."
+
+msgid "I've said what I needed to."
+msgstr "Ти почула те, що мала почути."
+
+msgid "Why? Who are you?"
+msgstr "Навіщо? Я навіть нічого про тебе не знаю."
+
+msgid "Just someone who has seen too many humans die."
+msgstr "Мені довелося спостерігати надто багато смертей."
+
+msgid "It would sadden me to add you four to the pile."
+msgstr "Було б сумно додавати тебе у список загиблих."
+
+msgid "Go home, Kat."
+msgstr "Йди додому, Кет."
+
+msgid "Can't you feel it in the air here? You're all in danger."
+msgstr "Невже ти не відчуваєш, що ви всі у небезпеці?"
+
+msgid "Kat, please, this feels too dangerous..."
+msgstr "Кет, благаю тебе, тут надто небезпечно..."
+
+msgid "Kat, let's just go."
+msgstr "Кет, ходімо вже звідси."
+
+msgid "Yeah, let's get out of here. I didn't sign up for this."
+msgstr "Так, ходімо. Я на таке не погоджувалась."
+
+msgid "Kat, we don't want something bad to happen to you."
+msgstr "Ми просто не хочемо, щоб з тобою щось сталося, Кет."
+
+msgid "Fine, let's go."
+msgstr "Добре, ходімо звідси."
+
+msgid "Are you by any chance the same person from my dream earlier today?"
+msgstr "Скажи но, ти часом не людина з мого сну?"
+
+msgid "A dream...?"
+msgstr "Сну?.."
+
+msgid "It must have been your subconscious warning you as well."
+msgstr "Схоже, навіть твоя підсвідомість намагалась тебе попередити."
+
+msgid "...I see."
+msgstr "...Зрозуміло."
+
+msgid "(Oh.)"
+msgstr "(Ой, ще дещо.)"
+
+msgid "(Should I give this person the blueprints I found...?)"
+msgstr "(Чи віддати цій людині креслення, які я знайшла?..)"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "By the way..."
+msgstr "До речі..."
+
+msgid "I found these weird blueprints a few minutes ago."
+msgstr "Я нещодавно знайшла ось такі креслення."
+
+msgid "Just take them."
+msgstr "Забери їх."
+
+msgid "Otherwise I might change my mind."
+msgstr "Доки я не передумала."
+
+msgid "Huh... this is..."
+msgstr "Гм... це ж..."
+
+msgid "Thank you."
+msgstr "Дякую тобі."
+
+msgid "You're doing the right thing, Kat. Your father would be glad."
+msgstr "Ти правильно вчинила, Кет. Твій батько б тобою пишався."
+
+msgid "It's okay to accept the life you're left with. Don't destroy it."
+msgstr "Ти не маєш нищити своє теперішнє життя. Краще його прийняти."
+
+msgid "...I guess."
+msgstr "...Мабуть, і так."
+
+msgid "Kat!!!"
+msgstr "Кет!!!"
+
+msgid "Go already. You can't be here."
+msgstr "Іди. Тобі тут не місце."
+
+msgid "If what you said is true..."
+msgstr "Якщо ти не брешеш..."
+
+msgid "Then thanks."
+msgstr "То дякую."
+
+msgid "I'll pass on the ritual."
+msgstr "Я забуду про ритуал."
+
+msgid "For tonight."
+msgstr "Принаймні на сьогодні."
+
+msgid "That's good enough."
+msgstr "Цього достатньо."
+
+msgid "A large pile of trash cans. They all seem to be empty."
+msgstr "Велика купа відер для сміття. Вони всі порожні."

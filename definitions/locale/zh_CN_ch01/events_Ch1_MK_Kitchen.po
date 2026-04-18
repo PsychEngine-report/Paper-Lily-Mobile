@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_barrel.dlg.narrator"
+msgid "A storage compartment filled with various types of food."
+msgstr "一个储藏室，里面装满了各种食物。"
+
+msgid "There's a key in there as well."
+msgstr "里面还放着一把钥匙。"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_barrel_2.dlg.narrator"
+msgid "A storage compartment filled with various types of food."
+msgstr "一个储藏室，里面装满了各种食物。"
+
+msgid "A large cauldron."
+msgstr "一口大锅。"
+
+msgid "Is this where she cooks children?"
+msgstr "这是她煮小孩的地方吗？"
+
+msgid "It wouldn't surprise me, after the day I've had."
+msgstr "在经历了这一天后，这也不会再让我感觉惊讶了。"
+
+msgid "It looks like some sort of stew."
+msgstr "看起来像是某种炖肉。"
+
+msgid "It's cold and it doesn't seem to have been looked after in a long time."
+msgstr "它已经冷了，似乎很久没人看过了。"
+
+msgid "There's a black thing sticking out from the stew."
+msgstr "炖肉里伸出一个漆黑的物体。"
+
+msgid "Take it with you?"
+msgstr "要带走吗？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Take it with you?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Take it with you?"
+msgid "No"
+msgstr "否"
+
+msgid "...It seems to be part of something bigger."
+msgstr "...这看起来是某种更大的物体的一部分。"
+
+msgid "You can't take all of it."
+msgstr "你不能全部带走。"
+
+msgid "There's nothing else of interest."
+msgstr "没有其他有趣的东西了。"
+
+msgid "Stir it up?"
+msgstr "要搅拌吗？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Stir it up?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Stir it up?"
+msgid "No"
+msgstr "否"
+
+msgid "A kitchen counter."
+msgstr "厨台。"
+
+msgid "A cutting board."
+msgstr "一块砧板。"
+
+msgid "Nothing on the shelves above looks useful."
+msgstr "上面的架子上看起来没有有用的东西。"
+
+msgid "A cookie jar."
+msgstr "一个饼干罐。"
+
+msgid "There's something inside that doesn't belong."
+msgstr "里面有些不属于它的东西。"
+
+msgid "Take it?"
+msgstr "要带走吗？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Take it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Take it?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.dlg.lacie"
+msgid "Maybe I could feed this to the plant..."
+msgstr "也许我可以用这个去喂植物..."
+
+msgid "Bring the cookies to the plant?"
+msgstr "要把饼干带给植物吗？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Bring the cookies to the plant?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Bring the cookies to the plant?"
+msgid "No"
+msgstr "否"
+
+msgid "The plant rejects the cookies..."
+msgstr "这株植物拒绝了饼干..."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2_sai_react.dlg.sai"
+msgid "Whoa neat! Can I have one?"
+msgstr "哇，太好了！我可以吃吗？"
+
+msgid "There was an eyeball in there."
+msgstr "之前这里面有个眼球诶。"
+
+msgid "Ah. So, no cookie?"
+msgstr "啊。所以，没有饼干吗？"
+
+msgid "There's an eyeball in there."
+msgstr "这里面有一个眼球诶。"
+
+msgid "Well, not the eyeball, I meant the cookie."
+msgstr "呃，我不是眼球，我是说饼干啦。"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2_sai_react.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I don't think you should eat that."
+msgstr "我觉得你不该吃这个。"
+
+msgid "Bummer."
+msgstr "真扫兴！"
+
+msgid "A green frog."
+msgstr "一只绿色的青蛙。"
+
+msgid "Is that a frog?"
+msgstr "那是青蛙吗？"
+
+msgid "Is it alive?"
+msgstr "它还活着吗？"
+
+msgid "Yes."
+msgstr "嗯。"
+
+msgid "Maybe the knives lady will cook it."
+msgstr "也许那个拿刀的女士会把它做成菜吧。"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "An empty, frog-less spot on the shelf."
+msgstr "架子上空荡荡的，没有青蛙。"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.dlg.lacie"
+msgid "Maybe I could feed this to the plant..."
+msgstr "也许我可以用这个去喂植物..."
+
+msgid "Bring the frog to the plant?"
+msgstr "要把青蛙带给植物吗？"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.choice.Bring the frog to the plant?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.choice.Bring the frog to the plant?"
+msgid "No"
+msgstr "否"
+
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"

@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Go to your room"
+msgstr "Idź do swojego pokoju"
+
+msgid "This day needs to end. I want to lie in bed."
+msgstr "Ten dzień musi się skończyć. Chcę się położyć do łóżka."
+
+msgid "Find the ritual items"
+msgstr "Znajdź przedmioty do rytuału"
+
+msgid "I should gather the items that I'll need for the ritual. Shouldn't be too hard."
+msgstr "Powinnam zebrać przedmioty potrzebne do rytuału. To nie powinno być trudne."
+
+msgid "Something red to draw"
+msgstr "Coś czerwonego do malowania"
+
+msgid "I need to find something red to paint or mark the front of the house with."
+msgstr "Muszę znaleźć coś czerwonego do pomalowania lub oznaczenia frontu domu."
+
+msgid "Something red to tie"
+msgstr "Coś czerwonego do zawiązania"
+
+msgid "I need to find something red to tie onto the phone cord."
+msgstr "Muszę znaleźć coś czerwonego do przywiązania do kabla telefonicznego."
+
+msgid "Prepare the ritual"
+msgstr "Przygotuj rytuał"
+
+msgid "I need to prepare the ritual before night time."
+msgstr "Muszę przygotować rytuał przed snem."
+
+msgid "Paint symbol"
+msgstr "Nakreśl symbol"
+
+msgid "I need to paint a symbol on the front door of the house. I hope no one will see me..."
+msgstr "Muszę namalować symbol na drzwiach wejściowych do domu. Mam nadzieję, że nikt mnie nie zobaczy..."
+
+msgid "Tie string on phone cord"
+msgstr "Zawiąż sznurek na kablu od telefonu"
+
+msgid "I need to tie a red ribbon on the cord of my landline phone in the kitchen."
+msgstr "Muszę zawiązać czerwoną wstążkę na kablu od telefonu stacjonarnego w kuchni."
+
+msgid "Set alarm clock"
+msgstr "Ustaw budzik"
+
+msgid "I need to set an alarm for midnight."
+msgstr "Muszę nastawić alarm na północ."
+
+msgid "Get the ritual reversal instructions"
+msgstr "Uzyskaj instrukcje dotyczące odwrócenia rytuału"
+
+msgid "I messed up the ritual. I need to undo it by following the steps I left at my PC."
+msgstr "Zepsułam rytuał. Muszę go cofnąć, wykonując kroki, które pozostawiłam na moim komputerze."
+
+msgid "Undo the ritual"
+msgstr "Odwróć rytuał"
+
+msgid "I need to undo the ritual for my own safety."
+msgstr "Muszę odwrócić rytuał dla własnego bezpieczeństwa."
+
+msgid "Untie red string"
+msgstr "Odwiąż czerwoną wstążkę"
+
+msgid "Add salt to front door"
+msgstr "Rozspy sól po drzwiami wejściowymi"
+
+msgid "Add salt to back door"
+msgstr "Rozsyp sól pod tylnymi drzwiami"
+
+msgid "Add salt to garage door"
+msgstr "Rozsyp sól pod bramą garażową"
+
+msgid "Go to sleep"
+msgstr "Idź spać"
+
+msgid "The ritual reversal is complete. There's nothing left to do other than to get in bed."
+msgstr "Odwrócenie rytuału zostało wykonane. Nie pozostało nic innego, jak położyć się do łóżka."
+
+msgid "Talk to Hiro"
+msgstr "Porozmawiaj z Hiro"
+
+msgid "I need to tell Hiro to leave the house..."
+msgstr "Muszę powiedzieć Hiro, żeby wyszedł z domu..."
+
+msgid "Get in bed"
+msgstr "Połóż się do łóżka"
+
+msgid "Apparently, I need to lie in bed until the alarm goes off."
+msgstr "Wygląda na to, że muszę poleżeć w łóżku, aż zadzwoni budzik."
+
+msgid "Call the Bus"
+msgstr "Zadzwoń po autobus"
+
+msgid "I need to call the bus. The phone number I should dial is 999281#0."
+msgstr "Muszę przywołać autobus. Numer telefonu, który powinnam wybrać to 999281#0."
+
+msgid "Take the Bus"
+msgstr "Wsiądź do autobusu"
+
+msgid "Get on the bus. Hurry!"
+msgstr "Wsiadaj do autobusu. Pospiesz się!"
+
+msgid "Look Around"
+msgstr "Rozejrzyj się"
+
+msgid "I arrived somewhere. What do I do now?"
+msgstr "Gdzieś dotarłam. Co teraz?"
+
+msgid "Explore the Forest"
+msgstr "Rozejrzyj się po lesie"
+
+msgid "I arrived at my destination. Can I find someone to help me?"
+msgstr "Dojechałem do celu. Czy znajdę kogoś, kto mi pomoże?"
+
+msgid "Rotate the Signs"
+msgstr "Obróć znaki"
+
+msgid "I think I can open up a path towards the Daylight Gate if I rotate the blue signs towards the correct direction."
+msgstr "Myślę, że mogę otworzyć ścieżkę do Bramy Światła Dziennego, jeśli obrócę niebieskie znaki w odpowiednim kierunku."
+
+msgid "Open the Daylight Gate"
+msgstr "Otwórz Bramę Światła Dziennego"
+
+msgid "There's a gate impeding my progress. I need to find a way to open it."
+msgstr "Droga dalej jest zamknięta. Muszę znaleźć sposób, by ją otworzyć."
+
+msgid "Restore the Sign"
+msgstr "Napraw znak"
+
+msgid "A sign is missing from the front of the station. If I find it, I should put it back in place."
+msgstr "Przed stacją brakuje znaku. Jeśli go znajdę, powinnam umieścić go z powrotem na miejscu."
+
+msgid "I found a blue sign. I should put it back in its spot in front of the station."
+msgstr "Znalazłam niebieski znak. Powinnam umieścić go z powrotem na miejscu przed stacją."
+
+msgid "Pick the Right Path"
+msgstr "Wybierz właściwą ścieżkę"
+
+msgid "There are three paths in front of me, and a ticket as a hint for which one to pick..."
+msgstr "Przede mną są trzy ścieżki i bilet jako podpowiedź, którą z nich wybrać."
+
+msgid "Enter the Locked Site"
+msgstr "Wejdź w głąb lasu"
+
+msgid "Seems like the only way north might be through the Locked Site."
+msgstr "Wygląda na to, że jedyna droga na północ wiedzie przez las."
+
+msgid "Find a Light"
+msgstr "Znajdź światło"
+
+msgid "Apparently, I'll' need a light to walk into the Locked Site."
+msgstr "Najwyraźniej jest mi potrzebne źródło światła, aby przejść przez las."
+
+msgid "Find 3 Keys"
+msgstr "Odszukaj 3 klucze"
+
+msgid ""
+"I found clues to the location of the three keys for the padlocks:\n"
+"-Behind a tree\n"
+"-In a cactus pot\n"
+"-Under a fake rug"
+msgstr ""
+"Znalazłam wskazówki dotyczące miejsc, w których poukrywane są trzy klucze do kłódek:\n"
+"-Za drzewem\n"
+"-W doniczce z kaktusem\n"
+"-Pod fałszywym dywanem"
+
+msgid "Key 1"
+msgstr "Klucz 1"
+
+msgid "Key 2"
+msgstr "Klucz 2"
+
+msgid "Key 3"
+msgstr "Klucz 3"
+
+msgid "Find an Exit"
+msgstr "Znajdź wyjście"
+
+msgid "You're trapped inside the fairy ring. Find a way out!"
+msgstr "Jesteś uwięziona wewnątrz pierścienia wróżek. Znajdź wyjście!"
+
+msgid "Find a Head"
+msgstr "Znajdź głowę"
+
+msgid "Find a new head for Kozmo. Hurry, he seems in danger!"
+msgstr "Znajdź nową głowę dla Kozma. Szybko, wydaje się być w niebezpieczeństwie!"
+
+msgid "Give the new head to Kozmo"
+msgstr "Daj Kozmowi nową głowę"
+
+msgid "Kozmo needs his new head. Hurry!"
+msgstr "Kozmo potrzebuje nowej głowy. Pospiesz się!"
+
+msgid "Find the Lighthouse"
+msgstr "Odszukaj latarnię morską"
+
+msgid "By continuing north through the forest, I should be able to find the lighthouse at some point."
+msgstr "Idąc dalej na północ przez las, powinnam znaleźć latarnię morską."
+
+msgid "Find Paddles"
+msgstr "Znajdź wiosła"
+
+msgid "There's a boat I can take to continue north, but I need paddles."
+msgstr "Jest łódź, którą mogę popłynąć dalej na północ, ale potrzebuję wioseł."
+
+msgid "Get Rid of the Monster"
+msgstr "Pozbądź się potwora"
+
+msgid "There's a boat I can take to continue north, but a monster is guarding it."
+msgstr "Jest łódź, którą mogę popłynąć dalej na północ, ale strzeże jej potwór."
+
+msgid "Take the Boat"
+msgstr "Popłyń łodzią"
+
+msgid "Taking the boat might be the only way to continue north."
+msgstr "Popłynięcie łodzią może być jedynym sposobem na kontynuowanie podróży na północ."
+
+msgid "Get Rid of the Caterpillar"
+msgstr "Pozbądź się gąsienicy"
+
+msgid "The moths will reward me with a doorknob if I get rid of it..."
+msgstr "Ćmy nagrodzą mnie klamką, jeśli się jej pozbędę..."
+
+msgid "Get Your Reward"
+msgstr "Odbierz nagrodę"
+
+msgid "The moths should reward me with a doorknob now."
+msgstr "Ćmy powinny mnie teraz wynagrodzić klamką."
+
+msgid "Use the Doorknob"
+msgstr "Użyj klamki"
+
+msgid "I got a doorknob from the moths. It seems to be the only way forward."
+msgstr "Dostałam klamkę od ciem. Zdaje się, że to jedyna droga naprzód."
+
+msgid "Escape your prison"
+msgstr "Ucieknij z więzienia"
+
+msgid "I woke up in a strange prison cell. I need to get out of here."
+msgstr "Obudziłam się w dziwnej celi więziennej. Muszę się stąd wydostać."
+
+msgid "Investigate the facility"
+msgstr "Zbadaj placówkę"
+
+msgid "Explore this place."
+msgstr "Zapoznaj się z tym miejscem."
+
+msgid "Find a way to go deeper down"
+msgstr "Znajdź sposób, by zejść niżej"
+
+msgid "The only way out of the facility is by going deeper down, according to Rune."
+msgstr "Według Rune'a, jedynym sposobem na wydostanie się z tej placówki jest zejście niżej."
+
+msgid "Lower the water level"
+msgstr "Obniż poziom wody"
+
+msgid "In order to go deeper, the water level may need to be lowered somehow."
+msgstr "Aby zejść głębiej, konieczne może być obniżenie poziomu wody."
+
+msgid "Fix the elevator"
+msgstr "Napraw windę"
+
+msgid "In order to go deeper, the elevator could perhaps be fixed."
+msgstr "Aby zejść głębiej, być może trzeba będzie naprawić windę."
+
+msgid "Find the cursed door"
+msgstr "Odszukaj przeklęte drzwi"
+
+msgid "Rune said there should be a cursed door that leads outside, somewhere deep in this facility."
+msgstr "Rune twierdzi, że gdzieś w głębi tej placówki powinny znajdować się przeklęte drzwi prowadzące na zewnątrz."
+
+msgid "Find an exit"
+msgstr "Znajdź wyjście"
+
+msgid "Find a way to leave this strange house."
+msgstr "Znajdź sposób, by opuścić ten dziwny dom."
+
+msgid "Find your items"
+msgstr "Odszukaj swoje przedmioty"
+
+msgid "Find out what happened to your items and retrieve them."
+msgstr "Dowiedz się, co stało się z twoimi przedmiotami i odzyskaj je."
+
+msgid "Help Sai escape"
+msgstr "Pomóż Saiowi się wydostać"
+
+msgid "Find a way to unlock the cage Sai is in."
+msgstr "Znajdź sposób na otworzenie klatki, w której znajduje się Sai."
+
+msgid "Find and Unseal 5 Special Items"
+msgstr "Odszukaj i rozpieczętuj 5 specjalnych przedmiotów"
+
+msgid "Miss Knives keeps 5 important items in her house. I need to find and unseal each of them."
+msgstr "Miss Knives przechowuje w swoim domu 5 ważnych przedmiotów. Muszę je znaleźć i odpieczętować."
+
+msgid "Ask Spider What To Do Next"
+msgstr "Zapytaj Pająka, co dalej należy zrobić"
+
+msgid "I have the 5 items, but I don't know what to do with them."
+msgstr "Mam 5 przedmiotów, ale nie wiem, co z nimi zrobić."
+
+msgid "Find a Lighter"
+msgstr "Znajdź zapalniczkę"
+
+msgid "I need to find something to start a fire with."
+msgstr "Muszę znaleźć coś do rozpalenia kominka."
+
+msgid "Burn the 5 Special Items"
+msgstr "Spal 5 specjalnych przedmiotów"
+
+msgid "I need to burn the items in the correct order. There's a fireplace I could use."
+msgstr "Muszę spalić przedmioty w odpowiedniej kolejności. Jest kominek, którego mogę użyć."
+
+msgid "Bring Alcohol to the Plant"
+msgstr "Przynieś roślinie alkohol"
+
+msgid "One of the plants requires alcohol (or water)."
+msgstr "Jedna z roślin wymaga alkoholu (lub wody)."
+
+msgid "Bring Food to the Plant"
+msgstr "Przynieś roślinie coś do jedzenia"
+
+msgid "One of the plants requires to be fed. Meat is recommended."
+msgstr "Jedna z roślin wymaga karmienia. Zalecane jest mięso."
+
+msgid "Play Music for the Plant"
+msgstr "Odtwórz muzykę dla rośliny"
+
+msgid "One of the plants requires music."
+msgstr "Jedna z roślin pragnie muzyki."
+
+msgid "Bring Flowers to the Plant"
+msgstr "Przynieś roślinie kwiaty"
+
+msgid "One of the plants requires a flower crown."
+msgstr "Jedna z roślin chce wianka z kwiatów."
+
+msgid "Perform the Paper Lily ritual"
+msgstr "Wykonaj rytuał Papierowej Lilii"
+
+msgid "In order to open the door, the letter needs to be folded into a paper lily and placed in the jar."
+msgstr "Aby otworzyć drzwi, należy złożyć list w papierową lilię i umieścić ją w dzbanie."
+
+msgid "Go through the door"
+msgstr "Przejdź przez drzwi"
+
+msgid "The door is open. I can go home."
+msgstr "Drzwi są otwarte. Mogę wrócić do domu."
+
+msgid "Get to the Wardrobe"
+msgstr "Dojdź do szafy"
+
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "Mogę się obudzić z tych snów tylko wtedy, gdy dotrę do dużej szafy na końcu."
+
+msgid "Find a _____ for mom"
+msgstr "Przynieś ___ mamie"
+
+msgid "It's in a closet in the garage."
+msgstr "Znajduje się w szafie w garażu."

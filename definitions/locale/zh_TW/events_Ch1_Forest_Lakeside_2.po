@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "清空 ${item:ch1.bucket_full} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "清空 ${item:ch1.bucket_full_holy} 嗎？"
+
+msgid "The faucet isn't working."
+msgstr "水龍頭壞了。"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "裝滿 ${item:ch1.bucket} 嗎？"
+
+msgid "There's a boat paddle here."
+msgstr "那裡有根船槳。"
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "拿走 ${item:ch1.forest_paddles} 嗎？"
+
+msgid "I don't think this is where I'm supposed to put them..."
+msgstr "我覺得這裡不是放置它們的地方..."
+
+msgid "The note said something about a \"little keeper\"...?"
+msgstr "紙條上寫著關於\"小守護者\"的事...？"
+
+msgid "There's a faucet coming out of the water."
+msgstr "有一個水龍頭在出水。"
+
+msgid "Turn it on?"
+msgstr "轉開它嗎？"
+
+msgid "Nothing is coming out of the faucet."
+msgstr "水龍頭裡什麼都沒有流出來。"
+
+msgid "The water flows freely from the faucet."
+msgstr "水龍頭流出了水。"
+
+msgid "Something's floating near the stream..."
+msgstr "有東西在水流附近漂浮..."
+
+msgid "Take ${item:ch1.doorknob_library_fragment}?"
+msgstr "拿走 ${item:ch1.doorknob_library_fragment} 嗎？"
+
+msgid "Pink water lilies can be seen."
+msgstr "可以看到粉紅色的睡蓮。"
+
+msgid "Take some ${item:ch1.lakeside_petals_pink}?"
+msgstr "拿走一些 ${item:ch1.lakeside_petals_pink} 嗎？"
+
+msgid "A structure housing a lamp."
+msgstr "某種容納著燈的結構。"
+
+msgid "The water is calm."
+msgstr "水很平靜。"

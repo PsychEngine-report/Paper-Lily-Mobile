@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Ending_4_Freezer.misc_fridge_3.dlg.narrator"
+msgid "A large door with a metallic handle."
+msgstr "Большая дверца с металлической ручкой."
+
+msgid "Open it?"
+msgstr "Открыть её?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Frozen inside, you see..."
+msgstr "Внутри морозилки вы видите..."
+
+msgid "...Fingers!"
+msgstr "...Пальцы!"
+
+msgid "Wait... arms...? Are these... human arms...?"
+msgstr "Стойте... руки?.. Это что... всё человеческие руки?.."
+
+msgid "Neatly stacked inside the fridge, there's fifty or so arms of different sizes, cut off from their bodies."
+msgstr "Внутри морозилки около пятидесяти аккуратно сложенных друг на друга рук, отсечённых от тела."
+
+msgid "Both left and right arms can be seen."
+msgstr "Можно увидеть как правые, так и левые руки."
+
+msgid "....."
+msgstr "....."
+
+msgid "The arms prevent you from closing the door."
+msgstr "Руки не дают вам закрыть дверцу."
+
+msgctxt "events.Ch1_Ending_4_Freezer.misc_fridge_noopen.dlg.narrator"
+msgid "A large door with a metallic handle."
+msgstr "Большая дверца с металлической ручкой."
+
+msgid "It won't open."
+msgstr "Она не открывается."
+
+msgid "Better not to open it."
+msgstr "Лучше её не открывать."

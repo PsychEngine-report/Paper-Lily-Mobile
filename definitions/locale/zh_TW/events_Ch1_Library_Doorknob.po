@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Dozens of books are neatly organized on the shelves."
+msgstr "書架上整齊地擺放著很多書。"
+
+msgid "An untitled book stands out. Read a passage?"
+msgstr "一本沒有標題的書脫穎而出。閱讀其中一段嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Variations of rituals ______carefully documented ______ recipient."
+msgstr "多種儀式______仔細記錄______收件者。"
+
+msgid "Any human that enters ______ by way of a ritual is carefully tracked."
+msgstr "任何人類透過儀式進入______都被仔細追蹤。"
+
+msgid "No accounts of humans infiltrating by their own means exist, _________ easily detected."
+msgstr "沒有人類使用自身手段入侵的紀錄，_________很容易偵測。"
+
+msgid "Average recorded survival time of humans following ritual rules: 15 minutes."
+msgstr "人類遵從儀式規則的平均紀錄生存時間：15 分鐘。"
+
+msgid "Average survival time ________ breaching ritual rules: 140 minutes."
+msgstr "________違反儀式規則的平均生存時間：140 分鐘。"
+
+msgid "Average rate of adherence to the ritual rules: 98.31%"
+msgstr "平均遵守儀式規則率：98.31%"
+
+msgid "Demons can pick up on a human's soul from at least five meters away."
+msgstr "惡魔可以在至少五公尺外感受到人類的靈魂。"
+
+msgid "Exceptions exist ___________ as well as the elderly or the sick; they are less perceivable and less satiating."
+msgstr "例外存在於___________ 以及老人或是生病的人，他們更不容易被察覺，也更沒有飽足感。"
+
+msgid "Due to these factors, their value is considered to be negligible."
+msgstr "由於這些因素，他們的價值被認為是微不足道。"
+
+msgid "Demons won't hesitate to kill and consume ______"
+msgstr "惡魔會毫不猶豫地殺害並吞噬______"
+
+msgid "_____'s regulations don't allow free consumption of souls ________ must be reported."
+msgstr "_____的規定不允許自由吞噬靈魂，_____必須報備。"
+
+msgid "Any demand ________ through the appropriate channels."
+msgstr "任何要求________透過適當的管道。"
+
+msgid "White grass is growing on the floor. It's soft to the touch."
+msgstr "白草長在地上。摸起來很柔軟。"
+
+msgid "You can spot some faint shapes in the window."
+msgstr "妳可以看到窗外有些隱約的形狀。"

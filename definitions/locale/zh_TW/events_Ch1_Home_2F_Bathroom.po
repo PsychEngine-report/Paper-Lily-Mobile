@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's some red lipstick."
+msgstr "有些紅色口紅。"
+
+msgid "I wonder if I can use something like this to draw the symbol..."
+msgstr "不曉得我能不能用這種東西來畫符號..."
+
+msgid "Take ${item:ch1.lipstick}?"
+msgstr "拿走 ${item:ch1.lipstick} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "A bathtub."
+msgstr "浴缸。"
+
+msgid "A relaxing bathtub."
+msgstr "令人放鬆的浴缸。"
+
+msgid "The drawer contains various toiletries."
+msgstr "抽屜裝著各種盥洗用品。"
+
+msgid "The drawer contains a hair dryer and other appliances."
+msgstr "抽屜裝著染髮劑和其他用品。"
+
+msgid "It's just you."
+msgstr "只有妳。"
+
+msgid "Even in the bathroom, there are plants."
+msgstr "就算在浴室裡也有植物。"
+
+msgid "This one is fake, though."
+msgstr "可是這是假的。"
+
+msgid "A plant."
+msgstr "植物。"
+
+msgid "Soap, shampoo, conditioner."
+msgstr "肥皂、洗髮精、潤髮乳。"
+
+msgid "Some towels and a laundry basket."
+msgstr "一些毛巾和洗衣籃。"
+
+msgid "A stool."
+msgstr "凳子。"
+
+msgid "Thankfully, there's plenty of toilet paper."
+msgstr "值得慶幸的是，衛生紙還夠。"
+
+msgid "Toilet paper."
+msgstr "衛生紙。"
+
+msgid "A towel."
+msgstr "毛巾。"
+
+msgid "A trash can."
+msgstr "垃圾桶。"
+
+msgid "Nothing but air fills this trash can."
+msgstr "這個垃圾桶除了空氣外什麼都沒裝。"

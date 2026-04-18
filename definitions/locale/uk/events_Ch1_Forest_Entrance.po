@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no need to mess with it anymore."
+msgstr "Не треба більше нічого робити."
+
+msgid "Ah... I see how it is."
+msgstr "А... тепер зрозуміло."
+
+msgid "I really dislike this kind of puzzle though..."
+msgstr "Ой не люблю я такі загадки..."
+
+msgid "Hm..."
+msgstr "Гм..."
+
+msgid "Is that a button behind the lamppost?"
+msgstr "Це що, кнопка за ліхтарем?"
+
+msgid "Ah... I kind of expected them to reset..."
+msgstr "...А я сподівалась, що вони всі перезапустяться..."
+
+msgid "Geez... what was I thinking?"
+msgstr "Боже... і чим я тільки думала?"
+
+msgid "The cable has already been severed."
+msgstr "Провід вже розрізаний."
+
+msgid "The cable has been cut."
+msgstr "Ви розрізали провід."
+
+msgid "A cable runs from the lamp to the bushes."
+msgstr "Від ліхтаря до кущів проведений провід."
+
+msgid "A heavy-looking metal gate."
+msgstr "Важка на вигляд брама."
+
+msgid "Is this the Daylight Gate?"
+msgstr "Це і є Світанкова Брама?"
+
+msgid "What does it have to do with daylight?"
+msgstr "До чого тут світанок?"
+
+msgid "There's a plaque next to it that reads:"
+msgstr "Поряд з брамою прикріплена записка:"
+
+msgid "A gate blocks your path."
+msgstr "Брама перешкоджає вам дорогу."
+
+msgid ""
+"\"Daylight Gate\"\n"
+"\"(At daytime, the gate opens and the lamps turn off.)\""
+msgstr ""
+"\"Світанкова Брама\"\n"
+"\"(На світанку брама відчиняється, а ліхтарі вимикаються.)\""
+
+msgid "Day...? I don't even know what time it is..."
+msgstr "На світанку? Я гадки не маю, котра зараз година..."
+
+msgid "Is there any way I can get this open without waiting?"
+msgstr "Чи можна відчинити її скоріше?"
+
+msgid "A street lamp."
+msgstr "Ліхтарний стовп."

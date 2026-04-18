@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Ah... here it is."
+msgstr "ああ……あった。"
+
+msgid "I suppose these cursed doors must be fairly common."
+msgstr "この呪いの扉、ずいぶん色んな所にあるんだね。"
+
+msgid "Not that common. And they kinda suck."
+msgstr "それほどじゃないぜ。それに、ちょっと悪質だ。"
+
+msgid "Sometimes you get stuck with no way to go back."
+msgstr "時々、戻れなくなって詰むんだよ。"
+
+msgid "I see."
+msgstr "へえ。"
+
+msgid "So it's a dead end after all."
+msgstr "じゃあ、やっぱり行き止まりなんだ。"
+
+msgid "Since there's no doorknobs here..."
+msgstr "ドアノブがついてないし……"
+
+msgid "Looks like it."
+msgstr "みたいだな。"
+
+msgid "An empty slot."
+msgstr "何も挿さっていない穴。"
+
+msgid "Place a doorknob?"
+msgstr "ドアノブを挿す？"
+
+msgid "Gray Doorknob"
+msgstr "灰色のドアノブ"
+
+msgid "White Doorknob"
+msgstr "白いドアノブ"
+
+msgid "Return Doorknob"
+msgstr "帰還のドアノブ"
+
+msgid "Do not"
+msgstr "やめておく"
+
+msgid "I guess it's finally time to use this."
+msgstr "ついにこれを使う時が来たみたい。"

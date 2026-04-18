@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Prologue: School"
+msgstr "Phần tựa: Trường học"
+
+msgid "Prologue: Occult Club"
+msgstr "Phần tựa: Câu lạc bộ Huyền bí"
+
+msgid "Prologue: Hallway of Doors"
+msgstr "Phần tựa: Hành lang Cửa"
+
+msgid "Prologue: Into the Door"
+msgstr "Phần tựa: Vào Cửa"
+
+msgid "Paper Lily: Chapter 1"
+msgstr "Paper Lily: Chương 1"
+
+msgid "Chapter 1: Home"
+msgstr "Chương 1: Nhà"
+
+msgid "Chapter 1: Home (Night)"
+msgstr "Chương 1: Nhà (Ban đêm)"
+
+msgid "Chapter 1: Bus Stop"
+msgstr "Chương 1: Trạm Xe buýt"
+
+msgid "Chapter 1: Forest"
+msgstr "Chương 1: Khu rừng"
+
+msgid "Chapter 1: Red's Treehouse"
+msgstr "Chương 1: Căn nhà cây của Red"
+
+msgid "Chapter 1: Lakeside"
+msgstr "Chương 1: Nơi ven hồ"
+
+msgid "Chapter 1: Lavender Area"
+msgstr "Chương 1: Đường mòn Oải hương"
+
+msgid "Chapter 1: Facility"
+msgstr "Chương 1: Khu Cơ sở"
+
+msgid "Chapter 1: Miss Knives' Home"
+msgstr "Chương 1: Nhà của Chị Dao"
+
+msgid "Paper Lily: Chapter 2"
+msgstr "Paper Lily: Chương 2"

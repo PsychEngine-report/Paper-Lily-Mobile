@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You left a flower.)"
+msgstr "（你留下了一朵鲜花。）"
+
+msgid "Some building blocks."
+msgstr "一些积木块。"
+
+msgid "A sand bucket."
+msgstr "一个沙桶。"
+
+msgid "A stack of playing cards. They look handmade."
+msgstr "一叠扑克牌。看起来是手制的。"
+
+msgid "A gravestone lies here. You can't make out the name on it."
+msgstr "这里有一块墓碑。你看不清上面的名字。"
+
+msgid "There's a neatly written note taped to the back of the gravestone."
+msgstr "墓碑背面贴着一张写得工工整整的字条。"
+
+msgid "Read it?"
+msgstr "要阅读吗？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "It's been 5 years since your passing."
+msgstr "你过世已经有5年了。"
+
+msgid "I often wonder if things would have been different, had I been with you."
+msgstr "我常常在想，如果我和你在一起的话，事情是否会有所不同。"
+
+msgid "Would I have been able to protect you?"
+msgstr "我会有能力保护你吗？"
+
+msgid "Would I have died in your place?"
+msgstr "我会愿意替你去死吗？"
+
+msgid "I would have gladly accepted that resolution."
+msgstr "我想我会毫不犹豫地接受这个提议。"
+
+msgid "I wish I was strong and brave enough to fight for you."
+msgstr "我希望我当时足够坚强和勇敢，能为你而战。"
+
+msgid "But vengeance won't bring you back."
+msgstr "但复仇并不能使你复生。"
+
+msgid "I can only continue to warn everyone, and hope the locked site doesn't take another victim."
+msgstr "我只能继续警告大家，并希望封锁区不会再有受害者。"
+
+msgid "It's been quiet in the forest for the past few years."
+msgstr "过去的几年里，森林一直很安静。"
+
+msgid "But I know you always hated quiet."
+msgstr "但我知道你一向讨厌安静。"
+
+msgid "Please rest well."
+msgstr "请安息吧。"
+
+msgid "I'll visit you again soon."
+msgstr "我很快就会再来看你。"
+
+msgid "- Marzie"
+msgstr "- 马尔齐"
+
+msgid "A vase with fresh cut flowers."
+msgstr "插有鲜花的花瓶。"

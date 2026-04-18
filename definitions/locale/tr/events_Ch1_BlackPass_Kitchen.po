@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.chr_mom.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "Bir bıçak, Lacie."
+
+msgid "A knife."
+msgstr "Bir bıçak."
+
+msgid "Off you go."
+msgstr "Hadi git bakalım."
+
+msgid "Hm...?"
+msgstr "Hm...?"
+
+msgid "Lacie, there you are."
+msgstr "Lacie, işte buradasın."
+
+msgid "I called you several times, didn't you hear me?"
+msgstr "Seni birkaç kez çağırdım,duymadın mı beni?"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I need you to go get me a _____."
+msgstr "_____ almana ihtiyacım var. "
+
+msgid "...?"
+msgstr "...?"
+
+msgid "A... what?"
+msgstr "Bir...ne?"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "Bir bıçak, Lacie."
+
+msgid "Oh."
+msgstr "Oh."
+
+msgid "It shouldn't be too hard to find. It's in the closet in the garage."
+msgstr "Bulması çok zor olmamalı. Garajda ki dolapta."
+
+msgid "...Okay."
+msgstr "...Tamam."
+
+msgid "Well done. Off you go."
+msgstr "Aferin. Hadi git şimdi."
+
+msgctxt "events.Ch1_BlackPass_Kitchen.item_knife_on_mom.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A kitchen counter. Mother seems to be preparing something."
+msgstr "Bir mutfak tezgahı. Anne bir şeyler hazırlıyor gibi görünüyor."
+
+msgid "There's nothing on the counter."
+msgstr "Tezgahta birşey yok."
+
+msgid "None of this can be used."
+msgstr "Bunların hiçbiri kullanılamaz."
+
+msgid "The surfaces are completely flat, and there are no handles."
+msgstr "Bu yüzeyler tamamen düz, ve tutacak yer yok."
+
+msgid "It only looks like a kitchen on the surface..."
+msgstr "Bu sadece yüzeyden bir mutfağa benziyor..."
+
+msgid "Pick up ${item:global.reditem_2}?"
+msgstr "${item:global.reditem_2} al?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "An empty dining table."
+msgstr "Boş bir akşam yemeği masası."
+
+msgid "The passageway has closed behind you."
+msgstr "Geçiş yolu arkandan kapandı."
+
+msgid "It's locked."
+msgstr "Kilitli."

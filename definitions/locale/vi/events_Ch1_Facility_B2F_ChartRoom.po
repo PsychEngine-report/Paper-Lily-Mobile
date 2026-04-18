@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "We could use it to get out of this room."
+msgstr "Ta dùng cái này là ra khỏi phòng được nè."
+
+msgid "I could use this to get out of this room."
+msgstr "Mình dùng cái này là ra khỏi phòng được nè."
+
+msgid "Place plank outside?"
+msgstr "Bắc ván ra ngoài chứ?"
+
+msgid "Yes"
+msgstr "Bắc"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "It's done."
+msgstr "Xong rồi."
+
+msgid "The vent cover."
+msgstr "Cái nắp lỗ thông."
+
+msgid "It's not large enough to cross the hole outside."
+msgstr "Không đủ lớn để mà bắc đi qua cái hố bên ngoài."
+
+msgid "Sketches of maps are displayed on the wall."
+msgstr "Trên tường có để trưng nhiều tấm phác họa bản đồ."
+
+msgid "Sketches of maps are laying on the ground."
+msgstr "Nhiều tấm phác họa bản đồ bị để nằm dưới đất."
+
+msgid "There's a large plank on the floor."
+msgstr "Dưới sàn có tấm ván lớn."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "Cái màn hình lớn tổ hợp từ nhiều màn hình nhỏ."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "Các màn hình hình như là đang thu trực tiếp từ các camera an ninh đâu đó."
+
+msgid "Looks like... hallways? With lots of doors."
+msgstr "Trông như là... mấy cái hành lang? Cửa thì rất là nhiều."
+
+msgid "Who comes up with this shit?"
+msgstr "Đứa nào bày ra cái trò này đây?"
+
+msgid "There's blood too..."
+msgstr "Có cả máu nữa kìa..."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "Cái màn hình lớn tổ hợp từ nhiều màn hình nhỏ."
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "Các màn hình hình như là đang thu trực tiếp từ các camera an ninh đâu đó."
+
+msgid "Are those... sticky notes taped to the cameras?"
+msgstr "Mấy cái này... là giấy ghi nhớ được dán dính vào camera phải không?"
+
+msgid "Someone didn't want to be spied on."
+msgstr "Đứa nào không muốn bị theo dõi đây nè."
+
+msgid "Understandable."
+msgstr "Có thể hiểu được."
+
+msgid "Scrolls containing technical drawings of different locations."
+msgstr "Mấy cuộn giấy có nội dung là mấy bản vẽ kỹ thuật về những địa điểm khác nhau."
+
+msgid "What's that?"
+msgstr "Cái đó là cái gì nhỉ?"
+
+msgid "I don't know."
+msgstr "Tôi chịu."
+
+msgid "It looks like it's just hallways."
+msgstr "Thấy như chỉ là mấy cái hành lang."
+
+msgid "But it's laid out like a labyrinth, and some rooms overlap each other."
+msgstr "Nhưng mà vẽ thì như mê cung ấy, với vài phòng còn chồng chéo lên nhau nữa."
+
+msgid "This map doesn't make any sense."
+msgstr "Cái bản đồ này không nên cái lý gì cả."
+
+msgid "A trashcan. It's full of neatly crumpled papers."
+msgstr "Cái sọt rác. Chứa đầy nhóc giấy vò gọn."
+
+msgid "..."
+msgstr "..."
+
+msgid "I see."
+msgstr "Biết rồi."
+
+msgid "It's too far to jump."
+msgstr "Xa quá sao nhảy được."
+
+msgid "It's too high to reach."
+msgstr "Cao quá không với được."

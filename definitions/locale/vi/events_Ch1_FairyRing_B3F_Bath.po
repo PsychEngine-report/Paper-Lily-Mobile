@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's... a dead end?"
+msgstr "Này... là đường cụt rồi?"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What now?"
+msgstr "Giờ sao?"
+
+msgid "We're gonna die here, aren't we?"
+msgstr "Tụi mình sẽ chết ở đây thôi, phải không?"
+
+msgid "I don't know."
+msgstr "Tôi chịu."
+
+msgid "Oh god... I really hoped I wouldn't be right."
+msgstr "Trời ơi... tớ thật sự có hy vọng là tớ sai rồi cơ chứ."
+
+msgid "I should have known. Of course it's a dead end."
+msgstr "Lẽ ra phải biết rồi. Tất nhiên là cụt đường mà."
+
+msgid "But I felt more confident walking around with you... so I thought..."
+msgstr "Nhưng mà đi với cậu tớ lại cảm thấy vững tâm hơn... cứ tưởng là thế cơ..."
+
+msgid "Please, let me think."
+msgstr "Xin đấy, để tôi suy nghĩ đi."
+
+msgid "(Think Lacie...)"
+msgstr "(Nghĩ đi Lacie...)"
+
+msgid "(Is there really no way out..?)"
+msgstr "(Thật sự không có đường ra sao...?)"
+
+msgid "Can't we break the ground above us and just climb out?"
+msgstr "Mình không phá được mặt đất bên trên rồi cứ thế leo lên được à?"
+
+msgid "How?"
+msgstr "Làm kiểu gì?"
+
+msgid "Well...."
+msgstr "Thì..."
+
+msgid "...I don't know."
+msgstr "...Tớ không biết."
+
+msgid "Sorry, that was stupid."
+msgstr "Xin lỗi, nghĩ ngu quá."
+
+msgid "(Can I call someone?)"
+msgstr "(Mình gọi được cho ai không?)"
+
+msgid "(There's no signal though...)"
+msgstr "(Mà sóng thì chẳng có...)"
+
+msgid "(But... it worked before...)"
+msgstr "(Nhưng mà... khi nãy thì lại được...)"
+
+msgid "(It doesn't work...)"
+msgstr "(Không gọi được...)"
+
+msgid "Say..."
+msgstr "Nè..."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Will you tell me your name? Since we might be dying anyway..."
+msgstr "Cậu cho tớ biết tên được chứ? Tại có khi đằng nào tụi mình cũng chết..."
+
+msgid "It's Lacie."
+msgstr "Tôi tên Lacie."
+
+msgid "Oh... that's such a nice name."
+msgstr "Ồ... cái tên nghe hay thật đấy."
+
+msgid "...Thanks."
+msgstr "...Cám ơn."
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "After that, we stayed in silence for a few minutes."
+msgstr "Sau đó, chúng tôi ngồi lại trong câm lặng được vài phút."
+
+msgid "I tried thinking of options at first, but quickly ran out of alternatives."
+msgstr "Ban đầu tôi thử nghĩ ra mấy lựa chọn, nhưng rồi nhanh chóng cạn hết phương án."
+
+msgid "Maybe there really was no way out this time."
+msgstr "Có khi lần này thực sự không có cách nào rồi."
+
+msgid "Through all of this, Aoi was awfully quiet."
+msgstr "Suốt nãy giờ, Aoi im lặng dễ sợ."
+
+msgid "Um... hey."
+msgstr "Ừm... này."
+
+msgid "Mhm..?"
+msgstr "M-Hưm...?"
+
+msgid "Don't panic. It won't solve anything."
+msgstr "Đừng có hoảng. Chả giải quyết được gì đâu."
+
+msgid "What makes you think I'm panicking?"
+msgstr "Gì mà làm cậu nghĩ là tớ hoảng?"
+
+msgid "You're melting."
+msgstr "Cậu đang tan ra kìa."
+
+msgid "O-Oh right..."
+msgstr "Ơ-Ồ đúng rồi..."
+
+msgid "No panic... no panic..."
+msgstr "Không hoảng... không hoảng..."
+
+msgid "Wait... you're melting."
+msgstr "Cơ mà... cậu tan chảy ra."
+
+msgid "YES, I KNOW!"
+msgstr "Ừ, TỚ BIẾT RỒI!"
+
+msgid "I can't stop!!!"
+msgstr "Tớ không dừng lại được!!!"
+
+msgid "No, Aoi!"
+msgstr "Không phải, Aoi!"
+
+msgid "I have an idea."
+msgstr "Tôi có ý tưởng rồi."
+
+msgid "Huh!?"
+msgstr "Hở!?"
+
+msgid "There's a drain."
+msgstr "Đây có lỗ thoát nước."
+
+msgid "...AND!?"
+msgstr "...RỒI!?"
+
+msgid "Where do you think it leads?"
+msgstr "Cậu nghĩ xem nó dẫn đi đâu?"
+
+msgid "You want me..."
+msgstr "Cậu muốn tớ..."
+
+msgid "You want me to go through the drain!?"
+msgstr "Cậu muốn tớ chui qua ống thoát nước á!?"
+
+msgid "Even if I do... you can't come with me."
+msgstr "Kể cả thế đi... cậu đâu có đi với tớ được."
+
+msgid "...Yeah."
+msgstr "...Ừ."
+
+msgid "I-I got it, don't worry! If this leads anywhere, I'll find a way to get you out!"
+msgstr "T-Tớ hiểu rồi, đừng lo! Nếu cái này có mà dẫn đi đâu, tớ sẽ tìm cách cứu cậu ra thôi!"
+
+msgid "Just stay put!"
+msgstr "Cứ ở yên đây!"
+
+msgid "Really?"
+msgstr "Thật à?"
+
+msgid "YEAH!"
+msgstr "Ừ!"
+
+msgid "Well, let's hope there's a way."
+msgstr "Chà cầu mong là có cách thôi vậy."
+
+msgid "There's gotta be a way!"
+msgstr "Nhất định phải có cách!"
+
+msgid "Okay... well... Here goes."
+msgstr "Ô kê... được rồi... đi đây."
+
+msgid "(Was that a good idea...?)"
+msgstr "(Đó có là ý tưởng tốt không...?)"
+
+msgid "How long has it been..."
+msgstr "Đã bao lâu trôi qua rồi..."
+
+msgid "Did I seriously just trust a demon with my life?"
+msgstr "Thật tình mình vừa mới tín thác đời mình cho quỷ sao?"
+
+msgid "Did I seriously just trust a spirit with my life?"
+msgstr "Thật tình mình vừa mới tín thác đời mình cho tinh linh sao?"
+
+msgid "Aoi might not even come back."
+msgstr "Aoi có khi còn chẳng quay lại."
+
+msgid "Wait, Aoi could have died for all I know..."
+msgstr "Từ từ, Aoi có thể đã chết rồi không biết chừng..."
+
+msgid "What did I do..."
+msgstr "Mình đã làm gì..."
+
+msgid "Did I seriously just send Aoi down the drain to die..."
+msgstr "Minh thật tình vừa mới đưa Aoi xuống cống để chết sao..."
+
+msgid "I should have said goodbye to Hiro when I had the chance..."
+msgstr "Lẽ ra khi có cơ hội mình nên chào từ biệt anh Hiro rồi chứ..."
+
+msgid "It felt like days have gone by."
+msgstr "Cảm tưởng như mấy ngày đã trôi qua rồi ấy."
+
+msgid "I don't know exactly how long it's been."
+msgstr "Chính xác đã bao lâu rồi mình không biết."
+
+msgid "But my phone battery died a long time ago..."
+msgstr "Nhưng pin điện thoại thì đã cạn từ lâu rồi."
+
+msgid "...And I fell asleep for a while too."
+msgstr "...Với mình đã ngủ thiếp đi một lúc nữa cơ."
+
+msgid "Despite this... I don't feel hungry or thirsty..."
+msgstr "Mặc dù vậy... mình không cảm thấy đói hay khát gì."
+
+msgid "I don't have hope that Aoi will come back anymore."
+msgstr "Mình không có trông đợi Aoi sẽ quay lại nữa."
+
+msgid "I don't think anyone will come."
+msgstr "Mình nghĩ cũng chả có ai sẽ tới luôn."
+
+msgid "I can't believe it... I threw in everything I had..."
+msgstr "Không thể tin nổi... mình có cái gì mình ném hết rồi..."
+
+msgid "I even threw in the fish that was here, I have nothing else I can use..."
+msgstr "Thậm chí con cá có ở đây mình cũng ném vào luôn rồi, chẳng còn cái gì khác mình dùng được hết..."
+
+msgid "Is there really nothing I can feed this thing...? Is there nothing I can do to save Lacie?"
+msgstr "Thật sự không có gì cho cái này ăn à...? Không có cái gì mình làm được mà cứu Lacie sao?"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "There's always a way..."
+msgstr "Luôn luôn phải có cách..."
+
+msgid "Think... think..."
+msgstr "Nghĩ đi... nghĩ đi..."
+
+msgid "Oh... oh god..."
+msgstr "Ôi... trời ơi..."
+
+msgid "A bath tub."
+msgstr "Cái bồn tắm."
+
+msgid "Why is there a bathtub in a place like this?"
+msgstr "Nơi thế này tại sao lại có bồn tắm nhỉ?"
+
+msgid "Maybe the faeries take baths here?"
+msgstr "Có khi tụi yêu tinh tắm ở đây không?"
+
+msgid "At least it's not full of blood or something."
+msgstr "Ít ra bồn không đầy máu hay gì cả."

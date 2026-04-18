@@ -1,0 +1,972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alright, let's see..."
+msgstr "Tamam, bir bakalım..."
+
+msgid "According to my notes..."
+msgstr "Notlarıma göre..."
+
+msgid "I need to move the desks to the sides in all three classrooms."
+msgstr "Üç sınıfta da masaları kenarlara taşımam gerek."
+
+msgid "Then I can draw a \"path\" in the middle of each one with chalk."
+msgstr "Sonra, her birinin ortasına tebeşirle bir \"yol\" çizebilirim."
+
+msgid "Well, I'll leave the chalk drawing for last. I want to gather everything I need first."
+msgstr "Tebeşirle çizme işini sona bırakacağım. Önce ihtiyacım olan her şeyi toplamak istiyorum."
+
+msgid "Oh no..."
+msgstr "Olamaz..."
+
+msgid "What are you doing...? Is this part of the ritual?"
+msgstr "Ne yapıyorsun...? Bu ritüelin bir parçası mı?"
+
+msgid "Um... what's wrong with you?"
+msgstr "... Senin sorunun ne? "
+
+msgid "If this ritual involves the mass genocide of harmless plants, then I want nothing to do with it."
+msgstr "Eğer bu ritüel zararsız bitkilerin toplu katliamına sebep olacaksa, bununla hiçbir ilgim olmasını istemiyorum."
+
+msgid "Agreed."
+msgstr "Aynen."
+
+msgid "Are you seriously going to go around killing all the plants?"
+msgstr "Cidden etraftaki tüm bitkileri öldürecek misin?"
+
+msgid "I knew you were a psychopath..."
+msgstr "Bir psikopat olduğunu biliyordum..."
+
+msgid "Sorry Kat, but we didn't sign up for this."
+msgstr "Üzgünüm Kat, ama biz bu niyetle gelmedik."
+
+msgid "I don't like this ritual anymore..."
+msgstr "Artık bu ritüeli sevmiyorum.  "
+
+msgid "Don't worry Kaya, we're going home now."
+msgstr "Endişelenme Kaya, şimdi eve gidiyoruz."
+
+msgid "Don't talk to us again."
+msgstr "Bir daha bizimle konuşma."
+
+msgid "Shelves for the students to place their school bags."
+msgstr "Öğrencilerin çantalarını yerleştirmesi için raflar."
+
+msgid "There are no bags right now though."
+msgstr "Ama şu anda hiç çanta yok."
+
+msgid "Everything's ready."
+msgstr "Her şey hazır."
+
+msgid "All that's left is to wait 5 minutes and then burn the hair."
+msgstr "Geriye kalan tek şey 5 dakika bekledikten sonra saçı yakmak."
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "This is going to be such a pain to clean up."
+msgstr "Bunu temizlemesi çok zor olacak."
+
+msgid "Seriously? Stop messing with things!"
+msgstr "Ciddi misin? Bu şeylerle uğraşmayı bırak!"
+
+msgid "But everything I \"mess with\" ends up being a scam."
+msgstr "Ama tüm bu \"uğraştığım şeyler\" hüsranla sonuçlanıyor."
+
+msgid "What if some day it isn't?"
+msgstr "Ya bir gün gerçek olursa?"
+
+msgid "What if you end up summoning some ghost or the devil and condemning your soul to an eternity in the netherworld?"
+msgstr "Peki ya bir hayaleti ya da şeytanı çağırırsan ve ruhunu ölüler diyarında sonsuza kadar mahkum edersen?"
+
+msgid "What if your soul is already damned!?"
+msgstr "Ya ruhun çoktan lanetlendiyse!?"
+
+msgid "Then I guess that's what's waiting for me after I die."
+msgstr "O halde sanırım öldükten sonra beni bekleyen şey bu."
+
+msgid "KAT!"
+msgstr "KAT!"
+
+msgid "It was a joke!"
+msgstr "Şakaydı!"
+
+msgid "You're not gonna find him this way, you know?"
+msgstr "Onu bu şekilde bulamayacaksın, farkında mısın?"
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.annie"
+msgid "..."
+msgstr "..."
+
+msgid "You'll just do whatever you want no matter what I say, won't you?"
+msgstr "Ne dersem diyeyim ne istiyorsan onu yapacaksın, değil mi?"
+
+msgid "It's possible."
+msgstr "Muhtemelen."
+
+msgid "Stubborn idiot."
+msgstr "İnatçı aptal."
+
+msgid "I prefer \"ambitious idiot\"."
+msgstr "\"Hevesli aptal\" denmesini tercih ederim."
+
+msgid "So... will you tell me where the letter is?"
+msgstr "Ee... mektubun nerede olduğunu söyleyecek misin? "
+
+msgid "You exhaust me Kat, you know that?"
+msgstr "Beni yoruyorsun Kat, farkındasın değil mi?"
+
+msgid "And yet here we are."
+msgstr "Yine başladık."
+
+msgid "Fine. You win. It's in the occult club."
+msgstr "Tamam. Sen kazandın. Okült kulübünde."
+
+msgid "There's a golden envelope in one of the drawers. But they won't let you sniff around since you're not a member."
+msgstr "Çekmecelerden birinde altın bir zarf var. Ama üye olmadığın için etrafa bakmana izin vermezler."
+
+msgid "Thanks, you're the best!"
+msgstr "Teşekkürler, sen en iyisisin!"
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.kat"
+msgid "Huh?"
+msgstr "Ha?"
+
+msgid "(Is there somebody at the door..?)"
+msgstr "(Kapıda biri mi var?)"
+
+msgid "Alright, now I just have to blow the candles off. So let's-"
+msgstr "Tamam, şimdi sadece mumları üflemem gerekiyor. Öyleyse hadi-"
+
+msgid "Huh? The candles... Did they just...?"
+msgstr "Ha? Mumlar... Onlar demin...?"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "...I guess I should count to 100..."
+msgstr "Sanırım 100'e kadar saymam gerek..."
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "1, 2, 3, 4, 5..."
+msgstr "1, 2, 3, 4, 5..."
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...28, 29, 30..."
+msgstr "...28, 29, 30..."
+
+msgid "(Why am I doing this? This ridiculous game couldn't possibly work.)"
+msgstr "(Neden bunu yapıyorum ki? Bu saçma oyunun işe yaraması mümkün değil.)"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...55, 56, 57, 58..."
+msgstr "...55, 56, 57, 58..."
+
+msgid "(I wonder if mom is worried about me...)"
+msgstr "(Acaba annem benim için endişelenmiş midir...)"
+
+msgid "(Huh? What was that?)"
+msgstr "(Ha? O da neydi?)"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...79, 80, 81..."
+msgstr "...79, 80, 81..."
+
+msgid "(What's all that noise!?)"
+msgstr "(Tüm bu gürültü de ne!?)"
+
+msgid "Is anyone there...?"
+msgstr "Orada biri mi var...?"
+
+msgid "...97, 98, 99..."
+msgstr "...97, 98, 99..."
+
+msgid "...100."
+msgstr "...100."
+
+msgid "So... I... open my eyes?"
+msgstr "Ee... şimdi... gözlerimi açıyorum?"
+
+msgid "It... worked?"
+msgstr "İşe... yaradı?"
+
+msgid "It worked?"
+msgstr "İşe yaradı?"
+
+msgid "It worked!! I can't believe it!"
+msgstr "İşe yaradı!! İnanamıyorum!"
+
+msgid "This is incredible!!"
+msgstr "Bu inanılmaz!!"
+
+msgid "But... where am I?"
+msgstr "Ama... neredeyim?"
+
+msgid "It's a... hallway? It definitely isn't the school."
+msgstr "Bu bir... koridor? Kesinlikle okul değil."
+
+msgid "This is unbelievable, how could it have worked?"
+msgstr "Bu inanılmaz, nasıl işe yaramış olabilir?"
+
+msgid "It doesn't make any logical sense. I was in the classroom a minute ago. Have I gone mad?"
+msgstr "Hiçbir mantıklı açıklaması yok. Daha bir dakika önce sınıftaydım. Delirdim mi yoksa?"
+
+msgid "THIS IS SO EXCITING, I CAN'T BELIEVE IT WORKED!"
+msgstr "ÇOK HEYECANLI, İŞE YARADIĞINA İNANAMIYORUM!"
+
+msgid "If I wake up from this and it turns out to be a dream... well... that would be disappointing, to say the least."
+msgstr "Ya uyanırsam ve bunların hepsi bir rüyaysa... En hafif deyimiyle çok utanç verici olurdu."
+
+msgid "Okay. I definitely need to check this place out."
+msgstr "Tamam. Kesinlikle etrafı kontrol etmeliyim."
+
+msgid "Do you wish to save your progress?"
+msgstr "İlerlemeni kaydetmek ister misin?"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.choice.Do you wish to save your progress?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.choice.Do you wish to save your progress?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Now what?"
+msgstr "Şimdi ne yapıyoruz?"
+
+msgid "Now we just wait 5 minutes."
+msgstr "Şimdi sadece 5 dakika bekleyeceğiz."
+
+msgid "Doing nothing?"
+msgstr "Hiçbir şey yapmadan mı?"
+
+msgid "Peace and quiet are not as bad as you imagine."
+msgstr "Sükunet ve huzur düşündüğün kadar kötü değil."
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "After that, I'll burn the hair and you help me blow out the candles one by one."
+msgstr "Sonrasında, saçı yakacağım ve sen de bana tek tek mumları üflememe yardım edeceksin."
+
+msgid "Burnt hair smells bad..."
+msgstr "Yanık saç kötü kokuyor..."
+
+msgid "It does."
+msgstr "Evet öyle."
+
+msgid "But it's the last step, might as well do it right."
+msgstr "Ama bu son adım, doğru şekilde yapsak iyi olur."
+
+msgid "What happens then?"
+msgstr "Sonra ne olacak"
+
+msgid "No idea."
+msgstr "Hiçbir fikrim yok."
+
+msgid "Really?"
+msgstr "Cidden mi?"
+
+msgid "We probably just clean up and go home. These rituals are a scam, you know?"
+msgstr "Büyük ihtimalle etrafı temizleyip eve gideriz. Bilirsin, bu ritüeller tamamen kandırmaca."
+
+msgid "So... you're just making us make a mess, so that we can help you clean it up?"
+msgstr "Yani... temizlemene yardım edelim diye mi ortalığı karıştırmamıza neden oluyorsun?"
+
+msgid "What's the matter, are you not entertained?"
+msgstr "Sorun ne? Eğlenmedin mi?"
+
+msgid "...Tsk."
+msgstr "...Tsk."
+
+msgid "I think it's time."
+msgstr "Sanırım zamanı geldi."
+
+msgid "Finally!"
+msgstr "Sonunda!"
+
+msgid "Now I just burn this..."
+msgstr "Şimdi bunu yakacağım..."
+
+msgid "Quickly, put out the candles now!"
+msgstr "Hemen mumları söndürün!"
+
+msgid "Now, shut your eyes and be quiet while I count to one hundred, okay?"
+msgstr "Şimdi, gözlerinizi kapatın ve ben 100'e kadar sayarken sessiz olun, tamam mı?"
+
+msgid "Got it."
+msgstr "Anladım."
+
+msgid "Alright then, I'll start."
+msgstr "Tamam o zaman, başlıyorum."
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "1, 2, 3, 4, 5..."
+msgstr "1, 2, 3, 4, 5..."
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...28, 29, 30..."
+msgstr "...28, 29, 30..."
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...55, 56, 57, 58..."
+msgstr "...55, 56, 57, 58..."
+
+msgid "Shhh!"
+msgstr "Şşş!"
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...79, 80, 81..."
+msgstr "...79, 80, 81..."
+
+msgid "(Huh...?)"
+msgstr "(Ha...?)"
+
+msgid "(What the hell was that!?)"
+msgstr "(O da neydi?!)"
+
+msgid "...94, 95, 96, 97, 98, 99, 100!"
+msgstr "...94, 95, 96, 97, 98, 99, 100!"
+
+msgid "Huh...?"
+msgstr "Ha...?"
+
+msgid "What the...?"
+msgstr "Ne...?"
+
+msgid "Are those...?"
+msgstr "Yoksa onlar...?"
+
+msgid "Well... my lines aren't perfect, but it should do the job!"
+msgstr "Şey... çizgilerim mükemmel değil, ama iş görür!"
+
+msgid "I need to do this in all three rooms."
+msgstr "Bunu üç odanın hepsinde yapmam gerek."
+
+msgid "Two down, one to go."
+msgstr "İkisi bitti, geriye bir kaldı."
+
+msgid "That night... I got cold feet, I guess."
+msgstr "O gece... Gözüm yemedi, sanırım."
+
+msgid "I went home without completing the ritual."
+msgstr "Eve ritüeli tamamlamadan gittim."
+
+msgid "Despite that, I made plans to try again."
+msgstr "Ona rağmen, tekrar denemek için planlar yaptım."
+
+msgid "However, both my notes and the letter had disappeared without a trace."
+msgstr "Ancak, hem notlarım hem de mektup hiçbir iz bırakmadan ortadan kaybolmuştu."
+
+msgid "I tried telling myself that maybe the ritual was a scam anyways..."
+msgstr "Kendime ritüelin zaten bir kandırmaca olduğunu söylemeye çalıştım..."
+
+msgid "But now... how will I ever know?"
+msgstr "Ama şimdi... nasıl bilebilirim ki?"
+
+msgid "Dead End K2 - Cold Kat Feet"
+msgstr "Yolun Sonu K2 - Tedirgin Kat"
+
+msgid "What's... going on?"
+msgstr "Neler... oluyor?"
+
+msgid "These stairs are making no sense right now."
+msgstr "Bu merdivenlerin şu anda hiçbir anlamı yok."
+
+msgid "This building has only 3 floors. I've taken these stairs every day..."
+msgstr "Bu binanın yalnızca 3 katı var. Her gün bu merdivenleri çıkıyordum..."
+
+msgctxt "events.Global.prologue_ending_k3.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I must be really tired. I'll just go down without thinking."
+msgstr "Çok yorgun olmalıyım. Hiç düşünmeden aşağı ineceğim."
+
+msgid "I can't... get anywhere..."
+msgstr "Hiçbir yere... gidemiyorum..."
+
+msgid "Am I dreaming right now?"
+msgstr "Şu anda rüya mı görüyorum?"
+
+msgid "I think I'll just... rest here."
+msgstr "Sanırım biraz burada... dinleneceğim..."
+
+msgid "Tomorrow morning... someone will wake me up."
+msgstr "Yarın sabah... birisi beni uyandırır."
+
+msgid "Hopefully at home, in my own bed."
+msgstr "Umarım evde, kendi yatağımda."
+
+msgid "The next time I woke up, I was still in the same place."
+msgstr "Uyandığımda yine aynı yerdeydım."
+
+msgid "I tried again. Going up, going down... it made no difference."
+msgstr ""
+"Tekrar denedim. Yukarı gitmeyi, aşağı inmeyi... Hiçbir şey değişmedi."
+
+msgid "I decided to make an experiment with chalk."
+msgstr "Tebeşirle bir deney yapmaya karar verdim."
+
+msgid "Logic would dictate that this X isn't here if I go up or down a floor."
+msgstr "Mantığa göre, bu X yukarı veya aşağı gittiğimde burada olmamalı."
+
+msgctxt "events.Global.prologue_ending_k3_pt2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I'm... trapped..."
+msgstr "Kapana... kısıldım..."
+
+msgid "I don't think I'm going to make it home tonight either..."
+msgstr "Bu gece de eve gidebileceğimi düşünmüyorum..."
+
+msgid "Sorry Mom."
+msgstr "Üzgünüm Anne."
+
+msgid "Dead End K3 - Academic Spiral"
+msgstr "Yolun Sonu K3 - Akademik Sarmal"
+
+msgid "And so, we went home without completing the ritual."
+msgstr "Ve böylece, eve ritüeli tamamlamadan gittik."
+
+msgid "For some reason, I lost interest after that."
+msgstr "Bundan sonra nedense ilgimi kaybettim."
+
+msgid "In exchange, I gained some new people to talk to."
+msgstr "Karşılığında, konuşacak birkaç yeni insan kazandım."
+
+msgid "Well, I suppose the ritual couldn't have been that important anyways."
+msgstr "Zaten ritüel çok da önemli bir şey değil sanırım."
+
+msgid "Dead End K4 - Nevermind Forever"
+msgstr "Yolun Sonu K4 - Sonsuza Kadar Boşver"
+
+msgid "You know, despite the rules,"
+msgstr "Bilirsin, kurallara rağmen,"
+
+msgid "every so often some moron thinks they can bring in an entire group."
+msgstr "çoğu zaman bazı aptallar bütün bir grubu getirebileceğini düşünüyor."
+
+msgid "Huh? Who's there?"
+msgstr "Ha? Kim var orada?"
+
+msgid "Where is this place...?"
+msgstr "Burası da neresi...?"
+
+msgid "I would have at least made it interesting for you."
+msgstr "En azından bunu senin için ilginç hale getirirdim."
+
+msgid "But now? Forget it."
+msgstr "Ama şimdi? Unut gitsin."
+
+msgid "What? Wait-!"
+msgstr "Ne? Bekle-!"
+
+msgid "Dead End K5 - Party Wipe"
+msgstr "Yolun Sonu K5 - Bir Grubun Yok Oluşu"
+
+msgid "Once they were gone, I felt a bit guilty so I went home as well."
+msgstr "Onlar gittikten sonra, biraz suçlu hissettim ve ben de eve döndüm."
+
+msgid "Maybe I'll try the ritual again, some other time."
+msgstr "Belki ritüeli başka bir zaman tekrar denerim."
+
+msgid "Next time, I hope not to run into anyone."
+msgstr "Bir dahaki sefer umarım kimseye rastlamam."
+
+msgid "Dead End K6 - Snip snip"
+msgstr "Yolun Sonu K6 - Kırt Kırt"
+
+msgid "And so, we left the school and walked home."
+msgstr "Böylece, okuldan çıkıp eve yürüdük."
+
+msgid "No one said anything for a while."
+msgstr "Bir süre boyunca kimse konuşmadı."
+
+msgid "(I think Kat is feeling down...)"
+msgstr "(Sanırım Kat'in morali bozuk...)"
+
+msgid "(Yeah.)"
+msgstr "(Evet.)"
+
+msgid "(Should we do something?)"
+msgstr "(Bir şey yapmalı mıyız?)"
+
+msgid "(What's on your mind?)"
+msgstr "(Aklında ne var?)"
+
+msgid "(I don't know...)"
+msgstr "(Bilmiyorum...)"
+
+msgid "(Do you think Kat likes to sing?)"
+msgstr "(Sence Kat şarkı söylemeyi seviyor mudur?)"
+
+msgid "(Hmmm...)"
+msgstr "(Hmmm...)"
+
+msgid "(Good idea, Saki!)"
+msgstr "(İyi fikir, Saki!)"
+
+msgid "(Haven't seen you this excited about karaoke before, Kaya...)"
+msgstr "(Seni daha önce karaoke için hiç bu kadar heyecanlı görmemiştim, Kaya...)"
+
+msgid "(That's a yes, then?)"
+msgstr "(Bu evet demek oluyor o zaman?)"
+
+msgid "(Alright.)"
+msgstr "(Tamam.)"
+
+msgid "So..."
+msgstr "Şey..."
+
+msgctxt "events.Global.prologue_ending_k7.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "We were thinking of going to this place..."
+msgstr "Biz aslında şu mekana gitmeyi düşünüyorduk..."
+
+msgctxt "events.Global.prologue_ending_k7.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "(I can't do this! She's ignoring me!)"
+msgstr "(Bunu yapamam! Beni görmezden geliyor!)"
+
+msgid "Kat!"
+msgstr "Kat!"
+
+msgid "Hmm?"
+msgstr "Hmm?"
+
+msgid "Come with us."
+msgstr "Bizimle gel."
+
+msgctxt "events.Global.prologue_ending_k7.dlg.kat"
+msgid "Huh?"
+msgstr "Ha?"
+
+msgid "Just come."
+msgstr "Sadece gel."
+
+msgid "Sure, whatever."
+msgstr "Tamam, her neyse."
+
+msgid "(You're so good!)"
+msgstr "(Çok iyisin!)"
+
+msgid "(Are they trying... to cheer me up...?)"
+msgstr "(Beni neşelendirmeye mi çalışıyorlar...?)"
+
+msgid "(Maybe... things are better this way.)"
+msgstr "(Belki... böylesi daha iyidir.)"
+
+msgid "(I need to believe that much, at least.)"
+msgstr "(En azından bu kadarına inanmam gerek.)"
+
+msgid "Dead End K7 - Girls' Night Out"
+msgstr "Yolun Sonu K7 - Kızlarla Gecelere Akma"
+
+msgid "I didn't hear from the voice again."
+msgstr "Bir daha sesten haber alamadım."
+
+msgid "But, no matter how much I wanted to, I didn't scream for help."
+msgstr "Ama, ne kadar çok istesem de, yardım için bağırmadım."
+
+msgid "Someone will come for me... eventually."
+msgstr "Eninde sonunda... birisi benim için gelecektir."
+
+msgid "I just know it."
+msgstr "Bunu biliyorum."
+
+msgid "Dead End K8 - My Way"
+msgstr "Yolun Sonu K8 - Benim Yolum"
+
+msgid "We're... back here?"
+msgstr "Yine mi... buradayız?"
+
+msgid "Maybe this is the school's way of saying \"You can't leave now.\""
+msgstr "Belki de bu okulun \"Şimdi gidemezsiniz.\" deme şeklidir."
+
+msgid "How can you just say something like that?"
+msgstr "Nasıl böyle bir şey diyebilirsin?"
+
+msgid "Are we going home soon...?"
+msgstr "Yakında eve dönecek miyiz...?"
+
+msgid "I think I'll pass on burning the school down today."
+msgstr "Sanırım bugünlük okulu yakma işini erteleyeceğim."
+
+msgid "Wow, thank you for your generosity."
+msgstr "Vay be, çok cömertsin."
+
+msgid "What are you doing? I thought you were busy."
+msgstr "Ne yapıyorsun? Meşgul olduğunu sanmıştım."
+
+msgid "I'm just taking a break."
+msgstr "Sadece biraz ara veriyorum."
+
+msgid "Is that so..."
+msgstr "Öyle mi..."
+
+msgid "Are you scared? You're scared, aren't you?"
+msgstr "Korktun mu yoksa? Korkmamışsındır, değil mi?"
+
+msgid "Did you come to us for comfort?"
+msgstr "Rahatlamak için mi bize geldin?"
+
+msgid "The only scary thing here is that attitude of yours."
+msgstr "Şu an tek korkunç olan şey senin bu tavrın."
+
+msgid "She's still upset at you messing up our night, as you can see."
+msgstr "Görebildiğin üzere, gecemizi mahvettiğin için sana hala kızgın."
+
+msgid "It's okay to be scared..."
+msgstr "Korkmakta sorun yok..."
+
+msgid "Oh, I know! Why don't you show us your ritual as an apology?"
+msgstr "Ah, buldum! Neden bize ritüelini bir özür olarak göstermiyorsun?"
+
+msgid "I'm kind of interested, too."
+msgstr "Ben de merak ettim."
+
+msgid "Well, the rules say..."
+msgstr "Peki, kurallar şöyle diyor..."
+
+msgid "Oh come on, you don't ACTUALLY think it's gonna work, do you? It's just a game, as you said."
+msgstr "Hadi ama! Gerçekten işe yarayacağını düşünmüyorsun, değil mi? Bu, senin de dediğin gibi sadece bir oyun. "
+
+msgid "The rules don't actually matter."
+msgstr "Aslında kuralların bir önemi yok."
+
+msgctxt "events.Global.prologue_event_sit_with_girls.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I suppose not."
+msgstr "Sanmıyorum."
+
+msgid "Then it's decided, we will tag along with you."
+msgstr "Öyleyse karar verildi, seninle beraber geleceğiz."
+
+msgid "You're tasked with entertaining us now."
+msgstr "Şu anda bizi eğlendirmekle görevlisin."
+
+msgid "Well, I suppose it can't be helped."
+msgstr "Peki, sanırım yapacak bir şey yok."
+
+msgid "Let's go, then."
+msgstr "Hadi gidelim o zaman."
+
+msgctxt "events.Global.prologue_hod_event_wake_up.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I'm back in this hallway..."
+msgstr "Yine bu koridordayım..."
+
+msgid "I don't like this... I need to get out of here..."
+msgstr "Bundan hiç hoşlanmadım... Buradan çıkmam gerek."
+
+msgid "Whoa... weird dream."
+msgstr "Ah... garip bir rüyaydı."
+
+msgid "Everyone must be gone already."
+msgstr "Herkes çoktan gitmiş olmalı."
+
+msgid "Looks like it's eleven... I should get to it."
+msgstr "Görünüşe göre saat 11... Başlamam lazım."
+
+msgid "Ohhhh no..."
+msgstr "Olamaazz..."
+
+msgid "You moved it!!"
+msgstr "Sen hareket ettirdin!!"
+
+msgid "I didn't, I swear! You know I hate this type of thing!"
+msgstr "Ettirmedim, yemin ederim! Bu tarz şeylerden nefret ettiğimi biliyorsun!"
+
+msgid "This can't possibly be happening..."
+msgstr "Olamaz... bu olamaz..."
+
+msgid "It spelled \"DIE\"!!-"
+msgstr "\"ÖL\" yazdı!!"
+
+msgid "Oh my... Oh no..."
+msgstr "Oh... olamaz..."
+
+msgid "Stop joking around!! This is serious!!"
+msgstr "Dalga geçmeyi kes!! Bu ciddi bir mesele!!"
+
+msgid "...Aah.... we should not have played this..."
+msgstr "...Aah... bunu hiç oynamamamız gerekirdi..."
+
+msgid "I TOLD you we're going to be cursed!!"
+msgstr "Sana lanetleneceğimizi SÖYLEMİŞTİM!!"
+
+msgid "WHAT WAS THAT!?"
+msgstr "O DA NEYDİ!?"
+
+msgid "Is that a ghost?? We summoned a ghost!"
+msgstr "Bir hayalet mi?? Bir hayalet çağırdık!"
+
+msgid "oh my god oh my god oh my god oh my god-"
+msgstr "hayır hayır hayır hayır hayır-"
+
+msgid "YOU'RE MAKING TOO MUCH NOISE"
+msgstr "ÇOK SES YAPIYORSUN"
+
+msgid "Oh...It's just Kat..."
+msgstr "Ah... Sadece Kat'miş..."
+
+msgid "What's with the crazy knocking? What was that for!?"
+msgstr "Bu deli gibi kapıyı tıklatma da neyin nesi? Niye böyle bir şey yaptın!?"
+
+msgid "Did that spook you? You're not supposed to be here, you know?"
+msgstr "Sizi korkuttum mu? Burada olmamanız gerek, farkında mısınız?"
+
+msgid "I could say the same about you. Why are YOU here?"
+msgstr "Aynı şey senin için de geçerli. Peki ya SEN neden buradasın?"
+
+msgid "Actually..."
+msgstr "Aslında..."
+
+msgid "Say hello to the new member of the occult club!"
+msgstr "Okült kulübünün yeni üyesine merhaba deyin!"
+
+msgid "I had the wonderful opportunity to meet all of the members yesterday."
+msgstr "Dün tüm üyelerle tanışma fırsatım oldu."
+
+msgid "I don't recall seeing you there."
+msgstr "Sizi orada gördüğümü hatırlamıyorum."
+
+msgid "You three are not part of the club, are you?"
+msgstr "Siz üçünüz kulübün parçası değilsiniz, değil mi?"
+
+msgid "That's funny. I didn't pin you of all people as the \"occult\" type, Kat."
+msgstr "Bu komik. Senin \"okült\" bir tip olduğunu bilmiyordum, Kat."
+
+msgid "That's because I'm not."
+msgstr "Öyle bir tip olmadığım için bilmemen normal."
+
+msgid "H-Hey!! We were doing something here!"
+msgstr "H-Hey!! Burada bir şey yapıyorduk!"
+
+msgid "I'll save you the trouble. All three of you moved it."
+msgstr "Sizi bu saçmalıktan kurtaracağım. Üçünüz de onu hareket ettirdiniz."
+
+msgid "Wha...?"
+msgstr "Ne...?"
+
+msgid "The planchette. From your game. You all moved it. There's no ghost in the room."
+msgstr "Ruh çağırma tahtası. Oyununuzdaki. Hepiniz onu hareket ettirdiniz. Odada hayalet falan yok."
+
+msgid "There's a simple scientific explanation: it's called the ideomotor effect."
+msgstr "Bunun basit bir bilimsel açıklaması var: ideomotor efekti."
+
+msgid "Simply put, just like your body reacts to pain reflexively, it may also react to ideas and move on its own. It pretty much bypasses the part of the brain which we use for conscious behavior."
+msgstr "Basitçe söylemek gerekirse, acıya refleksif tepki vermek gibi, insan vücudu düşüncelere tepki verir ve kendi kendine hareket eder. Beynin bilinçli davranış için kullandığımız kısmını hemen hemen atlar."
+
+msgid "It's not all that different from blinking or breathing. The effect is even stronger when a bunch of gullible people who are desperate to believe in ghost stories get together and play."
+msgstr "Göz kırpmak veya nefes almaktan bir farkı yok. Hayaletlere inanmak isteyen bir grup insan toplanırsa bu efekt daha da güçlenir."
+
+msgid "There was an experiment where the players were blindfolded and suddenly the \"ghosts\" could no longer spell messages. You can try it if you don't believe me."
+msgstr "Oyuncuların gözlerinin bağlı olduğu bir deney yapıldı ve ne hikmetse \"hayaletler\" hiçbir mesaj göndermemeye başladı. Bana inanmıyorsanız kendiniz deneyebilirsiniz."
+
+msgid "In other words, your mysterious answers from beyond... are really just your imagination playing tricks on you."
+msgstr "Başka bir deyişle, öteden gelen gizemli mesajlarınızın hepsi aklınızın sizinle oyun oynamasından ibaret."
+
+msgid "Great job killing the mood."
+msgstr "Tüm modu bozduğun için sağol."
+
+msgid "You must be fun at parties."
+msgstr "Partilerin neşe kaynağı olmalısın."
+
+msgid "Thanks a lot, Kat."
+msgstr "Çok teşekkürler, Kat."
+
+msgid "Always a pleasure."
+msgstr "Her zaman."
+
+msgid "(Alright, time to search.)"
+msgstr "(Tamam, araştırma zamanı.)"
+
+msgid "(I should go over my notes to make sure I don't forget anything.)"
+msgstr "(Notlarımın üstünden geçmeliyim ki hiçbir şeyi unutmayayım.)"
+
+msgid "I already have enough chalk but... the more the merrier!"
+msgstr "Zaten yeterince tebeşirim var ama... ne kadar çok o kadar iyi!"
+
+msgid "What kind of ritual is this...?"
+msgstr "Ne tür bi ritüel bu...?"
+
+msgid "Do I really need all of this chalk...?"
+msgstr "Gerçekten tüm bu tebeşirlere ihtiyacım var mı...?"
+
+msgid "This window already has curtains."
+msgstr "Bu pencerede zaten perde asılı."
+
+msgid "The thought of its burning beauty charms you."
+msgstr "Yakıcı güzelliğinin düşüncesi seni büyülüyor."
+
+msgid "I really shouldn't, though."
+msgstr "Ama bunu yapmamalıyım."
+
+msgid "It looks like a private journal."
+msgstr "Kişisel bir ajanda gibi görünüyor."
+
+msgid "This looks like that girl's private journal."
+msgstr "Bu o kızın kişisel ajandası gibi görünüyor."
+
+msgid "Look through it?"
+msgstr "İçine bak?"
+
+msgctxt "events.Global.prologue_item_notebook.choice.Look through it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Global.prologue_item_notebook.choice.Look through it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Let's see..."
+msgstr "Bir bakalım..."
+
+msgid "Blegh, it's just math problems... and girly doodles all over."
+msgstr "Pöff, sadece matematik problemleri... ve bazı karalamalar var."
+
+msgid "This isn't worth my time."
+msgstr "Vaktimi ayırdığıma değmedi."
+
+msgid "A math notebook. Nothing worth looking through."
+msgstr "Bir matematik defteri. İçinde bakmaya değer bir şey yok"
+
+msgid "(Alright, so I need to search the school for the items first.)"
+msgstr "(Peki, şimdi eşyalar için okulu araştırmalıyım.)"
+
+msgid "(The rune should be in this room...)"
+msgstr "(Rün taşı bu odada bir yerlerde...)"
+
+msgid "(...somewhere.)"
+msgstr "(...olmalı.)"
+
+msgid "Well, I need a tuft of hair for the ritual..."
+msgstr "Ritüel için bir tutam saça ihtiyacım var..."
+
+msgid "Should I cut my own hair?"
+msgstr "Kendi saçımı mı kesmeliyim?"
+
+msgid "I guess..."
+msgstr "Öyle olsa gerek..."
+
+msgid "Forget it"
+msgstr "Unut gitsin"
+
+msgid "Sigh..."
+msgstr "Off..."
+
+msgid "Here I go, I suppose..."
+msgstr "Yapacağım, sanırım..."
+
+msgid "I never want to do that again."
+msgstr "Bunu bir daha asla yapmak istemiyorum."
+
+msgid "You're so brave, Kat."
+msgstr "Çok cesursun, Kat."
+
+msgid "Of course not."
+msgstr "Ne münasebet."
+
+msgid "I already have enough hair."
+msgstr "Zaten yeterince saçım var."
+
+msgid "(Nah.)"
+msgstr "(Yok.)"
+
+msgid "Um... any takers?"
+msgstr "Yardım etmek isteyen... var mı?"
+
+msgid "What do you need?"
+msgstr "Ne lazım?"
+
+msgid "Just a bit of hair."
+msgstr "Sadece birazcık saç."
+
+msgctxt "events.Global.prologue_item_scissors.dlg.prologue_girl2"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Global.prologue_item_scissors.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "Why don't you cut your own?"
+msgstr "Neden kendi saçını kesmiyorsun?"
+
+msgid "I thought you girls wanted to participate...?"
+msgstr "Yardımcı olmak istediğinizi sanmıştım...?"
+
+msgid "I don't mind helping..."
+msgstr "Yardım etmemin mahzuru yok..."
+
+msgid "No Kaya, you don't have to do that."
+msgstr "Hayır Kaya, bunu yapmana gerek yok."
+
+msgid "It's alright, I'll give you mine."
+msgstr "Sorun değil, ben kendiminkini vereceğim."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "There's no need for that. I'll just cut some of mine."
+msgstr "Buna gerek yok. Kendiminkinden birazcık keseceğim."
+
+msgid "Are you sure?"
+msgstr "Emin misin?"
+
+msgid "Yeah, it would be a waste to use yours."
+msgstr "Evet, seninkini ziyan etmeyelim."
+
+msgid "Alright."
+msgstr "Peki."
+
+msgid "A tuft of hair from Saki. She gave it to me voluntarily."
+msgstr "Saki'den bir tutam saç. Gönüllü olarak verdi."
+
+msgid "Thanks!"
+msgstr "Teşekkürler!"
+
+msgid "Uuugh..."
+msgstr "Oooff..."
+
+msgid "It's so dark..."
+msgstr "Çok karanlık..."
+
+msgid "Let's see what's behind this door."
+msgstr "Hadi bu kapının arkasında ne olduğunu öğrenelim."
+
+msgid "Maybe we'll find exam answers!"
+msgstr "Belki sınav sorularının cevaplarını buluruz!"
+
+msgid "Or dead bodies!"
+msgstr "Ya da cesetler!"
+
+msgid "Or... maybe it's just a supply closet."
+msgstr "Ya da... belki de sadece bir malzeme dolabıdır."
+
+msgid "Heh."
+msgstr "Heh."

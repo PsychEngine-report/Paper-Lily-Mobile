@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The flower sank into the water."
+msgstr "Kwiat zatonął w wodzie."
+
+msgid "Pity."
+msgstr "Szkoda."
+
+msgid "You thought that would work?"
+msgstr "Myślałaś, że to zadziała?"
+
+msgid "You should be more careful about the decisions you make."
+msgstr "Powinnaś bardziej uważać na decyzje, które podejmujesz."
+
+msgid "The solution may seem obvious, but..."
+msgstr "Rozwiązanie może wydawać się oczywiste, ale..."
+
+msgid "THERE IS ALWAYS ANOTHER WAY"
+msgstr "ZAWSZE ZNAJDZIE SIĘ INNY SPOSÓB"
+
+msgid "You may not notice it right away, but your actions will have an impact sooner or later."
+msgstr "Możesz nie zauważyć tego od razu, ale Twoje działania będą miały wpływ prędzej czy później."
+
+msgid "You may not even remember what you did to cause it."
+msgstr "Możesz nawet nie pamiętać, co zrobiłaś, aby to spowodować."
+
+msgid "Sadly, regret is always in the shadow of choice."
+msgstr "Niestety, żal jest zawsze w cieniu wyboru."
+
+msgid "Also, you know very well this isn't your home."
+msgstr "Poza tym, dobrze wiesz, że to nie jest twój dom."
+
+msgid "So why do you mess with things that don't belong to you?"
+msgstr "Dlaczego więc rządzisz się rzeczami, które do ciebie nie należą?"
+
+msgid "YOU'RE NOT WELCOME HERE"
+msgstr "NIE JESTEŚ TU MILE WIDZIANA"
+
+msgid "Look."
+msgstr "Spójrz."
+
+msgid "This is the result of your actions."
+msgstr "To jest wynik twoich działań."
+
+msgid "The result of your expectations."
+msgstr "Wynik Twoich oczekiwań."
+
+msgid "Things are not always what they seem."
+msgstr "Nie wszystko jest zawsze takie, jakie się wydaje. "
+
+msgid "What do you think?"
+msgstr "Co myślisz?"
+
+msgid "Does this still look like a flower to you?"
+msgstr "Czy to nadal wygląda dla Ciebie jak kwiat?"
+
+msgid "You're not prepared to deal with the truth."
+msgstr "Nie jesteś przygotowana na zmierzenie się z prawda."
+
+msgid "Are you?"
+msgstr "Czyż nie?"
+
+msgid "I can't stop you from coming here."
+msgstr "Nie mogę cię powstrzymać przed przyjściem tutaj."
+
+msgid "But if you're foolish enough to cross my path,"
+msgstr "Ale jeśli jesteś na tyle głupia, by stanąć mi na drodze,"
+
+msgid "I'LL KILL YOU MYSELF"
+msgstr "ZABIJĘ CIĘ SAM"
+
+msgid "...such is the way of our world."
+msgstr "...taka jest kolej rzeczy."
+
+msgid "..."
+msgstr "... "
+
+msgid "The door opened!"
+msgstr "Drzwi się otworzyły!"
+
+msgid "Fascinating."
+msgstr "Fascynujące."
+
+msgid "You've done the opposite of what I expected."
+msgstr "Zrobiłaś coś zupełnie odwrotnego niż się spodziewałem."
+
+msgid "A delightful surprise."
+msgstr "Co za wspaniała niespodzianka."
+
+msgid "How did you know, I wonder?"
+msgstr "Skąd wiedziałaś, zastanawiam się?"
+
+msgid "Perhaps you're different."
+msgstr "Może ty jesteś inna."
+
+msgid "Or perhaps..."
+msgstr "A może..."
+
+msgid "...you cheated?"
+msgstr "...oszukiwałaś?"
+
+msgid "How odd."
+msgstr "Jakie to dziwne."
+
+msgid "Regardless, I advise you not to mess with things that don't belong to you."
+msgstr "Niezależnie od tego, radzę ci nie mieszać się do rzeczy, które do ciebie nie należą."
+
+msgid "It's not safe for you."
+msgstr "To nie jest dla ciebie bezpieczne."
+
+msgid "As you already know, in this place..."
+msgstr "Jak już wiesz, w tym miejscu..."
+
+msgid "THINGS ARE NOT ALWAYS WHAT THEY SEEM"
+msgstr "NIE WSZYSTKO JEST ZAWSZE TAKIE, JAKIE SIĘ WYDAJE."
+
+msgid "The answers you're looking for are not yours to take,"
+msgstr "Odpowiedzi, których szukasz, nie są ci dane,"
+
+msgid "You're not ready to learn the truth..."
+msgstr "Nie jesteś gotowa na poznanie prawdy..."
+
+msgid "...and the truth is not willing to be learned by you."
+msgstr "...a prawda nie chce być przez ciebie poznana."
+
+msgid "I can't stop you from coming."
+msgstr "Nie mogę cię powstrzymać przed tym co zamierasz zrobić."
+
+msgid "Just know that if you do,"
+msgstr "Po prostu wiedz, że jeśli to zrobisz,"
+
+msgid "YOU WILL BE KILLED"
+msgstr "ZGINIESZ"
+
+msgid "The building ahead seems locked somehow."
+msgstr "Budynek przed tobą wygląda na zamknięty."
+
+msgid "There's a white flower on the ground."
+msgstr "Na ziemi leży biały kwiat."
+
+msgid "Take Flower?"
+msgstr "Wziąć Kwiat?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "There's already a flower there."
+msgstr "Tu już jest kwiat."
+
+msgid "The light turned green."
+msgstr "Światło zmieniło się na zielone."
+
+msgid "A door with 4 colored lights."
+msgstr "Drzwi z 4 kolorowymi światłami."
+
+msgid "It's locked."
+msgstr "Są zamknięte."
+
+msgid "A small building adorned with flowers."
+msgstr "Niewielki budynek ozdobiony kwiatami."
+
+msgid "A tree with pink flowers."
+msgstr "Drzewo z różowymi kwiatami."
+
+msgid "A big flower vase with a white flower in it."
+msgstr "Duży wazon z białym kwiatkiem w środku."
+
+msgid "Take out the flower?"
+msgstr "Wyjąć kwiat?"
+
+msgid "The green light turned red."
+msgstr "Zielone światło stało się czerwone."
+
+msgid "Put the flower back in?"
+msgstr "Włożyć kwiatek z powrotem?"
+
+msgid "The light turned back green."
+msgstr "Światło zmieniło się na zielone."
+
+msgid "A big flower vase. The flower is missing."
+msgstr "Duży wazon na kwiaty. Brakuje w nim kwiatka."
+
+msgid "A big flower vase. Unlike the others, this one has no flower."
+msgstr "Duży wazon na kwiaty. W przeciwieństwie do innych, ten nie ma kwiatka."
+
+msgid "A big flower vase. I placed a flower inside."
+msgstr "Duży wazon na kwiaty. Włożyłam do środka kwiatek."
+
+msgid "Take it out?"
+msgstr "Wyjąć kwiat?"
+
+msgid "The light turned back red."
+msgstr "Światło znów zrobiło się czerwone."
+
+msgid "Some large windows. You can't see what's inside."
+msgstr "Kilka dużych okien. Nie widać, co jest w środku."

@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Battle"
+msgstr "Walka"
+
+msgid "Move around to avoid the spikes!"
+msgstr "Poruszaj się, aby unikać kolców!"
+
+msgid "Minigame: Box Puzzle"
+msgstr "Minigra: Pudełkowa Zagadka"
+
+msgid "Push the desks into the green zones to complete the puzzle"
+msgstr "Wepchnij ławki do zielonych pól, aby rozwiązać zagadkę"
+
+msgid "Documents"
+msgstr "Dokumenty"
+
+msgid "Your papers and notes are stored in the notebook in your inventory."
+msgstr "Dokumenty i notatki są przechowywane w zeszycie w ekwipunku."
+
+msgid "Hiding"
+msgstr "Ukrywanie się"
+
+msgid "Hide in the bushes with {0} to avoid being caught."
+msgstr "Ukryj się w krzakach za pomocą {0}, aby uniknąć złapania."
+
+msgid "Interacting"
+msgstr "Interakcja"
+
+msgid "Press {0} to interact with the environment"
+msgstr "Naciśnij {0}, aby wejść w interakcję z otoczeniem"
+
+msgid "Using Items"
+msgstr "Używanie Przedmiotów"
+
+msgid "To use an item, stand close and select the item from the menu ({0})"
+msgstr "Aby użyć danego przedmiotu, stań blisko i wybierz go z menu ({0})."
+
+msgid "To use an item, stand close and select the item from the menu"
+msgstr "Aby użyć danego przedmiotu, stań blisko i wybierz go z menu"
+
+msgid "Opening the Menu"
+msgstr "Otwieranie Menu"
+
+msgid "Press {0} to open the menu and see your items"
+msgstr "Naciśnij {0}, aby otworzyć menu i zobaczyć swoje przedmioty"
+
+msgid "Moving"
+msgstr "Poruszanie się"
+
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "Użyj klawiszy {0}{1}{2}{3} aby się poruszać"
+
+msgid "Picking Up Items"
+msgstr "Zbieranie Przedmiotów"
+
+msgid "Press {0} to pick up items"
+msgstr "Naciśnij {0}, aby podnosić przedmioty"
+
+msgid "Running"
+msgstr "Bieganie"
+
+msgid "While moving, hold {0} to run"
+msgstr "Podczas ruchu, przytrzymaj {0}, aby biegać"
+
+msgid "Saving the Game"
+msgstr "Zapisywanie Gry"
+
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "Wrony mogą zapisać twoja grę. Zapisuj często, ponieważ przyszłość jest niepewna"
+
+msgid "Sneaking"
+msgstr "Skradanie Się"
+
+msgid "Running will make you easier to spot. Hold {0} to sneak past enemies"
+msgstr "Bieganie sprawi, że łatwiej będzie cię zauważyć. Przytrzymaj {0}, aby przekraść się obok wrogów"
+
+msgid "Climbing Stairs"
+msgstr "Wchodzenie po Schodach"
+
+msgid "Hold {0} while moving to climb up the stairs"
+msgstr "Przytrzymaj {0} podczas ruchu, aby wejść po schodach"
+
+msgid "Timed Event"
+msgstr "Limit Czasowy"
+
+msgid "Get to the bus before the time runs out!"
+msgstr "Biegnij na autobus, zanim skończy się czas!"
+
+msgid "Minigame: Timing Bar"
+msgstr "Minigra: Refleks"
+
+msgid "Press {0} when the indicator matches the green zone"
+msgstr "Naciśnij {0}, kiedy wskaźnik znajduje się w zielonym polu"

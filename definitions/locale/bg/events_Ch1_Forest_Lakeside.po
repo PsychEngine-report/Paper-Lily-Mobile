@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "....."
+msgstr "....."
+
+msgid "Let's get rid of some items..."
+msgstr "Да се отървем от няколко предмета…"
+
+msgid "(You got rid of some items.)"
+msgstr "(Вие се отървахте от няколко предмета.)"
+
+msgid "There's a bucket here."
+msgstr "Има кофа тук."
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "Вземи ${item:ch1.bucket}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "There are easier ways to fill a bucket with water."
+msgstr "Има по-лесни начини да напълните кофа с вода."
+
+msgid "It doesn't want to go in there..."
+msgstr "Не иска да влезе там…"
+
+msgid "The fish is long dead. Putting it in water won't change that."
+msgstr "Рибата отдавна е мъртва. Поставянето ѝ във вода няма да промени това."
+
+msgid "The monster swims away after being splashed."
+msgstr "Чудовището отплува, след като е напръскано."
+
+msgid "That won't accomplish anything."
+msgstr "Това няма да доведе до нищо."
+
+msgid "I thought it hated water...?"
+msgstr "Мислех, че ненавижда водата…?"
+
+msgid "Well, no... it's clearly swimming in the water just fine."
+msgstr "Е, изглежда че не… очевидно плува прекрасно във водата."
+
+msgid "Maybe it's some different kind of water."
+msgstr "Може би е някакъв друг вид вода."
+
+msgid "The monster stares at you without moving from its spot."
+msgstr "Чудовището ви зяпа, без да помръдва от мястото си."
+
+msgid "No... what if something lives down there?"
+msgstr "Не… ами ако нещо живее там долу?"
+
+msgid "I wouldn't want to drown it."
+msgstr "Не бих искала да го удавя."
+
+msgid "A boat that has seen better days."
+msgstr "Лодка, виждала е и по-добри дни."
+
+msgid "It could probably take you north."
+msgstr "Вероятно може да ви заведе на север."
+
+msgid "Ideally, I'd like to have two paddles."
+msgstr "В идеалния случай, бих желала две гребла."
+
+msgid "I can't take it anywhere without paddles."
+msgstr "Не мога да се придвижвам никъде без гребла."
+
+msgid "Also..."
+msgstr "В допълнение…"
+
+msgid "(What should I do?)"
+msgstr "(Какво да сторя?)"
+
+msgid "Get on the boat"
+msgstr "Качи се на лодката"
+
+msgid "Do not"
+msgstr "Недей"
+
+msgid "What the heck is that thing...?"
+msgstr "Какво мамка му е това нещо…?"
+
+msgid "(Maybe I shouldn't get on while it's there...)"
+msgstr "(Може би не трябва да влизам, докато то е там…)"
+
+msgid "A puddle of what looks like blood."
+msgstr "Локва от нещо, което прилича на кръв."
+
+msgid "Did this thing just turn into blood...?"
+msgstr "Това нещо да не би току що да се превърна в кръв…?"
+
+msgid "A small burrow."
+msgstr "Малка бърлога."
+
+msgid "Reach inside?"
+msgstr "Протегни се навътре?"
+
+msgid "You can't feel anything special."
+msgstr "Не можете да почувствате нищо по-специално."
+
+msgid "A cage attached to a tree."
+msgstr "Клетка, закрепена за дърво."
+
+msgid "It looks like I could put something inside."
+msgstr "Изглежда, че мога да сложа нещо вътре."
+
+msgid "A bunny stares at you from inside."
+msgstr "Едно зайче ви гледа отвътре."
+
+msgid "The 5-coin fish rests inside. It's not even grilled."
+msgstr "Рибата от 5 монети лежи вътре. Тя дори не е изпечена на скара."
+
+msgid "A pack of chips is inside."
+msgstr "Вътре има пакет чипс."
+
+msgid "A chocolate bar is inside."
+msgstr "Вътре има шоколадово блокче."
+
+msgid "(Take it back?)"
+msgstr "(Вземи го обратно?)"
+
+msgid "There's no need to push the cage into the water anymore."
+msgstr "Вече не е необходимо да бутате клетката във водата."
+
+msgid "(Push the cage into the water?)"
+msgstr "(Избутайте клетката във водата?)"
+
+msgid "(The monster seems to like what you put inside the cage.)"
+msgstr "(Чудовището изглежда харесва това, което сте сложили в клетката.)"
+
+msgid "The cage is in the water."
+msgstr "Клетката е във водата."
+
+msgid "No need to mess with it anymore."
+msgstr "Няма нужда повече да се занимавате с него."
+
+msgid "(Pull it back up?)"
+msgstr "(Издърпай го обратно?)"
+
+msgid "A fishing rod."
+msgstr "Рибарска въдица."
+
+msgid "Try it?"
+msgstr "Пробвай я?"
+
+msgid "A structure housing a lamp."
+msgstr "Структура, в която е разположена лампа."
+
+msgid "A crow standing on a rock."
+msgstr "Врана, застанала на скала."
+
+msgid "Is it waiting to take the boat?"
+msgstr "Чака ли да вземе лодката?"
+
+msgid "Colorful logs sticking out of the water."
+msgstr "Цветни дънери, стърчащи от водата."
+
+msgid "Despite your best efforts, you can't read the note from this side of the tree."
+msgstr "Въпреки усилията си не можете да прочетете бележката от тази страна на дървото."
+
+msgid "A note is attached to the tree. It says:"
+msgstr "Към дървото е прикрепена бележка. В нея се казва:"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVES MEAT\n"
+"HATES WATER\""
+msgstr ""
+"\"ЧУДОВИЩЕТО\n"
+"ОБИЧА МЕСО\n"
+"МРАЗИ ВОДА\""

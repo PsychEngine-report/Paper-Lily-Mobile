@@ -1,0 +1,1096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You're done."
+msgstr "你完成了。"
+
+msgid "Good work."
+msgstr "做的好。"
+
+msgid "What now?"
+msgstr "现在怎么办？"
+
+msgid "Now, all of these objects need to be burned in the correct order."
+msgstr "现在，按照正确的顺序烧毁这些物品。"
+
+msgid "What's the order?"
+msgstr "怎样的顺序？"
+
+msgid "That's for you to figure out. The hands over there might provide a clue."
+msgstr "这就得你自己弄清楚了。那边的手或许会给你提供线索。"
+
+msgid "I see..."
+msgstr "嗯..."
+
+msgid "Make sure you have a way to light the fireplace as well."
+msgstr "同时，确保你有点燃壁炉的方法。"
+
+msgid "Oh, that's true..."
+msgstr "哦，对..."
+
+msgid "(Are there any places I haven't checked yet...?)"
+msgstr "（这里是不是还有我没调查过的地方...？）"
+
+msgid "Lastly... this whole thing tends to culminate with candles going out."
+msgstr "最后... 这一切都会以蜡烛的熄灭而告终。"
+
+msgid "Therefore, if you see any candles, put them out."
+msgstr "因此，如果你看到蜡烛，就将它熄灭吧。"
+
+msgid "Understood."
+msgstr "明白了。"
+
+msgid "One more thing."
+msgstr "还有一件事。"
+
+msgid "I couldn't help but notice how weak you look."
+msgstr "我不禁注意到，你看起来是那么的弱小。"
+
+msgid "The challenges ahead might be beyond your capabilities."
+msgstr "未来的挑战可能会超出你的能力范围。"
+
+msgid "There's an object inside my old hiding spot that can help with that."
+msgstr "在我之前的藏身之处，有一个东西能帮到你。"
+
+msgid "Spider is just dangling there."
+msgstr "蜘蛛在那里晃来晃去。"
+
+msgid "Psst..."
+msgstr "嘶..."
+
+msgid "Over here."
+msgstr "来这里。"
+
+msgid "Here. On the wall."
+msgstr "这里。墙上。"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Spider...?"
+msgstr "蜘蛛...？"
+
+msgid "Yes."
+msgstr "没错。"
+
+msgid "Is that really you?"
+msgstr "真的是你吗？"
+
+msgid "Huh... you really meant it when you said you talked to a spider."
+msgstr "呃...原来你说你和蜘蛛讲话的事情是真的啊。"
+
+msgid "He looked different last time, but it's still basically a spider."
+msgstr "他看起来和上次很不一样，但是它还是蜘蛛。"
+
+msgid "Oh. There's two of you now."
+msgstr "哦。现在你们有两个人了。"
+
+msgid "Well, no matter."
+msgstr "好吧，没关系。"
+
+msgid "You look... different."
+msgstr "你看起来...很不一样"
+
+msgid "...But I can't quite put my finger on it."
+msgstr "...但是我怕说的又不着边际。"
+
+msgid "I don't appreciate your humor."
+msgstr "我无法理解你的幽默。"
+
+msgid "Miss Knives discovered my hiding spot."
+msgstr "莉刃小姐发现了我的藏身之处。"
+
+msgid "She's not fond of my presence."
+msgstr "她不希望我出现。"
+
+msgid "So she turned me into... this."
+msgstr "所以她把我变成了...这样。"
+
+msgid "It's pathetic."
+msgstr "真是可悲。"
+
+msgid "Damn, she must have crazy powers."
+msgstr "天呐，她的力量也太强大了吧。"
+
+msgid "Is she really that powerful?"
+msgstr "她真的有这么强大吗？"
+
+msgid "Not quite."
+msgstr "并不。"
+
+msgid "You both must have had some time to look around this place by now."
+msgstr "你们两个肯定已经在这里四处转过了吧。"
+
+msgid "You must have had some time to look around this place by now."
+msgstr "你肯定已经在这里四处转过了吧。"
+
+msgid "Did you figure out anything strange?"
+msgstr "没有发现什么奇怪的事情吗？"
+
+msgid "You mean aside from... everything?"
+msgstr "你是说... 这里的一切吗？"
+
+msgid "Kind of a tall order, pal."
+msgstr "朋友，你对我们要求太高了。"
+
+msgid "...Well..."
+msgstr "...好吧..."
+
+msgid "The location of this house is strange."
+msgstr "这间房子的所在之处很奇怪。"
+
+msgid "The walls are filled with creepy paintings."
+msgstr "墙上挂满了可怕的画像。"
+
+msgid "It's all very purple, I guess."
+msgstr "这里颜色很紫，我感觉。"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.ch1_spider"
+msgid "..."
+msgstr "..."
+
+msgid "...Maybe humans are just slow."
+msgstr "...可能人类都会慢一拍吧。"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "None of what you're seeing is real."
+msgstr "你所见的一切皆非真实。"
+
+msgid "Huh?"
+msgstr "啊？"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.lacie"
+msgid "What?"
+msgstr "什么？"
+
+msgid "Miss Knives is a strange case."
+msgstr "莉刃小姐是个怪人。"
+
+msgid "She created this place out of her own desires."
+msgstr "她凭自己的力量创造了这个地方。"
+
+msgid "But the house doesn't actually exist."
+msgstr "但是这间房子其实并不存在。"
+
+msgid "Convenient."
+msgstr "这就解释得通了。"
+
+msgid "So then... it's an illusion?"
+msgstr "所以说...这是一个幻象？"
+
+msgid "To an extent, yes."
+msgstr "某种程度上，是的。"
+
+msgid "That's also why I look like this."
+msgstr "这也就是为什么我看起来像这样。"
+
+msgid "Miss Knives only sees what she wants to see."
+msgstr "莉刃小姐只看她想看见的东西。"
+
+msgid "So she sees you as... a little spider on the wall?"
+msgstr "所以她把你看作了...一只墙上的小蜘蛛？"
+
+msgid "It would seem so."
+msgstr "看来是的。"
+
+msgid "I see."
+msgstr "嗯。"
+
+msgid "Then... to escape..."
+msgstr "接着...关于逃脱的事情..."
+
+msgid "You have to break the illusion."
+msgstr "你需要打破幻象。"
+
+msgid "Remind her who she is."
+msgstr "让她记起自己是谁。"
+
+msgid "Or rather... who she isn't."
+msgstr "又或者说...她不是谁。"
+
+msgid "That's where those objects you need to collect come into play."
+msgstr "这就是你要去收集的物品发挥作用的时候了。"
+
+msgid "They seem to have some sort of connection to her memories."
+msgstr "它们看起来与她的记忆有某种联系。"
+
+msgid "Once you find and unseal them all, come back and see me."
+msgstr "一旦你找到并解封了所有物品，就回来找我吧。"
+
+msgid "If you need help with the burning order..."
+msgstr "如果你想知道燃烧的顺序..."
+
+msgid "The painting with the hands might provide you with a hint."
+msgstr "那幅画着手的画作或许会给你一些提示。"
+
+msgid "That seems to be already unsealed."
+msgstr "那看起来已经被解封了。"
+
+msgid "You don't need to do anything else with it."
+msgstr "你已经不用对它做什么了。"
+
+msgid "(The hands reject the item... it needs to be unsealed first.)"
+msgstr "（这双手拒绝了这件物品...需要先解封它。）"
+
+msgid "My mother got worse one day."
+msgstr "有一天，我母亲病情加重了。"
+
+msgid "Father thinks she might die."
+msgstr "父亲觉得她可能会死。"
+
+msgid "I don't want mom to die."
+msgstr "但我不想妈妈死。"
+
+msgid "I brought her a cold compress to lower the fever."
+msgstr "我给她带了一块降温用的冷敷布。"
+
+msgid "Mother always said that water provides the best healing."
+msgstr "母亲总说，水是最好的良药。"
+
+msgid "That night, I said a prayer to try to help her."
+msgstr "那一夜，我祈祷能帮助她。"
+
+msgid "I wished for her to get better, and I wished for our family to go back to normal, at least."
+msgstr "我希望她变得更好，最起码，我希望我们的家庭能够走回正轨。"
+
+msgid "The [color=#90EE90]third blessing[/color] came as a surprise to everyone in the village."
+msgstr "[color=#90EE90]第三件祝福[/color]让村子里的每个人都大吃一惊。"
+
+msgid "The morning after my prayer, my mother was out of bed, and cooking."
+msgstr "我做完祷告的第二天早上，我的母亲就能下床做饭了。"
+
+msgid "She said she felt much better, she even had strength to go to the market."
+msgstr "她说她感觉好多了，她甚至有力气去集市买东西了。"
+
+msgid "You see? The cold compress did the job!"
+msgstr "看到了吗？这块冷敷布做到了！"
+
+msgid "Clean water is the purest thing we have."
+msgstr "清水是我们拥有的，最纯净的事物。"
+
+msgid "Are you sure you should be out of bed?"
+msgstr "你确定你要从床上下来吗？"
+
+msgid "This is the best I've felt in years."
+msgstr "这是我这几年感觉最好的一次了。"
+
+msgid "But... the doctor said..."
+msgstr "但是...医生说..."
+
+msgid "I'm sure he was just wrong."
+msgstr "我觉得他可能是误诊了。"
+
+msgid "You know, medicine isn't always entirely accurate."
+msgstr "你知道的，医学并不总是完全准确的。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_compress_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "No more than two days later, some adults knocked at the door."
+msgstr "没过两天，一些大人就来敲我家的门。"
+
+msgid "They took my mother. They called her a witch."
+msgstr "他们带走了我的母亲。他们把她叫做女巫。"
+
+msgid "They claimed she used her powers to get cured of a deadly illness."
+msgstr "他们声称她用她的力量治愈了一种绝症。"
+
+msgid "They said the village needs to be cleansed, and that witch hunts were important for this."
+msgstr "他们认为这个村庄需要被净化，而狩猎女巫是最重要的一环。"
+
+msgid "The next day, my mother was burned at the stake."
+msgstr "第二天，我母亲被烧死在火刑柱上。"
+
+msgid "Everyone watched, and everyone cheered, as she died slowly, for a sin she did not commit."
+msgstr "每个人都在旁观着，每个人都在欢呼着，她慢慢地死去，只因她从未犯下的罪过。"
+
+msgid "This was the first time I wished that I couldn't see anymore."
+msgstr "这是我第一次希望自己什么也看不见。"
+
+msgid "Have you somehow missed the large painting that's lacking eyes?"
+msgstr "你是不是错过了一幅缺少眼睛的大型画作？"
+
+msgid "The [color=#90EE90]fourth blessing[/color] was something I would never wish for."
+msgstr "[color=#90EE90]第四件祝福[/color]是我从未期许之物。"
+
+msgid "Give it back!"
+msgstr "还给我！"
+
+msgid "How'd you get your hands on such an expensive-looking sketchbook, huh?"
+msgstr "你是怎么搞到这么贵的绘画本的？"
+
+msgid "Let's see..."
+msgstr "让我看看..."
+
+msgid "Stop! Just give it to me!"
+msgstr "别！把它还给我吧！"
+
+msgid "What the heck is this?"
+msgstr "这是什么鬼东西？"
+
+msgid "They flipped through the pages of my sketchbook, and their faces got an awful ghostly white."
+msgstr "他们一页页翻动着我的绘画本，脸色变得像幽灵般惨白。"
+
+msgid "Is she a witch?"
+msgstr "难道她是女巫？"
+
+msgid "What are those?"
+msgstr "请问这些是什么？"
+
+msgid "I didn't draw that!"
+msgstr "不是我画的！"
+
+msgid "Hey, I didn't know you were a witch."
+msgstr "嘿，我之前不知道你其实是个女巫啊。"
+
+msgid "I'm not!!!"
+msgstr "我不是！！！"
+
+msgid "Pages and pages of creepy drawings."
+msgstr "一页又一页恐怖的绘画。"
+
+msgid "What is this? Some kind of curse casting shit?"
+msgstr "这是什么？某种狗屁诅咒吗？"
+
+msgid "I didn't make them! I don't know where they came from!"
+msgstr "不是我画的！我也不知道它们从哪来的！"
+
+msgid "It's the truth. Why didn't they believe me?"
+msgstr "这就是真相。为什么他们不相信我？"
+
+msgid "STOP! WHAT ARE YOU DOING?!?"
+msgstr "停下！你们在做什么？！？"
+
+msgid "You're just a filthy witch!"
+msgstr "你就是个肮脏的女巫！"
+
+msgid "I'm reporting you, you won't be needing this!"
+msgstr "我要告发你，你不需要这本了！"
+
+msgid "PLEASE DON'T BREAK IT!"
+msgstr "求你们不要把它弄坏！"
+
+msgid "You don't even need all of these colors."
+msgstr "你甚至不需要这些颜料。"
+
+msgid "Nothing but black."
+msgstr "你只配用黑的。"
+
+msgid "You were never supposed to see anything but darkness anyway."
+msgstr "你本来就不应该看到黑暗以外的任何东西。"
+
+msgid "Blind freak."
+msgstr "瞎子。"
+
+msgid "Please stop... Give them back..."
+msgstr "求你停下... 把它还给我..."
+
+msgid "Aww.. poor little crybaby."
+msgstr "呜... 真是可怜的爱哭鬼啊。"
+
+msgid "I'm gonna report you."
+msgstr "我要去告发你。"
+
+msgid "Father will be so proud, I caught my own witch."
+msgstr "父亲会很骄傲的，因为我抓到女巫了。"
+
+msgid "I'm not a witch..."
+msgstr "我不是女巫..."
+
+msgid "I swear I'm not..."
+msgstr "我发誓我不是..."
+
+msgid "No! Don't!!!! Please!!!"
+msgstr "不！不要！！！！求你们了！！！"
+
+msgid "(Stop, please stop...)"
+msgstr "（停下，求你们停下...）"
+
+msgid "(Please stop...)"
+msgstr "（求你们停下...）"
+
+msgid "(What did I do to you...?)"
+msgstr "（我对你们做了什么吗...？）"
+
+msgid "(Please stop.......)"
+msgstr "（求你们停下.......）"
+
+msgid "I hate them. I hate my life. Why is this happening to me?"
+msgstr "我讨厌他们。我讨厌自己的人生。为什么要这样对我？"
+
+msgid "Soon enough, the boy dropped the sketchbook."
+msgstr "过了一会儿，那本绘画本从男孩那里掉了下来。"
+
+msgid "My eyes were focused on the crumpled pages of my sketchbook hitting the ground, so I didn't see it until someone screamed."
+msgstr "我的眼睛注视着绘画本上被摔得皱巴巴的纸张，直到有人尖叫起来，我才看到那个东西。"
+
+msgid "...!?"
+msgstr "...！？"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+msgstr "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！！！！"
+
+msgid "The boy's right leg twisted almost 360 degrees, as if it was some form of nightmarish witchcraft."
+msgstr "男孩的右腿被拧转了约360度，仿佛是某种噩梦般的巫术。"
+
+msgid "Then it twisted again."
+msgstr "接着，又拧转了一遍。"
+
+msgid "Something broke in his leg, and he fell down, writhing in pain."
+msgstr "他的腿断了，倒了下去，痛苦地扭动着。"
+
+msgid "I couldn't understand what I was seeing."
+msgstr "我无法理解我所见到的东西。"
+
+msgid "Y-you... what did you do to his leg?!?"
+msgstr "你—你...你对他的腿做了什么？！？"
+
+msgid "N-Nothing I didn't even touch him..."
+msgstr "什—什么也没做，我甚至都碰不到他..."
+
+msgid "AAAAAAAAGGGHHHH! IT HURTS!!!!"
+msgstr "啊啊啊啊啊啊啊！好痛！！！！"
+
+msgid "Call someone! We need help! HELP!!!"
+msgstr "叫人来！我们需要帮助！救命啊！！！"
+
+msgid "YOU'RE A WITCH!! YOU'RE A WITCH!!!"
+msgstr "你是个女巫！！你是个女巫！！！"
+
+msgid "I WILL DESTROY YOU!!!! YOU'LL BE BURNED!!!!"
+msgstr "我会消灭你！！！！你会被活活烧死！！！！"
+
+msgid "................."
+msgstr "................."
+
+msgid "BURN IN HELL!!!"
+msgstr "在地狱里燃烧吧！！！"
+
+msgid "The adults came and took him away."
+msgstr "大人们来了，把他带走了。"
+
+msgid "When I finally lifted my gaze from the dirt below my fingers, Iris was standing in front of me."
+msgstr "当我终于把目光从指缝间的泥土上移开时，艾瑞丝正站在我的面前。"
+
+msgid "My heart sank... Did she see what happened?"
+msgstr "我的心沉了下来... 她看见刚才发生了什么吗？"
+
+msgid "...A-Are you alright...?"
+msgstr "...你—你还好吗...？"
+
+msgctxt "events.Ch1_MK_Wisteria.item_foot_on_holder.dlg.mk"
+msgid "............"
+msgstr "............"
+
+msgid "I-I... You didn't do that to his leg, right?"
+msgstr "我—我...他的腿不是你弄的吧？"
+
+msgid "No! Of course I didn't!"
+msgstr "不是！当然不是我！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_foot_on_holder.dlg.chara1"
+msgid "..."
+msgstr "..."
+
+msgid "O-Okay."
+msgstr "好—好的。"
+
+msgid "...I... Why are you here?"
+msgstr "...我... 为什么你在这里？"
+
+msgid "Um... I came because... my parents said..."
+msgstr "呃...我来这里是因为...我父母说..."
+
+msgid "...That I'm not allowed to see you anymore."
+msgstr "...我不能再见你了。"
+
+msgid "Take ${item:ch1.mk_jar} x3?"
+msgstr "要取走${item:ch1.mk_jar} x3吗？"
+
+msgctxt "events.Ch1_MK_Wisteria.item_jars_get.choice.Take ${item:ch1.mk_jar} x3?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Wisteria.item_jars_get.choice.Take ${item:ch1.mk_jar} x3?"
+msgid "No"
+msgstr "否"
+
+msgid "You may use that on the canvas over there."
+msgstr "你也许能在那边的画布上使用。"
+
+msgid "That's the right idea, I think."
+msgstr "我想你做的是对的。"
+
+msgid "What should I be doing with these?"
+msgstr "我应该怎么处理这些东西？"
+
+msgid "They're probably related to that canvas over there."
+msgstr "它们或许与那边的画布有关。"
+
+msgid "Maybe you use them to make paint."
+msgstr "也许你能用它们来做颜料。"
+
+msgid "That's the key to the bedroom."
+msgstr "这是前往卧室的钥匙。"
+
+msgid "Oh... I don't need this anymore."
+msgstr "哦...那看来我不需要这个了。"
+
+msgid "That's a key to the cages."
+msgstr "这是一把笼子的钥匙。"
+
+msgid "I see you don't need it anymore."
+msgstr "我看你已经不需要了。"
+
+msgid "I can take that off your hands."
+msgstr "把它给我吧。"
+
+msgid "Oh... I see."
+msgstr "哦...好的。"
+
+msgid "That's the key to this room."
+msgstr "这是这个房间的钥匙。"
+
+msgid "I shall get rid of it, given that you already made it in."
+msgstr "既然你已经进来了，我就把它扔掉吧。"
+
+msgid "After the incident with that boy's leg, the authorities knocked at our door again."
+msgstr "那次男孩的腿的事故发生后，当局再次敲响了我家的门。"
+
+msgid "\"Your daughter is a witch\" they said to my father."
+msgstr "“你的女儿是个女巫。”它们这么跟我的父亲说道。"
+
+msgid "They talked about how I hurt that boy, how my mother healed from a fatal illness, how my eyesight came back."
+msgstr "他们谈及了我如何伤害那个男孩、我的母亲如何治愈绝症以及我的视力如何恢复的内容。"
+
+msgid "They told us both me and my father are accused of witchcraft."
+msgstr "他们告诉我们，我和我父亲都被指控使用巫术。"
+
+msgid "T-That's nonsense! What are you talking about??"
+msgstr "这—这完全没道理啊！你们在说什么？？"
+
+msgid "The whole family needs to be cleansed."
+msgstr "这个家族需要被净化。"
+
+msgid "Your daughter will be tried for witchcraft, and due to your ties to her, you will be as well."
+msgstr "你的女儿会因巫术受审，由于你和她的亲缘关系，你也要。"
+
+msgid "H-Hold on... Wait... You've got it all wrong. She's not my daughter."
+msgstr "慢—慢着... 等一下... 你们都搞错了。她不是我的女儿"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "I merely found her on the streets, she does not share my blood."
+msgstr "我只是在街上捡到了她，她和我没有血缘关系的。"
+
+msgid "(...Father...)"
+msgstr "（...爸爸...）"
+
+msgid "Take him."
+msgstr "带走他。"
+
+msgid "N-NO NO! PLEASE! I HAVE NOTHING TO DO WITH THIS!"
+msgstr "不—不要，不要！求你们了！我真的什么也没做！"
+
+msgid "When the men walked in the house, my father ran towards the back door."
+msgstr "当这些人走进屋子的时候，我的父亲直奔后门。"
+
+msgid "He was frantically bumping into the furniture to reach it."
+msgstr "他疯狂地撞开家具，想要到那里去。"
+
+msgid "Find the girl."
+msgstr "找到那个女孩。"
+
+msgid "And burn his body."
+msgstr "然后把他的尸体烧了吧。"
+
+msgid "Burn the whole house, it's cursed."
+msgstr "把这栋房子也烧了，它已经被诅咒了。"
+
+msgid "My father's blood ran down the hallway like a small river stream."
+msgstr "父亲的鲜血像溪流一般流过走廊。"
+
+msgid "It seeped into the cracks of the broken floorboards."
+msgstr "渗入了破损地板的缝隙中。"
+
+msgid "This is all that boy's fault."
+msgstr "这都是那个男孩的错。"
+
+msgid "The prison cell was cold, and dark."
+msgstr "监狱里很冷，很暗。"
+
+msgid "There was nobody else there with me, except for the occasional rat."
+msgstr "这里没有人陪着我，除了偶尔出现的老鼠。"
+
+msgid "People always said rats are dirty and dangerous."
+msgstr "人们总说老鼠肮脏且危险。"
+
+msgid "But at that moment, I appreciated the company."
+msgstr "而这时，我很感激有它的陪伴。"
+
+msgid "The adults told me my execution will be the following morning."
+msgstr "大人们告诉我，我的死刑就在明天早上。"
+
+msgid "They said I will be burned in order to purify the village."
+msgstr "他们说我会被火刑，以净化村庄。"
+
+msgid "What does that even mean? Purify the village..."
+msgstr "这是什么意思？净化村庄..."
+
+msgid "I was alone with my thoughts for what felt like hours before someone came by."
+msgstr "我独自沉思了好几个小时，直到有人走了过来。"
+
+msgid "Hey..."
+msgstr "嘿..."
+
+msgid "Iris...?"
+msgstr "艾瑞丝...？"
+
+msgid "(Will I get out of here...??)"
+msgstr "（我能出去了吗...？？）"
+
+msgid "Um... listen... I'm so sorry...!"
+msgstr "呃... 听着... 我很抱歉...！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "...?"
+msgstr "...？"
+
+msgid "I-... I told my dad about everything..."
+msgstr "我—...我把一切都告诉了我爸爸..."
+
+msgid "What...?"
+msgstr "什么...？"
+
+msgid "(...No way...)"
+msgstr "（...怎么可能...）"
+
+msgid "I... I thought if you might really be a witch, he could protect you...."
+msgstr "我... 我以为你是女巫的话，他会保护你的..."
+
+msgid "B-Because he knew we were friends!"
+msgstr "因—因为他知道我们是朋友！"
+
+msgid "I'm sorry... I did this...!"
+msgstr "我很抱歉... 我做了这种事...！"
+
+msgid "I didn't know he would kill your dad... and... and you..."
+msgstr "我不知道他会杀了你爸爸... 还有... 还有你..."
+
+msgid "Please..."
+msgstr "请..."
+
+msgid "Please take this knife..."
+msgstr "请收下这把刀..."
+
+msgid "P-please... please use it... before they kill you."
+msgstr "请—请你... 请你在他们杀了你之前... 用它了结吧。"
+
+msgid "You'll be better off if you end it this way...!"
+msgstr "这样死的话，你会更好受一些...！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "............"
+msgstr "............"
+
+msgid "What's happening?"
+msgstr "发生了什么？"
+
+msgid "Why would she tell me something like this?"
+msgstr "为什么她要告诉我这种事情？"
+
+msgid "What's going on?"
+msgstr "到底怎么了？"
+
+msgid "I-I love you and... father said burning is slow and painful...!!"
+msgstr "我—我爱你，还有...父亲说火刑又慢又痛苦...！！"
+
+msgid "You're better off doing it this way..!"
+msgstr "你这样死的话会更好..！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "....."
+msgstr "....."
+
+msgid "You're asking me to kill myself..?"
+msgstr "你在求我自杀吗..？"
+
+msgid "Y-Yes... because... I still care about you...!"
+msgstr "对—对...因为...我还关心着你...！"
+
+msgid "Is this what you call... care?"
+msgstr "这就是你所谓的...关心？"
+
+msgid "I didn't know that my vision would get blurry if I cry."
+msgstr "我曾不知，我的视线会因为哭泣而变得模糊。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "我需要帮忙。"
+
+msgid "Ah, this is a knife."
+msgstr "啊，这是一把刀。"
+
+msgid "You might have to draw some blood to unseal it."
+msgstr "你可能需要在上面涂一点血才能解封。"
+
+msgid "Are you brave enough to cut yourself?"
+msgstr "你有勇气自残吗？"
+
+msgid "Why should I cut myself?"
+msgstr "为什么我要自残啊？"
+
+msgid "I don't see who else you could cut."
+msgstr "因为我没见到有谁可以给你划一刀啊。"
+
+msgid "I could cut you instead."
+msgstr "我可以划你一刀。"
+
+msgid "You'll never aim properly."
+msgstr "你瞄不准的。"
+
+msgid "Your aim is terrible."
+msgstr "你的瞄法太差了。"
+
+msgid "Perhaps there are advantages to being small after all."
+msgstr "可能这就是变小的好处吧。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_spider.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're not skilled enough for that."
+msgstr "你的技术还不够熟练。"
+
+msgid "(The hands reject the item... they're scared of it.)"
+msgstr "（这双手拒绝了这件物品...它们可能怕它。）"
+
+msgid "That should serve you well in lighting the fireplace."
+msgstr "这应该方便你点燃壁炉了。"
+
+msgid "My life is below average."
+msgstr "我的生活很不幸。"
+
+msgid "I've been blind since I was a baby, so my parents thought of abandoning me."
+msgstr "我自小就是瞎子，所以我的父母产生了弃养我的想法。"
+
+msgid "\"A blind child cannot help the family\" they said. \"Especially not a girl.\""
+msgstr "“一个盲孩分担不了家庭事物，”他们说。“特别是女孩子。”"
+
+msgid "But my mother says they loved me so much that they wanted to give me a chance."
+msgstr "但是我的母亲说他们十分疼爱我，以至于他们想给我一次机会。"
+
+msgid "Right now, I manage just fine."
+msgstr "现在，我把一切都处理得很好。"
+
+msgid "I do my chores, I go to the market, I help with the vegetable garden."
+msgstr "我能做家务、去市场买菜、帮菜园干活。"
+
+msgid "Mother is sick, so she's always in bed."
+msgstr "母亲生病了，所以她一直躺在床上。"
+
+msgid "The doctor says she might be like this for the rest of her life."
+msgstr "医生说她可能今后都得像这样了。"
+
+msgid "Every day, I go meet my friend at the riverbank."
+msgstr "每天，我都会去河边见我的朋友。"
+
+msgid "Iris is always talking excitedly about everything you could find outside of the village."
+msgstr "艾瑞丝总是兴奋地谈论着村外的一切。"
+
+msgid "She makes the world sound so bright."
+msgstr "她使这个世界听上去如此美好。"
+
+msgid "We made a deal, that when we turn 14, we'll run away together, and travel to mountains and seas."
+msgstr "我们说好了，等到14岁那年，我们就一起离家出走，去游山玩水。"
+
+msgid "But I was actually fine with a simple life. The bare minimum was enough, as long as I had Iris."
+msgstr "但其实我对现在简单的生活很满意。只要有艾瑞丝在，最基本的生活就已经足够了。"
+
+msgid "If there's one thing I wanted..."
+msgstr "如果非要说有什么想要的..."
+
+msgid "It was just to be able to see her."
+msgstr "那就是，我想能够看见她。"
+
+msgid "The [color=#90EE90]first blessing[/color] changed the course of my life."
+msgstr "[color=#90EE90]第一件祝福[/color]改变了我的人生轨迹。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_mirror_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "........."
+msgstr "........."
+
+msgid "I couldn't calm my breathing."
+msgstr "我无法平静自己的呼吸。"
+
+msgid "I woke up one morning and I could see."
+msgstr "一天早上醒来，我发现自己能够看见东西了。"
+
+msgid "I saw shapes, and colors, and my parents."
+msgstr "我能看到形状，看到色彩，看见我的父母。"
+
+msgid "I saw the broken dining table."
+msgstr "我能看见破损的餐桌。"
+
+msgid "I saw the weeds in the vegetable garden."
+msgstr "我能看到菜园里长满杂草。"
+
+msgid "I saw the chipped cup that I drank from."
+msgstr "我能看到我喝水的杯子碎了。"
+
+msgid "I saw my wrinkled clothes."
+msgstr "我能看见自己皱巴巴的衣服。"
+
+msgid "Despite not having much, they were the most beautiful things I laid my eyes on."
+msgstr "尽管能看到的东西不多，但它们却是我眼中最美的事物。"
+
+msgid "I couldn't say the same about my reflection."
+msgstr "但我对自己镜中的倒影却不能这么说。"
+
+msgid "(Have I always looked like this?)"
+msgstr "（我看起来一直是这个样子吗？）"
+
+msgid "(Were my eyes always so... bland?)"
+msgstr "（我的眼睛一直都这么...死板吗？）"
+
+msgid "(Was my hair always so... dull?)"
+msgstr "（我的头发一直都这么...粗糙吗？）"
+
+msgid "My parents gradually grew distant."
+msgstr "我的父母渐渐地疏远了我。"
+
+msgid "People in the village stared at me, and whispered behind my back."
+msgstr "村庄里的人都盯着我看，在我的背后说悄悄话。"
+
+msgid "Why did they seem scared of me?"
+msgstr "为什么他们这么怕我？"
+
+msgid "Iris said she's a little nervous around me, but she was really happy that I got my eyesight."
+msgstr "艾瑞丝说她在我身边时有些小紧张，但她还是很庆幸我拥有了视力。"
+
+msgid "She called it a miracle."
+msgstr "她把这称作奇迹。"
+
+msgid "My parents started avoiding me."
+msgstr "我的父母开始躲避我。"
+
+msgid "When I spoke to them, they always tried to brush me away."
+msgstr "当我和他们说话时，他们总是试图把我赶走。"
+
+msgid "The only times their tired eyes met mine, I only saw hatred in them."
+msgstr "他们疲惫的眼神与我相对时，我只从中看到了仇恨。"
+
+msgid "Did they always look at me this way?"
+msgstr "他们一直都是这样看我的吗？"
+
+msgctxt "events.Ch1_MK_Wisteria.item_mirror_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "我需要帮忙。"
+
+msgid "Hmmm..."
+msgstr "嗯......"
+
+msgid "Have you tried simply looking at it?"
+msgstr "你有没有试过简单地看它一眼？"
+
+msgid "(The hands reject the item... it is irrelevant to them.)"
+msgstr "（这双手拒绝了这件物品...这与它无关。）"
+
+msgid "With your masterpiece complete, the canvas turns into a sketchbook."
+msgstr "随着你杰作的完成，画布变成了一本绘图本。"
+
+msgid "The pigment doesn't stick on its own..."
+msgstr "单单只有颜料粉的话沾不上去..."
+
+msgid "You soak the rag in the pool..."
+msgstr "你在池子里洗了洗抹布..."
+
+msgid "It's already wet enough."
+msgstr "已经足够湿了。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_rag_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "我需要帮忙。"
+
+msgid "A dry piece of cloth?"
+msgstr "一块干布？"
+
+msgid "Try moisturizing it."
+msgstr "试着打湿它。"
+
+msgid "The [color=#90EE90]second blessing[/color] came as a gift."
+msgstr "[color=#90EE90]第二件祝福[/color]是一件礼物。"
+
+msgid "I always met Iris out by the river, and we sat and talked for hours."
+msgstr "我常在河边与艾瑞丝见面，我们会坐着交谈好几个小时。"
+
+msgid "She told me all about the things I couldn't see."
+msgstr "她告诉了我所有我看不到的东西。"
+
+msgid "But it was different now."
+msgstr "但是现在不一样了。"
+
+msgid "She spoke with such happiness and excitement."
+msgstr "她的话语中充满了幸福和兴奋。"
+
+msgid "I couldn't take my eyes off of her."
+msgstr "而我目不转睛地注视着她。"
+
+msgid "So to celebrate this miracle..."
+msgstr "所以，为了庆祝这一场奇迹..."
+
+msgid "I got you something!"
+msgstr "我给你带了个东西！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_sketchbook_on_holder.dlg.mk"
+msgid "What?"
+msgstr "什么？"
+
+msgid "For me?"
+msgstr "给我吗？"
+
+msgid "Of course! Your eyes work now! It's amazing! We have to celebrate!"
+msgstr "当然啦！你能看见东西了！这太棒了！我们要庆祝一下！"
+
+msgid "So... I stole this from my family..."
+msgstr "所以...我从家里偷了这个..."
+
+msgid "But shh!"
+msgstr "但是，嘘！"
+
+msgid "Don't tell!"
+msgstr "别告诉大家！"
+
+msgid "Wha-.."
+msgstr "什—.."
+
+msgid "Iris! A sketchbook and paints are... so expensive...!"
+msgstr "艾瑞丝！绘画本和颜料都...很贵的诶...!"
+
+msgid "H-How...? Why...?"
+msgstr "怎—怎么...？为什么...？"
+
+msgid "You always said you wanted to paint! I believe in you!"
+msgstr "你一直说你想画画！我相信你！"
+
+msgid "I'm so excited to see what you'll come up with!"
+msgstr "我很期待看到你的作品！"
+
+msgid "I couldn't believe it! My very own sketchbook and watercolors!"
+msgstr "我简直不敢相信！属于我自己的绘画本和水彩！"
+
+msgid "There were so many things I could paint!"
+msgstr "有太多的东西可以画了！"
+
+msgid "Mother was always bedridden, so I made a habit of showing her my paintings."
+msgstr "母亲总是卧病在床，所以我养成了给她看我的画的习惯。"
+
+msgid "I started with trees and objects."
+msgstr "我从树木和小物件开始学。"
+
+msgid "But I took a liking to portraits of people."
+msgstr "但我对人物的肖像画情有独钟。"
+
+msgid "They all have such distinct, beautiful faces."
+msgstr "每个人都有独特而美丽的面孔。"
+
+msgid "After only 2 days, I had already made 8 portraits!"
+msgstr "仅仅过了两天，我就画了八幅肖像画！"
+
+msgid "But when I flipped to the next page... a different kind of portrait filled the brown paper."
+msgstr "但当我翻到下一页时...牛皮纸上出现了一幅与众不同的肖像。"
+
+msgid "It was all painted in black, and it was twisted and scary."
+msgstr "它全身漆黑，扭曲而可怖。"
+
+msgid "I hadn't painted this..."
+msgstr "这不是我画的..."
+
+msgid "I didn't even know who this person- or... creature, was."
+msgstr "我甚至都不知道这是谁—或者说...什么生物。"
+
+msgid "Every morning after that, I found new distorted portraits in the pages, but I never remembered painting them."
+msgstr "之后的每个早晨，我都会在书页中发现新的扭曲的肖像，但我从来不记得我画过它们。"
+
+msgid "A bookshelf full of coloring books, and other children's books."
+msgstr "书架上摆满了绘本和其他儿童读物。"
+
+msgid "A bookshelf full of books about painting."
+msgstr "书架上摆满了关于绘画的书籍。"
+
+msgid "One of them stands out. Read a passage?"
+msgstr "其中有一本很突出。要读一段吗？"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_bookshelf_2.choice.One of them stands out. Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_bookshelf_2.choice.One of them stands out. Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "\"Should a merchant not be available in your region, it is always possible to create your own paint by mixing pigments with water.\""
+msgstr "“如果您所在的地区没有商家，也可以通过将颜料与水混合来制作自己的颜料。”"
+
+msgid "There's something covered with a drape."
+msgstr "有什么东西被帘子遮住了。"
+
+msgid "Remove the drape?"
+msgstr "要移开帘子吗？"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Remove the drape?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Remove the drape?"
+msgid "No"
+msgstr "否"
+
+msgid "Looks like a flat, black square."
+msgstr "看起来像个扁平，漆黑的四边形。"
+
+msgid "Take it with you?"
+msgstr "要带走吗？"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Take it with you?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Take it with you?"
+msgid "No"
+msgstr "否"
+
+msgid "...It's too large and heavy to carry around."
+msgstr "...它太大、太沉了，带不走。"
+
+msgid "A crow stands at the edge of the pool."
+msgstr "一只乌鸦站在池子的边缘。"
+
+msgid "A painting with two protruding hands expecting something."
+msgstr "一幅画上有两只伸出的手，在乞求着什么。"
+
+msgid "Looks like I can place something on these hands..."
+msgstr "看起来我可以把某些东西放在这双手上..."
+
+msgid "A small pool. The water looks clean."
+msgstr "一个小水池。水看起来很干净。"

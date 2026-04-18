@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Go to your room"
+msgstr "去妳的房間"
+
+msgid "This day needs to end. I want to lie in bed."
+msgstr "這一天需要結束了。我想躺在床上。"
+
+msgid "Find the ritual items"
+msgstr "尋找儀式用品"
+
+msgid "I should gather the items that I'll need for the ritual. Shouldn't be too hard."
+msgstr "我應該收集儀式所需的物品。應該不會太難。"
+
+msgid "Something red to draw"
+msgstr "用來畫畫的紅色物品"
+
+msgid "I need to find something red to paint or mark the front of the house with."
+msgstr "我需要找到可以用來畫上或是標記房子前方的紅色物品。"
+
+msgid "Something red to tie"
+msgstr "用來打結的紅色物品"
+
+msgid "I need to find something red to tie onto the phone cord."
+msgstr "我需要找到可以用來綁在電話線上的紅色物品。"
+
+msgid "Prepare the ritual"
+msgstr "準備儀式"
+
+msgid "I need to prepare the ritual before night time."
+msgstr "我需要在晚上之前準備好儀式。"
+
+msgid "Paint symbol"
+msgstr "畫上符號"
+
+msgid "I need to paint a symbol on the front door of the house. I hope no one will see me..."
+msgstr "我需要在房子的前門畫上符號。希望沒有人會看到我..."
+
+msgid "Tie string on phone cord"
+msgstr "把線綁在電話線上"
+
+msgid "I need to tie a red ribbon on the cord of my landline phone in the kitchen."
+msgstr "我需要在廚房的家用電話線綁上紅色緞帶。"
+
+msgid "Set alarm clock"
+msgstr "設定鬧鐘"
+
+msgid "I need to set an alarm for midnight."
+msgstr "我需要把鬧鐘設定在午夜。"
+
+msgid "Get the ritual reversal instructions"
+msgstr "取得儀式逆轉說明"
+
+msgid "I messed up the ritual. I need to undo it by following the steps I left at my PC."
+msgstr "我搞砸了儀式。我需要照著存在我電腦上的步驟來撤銷它。"
+
+msgid "Undo the ritual"
+msgstr "撤銷儀式"
+
+msgid "I need to undo the ritual for my own safety."
+msgstr "為了自身的安全，我需要撤銷儀式。"
+
+msgid "Untie red string"
+msgstr "解開紅線"
+
+msgid "Add salt to front door"
+msgstr "在前門添加鹽巴"
+
+msgid "Add salt to back door"
+msgstr "在後門添加鹽巴"
+
+msgid "Add salt to garage door"
+msgstr "在車庫門添加鹽巴"
+
+msgid "Go to sleep"
+msgstr "去睡覺"
+
+msgid "The ritual reversal is complete. There's nothing left to do other than to get in bed."
+msgstr "儀式逆轉已經完成了。除了上床睡覺以外沒什麼可以做了。"
+
+msgid "Talk to Hiro"
+msgstr "和廣人說話"
+
+msgid "I need to tell Hiro to leave the house..."
+msgstr "我需要告訴廣人他需要離開家裡..."
+
+msgid "Get in bed"
+msgstr "上床睡覺"
+
+msgid "Apparently, I need to lie in bed until the alarm goes off."
+msgstr "顯然，我需要躺在床上直到鬧鐘響起。"
+
+msgid "Call the Bus"
+msgstr "叫來公車"
+
+msgid "I need to call the bus. The phone number I should dial is 999281#0."
+msgstr "我需要把公車叫來。我應該撥的電話號碼是 999281#0。"
+
+msgid "Take the Bus"
+msgstr "搭上公車"
+
+msgid "Get on the bus. Hurry!"
+msgstr "上公車。快點！"
+
+msgid "Look Around"
+msgstr "到處看看"
+
+msgid "I arrived somewhere. What do I do now?"
+msgstr "我抵達了某處。現在該做什麼？"
+
+msgid "Explore the Forest"
+msgstr "探索森林"
+
+msgid "I arrived at my destination. Can I find someone to help me?"
+msgstr "我抵達了目的地。我可以找到人幫助我嗎？"
+
+msgid "Rotate the Signs"
+msgstr "旋轉標示"
+
+msgid "I think I can open up a path towards the Daylight Gate if I rotate the blue signs towards the correct direction."
+msgstr "我想如果我把藍色標示轉向正確的方向，就可以打開通往日光大門的道路。"
+
+msgid "Open the Daylight Gate"
+msgstr "開啟日光大門"
+
+msgid "There's a gate impeding my progress. I need to find a way to open it."
+msgstr "有道大門阻礙了進展。我需要找個方法來打開它。"
+
+msgid "Restore the Sign"
+msgstr "復原標示"
+
+msgid "A sign is missing from the front of the station. If I find it, I should put it back in place."
+msgstr "火車站前的標示不見了。如果我找到它，我應該讓它歸位。"
+
+msgid "I found a blue sign. I should put it back in its spot in front of the station."
+msgstr "我找到了藍色標示。我應該把它放回火車站前的位置。"
+
+msgid "Pick the Right Path"
+msgstr "選擇正確的道路"
+
+msgid "There are three paths in front of me, and a ticket as a hint for which one to pick..."
+msgstr "眼前有三條道路，還有一張提示該選哪一條的票..."
+
+msgid "Enter the Locked Site"
+msgstr "進入封鎖區"
+
+msgid "Seems like the only way north might be through the Locked Site."
+msgstr "看來往北唯一的道路可能會經過封鎖區。"
+
+msgid "Find a Light"
+msgstr "找到燈光"
+
+msgid "Apparently, I'll' need a light to walk into the Locked Site."
+msgstr "顯然，我需要燈光才能走進封鎖區。"
+
+msgid "Find 3 Keys"
+msgstr "找到 3 把鑰匙"
+
+msgid ""
+"I found clues to the location of the three keys for the padlocks:\n"
+"-Behind a tree\n"
+"-In a cactus pot\n"
+"-Under a fake rug"
+msgstr ""
+"我找到了三把掛鎖鑰匙位置的線索：\n"
+"- 在樹後面\n"
+"- 在仙人掌花盆裡\n"
+"- 在假地毯下"
+
+msgid "Key 1"
+msgstr "鑰匙 1"
+
+msgid "Key 2"
+msgstr "鑰匙 2"
+
+msgid "Key 3"
+msgstr "鑰匙 3"
+
+msgid "Find an Exit"
+msgstr "找到出口"
+
+msgid "You're trapped inside the fairy ring. Find a way out!"
+msgstr "妳被困在妖精環裡了。尋找出路！"
+
+msgid "Find a Head"
+msgstr "找一顆頭"
+
+msgid "Find a new head for Kozmo. Hurry, he seems in danger!"
+msgstr "為柯茲莫找一顆新頭。快點，他看起來危險了！"
+
+msgid "Give the new head to Kozmo"
+msgstr "把新頭交給柯茲莫"
+
+msgid "Kozmo needs his new head. Hurry!"
+msgstr "柯茲莫需要新頭。快點！"
+
+msgid "Find the Lighthouse"
+msgstr "找到燈塔"
+
+msgid "By continuing north through the forest, I should be able to find the lighthouse at some point."
+msgstr "穿過森林繼續向北，我應該就能找到燈塔。"
+
+msgid "Find Paddles"
+msgstr "找到船槳"
+
+msgid "There's a boat I can take to continue north, but I need paddles."
+msgstr "我可以乘船繼續向北，但是我需要船槳。"
+
+msgid "Get Rid of the Monster"
+msgstr "擺脫怪物"
+
+msgid "There's a boat I can take to continue north, but a monster is guarding it."
+msgstr "我可以乘船繼續向北，但是有隻怪物在看守它。"
+
+msgid "Take the Boat"
+msgstr "搭上船"
+
+msgid "Taking the boat might be the only way to continue north."
+msgstr "乘船可能是唯一能繼續向北的方法。"
+
+msgid "Get Rid of the Caterpillar"
+msgstr "丟了毛毛蟲"
+
+msgid "The moths will reward me with a doorknob if I get rid of it..."
+msgstr "如果我丟了它，蛾們會給我門把作為獎勵..."
+
+msgid "Get Your Reward"
+msgstr "取得妳的獎勵"
+
+msgid "The moths should reward me with a doorknob now."
+msgstr "蛾們現在應該會給我門把作為獎勵。"
+
+msgid "Use the Doorknob"
+msgstr "使用門把"
+
+msgid "I got a doorknob from the moths. It seems to be the only way forward."
+msgstr "我從蛾們拿到了門把。看來這是唯一能往前的方法。"
+
+msgid "Escape your prison"
+msgstr "逃離監獄"
+
+msgid "I woke up in a strange prison cell. I need to get out of here."
+msgstr "我在一間奇怪的牢房醒來。我需要逃離這裡。"
+
+msgid "Investigate the facility"
+msgstr "調查設施"
+
+msgid "Explore this place."
+msgstr "探索這個地方。"
+
+msgid "Find a way to go deeper down"
+msgstr "找到往下深入的方法"
+
+msgid "The only way out of the facility is by going deeper down, according to Rune."
+msgstr "唯一能離開這座設施的方法是往下深入，符石是這麼說。"
+
+msgid "Lower the water level"
+msgstr "降低水位"
+
+msgid "In order to go deeper, the water level may need to be lowered somehow."
+msgstr "為了往下深入，水位可能需要以某種方式降低。"
+
+msgid "Fix the elevator"
+msgstr "修好電梯"
+
+msgid "In order to go deeper, the elevator could perhaps be fixed."
+msgstr "為了往下深入，電梯也許需要被修好。"
+
+msgid "Find the cursed door"
+msgstr "找到被詛咒的門"
+
+msgid "Rune said there should be a cursed door that leads outside, somewhere deep in this facility."
+msgstr "符石說應該會有一扇被詛咒的門可以通往外面，在這設施的深處。"
+
+msgid "Find an exit"
+msgstr "找到出口"
+
+msgid "Find a way to leave this strange house."
+msgstr "找到離開這奇怪房子的方法。"
+
+msgid "Find your items"
+msgstr "尋找妳的物品"
+
+msgid "Find out what happened to your items and retrieve them."
+msgstr "找出妳物品的下落並取回它們。"
+
+msgid "Help Sai escape"
+msgstr "幫助賽伊逃離"
+
+msgid "Find a way to unlock the cage Sai is in."
+msgstr "找到能夠解鎖賽伊所在籠子的方法。"
+
+msgid "Find and Unseal 5 Special Items"
+msgstr "找出並解除 5 個特別物品的封印"
+
+msgid "Miss Knives keeps 5 important items in her house. I need to find and unseal each of them."
+msgstr "刀子小姐放了 5 個重要物品在她的房子裡。我需要找到並解除它們的封印。"
+
+msgid "Ask Spider What To Do Next"
+msgstr "詢問蜘蛛接下來該做什麼"
+
+msgid "I have the 5 items, but I don't know what to do with them."
+msgstr "我有 5 個物品了，但是我不知道該拿它們怎麼辦。"
+
+msgid "Find a Lighter"
+msgstr "找到打火機"
+
+msgid "I need to find something to start a fire with."
+msgstr "我需要找個能夠生火的東西。"
+
+msgid "Burn the 5 Special Items"
+msgstr "燒了 5 個特別物品"
+
+msgid "I need to burn the items in the correct order. There's a fireplace I could use."
+msgstr "我需要以正確的順序燒掉這些物品。我可以用那個火爐。"
+
+msgid "Bring Alcohol to the Plant"
+msgstr "把酒精拿給植物"
+
+msgid "One of the plants requires alcohol (or water)."
+msgstr "其中一株植物需要酒精(或是水)。"
+
+msgid "Bring Food to the Plant"
+msgstr "把食物拿給植物"
+
+msgid "One of the plants requires to be fed. Meat is recommended."
+msgstr "其中一株植物需要被餵食。推薦使用肉類。"
+
+msgid "Play Music for the Plant"
+msgstr "為植物播放音樂"
+
+msgid "One of the plants requires music."
+msgstr "其中一株植物需要音樂。"
+
+msgid "Bring Flowers to the Plant"
+msgstr "把花朵拿給植物"
+
+msgid "One of the plants requires a flower crown."
+msgstr "其中一株植物需要花冠。"
+
+msgid "Perform the Paper Lily ritual"
+msgstr "進行紙百合儀式"
+
+msgid "In order to open the door, the letter needs to be folded into a paper lily and placed in the jar."
+msgstr "為了打開門，信件必須被折成紙百合並放入罐子中。"
+
+msgid "Go through the door"
+msgstr "穿過門"
+
+msgid "The door is open. I can go home."
+msgstr "門已經開啟。我可以回家了。"
+
+msgid "Get to the Wardrobe"
+msgstr "抵達衣櫃"
+
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "等我抵達最後的巨大衣櫃才能從夢中醒來。"
+
+msgid "Find a _____ for mom"
+msgstr "為媽媽找到_____"
+
+msgid "It's in a closet in the garage."
+msgstr "它在車庫的櫥櫃裡。"

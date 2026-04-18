@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Oh... I know where this is)."
+msgstr "(あ……ここは知ってる。)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "This must be under that weird fella's house."
+msgstr "ここはきっと、あの変な芸術家の家だね。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "You know, the sculptor?"
+msgstr "ほら、あの彫刻のさ。知ってる？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "Yeah."
+msgstr "うん。"
+
+msgid "I think artists are really impressive!"
+msgstr "芸術家ってすごいよね！"
+
+msgid "(What's this..?)"
+msgstr "(何これ……？)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Not really."
+msgstr "知らないかも。"
+
+msgid "Oh, it's a cranky old artist."
+msgstr "気難しい芸術家のおじいさんだよ。"
+
+msgid "I've never spoken to him because he's in a bad mood when he's tired."
+msgstr "話しかけたことはないんだ、疲れてると不機嫌だから。"
+
+msgid "...And he's almost always tired."
+msgstr "……しかも、ほとんどいつも疲れてるし。"
+
+msgid "But I think artists are really impressive!"
+msgstr "でも、芸術家ってすごいよね！"
+
+msgid "Sculpting is really hard..."
+msgstr "造形ってホントに難しいもん……"
+
+msgid "Especially hands..."
+msgstr "特に手は……"
+
+msgid "I can't seem to get my hands right..."
+msgstr "僕、どうしても手がちゃんと作れないんだよね……"
+
+msgid "(Oh, that explains...)"
+msgstr "(ああ、それで……)"
+
+msgid "(Huh... the path is open now.)"
+msgstr "(あれ……道が開いてる。)"
+
+msgid "We need to walk slowly... and uh... keep an eye out."
+msgstr "ゆっくり歩いて……その……気をつけながら進まないとね。"
+
+msgid "Keep an eye out for what?"
+msgstr "気をつけるって、何に？"
+
+msgid "For... fairies."
+msgstr "それは……妖精にだよ。"
+
+msgid "Don't you know what this place is!?"
+msgstr "ここがどこだか知らないの!?"
+
+msgid "Lacie, don't you know what this place is!?"
+msgstr "レイシー、ここがどこだか知らないの!?"
+
+msgid "...No, not really."
+msgstr "……いや、あんまり。"
+
+msgid "...!"
+msgstr "……！"
+
+msgid "This is the inside of a fairy ring!"
+msgstr "ここはフェアリーリングの中なんだよ！"
+
+msgid "Lacie, this is the inside of a fairy ring!"
+msgstr "レイシー、ここはフェアリーリングの中なんだよ！"
+
+msgid "Um..."
+msgstr "えっと……"
+
+msgid "...The mushroom circle from outside?"
+msgstr "……外にある、キノコの輪っか？"
+
+msgid "Yep. That's a fairy ring."
+msgstr "そう。それがフェアリーリング。"
+
+msgid "So this place is..."
+msgstr "じゃあ、この場所は……"
+
+msgid "Underneath that circle?"
+msgstr "その輪っかの下ってこと？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "Yeah."
+msgstr "うん。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "Oh."
+msgstr "へえ。"
+
+msgid "Can you tell me more?"
+msgstr "詳しく教えてくれる？"
+
+msgid "Let's see... I only know the things everyone talks about."
+msgstr "えっと……僕も、みんなが言ってることしか知らないよ。"
+
+msgid "For one, fairies live in fairy rings, and they're really nasty."
+msgstr "まず、フェアリーリングには妖精が住んでるんだけど、それはもう最悪な連中でさ。"
+
+msgid "(Fairies...)"
+msgstr "(妖精……)"
+
+msgid "They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!"
+msgstr "見た目も最悪で、こんな、体と切り離された卵型の頭をしてて、白くて、歯が大きくて！　目がないやつもいるんだよ！"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "But even without the fairies, winding up inside of a fairy ring is..."
+msgstr "でも、妖精がいなくても、フェアリーリングに閉じ込められるのは……"
+
+msgid "Well, they say you get stuck here for 7 years."
+msgstr "噂じゃ、7年は出られないって言われてる。"
+
+msgid "But nobody has ever escaped because they usually just die before that."
+msgstr "でも、普通はその前に死ぬから、生還者はいないんだって。"
+
+msgid "Oh god this is horrible, we're not gonna escape!"
+msgstr "あぁひどい、僕たち出られないんだ！"
+
+msgid "Even if we somehow make it 7 years, that's only a myth!"
+msgstr "どうにか7年乗り切ったとしても、しょせんは伝説だし！"
+
+msgid "Maybe it's meant to instill hope in the poor souls that end up here!"
+msgstr "ここに閉じ込められた哀れな生き物に、希望を植え付けるための嘘なのかも！"
+
+msgid "LIKE US! THIS IS A DEAD END!!!"
+msgstr "まさに僕らだ！　もうおしまいなんだ!!!"
+
+msgid "Aoi."
+msgstr "アオイ。"
+
+msgid "...?"
+msgstr "……？"
+
+msgid "Cut it off."
+msgstr "切り上げて。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "..."
+msgstr "……"
+
+msgid "Sorry."
+msgstr "ごめん。"
+
+msgid "Are the fairies dangerous?"
+msgstr "妖精は危険なの？"
+
+msgid "Yeah..."
+msgstr "うん……"
+
+msgid "...But everything is dangerous."
+msgstr "……でも、危険なのは全部だよ。"
+
+msgid "The floor here is also slowly digesting us."
+msgstr "この床だって、ゆっくり僕たちを消化してる。"
+
+msgid "I guess you don't feel it because you have shoes, hehe..."
+msgstr "君は靴があるから感じないかもしれないけどね、はは……"
+
+msgid "I only have socks, so it's already eating away at them..."
+msgstr "僕は靴下しかないから、もう染みてきてるんだ……"
+
+msgid "(Should I offer Aoi my shoes?)"
+msgstr "(アオイに靴をあげる？)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "Yes"
+msgstr "あげる"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "No"
+msgstr "あげない"
+
+msgid "Would you like my shoes?"
+msgstr "私の靴、使う？"
+
+msgid "Whaaat? You're offering me your own shoes?!?"
+msgstr "えぇっ？　僕に君の靴を？"
+
+msgid "That's so nice of you!"
+msgstr "優しいんだね！"
+
+msgid "That's so nice, Lacie!"
+msgstr "優しいんだね、レイシー！"
+
+msgid "But no, I'll be alright. I'll just remake my feet if they start being unusable."
+msgstr "でもいいよ、大丈夫。足が使えなくなってきたら、作り直せばいいだけだから。"
+
+msgid "It just burns but that's okay, I'm used to burns."
+msgstr "やけどはしちゃうけど、でもいいんだ、やけどには慣れてるし。"
+
+msgid "...I'm used to burns..."
+msgstr "……そう、慣れてる……"
+
+msgid "Um... okay."
+msgstr "うん……わかった。"
+
+msgid "(Best not...)"
+msgstr "(やめておこう……)"
+
+msgid "(Who knows what this floor will do to my feet...)"
+msgstr "(この床を素足で歩いたら、私の足がどうなるかわからないし……)"
+
+msgid "(This person is not human, so they will probably be fine.)"
+msgstr "(この子は人間じゃないから、たぶん大丈夫なはず。)"
+
+msgid "A large skeleton of an unknown creature."
+msgstr "謎の生物の巨大な骨格。"
+
+msgid "Hm...?"
+msgstr "うん……？"
+
+msgid "What died here...?"
+msgstr "これ、なんの死骸だろう……？"
+
+msgid "Something big!"
+msgstr "なにか大きいやつだね！"
+
+msgid "Oh!"
+msgstr "あ！"
+
+msgid "A dragon!"
+msgstr "ドラゴンかも！"
+
+msgid "(A dragon...!?)"
+msgstr "(ドラゴン……!?)"
+
+msgid "Was I right?!"
+msgstr "合ってた!?"
+
+msgid "Huh? How should I know?"
+msgstr "えぇ？　何で私に聞くの？"
+
+msgid "Aw..."
+msgstr "あぅ……"
+
+msgid "A large skeleton of a dragon."
+msgstr "ドラゴンの大きな骨格。"
+
+msgid "(Do dragons really exist in this place...?)"
+msgstr "(ここには本当にドラゴンがいるの……？)"
+
+msgid "Isn't it so cool that humans have dragons in their world?"
+msgstr "人間の世界にはドラゴンがいるんだって。いいよねぇ！"
+
+msgid "I'd like dragons here too."
+msgstr "こっちにもドラゴンがいたらなあ。"
+
+msgid "(Never mind.)"
+msgstr "(違った。)"
+
+msgid "A large skeleton of something other than a dragon."
+msgstr "ドラゴンではない何かの大きな骨格。"
+
+msgid "We sure are walking a lot."
+msgstr "ずいぶん歩いたよね。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "My feet don't hurt, or anything. Don't worry!"
+msgstr "いや、足が痛いとかじゃないよ。心配しないで！"
+
+msgid "I bet there's no way out..."
+msgstr "きっと、ここから出る道はないと思う……"
+
+msgid "Hmm..."
+msgstr "うーん……"
+
+msgid "There's always a way."
+msgstr "いつも道はあるよ。"
+
+msgid "(Right...?)"
+msgstr "(だよね……？)"
+
+msgid "Whoa."
+msgstr "わぁ。"
+
+msgid "I like that!"
+msgstr "それいいね！"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi"
+msgid "..."
+msgstr "……"
+
+msgid "The path ends here."
+msgstr "道はここで終わっている。"
+
+msgid "Huh...? Is there really nowhere to go from here...?"
+msgstr "え……？　本当に、どこにも行けないの……？"
+
+msgid "A large bone."
+msgstr "大きな骨。"
+
+msgid "A broken street lamp."
+msgstr "壊れた街灯。"
+
+msgid "Blue mushrooms are lining the floor."
+msgstr "青いキノコが床に並んでいる。"
+
+msgid "A bunch of rubble."
+msgstr "がれきの山。"
+
+msgid "A piece of a sculpture."
+msgstr "彫刻の一部分。"
+
+msgid "A strangely-shaped pot."
+msgstr "奇妙な形の壺。"
+
+msgid "There's a large hole on the floor."
+msgstr "床に大きな穴がある。"
+
+msgid "(It's deep... and dark.)"
+msgstr "(深いし……暗い。)"
+
+msgid "It doesn't seem very smart to try going down there."
+msgstr "ここを降りるのは賢い選択じゃなさそう。"
+
+msgid "I feel like there has to be a better option than going down this hole..."
+msgstr "この穴を降りるより良い選択肢がきっとある気がする……"
+
+msgid "(We checked everywhere else but...)"
+msgstr "(他の場所は全部調べたけど……)"
+
+msgid "(If I go down there... it will be impossible to come back up...)"
+msgstr "(ここを降りたら……上には戻ってこれない……)"
+
+msgid "Go down the hole?"
+msgstr "穴を降りる？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "Yes"
+msgstr "降りる"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "No"
+msgstr "降りない"
+
+msgid "...Sigh, here we go."
+msgstr "……仕方ない、行こう。"
+
+msgid "Wanna turn back?"
+msgstr "引き返したい？"
+
+msgid "There's nowhere else to go, so we might as well explore whatever's down there."
+msgstr "他に行くところもないし、この下を探索した方がまだいいと思う。"
+
+msgid "Okay."
+msgstr "わかった。"
+
+msgid "Going deeper down to find an exit... this isn't very smart, is it?"
+msgstr "出口を探していっそう深くへ潜るなんて……あまり賢いやり方じゃないよね？"

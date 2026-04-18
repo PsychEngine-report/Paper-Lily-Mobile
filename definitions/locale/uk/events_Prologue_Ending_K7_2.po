@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Дверцята вже відчинені."
+
+msgid "...but there's nothing inside."
+msgstr "...проте тут порожньо."
+
+msgid "There's some schematics for some sort of machine you don't really understand."
+msgstr "Тут є незрозумілі для вас креслення якогось пристрою."
+
+msgid "What's that?"
+msgstr "Що це таке?"
+
+msgid "Not a clue... but I'm taking it."
+msgstr "Гадки не маю... та краще заберу."
+
+msgid "There's some official-looking documents here."
+msgstr "Тут лежать якісь важливі документи."
+
+msgid "Read them?"
+msgstr "Прочитати їх?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "${img:stamp_council} MEETING 176 NOTES"
+msgstr "${img:stamp_council} ЗАПИС - ЗАСІДАННЯ 176"
+
+msgid "\"...disagreements on the distribution of the....\""
+msgstr "\"...не прийшли до згоди стосовно розподілу...\""
+
+msgid "\"...is still not participating in our...\""
+msgstr "\"...по цю пору не бере участь в нашому...\""
+
+msgid "\"...the secondary duty of guardians...\""
+msgstr "\"...другорядні обов'язки вартових...\""
+
+msgid "\"...collection of stones from every...\""
+msgstr "\"...збирати камінці з кожного...\""
+
+msgid "The document continues making little sense for several pages."
+msgstr "Наступні декілька сторінок позбавлені будь-якого сенсу."
+
+msgid "..."
+msgstr "..."
+
+msgid "What the hell am I reading?"
+msgstr "Що я вчорта читаю?"
+
+msgid "There's nothing else of interest."
+msgstr "Тут більше немає нічого цікавого."
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Шпилька не пролазить у замок."
+
+msgid "The key fits!"
+msgstr "Ключ підійшов!"
+
+msgid "They're already open."
+msgstr "Вони вже відчинені."
+
+msgid "Despite your best efforts, you can't seem to cut through it with your scissors."
+msgstr "Попри всі ваші зусилля, перерізати їх ножицями у вас не вийшло."
+
+msgid "The box contains an assortment of differently sized blue cans."
+msgstr "Коробка містить асортимент синіх банок різних розмірів."
+
+msgid "A pile of boxes."
+msgstr "Купа коробок."
+
+msgid "They seem to be stuck together."
+msgstr "Схоже, вони застрягли одна в одній."
+
+msgid "A large locker."
+msgstr "Велика шафа."
+
+msgid "It's locked."
+msgstr "Вона зачинена."
+
+msgid "It's empty."
+msgstr "Тут порожньо."
+
+msgid "A trash can."
+msgstr "Відро для сміття."
+
+msgid "Some black goo can be seen at the bottom."
+msgstr "На дні можна спостерігати якийсь чорний слиз."
+
+msgid "A pile of trash cans."
+msgstr "Купа відер для сміття."
+
+msgid "So... maybe the ritual worked?"
+msgstr "А раптом... ритуал спрацював?"
+
+msgid "But the ritual wasn't finished."
+msgstr "Але ми його не закінчили."
+
+msgid "Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore."
+msgstr "Тоді або в нашій школі багато проклятих приміщень, що таять жахливу таємницю, або ми вже не в школі."
+
+msgid "If it's not the school, then what is it?"
+msgstr "Де ми, якщо не в школі?"
+
+msgid "No idea."
+msgstr "Гадки не маю."
+
+msgid "In any case, it doesn't feel too dangerous, so let's continue."
+msgstr "У будь-якому разі тут наче безпечно, тому йдемо далі."

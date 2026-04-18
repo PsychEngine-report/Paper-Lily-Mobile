@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alba"
+msgstr "Алба"
+
+msgid "Annie"
+msgstr "Ани"
+
+msgid "Aoi"
+msgstr "Аой"
+
+msgid "Mother?"
+msgstr "Майко?"
+
+msgid "Bunny"
+msgstr "Зайче"
+
+msgid "Cashier"
+msgstr "Касиер"
+
+msgid "Yellow Moth"
+msgstr "Жълт молец"
+
+msgid "White Moth"
+msgstr "Бял молец"
+
+msgid "Girl A"
+msgstr "Момиче А"
+
+msgid "Girl B"
+msgstr "Момиче Б"
+
+msgid "Spider"
+msgstr "Паяк"
+
+msgid "Caterpillar"
+msgstr "Гъсеница"
+
+msgid "Hiro"
+msgstr "Хиро"
+
+msgid "???"
+msgstr "???"
+
+msgid "Kat"
+msgstr "Кат"
+
+msgid "Kett"
+msgstr "Кетт"
+
+msgid "Kozmo"
+msgstr "Козмо"
+
+msgid "Lacie"
+msgstr "Ласи"
+
+msgid "Milion"
+msgstr "Милион"
+
+msgid "Miss Knives"
+msgstr "Мис Найвс"
+
+msgid "Saki"
+msgstr "Саки"
+
+msgid "Juli"
+msgstr "Джули"
+
+msgid "Kaya"
+msgstr "Кая"
+
+msgid "Rune"
+msgstr "Рун"
+
+msgid "Sai"
+msgstr "Саи"
+
+msgid "Shadow Girl"
+msgstr "Момиче в сянка"

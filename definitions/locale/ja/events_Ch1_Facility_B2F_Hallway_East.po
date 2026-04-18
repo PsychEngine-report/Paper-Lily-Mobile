@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(If I pass through there, that guy might see me...)"
+msgstr "(ここを通ったら、あの人に見えちゃうかも……)"
+
+msgid "(Um...)"
+msgstr "(んん……)"
+
+msgid "(Did I adopt a stray?)"
+msgstr "(迷い犬を拾っちゃった？)"
+
+msgid "Are you following me?"
+msgstr "ついてくるの？"
+
+msgid "Yep."
+msgstr "ああ。"
+
+msgid "We stand a better chance together, right?"
+msgstr "一緒のほうが生き残れる確率も上がるだろ？"
+
+msgid "Don't worry, I won't be dead weight."
+msgstr "心配すんな、お荷物にはならないぜ。"
+
+msgid "Well, unless I'm actually dead..."
+msgstr "まあ、死んだらマジの荷物になるが……"
+
+msgid "But then you can just leave me there."
+msgstr "そうなったら置いて行ってくれればいいさ。"
+
+msgid "..."
+msgstr "……"
+
+msgid "Look, you can just pretend I'm not here if you want."
+msgstr "お望みなら、俺なんていない振りをしてもいい。"
+
+msgid "See?"
+msgstr "ほらな？"
+
+msgid "(That guy might still be waiting for me...)"
+msgstr "(あの人はまだ待ってるかも……)"
+
+msgid "(Should I just return to where he is?)"
+msgstr "(素直にあの人の所に戻るべきかな？)"
+
+msgid "Yes"
+msgstr "戻る"
+
+msgid "No"
+msgstr "戻らない"
+
+msgid "*Sigh*"
+msgstr "はぁ……。"
+
+msgid "Uhm..."
+msgstr "えっと……"
+
+msgid "Huh? Oh... what's up?"
+msgstr "んん？　あぁ……どうしたんだ？"
+
+msgid "There was nothing important in there, let's go."
+msgstr "重要なものは何もなかった。行こう。"
+
+msgid "Wait, how did you-"
+msgstr "待て、どうやって――"
+
+msgid "Hurry up."
+msgstr "早く。"
+
+msgid "A gate. It's locked."
+msgstr "ゲート。鍵がかかっている。"
+
+msgid "A gate. There's probably no point in closing it."
+msgstr "ゲート。恐らく、閉じる意味はない。"
+
+msgid "The grate you kicked out of the way earlier."
+msgstr "先ほど蹴り落とした通気口の鉄格子。"
+
+msgid "It's too high to reach."
+msgstr "高くて届かない。"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_East.move_dungeon_1.dlg.narrator"
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](サイがパーティを抜けた。)[/color]"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_East.move_dungeon_2.dlg.narrator"
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](サイがパーティを抜けた。)[/color]"

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't have the brain power for this right now."
+msgstr "Não tenho capacidade mental para fazer isto no momento."
+
+msgid "You know... I could just jump over those boxes and get you the thingy."
+msgstr "Sabes... Eu podia saltar por cima das caixas e trazer-te a coisa."
+
+msgid "Still not interested?"
+msgstr "Ainda não estás interessada?"
+
+msgid "Ask Sai to get the shiny?"
+msgstr "Pedir ao Sai para ir buscar o brilhinho?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Alright... knock yourself out."
+msgstr "Está bem... Diverte-te."
+
+msgid "Be right back!"
+msgstr "Volto já!"
+
+msgid "Moments later..."
+msgstr "Instantes depois..."
+
+msgid "Easy peasy."
+msgstr "Facílimo."
+
+msgid "Still not interested."
+msgstr "Continuo a não estar interessada."
+
+msgid "No, I want to do it myself."
+msgstr "Não, quero ser eu a pegar."
+
+msgid "The key fits!"
+msgstr "A chave serve!"
+
+msgid "Nothing happens."
+msgstr "Não acontece nada."
+
+msgid "An elevator door."
+msgstr "A porta de um elevador."
+
+msgid "There's a massive gap on the floor. You can't reach the door."
+msgstr "Há um buraco enorme no chão. Não consegues chegar à porta."
+
+msgid "The plank allows you to cross freely."
+msgstr "A tábua permite-te atravessar livremente."
+
+msgid "I've seen another hole that could use a plank like this..."
+msgstr "Vi outro buraco onde posso usar uma tábua destas..."
+
+msgid "Move the plank to the other hole?"
+msgstr "Passar a tábua para o outro buraco?"
+
+msgid "Uugh... This is really heavy..."
+msgstr "Uugh... Isto é mesmo pesado..."
+
+msgid "Hey, let me carry that."
+msgstr "Ei, deixa-me levar isso."
+
+msgid "Since you removed the plank, you can't cross anymore."
+msgstr "Já que retiraste a tábua, não podes mais atravessar."
+
+msgid "It's locked."
+msgstr "Está trancada."

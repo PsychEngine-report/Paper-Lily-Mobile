@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Unsealed golden letters scattered across the floor."
+msgstr "開封的金色信件散落一地。"
+
+msgid "They seem to be rituals with various titles."
+msgstr "看起來是有著多種名稱的儀式。"
+
+msgid "\"The Mirror Ritual\""
+msgstr "\"鏡之儀式\""
+
+msgid "\"The Ritual of the Well\""
+msgstr "\"古井儀式\""
+
+msgid "\"The Bus Ritual\""
+msgstr "\"公車儀式\""
+
+msgid "\"The Three-Room Ritual\""
+msgstr "\"三房儀式\""
+
+msgid "This is the one I did..."
+msgstr "這個是我完成的..."
+
+msgid "These all come in golden letters... do they all work?"
+msgstr "它們都裝在金色的信封中...它們都是真的嗎？"
+
+msgid "I should look into this when I get home."
+msgstr "我應該回家後看看。"
+
+msgid "It's too dark to see anything on the other side."
+msgstr "暗到沒辦法看到另一側。"
+
+msgid "You think you can leave?"
+msgstr "妳以為妳可以離開嗎？"
+
+msgid "Now that you can prove that these rituals work, you have no way of going back to tell anyone."
+msgstr "既然妳證明了這個儀式是真的，那麼妳也會無法回去告訴任何人。"
+
+msgid "The knowledge will die with you."
+msgstr "這項知識會隨妳而死。"
+
+msgid "That's... that's a lie, right?"
+msgstr "那...不是真的，對吧？"
+
+msgid "You're just trying to scare me."
+msgstr "你只是在嚇我。"
+
+msgid "The door is stuck. It won't open."
+msgstr "門被卡住了。沒辦法打開。"

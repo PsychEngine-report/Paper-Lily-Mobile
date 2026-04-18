@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgid "You don't know how to use it..."
+msgstr "使い方がわからない……"
+
+msgid "A portrait of a person with a brain for a head."
+msgstr "頭が脳になっている人物の肖像画。"
+
+msgid "A portrait of a scary-looking person."
+msgstr "怖そうな人物の肖像画。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_10.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "A portrait of a person with a gaping mouth."
+msgstr "口をぽっかりと開けた人物の肖像画。"
+
+msgid "...I don't like this one."
+msgstr "……これは好きじゃない。"
+
+msgid "His head looks like a spoon."
+msgstr "スプーンみたいな頭だな。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_11.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "A portrait of a pretty-looking lady."
+msgstr "きれいな女性の肖像画。"
+
+msgid "She looks like she's made of porcelain."
+msgstr "まるで磁器でできてるみたい。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_13.dlg.narrator"
+msgid "A portrait of a person with an animal skull for a head."
+msgstr "頭が動物の頭蓋骨になっている人物の肖像画。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_14.dlg.narrator"
+msgid "A portrait of a person with an animal skull for a head."
+msgstr "頭が動物の頭蓋骨になっている人物の肖像画。"
+
+msgid "A portrait of a person with many eyes."
+msgstr "たくさんの目がある人物の肖像画。"
+
+msgid "Various strange portraits adorn the walls."
+msgstr "奇妙な肖像画の数々が壁を飾っている。"
+
+msgid "A portrait of a girl with horns growing out of her face."
+msgstr "顔から角がいくつも伸びた少女の肖像画。"
+
+msgid "A portrait of a grandma."
+msgstr "おばあちゃんの肖像画。"
+
+msgid "She looks nice... Maybe."
+msgstr "優しそう……かも。"
+
+msgid "A portrait of a person with knifes floating above their head."
+msgstr "頭上にナイフが浮かんだ人物の肖像画。"
+
+msgid "A portrait of a person with a heart for a head."
+msgstr "頭が心臓になっている人物の肖像画。"
+
+msgid "A portrait of a person with a crow for a head."
+msgstr "頭がカラスになっている人物の肖像画。"
+
+msgid "It looks nothing like those cute crows I've been seeing around."
+msgstr "これまで見かけたかわいいカラスとは全然違う。"
+
+msgid "A portrait of a happy-looking girl."
+msgstr "楽しそうな少女の肖像画。"
+
+msgid "A portrait of a person with a goat for a head."
+msgstr "頭がヤギになっている人物の肖像画。"
+
+msgid "Creepy portraits adorn the walls."
+msgstr "不気味な肖像画が壁を飾っている。"
+
+msgid "A painting that's mostly just red."
+msgstr "ほとんど単なる赤の絵。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice"
+msgid "Touch it?"
+msgstr "触る？"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice.Touch it?"
+msgid "Yes"
+msgstr "触る"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.choice.Touch it?"
+msgid "No"
+msgstr "触らない"
+
+msgid "A bunch of red powder sticks to your finger."
+msgstr "赤い粉が指についた。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.dlg.narrator"
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "何か容器があれば、もっとこすり落として集めることができそうだ。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_red.dlg.narrator"
+msgid "(You wipe it off.)"
+msgstr "(指を拭った。)"
+
+msgid "A painting that's mostly just yellow."
+msgstr "ほとんど単なる黄色の絵。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice"
+msgid "Touch it?"
+msgstr "触る？"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice.Touch it?"
+msgid "Yes"
+msgstr "触る"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.choice.Touch it?"
+msgid "No"
+msgstr "触らない"
+
+msgid "A bunch of yellow powder sticks to your finger."
+msgstr "黄色い粉が指についた。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.dlg.narrator"
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "何か容器があれば、もっとこすり落として集めることができそうだ。"
+
+msgctxt "events.Ch1_MK_B2F_Hallway.misc_painting_yellow.dlg.narrator"
+msgid "(You wipe it off.)"
+msgstr "(指を拭った。)"

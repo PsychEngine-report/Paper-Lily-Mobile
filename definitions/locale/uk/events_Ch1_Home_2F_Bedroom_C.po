@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There are colored thread rolls inside."
+msgstr "Тут є мотки ниток різних кольорів."
+
+msgid "The red thread may be useful."
+msgstr "Червоні нитки можуть знадобитися."
+
+msgid "Take ${item:ch1.thread}?"
+msgstr "Взяти предмет: ${item:ch1.thread}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "My parents' bed."
+msgstr "Ліжко моїх батьків."
+
+msgid "A bookshelf with complicated books."
+msgstr "Шафа зі складними книжками."
+
+msgid "Black... Black... No red markers here."
+msgstr "Чорний... чорний... червоного маркера немає."
+
+msgid "Maybe in my room?"
+msgstr "А раптом у мене в кімнаті знайдеться?"
+
+msgid "Maybe downstairs?"
+msgstr "Може, на першому поверсі знайдеться?"
+
+msgid "A classic alarm clock."
+msgstr "Класичний будильник."
+
+msgid "Father doesn't trust the alarm app."
+msgstr "Батько не довіряє будильникам в телефонах."
+
+msgid "A computer chair."
+msgstr "Комп'ютерне крісло."
+
+msgid "A computer chair. Yours is better."
+msgstr "Комп'ютерне крісло. Ваше краще."
+
+msgid "An older computer."
+msgstr "Старенький комп'ютер."
+
+msgid "It's mostly for spreadsheets, so you can't game on it."
+msgstr "Він, загалом, для роботи з таблицями, тож в ігри на ньому не пограєш."
+
+msgid "A plant."
+msgstr "Рослина."
+
+msgid "A plant. We have several like this one."
+msgstr "Рослина. У нас таких декілька."
+
+msgid "A sewing kit."
+msgstr "Швейний набір."
+
+msgid "A shelf with nothing of interest."
+msgstr "Полиця, на якій немає нічого цікавого."
+
+msgid "The wardrobe. It doesn't close well anymore."
+msgstr "Шафа для одягу. Вона не закривається повністю."
+
+msgid "Something is written on the door:"
+msgstr "На дверях щось написано:"
+
+msgid "\"The wardrobe is stuffy, isn't it? You almost can't breathe in there."
+msgstr "\"У шафі досить затхло, згодна? Там майже неможливо дихати."
+
+msgid "You almost stopped breathing. Take a deep breath, Lacie.\""
+msgstr "Ти майже перестала дихати. Зроби-но глибокий подих, Лейсі.\""
+
+msgid "Open it?"
+msgstr "Відчинити її?"
+
+msgid "A cold breeze blows from inside."
+msgstr "Зсередини дме прохолодний вітер."
+
+msgid "There's a few clothes inside."
+msgstr "Тут висить одяг."

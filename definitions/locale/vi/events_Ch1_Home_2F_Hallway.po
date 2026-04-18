@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "Phòng của anh Hiro."
+
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go in without permission..."
+msgstr "Mình đừng nên tự tiện bước vào thì hơn."
+
+msgid "You shouldn't go in."
+msgstr "Bạn không nên vào."
+
+msgid "You won't go in."
+msgstr "Bạn sẽ không vào."
+
+msgid "Some books and magazines."
+msgstr "Vài quyển sách và tạp chí."
+
+msgid "No reading space would be complete without decorative books."
+msgstr "Chốn đọc sách mà muốn hoàn chỉnh thì phải có sách trang trí."
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "Này là đồ trang trí gì gì đó. Bạn không rõ nữa."
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "Này là bức tranh, giống với cái bức ở dưới nhà."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting.dlg.narrator"
+msgid "A painting."
+msgstr "Bức tranh."
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "Này là bức tranh, y như cái bức đằng bên trái."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_2.dlg.narrator"
+msgid "A painting."
+msgstr "Bức tranh."
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "Này là bức tranh, y như cái bức đằng bên phải."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_3.dlg.narrator"
+msgid "A painting."
+msgstr "Bức tranh."
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "Ảnh chụp kì nghỉ mùa đông. Trong mấy tấm ảnh không hề có mặt bạn."
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "Cái cây xinh đẹp. Nụ của nó không ăn được."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant.dlg.narrator"
+msgid "A plant."
+msgstr "Cái cây."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant_2.dlg.narrator"
+msgid "A plant."
+msgstr "Cái cây."
+
+msgid "Some old family pictures."
+msgstr "Vài bức ảnh cũ chụp gia đình."
+
+msgid "The backyard can be seen from here."
+msgstr "Từ đây có thể nhìn thấy sân sau."
+
+msgid "Something is written on the door:"
+msgstr "Trên cánh cửa có viết cái gì đó:"
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "\"Cái phòng này là gì đây? Mày dành nhiều thời gian trong đấy nhể."
+
+msgid "Always finding new places to hide away from the world."
+msgstr "Lúc nào cũng tìm nơi mới để mà trốn tránh khỏi thế giới."
+
+msgid "Did you ever stop hiding?\""
+msgstr "Mày không có bao giờ mà dừng trốn tránh sao?\""

@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The path looks like it should continue here, but it doesn't."
+msgstr "Yol buradan devam ediyor gibi görünüyor, fakat etmiyor."
+
+msgid "There's a sign that says [color=#8080FF]\"Daylight Gate\"[/color]. It points straight ahead."
+msgstr "Üzerinde [color=#8080FF]\"Gün Işığı Geçidi\"[/color] yazan bir tabela. İleriyi işaret ediyor."
+
+msgid "The sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "Tabelada [color=#8080FF]\"Gün Işığı Geçidi\"[/color] yazıyor."
+
+msgid "It's pointing towards the trees."
+msgstr "Ağaçları işaret ediyor."
+
+msgid "It seems to be a bit loose. You could rotate it to match the other one..."
+msgstr "Biraz gevşek görünüyor. Diğerine uyması için döndürebilirsin..."
+
+msgid "Let's do it"
+msgstr "Hadi yapalım"
+
+msgid "Not my job"
+msgstr "Benim işim değil"
+
+msgid "It seems to be pointing in the correct direction now."
+msgstr "Şimdi doğru yerde gibi görünüyor."
+
+msgid "There's nothing here."
+msgstr "Burada hiçbir şey yok."
+
+msgid "(Hmm... Could it be that the sign is pointing in the wrong direction?)"
+msgstr "(Hmm... Tabela yanlış yönü gösteriyor olabilir mi?)"

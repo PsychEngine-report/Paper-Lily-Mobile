@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A red tree."
+msgstr "Червоне дерево."
+
+msgid "It stands out..."
+msgstr "Воно виділяється..."
+
+msgid "Is there anything special about it?"
+msgstr "Що в ньому особливого?"
+
+msgid "Hmm? There's a paper with something stuck to it."
+msgstr "Гм? Ззаду до нього прикріплено щось, загорнуте в папірець."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Взяти предмет: ${item:ch1.forest_lockedsite_key}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Вам не потрібен цей ключ, тому ви його скинули.)"
+
+msgid "There's also a note taped to the tree."
+msgstr "До дерева також прикріплена записка."

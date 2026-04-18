@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "As I thought... the internet is not working."
+msgstr "Quả như mình nghĩ... mất kết nối internet rồi."
+
+msgid "Thankfully, I saved that post as a PDF."
+msgstr "May là mình có lưu bài đăng đó thành PDF."
+
+msgid "\"What to do if you mess up bus ritual\""
+msgstr "\"Nếu làm hỏng nghi thức xe buýt thì cần làm gì\""
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"i was about to do the bus ritual, and saw that there are no clues about what to do if the bus doesnt come or something"
+msgstr ""
+"[color=green]spikyTrap2, 1 năm trước[/color]\n"
+"t sắp làm nghi thức xe buýt thì thấy chả có ai bày xem lỡ xe buýt nó không tới hay gì đó thì cần làm gì"
+
+msgid "someone here said that leaving a ritual half-done can be rly bad, so i'm just asking to be safe"
+msgstr "tại có người trên này bảo làm nghi thức nửa chừng để đó thì có thể rất là tai hại, nên t hỏi cho an toàn"
+
+msgid ""
+"[color=green]miko_baby, 1 year ago[/color]\n"
+"I don't guarantee this will work, as I haven't personally tried the bus ritual. But! My family works at a shrine so I have some experience with banishing spirits. The steps should be:"
+msgstr ""
+"[color=green]miko_baby, một năm trước[/color]\n"
+"Mấy điều sau đây mình không cam đoan là sẽ được, tại cá nhân mình chưa làm nghi thức xe buýt. Nhưng! Gia đình mình làm ở một cái đền nên mình có vài kinh nghiệm trục xuất ác linh. Mấy bước chắc là:"
+
+msgid ""
+"1) Untie the red string or thread or whatever you used from the phone.\n"
+"2) Take a whole bunch of salt, any salt, and pour it in front of any exit doors of your home (indoors)."
+msgstr ""
+"1) Tháo sợi dây hoặc chỉ đỏ hoặc cái gì đó bạn dùng ra khỏi điện thoại.\n"
+"2) Lấy nguyên vốc muối, muối gì cũng được, rồi trút vào trước cửa ra của nhà bạn (rắc trong nhà)."
+
+msgid ""
+"Make sure to pour salt on EVERY exit (windows aren't necessary though).\n"
+"That's all! Hope this helps!"
+msgstr ""
+"Đảm bảo rắc muối lên MỌI lối ra nhé (cửa sổ thì không cần đâu).\n"
+"Thế thôi! Mong là giúp ích!"
+
+msgid ""
+"[color=green]spikyTrap2, 1 year ago[/color]\n"
+"thanks!"
+msgstr ""
+"[color=green]spikyTrap2, 1 năm trước[/color]\n"
+"cám ơn!"
+
+msgid "[User marked this thread as solved]"
+msgstr "[Người dùng đã đánh dấu thread này được giải quyết xong]"
+
+msgid "In other words, remove the red string from the phone and scatter salt in front of the front door, the back door and the garage door."
+msgstr "Tức là, gỡ sợi dây đỏ ra khỏi điện thoại rồi rắc muối vào trước cửa chính, cửa sau với cửa ga-ra."
+
+msgid "It sounds a little weak for a ritual but... it's better than nothing."
+msgstr "Cho nghi thức thì nghe hơi yếu nhưng... có còn hơn không."
+
+msgid "I'd rather not change right now..."
+msgstr "Bây giờ mình chưa muốn thay đồ đâu..."
+
+msgid "My digital alarm clock."
+msgstr "Chiếc đồng hồ báo thức kỹ thuật số của mình."
+
+msgid "I'm so used to pushing snooze on this thing-"
+msgstr "Mình cứ bị quen tay nhấn nút 'báo lại' lên cái này-"
+
+msgid "I hope I don't do it again out of reflex and ruin the ritual."
+msgstr "Cầu trời mình không lại theo phản xạ làm thế mà làm hỏng nghi thức."
+
+msgid "Set it for midnight?"
+msgstr "Hẹn giờ lúc nửa đêm chứ?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_alarmclock.choice.Set it for midnight?"
+msgid "Yes"
+msgstr "Hẹn giờ"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_alarmclock.choice.Set it for midnight?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "It's done."
+msgstr "Đã hẹn giờ."
+
+msgid "It's set to ring at midnight."
+msgstr "Đã đặt nó reo lúc nửa đêm rồi."
+
+msgid "My bed."
+msgstr "Giường của mình."
+
+msgid "Go to sleep?"
+msgstr "Đi ngủ chứ?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_bed.choice.Go to sleep?"
+msgid "Yes"
+msgstr "Ngủ"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_bed.choice.Go to sleep?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's something I need to tell Hiro first."
+msgstr "Có chuyện mình cần nói với anh Hiro đã."
+
+msgid "I should take the stuff I left by the window, or I'm going to forget it here."
+msgstr "Mình nên lấy đồ mình để bên cửa sổ, chứ không lại quên mất."
+
+msgid "I need to finish cleaning up the ritual first..."
+msgstr "Mình cần phải dọn dẹp nghi thức cho xong đã."
+
+msgid "A book on the occult."
+msgstr "Quyển sách về đề tài huyền bí."
+
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_book.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_book.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "\"Salt is important when dealing with demons. For best results, a handful must be thrown at the target.\""
+msgstr "\"Khi đối phó với quỷ sứ thì thứ quan trọng là muối. Để có kết quả tốt nhất, phải ném một nắm muối vào mục tiêu mới được.\""
+
+msgid "A bookshelf with school related books."
+msgstr "Giá sách với mấy quyển sách các môn ở trường."
+
+msgid "Manga and other non-academic stuff gets to go in the bottom compartment."
+msgstr "Manga và mấy quyển ngoài học tập ra thì để ở gian dưới đáy."
+
+msgid "Blue... Pink... Looks like I don't have any red markers."
+msgstr "Xanh lam... Hồng... Có vẻ là mình không có bút dạ màu đỏ nào rồi."
+
+msgid "Maybe in my parents' room?"
+msgstr "Có khi phòng ba mẹ có?"
+
+msgid "Maybe downstairs?"
+msgstr "Có lẽ dưới nhà chăng?"
+
+msgid "My computer chair."
+msgstr "Ghế máy tính của mình."
+
+msgid "The instructions are simple enough. No need to check again."
+msgstr "Các bước tiến hành đủ đơn giản rồi. Không cần coi lại."
+
+msgid "Sit at the computer?"
+msgstr "Ngồi vào máy tính chứ?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_computer.choice.Sit at the computer?"
+msgid "Yes"
+msgstr "Ngồi"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.misc_computer.choice.Sit at the computer?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A gaming console."
+msgstr "Chiếc console chơi game."
+
+msgid "There's no time for games right now."
+msgstr "Giờ không có thời gian chơi game đâu."
+
+msgid "My computer. It's always on."
+msgstr "Máy tính của mình. Luôn để mở máy."
+
+msgid "My desk."
+msgstr "Bàn của mình."
+
+msgid "The mugs pile up here. The drawers contain school papers."
+msgstr "Mấy cái ca để đống ở đây. Ngăn kéo thì chứa giấy tờ trường học."
+
+msgid "Leftover orange juice."
+msgstr "Nước cốt cam bỏ mứa."
+
+msgid "It's too warm to drink now."
+msgstr "Giờ ấm lên quá rồi không uống đâu."
+
+msgid "Some blank paper."
+msgstr "Vài tờ giấy trắng."
+
+msgid "I doodle sometimes."
+msgstr "Thi thoảng mình vẽ vời."
+
+msgid "A plant."
+msgstr "Cái cây."
+
+msgid "The best plant in this house."
+msgstr "Cái cây tuyệt vời nhất trong căn nhà này."
+
+msgid "Some cute posters."
+msgstr "Vài tấm áp-phích dễ thương."
+
+msgid "A fancy glass table."
+msgstr "Chiếc bàn kính tinh mỹ."
+
+msgid "An overflowing trash can."
+msgstr "Cái sọt rác bị tràn."
+
+msgid "Since you're the one who filled it up, there's no point in emptying it."
+msgstr "Vì bạn là người đổ đầy ắp nó lên, nên dọn thì chả có nghĩa lý gì."
+
+msgid "My trash can."
+msgstr "Sọt rác của mình."
+
+msgid "A TV."
+msgstr "Chiếc TV."
+
+msgid "This TV is solely used to dock the game console."
+msgstr "Chiếc TV này chỉ dùng để hiển thị cho game console thôi."
+
+msgid "It's too dark to see right now."
+msgstr "Giờ tối quá chả thấy gì được."
+
+msgid "A window."
+msgstr "Cái cửa sổ."
+
+msgid "A cozy gaming space by the window."
+msgstr "Cái không gian chơi game ấm cúng bên cửa sổ."
+
+msgid "..."
+msgstr "..."
+
+msgid "Various bows and hair decorations."
+msgstr "Nhiều loại nơ và đồ gài tóc."
+
+msgid "There's some red ribbon here."
+msgstr "Ở đây có vài sợi ruy-băng đỏ."
+
+msgid "Take ${item:ch1.ribbon}?"
+msgstr "Lấy ${item:ch1.ribbon} chứ?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bows.choice.Take ${item:ch1.ribbon}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bows.choice.Take ${item:ch1.ribbon}?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_1.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "Vài bộ đồ mình nhận làm quà. Chưa đến lúc mở ra."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_1.dlg.narrator"
+msgid "Some clothes."
+msgstr "Vài bộ đồ."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_2.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "Vài bộ đồ mình nhận làm quà. Chưa đến lúc mở ra."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_2.dlg.narrator"
+msgid "Some clothes."
+msgstr "Vài bộ đồ."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_3.dlg.lacie"
+msgid "Some clothes I got as a gift. It's not time to open them yet."
+msgstr "Vài bộ đồ mình nhận làm quà. Chưa đến lúc mở ra."
+
+msgctxt "events.Ch1_Home_2F_Bedroom_A.pnc_wardrobe_bundle_3.dlg.narrator"
+msgid "Some clothes."
+msgstr "Vài bộ đồ."
+
+msgid "A calendar. It's still stuck in March, 6 months ago."
+msgstr "Tấm lịch. Vẫn đang mắc ở tháng Ba, 6 tháng trước rồi."
+
+msgid "Is there even a point in turning the pages?"
+msgstr "Lật trang lịch giờ có nghĩa lý gì không?"
+
+msgid "The year is more or less over anyways."
+msgstr "Dù gì cũng sắp sang năm tới nơi rồi."
+
+msgid "Lacie's diary."
+msgstr "Nhật ký của Lacie."
+
+msgid "I don't feel like going through it right now."
+msgstr "Bây giờ mình không thấy muốn đọc qua."
+
+msgid "I should take all of this with me."
+msgstr "Mình nên đem hết mấy thứ này cùng."
+
+msgid "My notebook, to organize my thoughts..."
+msgstr "Tập vở, để sắp xếp suy nghĩ..."
+
+msgid "...the rune for the ritual..."
+msgstr "...cục rune để làm nghi thức..."
+
+msgid "...salt, for self defense..."
+msgstr "...muối, để tự vệ..."
+
+msgid "...and finally, this thing."
+msgstr "...và cuối cùng, cái này."
+
+msgid "If the information I got is accurate, then this is my ticket back home."
+msgstr "Nếu thông tin mình có được là chính xác, thì đây là chiếc vé về nhà của mình."
+
+msgid "(You placed the letter and to-do list into the notebook.)"
+msgstr "(Bạn đặt lá thư với 'danh sách việc cần làm' vào trong vở.)"
+
+msgid "A happy little green plant."
+msgstr "Cái cây xanh lục be bé vui vẻ."
+
+msgid "It doesn't need a lot of watering, thankfully..."
+msgstr "Nó không cần tưới nước nhiều, may thay..."
+
+msgid "Your TamaGhost™."
+msgstr "Chú TamaGhost™ của bạn."
+
+msgid "I already fed it today."
+msgstr "Hôm nay mình cho nó ăn rồi."
+
+msgid "(You fed your TamaGhost™)."
+msgstr "(Bạn cho chú TamaGhost™ của mình ăn)."
+
+msgid "An umbrella."
+msgstr "Cây dù."
+
+msgid "It's nice outside."
+msgstr "Bên ngoài trời đẹp."
+
+msgid "But not nice enough to want to go back out."
+msgstr "Nhưng không đủ đẹp để mình muốn đi ra ngoài lại."

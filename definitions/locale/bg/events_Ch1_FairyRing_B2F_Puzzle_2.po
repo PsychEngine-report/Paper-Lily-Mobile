@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Can we do this?"
+msgstr "Можем ли да направим това?"
+
+msgid "Yes, I think so."
+msgstr "Да, така мисля."
+
+msgid "At least we haven't seen the bodies of the fairies around..."
+msgstr "Поне не сме виждали телата на феите наоколо…"
+
+msgid "A fairy head, or something."
+msgstr "Глава на фея или нещо подобно."
+
+msgid "It has both nostrils and a mouth..."
+msgstr "Има и ноздри и уста…"
+
+msgid "It has both eyes and a mouth..."
+msgstr "То има две очи и уста…"
+
+msgid "This one has nostrils AND a mouth."
+msgstr "Това има ноздри И уста."
+
+msgid "This one has both eyes AND a mouth."
+msgstr "Това има две очи И уста."
+
+msgid "Does it mean it can see both in front and to the sides?"
+msgstr "Означава ли това, че може да вижда както отпред, така и встрани?"

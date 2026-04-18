@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OK"
+msgstr "確定"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "On"
+msgstr "開啟"
+
+msgid "Off"
+msgstr "關閉"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Apply"
+msgstr "套用"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Loading..."
+msgstr "載入中..."
+
+msgid "Key"
+msgstr "按鍵"
+
+msgid "Button"
+msgstr "按鈕"
+
+msgid "Axis"
+msgstr "軸心"
+
+msgid "Keyboard"
+msgstr "鍵盤"
+
+msgid "Controller"
+msgstr "控制器"
+
+msgid "New Game"
+msgstr "新遊戲"
+
+msgid "Continue"
+msgstr "繼續"
+
+msgid "Website"
+msgstr "網站"
+
+msgid "Itch.io Page"
+msgstr "Itch.io 頁面"
+
+msgid "Translator Page"
+msgstr "翻譯者頁面"
+
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+msgid "Save"
+msgstr "儲存"
+
+msgid "Save Game"
+msgstr "儲存遊戲"
+
+msgid "SLOT {0}"
+msgstr "欄位 {0}"
+
+msgid "<EMPTY>"
+msgstr "<空白>"
+
+msgid "CORRUPTED"
+msgstr "已損毀"
+
+msgid "OBSOLETE"
+msgstr "已過時"
+
+msgid "Unknown Location"
+msgstr "未知地點"
+
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "確定覆蓋存檔？"
+
+msgid "Load"
+msgstr "載入"
+
+msgid "Load Game"
+msgstr "載入遊戲"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Debug Room"
+msgstr "除錯室"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Inventory"
+msgstr "物品欄"
+
+msgid "Status"
+msgstr "狀態"
+
+msgid "Objectives"
+msgstr "目標"
+
+msgid "(There are no objectives)"
+msgstr "(目前沒有目標)"
+
+msgid "Main Menu"
+msgstr "主選單"
+
+msgid "Log"
+msgstr "對話紀錄"
+
+msgid "Extras"
+msgstr "額外內容"
+
+msgid "Gallery"
+msgstr "藝廊"
+
+msgid "Credits"
+msgstr "製作人員"
+
+msgid "{0} Select {1} Back"
+msgstr "{0} 選擇 {1} 返回"
+
+msgid "Go to Debug Room"
+msgstr "前往除錯室"
+
+msgid "Quit to Title Screen"
+msgstr "退出至標題畫面"
+
+msgid "Quit to Desktop"
+msgstr "退出至桌面"
+
+msgid "Are you sure you want to quit? Unsaved progress will be lost."
+msgstr "確定退出遊戲？未儲存的進度將會遺失。"
+
+msgid "Game Paused!"
+msgstr "遊戲暫停！"
+
+msgid "{0}{1} Select {2} Confirm"
+msgstr "{0}{1} 選擇 {2} 確認"
+
+msgid "Coins: {0}"
+msgstr "硬幣：{0}"
+
+msgid "Up"
+msgstr "上"
+
+msgid "Down"
+msgstr "下"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Action/OK"
+msgstr "行動/確認"
+
+msgid "Run"
+msgstr "奔跑"
+
+msgid "Special"
+msgstr "特別"
+
+msgid "Menu"
+msgstr "選單"
+
+msgid "Battery Saver Mode"
+msgstr "省電模式"
+
+msgid "Brightness"
+msgstr "亮度"
+
+msgid "Contrast"
+msgstr "對比"
+
+msgid "FPS Limit"
+msgstr "每秒禎數限制"
+
+msgid "Unlocked"
+msgstr "解鎖"
+
+msgid "V-Sync"
+msgstr "垂直同步"
+
+msgid "G-Sync"
+msgstr "G-Sync"
+
+msgid "Comp.V-Sync"
+msgstr "合成 V-Sync"
+
+msgid "Full Screen"
+msgstr "全螢幕"
+
+msgid "Internal Resolution"
+msgstr "內部解析度"
+
+msgid "Gamma"
+msgstr "伽瑪校正"
+
+msgid "Renderer"
+msgstr "渲染器"
+
+msgid "OpenGL ES 2.x"
+msgstr "OpenGL ES 2.x"
+
+msgid "OpenGL ES 3.x"
+msgstr "OpenGL ES 3.x"
+
+msgid "Resolution"
+msgstr "解析度"
+
+msgid "Window Size"
+msgstr "視窗大小"
+
+msgid "Saturation"
+msgstr "飽和度"
+
+msgid "General Volume"
+msgstr "總體音量"
+
+msgid "BGM Volume"
+msgstr "背景音樂音量"
+
+msgid "SFX Volume"
+msgstr "音效音量"
+
+msgid "Interface Volume"
+msgstr "介面音量"
+
+msgid "Text Scrolling Volume"
+msgstr "文字滾動音量"
+
+msgid "Mute All Audio"
+msgstr "靜音"
+
+msgid "Hide Mouse Cursor"
+msgstr "隱藏滑鼠游標"
+
+msgid "Objective Notifications"
+msgstr "目標提示"
+
+msgid "Sound Settings"
+msgstr "聲音設定"
+
+msgid "Screen Settings"
+msgstr "螢幕設定"
+
+msgid "Control Settings"
+msgstr "控制設定"
+
+msgid "Invalid custom controls: All actions need to be assigned!"
+msgstr "無效的自訂控制：所有的動作都必須被分配到！"
+
+msgid "Game Settings"
+msgstr "遊戲設定"
+
+msgid "Profile"
+msgstr "設定檔"
+
+msgid "{0}: {1}"
+msgstr "{0}：{1}"
+
+msgid "Classic"
+msgstr "經典"
+
+msgid "WASD"
+msgstr "WASD"
+
+msgid "Azerty Classic"
+msgstr "Azerty Classic"
+
+msgid "Azerty WASD"
+msgstr "Azerty WASD"
+
+msgid "Dvorak Classic"
+msgstr "Dvorak Classic"
+
+msgid "Dvorak WASD"
+msgstr "Dvorak WASD"
+
+msgid "Xbox"
+msgstr "Xbox"
+
+msgid "DualShock 4"
+msgstr "DualShock 4"
+
+msgid "DualShock 4 (JP)"
+msgstr "DualShock 4 (JP)"
+
+msgid "Switch Pro"
+msgstr "Switch Pro"
+
+msgid "Generic"
+msgstr "通用"
+
+msgid "Custom"
+msgstr "自訂"
+
+msgid "Press a key to assign to {0}..."
+msgstr "按按鍵以配置到 {0}..."
+
+msgid "Press a button to assign to {0}..."
+msgstr "按按鈕以配置到 {0}..."
+
+msgid "Auto Switch"
+msgstr "自動切換"
+
+msgid "Controller Deadzone"
+msgstr "控制器盲區"
+
+msgid "Advanced Settings"
+msgstr "進階設定"
+
+msgid "Revert Settings to Default"
+msgstr "重置設定至預設值"
+
+msgid "Not recommended"
+msgstr "不建議"
+
+msgid "Restart required"
+msgstr "需要重啟"
+
+msgid "Current: {0}"
+msgstr "目前：{0}"
+
+msgid "Hold to Fast Forward"
+msgstr "按住以快轉"
+
+msgid "Show Skip Option"
+msgstr "顯示跳過選項"
+
+msgid "Language Settings"
+msgstr "語言設定"
+
+msgid "Select Language"
+msgstr "選擇語言"
+
+msgid "Unofficial Translations"
+msgstr "非官方翻譯"
+
+msgid "More..."
+msgstr "更多..."
+
+msgid ""
+"Attention!\n"
+"\n"
+"You're about to view unofficial translations. These translations are\n"
+"not developed by Leef 6010 and we take no responsibility for their accuracy.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"注意！\n"
+"\n"
+"你即將檢視非官方翻譯。這些翻譯\n"
+"不是由 Leef 6010 翻譯並且不為準確性負責。\n"
+"\n"
+"是否繼續？"
+
+msgid "Objectives Updated!"
+msgstr "目標更新！"
+
+msgid "(Done)"
+msgstr "(完成)"
+
+msgid "{0} Give Up {1} Reset"
+msgstr "{0} 放棄 {1} 重置"
+
+msgid "{0} Slow"
+msgstr "{0} 減慢"
+
+msgid "{0} Next"
+msgstr "{0} 下一個"
+
+msgid "{0} Okay"
+msgstr "{0} 確定"
+
+msgid "Obtained {0} {1}"
+msgstr "取得 {0} {1}"
+
+msgid "Designed By"
+msgstr "設計者"
+
+msgid "Art"
+msgstr "美術"
+
+msgid "Programming"
+msgstr "程式設計"
+
+msgid "Playtesting"
+msgstr "遊戲測試"
+
+msgid "Fonts"
+msgstr "字體"
+
+msgid "UI Design"
+msgstr "使用者介面設計"
+
+msgid "Additional UI Design"
+msgstr "額外使用者介面設計"
+
+msgid "Paper Lily Logo"
+msgstr "Paper Lily Logo"
+
+msgid "Paper Lily OST"
+msgstr "Paper Lily 原聲帶"
+
+msgid "Music"
+msgstr "音樂"
+
+msgid "Additional Music"
+msgstr "額外音樂"
+
+msgid "SFX"
+msgstr "效果音"
+
+msgid "Additional Shaders & Special Effects"
+msgstr "額外著色器 & 特效"
+
+msgid "Japanese Communications"
+msgstr "日文溝通"
+
+msgid "Korean Communications"
+msgstr "韓文溝通"
+
+msgid "Additional Assets"
+msgstr "額外素材"
+
+msgid "Special Thanks"
+msgstr "特別感謝"
+
+msgid "Created By"
+msgstr "創作者"
+
+msgid "Made Using"
+msgstr "使用引擎"
+
+msgid "Godot Engine"
+msgstr "Godot Engine"
+
+msgid "Thank You for Playing!"
+msgstr "感謝你的遊玩！"
+
+msgid "You Died"
+msgstr "你死了"
+
+msgid "Retry"
+msgstr "重試"
+
+msgid "Give Up"
+msgstr "放棄"

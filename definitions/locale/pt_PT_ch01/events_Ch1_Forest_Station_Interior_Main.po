@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "..."
+
+msgid "There's no one behind the window."
+msgstr "Não está ninguém atrás da janela."
+
+msgid "Ads. Don't acknowledge them."
+msgstr "Anúncios. Não lhes ligues."
+
+msgid "It says \"No cutting in line.\""
+msgstr "Diz: \"Não passar à frente na fila\"."
+
+msgid "Cutting in front of who? There's nobody here!"
+msgstr "Passar à frente de quem? Não está cá ninguém!"
+
+msgid "Looks like ticket prices."
+msgstr "Parece ser o preço dos bilhetes."
+
+msgid "A regular ticket is 20 coins."
+msgstr "Um bilhete normal custa 20 moedas."
+
+msgid "...That's a lot of coins... for me at least."
+msgstr "...São muitas moedas... pelo menos para mim."
+
+msgid "A number dispenser."
+msgstr "Um distribuidor de números."
+
+msgid "It looks like the numbers ran out, though."
+msgstr "Mas parece que eles se esgotaram."
+
+msgid "A half-withered plant."
+msgstr "Uma planta meio murcha."
+
+msgid "A dead plant."
+msgstr "Uma planta morta."
+
+msgid "A trash can."
+msgstr "Um caixote do lixo."
+
+msgid "It's missing the pedal thingy, so you can't open it to check the contents."
+msgstr "Não tem o pedal, então não dá para abrir e verificar o conteúdo."
+
+msgid "Touching the lid with your bare hands is out of the question."
+msgstr "Tocar na tampa com as mãos desprotegidas está fora de questão."
+
+msgid "A coin-operated vending machine. It says \"OUT OF ORDER\"."
+msgstr "Uma máquina de venda automática que funciona a moedas. Diz: \"FORA DE SERVIÇO\"."
+
+msgid "Insert a coin anyways?"
+msgstr "Introduzir uma moeda?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "The machine took the coin, but nothing's happening."
+msgstr "A máquina recebeu a moeda, mas não acontece nada."
+
+msgid "A coin-eating, evil vending machine."
+msgstr "Uma máquina de venda automática que funciona a moedas."
+
+msgid "What should I do, put another coin?"
+msgstr "O que é que eu faço, ponho outra moeda?"
+
+msgid "This upsets me..."
+msgstr "Isto está-me a irritar..."
+
+msgid "A coin-swallowing, useless vending machine."
+msgstr "Uma máquina de venda automática inútil que rouba moedas."
+
+msgid "Kick it?"
+msgstr "Dar-lhe um ponta-pé?"
+
+msgid "Today, violence was the answer."
+msgstr "Hoje, a violência foi a resposta."
+
+msgid "A broken vending machine."
+msgstr "Uma máquina de venda automática avariada."
+
+msgid "A coin-spitting vending machine that got what it deserved."
+msgstr "Uma máquina de venda automática que teve o que merecia."

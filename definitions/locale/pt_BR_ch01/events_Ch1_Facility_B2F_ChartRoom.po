@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "We could use it to get out of this room."
+msgstr "Poderíamos usá-lo para sair desta sala."
+
+msgid "I could use this to get out of this room."
+msgstr "Eu poderia usar isso para sair desta sala."
+
+msgid "Place plank outside?"
+msgstr "Colocar a prancha do lado de fora?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "It's done."
+msgstr "Pronto."
+
+msgid "The vent cover."
+msgstr "A tampa de ventilação."
+
+msgid "It's not large enough to cross the hole outside."
+msgstr "Não é grande o suficiente para atravessar o buraco externo."
+
+msgid "Sketches of maps are displayed on the wall."
+msgstr "Esboços de mapas são exibidos na parede."
+
+msgid "Sketches of maps are laying on the ground."
+msgstr "Esboços de mapas estão espalhados pelo chão."
+
+msgid "There's a large plank on the floor."
+msgstr "Há uma grande tábua no chão."
+
+msgid "A large screen composed of smaller screens."
+msgstr "Uma tela grande composta por telas menores."
+
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "As telas parecem exibir imagens de câmeras de segurança em algum lugar."
+
+msgid "Looks like... hallways? With lots of doors."
+msgstr "Parece... corredores? Com muitas portas."
+
+msgid "Who comes up with this shit?"
+msgstr "Quem inventa essa merda?"
+
+msgid "There's blood too..."
+msgstr "Tem sangue também..."
+
+msgid "Are those... sticky notes taped to the cameras?"
+msgstr "Esses... post-its estão colados nas câmeras?"
+
+msgid "Someone didn't want to be spied on."
+msgstr "Alguém não queria ser espionado."
+
+msgid "Understandable."
+msgstr "Compreensível."
+
+msgid "Scrolls containing technical drawings of different locations."
+msgstr "Pergaminhos contendo desenhos técnicos de diferentes locais."
+
+msgid "What's that?"
+msgstr "O que é isso?"
+
+msgid "I don't know."
+msgstr "Não sei."
+
+msgid "It looks like it's just hallways."
+msgstr "Parece que são apenas corredores."
+
+msgid "But it's laid out like a labyrinth, and some rooms overlap each other."
+msgstr "Mas está disposto como um labirinto e algumas salas se sobrepõem."
+
+msgid "This map doesn't make any sense."
+msgstr "Este mapa não faz nenhum sentido."
+
+msgid "A trashcan. It's full of neatly crumpled papers."
+msgstr "Uma lata de lixo. Está cheio de papéis bem amassados."
+
+msgid "..."
+msgstr "..."
+
+msgid "I see."
+msgstr "Entendido."
+
+msgid "It's too far to jump."
+msgstr "É muito longe para pular."
+
+msgid "It's too high to reach."
+msgstr "É muito alto para alcançar."

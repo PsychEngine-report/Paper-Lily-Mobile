@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It seems to like the white tree."
+msgstr "白い木のようだ。"
+
+msgid "Take ${item:ch1.doorknob_grave}?"
+msgstr "${item:ch1.doorknob_grave} を取る？"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.item_doorknob_get.choice.Take ${item:ch1.doorknob_grave}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "Fallen white leaves surround the tree."
+msgstr "散った白い花や葉が木の周囲を囲んでいる。"
+
+msgid "Take some ${item:ch1.lakeside_petals_white}?"
+msgstr "${item:ch1.lakeside_petals_white} を取る？"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_leaves.choice.Take some ${item:ch1.lakeside_petals_white}?"
+msgid "No"
+msgstr "取らない"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log.dlg.narrator"
+msgid "A wooden log."
+msgstr "丸太。"
+
+msgid "It's too short to use as a bridge."
+msgstr "橋に使うには短すぎる。"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.dlg.narrator"
+msgid "A wooden log."
+msgstr "丸太。"
+
+msgid "I could use this to cross the river..."
+msgstr "川を渡るのに使えそう……"
+
+msgid "Push it into the water?"
+msgstr "丸太を水に入れる？"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "Yes"
+msgstr "入れる"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_log_push.choice.Push it into the water?"
+msgid "No"
+msgstr "入れない"
+
+msgid "Something's weird about this spot, but you don't know what it is."
+msgstr "このあたりは何か奇妙な感じがするが、どこがかはわからない。"
+
+msgid "It's just trees... right?"
+msgstr "ただの木……だよね？"
+
+msgid "The passage is camouflaged."
+msgstr "通路はカモフラージュされている。"
+
+msgid "There's no way to open it from this side."
+msgstr "こちら側から開ける方法はない。"
+
+msgid "A beautiful tree with white leaves."
+msgstr "白い花や葉がついた美しい木。"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.misc_water.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "跳び越えるには遠すぎる。"
+
+msgid "The river fades into obscurity."
+msgstr "川は暗がりに消えている。"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_north.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "跳び越えるには遠すぎる。"
+
+msgctxt "events.Ch1_Forest_Lakeside_3.move_cross_water_south.dlg.narrator"
+msgid "It's too far to jump."
+msgstr "跳び越えるには遠すぎる。"
+
+msgid "White leaves cover the ground."
+msgstr "白い葉や花びらが地面を覆っている。"

@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(If I pass through there, that guy might see me...)"
+msgstr "(Если я тут пройду, тот парень меня увидит...)"
+
+msgid "(Um...)"
+msgstr "(Эм...)"
+
+msgid "(Did I adopt a stray?)"
+msgstr "(За мной что, хвост?)"
+
+msgid "Are you following me?"
+msgstr "Ты следишь за мной?"
+
+msgid "Yep."
+msgstr "Ага."
+
+msgid "We stand a better chance together, right?"
+msgstr "Вместе у нас больше шансов, верно?"
+
+msgid "Don't worry, I won't be dead weight."
+msgstr "Не бойся, я не буду тебе мёртвым грузом."
+
+msgid "Well, unless I'm actually dead..."
+msgstr "Ну, только если я не умру..."
+
+msgid "But then you can just leave me there."
+msgstr "Но тогда уж можешь просто меня бросить."
+
+msgid "..."
+msgstr "..."
+
+msgid "Look, you can just pretend I'm not here if you want."
+msgstr "Смотри, если хочешь, можешь притвориться, что меня здесь нет."
+
+msgid "See?"
+msgstr "Вот видишь?"
+
+msgid "(That guy might still be waiting for me...)"
+msgstr "(Тот парень может до сих пор меня ждать...)"
+
+msgid "(Should I just return to where he is?)"
+msgstr "(Вернуться ли мне к нему?)"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "*Sigh*"
+msgstr "*Вздох*"
+
+msgid "Uhm..."
+msgstr "Эм..."
+
+msgid "Huh? Oh... what's up?"
+msgstr "А? О... ну что?"
+
+msgid "There was nothing important in there, let's go."
+msgstr "Там нет ничего интересного, пойдём."
+
+msgid "Wait, how did you-"
+msgstr "Стой, а как ты-"
+
+msgid "Hurry up."
+msgstr "Быстрее."
+
+msgid "A gate. It's locked."
+msgstr "Ворота. Они закрыты."
+
+msgid "A gate. There's probably no point in closing it."
+msgstr "Ворота. Наверное, нет смысла их закрывать."
+
+msgid "The grate you kicked out of the way earlier."
+msgstr "Решётка, которую вы не так давно выбили."
+
+msgid "It's too high to reach."
+msgstr "Туда не достать."
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_East.move_dungeon_1.dlg.narrator"
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](Сай покидает отряд.)[/color]"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_East.move_dungeon_2.dlg.narrator"
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](Сай покидает отряд.)[/color]"

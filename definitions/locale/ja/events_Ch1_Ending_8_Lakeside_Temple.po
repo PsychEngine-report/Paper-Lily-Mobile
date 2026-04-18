@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A note details how to unclog some pipes..."
+msgstr "パイプの詰まりを取る方法が記されたメモ……"
+
+msgid "...but you have bigger problems right now."
+msgstr "……だが、今はそれより大きな問題がある。"
+
+msgid "A shrine of some sorts."
+msgstr "何かの祭壇。"
+
+msgid "There's no longer a goldfish inside the bowl."
+msgstr "もう鉢の中に金魚はいない。"
+
+msgid "The goldfish sits unmoving at the bottom of the bowl."
+msgstr "金魚はぴくりとも動かず鉢の底に沈んでいる。"
+
+msgid "The water has turned blood red."
+msgstr "水は血のような赤に変わっている。"

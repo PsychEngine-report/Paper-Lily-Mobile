@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "On second thought, I don't feel like it."
+msgstr "Nghĩ lại thì thấy chưa muốn làm ngay bây giờ lắm."
+
+msgid "Phew!"
+msgstr "Phù!"
+
+msgid "This is my desk. Juli sits in front of me, and Kaya sits behind."
+msgstr "Tao ngồi chỗ này. Juli ngồi trước tao, Kaya ngồi đằng sau."
+
+msgid "I see..."
+msgstr "Ừa..."
+
+msgid "Thanks for letting me know...?"
+msgstr "Cám ơn vì nói tao biết nhé...?"
+
+msgid "Saki's desk."
+msgstr "Bàn của Saki."
+
+msgid "This isn't the right classroom for that."
+msgstr "Làm chuyện này thì ở phòng đây không đúng rồi."
+
+msgid "The path is already drawn."
+msgstr "Con đường đã được vẽ rồi."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Chưa được. Trước tiên phải thu thập hết cái mình cần đã."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Chưa được. Trước tiên phải chuẩn bị xong lớp học đã."
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "Mình chẳng muốn gây thêm rắc rối hơn cái mình đang làm đâu."
+
+msgid "This window already has curtains."
+msgstr "Cửa sổ này đã mắc rèm rồi."
+
+msgctxt "events.Prologue_Classroom_3.item_lighter.dlg.narrator"
+msgid "Burning the school down is not part of the ritual."
+msgstr "Trong quy trình nghi thức làm gì có trò đốt trường hử."
+
+msgctxt "events.Prologue_Classroom_3.item_lighter_on_desks.dlg.narrator"
+msgid "Burning the school down is not part of the ritual."
+msgstr "Trong quy trình nghi thức làm gì có trò đốt trường hử."
+
+msgid "There's a red notebook here."
+msgstr "Ở đây có cuốn vở đỏ."
+
+msgid "There's nothing else here."
+msgstr "Không còn gì khác cả."
+
+msgid "It's already done."
+msgstr "Đã cắt rồi."
+
+msgid "This isn't the time for that."
+msgstr "Giờ không phải lúc làm chuyện đó."
+
+msgid "Some world encyclopedias."
+msgstr "Vài cuốn bách khoa toàn thư."
+
+msgid "I would definitely steal one of these if they weren't so darn heavy."
+msgstr "Nếu không nặng thấy mợ thế này kiểu gì ta cũng sẽ ăn cắp một cuốn."
+
+msgid "You can borrow my books if you need..."
+msgstr "Nếu cần thì mượn sách của tao này..."
+
+msgid "I'll keep that in mind."
+msgstr "Sẽ nhớ sẵn có gì hỏi mày."
+
+msgid "A clean chalkboard."
+msgstr "Tấm bảng phấn sạch bong."
+
+msgid "A wooden desk."
+msgstr "Chiếc bàn gỗ."
+
+msgid "Two paper slips filled with rules and regulations."
+msgstr "Hai mảnh giấy viết chi chít nội quy trường."
+
+msgid "I wonder if it says somewhere that we're not allowed on school grounds at night."
+msgstr "Không biết có chỗ nào ghi là cấm học sinh vào trong trường ban đêm không ta."
+
+msgid "Oh well! I guess we'll never know if I don't read it!"
+msgstr "Mà kệ! Đọc thì biết vậy chắc khỏi đọc cho khỏi biết luôn!"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Vài cái điểm danh biểu và thời khóa biểu."
+
+msgid "A happy green plant."
+msgstr "Cái cây lá cảnh vui vẻ."
+
+msgid "The plant is no longer happy."
+msgstr "Cái cây lá cảnh chẳng còn vui nữa."
+
+msgid "Some cute potted plants. Their silent nature enchants you."
+msgstr "Mấy cây trồng trong chậu trông đáng yêu. Sức sống tĩnh lặng của chúng khiến say đắm mất rồi."
+
+msgid "The teacher's podium."
+msgstr "Cái bục giảng của giáo viên."
+
+msgid "A geography book and a globe sit atop it."
+msgstr "Có cuốn sách giáo khoa địa lý với quả địa cầu đặt trên."
+
+msgid "Some boring textbooks."
+msgstr "Mấy cuốn sách giáo khoa chán phèo."
+
+msgid "Some very thick, school-related books."
+msgstr "Mấy cuốn sách liên quan trường học, rất là dầy."
+
+msgid "Some books and... chalk."
+msgstr "Mấy cuốn sách và... phấn viết."
+
+msgid "Take it?"
+msgstr "Lấy chứ?"
+
+msgctxt "events.Prologue_Classroom_3.misc_shelf2b.choice.Take it?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's nothing else of use."
+msgstr "Không còn cái gì khác xài được đâu."
+
+msgid "A trash can."
+msgstr "Thùng rác."
+
+msgid "As it's usually the case with trash cans, it's devoid of useful items."
+msgstr "Như mọi thùng rác thường thấy, chả chứa cái thứ gì được việc hết."
+
+msgctxt "events.Prologue_Classroom_3.misc_window1.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Phải để yên rèm khép kín lại."
+
+msgctxt "events.Prologue_Classroom_3.misc_window2.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Phải để yên rèm khép kín lại."
+
+msgctxt "events.Prologue_Classroom_3.misc_window3.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Phải để yên rèm khép kín lại."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Sắp xếp lại bàn trong lớp học luôn chứ?"
+
+msgctxt "events.Prologue_Classroom_3.move_enter.choice.Should I sort the desks in this classroom now?"
+msgid "Yes"
+msgstr "Sắp xếp luôn"
+
+msgid "Not yet"
+msgstr "Chưa, gượm đã"
+
+msgid "Let's do this."
+msgstr "Nào làm thôi."

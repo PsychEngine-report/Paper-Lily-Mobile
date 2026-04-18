@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "Комната Хиро."
+
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go in without permission..."
+msgstr "Лучше не входить туда без спроса..."
+
+msgid "You shouldn't go in."
+msgstr "Вам не стоит входить."
+
+msgid "You won't go in."
+msgstr "Вы туда не зайдёте."
+
+msgid "Some books and magazines."
+msgstr "Какие-то книжки и журналы."
+
+msgid "No reading space would be complete without decorative books."
+msgstr "Ни один читательский уголок не сможет обойтись без декоративных книг."
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "Странного рода украшение. Вы не совсем знаете, что это."
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "Это картина, схожая с той, что висит на первом этаже."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting.dlg.narrator"
+msgid "A painting."
+msgstr "Картина."
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "Это картина, схожая с той, что висит слева."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_2.dlg.narrator"
+msgid "A painting."
+msgstr "Картина."
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "Это картина, схожая с той, что висит справа."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_3.dlg.narrator"
+msgid "A painting."
+msgstr "Картина."
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "Фотографии с зимних каникул. Вас на них нет."
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "Красивое растение. Его бутоны несъедобны."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant.dlg.narrator"
+msgid "A plant."
+msgstr "Растение."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant_2.dlg.narrator"
+msgid "A plant."
+msgstr "Растение."
+
+msgid "Some old family pictures."
+msgstr "Старые семейные фотографии."
+
+msgid "The backyard can be seen from here."
+msgstr "Отсюда видно задний двор."
+
+msgid "Something is written on the door:"
+msgstr "На двери что-то написано:"
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "\"Что это за комната? Ты проводила там много времени."
+
+msgid "Always finding new places to hide away from the world."
+msgstr "Ты вечно ищешь, где бы спрятаться от мира."
+
+msgid "Did you ever stop hiding?\""
+msgstr "Когда ты от него не пряталась?\""

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A house?"
+msgstr "Dom?"
+
+msgid "Why's there a house so deep underground?"
+msgstr "Dlaczego tak głęboko pod ziemią znajduje się dom?"
+
+msgid "..."
+msgstr "..."
+
+msgid "Oh!"
+msgstr "Och!"
+
+msgid "Maybe someone lives here."
+msgstr "Być może ktoś tu mieszka."
+
+msgid "But if there's an entrance to a house down here, maybe there's also an exit on the other side."
+msgstr "Ale jeśli jest tu wejście do domu, to być może po drugiej stronie jest też wyjście."
+
+msgid "Don't you think?"
+msgstr "Nie sądzisz?"
+
+msgid "Well, no way to go but forward."
+msgstr "Cóż, nie ma innego wyjścia, jak tylko iść naprzód."
+
+msgid "A mailbox. It's empty."
+msgstr "Skrzynka pocztowa. Jest pusta."
+
+msgid "You can't see anything through the window."
+msgstr "Przez okno nic nie widać."
+
+msgid "A solid wall has appeared where the hallway was."
+msgstr "W miejscu korytarza pojawiła się solidna ściana."
+
+msgid "Huh...? What?"
+msgstr "Hę...? Co?"
+
+msgid "We're getting trapped deeper and deeper... I really hope we find that door soon."
+msgstr "Jesteśmy uwięzieni coraz głębiej... Naprawdę mam nadzieję, że wkrótce znajdziemy te drzwi."

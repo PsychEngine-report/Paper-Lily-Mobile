@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A little cactus."
+msgstr "Малък кактус."
+
+msgid "An empty flower vase."
+msgstr "Празна ваза за цвете."
+
+msgid "Pink flowers in a vase."
+msgstr "Розови цветя във ваза."
+
+msgid "I could use these flowers..."
+msgstr "Бих могла да използвам тези цветя…"
+
+msgid "Bring the flowers to the plant?"
+msgstr "Донеси цветята до растението?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "\"Thank you.\""
+msgstr "\"Благодаря ти.\""
+
+msgid "A shelf. Nothing of interest."
+msgstr "Рафт. Нищо интересно."
+
+msgid "A bathtub filled with a black liquid."
+msgstr "Вана, пълна с черна течност."
+
+msgid "It's so big... you could fit like... four of me in there."
+msgstr "Толкова е голяма… че можеш да побереш… четирима като мен там."
+
+msgid "Check if there's anything useful inside?"
+msgstr "Провери дали вътре има нещо полезно?"
+
+msgid "A beautiful night sky."
+msgstr "Красиво нощно небе."
+
+msgid "Three moons... ?"
+msgstr "Три луни… ?"

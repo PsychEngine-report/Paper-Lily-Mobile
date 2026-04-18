@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's... a dead end?"
+msgstr "这是...死胡同？"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What now?"
+msgstr "现在怎么办？"
+
+msgid "We're gonna die here, aren't we?"
+msgstr "我们是不是要死在这里了？"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "Oh god... I really hoped I wouldn't be right."
+msgstr "天呐...我真希望我是错的。"
+
+msgid "I should have known. Of course it's a dead end."
+msgstr "我应该知道的。当然啦，这就是个死局。"
+
+msgid "But I felt more confident walking around with you... so I thought..."
+msgstr "但其实我认为...跟着你一起走让我感觉自信了许多..."
+
+msgid "Please, let me think."
+msgstr "拜托了，让我想想。"
+
+msgid "(Think Lacie...)"
+msgstr "（想想看，莱西...）"
+
+msgid "(Is there really no way out..?)"
+msgstr "（这里真的没有出路了吗...？）"
+
+msgid "Can't we break the ground above us and just climb out?"
+msgstr "我们就不能直接打破上方的地面，爬出去吗？"
+
+msgid "How?"
+msgstr "要怎么做？"
+
+msgid "Well...."
+msgstr "嗯..."
+
+msgid "...I don't know."
+msgstr "...我不知道。"
+
+msgid "Sorry, that was stupid."
+msgstr "抱歉，那太蠢了。"
+
+msgid "(Can I call someone?)"
+msgstr "（我能给别人打电话吗？）"
+
+msgid "(There's no signal though...)"
+msgstr "（虽然说这里没有信号...）"
+
+msgid "(But... it worked before...)"
+msgstr "（但是...之前成功过...）"
+
+msgid "(It doesn't work...)"
+msgstr "（没用...）"
+
+msgid "Say..."
+msgstr "我说..."
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Will you tell me your name? Since we might be dying anyway..."
+msgstr "你能告诉我你的名字吗？反正我们可能也要死了..."
+
+msgid "It's Lacie."
+msgstr "我叫莱西。"
+
+msgid "Oh... that's such a nice name."
+msgstr "哦...不错的名字。"
+
+msgid "...Thanks."
+msgstr "...谢谢。"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "After that, we stayed in silence for a few minutes."
+msgstr "在那之后，我们沉寂了几分钟。"
+
+msgid "I tried thinking of options at first, but quickly ran out of alternatives."
+msgstr "一开始，我尝试思考其他选项，但是很快我就没有办法了。"
+
+msgid "Maybe there really was no way out this time."
+msgstr "也许这次真的没有办法了。"
+
+msgid "Through all of this, Aoi was awfully quiet."
+msgstr "在这个过程中，小青一直沉默不语。"
+
+msgid "Um... hey."
+msgstr "呃...嘿。"
+
+msgid "Mhm..?"
+msgstr "嗯...？"
+
+msgid "Don't panic. It won't solve anything."
+msgstr "不要慌张。这解决不了任何问题。"
+
+msgid "What makes you think I'm panicking?"
+msgstr "是什么让你觉得我正在慌张呢？"
+
+msgid "You're melting."
+msgstr "你正在融化。"
+
+msgid "O-Oh right..."
+msgstr "哦—哦对..."
+
+msgid "No panic... no panic..."
+msgstr "不要慌张...不要慌张..."
+
+msgid "Wait... you're melting."
+msgstr "慢着...你在融化啊。"
+
+msgid "YES, I KNOW!"
+msgstr "是啊，我知道！"
+
+msgid "I can't stop!!!"
+msgstr "我停不下来了！！！"
+
+msgid "No, Aoi!"
+msgstr "不是的，小青！"
+
+msgid "I have an idea."
+msgstr "我有一个主意。"
+
+msgid "Huh!?"
+msgstr "啊！？"
+
+msgid "There's a drain."
+msgstr "这里有个下水道。"
+
+msgid "...AND!?"
+msgstr "...所以呢！？"
+
+msgid "Where do you think it leads?"
+msgstr "你觉得它通往哪里？"
+
+msgid "You want me..."
+msgstr "你想让我..."
+
+msgid "You want me to go through the drain!?"
+msgstr "你想让我穿过下水道！？"
+
+msgid "Even if I do... you can't come with me."
+msgstr "如果我这么做的话...你就不能跟我来了。"
+
+msgid "...Yeah."
+msgstr "...是的。"
+
+msgid "I-I got it, don't worry! If this leads anywhere, I'll find a way to get you out!"
+msgstr "我—我知道了，别担心！如果它通向了别处，我会想办法把你救出来的！"
+
+msgid "Just stay put!"
+msgstr "别乱跑哦！"
+
+msgid "Really?"
+msgstr "真的吗？"
+
+msgid "YEAH!"
+msgstr "对！"
+
+msgid "Well, let's hope there's a way."
+msgstr "好吧，那就希望这行得通吧。"
+
+msgid "There's gotta be a way!"
+msgstr "一定会有办法的！"
+
+msgid "Okay... well... Here goes."
+msgstr "好的...嗯...开始吧。"
+
+msgid "(Was that a good idea...?)"
+msgstr "（这真的是个好主意吗...？）"
+
+msgid "How long has it been..."
+msgstr "已经过去多久了..."
+
+msgid "Did I seriously just trust a demon with my life?"
+msgstr "我真的就这样把生命托付给了一个恶魔吗？"
+
+msgid "Did I seriously just trust a spirit with my life?"
+msgstr "我真的就这样把生命托付给了一个精灵吗？"
+
+msgid "Aoi might not even come back."
+msgstr "小青可能永远也不会回来了。"
+
+msgid "Wait, Aoi could have died for all I know..."
+msgstr "等等，小青可能已经死了..."
+
+msgid "What did I do..."
+msgstr "我到底做了什么..."
+
+msgid "Did I seriously just send Aoi down the drain to die..."
+msgstr "我一本正经地让小青去下水道里送死..."
+
+msgid "I should have said goodbye to Hiro when I had the chance..."
+msgstr "我应该在有机会的时候与希罗道别的..."
+
+msgid "It felt like days have gone by."
+msgstr "感觉像是过了好几天。"
+
+msgid "I don't know exactly how long it's been."
+msgstr "我不知道究竟过了多长时间。"
+
+msgid "But my phone battery died a long time ago..."
+msgstr "但是我的手机电池很久之前就用完了..."
+
+msgid "...And I fell asleep for a while too."
+msgstr "...然后我睡着了一小会儿。"
+
+msgid "Despite this... I don't feel hungry or thirsty..."
+msgstr "虽然说...我不饿也不渴..."
+
+msgid "I don't have hope that Aoi will come back anymore."
+msgstr "我已经不抱有小青能够回来的希望了。"
+
+msgid "I don't think anyone will come."
+msgstr "我觉得不会有人再来了。"
+
+msgid "I can't believe it... I threw in everything I had..."
+msgstr "真不敢相信...我把所有东西都扔了进去..."
+
+msgid "I even threw in the fish that was here, I have nothing else I can use..."
+msgstr "我甚至把之前在这儿的鱼都扔了进去，我已经没有东西能用了..."
+
+msgid "Is there really nothing I can feed this thing...? Is there nothing I can do to save Lacie?"
+msgstr "这里真的没有东西可以喂它了吗...？我真的没有办法去救莱西了吗？"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "There's always a way..."
+msgstr "总会有办法的..."
+
+msgid "Think... think..."
+msgstr "想想...想想..."
+
+msgid "Oh... oh god..."
+msgstr "哦... 天呐..."
+
+msgid "A bath tub."
+msgstr "一个浴缸。"
+
+msgid "Why is there a bathtub in a place like this?"
+msgstr "为什么这个地方会有浴缸？"
+
+msgid "Maybe the faeries take baths here?"
+msgstr "可能仙子们会在这个地方洗澡？"
+
+msgid "At least it's not full of blood or something."
+msgstr "至少它不是装满了鲜血之类的。"

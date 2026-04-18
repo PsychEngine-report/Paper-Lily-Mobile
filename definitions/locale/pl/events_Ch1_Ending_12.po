@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Are you sure you'll be okay?"
+msgstr "Jesteś pewien, że nic ci nie będzie?"
+
+msgid "Yeah for sure!"
+msgstr "Tak, na pewno!"
+
+msgid "Tip top shape."
+msgstr "Normalnie czuję się świetnie."
+
+msgid "..."
+msgstr "..."
+
+msgid "Take your time."
+msgstr "Nie spiesz się."
+
+msgid "I mean... it's not like I'm bleeding out or anything."
+msgstr "To znaczy... wcale się wykrwawiam, czy coś."
+
+msgid "(I need to find an exit fast.)"
+msgstr "(Muszę szybko znaleźć wyjście.)"
+
+msgid "Sai is not moving."
+msgstr "Sai się nie rusza."
+
+msgid "She's back..... She's back."
+msgstr "Wróciła..... Wróciła."
+
+msgid "She's singing in my ears....."
+msgstr "Śpiewa mi do uszu....."
+
+msgid "Singing all the time....."
+msgstr "Śpiewa cały czas..."
+
+msgid "Humming..."
+msgstr "Nuci..."
+
+msgid "Burning..."
+msgstr "Pali się…"
+
+msgid "Oh no... burning...."
+msgstr "O nie... pali się…"
+
+msgid "Hahahahaha....."
+msgstr "Hahahahaha....."
+
+msgid "Burning."
+msgstr "Pali się."

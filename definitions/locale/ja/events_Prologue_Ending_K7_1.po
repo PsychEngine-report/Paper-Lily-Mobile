@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This locker has no keyhole."
+msgstr "このロッカーに鍵穴はない。"
+
+msgid "They're already open, so there's nothing to cut."
+msgstr "もう開いているので、切るものはない。"
+
+msgid "Boxes filled to the brim with cleaning products."
+msgstr "縁まで掃除用具が詰まっている箱。"
+
+msgid "It's packed with white chalk and nothing else."
+msgstr "白いチョークだけがぎっしり詰まっている。"
+
+msgid "This must be like... a year's supply."
+msgstr "これは……間違いなく一年分はあるわ。"
+
+msgctxt "events.Prologue_Ending_K7_1.misc_boxes2.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "They're packed too tightly, I can't pull any out."
+msgstr "固く詰まってて、引っ張り出せない。"
+
+msgid "Some boxes filled with left shoes and lighters."
+msgstr "左の靴とライターがぎっしり詰まった箱。"
+
+msgid "Some brand new brooms."
+msgstr "新品のほうき。"
+
+msgid "A calendar... probably."
+msgstr "カレンダー……恐らくは。"
+
+msgid "There are no dates or month names in it."
+msgstr "日付も月の名前も書いていない。"
+
+msgid "A cleaning cart."
+msgstr "清掃カート。"
+
+msgid "It's sparkling clean."
+msgstr "ピカピカの新品だ。"
+
+msgid "A lamp. There's no light bulb nor a slot to place one."
+msgstr "ランプ。電球も、電球をつけるところもない。"
+
+msgid "A large locker. It's sealed shut."
+msgstr "大きいロッカー。固く閉ざされている。"
+
+msgid "A trash can. You can't see the bottom."
+msgstr "ゴミ箱。底が見えない。"
+
+msgid "That's... weird."
+msgstr "……おかしいわ。"
+
+msgid "What is?"
+msgstr "何が？"
+
+msgid "The existence of this room... makes no sense."
+msgstr "こんな部屋……あるはずがないのよ。"
+
+msgid "What do you mean?"
+msgstr "どういうこと？"
+
+msgid "Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside."
+msgstr "校舎の形からして、ここに部屋があるはずがないの。外から見たら、部屋が宙に浮いてるみたいになるはずよ。"
+
+msgid "Interesting..."
+msgstr "興味深いわね……"
+
+msgid "But... we didn't even finish the ritual! What's happening?"
+msgstr "でも……まだ儀式を終えてすらいないのよ！　一体どうなってるの？"
+
+msgid "I don't know..."
+msgstr "さあ……"
+
+msgid "Isn't it exciting!?"
+msgstr "でもワクワクしない!?"
+
+msgctxt "events.Prologue_Ending_K7_1.move_enter.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "Let's keep going."
+msgstr "先へ進みましょう。"

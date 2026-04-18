@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Remove the red string?"
+msgstr "要移除红线吗？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.event_remove_ribbon.choice.Remove the red string?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.event_remove_ribbon.choice.Remove the red string?"
+msgid "No"
+msgstr "否"
+
+msgid "This is the cable I need to tie a red string to."
+msgstr "这就是我需要系上红线的电话。"
+
+msgid "This is the cable you should tie a red string to."
+msgstr "这就是你应该系上红线的电话。"
+
+msgid "Some bird food."
+msgstr "一些鸟食。"
+
+msgid "Take ${item:ch1.bird_food}?"
+msgstr "要带走${item:ch1.bird_food}吗？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.item_birdfood_get.choice.Take ${item:ch1.bird_food}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.item_birdfood_get.choice.Take ${item:ch1.bird_food}?"
+msgid "No"
+msgstr "否"
+
+msgid "Is a bunny rabbit knot fine...?"
+msgstr "兔子结可以吗...？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_counter.dlg.narrator"
+msgid "Nothing of interest."
+msgstr "没什么有趣的。"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_counter_2.dlg.narrator"
+msgid "Nothing of interest."
+msgstr "没什么有趣的。"
+
+msgid "Drawers filled with miscellaneous items unfit for a kitchen."
+msgstr "抽屉里堆满了与厨房格格不入的实用杂物。"
+
+msgid "A landline phone."
+msgstr "一台固定电话。"
+
+msgid "Dial a number?"
+msgstr "要拨号吗？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_cupboard2.choice.Dial a number?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_cupboard2.choice.Dial a number?"
+msgid "No"
+msgstr "否"
+
+msgid "A red string can be seen hanging from its cord."
+msgstr "可以看到一根红绳挂在它的缆线上。"
+
+msgid "The phone is ringing. Pick up?"
+msgstr "电话在响。要接吗？"
+
+msgid "Pick up the phone"
+msgstr "接电话"
+
+msgid "Ignore it"
+msgstr "无视它"
+
+msgid "Looks like I just missed it..."
+msgstr "看起来我刚刚错过了..."
+
+msgid "A large cupboard. There's nothing inside."
+msgstr "一个巨大的橱柜。里面什么都没有。"
+
+msgid "A rice cooker."
+msgstr "一个电饭煲。"
+
+msgid "Various kitchen tools are stored in the drawers underneath."
+msgstr "下面的抽屉里存放着各种厨具。"
+
+msgid "Cutlery is stored in this drawer."
+msgstr "餐具存放在这个抽屉里。"
+
+msgid "Checking the contents of the fridge calms you down."
+msgstr "检查冰箱里的东西使你变得很冷静。"
+
+msgid "Do you want to have the leftovers mother left for you?"
+msgstr "你想吃妈妈留给你的剩菜吗？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_fridge.choice.Do you want to have the leftovers mother left for you?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_fridge.choice.Do you want to have the leftovers mother left for you?"
+msgid "No"
+msgstr "否"
+
+msgid "...for a last meal, it kind of sucked."
+msgstr "...作为最后一餐的话，它有点糟糕。"
+
+msgid "Nothing new has materialized since the last time you checked."
+msgstr "自你上次检查以来，没有任何变化。"
+
+msgid "There's no time for snacks right now."
+msgstr "没时间吃零食了。"
+
+msgid "A bowl full of fresh fruit."
+msgstr "满满一碗的新鲜水果。"
+
+msgid "The microwave emanates an aura of familiarity."
+msgstr "微波炉散发着熟悉的气息。"
+
+msgid "A microwave oven."
+msgstr "一个微波炉。"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.dlg.narrator"
+msgid "A note from your mother."
+msgstr "来自你母亲的字条。"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice"
+msgid "Read it?"
+msgstr "要阅读吗？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice.Read it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice.Read it?"
+msgid "No"
+msgstr "否"
+
+msgid "\"Your dad and I will be back on Monday."
+msgstr "“我和你爸下周一回来。"
+
+msgid "There's food in the fridge, make sure to heat it up."
+msgstr "冰箱里有吃的，一定要热一下。"
+
+msgid "Call us at (195)-224#1 if there's any problem."
+msgstr "如果有问题的话，打(195)-224#1来联系我们。"
+
+msgid "- Mom\""
+msgstr "- 妈妈”"
+
+msgid "The letter is gone."
+msgstr "字条不见了。"
+
+msgid "Didyousee?Didyouseeit?Yousawit.Youpretendedyoudidnt.Yousawit.Didyoupretend?Whydidyoupretend?Yousawallofit."
+msgstr "你看见了吗？你看到它了吗？你看到了。你假装自己没看到。你看到了。你假装了吗？为什么要假装？你全都看到了。"
+
+msgid "Butyouforgotsomething.Doyouknowwhatyouforgot?Youforgotsomethingthere.Backthen.Don'tworry.Itookcareofit.Shetookcareofit.Shetakescareofiteverytime."
+msgstr "但是你忘了一件事。你知道你忘了什么吗？你忘了这里的某些东西。回来吧。不要担心。我保管地很好。她保管地很好。她每时每刻都保管着。"
+
+msgid "A note from someone."
+msgstr "某人的字条。"
+
+msgid "\"_____ Ritual. What you'll need: Candles, a knife, a chunk of meat, a hiding place, an accomplice, a victim..."
+msgstr "“_____仪式。你需要：蜡烛，小刀，一块肉，一个藏身之处，一个同谋，一个受害者..."
+
+msgid "Wait... was that really how it went?\""
+msgstr "慢着...真的是这样吗？”"
+
+msgid "The oven. You hardly ever use it."
+msgstr "烤箱。你从来没用过。"
+
+msgid "A tall, green plant."
+msgstr "一株高大的绿色植物。"
+
+msgid "A very clean sink."
+msgstr "非常干净的水槽。"
+
+msgid "Turn on the tap?"
+msgstr "要打开龙头吗？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn on the tap?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn on the tap?"
+msgid "No"
+msgstr "否"
+
+msgid "Turn off the tap?"
+msgstr "要关闭龙头吗？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn off the tap?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn off the tap?"
+msgid "No"
+msgstr "否"
+
+msgid "A dining table. You sometimes eat here."
+msgstr "一张餐桌。你有时会在这里吃饭。"
+
+msgid "A toaster."
+msgstr "一台吐司机。"
+
+msgid "A trash can with nothing but the memory of bad kitchen smells."
+msgstr "垃圾桶里只剩下对厨房里那种难闻气味的记忆。"

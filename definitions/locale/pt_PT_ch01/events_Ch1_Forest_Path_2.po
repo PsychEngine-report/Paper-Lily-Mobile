@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That entrance... wasn't there before."
+msgstr "Aquela entrada… não estava ali antes."
+
+msgid "Is it underground?"
+msgstr "É debaixo da terra?"
+
+msgid "There's another signpost here. It's loose, so it can be rotated."
+msgstr "Há outro sinal aqui. Está solto, então dá para rodá-lo."
+
+msgid "Alright, I think I understand."
+msgstr "Ok, acho que entendi."
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "O sinal diz [color=#8080FF]\"Portão da Luz do Dia\"[/color]. Rodá-lo?"
+
+msgid "North"
+msgstr "Norte"
+
+msgid "South"
+msgstr "Sul"
+
+msgid "West"
+msgstr "Oeste"
+
+msgid "East"
+msgstr "Este"
+
+msgid "Don't Rotate"
+msgstr "Não rodar"
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "Este sinal diz [color=#8080FF]\"Portão da Luz do Dia\"[/color]."
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "Está fixo, então não consigo rodá-lo."
+
+msgid "This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgstr "Este sinal diz [color=#FF8080]\"Segredo\"[/color]. Rodá-lo?"
+
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "Este sinal diz [color=#FFFF80]\"Acesso à Estação de Comboio\"[/color]. Rodá-lo?"
+
+msgid "A dark pathway through the trees. Enter?"
+msgstr "Há um caminho escuro no meio das árvores. Entrar?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"

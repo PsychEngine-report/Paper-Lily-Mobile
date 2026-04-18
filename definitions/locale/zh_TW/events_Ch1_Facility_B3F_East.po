@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I'm sorry for disturbing you."
+msgstr "我為打擾到妳道歉。"
+
+msgid "(She's crying...)"
+msgstr "(她在哭...)"
+
+msgid "How long has she been locked up in here?"
+msgstr "她被關在這裡多久了？"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "No hard feelings."
+msgstr "別放在心上。"
+
+msgid "You're food, after all."
+msgstr "畢竟妳是食物。"
+
+msgid "What are your thoughts?"
+msgstr "妳的想法呢？"
+
+msgid "Go take a look."
+msgstr "去看看。"
+
+msgid "Psst..."
+msgstr "嘿..."
+
+msgid "Over here."
+msgstr "在這裡。"
+
+msgid "A small toy."
+msgstr "小玩具。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Is that... Miss Knives?"
+msgstr "那是...刀子小姐嗎？"
+
+msgid "Is this what she actually looks like..?"
+msgstr "她實際的長相是這樣嗎...？"
+
+msgid "Whoa."
+msgstr "哇。"
+
+msgid "She looks like a used napkin."
+msgstr "她看起來像是被用過的餐巾紙。"
+
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "大門看起來可以被打開。打開嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "You're... Spider?"
+msgstr "你是...蜘蛛？"
+
+msgid "Good work back there. Didn't think you'd actually do it."
+msgstr "幹的好。沒想到妳真的辦到了。"
+
+msgid "It feels good to see this place again."
+msgstr "能再次看到這個地方感覺真好。"
+
+msgid "How's this good? You're locked up."
+msgstr "哪裡好了？你被關著。"
+
+msgid "I don't need much to be content."
+msgstr "我不需要太多就能滿足。"
+
+msgid "My cell neighbor keeps me entertained."
+msgstr "我的牢房鄰居讓我不無聊。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "You mean Miss Knives...?"
+msgstr "你是說刀子小姐嗎...？"
+
+msgid "About Miss Knives..."
+msgstr "關於刀子小姐..."
+
+msgid "Are you surprised?"
+msgstr "妳很驚訝嗎？"
+
+msgid "Well... kind of."
+msgstr "那個...有點。"
+
+msgid "She's seen better days."
+msgstr "她之前的狀況比較好。"
+
+msgid "But she'll be fine. She's just like a spider."
+msgstr "不過她會沒事的。她就像是一隻蜘蛛一樣。"
+
+msgid "After a little while, she'll make a new web and entangle everyone in it again."
+msgstr "過一陣子，她就會結出新的網子，然後再次把大家都纏進去。"
+
+msgid "I'm curious to see what it will look like next time."
+msgstr "我對下一次會怎樣感到好奇。"
+
+msgid "Huh."
+msgstr "嗯。"
+
+msgid "I see..."
+msgstr "我明白了..."
+
+msgid "Besides. She does get a visitor every so often."
+msgstr "除此之外。她還偶爾會有訪客。"
+
+msgid "Really?"
+msgstr "真的嗎？"
+
+msgid "Yes. An intriguing one by the name of Red."
+msgstr "是啊。是個名為瑞德的有趣傢伙。"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "Don't look so excited."
+msgstr "別這麼興奮。"
+
+msgid "Red won't be back here anytime soon."
+msgstr "瑞德近期不會回來這裡。"
+
+msgid "I see."
+msgstr "我明白了。"
+
+msgid "Is Red the lighthouse person?"
+msgstr "瑞德是燈塔的人嗎？"
+
+msgid "Yes..."
+msgstr "是啊..."
+
+msgid "Ah, damn."
+msgstr "啊，可惡。"
+
+msgid "Interesting."
+msgstr "真有趣。"
+
+msgid "If the lighthouse is what you're searching for, perhaps this is of use to you."
+msgstr "如果你在找的是燈塔，那麼這對你會有用。"
+
+msgid "Is this... a doorknob to the lighthouse?"
+msgstr "這是...通往燈塔的門把嗎？"
+
+msgid "What remains of it."
+msgstr "它的殘餘物。"
+
+msgid "That's fine, I... I think I know how to fix it."
+msgstr "沒關係，我...我想我知道怎麼修理它。"
+
+msgid "This is a big help, Spider."
+msgstr "真是幫了大忙，蜘蛛。"
+
+msgid "Thank you. I appreciate it, even if it's broken."
+msgstr "謝謝你。就算是壞掉的我也很感謝。"
+
+msgid "Then consider our debts settled."
+msgstr "那就當我們扯平了。"
+
+msgid "Spider seems at peace in its cell."
+msgstr "蜘蛛看起來在牢房中很平靜。"
+
+msgid "Crayons and children's drawings."
+msgstr "蠟筆和小孩子的圖畫。"
+
+msgid "Denomination: G8. Potential: Questionable. Training interrupted."
+msgstr "派別：G8。潛力：存疑。訓練中斷。"
+
+msgid "Requesting installation of an anti-distortion field."
+msgstr "申請安裝反扭曲力場。"
+
+msgid "An old, crusty pillow."
+msgstr "老舊、硬化的枕頭。"
+
+msgid "Denomination: G11. Potential: High. Training ongoing."
+msgstr "派別：G11。潛力：高。訓練進行中。"
+
+msgid "A set of four toy plants."
+msgstr "一套四個的玩具植物。"

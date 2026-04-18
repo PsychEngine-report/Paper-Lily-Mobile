@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A note details how to unclog some pipes..."
+msgstr "寫著如何疏通水管的紙條..."
+
+msgid "...but you have bigger problems right now."
+msgstr "...但是妳現在有更嚴重的問題。"
+
+msgid "A shrine of some sorts."
+msgstr "某種神殿。"
+
+msgid "There's no longer a goldfish inside the bowl."
+msgstr "碗裡面的金魚不見了。"
+
+msgid "The goldfish sits unmoving at the bottom of the bowl."
+msgstr "金魚在碗底一動也不動。"
+
+msgid "The water has turned blood red."
+msgstr "水已經變得血紅。"

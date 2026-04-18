@@ -1,0 +1,744 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Cellphone"
+msgstr "Cep Telefonu"
+
+msgid "My personal phone. Hiro bought it for me."
+msgstr "Benim kişisel telefonum. Hiro benim için aldı."
+
+msgctxt "items.name.ch1.todolist"
+msgid "To-Do List"
+msgstr "Yapılacaklar Listesi"
+
+msgctxt "items.desc.ch1.todolist"
+msgid "A list of things I want to do before I die."
+msgstr "Ölmeden önce yapmak istediğim şeylerin bir listesi."
+
+msgctxt "items.name.ch1.todolist_hidden"
+msgid "To-Do List"
+msgstr "Yapılacaklar Listesi"
+
+msgctxt "items.desc.ch1.todolist_hidden"
+msgid "A list of things I want to do before I die."
+msgstr "Ölmeden önce yapmak istediğim şeylerin bir listesi."
+
+msgid "Red Ribbon"
+msgstr "Kırmızı Kurdele"
+
+msgid "A soft and silky red ribbon."
+msgstr "Yumuşak ve ipeksi kırmızı kurdele"
+
+msgid "Red Thread"
+msgstr "Kırmızı İplik"
+
+msgid "Some red thread from mother's sewing kit. The color matches my scarf."
+msgstr "Annemin dikiş setinden biraz kırmızı iplik. Rengi atkımınkiyle eşleşiyor."
+
+msgid "Red Shoelaces"
+msgstr "Kırmızı Ayakkabı Bağcıkları"
+
+msgid "From the shoe rack. Does something like this count?"
+msgstr "Ayakkabı rafından. Böyle bir şey sayılır mı?"
+
+msgid "Red Paint"
+msgstr "Kırmızı Boya"
+
+msgid "A can of red paint. It's dusty."
+msgstr "Bir kutu kırmızı boya. Tozlu."
+
+msgid "Bird Food"
+msgstr "Kuş Yemi"
+
+msgid "All-Natural Non-GMO Certified Organic Bird Food. It's as expensive as it sounds."
+msgstr "Tamamen Doğal GDO'suz Sertifikalı Organik Kuş Yemi. Kulağa geldiği kadar pahalı."
+
+msgid "Red Marker"
+msgstr "Kırmızı Kalem"
+
+msgid "A non-erasable alcohol-based red marker."
+msgstr "Silinmeyen alkol bazlı kırmızı kalem."
+
+msgid "Lipstick"
+msgstr "Ruj"
+
+msgid "Some red lipstick from mother's makeup set. It says \"Crimson Passion\"."
+msgstr "Annemin makyaj setinden kırmızı ruj. Üzerinde \"Kızıl Tutku\" yazıyor."
+
+msgctxt "items.name.ch1.ritual_instructions"
+msgid "Ritual Letter"
+msgstr "Ritüel Mektubu"
+
+msgctxt "items.desc.ch1.ritual_instructions"
+msgid "The ritual instructions I received."
+msgstr "Aldığım ritüel talimatları."
+
+msgctxt "items.name.ch1.ritual_instructions_hidden"
+msgid "Ritual Letter"
+msgstr "Ritüel Mektubu"
+
+msgctxt "items.desc.ch1.ritual_instructions_hidden"
+msgid "The ritual instructions I received."
+msgstr "Aldığım ritüel talimatları"
+
+msgid "Table Salt"
+msgstr "Sofra Tuzu"
+
+msgid "\"For cooking and baking\". Salt can supposedly ward off spirits and such."
+msgstr "\"Pişirme ve fırınlama için\". Tuzun ruhları ve benzerlerini uzak tuttuğuna inanılır."
+
+msgid "Notebook"
+msgstr "Not Defteri"
+
+msgid "I keep my personal notes and papers I find here."
+msgstr "Burada bulduğum kişisel notlarımı ve evraklarımı saklıyorum."
+
+msgctxt "items.name.ch1.rune_jara"
+msgid "Rune"
+msgstr "Rün"
+
+msgid "A rune stone I bought from a shady online merchant."
+msgstr "Şüpheli bir çevrimiçi satıcıdan satın aldığım bir rün taşı."
+
+msgctxt "items.name.ch1.rune_uruz"
+msgid "Rune"
+msgstr "Rün"
+
+msgctxt "items.desc.ch1.rune_uruz"
+msgid "A rune stone I found."
+msgstr "Bulduğum bir rün taşı."
+
+msgctxt "items.name.ch1.rune_ansuz"
+msgid "Rune"
+msgstr "Rün"
+
+msgctxt "items.desc.ch1.rune_ansuz"
+msgid "A rune stone I found."
+msgstr "Bulduğum bir rün taşı."
+
+msgctxt "items.name.ch1.rune_raidho"
+msgid "Rune"
+msgstr "Rün"
+
+msgctxt "items.desc.ch1.rune_raidho"
+msgid "A rune stone I found."
+msgstr "Bulduğum bir rün taşı."
+
+msgctxt "items.name.ch1.rune_algiz"
+msgid "Rune"
+msgstr "Rün"
+
+msgctxt "items.desc.ch1.rune_algiz"
+msgid "A rune stone I found."
+msgstr "Bulduğum bir rün taşı."
+
+msgid "Blue Sign"
+msgstr "Mavi İşaret"
+
+msgid "It says \"Daylight Gate\"."
+msgstr "\"Gün Işığı Geçidi\" yazıyor."
+
+msgid "Pack of Chips"
+msgstr "Paket Cips"
+
+msgid "Looks like regular potato chips. The brand is literally called \"Harmless Snack\"."
+msgstr "Sıradan patates cipslerine benziyor. Markanın adı \"Zararsız Atıştırmalık\"."
+
+msgid "Chocolate Bar"
+msgstr "Çikolata"
+
+msgid "Looks like a bar of chocolate. The brand is literally called \"Harmless Snack\"."
+msgstr "Çikolata gibi görünüyor. Markanın adı \"Zararsız Atıştırmalık\"."
+
+msgid "Bug Net"
+msgstr "Böcek ağı"
+
+msgid "A bug net Rune gave me. I don't know what I'll do with it."
+msgstr "Rune'un bana verdiği bir böcek ağı. Onunla ne yapacağımı bilmiyorum."
+
+msgid "Empty Lamp"
+msgstr "Boş Lamba"
+
+msgid "The case of a street lamp. It has nothing inside."
+msgstr "Sokak lambasının kabı. İçi boş."
+
+msgid "Lamp with Fireflies"
+msgstr "Ateşböcekli Lamba"
+
+msgid "A street lamp full of fireflies."
+msgstr "İçi ateşböceği dolu bir sokak lambası."
+
+msgid "Empty Jar"
+msgstr "Boş Kavanoz"
+
+msgid "A jar with nothing inside."
+msgstr "İçinde hiçbir şey olmayan bir kavanoz."
+
+msgid "Jar of Fireflies"
+msgstr "Ateşböcekli Kavanoz"
+
+msgid "A jar full of fireflies."
+msgstr "Ateşböceği Dolu Bir Kavanoz"
+
+msgid "Bolt Cutter"
+msgstr "Cıvata Kesici"
+
+msgid "A bolt cutter Rune gave me. Looks strong."
+msgstr "Rün'ün bana verdiği cıvata kesici. Güçlü duruyor."
+
+msgid "Fish"
+msgstr "Balık"
+
+msgid "A fish thing I purchased from a merchant. I don't think I should eat this."
+msgstr "Bir tüccardan aldığım balık şeyi. Bunu yememem gerektiğini düşünüyorum."
+
+msgid "Jar of Slugs"
+msgstr "Sümüklü Böcek Kavanozu"
+
+msgid "A jar of slugs. Heavy."
+msgstr "Sümüklü böcek dolu kavanoz. Oldukça ağır."
+
+msgid "Stone Curse Notes"
+msgstr "Taş Laneti Notları"
+
+msgid "Notes explaining a ritual to remove a \"Stone Curse\"."
+msgstr "\"Taş Lanetini\" kaldırma ritüelini açıklayan notlar."
+
+msgid "Artistic Pot"
+msgstr "Sanatsal Çömlek"
+
+msgid "A pot I found. Hopefully it works as a new head for Kozmo."
+msgstr "Bulduğum bir çömlek. Umarım Kozmo için yeni bir kafa olarak işe yarar."
+
+msgid "Stone Curse Cure"
+msgstr "Taş Laneti Tedavisi"
+
+msgid "A sort of potion I made. It should cure a simple stone curse."
+msgstr "Benim yaptığım bir çeşit iksir. Basit taş lanetlerini kaldırmalı."
+
+msgid "Weird Sculpture"
+msgstr "Garip Heykel"
+
+msgid "A thing I found. I'm almost a bit ashamed of having to give this to Kozmo."
+msgstr "Bulduğum bir şey. Bunu Kozmo'ya vermem gerektiği için biraz utanç duyuyorum."
+
+msgid "Teapot-Shaped Head"
+msgstr "Çaydanlık Şeklinde Kafa"
+
+msgid "It came off the sculptor. It's empty inside."
+msgstr "Heykeltıraştan çıktı. İçi boş."
+
+msgid "Artist's Flower"
+msgstr "Sanatçının Çiçeği"
+
+msgid "It came off the sculptor. It smells good."
+msgstr "Heykeltıraştan çıktı. Güzel kokuyor."
+
+msgid "Cursed Tree Bark"
+msgstr "Lanetli Ağaç Kabuğu"
+
+msgid "A piece I tore off a tree. Allegedly cursed."
+msgstr "Ağaçtan koparttığım bir parça. İddiaya göre lanetli."
+
+msgid "Ink Mushrooms"
+msgstr "Mürekkep Mantarları"
+
+msgid "Black mushrooms."
+msgstr "Siyah mantarlar."
+
+msgid "Lit Candle"
+msgstr "Yanan Mum"
+
+msgctxt "items.desc.ch1.candleman_candle"
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "Heykeltıraşın evindeki heykelden aldığım mum."
+
+msgid "Unlit Candle"
+msgstr "Yanmayan Mum"
+
+msgctxt "items.desc.ch1.candleman_candle_unlit"
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "Heykeltıraşın evindeki heykelden aldığım mum."
+
+msgid "Blue Candle"
+msgstr "Mavi Mum"
+
+msgid "A candle that the candle person gave to me."
+msgstr "Mumcunun bana verdiği bir mum."
+
+msgid "AC Adapter"
+msgstr "AC Adaptörü"
+
+msgid "A power plug adapter. It converts a 3-prong plug for a 2-prong socket."
+msgstr "Bir güç fişi adaptörü. 3 uçlu bir fişi 2 uçlu bir prize dönüştürür."
+
+msgid "Scissors"
+msgstr "Makas"
+
+msgid "A pair of scissors. Pointy!"
+msgstr "Bir makas. Keskin!"
+
+msgid "Padlock Key"
+msgstr "Kilit Anahtarı"
+
+msgid "A key that should open the gate with the warning sign."
+msgstr "Üzerinde uyarı asılı geçidi açacak anahtar."
+
+msgid "Caterpillar"
+msgstr "Tırtıl"
+
+msgid "The moths asked me to get rid of him for a reward."
+msgstr "Güveler benden bir ödül karşılığında ondan kurtulmamı istediler."
+
+msgid "Treasure Hunter's Letter"
+msgstr "Hazine Avcısının Mektubu"
+
+msgid "A letter I found under a statue."
+msgstr "Heykelin altında bulduğım mektup."
+
+msgid "Treasure Hunter's Note 1"
+msgstr "Hazine Avcısının Notu 1"
+
+msgctxt "items.desc.ch1.hunter_note_1"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Bulduğum bir not. Kilitli bölgeden bahsediyor."
+
+msgid "Treasure Hunter's Note 2"
+msgstr "Hazine Avcısının Notu 2"
+
+msgctxt "items.desc.ch1.hunter_note_2"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Bulduğum bir not. Kilitli bölgeden bahsediyor."
+
+msgid "Treasure Hunter's Note 3"
+msgstr "Hazine Avcısının Notu 3"
+
+msgctxt "items.desc.ch1.hunter_note_3"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Bulduğum bir not. Kilitli bölgeden bahsediyor."
+
+msgid "Treasure Hunter's Note 4"
+msgstr "Hazine Avcısının Notu 4"
+
+msgctxt "items.desc.ch1.hunter_note_4"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Bulduğum bir not. Kilitli bölgeden bahsediyor."
+
+msgid "Secret Passage Code"
+msgstr "Gizli Geçid Kodu"
+
+msgid "Contains the code to open the secret passage under Red's house."
+msgstr "Red'in evinin altındaki gizli geçidi açacak kodu barındırıyor."
+
+msgid "Boat Paddle"
+msgstr "Tekne Küreği"
+
+msgid "Perfect for rowing a boat."
+msgstr "Kürek çekmek için mükemmel."
+
+msgid "Injured Bunny"
+msgstr "Yaralı Tavşan"
+
+msgid "It couldn't run away, so now it's in my inventory. Looks like it has a broken leg."
+msgstr "Benden kaçamadı, bu sebeple şu an envanterimde. Kırık bir bacağı var gibi duruyor."
+
+msgid "Lavender Flower"
+msgstr "Lavanta Çiçeği"
+
+msgid "Smells like laundry."
+msgstr "Çamaşır gibi kokuyor."
+
+msgid "Goldfish"
+msgstr "Japon Balığı"
+
+msgid "Dead Goldfish"
+msgstr "Ölü japon balığı."
+
+msgid "Might have been better off where it was."
+msgstr "Olduğu yerde daha iyi olabilirdi."
+
+msgid "Black Algae"
+msgstr "Siyah Yosun"
+
+msgctxt "items.desc.ch1.lakeside_algae_black"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Gölün dibinden tutuğum bir yosun."
+
+msgid "Blue Algae"
+msgstr "Mavi Yosun"
+
+msgctxt "items.desc.ch1.lakeside_algae_blue"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Gölün dibinden tutuğum bir yosun."
+
+msgid "Green Algae"
+msgstr "Yeşil Yosun"
+
+msgctxt "items.desc.ch1.lakeside_algae_green"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Gölün dibinden tutuğum bir yosun."
+
+msgid "Pink Petals"
+msgstr "Pembe Yapraklar"
+
+msgctxt "items.desc.ch1.lakeside_petals_pink"
+msgid "Some flower petals I found."
+msgstr "Bulduğum bazı çiçek yaprakları."
+
+msgid "Purple Petals"
+msgstr "Mor Yapraklar"
+
+msgctxt "items.desc.ch1.lakeside_petals_purple"
+msgid "Some flower petals I found."
+msgstr "Bulduğum bazı çiçek yaprakları."
+
+msgid "White Petals"
+msgstr "Beyaz Yapraklar"
+
+msgctxt "items.desc.ch1.lakeside_petals_white"
+msgid "Some flower petals I found."
+msgstr "Bulduğum bazı çiçek yaprakları."
+
+msgid "Handle (Square)"
+msgstr "Sap (Kare)"
+
+msgid "A purple handle for a valve mechanism. The protrusion is square-shaped."
+msgstr "Bir vana mekanizması için mor bir sap. Çıkıntısı kare şeklinde."
+
+msgid "Handle (Pentagon)"
+msgstr "Sap (Beşgen)"
+
+msgid "A red handle for a valve mechanism. The protrusion is pentagon-shaped."
+msgstr "Bir vana mekanizması için kırmızı bir sap. Çıkıntısı beşgen şeklinde."
+
+msgid "Handle (Star)"
+msgstr "Sap (Yıldız)"
+
+msgid "A yellow handle for a valve mechanism. The protrusion is shaped like a 5-point star."
+msgstr "Bir vana mekanizması için sarı bir sap. Çıkıntısı 5 kenarlı yıldız şeklinde."
+
+msgid "Handle (Diamond)"
+msgstr "Sap (Elmas)"
+
+msgid "A white handle for a valve mechanism. The protrusion is diamond-shaped."
+msgstr "Bir vana mekanizması için Beyaz bir sap. Çıkıntısı elmas şeklinde."
+
+msgid "Fuse (5)"
+msgstr "Sigorta (5)"
+
+msgid "Fuse (10)"
+msgstr "Sigorta (10)"
+
+msgid "Fuse (15)"
+msgstr "Sigorta (15)"
+
+msgid "Fuse (20)"
+msgstr "Sigorta (20)"
+
+msgid "Fuse (25)"
+msgstr "Sigorta (25)"
+
+msgid "Fuse (40)"
+msgstr "Sigorta (40)"
+
+msgid "_____"
+msgstr "_____"
+
+msgid "It's sharp."
+msgstr "Keskin."
+
+msgid "Iron Key"
+msgstr "Demir Anahtar."
+
+msgid "A fairly large metallic key."
+msgstr "Oldukça geniş metal bir anahtar."
+
+msgid "Copper Key"
+msgstr "Bakır Anahtar"
+
+msgid "A regular key. It probably opens a door somewhere."
+msgstr "Sıradan bir anahtar. Muhtemelen bir yerde bir kapıyı açıyordur."
+
+msgid "Bucket"
+msgstr "Kova"
+
+msgid "A metallic bucket. It can transport various liquid substances."
+msgstr "Metal bir kova. Bir çok türde sıvıyı çaşıyabilir."
+
+msgid "Bucket of Water"
+msgstr "Su Kovası"
+
+msgid "A bucket full of water. It's heavy."
+msgstr "İçi su dolu bir kova. Ağır."
+
+msgid "Bucket of Special Water"
+msgstr "Özel Su Dolu Kova"
+
+msgid "A bucket full of water. It comes from a special faucet in the forest."
+msgstr "İçi su dolu bir kova, Ormandaki özel bir musluktan geliyor."
+
+msgid "Flat Screwdriver"
+msgstr "Düz Tornavida"
+
+msgid "A simple screwdriver."
+msgstr "Sıradan bir tornavida."
+
+msgid "Coin"
+msgstr "Para"
+
+msgid "A coin that's not quite like the ones back home."
+msgstr "Evimdekilere benzemeyen bir para."
+
+msgid "Return Doorknob"
+msgstr "Dönüş Kapı Kolu"
+
+msgid "Apparently, this is my ticket back home. I purchased it online."
+msgstr "Görünüşe göre bu evime dönüşümün bileti. Bunu internetten aldım."
+
+msgid "Doorknob With Flower"
+msgstr "Çiçekli Kapı Kolu"
+
+msgid "A doorknob. I found this lying around."
+msgstr "Bir kapı kolu. Yerde buldum."
+
+msgctxt "items.name.ch1.doorknob_library_fragment"
+msgid "Doorknob Fragment"
+msgstr "Kapı Kolu Parçası"
+
+msgctxt "items.desc.ch1.doorknob_library_fragment"
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "Kapı kolu parçaları. Kendi başıma bunları birleştiremem."
+
+msgid "Gray Doorknob"
+msgstr "Gri Kapı Kolu"
+
+msgid "A doorknob. It has the same symbol as my letter."
+msgstr "Bir kapı kolu. Üzerinde mektubumdakiyle aynı sembol var."
+
+msgid "White Doorknob"
+msgstr "Beyaz Kapı Kolu"
+
+msgid "A doorknob. It looks like a white lily."
+msgstr "Bir kapı kolu. Beyaz bir zambak gibi görünüyor."
+
+msgid "Doorknob With Eye"
+msgstr "Gözlü Kapı Kolu"
+
+msgid "A doorknob I got from the moths. Can probably be used at that door with the slots."
+msgstr "Güvelerden aldığım bir kapı kolu. Muhtemelen boş yuvaları olan o kapıda kullanılabilir."
+
+msgctxt "items.name.ch1.doorknob_lighthouse_fragment"
+msgid "Doorknob Fragment"
+msgstr "Kapı Kolu Parçası"
+
+msgctxt "items.desc.ch1.doorknob_lighthouse_fragment"
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "Kapı kolu parçaları. Kendi başıma bunları birleştiremem."
+
+msgid "Paper Lily Folding Steps"
+msgstr "Kağıt Zambak Katlama Adımları"
+
+msgid "Instructions detailing how to fold a piece of paper to look like a lily flower."
+msgstr "Kağıdı katlayarak beyaz zambağa nasıl benzetebileceğini detaylıca anlatan talimatlar."
+
+msgid "Facility Map"
+msgstr "Tesis Haritası"
+
+msgid "A map of the facility, drawn by someone."
+msgstr "Tesisin birisi tarafından çizilmiş haritası."
+
+msgid "Black Knife"
+msgstr "Siyah Bıçak"
+
+msgid "A fully black knife. It's still very sharp."
+msgstr "Tamamen siyah bir bıçak. Hala çok keskin."
+
+msgid "Knife"
+msgstr "Bıçak"
+
+msgid "A knife."
+msgstr "Bir bıçak."
+
+msgid "Human Foot"
+msgstr "İnsan Ayağı"
+
+msgid "A foot that used to belong to someone."
+msgstr "Eskiden birine ait olan bir ayak."
+
+msgid "Sketchbook"
+msgstr "Eskiz Defteri"
+
+msgid "A sketchbook full of colors you splattered all over it."
+msgstr "Üzerine sıçrattığın renklerle dolu bir eskiz defteri."
+
+msgctxt "items.name.ch1.mk_hand_mirror"
+msgid "Black Object"
+msgstr "Siyah Nesne"
+
+msgid "An unknown circular object that's fully black. Feels like wood and glass."
+msgstr "Tamamen siyah olan bilinmeyen dairesel bir nesne. Ahşap ve cam gibi hissettiriyor."
+
+msgid "Hand Mirror"
+msgstr "El Aynası"
+
+msgid "A wooden hand mirror."
+msgstr "Tahta bir el aynası."
+
+msgctxt "items.name.ch1.mk_compress"
+msgid "Black Object"
+msgstr "Siyah Nesne"
+
+msgid "An unknown object that's fully black. Feels like a piece of fabric."
+msgstr "Tamamen siyah olan bilinmeyen bir nesne. Bir parça kumaş gibi hissettiriyor."
+
+msgid "Cold Compress"
+msgstr "Soğuk kompres"
+
+msgid "A wet rag."
+msgstr "Islak bir bez."
+
+msgid "Eyeball"
+msgstr "Göz Küresi"
+
+msgid "An eyeball. The owner seems to have had golden eyes."
+msgstr "Bir göz küresi. Sahibinin altın gözleri varmış gibi görünüyor."
+
+msgid "Small Key"
+msgstr "Küçük Anahtar"
+
+msgid "A small key. Looks like it could belong to a padlock or something similar."
+msgstr "Küçük bir anahtar. Bir asma kilide veya buna benzer bir şeye ait olabilir gibi görünüyor."
+
+msgctxt "items.name.ch1.mk_bedroom_key"
+msgid "Key"
+msgstr "Anahtar"
+
+msgctxt "items.desc.ch1.mk_bedroom_key"
+msgid "A key for something."
+msgstr "Bir şeyin anahtarı."
+
+msgctxt "items.name.ch1.mk_key_wisteria"
+msgid "Key"
+msgstr "Anahtar"
+
+msgctxt "items.desc.ch1.mk_key_wisteria"
+msgid "A key for something."
+msgstr "Bir şeyin anahtarı."
+
+msgid "Glass Jar"
+msgstr "Cam Kavanoz"
+
+msgid "A small glass jar. I found 3 of them."
+msgstr "Küçük cam bir kavanoz. Bunlardan 3 tane buldum."
+
+msgid "Jar of Water"
+msgstr "Su Kavanozu"
+
+msgid "A small glass jar full of water."
+msgstr "İçi su dolu küçük cam bir kavanoz."
+
+msgid "Jar of Red Pigment"
+msgstr "Kırmızı Pigment Kavanozu"
+
+msgid "A small glass jar with red pigment. Needs water."
+msgstr "Kırmızı pigmentli küçük cam bir kavanoz. Suya ihtiyacı var."
+
+msgid "Jar of Yellow Pigment"
+msgstr "Sarı Pigment Kavanozu"
+
+msgid "A small glass jar with yellow pigment. Needs water."
+msgstr "Sarı pigmentli küçük cam bir kavanoz. Suya ihtiyacı var."
+
+msgid "Jar of Blue Pigment"
+msgstr "Mavi Pigment Kavanozu"
+
+msgid "A small glass jar with blue pigment. Needs water."
+msgstr "Mavi pigmentli küçük cam bir kavanoz. Suya ihtiyacı var."
+
+msgid "Jar of Red Paint"
+msgstr "Kırmızı Boya Kavanozu"
+
+msgid "A small glass jar with red paint."
+msgstr "Kırmızı boyalı küçük bir cam kavanoz."
+
+msgid "Jar of Yellow Paint"
+msgstr "Sarı Boya Kavanozu"
+
+msgid "A small glass jar with yellow paint."
+msgstr "Sarı boyalı küçük bir cam kavanoz."
+
+msgid "Jar of Blue Paint"
+msgstr "Mavi Boya Kavanozu"
+
+msgid "A small glass jar with blue paint."
+msgstr "Mavi boyalı küçük bir cam kavanoz."
+
+msgid "Lighter"
+msgstr "Çakmak"
+
+msgid "A lighter."
+msgstr "Bir çakmak"
+
+msgid "Lock Pick"
+msgstr "Maymuncuk"
+
+msgid "A lock pick. I don't know how to use this..."
+msgstr "Bir maymuncuk. Nasıl kullanacağımı bilmiyorum..."
+
+msgid "Rainbow Potion"
+msgstr "Gökkuşağı İksiri"
+
+msgid "A strange potion. I wonder what it does..."
+msgstr "Garip bir iksir. Ne yapıyor merak ediyorum..."
+
+msgid "Temp. Rainbow Potion"
+msgstr "Geçici. Gökkuşağı İksiri"
+
+msgid "A strange potion that Spider directed me to. It has a shorter duration than the original one."
+msgstr "Örümcek'in bana yönlendirdiği garip bir iksir. Etkisi orijinalinden daha kısa sürüyor."
+
+msgid "Lily"
+msgstr "Zambak"
+
+msgid "A lily. I'm supposed to bring it home with me."
+msgstr "Bir zambak. Yanımda eve götürmem gerek."
+
+msgid "Flower"
+msgstr "Çiçek"
+
+msgid "Sewing Kit"
+msgstr "Dikiş Takımı"
+
+msgid "Cabbage"
+msgstr "Lahana"
+
+msgid "Red Item I"
+msgstr "Kırmızı Eşya I"
+
+msgctxt "items.desc.global.reditem_1"
+msgid "A red item. I can't tell what it is."
+msgstr "Kırmızı eşya. Ne olduğunu söyleyemiyorum."
+
+msgid "Red Item II"
+msgstr "Kırmızı Eşya II"
+
+msgctxt "items.desc.global.reditem_2"
+msgid "A red item. I can't tell what it is."
+msgstr "Kırmızı eşya. Ne olduğunu söyleyemiyorum."
+
+msgid "Red Item III"
+msgstr "Kırmızı Eşya III"
+
+msgctxt "items.desc.global.reditem_3"
+msgid "A red item. I can't tell what it is."
+msgstr "Kırmızı eşya. Ne olduğunu söyleyemiyorum"

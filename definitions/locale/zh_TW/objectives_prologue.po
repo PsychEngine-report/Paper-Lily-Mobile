@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Explore your surroundings"
+msgstr "探索週遭"
+
+msgid "I woke up in a strange garden. Where am I?"
+msgstr "我在一座古怪的花園中醒來。我在哪裡？"
+
+msgid "Check your notes to refresh your memory"
+msgstr "檢查妳的筆記來確認一下記憶"
+
+msgid "I should go over my ritual notes to make sure I don't forget anything."
+msgstr "我應該先讀過一次我的儀式筆記以確保我沒忘記任何東西。"
+
+msgid "Gather items for the ritual"
+msgstr "收集儀式用品"
+
+msgid "I should gather everything I'll need for the ritual first."
+msgstr "我應該先收集所有儀式所需物品。"
+
+msgid "Chalk"
+msgstr "粉筆"
+
+msgid "This is a school - surely I can find chalk here."
+msgstr "這裡是學校 - 一定找得到粉筆吧。"
+
+msgid "Candles"
+msgstr "蠟燭"
+
+msgid "I brought some from home."
+msgstr "我從家裡帶了一些來。"
+
+msgid "A tuft of hair"
+msgstr "一束頭髮"
+
+msgid "It has to be human hair."
+msgstr "必須是人的頭髮。"
+
+msgid "A rune"
+msgstr "符石"
+
+msgid "My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there."
+msgstr "我朋友說超自然研究社有一些符石在社辦裡。我需要一顆用來舉行儀式，所以我應該去那裡找找。"
+
+msgid "Find a way to open the box with the runes"
+msgstr "想辦法打開裝著符石的箱子"
+
+msgid "I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick."
+msgstr "我在超自然研究社找到了裝著符石的箱子，但是它被膠帶封起來了- 任何尖銳的物品都可以。"
+
+msgid "Sort the desks in all three classrooms"
+msgstr "在一共三間教室中排好桌子"
+
+msgid "According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms."
+msgstr "依據儀式的說明，我需要把一共三間教室的桌子移開。"
+
+msgid "Shut the curtains in all three classrooms"
+msgstr "在一共三間教室中關上窗簾"
+
+msgid "According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut."
+msgstr "依據儀式的說明，我需要讓一共三間教室越暗越好，所以窗簾必須關上。"
+
+msgid "Find a curtain to replace the missing one in Classroom 3-B"
+msgstr "找到用來替換在 3-B 教室遺失的窗簾"
+
+msgid "I can't shut all the curtains if one of them is missing. I need to find something to cover that window."
+msgstr "因為其中一個窗簾不見了所以無法完全關上。我必須找個東西來遮住窗戶。"
+
+msgid "Find a way into the Theater Club room"
+msgstr "想辦法進入話劇社辦"
+
+msgid "I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in."
+msgstr "我相當確定我能在話劇社辦找到一些窗簾，但是它被鎖起來了。我需要想辦法進去。"
+
+msgid "Retrieve the girl's notebook"
+msgstr "取回女孩的筆記本"
+
+msgid "One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it."
+msgstr "其中一個女孩把她的筆記本忘在 3-C 教室了。如果我找到它，她應該會把話劇社辦鑰匙借給我。她說不要看裡面。"
+
+msgid "Finalize ritual preparations"
+msgstr "完成儀式準備"
+
+msgid "Finally, I need to set candles, and draw a path with chalk in all 3 classrooms."
+msgstr "最後，我必須設置好蠟燭，然後用粉筆在三間教室中用粉筆畫出一條路徑。"
+
+msgid "Draw a path with chalk in all 3 classrooms"
+msgstr "在一共三間教室中用粉筆畫出一條路徑"
+
+msgid "I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it."
+msgstr "我需要用粉筆畫出連接三間教室的路徑。我畫的圖應該能幫助我確認形狀。"
+
+msgid "Set and light candles in the middle room"
+msgstr "在中間的教室放置並點亮蠟燭"
+
+msgid "I need to set and light the candles on top of all the desks in classroom 3-B."
+msgstr "我需要在 3-B 教室所有的桌子上放置並點亮蠟燭。"
+
+msgid "Burn the hair tuft on a candle"
+msgstr "在其中一個蠟燭上燒掉髮束"
+
+msgid "Preparations are complete. Let's burn the hair tuft on a candle to start the ritual."
+msgstr "準備完成。在其中一個蠟燭上燒掉髮數來開始儀式吧。"
+
+msgid "Explore the strange place"
+msgstr "探索這個奇怪的地方"
+
+msgid "I arrived at a mysterious location, let's take a look around!"
+msgstr "我抵達了一個神祕的地方，來四處看看吧！"
+
+msgid "Escape this cursed place"
+msgstr "逃離這受詛咒的地方"
+
+msgid "This isn't fun anymore. I need to find a way back!"
+msgstr "不好玩了。我需要想辦法回去！"
+
+msgid "Go home"
+msgstr "回家"
+
+msgid "I'm going home. Maybe I'll finish the ritual some other time."
+msgstr "我要回家了。也許我之後有機會完成儀式。"
+
+msgid "Test your theory"
+msgstr "測試妳的理論"
+
+msgid "If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case... right?"
+msgstr "如果我真的被困在迴圈中，那麼這個 X 記號還會在我上下樓後出現。但是這不可能...吧？"

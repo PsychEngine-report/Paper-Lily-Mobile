@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "..."
+
+msgid "Aoi, stay close."
+msgstr "Aoi, fique por perto."
+
+msgid "Okay..."
+msgstr "Ok."
+
+msgid "There's no point in seasoning them."
+msgstr "Não adianta temperá-los."
+
+msgid "Whacha doing?"
+msgstr "O que você está fazendo?"
+
+msgid "Uh... Nothing."
+msgstr "Uh... Nada."
+
+msgid "(Does salt not work on all demons...?)"
+msgstr "(O sal não funciona com todos os demônios...?)"
+
+msgid "Better not to."
+msgstr "Melhor não fazer isso."
+
+msgid "Don't do that!"
+msgstr "Não faça isso!"
+
+msgid "Sorry... Uh..."
+msgstr "Desculpe... ah..."
+
+msgid "What if its body comes here... if you stab it?"
+msgstr "E se o corpo dele vier aqui... se você o esfaquear?"
+
+msgid "Why would that happen?"
+msgstr "Por que isso aconteceria?"
+
+msgid "I don't know... I don't want to risk it."
+msgstr "Não sei... não quero arriscar."
+
+msgid "...Fair enough."
+msgstr "...Justo."
+
+msgid "(Better not do that.)"
+msgstr "(Melhor não fazer isso.)"
+
+msgid "(This little plant is the only thing standing between us and those fairy heads...)"
+msgstr "(Esta plantinha é a única coisa que fica entre nós e aquelas cabeças de fada...)"
+
+msgid "A fairy head, or something."
+msgstr "Uma cabeça de fada ou algo assim."
+
+msgid "Its mouth is wide open..."
+msgstr "Sua boca está bem aberta..."
+
+msgid "Its nostrils are weird."
+msgstr "Suas narinas são estranhas."
+
+msgid "Its eyes look creepy..."
+msgstr "Seus olhos parecem assustadores..."
+
+msgid "Another one of those plants."
+msgstr "Mais uma daquelas plantas."

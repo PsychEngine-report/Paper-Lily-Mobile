@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's probably no point, this one didn't even do anything."
+msgstr "Muhtemelen bunu yapmanın anlamı yok, bu hiçbir işe yaramadı bile."
+
+msgid "Nothing good can come out of stabbing every single plant you see."
+msgstr "Gördüğün her bitkiyi bıçaklamaktan iyi bir şey çıkmaz."
+
+msgid "(Is this plant eating something... or someone?)"
+msgstr "(Bu bitki bir şey mi yiyor yoksa... birini mi?)"
+
+msgid "(Should I really risk opening it?)"
+msgstr "(Gerçekten bunu açma riskini almalı mıyım?)"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "(Probably best not to...)"
+msgstr "(Muhtemelen açmamak en iyisi...)"
+
+msgid "(It's a person.)"
+msgstr "(Bu bir insan.)"
+
+msgid "(Are they... alright? They seem asleep.)"
+msgstr "(O... iyi mi? Uyuyor gibi görünüyor.)"
+
+msgid "(Wait... that might be a demon. Maybe I'd better leave them alone.)"
+msgstr "(Bekle... bir iblis olabilir. Onu yalnız bıraksam iyi olur.)"
+
+msgid "(Well... I'll look around while they wake up.)"
+msgstr "(Peki... O uyanana kadar etrafa bakınacağım.)"
+
+msgid "AH!"
+msgstr "AH!"
+
+msgid "...!?"
+msgstr "...!?"
+
+msgid "Ahh... AHH!"
+msgstr "Ahh... AHH!"
+
+msgid "Get it off get it off get it off!!!"
+msgstr "Git git git!!!"
+
+msgid "Oh god... oh god... gaaaah!"
+msgstr "Ah Tanrım... Tanrım... aaaah!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...!"
+msgstr "..!"
+
+msgid "Did you just save me?!?"
+msgstr "Sen az önce beni mi kurtardın?!?"
+
+msgid "Everything was so dark and so gross, I thought I was gonna die for real this time!"
+msgstr "Her şey çok karanlık ve iğrençti. Bu sefer gerçekten öleceğim sandım!"
+
+msgid "That gooey stuff was eating away at my skin, it's so itchy, uuugh I still feel it!!!"
+msgstr "O vıcık vıcık şey derimi kemiriyordu, çok kaşındırıyor, hala hissedebiliyorum!!!"
+
+msgid "I don't want it to eat me!!!"
+msgstr "O şeyin beni yemesini istemiyorum!!!"
+
+msgid "Oh god, I didn't plan to get digested today, this is NOT how I pictured my death!"
+msgstr "Oh Tanrım, bugün sindirilmeyi planlamamıştım, ölümümü BÖYLE hayal etmiyordum!"
+
+msgid "WHAT IS THIS PLACE?!?"
+msgstr "BU YER DE NE BÖYLE?!?"
+
+msgid "Oh."
+msgstr "Oh."
+
+msgid "Hahaha no..."
+msgstr "Hahaha hayır..."
+
+msgid "We're in the fairy ring aren't we?!"
+msgstr "Biz peri çemberindeyiz değil mi?!"
+
+msgid "Noooo! There's no way to get out of here!!"
+msgstr "Hayııır! Buradan çıkmanın yolu yok!!"
+
+msgid "This is it. WE'RE DEAD!"
+msgstr "Bu kadarmış. ÖLDÜK BİZ!"
+
+msgid "I might as well go back in the plant, at least it will be faster."
+msgstr "Belki de bitkiye geri dönmeliyim, en azından daha hızlı olur."
+
+msgid "Nooo I don't want it to end this way!!!"
+msgstr "Hayııır bu şekilde bitsin istemiyorum!!!"
+
+msgid "Hey."
+msgstr "Hey."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...?"
+msgstr "..?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "Cut it off."
+msgstr "Kes şunu."
+
+msgid "...W-what...?"
+msgstr "...N-ne..?"
+
+msgid "I said: cut it off."
+msgstr "Kes şunu dedim."
+
+msgid "Ah, s-sorry..."
+msgstr "Ah, ü-üzgünüm..."
+
+msgid "(Is that supposed to be... a joke?)"
+msgstr "(Bunun bir şaka mı olması gerekiyordu?)"
+
+msgid "You know, I'm actually okay with dying."
+msgstr "Bilirsin, aslında ölmeye razıyım."
+
+msgid "But I feel like being eaten alive isn't really the way to go, you know?"
+msgstr "Ama canlı canlı yenmek pekte doğru yol değil gibi, anlarsın ya."
+
+msgid "I see... I guess so."
+msgstr "Anlıyorum... Sanırım."
+
+msgid "My name's Aoi."
+msgstr "Benim adım Aoi."
+
+msgid "...I see."
+msgstr "...peki."
+
+msgid "Lacie."
+msgstr "Lacie."
+
+msgid "Hehe... Were you trapped in one of those things too?"
+msgstr "Hehe... Sende o şeylerden birinde mahsur mu kaldın?"
+
+msgid "Yeah."
+msgstr "Evet."
+
+msgid "How'd you get out?"
+msgstr "Nasıl çıktın?"
+
+msgid "${item:ch1.scissors}."
+msgstr "${item:ch1.scissors}."
+
+msgid "Whoa."
+msgstr "Vay be."
+
+msgid "If I get out of here I'll always carry scissors on me!"
+msgstr "Eğer buradan çıkarsam yanımda her zaman makas taşıyacağım!"
+
+msgid "I promise you-"
+msgstr "Sana söz veriyorum-"
+
+msgid "No!"
+msgstr "Hayır!"
+
+msgid "I SWEAR to you."
+msgstr "Sana YEMİN ediyorum."
+
+msgid "O-okay..."
+msgstr "T-tamam..."
+
+msgid "(What am I supposed to say to that...?)"
+msgstr "(Buna ne demeliyim ki..?)"
+
+msgid "So um..."
+msgstr "Yani şey..."
+
+msgid "H-how do we get out..."
+msgstr "Nasıl çıkacağız..?"
+
+msgid "I don't know."
+msgstr "Bilmiyorum."
+
+msgid "WE'RE ABSOLUTELY NEVER GETTING OUT WHAT ARE WE GOING TO DO!?!"
+msgstr "BURADAN KESİNLİKLE ÇIKAMAYACAĞIZ NE YAPACAĞIZ ŞİMDİ?!?"
+
+msgid "Should I go back and get eaten by that plant instead?"
+msgstr "Geri dönüp bitkiye yem mi olsam?"
+
+msgid "That might actually be better than losing my mind as I walk endlessly through this hellish place..."
+msgstr "Bu cehennemimsi yerde sonsuza kadar yürümekten daha iyi olabilir..."
+
+msgid "Can you imagine it???"
+msgstr "Hayal edebiliyor musun???"
+
+msgid "We would go insane!"
+msgstr "Delireceğiz!"
+
+msgid "I hear the fairy ring slowly digests you, even if you're not caught in a plant."
+msgstr "Duydum ki bir bitkiye yakalanmasan bile peri çemberi seni yavaş yavaş sindirirmiş."
+
+msgid "Eventually the skin on our feet will start chipping away from walking through this visceral floor."
+msgstr "En sonunda ayak derimiz bu organımsı zeminde yürümekten parçalanmaya başlayacak."
+
+msgid "Then we'll start crawling, when our feet no longer work, hoping for the sweet release of death."
+msgstr "Sonra ayaklarımız işe yaramaz hale geldiğinde ölümün tatlı kurtuluşunu umarak sürünmeye başlayacağız."
+
+msgid "We might even wind up eating each other..."
+msgstr "Birbirimizi yemeye bile başlayabiliriz..."
+
+msgid "Aoi."
+msgstr "Aoi."
+
+msgid "R-right..."
+msgstr "H-haklısın..."
+
+msgid "Sorry."
+msgstr "Üzgünüm."
+
+msgid "I'll look around first."
+msgstr "Önce etrafa bakacağım."
+
+msgid "I want to take another look at the next room."
+msgstr "Yan odaya tekrar bakmak istiyorum."
+
+msgid "I haven't even left this room yet."
+msgstr "Daha bu odadan çıkmadım bile."
+
+msgid "OKAY!"
+msgstr "TAMAM!"
+
+msgid "Can I follow you?"
+msgstr "Seninle gelebilir miyim?"
+
+msgid "No thank you."
+msgstr "Hayır teşekkürler."
+
+msgid "Y-you'll leave me alone?!"
+msgstr "B-beni yalnız mı bırakacaksın?!"
+
+msgid "Please let me come with you, I promise I'll be useful!"
+msgstr "Lütfen gelmeme izin ver, işine yarayacağım söz veriyorum!"
+
+msgid "...uh..."
+msgstr "...uh..."
+
+msgid "PLEASE!!!"
+msgstr "LÜTFEN!!!"
+
+msgid "Okay... okay."
+msgstr "Peki... tamam."
+
+msgid "(It's probably a bad idea, but...)"
+msgstr "(Muhtemelen kötü bir fikir, ama...)"
+
+msgid "(This... boy... or girl? They don't seem dangerous.)"
+msgstr "(Bu... erkek... ya da kız? Tehlikeli görünmüyor.)"
+
+msgid "(Maybe it's best not to be alone in this place.)"
+msgstr "(Belki de burada yalnız olmamak en iyisidir.)"
+
+msgid "...Yes, I don't see why not."
+msgstr "...Evet, neden olmasın."
+
+msgid "Yay!"
+msgstr "Oley!"
+
+msgid "I promise I'll be useful!"
+msgstr "Söz veriyorum işine yarayacağım!"
+
+msgid "Sure. Pleased to make your acquaintance."
+msgstr "Elbette. Tanıştığıma memnun oldum."
+
+msgid "(I wonder if this girl... or boy... can help me with my problem.)"
+msgstr "(Merak ediyorumda bu kız... ya da erkek... bana sorunumu çözmemde yardımcı olabilir mi.)"
+
+msgid "(Were they... melting? They might be a spirit or something...)"
+msgstr "(Onlar... eriyor mu? Ruh falan olabilirler...)"
+
+msgid "(For now, let's focus on getting out of this place.)"
+msgstr "(Şimdilik buradan çıkmaya odaklanalım.)"
+
+msgid "There's no one else to rescue in there."
+msgstr "Orada kurtarılacak başka kimse yok."
+
+msgid "It probably learned its lesson, I think."
+msgstr "Muhtemelen dersini almıştır diye düşünüyorum."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plants.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "Çeşitli bitkiler, seni yakalayana benziyor."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_aoi.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "Çeşitli bitkiler, seni yakalayana benziyor."
+
+msgid "This one seems to be digesting something..."
+msgstr "Bir şeyi sindiriyor gibi görünüyor."
+
+msgid "The thing that almost ate Aoi. It's wide open."
+msgstr "Aoi'yi neredeyse yiyen şey. Tamamen açık."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "İçinde sıkışıp kaldığım bitki."
+
+msgid "It's not nice in there."
+msgstr "İçi pek hoş değil."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine_aoi.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "İçinde sıkışıp kaldığım bitki."
+
+msgid "Does this even classify as a plant?"
+msgstr "Bu şey bitki bile sayılır mı?"
+
+msgid "Not sure..."
+msgstr "Emin değilim..."
+
+msgid "It kinda looks like one."
+msgstr "Bitkiyi andırıyor."

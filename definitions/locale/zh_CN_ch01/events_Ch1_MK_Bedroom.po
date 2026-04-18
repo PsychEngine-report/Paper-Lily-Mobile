@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The box remains locked..."
+msgstr "盒子仍然锁着..."
+
+msgid "The box opens!"
+msgstr "盒子打开了！"
+
+msgid "There's a key inside."
+msgstr "里面有一把钥匙。"
+
+msgid "There's some kind of black rag here."
+msgstr "这有条漆黑的抹布。"
+
+msgid "Take ${item:ch1.mk_compress}?"
+msgstr "要拿走${item:ch1.mk_compress}吗？"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Bedroom.item_compress_get.choice.Take ${item:ch1.mk_compress}?"
+msgid "No"
+msgstr "否"
+
+msgid "A large basket filled with toys."
+msgstr "一个装满玩具的大篮子。"
+
+msgid "What is all of this..?"
+msgstr "这些都是什么..？"
+
+msgid "Any remote-controlled cars or stuff in there?"
+msgstr "里面有遥控汽车之类的东西吗？"
+
+msgid "Mmm... no."
+msgstr "呃...没有。"
+
+msgid "That's oddly specific."
+msgstr "那也太奇怪了吧。"
+
+msgid "They're fun."
+msgstr "但是很好玩啊。"
+
+msgid "An oversized bed."
+msgstr "一张过大的床。"
+
+msgid "(This bed is too large, even for that demon.)"
+msgstr "（即使是对于恶魔来说，这张床也太大了。）"
+
+msgid "Wow, what a luxury."
+msgstr "哇，真豪华啊。"
+
+msgid "There's nothing else in the box."
+msgstr "盒子里已经没有东西了。"
+
+msgid "There's a box on top of the vanity table. It uses a combination lock."
+msgstr "梳妆台顶上有个盒子。用的是密码锁。"
+
+msgid "(There's a drawing of a key on the box...)"
+msgstr "（盒子上面画着一把钥匙...）"
+
+msgid "Try to unlock the box?"
+msgstr "要试图打开这个盒子吗？"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Bedroom.misc_box.choice.Try to unlock the box?"
+msgid "No"
+msgstr "否"
+
+msgid "A simple coat hanger."
+msgstr "一个简易衣架。"
+
+msgid "A small bedside table."
+msgstr "一张小床头柜。"
+
+msgid "(It's clearly too small, especially for this bed.)"
+msgstr "（显然，这个太小了，尤其是对这张床来说。）"
+
+msgid "A vanity table. The drawers are filled with several cosmetics."
+msgstr "梳妆台。抽屉里装满了各种化妆品。"
+
+msgid "Why bother with makeup if you look like a monster?"
+msgstr "如果你看起来像个怪物的话，那为什么还要化妆呢？"
+
+msgid "That's not nice."
+msgstr "这么说不好吧。"
+
+msgid "She locked me in a cage."
+msgstr "可她都把我锁进笼子里了。"
+
+msgid "I'd say she's not nice."
+msgstr "我说她就是不好。"
+
+msgid "A painting of a window."
+msgstr "一幅窗户的画像。"
+
+msgid "Must be stuffy in here without any actual windows."
+msgstr "这里没有窗户，一定很闷。"

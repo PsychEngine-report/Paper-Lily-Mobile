@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's curtains where the driver should be."
+msgstr "奥に運転手がいるはずのカーテン。"
+
+msgid "Take a look behind the curtains?"
+msgstr "カーテンの奥を見る？"
+
+msgid "Yes"
+msgstr "見る"
+
+msgid "No"
+msgstr "見ない"
+
+msgid "There's no one there, just an empty driver's seat."
+msgstr "誰もいない。無人の運転席だけだ。"
+
+msgid "There's nobody behind the curtains."
+msgstr "カーテンの奥には誰もいない。"
+
+msgid "My seat."
+msgstr "私の座席。"
+
+msgid "It's too dark to see out the window."
+msgstr "暗くて窓の外は見えない。"
+
+msgid "Uhm... where am I?"
+msgstr "うーん……ここ、どこ？"

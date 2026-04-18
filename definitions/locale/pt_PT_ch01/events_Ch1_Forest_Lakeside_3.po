@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It seems to like the white tree."
+msgstr "Parece que gosta da árvore branca."
+
+msgid "Take ${item:ch1.doorknob_grave}?"
+msgstr "Levar a ${item:ch1.doorknob_grave}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Fallen white leaves surround the tree."
+msgstr "A árvore está rodeada de folhas brancas caídas."
+
+msgid "Take some ${item:ch1.lakeside_petals_white}?"
+msgstr "Levar algumas ${item:ch1.lakeside_petals_white}?"
+
+msgid "A wooden log."
+msgstr "Um tronco de madeira."
+
+msgid "It's too short to use as a bridge."
+msgstr "É demasiado curto para servir de ponte."
+
+msgid "I could use this to cross the river..."
+msgstr "Posso usar isto para atravessar o rio..."
+
+msgid "Push it into the water?"
+msgstr "Empurrar para a água?"
+
+msgid "Something's weird about this spot, but you don't know what it is."
+msgstr "Há algo de estranho neste sítio, mas não sabes o que é."
+
+msgid "It's just trees... right?"
+msgstr "São só árvores... não é?"
+
+msgid "The passage is camouflaged."
+msgstr "A passagem está camuflada."
+
+msgid "There's no way to open it from this side."
+msgstr "Não há forma de a abrir deste lado."
+
+msgid "A beautiful tree with white leaves."
+msgstr "Uma bela árvore com folhas brancas."
+
+msgid "It's too far to jump."
+msgstr "É demasiado longe para saltar."
+
+msgid "The river fades into obscurity."
+msgstr "O rio desvanece-se na escuridão."
+
+msgid "White leaves cover the ground."
+msgstr "Folhas brancas cobrem o chão."

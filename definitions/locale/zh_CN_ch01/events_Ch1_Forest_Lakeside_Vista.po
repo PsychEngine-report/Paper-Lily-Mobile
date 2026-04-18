@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a paddle here."
+msgstr "这里有一只船桨。"
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "要带走${item:ch1.forest_paddles}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "No"
+msgstr "否"
+
+msgid "The pier ends here."
+msgstr "码头到此结束了。"
+
+msgid "Some purple flowers."
+msgstr "一些紫色的花。"
+
+msgid "They're growing abundantly between these rocks."
+msgstr "它们在这些岩石间生长得很茂盛。"
+
+msgid "Take some ${item:ch1.lakeside_petals_purple}?"
+msgstr "要取走一些${item:ch1.lakeside_petals_purple}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_purple}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_purple}?"
+msgid "No"
+msgstr "否"
+
+msgid "A large structure looms over the lake in the distance."
+msgstr "远处的湖面上，一座大型建筑若隐若现。"
+
+msgid "What is that place..?"
+msgstr "那是什么地方..？"
+
+msgid "..."
+msgstr "..."
+
+msgid "Hmm... I can't see the lighthouse from here."
+msgstr "嗯...我从这里看不见灯塔。"
+
+msgid "It might be beyond those trees."
+msgstr "它可能就在那些树后面。"
+
+msgid "Oh well."
+msgstr "哦，好吧。"

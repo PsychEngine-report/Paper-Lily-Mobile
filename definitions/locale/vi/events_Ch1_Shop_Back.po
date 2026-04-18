@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The little girl is swaying slowly."
+msgstr "Cô gái bé nhỏ đang thong thả đu đưa người."
+
+msgid "Hello."
+msgstr "Xin chào."
+
+msgctxt "events.Ch1_Shop_Back.event_shadowgirl.dlg.shadowgirl"
+msgid "..."
+msgstr "..."
+
+msgid "Um.... What do you do here?"
+msgstr "Ừm... Cậu làm gì ở đây?"
+
+msgctxt "events.Ch1_Shop_Back.event_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "Is she... giving me something?"
+msgstr "Cậu ấy tính... tặng mình thứ gì à?"
+
+msgid "Oh... Thank you."
+msgstr "Ồ... Cám ơn."
+
+msgid "I guess."
+msgstr "Chắc thế nhỉ."
+
+msgctxt "events.Ch1_Shop_Back.item_bunny_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "(The shadow girl happily takes the bunny off your hands.)"
+msgstr "(Cô gái bóng vui vẻ nhận lấy chú thỏ con khỏi tay bạn.)"
+
+msgctxt "events.Ch1_Shop_Back.item_caterpillar_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "(The shadow girl lovingly takes the caterpillar from you.)"
+msgstr "(Cô gái bóng âu yếm nhận lấy chú sâu khỏi bạn.)"
+
+msgctxt "events.Ch1_Shop_Back.item_fireflies_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "(The shadow girl happily accepts the fireflies.)"
+msgstr "(Cô gái bóng vui vẻ nhận lấy mấy con đom đóm.)"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "(The shadow girl takes the fragment and looks up at you.)"
+msgstr "(Cô gái bóng nhận lấy mảnh vụn rồi ngước nhìn bạn.)"
+
+msgid "...? ...?"
+msgstr "...? ...?"
+
+msgid "Oh... I don't have any more pieces than that one..."
+msgstr "À... Ngoài cái đó ra tôi không có mảnh nào khác đâu."
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.shadowgirl"
+msgid "... ..."
+msgstr "... ..."
+
+msgid "(The shadow girl returns the fragment to you with a sad expression.)"
+msgstr "(Cô gái bóng trả mảnh vụn lại cho bạn với vẻ mặt buồn bã.)"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.narrator"
+msgid "(The shadow girl takes the fragments from you.)"
+msgstr "(Cô gái bóng nhận lấy mấy mảnh vụn khỏi bạn.)"
+
+msgid "(After a few seconds, she returns them to you.)"
+msgstr "(Sau vài giây, cô gái trả lại chúng cho bạn.)"
+
+msgid "Oh... I'm still missing a piece, am I not...?"
+msgstr "Ồ... Tôi vẫn thiếu một mảnh đúng không...?"
+
+msgid "Sorry for bothering you."
+msgstr "Xin lỗi vì làm phiền cậu."
+
+msgid "(With some effort, she fits them together and returns them to you.)"
+msgstr "(Bằng chút công sức, cô gái ráp chúng lại với nhau rồi trả lại cho bạn.)"
+
+msgid "Thank you, I appreciate it."
+msgstr "Cảm ơn cậu vô cùng nha."
+
+msgid "Various colorful liquids and drinks are stored on the shelf."
+msgstr "Trên kệ chứa nhiều đồ uống và chất dịch màu mè đủ loại."
+
+msgid "Some papers with opening hours and upcoming shop discounts."
+msgstr "Vài tờ giấy ghi giờ mở cửa và các đợt giảm giá sắp tới của tiệm."
+
+msgid "There's a... shadow of a girl sitting on the other side of the desk."
+msgstr "Có... cái bóng của một cô gái đang ngồi ở đằng bên kia cái bàn."
+
+msgid "She doesn't seem much for conversation."
+msgstr "Cô bé trông không có vẻ ưa nói chuyện lắm."
+
+msgid "\"CLOSED. DO NOT ENTER\" is marked on the sign."
+msgstr "\"ĐÓNG CỬA. KHÔNG ĐƯỢC VÀO\" được viết trên tấm biển."
+
+msgid "The door is locked."
+msgstr "Cánh cửa bị khóa rồi."

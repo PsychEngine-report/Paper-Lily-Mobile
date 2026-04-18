@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Battle"
+msgstr "Dövüş"
+
+msgid "Move around to avoid the spikes!"
+msgstr "Dikenlerden kaçmak için etrafından dolan!"
+
+msgid "Minigame: Box Puzzle"
+msgstr "Mini oyun: Kutu Bulmacası"
+
+msgid "Push the desks into the green zones to complete the puzzle"
+msgstr "Bulmacayı çözmek için masaları yeşil alanlara it"
+
+msgid "Documents"
+msgstr "Belgeler"
+
+msgid "Your papers and notes are stored in the notebook in your inventory."
+msgstr "Yazıların ve notların envanterindeki not defterin'de saklanır."
+
+msgid "Hiding"
+msgstr "Saklanmak"
+
+msgid "Hide in the bushes with {0} to avoid being caught."
+msgstr "Çalılarda saklanmak için {0}."
+
+msgctxt "tutorials.name.interaction"
+msgid "Interacting"
+msgstr "Etkileşime geçmek."
+
+msgctxt "tutorials.text.interaction"
+msgid "Press {0} to interact with the environment"
+msgstr "Etrafla etkileşime geçmek için {0} bas"
+
+msgctxt "tutorials.name.interaction_lacie"
+msgid "Interacting"
+msgstr "Etkileşime geç."
+
+msgctxt "tutorials.text.interaction_lacie"
+msgid "Press {0} to interact with the environment"
+msgstr "Etrafla etkileşime geçmek için {0} bas"
+
+msgctxt "tutorials.name.itemuse"
+msgid "Using Items"
+msgstr "Eşya kullan"
+
+msgid "To use an item, stand close and select the item from the menu ({0})"
+msgstr "Eşya kullanmak için, yakın dur ve menüden eşya seç ({0}) "
+
+msgctxt "tutorials.name.itemuse_lacie"
+msgid "Using Items"
+msgstr "Eşya kullan"
+
+msgid "To use an item, stand close and select the item from the menu"
+msgstr "Eşya kullanmak için, yakın dur ve menüden eşya seç"
+
+msgctxt "tutorials.name.menu"
+msgid "Opening the Menu"
+msgstr "Menüyü aç"
+
+msgctxt "tutorials.text.menu"
+msgid "Press {0} to open the menu and see your items"
+msgstr "{0} ile menüyü açıp eşyalarını görebilirsin"
+
+msgctxt "tutorials.name.menu_lacie"
+msgid "Opening the Menu"
+msgstr "Menüyü aç"
+
+msgctxt "tutorials.text.menu_lacie"
+msgid "Press {0} to open the menu and see your items"
+msgstr "{0} ile menüyü açıp eşyalarını görebilirsin"
+
+msgctxt "tutorials.name.movement"
+msgid "Moving"
+msgstr "Hareket et"
+
+msgctxt "tutorials.text.movement"
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "hareket etmek için {0}{1}{2}{3} kullan"
+
+msgctxt "tutorials.name.movement_lacie"
+msgid "Moving"
+msgstr "Hareket et"
+
+msgctxt "tutorials.text.movement_lacie"
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "Hareket etmek için {0}{1}{2}{3} kullan"
+
+msgid "Picking Up Items"
+msgstr "Eşyaları al"
+
+msgid "Press {0} to pick up items"
+msgstr "Eşyaları almak için {0}'a bas"
+
+msgctxt "tutorials.name.running"
+msgid "Running"
+msgstr "Koş"
+
+msgctxt "tutorials.text.running"
+msgid "While moving, hold {0} to run"
+msgstr "Hareket ederken {0} la koş"
+
+msgctxt "tutorials.name.running_lacie"
+msgid "Running"
+msgstr "Koş"
+
+msgctxt "tutorials.text.running_lacie"
+msgid "While moving, hold {0} to run"
+msgstr "Hareket ederken {0}'la koş"
+
+msgctxt "tutorials.name.save"
+msgid "Saving the Game"
+msgstr "Oyunu kaydet"
+
+msgctxt "tutorials.text.save"
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "Oyunu sıkça kargalarla kaydet, nasıl olsa gelecek belirsiz."
+
+msgctxt "tutorials.name.save_lacie"
+msgid "Saving the Game"
+msgstr "Oyunu kaydet"
+
+msgctxt "tutorials.text.save_lacie"
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "Oyunu sıkça kargalarla kaydet, nasıl olsa gelecek belirsiz."
+
+msgid "Sneaking"
+msgstr "Gizlice gir"
+
+msgid "Running will make you easier to spot. Hold {0} to sneak past enemies"
+msgstr "Koşmak yerini kolayca belli eder. {0} basılı tutarak gizlice git"
+
+msgid "Climbing Stairs"
+msgstr "Merdiveni tırman"
+
+msgid "Hold {0} while moving to climb up the stairs"
+msgstr "hareket ederken merdivenlere tırmanmak için {0} bas"
+
+msgid "Timed Event"
+msgstr "zamanlı etkinlik"
+
+msgid "Get to the bus before the time runs out!"
+msgstr "Zaman bitmeden otobüse bin!"
+
+msgid "Minigame: Timing Bar"
+msgstr "Minioyun: Hızlı bar"
+
+msgid "Press {0} when the indicator matches the green zone"
+msgstr "Belirleyici yeşil bölgeyle eşleştiğinde {0}'a bas"

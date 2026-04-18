@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "We could use it to get out of this room."
+msgstr "我們可以用它來離開這房間。"
+
+msgid "I could use this to get out of this room."
+msgstr "我可以用它來離開這房間。"
+
+msgid "Place plank outside?"
+msgstr "把木板放在外面嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "It's done."
+msgstr "完成。"
+
+msgid "The vent cover."
+msgstr "通風口蓋子。"
+
+msgid "It's not large enough to cross the hole outside."
+msgstr "它不夠大，無法穿過外面的洞。"
+
+msgid "Sketches of maps are displayed on the wall."
+msgstr "牆上有著地圖的素描。"
+
+msgid "Sketches of maps are laying on the ground."
+msgstr "地上有著地圖的素描。"
+
+msgid "There's a large plank on the floor."
+msgstr "地上有塊大木板。"
+
+msgid "A large screen composed of smaller screens."
+msgstr "有多個小螢幕組成的大螢幕。"
+
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "螢幕看起來顯示了某個地方的監視攝影。"
+
+msgid "Looks like... hallways? With lots of doors."
+msgstr "看起來像是...走廊？有著很多門。"
+
+msgid "Who comes up with this shit?"
+msgstr "誰想到這鬼東西的？"
+
+msgid "There's blood too..."
+msgstr "還有血..."
+
+msgid "Are those... sticky notes taped to the cameras?"
+msgstr "那是...便利貼貼住了攝影機嗎？"
+
+msgid "Someone didn't want to be spied on."
+msgstr "有人不想被監視。"
+
+msgid "Understandable."
+msgstr "可以理解。"
+
+msgid "Scrolls containing technical drawings of different locations."
+msgstr "包含不同地點的技術圖的捲軸。"
+
+msgid "What's that?"
+msgstr "那是什麼？"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "It looks like it's just hallways."
+msgstr "看起來只是走廊。"
+
+msgid "But it's laid out like a labyrinth, and some rooms overlap each other."
+msgstr "但是像是迷宮一樣，還有房間交錯其中。"
+
+msgid "This map doesn't make any sense."
+msgstr "這地圖看起來沒有道理。"
+
+msgid "A trashcan. It's full of neatly crumpled papers."
+msgstr "垃圾桶。裝滿了整齊的皺紙。"
+
+msgid "..."
+msgstr "..."
+
+msgid "I see."
+msgstr "我明白了。"
+
+msgid "It's too far to jump."
+msgstr "遠到跳不過去。"
+
+msgid "It's too high to reach."
+msgstr "高到搆不到。"

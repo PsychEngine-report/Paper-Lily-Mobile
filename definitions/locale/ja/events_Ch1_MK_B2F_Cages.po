@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "いいね、暇が潰せるものが必要だったとこだ。"
+
+msgid "You got a crayon too?"
+msgstr "クレヨンもあるか？"
+
+msgid "It's not for you."
+msgstr "そういうのじゃない。"
+
+msgid "What!?"
+msgstr "はぁ!?"
+
+msgid "You about to start cleaning in here?"
+msgstr "掃除でも始めるのか？"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "何で足を振り回してんだよ!?"
+
+msgid "Did you cut it..?"
+msgstr "おまえが切ったのか……？"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_foot_on_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I had to."
+msgstr "仕方なかったの。"
+
+msgid "Mhmmm..."
+msgstr "ふぅーん……"
+
+msgid "It's true."
+msgstr "本当だって。"
+
+msgid "Yeah..."
+msgstr "はいはい……"
+
+msgid "It's a jar."
+msgstr "瓶だな。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_jar_on_sai.dlg.lacie"
+msgid "Yes."
+msgstr "うん。"
+
+msgid "It's empty."
+msgstr "空だ。"
+
+msgid "...Yes."
+msgstr "……うん。"
+
+msgid "Why are you showing it to me?"
+msgstr "何で俺に見せるんだ？"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "何か気の利いたコメントがあるんじゃないかと思って。"
+
+msgid "It seems you don't."
+msgstr "ないみたいだけど。"
+
+msgid "H-Hey!"
+msgstr "お――おい！"
+
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgid "Thanks!"
+msgstr "ありがとな！"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_key_correct_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "(サイがパーティに加わった。)"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "この檻には鍵穴がない。"
+
+msgid "The key does not fit."
+msgstr "この鍵は合わない。"
+
+msgid "Um... could you..."
+msgstr "えっと……その……"
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "はぁ？　ここから出してもくれてないのに、今度は自分を切れってのかよ？"
+
+msgid "Is this how you make friends?"
+msgstr "これがおまえの友達の作り方か？"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_knife_blk_on_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "(はずれ……私はそもそも友達を作らない。)"
+
+msgid "That's not gonna cut through this cage."
+msgstr "それじゃこの檻は切れないぜ。"
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "別に放火魔とかじゃないんだよな？"
+
+msgid "I won't judge, really."
+msgstr "正直、判断がつかなくて。"
+
+msgid "...I'm not."
+msgstr "……違うよ。"
+
+msgid "I found this, but I don't know how to use it."
+msgstr "これを見つけたんだけど、使い方がわからないの。"
+
+msgid "Can you pick your own lock or something?"
+msgstr "自分で檻の鍵をピッキングしたりできない？"
+
+msgid "Sure can!"
+msgstr "任せろ！"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_lockpick_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "(サイがパーティに加わった。)"
+
+msgid "I still look pretty good, all things considered."
+msgstr "色々あった割には、俺もまだまだイケてるな。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_mirror_on_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "絵の具を手作りする時間はあったのに、俺をここから出す時間はなかったってことか？"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_paint_on_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Correct."
+msgstr "うん。"
+
+msgid "A large cage."
+msgstr "大きな檻。"
+
+msgid "A large cage hangs from the ceiling."
+msgstr "大きな檻が天井から吊り下げられている。"
+
+msgid "A small cage housing a crow."
+msgstr "カラスの入った小さな檻。"
+
+msgid "How cruel, locking up a bird like this."
+msgstr "ひどい、こんなふうに閉じ込めるなんて。"
+
+msgid "...Or is it just a regular pet?"
+msgstr "……いや、普通のペットも同じかな？"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "(この鳥を解放する方法はなさそうだ。)"
+
+msgid "The crow is dead."
+msgstr "カラスは死んでいる。"
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "まずいな。あいつがここにいたらしい。"
+
+msgid "How do you know?"
+msgstr "どうしてわかるの？"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "そりゃ、俺の経験上、鳥は勝手に爆発したりしないからさ。"
+
+msgid "A small cage. It's empty."
+msgstr "小さな檻。何も入っていない。"
+
+msgid "The cage you were trapped in."
+msgstr "自分が閉じ込められていた檻。"
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "どの方向も閉ざされているので、中に入ることはできない。"
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "また閉じ込められないように気をつけよう。"
+
+msgid "So how'd you... get out?"
+msgstr "それで……どうやって出たんだ？"
+
+msgid "I'm not sure."
+msgstr "わからない。"
+
+msgid "You were here, didn't you see it?"
+msgstr "そこにいたんだし、見てなかったの？"
+
+msgid "I wasn't paying attention."
+msgstr "注意を向けてなかった。"
+
+msgid "Good job getting out of that."
+msgstr "よくあそこから出たな。"
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "何したのかは見えなかったが、きっと固い鉄の棒のあいだを抜けるのがものすごく上手かったんだろ。"
+
+msgid "Thanks."
+msgstr "ありがと。"
+
+msgid "Looks like you're in a bind yourself."
+msgstr "そっちも閉じ込められてるみたいだね。"
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "(もし妖魔なら、とっくに能力を使って抜け出してるはず……だよね？)"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "(それとも、出る気がないだけ……？)"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "おい、ここにいない方がいいかもしれないぜ。"
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "あの怪物が音を聞きつけて確かめに戻ってきたら、困ったことになるだろ？"
+
+msgid "Hmm... you're right."
+msgstr "うーん……そうだね。"
+
+msgid "Well, see you."
+msgstr "じゃあ、またね。"
+
+msgid "Where are you going?"
+msgstr "どこに行くんだ？"
+
+msgid "I'm going to look around a bit."
+msgstr "ちょっと見て回る。"
+
+msgid "...and...?"
+msgstr "……それで……？"
+
+msgid "I should try to find an exit too."
+msgstr "出口も探さないと。"
+
+msgid "...And nothing else...?"
+msgstr "……それだけか……？"
+
+msgid "...?"
+msgstr "……？"
+
+msgid "Are you serious? Get me out of here!"
+msgstr "マジで言ってんのか？　俺をここから出してくれよ！"
+
+msgid "Ah, of course."
+msgstr "ああ、もちろん。"
+
+msgid "Sure, I'll try."
+msgstr "努力はする。"
+
+msgid "...Alright."
+msgstr "……わかった。"
+
+msgid "I lost all my items..."
+msgstr "持ち物が全部なくなっちゃった……"
+
+msgid "Do you still have your belongings?"
+msgstr "サイの持ち物は残ってる？"
+
+msgid "My stuff? It's all gone."
+msgstr "俺か？　全部消えちまった。"
+
+msgid "I guess the demon lady took it."
+msgstr "あの妖魔に取られたんだろ。"
+
+msgid "I see..."
+msgstr "そう……"
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "(すごくまずい。持ち物なしじゃ、家に帰れないのに。)"
+
+msgid "You're back."
+msgstr "戻ってきたか。"
+
+msgid "Any clues?"
+msgstr "手がかりは？"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "うん、クモと話した。"
+
+msgid "You spoke to a spider...?"
+msgstr "クモと……？"
+
+msgid "And did the spider speak back?"
+msgstr "で、クモが答えてくれたのか？"
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "Yes."
+msgstr "うん。"
+
+msgid "Ok, that's kinda intriguing."
+msgstr "オーケー、そりゃちょっと興味深いな。"
+
+msgid "He told me what to do to get out of here."
+msgstr "ここから出る方法を教えてくれた。"
+
+msgid "Really?"
+msgstr "ホントか？"
+
+msgid "Yes. I'll take care of it."
+msgstr "うん。私がどうにかする。"
+
+msgid "Aaaalright."
+msgstr "りょ～かい。"
+
+msgid "I'll just... be here."
+msgstr "俺は……ここにいるよ。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.sai"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Well, see you later."
+msgstr "じゃあ、またね。"
+
+msgid "Got it."
+msgstr "ああ。"
+
+msgid "If you want a lollipop I have more."
+msgstr "ロリポップが欲しけりゃあるぜ。"
+
+msgid "No thank you."
+msgstr "いらない。"
+
+msgid "Be careful out there."
+msgstr "気をつけて行けよ。"
+
+msgid "The cage Sai was in."
+msgstr "サイがいた檻。"
+
+msgid "Sai isn't here anymore."
+msgstr "サイはいなくなっている。"
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "おいおい……行っちまうのかよ……？"
+
+msgid "Wait."
+msgstr "待て。"
+
+msgid "Hm?"
+msgstr "うん？"
+
+msgid "What did you try to buy?"
+msgstr "何を買おうとしたんだ？"
+
+msgid "...What?"
+msgstr "……は？"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "今日、店で何かを買おうとしたって言ってただろ。"
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "……よりにもよって、何で今そんなこと訊くの？"
+
+msgid "Just curious."
+msgstr "気になっただけだ。"
+
+msgid "...It was just a flan."
+msgstr "……ただのフランだよ。"
+
+msgid "...It was just some macarons."
+msgstr "……ただのマカロンだよ。"
+
+msgid "...It was just a chocolate eclair."
+msgstr "……ただのチョコエクレアだよ。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.sai"
+msgid "Huh."
+msgstr "ほう。"
+
+msgid "So you like flan?"
+msgstr "フランが好きなのか？"
+
+msgid "So you like macarons?"
+msgstr "マカロンが好きなのか？"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "エクレア全般が好きなのか？　チョコ限定？"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "それ、本当に今する話？"
+
+msgid "When else? I'm bored now, not later."
+msgstr "ならいつするんだ？　俺は後じゃなくて今退屈なんだよ。"
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "この檻の中じゃ、大して考えることもなさそうだからな。"
+
+msgid "...I'm leaving."
+msgstr "……もう行く。"
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "待て、せめて名前だけでも教えてくれ、そしたらもう邪魔しないから！"
+
+msgid "...Sigh."
+msgstr "……はぁ。"
+
+msgid "It's Lacie."
+msgstr "レイシー。"
+
+msgid "Will that be all?"
+msgstr "それだけ？"
+
+msgid "Yeah!"
+msgstr "ああ！"
+
+msgid "I'll be going then."
+msgstr "じゃあ行くから。"
+
+msgid "Good luck, try not to get killed."
+msgstr "頑張れよ、殺されないようにな。"
+
+msgid "...Mhm."
+msgstr "……ん。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I'm not sure where I am right now..."
+msgstr "ここがどこかはよく分からないけど……"
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "でも、とにかくあの怪物に出くわさずに出口を見つければいい。"
+
+msgid "...Or should I help that guy first?"
+msgstr "……それとも、先にあの人を助けるべきかな？"
+
+msgid "Um, so..."
+msgstr "おい、その……"
+
+msgid "The knives lady was here."
+msgstr "あのナイフの奴がここに来たぜ。"
+
+msgid "She pulverized that bird."
+msgstr "そこの鳥を吹き飛ばしてった。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.on_enter_sai_crow_react.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "It was crazy, I thought I was toast."
+msgstr "ヤバかったぜ、俺もおしまいかと思った。"
+
+msgid "Where did she go after?"
+msgstr "そのあとはどこに行ったの？"
+
+msgid "No clue."
+msgstr "さあな。"

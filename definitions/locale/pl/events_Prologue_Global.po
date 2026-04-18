@@ -1,0 +1,891 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alright, let's see..."
+msgstr "W porządku, zobaczmy..."
+
+msgid "According to my notes..."
+msgstr "Według moich notatek..."
+
+msgid "I need to move the desks to the sides in all three classrooms."
+msgstr "Muszę poprzestawiać biurka we wszystkich trzech klasach."
+
+msgid "Then I can draw a \"path\" in the middle of each one with chalk."
+msgstr "Następnie mogę narysować kredą \"ścieżkę\" na środku każdej z nich."
+
+msgid "Well, I'll leave the chalk drawing for last. I want to gather everything I need first."
+msgstr "Cóż, rysowanie kredą zostawię na koniec. Chcę najpierw zebrać wszystko, czego potrzebuję."
+
+msgid "Oh no..."
+msgstr "O nie..."
+
+msgid "What are you doing...? Is this part of the ritual?"
+msgstr "Co ty robisz...? Czy to część rytuału?"
+
+msgid "Um... what's wrong with you?"
+msgstr "Um... co jest z tobą nie tak?"
+
+msgid "If this ritual involves the mass genocide of harmless plants, then I want nothing to do with it."
+msgstr "Jeśli ten rytuał polega na masowym ludobójstwie niewinnych roślin, to nie chce brać w nim udziału."
+
+msgid "Agreed."
+msgstr "Zgoda."
+
+msgid "Are you seriously going to go around killing all the plants?"
+msgstr "Naprawdę zamierzasz zabić wszystkie rośliny?"
+
+msgid "I knew you were a psychopath..."
+msgstr "Wiedziałam, że jesteś psychopatką..."
+
+msgid "Sorry Kat, but we didn't sign up for this."
+msgstr "Przykro mi Kat, ale nie pisałyśmy się na to."
+
+msgid "I don't like this ritual anymore..."
+msgstr "Nie podoba mi się już ten rytuał..."
+
+msgid "Don't worry Kaya, we're going home now."
+msgstr "Nie martw się Kaya, wracamy do domu."
+
+msgid "Don't talk to us again."
+msgstr "Nie odzywaj się do nas więcej."
+
+msgid "Shelves for the students to place their school bags."
+msgstr "Półki, na których uczniowie trzymają tornistry."
+
+msgid "There are no bags right now though."
+msgstr "Nie ma jednak teraz żadnych toreb."
+
+msgid "Everything's ready."
+msgstr "Wszystko już gotowe."
+
+msgid "All that's left is to wait 5 minutes and then burn the hair."
+msgstr "Pozostaje tylko odczekać 5 minut, a następnie spalić włosy."
+
+msgid "..."
+msgstr "... "
+
+msgid "This is going to be such a pain to clean up."
+msgstr "Sprzątanie tego to będzie koszmar."
+
+msgid "Seriously? Stop messing with things!"
+msgstr "Poważnie? Przestań z tym zadzierać!"
+
+msgid "But everything I \"mess with\" ends up being a scam."
+msgstr "Ale wszystko, z czym \"zadzieram\", okazuje się być ściemą."
+
+msgid "What if some day it isn't?"
+msgstr "A co jeśli w końcu okaże się być prawdą?"
+
+msgid "What if you end up summoning some ghost or the devil and condemning your soul to an eternity in the netherworld?"
+msgstr "A co jeśli w końcu przywołasz jakiegoś ducha lub diabła i skażesz swoją duszę na wieczność w zaświatach?"
+
+msgid "What if your soul is already damned!?"
+msgstr "A jeśli twoja dusza już jest potępiona?"
+
+msgid "Then I guess that's what's waiting for me after I die."
+msgstr "Więc chyba to właśnie czeka mnie po śmierci."
+
+msgid "KAT!"
+msgstr "KAT!"
+
+msgid "It was a joke!"
+msgstr "To był żart!"
+
+msgid "You're not gonna find him this way, you know?"
+msgstr "Nie znajdziesz go w ten sposób, wiesz?"
+
+msgid "You'll just do whatever you want no matter what I say, won't you?"
+msgstr "Zrobisz, co zechcesz, bez względu na to, co powiem, prawda?"
+
+msgid "It's possible."
+msgstr "Niewykluczone."
+
+msgid "Stubborn idiot."
+msgstr "Uparta idiotka."
+
+msgid "I prefer \"ambitious idiot\"."
+msgstr "Wolę \"ambitna idiotka\"."
+
+msgid "So... will you tell me where the letter is?"
+msgstr "Więc... powiesz mi, gdzie jest ten list?"
+
+msgid "You exhaust me Kat, you know that?"
+msgstr "Męczysz mnie już Kat, wiesz o tym?"
+
+msgid "And yet here we are."
+msgstr "A mimo to nadal mi pomagasz."
+
+msgid "Fine. You win. It's in the occult club."
+msgstr "Dobra. Niech będzie po twojemu. Jest w klubie okultystycznym."
+
+msgid "There's a golden envelope in one of the drawers. But they won't let you sniff around since you're not a member."
+msgstr "W jednej z szuflad jest złota koperta. Ale nie pozwolą ci tam myszkować, bo nie jesteś członkiem."
+
+msgid "Thanks, you're the best!"
+msgstr "Dzięki, jesteś najlepsza!"
+
+msgid "Huh?"
+msgstr "He?"
+
+msgid "(Is there somebody at the door..?)"
+msgstr "(Czy ktoś stoi przy drzwiach...?)"
+
+msgid "Alright, now I just have to blow the candles off. So let's-"
+msgstr "Dobra, teraz muszę tylko zdmuchnąć świeczki. Więc..."
+
+msgid "Huh? The candles... Did they just...?"
+msgstr "Huh? Te świece... Czy one właśnie...?"
+
+msgid "...I guess I should count to 100..."
+msgstr "...chyba powinnam policzyć do stu..."
+
+msgid "1, 2, 3, 4, 5..."
+msgstr "1, 2, 3, 4, 5…"
+
+msgid "...28, 29, 30..."
+msgstr "...28, 29, 30..."
+
+msgid "(Why am I doing this? This ridiculous game couldn't possibly work.)"
+msgstr "(Dlaczego to robię? Nie ma szans, że to się uda)."
+
+msgid "...55, 56, 57, 58..."
+msgstr "...55, 56, 57, 58..."
+
+msgid "(I wonder if mom is worried about me...)"
+msgstr "(Ciekawe, czy mama się o mnie martwi...)"
+
+msgid "(Huh? What was that?)"
+msgstr "(He? Co to było?)"
+
+msgid "...79, 80, 81..."
+msgstr "...79, 80, 81…"
+
+msgid "(What's all that noise!?)"
+msgstr "(Co to za hałas!?)"
+
+msgid "Is anyone there...?"
+msgstr "Czy ktoś tam jest...?"
+
+msgid "...97, 98, 99..."
+msgstr "...97, 98, 99..."
+
+msgid "...100."
+msgstr "...100."
+
+msgid "So... I... open my eyes?"
+msgstr "A więc... mogę... otworzyć oczy?"
+
+msgid "It... worked?"
+msgstr "To... zadziałało?"
+
+msgid "It worked?"
+msgstr "Zadziałało?"
+
+msgid "It worked!! I can't believe it!"
+msgstr "Udało się!!! Nie mogę w to uwierzyć!"
+
+msgid "This is incredible!!"
+msgstr "To jest niesamowite!!!"
+
+msgid "But... where am I?"
+msgstr "Ale... gdzie ja jestem?"
+
+msgid "It's a... hallway? It definitely isn't the school."
+msgstr "To jest... korytarz? To na pewno nie jest szkoła."
+
+msgid "This is unbelievable, how could it have worked?"
+msgstr "To jest niewiarygodne, jak to mogło się udać?"
+
+msgid "It doesn't make any logical sense. I was in the classroom a minute ago. Have I gone mad?"
+msgstr "To nie ma żadnego logicznego wyjaśnienia. Przed chwila byłam w klasie. Czy ja oszalałam?"
+
+msgid "THIS IS SO EXCITING, I CAN'T BELIEVE IT WORKED!"
+msgstr "TO TAKIE EKSCYTUJĄCE, NIE MOGĘ UWIERZYĆ, ŻE SIĘ UDAŁO!"
+
+msgid "If I wake up from this and it turns out to be a dream... well... that would be disappointing, to say the least."
+msgstr "Jeśli obudzę się z tego i okaże się, że to był sen... cóż... byłoby to co najmniej rozczarowujące."
+
+msgid "Okay. I definitely need to check this place out."
+msgstr "Ok. Zdecydowanie muszę sprawdzić to miejsce."
+
+msgid "Do you wish to save your progress?"
+msgstr "Czy chcesz zapisać swój postęp?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Now what?"
+msgstr "Co teraz?"
+
+msgid "Now we just wait 5 minutes."
+msgstr "Teraz czekamy tylko 5 minut."
+
+msgid "Doing nothing?"
+msgstr "Nic nie robiąc?"
+
+msgid "Peace and quiet are not as bad as you imagine."
+msgstr "Cisza i spokój są lepsze niż myślisz?"
+
+msgid "After that, I'll burn the hair and you help me blow out the candles one by one."
+msgstr "Potem ja spalę włosy, a wy pomożecie mi zdmuchnąć świeczki jedna po drugiej."
+
+msgid "Burnt hair smells bad..."
+msgstr "Spalone włosy brzydko pachną…"
+
+msgid "It does."
+msgstr "To prawda."
+
+msgid "But it's the last step, might as well do it right."
+msgstr "Ale to ostatni krok, więc równie dobrze można to dokończyć."
+
+msgid "What happens then?"
+msgstr "Co się wtedy stanie?"
+
+msgid "No idea."
+msgstr "Nie mam pojęcia."
+
+msgid "Really?"
+msgstr "Naprawdę?"
+
+msgid "We probably just clean up and go home. These rituals are a scam, you know?"
+msgstr "Pewnie po prostu posprzątamy i pójdziemy do domu. Te rytuały to oszustwo, wiesz?"
+
+msgid "So... you're just making us make a mess, so that we can help you clean it up?"
+msgstr "Więc... każesz nam zrobić bałagan, żebyśmy pomogły ci go posprzątać?"
+
+msgid "What's the matter, are you not entertained?"
+msgstr "Co się stało, nie bawi cię to?"
+
+msgid "...Tsk."
+msgstr "...Tsk."
+
+msgid "I think it's time."
+msgstr "Myślę, że nadszedł czas."
+
+msgid "Finally!"
+msgstr "Nareszcie!"
+
+msgid "Now I just burn this..."
+msgstr "Teraz tylko spalę to..."
+
+msgid "Quickly, put out the candles now!"
+msgstr "Szybko, zgaście świece!"
+
+msgid "Now, shut your eyes and be quiet while I count to one hundred, okay?"
+msgstr "A teraz zamknijcie oczy i bądźcie cicho, a ja policzę do stu, dobrze?"
+
+msgid "Got it."
+msgstr "Jasne."
+
+msgid "Alright then, I'll start."
+msgstr "W porządku, więc zaczynam."
+
+msgid "Shhh!"
+msgstr "Ciiii!"
+
+msgid "(Huh...?)"
+msgstr "(He...?)"
+
+msgid "(What the hell was that!?)"
+msgstr "(Co to do cholery było!?)"
+
+msgid "...94, 95, 96, 97, 98, 99, 100!"
+msgstr "...94, 95, 96, 97, 98, 99, 100!"
+
+msgid "Huh...?"
+msgstr "He...?"
+
+msgid "What the...?"
+msgstr "Co do...?"
+
+msgid "Are those...?"
+msgstr "Czy to są...?"
+
+msgid "Well... my lines aren't perfect, but it should do the job!"
+msgstr "Cóż... moje linie nie są idealne, ale chyba dadzą radę!"
+
+msgid "I need to do this in all three rooms."
+msgstr "Muszę to zrobić we wszystkich trzech pomieszczeniach."
+
+msgid "Two down, one to go."
+msgstr "Dwie linie. Została jeszcze jedna."
+
+msgid "That night... I got cold feet, I guess."
+msgstr "Tamtej nocy... Zwyczajnie stchórzyłam."
+
+msgid "I went home without completing the ritual."
+msgstr "Wróciłam do domu nie dokończywszy rytuału."
+
+msgid "Despite that, I made plans to try again."
+msgstr "Mimo to, obiecałam sobie, że spróbuję jeszcze raz."
+
+msgid "However, both my notes and the letter had disappeared without a trace."
+msgstr "Jednak zarówno moje notatki, jak i list zniknęły bez śladu."
+
+msgid "I tried telling myself that maybe the ritual was a scam anyways..."
+msgstr "Próbowałam sobie wmówić, ze może ten rytuał to i tak ściema…"
+
+msgid "But now... how will I ever know?"
+msgstr "Ale teraz... skąd mam wiedzieć?"
+
+msgid "Dead End K2 - Cold Kat Feet"
+msgstr "Ślepa uliczka K2 - Tchórzostwo Kat"
+
+msgid "What's... going on?"
+msgstr "Co się... dzieje?"
+
+msgid "These stairs are making no sense right now."
+msgstr "Te schody nie maja sensu."
+
+msgid "This building has only 3 floors. I've taken these stairs every day..."
+msgstr "Ten budynek ma tylko 3 piętra. Codziennie chodziłam po tych schodach..."
+
+msgid "I must be really tired. I'll just go down without thinking."
+msgstr "Muszę być naprawdę zmęczona. Po prostu zejdę na dół bez rozmyślania."
+
+msgid "I can't... get anywhere..."
+msgstr "Te schody donikąd nie prowadzą…"
+
+msgid "Am I dreaming right now?"
+msgstr "Czy to sen?"
+
+msgid "I think I'll just... rest here."
+msgstr "Myślę, że po prostu... odpocznę tutaj."
+
+msgid "Tomorrow morning... someone will wake me up."
+msgstr "Jutro rano... ktoś mnie obudzi."
+
+msgid "Hopefully at home, in my own bed."
+msgstr "Mam nadzieję, że w domu, w moim własnym łóżku."
+
+msgid "The next time I woke up, I was still in the same place."
+msgstr "Następnym razem, gdy się obudziłam, nadal byłam w tym samym miejscu."
+
+msgid "I tried again. Going up, going down... it made no difference."
+msgstr "Próbowałam jeszcze raz. W górę, w dół... nic to nie dało."
+
+msgid "I decided to make an experiment with chalk."
+msgstr "Postanowiłam zrobić eksperyment z kredą."
+
+msgid "Logic would dictate that this X isn't here if I go up or down a floor."
+msgstr "Logika podpowiadałaby, że tego Xa nie będzie, na piętrze wyżej lub niżej."
+
+msgid "I'm... trapped..."
+msgstr "Jestem... uwięziona..."
+
+msgid "I don't think I'm going to make it home tonight either..."
+msgstr "Dzisiaj chyba też nie dotrę do domu..."
+
+msgid "Sorry Mom."
+msgstr "Przepraszam, Mamo."
+
+msgid "Dead End K3 - Academic Spiral"
+msgstr "Ślepa uliczka K3 – Spirala Akademicka"
+
+msgid "And so, we went home without completing the ritual."
+msgstr "I tak wróciłyśmy do domu, nie dopełniając rytuału."
+
+msgid "For some reason, I lost interest after that."
+msgstr "Z jakiegoś powodu straciłam po tym zainteresowanie."
+
+msgid "In exchange, I gained some new people to talk to."
+msgstr "Ale, za to zyskałam kilka nowych osób, do których mogłam otworzyć usta."
+
+msgid "Well, I suppose the ritual couldn't have been that important anyways."
+msgstr "Cóż, za pewne rytuał i tak nie był taki ważny."
+
+msgid "Dead End K4 - Nevermind Forever"
+msgstr "Ślepa uliczka K4 - To już bez znaczenia"
+
+msgid "You know, despite the rules,"
+msgstr "Wiesz, wbrew zasadom,"
+
+msgid "every so often some moron thinks they can bring in an entire group."
+msgstr "co jakiś czas jakiś kretyn myśli, że może sprowadzić całą grupę."
+
+msgid "Huh? Who's there?"
+msgstr "He? Kto tam jest?"
+
+msgid "Where is this place...?"
+msgstr "Gdzie ja jestem...?"
+
+msgid "I would have at least made it interesting for you."
+msgstr "Mógłbym przynajmniej się z tobą pobawić."
+
+msgid "But now? Forget it."
+msgstr "Ale teraz? Zapomnij o tym."
+
+msgid "What? Wait-!"
+msgstr "Co? Poczekaj-!"
+
+msgid "Dead End K5 - Party Wipe"
+msgstr "Ślepa uliczka K5 – Grupowa masakra"
+
+msgid "Once they were gone, I felt a bit guilty so I went home as well."
+msgstr "Kiedy już ich nie było, poczułam się trochę winna, więc też poszłam do domu."
+
+msgid "Maybe I'll try the ritual again, some other time."
+msgstr "Może spróbuję tego rytuału jeszcze raz, innym razem."
+
+msgid "Next time, I hope not to run into anyone."
+msgstr "Następnym razem mam nadzieję, że nie natknę się na nikogo."
+
+msgid "Dead End K6 - Snip snip"
+msgstr "Ślepa uliczka K6 – Ciach, ciach"
+
+msgid "And so, we left the school and walked home."
+msgstr "I tak wyszłyśmy ze szkoły i poszłyśmy do domu."
+
+msgid "No one said anything for a while."
+msgstr "Przez chwilę nikt nic nie mówił."
+
+msgid "(I think Kat is feeling down...)"
+msgstr "(Myślę, że Kat czuje się przygnębiona...)"
+
+msgid "(Yeah.)"
+msgstr "(Taa.)"
+
+msgid "(Should we do something?)"
+msgstr "(Czy powinnyśmy coś zrobić?)"
+
+msgid "(What's on your mind?)"
+msgstr "(Co ci chodzi po głowie?)"
+
+msgid "(I don't know...)"
+msgstr "(Nie wiem...)"
+
+msgid "(Do you think Kat likes to sing?)"
+msgstr "(Czy myślisz, że Kat lubi śpiewać?)"
+
+msgid "(Hmmm...)"
+msgstr "(Hmmm...)"
+
+msgid "(Good idea, Saki!)"
+msgstr "(Dobry pomysł, Saki!)"
+
+msgid "(Haven't seen you this excited about karaoke before, Kaya...)"
+msgstr "(Nie widziałam cię jeszcze tak podekscytowanej na myśl o karaoke, Kaya...)"
+
+msgid "(That's a yes, then?)"
+msgstr "(To znaczy, że tak?)"
+
+msgid "(Alright.)"
+msgstr "(W porządku.)"
+
+msgid "So..."
+msgstr "Więc..."
+
+msgid "We were thinking of going to this place..."
+msgstr "Zastanawiałyśmy się nad pójściem do tego miejsca..."
+
+msgid "(I can't do this! She's ignoring me!)"
+msgstr "(Nie mogę tego zrobić! Ona mnie ignoruje!)"
+
+msgid "Kat!"
+msgstr "Kat!"
+
+msgid "Hmm?"
+msgstr "Hmm?"
+
+msgid "Come with us."
+msgstr "Chodź z nami."
+
+msgid "Just come."
+msgstr "Po prostu chodź."
+
+msgid "Sure, whatever."
+msgstr "Jasne, nie ma sprawy."
+
+msgid "(You're so good!)"
+msgstr "(Jesteś taka dobra!)"
+
+msgid "(Are they trying... to cheer me up...?)"
+msgstr "(Czy one próbują... mnie rozweselić...?)"
+
+msgid "(Maybe... things are better this way.)"
+msgstr "(Może... tak jest lepiej)."
+
+msgid "(I need to believe that much, at least.)"
+msgstr "(Chyba wolę w to wierzyć)."
+
+msgid "Dead End K7 - Girls' Night Out"
+msgstr "Ślepa uliczka K7 - Nocny wypad z dziewczynami"
+
+msgid "I didn't hear from the voice again."
+msgstr "Nie usłyszałam więcej tego głosu."
+
+msgid "But, no matter how much I wanted to, I didn't scream for help."
+msgstr "Ale, choćbym nie wiem jak bardzo chciała, nie krzyczałam o pomoc."
+
+msgid "Someone will come for me... eventually."
+msgstr "Ktoś po mnie przyjdzie... w końcu."
+
+msgid "I just know it."
+msgstr "Po prostu to wiem."
+
+msgid "Dead End K8 - My Way"
+msgstr "Ślepa uliczka K8 - Mój sposób"
+
+msgid "We're... back here?"
+msgstr "Znowu tu jesteśmy?"
+
+msgid "Maybe this is the school's way of saying \"You can't leave now.\""
+msgstr "Może szkoła chce w ten sposób powiedzieć \"Już za późno, żeby się wycofać\""
+
+msgid "How can you just say something like that?"
+msgstr "Błagam nie mów tak!"
+
+msgid "Are we going home soon...?"
+msgstr "Czy niedługo wrócimy do domu...?"
+
+msgid "I think I'll pass on burning the school down today."
+msgstr "Chyba odpuszczę sobie palenie szkoły na dzisiaj."
+
+msgid "Wow, thank you for your generosity."
+msgstr "Wow, dziękuję za twoją hojność."
+
+msgid "What are you doing? I thought you were busy."
+msgstr "Co ty robisz? Myślałam, że jesteś zajęta."
+
+msgid "I'm just taking a break."
+msgstr "Robię sobie małą przerwę"
+
+msgid "Is that so..."
+msgstr "A więc tak..."
+
+msgid "Are you scared? You're scared, aren't you?"
+msgstr "Boisz się? Boisz się, prawda?"
+
+msgid "Did you come to us for comfort?"
+msgstr "Czy przyszłaś do nas, żeby się uspokoić?"
+
+msgid "The only scary thing here is that attitude of yours."
+msgstr "Jedyną przerażającą rzeczą jest tu twoje nastawienie."
+
+msgid "She's still upset at you messing up our night, as you can see."
+msgstr "Nadal jest zła, że zepsułaś nam noc, jak widać."
+
+msgid "It's okay to be scared..."
+msgstr "Nie ma nic złego w strachu..."
+
+msgid "Oh, I know! Why don't you show us your ritual as an apology?"
+msgstr "Och, wiem! Pokażesz nam swój rytuał w ramach przeprosin?"
+
+msgid "I'm kind of interested, too."
+msgstr "Mnie też to ciekawi..."
+
+msgid "Well, the rules say..."
+msgstr "Cóż, zasady mówią..."
+
+msgid "Oh come on, you don't ACTUALLY think it's gonna work, do you? It's just a game, as you said."
+msgstr "Daj spokój, chyba nie myślisz, że to się uda? To tylko gra, jak sama powiedziałaś."
+
+msgid "The rules don't actually matter."
+msgstr "Kogo obchodzą zasady?"
+
+msgid "I suppose not."
+msgstr "Zapewne nikogo..."
+
+msgid "Then it's decided, we will tag along with you."
+msgstr "A więc, klamka zapadła, idziemy z tobą."
+
+msgid "You're tasked with entertaining us now."
+msgstr "Nasza rozrywka to od teraz twoje zmartwienie!"
+
+msgid "Well, I suppose it can't be helped."
+msgstr "Cóż, przypuszczam, że nic na to nie poradzę."
+
+msgid "Let's go, then."
+msgstr "Chodźmy więc."
+
+msgid "I'm back in this hallway..."
+msgstr "Jestem z powrotem w tym korytarzu..."
+
+msgid "I don't like this... I need to get out of here..."
+msgstr "Nie podoba mi się to... Muszę się stąd wydostać..."
+
+msgid "Whoa... weird dream."
+msgstr "Ohhh... dziwny sen."
+
+msgid "Everyone must be gone already."
+msgstr "Wszyscy pewnie już poszli."
+
+msgid "Looks like it's eleven... I should get to it."
+msgstr "Wygląda na to, że jest jedenasta... Powinnam się ruszyć."
+
+msgid "Ohhhh no..."
+msgstr "O nie..."
+
+msgid "You moved it!!"
+msgstr "Ty tym ruszyłaś!!!"
+
+msgid "I didn't, I swear! You know I hate this type of thing!"
+msgstr "Nie zrobiłam tego, przysięgam! Wiesz, że nienawidzę tych głupot!"
+
+msgid "This can't possibly be happening..."
+msgstr "To nie możliwe..."
+
+msgid "It spelled \"DIE\"!!-"
+msgstr "Napisało \"UMRZYJ\"!!-"
+
+msgid "Oh my... Oh no..."
+msgstr "O mój... O nie..."
+
+msgid "Stop joking around!! This is serious!!"
+msgstr "Przestańcie żartować!! To jest poważna sprawa!!"
+
+msgid "...Aah.... we should not have played this..."
+msgstr "...Uuu.... nie powinnyśmy były w to grać…"
+
+msgid "I TOLD you we're going to be cursed!!"
+msgstr "Mówiłam ci, spadnie na nas klątwa!!"
+
+msgid "WHAT WAS THAT!?"
+msgstr "CO TO BYŁO!?"
+
+msgid "Is that a ghost?? We summoned a ghost!"
+msgstr "Czy to duch?? Przywołałyśmy ducha!"
+
+msgid "oh my god oh my god oh my god oh my god-"
+msgstr "O mój Boże, O mój Boże, O mój Boże, O mój Boże, o mój Boże..."
+
+msgid "YOU'RE MAKING TOO MUCH NOISE"
+msgstr "ROBICIE ZA DUŻO HAŁASU."
+
+msgid "Oh...It's just Kat..."
+msgstr "Oh... To tylko Kat..."
+
+msgid "What's with the crazy knocking? What was that for!?"
+msgstr "Czemu waliłaś w drzwi jak opętana? Po co to było!?"
+
+msgid "Did that spook you? You're not supposed to be here, you know?"
+msgstr "Przestraszyło was to? Nie powinno was tu być, wiecie o tym?"
+
+msgid "I could say the same about you. Why are YOU here?"
+msgstr "Mogłabym powiedzieć to samo o tobie. Dlaczego ty tu jesteś?"
+
+msgid "Actually..."
+msgstr "Właściwie..."
+
+msgid "Say hello to the new member of the occult club!"
+msgstr "Przywitajcie się z nowym członkiem klubu okultystycznego!"
+
+msgid "I had the wonderful opportunity to meet all of the members yesterday."
+msgstr "Miałam wczoraj wspaniałą okazję poznać wszystkich członków."
+
+msgid "I don't recall seeing you there."
+msgstr "Nie przypominam sobie, żebym was tam widziała."
+
+msgid "You three are not part of the club, are you?"
+msgstr "Wy trzy nie należycie do klubu, prawda?"
+
+msgid "That's funny. I didn't pin you of all people as the \"occult\" type, Kat."
+msgstr "To zabawne. Nie przypuszczałam, że ty ze wszystkich ludzi jesteś typem \"okultysty\", Kat."
+
+msgid "That's because I'm not."
+msgstr "To dlatego, że nie jestem."
+
+msgid "H-Hey!! We were doing something here!"
+msgstr "H-Hej!!! Byłyśmy tu czymś zajęte!"
+
+msgid "I'll save you the trouble. All three of you moved it."
+msgstr "Oszczędzę wam kłopotu. Wszystkie trzy to poruszyłyście."
+
+msgid "Wha...?"
+msgstr ""
+
+msgid "The planchette. From your game. You all moved it. There's no ghost in the room."
+msgstr "Planszeta. Z waszej gry. Wszystkie ją przesunęłyście. W pokoju nie ma żadnego ducha."
+
+msgid "There's a simple scientific explanation: it's called the ideomotor effect."
+msgstr "Jest na to proste naukowe wyjaśnienie: nazywa się to efektem ideomotorycznym."
+
+msgid "Simply put, just like your body reacts to pain reflexively, it may also react to ideas and move on its own. It pretty much bypasses the part of the brain which we use for conscious behavior."
+msgstr "Mówiąc prościej, tak jak twoje ciało odruchowo reaguje na ból, tak samo może reagować na myśli i poruszać się samodzielnie. W skrócie to po prostu omija tę część mózgu odpowiedzialną za świadome zachowanie."
+
+msgid "It's not all that different from blinking or breathing. The effect is even stronger when a bunch of gullible people who are desperate to believe in ghost stories get together and play."
+msgstr "Nie rożni się to wiele od mrugania czy oddychania. Efekt jest jeszcze silniejszy, gdy zbierze się grupa łatwowiernych ludzi, którzy są zdesperowani, by wierzyć w historie o duchach, zbierają się w kręgu i grają w te durne planszówki."
+
+msgid "There was an experiment where the players were blindfolded and suddenly the \"ghosts\" could no longer spell messages. You can try it if you don't believe me."
+msgstr "Był taki eksperyment, gdzie graczom zawiązano oczy i nagle \"duchy\" nie mogły już przekazywać wiadomości. Możecie spróbować, jeśli mi nie wierzycie."
+
+msgid "In other words, your mysterious answers from beyond... are really just your imagination playing tricks on you."
+msgstr "Innymi słowy, wasze tajemnicze odpowiedzi z zaświatów... to tak naprawdę tylko wasza wyobraźnia płatająca wam figle."
+
+msgid "Great job killing the mood."
+msgstr "Właśnie zrujnowałaś cały nastrój."
+
+msgid "You must be fun at parties."
+msgstr "Musisz być duszą towarzystwa na imprezach."
+
+msgid "Thanks a lot, Kat."
+msgstr "Wielkie dzięki, Kat."
+
+msgid "Always a pleasure."
+msgstr "Zawsze do usług."
+
+msgid "(Alright, time to search.)"
+msgstr "(W porządku, czas na poszukiwania.)"
+
+msgid "(I should go over my notes to make sure I don't forget anything.)"
+msgstr "(Powinnam przejrzeć moje notatki, żeby się upewnić, że o niczym nie zapomniałam)."
+
+msgid "I already have enough chalk but... the more the merrier!"
+msgstr "Mam już wystarczająco dużo kredy, ale... im więcej tym weselej!"
+
+msgid "What kind of ritual is this...?"
+msgstr "Co to za rytuał...?"
+
+msgid "Do I really need all of this chalk...?"
+msgstr "Czy naprawdę potrzebuję tej całej kredy...?"
+
+msgid "This window already has curtains."
+msgstr "To okno ma już zasłony."
+
+msgid "The thought of its burning beauty charms you."
+msgstr "Myśl o jego płonącym pięknie urzeka cię."
+
+msgid "I really shouldn't, though."
+msgstr "Ale naprawdę nie powinnam."
+
+msgid "It looks like a private journal."
+msgstr "To wygląda jak prywatny dziennik."
+
+msgid "This looks like that girl's private journal."
+msgstr "To wygląda jak prywatny dziennik tej dziewczyny."
+
+msgid "Look through it?"
+msgstr "Przejrzeć go?"
+
+msgid "Let's see..."
+msgstr "Zobaczmy..."
+
+msgid "Blegh, it's just math problems... and girly doodles all over."
+msgstr "Meh, to tylko działania matematyczne... i dziewczęce bazgroły na każdym kroku."
+
+msgid "This isn't worth my time."
+msgstr "Nic wartego, mojego czasu."
+
+msgid "A math notebook. Nothing worth looking through."
+msgstr "Zeszyt do matematyki. Nic wartego przeglądania."
+
+msgid "(Alright, so I need to search the school for the items first.)"
+msgstr "(W porządku, więc najpierw muszę przeszukać szkołę w poszukiwaniu tych przedmiotów)."
+
+msgid "(The rune should be in this room...)"
+msgstr "(Runa powinna być w tym pokoju...)"
+
+msgid "(...somewhere.)"
+msgstr "(...gdzieś.)"
+
+msgid "Well, I need a tuft of hair for the ritual..."
+msgstr "Cóż, potrzebuję kępki włosów do rytuału..."
+
+msgid "Should I cut my own hair?"
+msgstr "Czy powinnam ściąć własne włosy?"
+
+msgid "I guess..."
+msgstr "Chyba..."
+
+msgid "Forget it"
+msgstr "Zapomnij o tym."
+
+msgid "Sigh..."
+msgstr "He..."
+
+msgid "Here I go, I suppose..."
+msgstr "No to zaczynam..."
+
+msgid "I never want to do that again."
+msgstr "Chce już to mieć za sobą..."
+
+msgid "You're so brave, Kat."
+msgstr "Jesteś taka odważna, Kat."
+
+msgid "Of course not."
+msgstr "Oczywiście, że nie."
+
+msgid "I already have enough hair."
+msgstr "Mam już wystarczająco dużo włosów."
+
+msgid "(Nah.)"
+msgstr "(Meh.)"
+
+msgid "Um... any takers?"
+msgstr "Są chętni?"
+
+msgid "What do you need?"
+msgstr "Czego potrzebujesz?"
+
+msgid "Just a bit of hair."
+msgstr "Tylko trochę włosów."
+
+msgid "Why don't you cut your own?"
+msgstr "Dlaczego nie wytniesz swoich własnych?"
+
+msgid "I thought you girls wanted to participate...?"
+msgstr "Myślałam, że chciałyście wziąć udział...?"
+
+msgid "I don't mind helping..."
+msgstr "Ja mogłabym pomóc..."
+
+msgid "No Kaya, you don't have to do that."
+msgstr "Nie Kaya, nie musisz tego robić."
+
+msgid "It's alright, I'll give you mine."
+msgstr "W porządku, dam ci moje."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "There's no need for that. I'll just cut some of mine."
+msgstr "Nie ma takiej potrzeby. Po prostu utnę trochę swoich."
+
+msgid "Are you sure?"
+msgstr "Jesteś pewna?"
+
+msgid "Yeah, it would be a waste to use yours."
+msgstr "Tak, to byłoby marnotrawstwo używać twoich."
+
+msgid "Alright."
+msgstr "W porządku."
+
+msgid "A tuft of hair from Saki. She gave it to me voluntarily."
+msgstr "Kępka włosów od Saki. Dała mi ją dobrowolnie."
+
+msgid "Thanks!"
+msgstr "Dzięki!"
+
+msgid "Uuugh..."
+msgstr "Yyyy?"
+
+msgid "It's so dark..."
+msgstr "Jest tak ciemno..."
+
+msgid "Let's see what's behind this door."
+msgstr "Zobaczmy, co jest za tymi drzwiami."
+
+msgid "Maybe we'll find exam answers!"
+msgstr "Może uda nam się znaleźć odpowiedzi na pytania na egzamin!"
+
+msgid "Or dead bodies!"
+msgstr "Albo martwe ciała!"
+
+msgid "Or... maybe it's just a supply closet."
+msgstr "Albo... może to tylko skrytka."
+
+msgid "Heh."
+msgstr "Heh."

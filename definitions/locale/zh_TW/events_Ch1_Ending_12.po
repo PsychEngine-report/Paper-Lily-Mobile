@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Are you sure you'll be okay?"
+msgstr "你確定會沒事嗎？"
+
+msgid "Yeah for sure!"
+msgstr "當然了！"
+
+msgid "Tip top shape."
+msgstr "狀況好得很。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Take your time."
+msgstr "慢慢來。"
+
+msgid "I mean... it's not like I'm bleeding out or anything."
+msgstr "反正...我又沒有在流血。"
+
+msgid "(I need to find an exit fast.)"
+msgstr "(我需要快點找到出口。)"
+
+msgid "Sai is not moving."
+msgstr "賽伊不動了。"
+
+msgid "She's back..... She's back."
+msgstr "她回來了...她回來了。"
+
+msgid "She's singing in my ears....."
+msgstr "她在我的耳邊歌唱..."
+
+msgid "Singing all the time....."
+msgstr "一直在歌唱..."
+
+msgid "Humming..."
+msgstr "哼著歌..."
+
+msgid "Burning..."
+msgstr "燃燒著..."
+
+msgid "Oh no... burning...."
+msgstr "喔不...燃燒著..."
+
+msgid "Hahahahaha....."
+msgstr "哈哈哈哈哈....."
+
+msgid "Burning."
+msgstr "燃燒著。"

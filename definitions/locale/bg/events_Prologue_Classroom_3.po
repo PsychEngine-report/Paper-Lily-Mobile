@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "On second thought, I don't feel like it."
+msgstr "Една вторична мисъл, не се чувствам готова."
+
+msgid "Phew!"
+msgstr "Пфу!"
+
+msgid "This is my desk. Juli sits in front of me, and Kaya sits behind."
+msgstr "Това е моето бюро. Джули стои пред мен, и Кая зад мен."
+
+msgid "I see..."
+msgstr "Така значи..."
+
+msgid "Thanks for letting me know...?"
+msgstr "Благодаря че ме уведоми...?"
+
+msgid "Saki's desk."
+msgstr "Бюрото на Саки."
+
+msgid "This isn't the right classroom for that."
+msgstr "Това не е правилната класна стая за целта."
+
+msgid "The path is already drawn."
+msgstr "Пътят вече е начертан."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Още не. Първо би следвало да се убедя че умам всичко необходимо."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Още не. Искам първо да приключа подготовката на класните стаи."
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "По-добре да не се забърквам в повече проблеми отколкото съм."
+
+msgid "This window already has curtains."
+msgstr "Тоза прозорец вече има пердета."
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "Изгарянето на училището не е част от ритуала."
+
+msgid "There's a red notebook here."
+msgstr "Тук има червен бележник."
+
+msgid "There's nothing else here."
+msgstr "Тук няма нищо друго."
+
+msgid "It's already done."
+msgstr "Вече е свършено."
+
+msgid "This isn't the time for that."
+msgstr "Сега не е времето за това."
+
+msgid "Some world encyclopedias."
+msgstr "Някаква световна енциклопедия."
+
+msgid "I would definitely steal one of these if they weren't so darn heavy."
+msgstr "Определено бих откраднала някое от тези, ако не бяха толкова тежки."
+
+msgid "You can borrow my books if you need..."
+msgstr "Може да вземеш моите книги на заем, ако искаш…"
+
+msgid "I'll keep that in mind."
+msgstr "Ще го имам предвид."
+
+msgid "A clean chalkboard."
+msgstr "Чиста тебеширена дъска."
+
+msgid "A wooden desk."
+msgstr "дървен чин."
+
+msgid "Two paper slips filled with rules and regulations."
+msgstr "Два хартиени фиша с правила и регулации."
+
+msgid "I wonder if it says somewhere that we're not allowed on school grounds at night."
+msgstr "Чудя се дали споменава нещо забранено в училищните площи през ноща."
+
+msgid "Oh well! I guess we'll never know if I don't read it!"
+msgstr "Предполагам че никога няма да разберем, ако не го прочетем!"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Някои присъствени листове и графици."
+
+msgid "A happy green plant."
+msgstr "Щастливо зелено растение."
+
+msgid "The plant is no longer happy."
+msgstr "Растението вече не е щастливо."
+
+msgid "Some cute potted plants. Their silent nature enchants you."
+msgstr "Няколко симпатично засадени растения. Тяхната тиха природа ви очарова."
+
+msgid "The teacher's podium."
+msgstr "Учителския подиум."
+
+msgid "A geography book and a globe sit atop it."
+msgstr "Книга по география и глобус стоящ върху нея."
+
+msgid "Some boring textbooks."
+msgstr "Някакви скучни бележници."
+
+msgid "Some very thick, school-related books."
+msgstr "Някакви много тънки, книги на ученическа тематика."
+
+msgid "Some books and... chalk."
+msgstr "Някакви книги и... тебешир."
+
+msgid "Take it?"
+msgstr "Вземи го?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "There's nothing else of use."
+msgstr "Няма нищо друго, което да е от полза."
+
+msgid "A trash can."
+msgstr "Кошче за боклук."
+
+msgid "As it's usually the case with trash cans, it's devoid of useful items."
+msgstr "Както по принцип се случва с тези кошчета, блика от полезни вещи."
+
+msgid "The curtains should stay closed."
+msgstr "Завесите трябва да останат спуснати."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Да сортирам ли бюрата на класната стая сега?"
+
+msgid "Not yet"
+msgstr "Още не"
+
+msgid "Let's do this."
+msgstr "Хайде да го направим."

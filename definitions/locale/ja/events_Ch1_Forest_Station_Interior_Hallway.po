@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's just a flipped version of the other one..."
+msgstr "あっちのやつを反転させただけだ……"
+
+msgid "It's not strong enough to cut through this. It must be reinforced somehow."
+msgstr "これを切れるほどの強度はない。何らかの強化がされているらしい。"
+
+msgid "There's a pair of scissors here."
+msgstr "ハサミがある。"
+
+msgid "Take ${item:ch1.scissors}?"
+msgstr "${item:ch1.scissors} を取る？"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.item_scissors_get.choice.Take ${item:ch1.scissors}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.item_scissors_get.choice.Take ${item:ch1.scissors}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "You have a bad feeling about this. Are you sure?"
+msgstr "嫌な予感がする。本当に取る？"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.item_scissors_get.choice.You have a bad feeling about this. Are you sure?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.item_scissors_get.choice.You have a bad feeling about this. Are you sure?"
+msgid "No"
+msgstr "取らない"
+
+msgid "These scissors can't cut through metal."
+msgstr "このハサミでは金属は切れない。"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.misc_painting_left.dlg.narrator"
+msgid "An abstract painting."
+msgstr "抽象画。"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Hallway.misc_painting_right.dlg.narrator"
+msgid "An abstract painting."
+msgstr "抽象画。"
+
+msgid "An entrance to some sort of tunnel. It's locked and doesn't seem to have been opened in a while."
+msgstr "何らかのトンネルの入り口。鍵がかかっており、しばらく開けられていないようだ。"

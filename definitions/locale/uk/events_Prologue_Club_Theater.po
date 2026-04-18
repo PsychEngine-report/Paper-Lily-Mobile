@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's this supposed to be? Do you guys sleep here?"
+msgstr "Що це значить? Ви тут що, спите?"
+
+msgid "Obviously not."
+msgstr "Вочевидь, ні."
+
+msgid "I can't believe this, are you five years old?"
+msgstr "Очам не вірю, хто тебе з дитсадка випустив?"
+
+msgid "Isn't it interesting how electronics work?"
+msgstr "А тобі хіба не цікаво, як працює електроніка?"
+
+msgid "But they DON'T work! Not anymore!"
+msgstr "Вона тепер НЕ працює!"
+
+msgid "I think you're wasting your breath..."
+msgstr "Краще побережи сили..."
+
+msgid ""
+"\"Roses are red\n"
+"Violets are probably violet\""
+msgstr ""
+"\"Рози червоні,\n"
+"Фіалкові фіалки,\""
+
+msgid ""
+"\"My love for you sparkles\n"
+"Like the glow of a diamond\""
+msgstr ""
+"\"В моєму коханні\n"
+"Є блиск діамантів\""
+
+msgid ""
+"\"I watch you every day\n"
+"I watch you every night\""
+msgstr ""
+"\"Слідкую за тобою,\n"
+"Слідкую день і ніч,\""
+
+msgid "\"I watch you\""
+msgstr "\"Слідкую за тобою\""
+
+msgid "\"I watch you I watch you I watch you I watch you I watch you I watch you\""
+msgstr "\"Слідкую за тобою слідкую за тобою слідкую за тобою слідкую за тобою\""
+
+msgid "The other side of the paper is filled with black scribbles."
+msgstr "Інша сторона аркуша заповнена чорними плямами."
+
+msgid "That... doesn't sound right."
+msgstr "Якийсь... хворий вірш."
+
+msgid "Is... everyone in your club okay?"
+msgstr "У тебе всі в клубі здорові?"
+
+msgid "Right now, I'm not sure..."
+msgstr "Зараз я не впевнена..."
+
+msgid "I'd rather people didn't find out I was here."
+msgstr "Буде на краще, якщо ніхто не дізнається, що я тут була."
+
+msgid "Please don't mess up this room..."
+msgstr "Прошу, тільки не влаштовуй тут безлад..."
+
+msgid "A pile of neatly folded drapes."
+msgstr "Купа охайно складених драпів."
+
+msgid "Take them?"
+msgstr "Взяти їх?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "This could be useful."
+msgstr "Це може стати в пригоді."
+
+msgid "You don't need this anymore."
+msgstr "Вам це більше не потрібно."
+
+msgid "Those poor boxes probably don't deserve it."
+msgstr "Бідні коробки цього не заслуговують."
+
+msgid "Oh how I wish..."
+msgstr "Ой як би мені хотілось..."
+
+msgid "..."
+msgstr "..."
+
+msgid "Alright, let's see..."
+msgstr "Так, погляньмо..."
+
+msgid "There's a ton of useless objects in the boxes and..... a letter."
+msgstr "У коробці лежить купа непотребу та... лист."
+
+msgid "Read it?"
+msgstr "Прочитати його?"
+
+msgid "They're already open."
+msgstr "Вони вже відкриті."
+
+msgid "There's no point in brandishing your scissors at them. They're already open."
+msgstr "Не варто тицяти в них ножицями. Вони вже відкриті."
+
+msgid "Some blankets are sprawled all over the floor."
+msgstr "По підлозі розкидані простирадла."
+
+msgid "They are too heavy to use as curtains."
+msgstr "Для завісок вони заважкі."
+
+msgid "A large pile of cardboard boxes sealed with tape."
+msgstr "Велика купа картонних коробок, перев'язаних скотчем."
+
+msgid "There's nothing else of interest in them."
+msgstr "В них немає більше нічого цікавого."
+
+msgid "Read the letter?"
+msgstr "Прочитати лист?"
+
+msgid "Some cardboard boxes full of neatly folded costumes."
+msgstr "У деяких коробках багато охайно складених костюмів."
+
+msgid "Chairs. No time to rest right now."
+msgstr "Стільці. На жаль, зараз не час відпочивати."
+
+msgid "A chalkboard. There's a smiley face drawn on it."
+msgstr "Дошка. На ній зображене усміхнене лице."
+
+msgid "A chalkboard. The letter F is written on it."
+msgstr "Дошка. На ній зображені літери \"-КА\"."
+
+msgid "A chalkboard. I can't tell what's drawn on it."
+msgstr "Дошка. Незрозуміло, що на ній зображено."
+
+msgid "A chalkboard. There are stars drawn on it."
+msgstr "Дошка. На ній зображені зорі."
+
+msgid "Did you draw this?"
+msgstr "Це ти намалювала?"
+
+msgid "Do I look like the only member of this club?"
+msgstr "Вважаєш, що я одна цей гурток відвідую?"
+
+msgid "So... did you draw this?"
+msgstr "Ще раз... це ти намалювала?"
+
+msgid "...Maybe I did."
+msgstr "...Може і я."
+
+msgid "A chalkboard. The word \"THIEF\" is written on it."
+msgstr "Дошка. На ній написано \"КРАДІЙКА\"."
+
+msgid "A chalkboard. There's... something drawn on it."
+msgstr "Дошка. На ній... щось зображене."
+
+msgid "Where did they find red chalk...?"
+msgstr "Звідки в них червона крейда?.."
+
+msgid "A soft red curtain."
+msgstr "М'які червоні завіски."
+
+msgid "Draw curtain?"
+msgstr "Посунути завіску в сторону?"
+
+msgid "Take them out?"
+msgstr "Взяти їх?"
+
+msgid "There's some paint and brushes in the drawer."
+msgstr "У шухлядці лежать фарба та пензлі."
+
+msgid "There are various makeup kits and accessories in the drawer."
+msgstr "У шухлядці лежать різноманітні прикраси та набори для макіяжу."
+
+msgid "It's not working."
+msgstr "Він не працює."
+
+msgid "It's not working anymore."
+msgstr "Він більше не працює."
+
+msgid "Several hand made costumes are hanging from the rack."
+msgstr "На вішаку є кілька костюмів ручної праці."
+
+msgid "Blegh, they have poor taste in clothes."
+msgstr "Який у них нудний смак в одязі..."
+
+msgid "You DO know these are for acting, right...?"
+msgstr "Ти ж розумієш, що вони для сцени?.."
+
+msgid "A rack with various hats and scarves."
+msgstr "Вішак з різноманітними капелюхами та шаликами."
+
+msgid "A table with a blank sheet of poster paper and some colored pencils."
+msgstr "Стіл, на якому лежить пустий аркуш паперу та пара кольорових олівців."
+
+msgid "Is this what you do here?"
+msgstr "Ви цим тут займаєтесь?"
+
+msgid "If it's a drawing club, maybe I'll join, too."
+msgstr "Якщо це гурток з малювання, я до вас приєднуюсь."
+
+msgid "Please don't."
+msgstr "Краще не треба."
+
+msgid "There's really no incentive to check out the contents of the trash can."
+msgstr "Не бачу сенсу копатися у відрі для сміття."

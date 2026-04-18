@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "好極了，我需要東西來殺時間。"
+
+msgid "You got a crayon too?"
+msgstr "妳也有蠟筆嗎？"
+
+msgid "It's not for you."
+msgstr "不是給你的。"
+
+msgid "What!?"
+msgstr "什麼！？"
+
+msgid "You about to start cleaning in here?"
+msgstr "你要開始打掃這裡嗎？"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "你到底在揮舞那隻腳做什麼！？"
+
+msgid "Did you cut it..?"
+msgstr "是妳切下它的嗎...？"
+
+msgid "..."
+msgstr "..."
+
+msgid "I had to."
+msgstr "我必須這麼做。"
+
+msgid "Mhmmm..."
+msgstr "嗯嗯嗯..."
+
+msgid "It's true."
+msgstr "是真的。"
+
+msgid "Yeah..."
+msgstr "是啊..."
+
+msgid "It's a jar."
+msgstr "是個罐子。"
+
+msgid "Yes."
+msgstr "對。"
+
+msgid "It's empty."
+msgstr "是空的。"
+
+msgid "...Yes."
+msgstr "...對。"
+
+msgid "Why are you showing it to me?"
+msgstr "妳為什麼要把它拿給我看？"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "只是想要看看你有什麼高見。"
+
+msgid "It seems you don't."
+msgstr "看來你沒有。"
+
+msgid "H-Hey!"
+msgstr "嘿-嘿！"
+
+msgid "The key fits!"
+msgstr "鑰匙吻合！"
+
+msgid "Thanks!"
+msgstr "謝了！"
+
+msgid "(Sai joined your party.)"
+msgstr "(賽伊加入了妳的隊伍。)"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "這籠子沒有鑰匙孔。"
+
+msgid "The key does not fit."
+msgstr "鑰匙不合。"
+
+msgid "Um... could you..."
+msgstr "嗯...你可以..."
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "什麼？妳都不把我弄出來，就要我割傷自己？"
+
+msgid "Is this how you make friends?"
+msgstr "妳就是這樣交朋友的嗎？"
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "(猜錯了...我不交朋友。)"
+
+msgid "That's not gonna cut through this cage."
+msgstr "這可沒辦法剪開籠子。"
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "妳確定妳不是縱火狂嗎？"
+
+msgid "I won't judge, really."
+msgstr "我不會對妳另眼相看，真的。"
+
+msgid "...I'm not."
+msgstr "...我不是。"
+
+msgid "I found this, but I don't know how to use it."
+msgstr "我找到了這個，但是我不知道怎麼使用。"
+
+msgid "Can you pick your own lock or something?"
+msgstr "你可以撬開自己的鎖還是怎麼樣嗎？"
+
+msgid "Sure can!"
+msgstr "當然可以！"
+
+msgid "I still look pretty good, all things considered."
+msgstr "考慮到目前的狀況，我看起來還不錯。"
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "所以妳有時間動手做顏料，但沒有時間把我弄出來？"
+
+msgid "Correct."
+msgstr "沒錯。"
+
+msgid "A large cage."
+msgstr "巨大的籠子。"
+
+msgid "A large cage hangs from the ceiling."
+msgstr "從天花板吊著的巨大籠子。"
+
+msgid "A small cage housing a crow."
+msgstr "住著一隻烏鴉的小籠子。"
+
+msgid "How cruel, locking up a bird like this."
+msgstr "真殘忍，把一隻鳥關在這裡。"
+
+msgid "...Or is it just a regular pet?"
+msgstr "...還是這只是一隻普通的寵物？"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "(看來沒辦法釋放這隻鳥。)"
+
+msgid "The crow is dead."
+msgstr "烏鴉死了。"
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "噢糟了。那個拿著刀子的女士一定來過這裡了。"
+
+msgid "How do you know?"
+msgstr "你怎麼知道的？"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "根據我的經驗，鳥不會就這樣燃燒。"
+
+msgid "A small cage. It's empty."
+msgstr "小籠子。是空的。"
+
+msgid "The cage you were trapped in."
+msgstr "妳之前被困在的籠子。"
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "每一面都關閉了，所以不可能進去。"
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "還是小心點免得回到裡面。"
+
+msgid "So how'd you... get out?"
+msgstr "所以妳是怎麼...逃出去的？"
+
+msgid "I'm not sure."
+msgstr "我不確定。"
+
+msgid "You were here, didn't you see it?"
+msgstr "你在這裡，難道你沒看到嗎？"
+
+msgid "I wasn't paying attention."
+msgstr "我沒注意。"
+
+msgid "Good job getting out of that."
+msgstr "能夠離開那裡真是幹得好。"
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "我沒有看到妳怎麼辦到的，但是妳一定很會穿越堅固的鐵欄杆。"
+
+msgid "Thanks."
+msgstr "謝了。"
+
+msgid "Looks like you're in a bind yourself."
+msgstr "看來你自己也陷入困境了。"
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "(如果他是惡魔的話，可以用自己的力量逃脫...對吧？)"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "(還是他只是不在乎...？)"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "聽著，妳大概不該待在這裡。"
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "如果那怪物女士聽到妳發出的聲音並回來檢查，妳就麻煩大了，知道嗎？"
+
+msgid "Hmm... you're right."
+msgstr "嗯...說的對。"
+
+msgid "Well, see you."
+msgstr "好吧，再見。"
+
+msgid "Where are you going?"
+msgstr "妳要去哪？"
+
+msgid "I'm going to look around a bit."
+msgstr "我要到處看看。"
+
+msgid "...and...?"
+msgstr "...然後...？"
+
+msgid "I should try to find an exit too."
+msgstr "我也應該找到出口。"
+
+msgid "...And nothing else...?"
+msgstr "...然後沒有別的了嗎...？"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Are you serious? Get me out of here!"
+msgstr "妳是認真的嗎？把我弄出來！"
+
+msgid "Ah, of course."
+msgstr "啊，當然了。"
+
+msgid "Sure, I'll try."
+msgstr "沒問題，我會試試。"
+
+msgid "...Alright."
+msgstr "...好吧。"
+
+msgid "I lost all my items..."
+msgstr "我弄丟了所有的東西..."
+
+msgid "Do you still have your belongings?"
+msgstr "你的東西還在嗎？"
+
+msgid "My stuff? It's all gone."
+msgstr "我的東西？都不見了。"
+
+msgid "I guess the demon lady took it."
+msgstr "我猜惡魔女士拿走了。"
+
+msgid "I see..."
+msgstr "我明白了..."
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "(這很糟糕。沒了我的東西就不能回家了。)"
+
+msgid "You're back."
+msgstr "妳回來了。"
+
+msgid "Any clues?"
+msgstr "有什麼線索嗎？"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "有，我跟一隻蜘蛛講過話。"
+
+msgid "You spoke to a spider...?"
+msgstr "妳跟一隻蜘蛛講過話...？"
+
+msgid "And did the spider speak back?"
+msgstr "那蜘蛛有回話嗎？"
+
+msgid "Ok, that's kinda intriguing."
+msgstr "好吧，這還滿有趣的。"
+
+msgid "He told me what to do to get out of here."
+msgstr "他告訴我該怎麼做才能逃離這裡。"
+
+msgid "Really?"
+msgstr "真的嗎？"
+
+msgid "Yes. I'll take care of it."
+msgstr "是啊。我會處理。"
+
+msgid "Aaaalright."
+msgstr "好~~吧。"
+
+msgid "I'll just... be here."
+msgstr "我就...在這裡。"
+
+msgid "Well, see you later."
+msgstr "好吧，等會兒見。"
+
+msgid "Got it."
+msgstr "知道了。"
+
+msgid "If you want a lollipop I have more."
+msgstr "如果妳想要棒棒糖的話我還有更多。"
+
+msgid "No thank you."
+msgstr "不用，謝謝你。"
+
+msgid "Be careful out there."
+msgstr "在外面小心點。"
+
+msgid "The cage Sai was in."
+msgstr "賽伊之前所在的籠子。"
+
+msgid "Sai isn't here anymore."
+msgstr "賽伊已經不在這裡了。"
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "嘿，嘿...妳就這樣離開了嗎...？"
+
+msgid "Wait."
+msgstr "等等。"
+
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "What did you try to buy?"
+msgstr "妳之前想要買什麼？"
+
+msgid "...What?"
+msgstr "...什麼？"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "妳說妳今天想要在店裡買東西。"
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "...為什麼現在問這個問題？"
+
+msgid "Just curious."
+msgstr "好奇而已。"
+
+msgid "...It was just a flan."
+msgstr "...只是一顆焦糖布丁。"
+
+msgid "...It was just some macarons."
+msgstr "...只是一些馬卡龍。"
+
+msgid "...It was just a chocolate eclair."
+msgstr "...只是一顆閃電泡芙。"
+
+msgid "Huh."
+msgstr "嗯。"
+
+msgid "So you like flan?"
+msgstr "那妳喜歡焦糖布丁嗎？"
+
+msgid "So you like macarons?"
+msgstr "那妳喜歡馬卡龍嗎？"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "妳喜歡閃電泡芙嗎？只喜歡巧克力口味的？"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "現在真的是討論這個的時候嗎？"
+
+msgid "When else? I'm bored now, not later."
+msgstr "還有什麼時候？我現在很無聊，不是之後。"
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "在這個籠子裡可沒有什麼好思考的。"
+
+msgid "...I'm leaving."
+msgstr "...我要走了。"
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "等等，至少告訴我妳的名字，然後我就放妳自由！"
+
+msgid "...Sigh."
+msgstr "...唉。"
+
+msgid "It's Lacie."
+msgstr "是萊西。"
+
+msgid "Will that be all?"
+msgstr "就這樣嗎？"
+
+msgid "Yeah!"
+msgstr "對！"
+
+msgid "I'll be going then."
+msgstr "那我走了。"
+
+msgid "Good luck, try not to get killed."
+msgstr "祝你好運，試著別被殺了。"
+
+msgid "...Mhm."
+msgstr "...嗯哼。"
+
+msgid "I'm not sure where I am right now..."
+msgstr "我不確定現在在哪..."
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "但是，我只要找到出口並不碰到那怪物。"
+
+msgid "...Or should I help that guy first?"
+msgstr "...還是我應該先幫幫那傢伙？"
+
+msgid "Um, so..."
+msgstr "嗯，所以..."
+
+msgid "The knives lady was here."
+msgstr "帶著刀子的女士之前在這裡。"
+
+msgid "She pulverized that bird."
+msgstr "她粉碎了那隻鳥。"
+
+msgid "It was crazy, I thought I was toast."
+msgstr "太瘋狂了，我以為我完蛋了。"
+
+msgid "Where did she go after?"
+msgstr "她之後去哪了？"
+
+msgid "No clue."
+msgstr "不知道。"

@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hey, where do you think you're going?"
+msgstr "嘿，你想去哪儿？"
+
+msgctxt "events.Ch1_BlackPass_Classroom.event_bouncer.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_BlackPass_Classroom.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "There she is."
+msgstr "她来了。"
+
+msgid "That's her?"
+msgstr "就是她么？"
+
+msgid "She's so cursed that the bird dropped dead."
+msgstr "她被诅咒地如此之深，以至于鸟都会摔死。"
+
+msgid "If she can make a bird die, I wonder what she could do to people."
+msgstr "如果她能让鸟死，我想她也能转而祸害人。"
+
+msgid "What a freak."
+msgstr "真是疯了。"
+
+msgid "Hey, you killed that poor bird."
+msgstr "嘿，你杀掉了那只可怜的鸟。"
+
+msgid "...N-no..."
+msgstr "...没—没有..."
+
+msgid "It flew into the window next to YOUR seat."
+msgstr "它飞到了你座位旁的窗户上。"
+
+msgid "...but.. I didn't..."
+msgstr "...但...我没有..."
+
+msgid "It died because of you."
+msgstr "它因为你而死。"
+
+msgid "This is your fault."
+msgstr "这是你的错。"
+
+msgid "Aargh!"
+msgstr "啊！"
+
+msgid "........"
+msgstr "........"
+
+msgid "What the hell!?"
+msgstr "什么鬼！？"
+
+msgid "Did she kill him?"
+msgstr "她把他杀掉了吗？"
+
+msgid "Is he dead?"
+msgstr "他死了吗？"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.unknown"
+msgid "MURDERER!"
+msgstr "凶手！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.unknown"
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "凶手！凶手！凶手！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Wait... what are you doing!?"
+msgstr "慢着...你在做什么！？"
+
+msgid "I'm doing something, unlike you."
+msgstr "我在做事情，不像你。"
+
+msgid "AAAAH!"
+msgstr "啊！"
+
+msgid "She killed him!"
+msgstr "她杀死了他！"
+
+msgid "Oh my god! She's crazy!"
+msgstr "我的天呐！她疯了！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.unknown"
+msgid "MURDERER!"
+msgstr "凶手！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.unknown"
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "凶手！凶手！凶手！"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Pick up ${item:global.reditem_3}?"
+msgstr "要捡起${item:global.reditem_3}吗？"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_red_item_get.choice.Pick up ${item:global.reditem_3}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_red_item_get.choice.Pick up ${item:global.reditem_3}?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "This isn't my fault..."
+msgstr "这并非我的过错..."
+
+msgid "Can't believe you're still acting innocent."
+msgstr "不敢相信你还在装单纯。"
+
+msgid "You disgust me."
+msgstr "你把我恶心到了。"
+
+msgid "You cause nothing but ruin everywhere you go!"
+msgstr "你到哪儿都是个祸害！"
+
+msgid "I-I'm sorry... I'm really sorry... I don't do it on purpose... I didn't do anything..."
+msgstr "我—我很抱歉...我真的很抱歉...我不是故意的...我什么也没做..."
+
+msgid "Maybe you SHOULD do something..."
+msgstr "也许你应该做点什么..."
+
+msgid "...Huh?"
+msgstr "...啊？"
+
+msgid "...To make it up to us. Why don't you take responsibility for messing up everything?"
+msgstr "...来补偿我们。为什么你可以这样不负责任地捣毁一切呢？"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "...H-How...?"
+msgstr "...要-要做什么...？"
+
+msgid "Hmmm."
+msgstr "嗯嗯。"
+
+msgid "Make her eat it!"
+msgstr "让她把那玩意吃了！"
+
+msgid "Yeah! Eat the bird!"
+msgstr "对！吃掉那只鸟！"
+
+msgid "...What..?!"
+msgstr "...什么...？！"
+
+msgid "You heard them."
+msgstr "你已经听到他们说的话了。"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.unknown"
+msgid "Eat it, witch."
+msgstr "吃了它，女巫。"
+
+msgid "If you eat it, maybe we'll forgive you."
+msgstr "如果你把它吃了，我们可能就会原谅你了。"
+
+msgid "Eat the bird, murderer."
+msgstr "把鸟吃了，凶手。"
+
+msgid "(This isn't real...)"
+msgstr "（这不是真的...）"
+
+msgid "(Do I really have to do this...?)"
+msgstr "（我真的要这么做么...？）"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice.(Do I really have to do this...?)"
+msgid "Eat the bird"
+msgstr "吃掉这只鸟"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice.(Do I really have to do this...?)"
+msgid "Do not"
+msgstr "什么也不做"
+
+msgid "Take the _____"
+msgstr "拿起_____"
+
+msgid "(Will this get them to stop...?)"
+msgstr "（这样能让他们停下吗...？）"
+
+msgid "(Ugh... I feel sick...)"
+msgstr "（呃...我感觉好难受...）"
+
+msgid "She actually did it! She's insane!"
+msgstr "她真的吃了！她疯了！"
+
+msgid "She's such a freak! HAHAHAHA!"
+msgstr "她真是个疯子吧！哈哈哈哈！"
+
+msgid "HAHAHAHA It's all bloody now!"
+msgstr "哈哈哈哈，她现在浑身是血！"
+
+msgid "HAHAHAHAHA"
+msgstr "哈哈哈哈哈"
+
+msgid "HAHAHAHAHAHAHAHAHAHAHA"
+msgstr "哈哈哈哈哈哈哈哈哈哈"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Stab self"
+msgstr "刺向自己"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Do not"
+msgstr "什么也不做"
+
+msgid "(This dream...)"
+msgstr "（这场梦...）"
+
+msgid "(The easiest way to get out...)"
+msgstr "（最简单的离开方式...）"
+
+msgid "(It's obvious, isn't it?)"
+msgstr "（很明显，不是么？）"
+
+msgid "...Ah! It hurts! ...it hurts..."
+msgstr "...啊！好痛！...好痛..."
+
+msgid "...When am I waking up..."
+msgstr "...我什么时候能醒来..."
+
+msgid "...Let this stupid... nightmare... end..."
+msgstr "...让这场愚蠢的...噩梦...结束吧..."
+
+msgid "...Why..."
+msgstr "...为什么..."
+
+msgid "...It's just a dream... so why..."
+msgstr "...这只是一场梦吧...所以为什么..."
+
+msgid "...It hurts..."
+msgstr "...那么痛..."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Eat the bird"
+msgstr "吃掉这只鸟"
+
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgid "There's nothing else to do here."
+msgstr "这里已经没有能做的事情了。"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_person_left.dlg.unknown"
+msgid "Eat it, witch."
+msgstr "吃了它，女巫。"
+
+msgid "Sorry, I can't let you pass."
+msgstr "抱歉，我不能让你过去。"
+
+msgid "Please?"
+msgstr "求你了？"
+
+msgid "Just do what they say."
+msgstr "就按照他们说的做吧。"
+
+msgid "(A strong force prevents you from entering the wardrobe.)"
+msgstr "（一股强大的推力阻止你进入衣柜。）"
+
+msgid "(Push through?)"
+msgstr "（要推开吗？）"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_wardrobe.choice.(Push through?)"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_wardrobe.choice.(Push through?)"
+msgid "No"
+msgstr "否"
+
+msgid "\"MURDERER\""
+msgstr "“凶手”"
+
+msgid "The passageway has closed behind you."
+msgstr "你身后的通道已经关上了。"

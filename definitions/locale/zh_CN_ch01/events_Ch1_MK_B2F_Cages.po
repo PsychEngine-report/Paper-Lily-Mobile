@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "哦，太好了，我正需要什么东西来消磨时间呢。"
+
+msgid "You got a crayon too?"
+msgstr "你带蜡笔了吗？"
+
+msgid "It's not for you."
+msgstr "这个不是给你的。"
+
+msgid "What!?"
+msgstr "什么！？"
+
+msgid "You about to start cleaning in here?"
+msgstr "你要开始给这里打扫了吗？"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "你拿那只脚晃来晃去，是在搞什么鬼！？"
+
+msgid "Did you cut it..?"
+msgstr "是你切下来的吗..？"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_foot_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I had to."
+msgstr "是的。"
+
+msgid "Mhmmm..."
+msgstr "唔..."
+
+msgid "It's true."
+msgstr "真的。"
+
+msgid "Yeah..."
+msgstr "好吧..."
+
+msgid "It's a jar."
+msgstr "这是个罐子。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_jar_on_sai.dlg.lacie"
+msgid "Yes."
+msgstr "没错。"
+
+msgid "It's empty."
+msgstr "这是空的。"
+
+msgid "...Yes."
+msgstr "...没错。"
+
+msgid "Why are you showing it to me?"
+msgstr "所以你拿给我看干什么？"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "就是想看你对它有什么高见。"
+
+msgid "It seems you don't."
+msgstr "看起来你没有。"
+
+msgid "H-Hey!"
+msgstr "嘿——嘿！"
+
+msgid "The key fits!"
+msgstr "钥匙对上了！"
+
+msgid "Thanks!"
+msgstr "谢谢你！"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_key_correct_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "（赛伊加入了你的队伍。）"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "这个笼子没有钥匙孔。"
+
+msgid "The key does not fit."
+msgstr "钥匙对不上。"
+
+msgid "Um... could you..."
+msgstr "呃...你能..."
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "什么？你不但不帮我出去，还要我割伤自己？"
+
+msgid "Is this how you make friends?"
+msgstr "这就是你交朋友的方式吗？"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_knife_blk_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "（开玩笑...我又不交朋友。）"
+
+msgid "That's not gonna cut through this cage."
+msgstr "这个切不开笼子吧。"
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "你确定你不是纵火狂吗？"
+
+msgid "I won't judge, really."
+msgstr "看不出来呀。"
+
+msgid "...I'm not."
+msgstr "...我不是啦。"
+
+msgid "I found this, but I don't know how to use it."
+msgstr "我找到了这个，但是我不知道怎么用。"
+
+msgid "Can you pick your own lock or something?"
+msgstr "你能把自己的锁撬开之类的吗？"
+
+msgid "Sure can!"
+msgstr "当然可以！"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_lockpick_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "（赛伊加入了你的队伍。）"
+
+msgid "I still look pretty good, all things considered."
+msgstr "不管从哪个角度，我看起来还是挺不错的吧。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_mirror_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "所以说你有都时间做手工颜料了，都没时间把我救出去？"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_paint_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Correct."
+msgstr "没错。"
+
+msgid "A large cage."
+msgstr "巨大的笼子。"
+
+msgid "A large cage hangs from the ceiling."
+msgstr "天花板上吊着巨大的笼子。"
+
+msgid "A small cage housing a crow."
+msgstr "一只乌鸦居住在小笼子里。"
+
+msgid "How cruel, locking up a bird like this."
+msgstr "太残忍了，像这样把鸟锁起来。"
+
+msgid "...Or is it just a regular pet?"
+msgstr "...还是说，这只是一只普通的宠物？"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "（似乎没有任何办法能把鸟儿放出来。）"
+
+msgid "The crow is dead."
+msgstr "乌鸦死了。"
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "天呐。那个拿刀的女人肯定来过这里了。"
+
+msgid "How do you know?"
+msgstr "你怎么知道？"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "嗯，根据我的经验来说，鸟是不会自燃的。"
+
+msgid "A small cage. It's empty."
+msgstr "小型笼子。是空的。"
+
+msgid "The cage you were trapped in."
+msgstr "曾把你困住的笼子。"
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "四周都紧闭着，所以没有办法进到里面。"
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "小心一点，不要再回到里面去了。"
+
+msgid "So how'd you... get out?"
+msgstr "所以，你是怎么...出来的？"
+
+msgid "I'm not sure."
+msgstr "我不知道。"
+
+msgid "You were here, didn't you see it?"
+msgstr "你刚就在这里啊，没看到吗？"
+
+msgid "I wasn't paying attention."
+msgstr "我没注意。"
+
+msgid "Good job getting out of that."
+msgstr "干得好啊，你从那里面出来了。"
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "我不知道你是怎么做到的，但是你一定很擅长穿过这种坚固的钢条吧。"
+
+msgid "Thanks."
+msgstr "谢谢你的夸奖。"
+
+msgid "Looks like you're in a bind yourself."
+msgstr "看起来你也陷入困境了。"
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "（如果他是恶魔的话，他不就可以直接用他的力量逃出来吗...对吧？）"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "（还是说他只是不在意这个呢...？）"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "听着，你不应该呆在这个地方。"
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "如果那个怪物女士听到你发出的噪音，过来看了，你就麻烦了，懂吗？"
+
+msgid "Hmm... you're right."
+msgstr "嗯...你说得对。"
+
+msgid "Well, see you."
+msgstr "嗯，再见了。"
+
+msgid "Where are you going?"
+msgstr "你要去哪？"
+
+msgid "I'm going to look around a bit."
+msgstr "我要出去转转。"
+
+msgid "...and...?"
+msgstr "...然后呢...？"
+
+msgid "I should try to find an exit too."
+msgstr "我应该去找出口之类的。"
+
+msgid "...And nothing else...?"
+msgstr "...还有呢...？"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Are you serious? Get me out of here!"
+msgstr "你认真的吗？把我搞出来啊！"
+
+msgid "Ah, of course."
+msgstr "啊，对哦。"
+
+msgid "Sure, I'll try."
+msgstr "好的，我会试试的。"
+
+msgid "...Alright."
+msgstr "...好吧。"
+
+msgid "I lost all my items..."
+msgstr "我的东西都丢了..."
+
+msgid "Do you still have your belongings?"
+msgstr "你的物品都还在吗？"
+
+msgid "My stuff? It's all gone."
+msgstr "我的东西？都不见了。"
+
+msgid "I guess the demon lady took it."
+msgstr "我猜那个恶魔女士把它们拿走了。"
+
+msgid "I see..."
+msgstr "嗯..."
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "（太糟糕了。没有我的东西的话，我就回不了家了。）"
+
+msgid "You're back."
+msgstr "你回来了。"
+
+msgid "Any clues?"
+msgstr "有什么线索吗？"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "嗯，我跟一只蜘蛛说了话。"
+
+msgid "You spoke to a spider...?"
+msgstr "你跟一只蜘蛛说了话...？"
+
+msgid "And did the spider speak back?"
+msgstr "然后那只蜘蛛回话了？"
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "Yes."
+msgstr "没错。"
+
+msgid "Ok, that's kinda intriguing."
+msgstr "好吧，还真有点意思吼。"
+
+msgid "He told me what to do to get out of here."
+msgstr "他告诉了我出去的办法。"
+
+msgid "Really?"
+msgstr "真的吗？"
+
+msgid "Yes. I'll take care of it."
+msgstr "对。我会处理好的。"
+
+msgid "Aaaalright."
+msgstr "好——吧。"
+
+msgid "I'll just... be here."
+msgstr "那我就在这里...呆着吧。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Well, see you later."
+msgstr "好吧，待会儿见。"
+
+msgid "Got it."
+msgstr "行。"
+
+msgid "If you want a lollipop I have more."
+msgstr "如果你要棒棒糖的话，我还有。"
+
+msgid "No thank you."
+msgstr "不了，谢谢你。"
+
+msgid "Be careful out there."
+msgstr "在外面小心一点。"
+
+msgid "The cage Sai was in."
+msgstr "赛伊之前所在的笼子。"
+
+msgid "Sai isn't here anymore."
+msgstr "赛伊已经不在这里了"
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "嘿，嘿...你要走了吗...？"
+
+msgid "Wait."
+msgstr "慢着。"
+
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "What did you try to buy?"
+msgstr "你说你试着买什么东西？"
+
+msgid "...What?"
+msgstr "...你在说什么？"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "你说你今天试着去店里买什么东西来着。"
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "...为什么你要现在问这个，其他时候问不好吗？"
+
+msgid "Just curious."
+msgstr "就是好奇。"
+
+msgid "...It was just a flan."
+msgstr "...就是一块果馅饼而已。"
+
+msgid "...It was just some macarons."
+msgstr "...就是一些马卡龙而已。"
+
+msgid "...It was just a chocolate eclair."
+msgstr "...就是一个巧克力味的闪电泡芙而已。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.sai"
+msgid "Huh."
+msgstr "嗯。"
+
+msgid "So you like flan?"
+msgstr "所以说你喜欢果馅饼？"
+
+msgid "So you like macarons?"
+msgstr "所以说你喜欢马克龙？"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "所以你喜欢闪电泡芙？只喜欢巧克力味的吗？"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "现在真的是谈这个的时候吗？"
+
+msgid "When else? I'm bored now, not later."
+msgstr "那还有什么时候？我现在就很无聊，等不及了。"
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "在这个笼子里，我也没什么可想的了。"
+
+msgid "...I'm leaving."
+msgstr "...我要走了。"
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "等等，起码告诉我你的名字吧，然后我就放你走！"
+
+msgid "...Sigh."
+msgstr "...哎。"
+
+msgid "It's Lacie."
+msgstr "莱西。"
+
+msgid "Will that be all?"
+msgstr "就这样吗？"
+
+msgid "Yeah!"
+msgstr "是的！"
+
+msgid "I'll be going then."
+msgstr "我要走了。"
+
+msgid "Good luck, try not to get killed."
+msgstr "祝你好运，试着别被杀掉哦。"
+
+msgid "...Mhm."
+msgstr "...嗯。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'm not sure where I am right now..."
+msgstr "我不清楚我现在要去那里..."
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "但是，我所要做的就是找到出口，不要碰到那个怪物。"
+
+msgid "...Or should I help that guy first?"
+msgstr "...还是说我应该先帮帮那个家伙？"
+
+msgid "Um, so..."
+msgstr "呃，所以..."
+
+msgid "The knives lady was here."
+msgstr "那位拿刀的女士刚刚来了。"
+
+msgid "She pulverized that bird."
+msgstr "她把那只鸟打得稀巴烂。"
+
+msgctxt "events.Ch1_MK_B2F_Cages.on_enter_sai_crow_react.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It was crazy, I thought I was toast."
+msgstr "太疯狂了，我以为我死定了。"
+
+msgid "Where did she go after?"
+msgstr "之后她去哪里了？"
+
+msgid "No clue."
+msgstr "不清楚。"

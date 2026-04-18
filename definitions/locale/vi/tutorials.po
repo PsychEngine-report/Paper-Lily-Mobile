@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Battle"
+msgstr "Chiến đấu"
+
+msgid "Move around to avoid the spikes!"
+msgstr "Di chuyển loanh quanh để né gai!"
+
+msgid "Minigame: Box Puzzle"
+msgstr "Minigame: Đẩy Hộp"
+
+msgid "Push the desks into the green zones to complete the puzzle"
+msgstr "Đẩy bàn học vào ô xanh lá để hoàn tất puzzle này"
+
+msgid "Documents"
+msgstr "Tài liệu"
+
+msgid "Your papers and notes are stored in the notebook in your inventory."
+msgstr "Giấy tờ và ghi chép được cất giữ ở cuốn vở trong kho đồ của bạn."
+
+msgid "Hiding"
+msgstr "Ẩn nấp"
+
+msgid "Hide in the bushes with {0} to avoid being caught."
+msgstr "Nấp vào bụi cây bằng {0} để tránh bị bắt."
+
+msgctxt "tutorials.name.interaction"
+msgid "Interacting"
+msgstr "Tương tác"
+
+msgctxt "tutorials.text.interaction"
+msgid "Press {0} to interact with the environment"
+msgstr "Bấm {0} để tương tác với môi trường."
+
+msgctxt "tutorials.name.interaction_lacie"
+msgid "Interacting"
+msgstr "Tương tác"
+
+msgctxt "tutorials.text.interaction_lacie"
+msgid "Press {0} to interact with the environment"
+msgstr "Bấm {0} để tương tác với môi trường"
+
+msgctxt "tutorials.name.itemuse"
+msgid "Using Items"
+msgstr "Sử dụng đồ"
+
+msgid "To use an item, stand close and select the item from the menu ({0})"
+msgstr "Để sử dụng đồ, đứng vào nơi muốn dùng rồi chọn đồ trong menu ({0})"
+
+msgctxt "tutorials.name.itemuse_lacie"
+msgid "Using Items"
+msgstr "Sử dụng đồ"
+
+msgid "To use an item, stand close and select the item from the menu"
+msgstr "Để sử dụng đồ, đứng vào nơi muốn dùng rồi chọn đồ trong menu."
+
+msgctxt "tutorials.name.menu"
+msgid "Opening the Menu"
+msgstr "Mở menu"
+
+msgctxt "tutorials.text.menu"
+msgid "Press {0} to open the menu and see your items"
+msgstr "Bấm {0} để mở menu rồi xem đồ của mình."
+
+msgctxt "tutorials.name.menu_lacie"
+msgid "Opening the Menu"
+msgstr "Mở Menu"
+
+msgctxt "tutorials.text.menu_lacie"
+msgid "Press {0} to open the menu and see your items"
+msgstr "Bấm {0} để mở menu rồi xem đồ của mình"
+
+msgctxt "tutorials.name.movement"
+msgid "Moving"
+msgstr "Di chuyển"
+
+msgctxt "tutorials.text.movement"
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "Dùng {0}{1}{2}{3} để di chuyển."
+
+msgctxt "tutorials.name.movement_lacie"
+msgid "Moving"
+msgstr "Di chuyển"
+
+msgctxt "tutorials.text.movement_lacie"
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "Dùng {0}{1}{2}{3} để di chuyển"
+
+msgid "Picking Up Items"
+msgstr "Nhặt đồ"
+
+msgid "Press {0} to pick up items"
+msgstr "Bấm {0} để nhặt đồ"
+
+msgctxt "tutorials.name.running"
+msgid "Running"
+msgstr "Chạy"
+
+msgctxt "tutorials.text.running"
+msgid "While moving, hold {0} to run"
+msgstr "Khi đang di chuyển, nhấn giữ {0} để chạy."
+
+msgctxt "tutorials.name.running_lacie"
+msgid "Running"
+msgstr "Chạy"
+
+msgctxt "tutorials.text.running_lacie"
+msgid "While moving, hold {0} to run"
+msgstr "Khi đang đi chuyển, nhấn giữ {0} để chạy"
+
+msgctxt "tutorials.name.save"
+msgid "Saving the Game"
+msgstr "Lưu phần chơi"
+
+msgctxt "tutorials.text.save"
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr ""
+"Quạ có thể lưu phần chơi cho bạn.\n"
+"Lưu thường xuyên nhé vì chuyện tương lai không biết được đâu."
+
+msgctxt "tutorials.name.save_lacie"
+msgid "Saving the Game"
+msgstr "Lưu phần chơi"
+
+msgctxt "tutorials.text.save_lacie"
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr ""
+"Quạ có thể lưu phần chơi cho bạn.\n"
+"Lưu thường xuyên nhé vì chuyện tương lai không biết được đâu"
+
+msgid "Sneaking"
+msgstr "Rón rén"
+
+msgid "Running will make you easier to spot. Hold {0} to sneak past enemies"
+msgstr "Chạy sẽ khiến bạn dễ bị phát hiện hơn. Nhấn giữ {0} để lẻn qua kẻ địch."
+
+msgid "Climbing Stairs"
+msgstr "Bước lên cầu thang"
+
+msgid "Hold {0} while moving to climb up the stairs"
+msgstr "Nhấn giữ {0} khi đang di chuyển để bước lên cầu thang"
+
+msgid "Timed Event"
+msgstr "Sự kiện Tính giờ"
+
+msgid "Get to the bus before the time runs out!"
+msgstr "Bắt chuyến xe buýt trước khi hết thời gian!"
+
+msgid "Minigame: Timing Bar"
+msgstr "Minigame: Canh Vạch"
+
+msgid "Press {0} when the indicator matches the green zone"
+msgstr "Bấm {0} khi vạch kẻ lọt vào vùng màu xanh lá"

@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "....."
+msgstr "....."
+
+msgid "Let's get rid of some items..."
+msgstr "Vứt bớt vài món thôi..."
+
+msgid "(You got rid of some items.)"
+msgstr "(Bạn đã vứt bớt vài món đồ.)"
+
+msgid "There's a bucket here."
+msgstr "Ở đây có cái xô."
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "Lấy ${item:ch1.bucket} chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice.Take ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice.Take ${item:ch1.bucket}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There are easier ways to fill a bucket with water."
+msgstr "Đổ đầy nước vào xô thì có những cách dễ hơn nhiều."
+
+msgid "It doesn't want to go in there..."
+msgstr "Nó không muốn chui vào đó..."
+
+msgid "The fish is long dead. Putting it in water won't change that."
+msgstr "Con cá chết lâu rồi. Có thả vào nước cũng không thay đổi được gì."
+
+msgid "The monster swims away after being splashed."
+msgstr "Con quái vật sau khi bị tạt nước thì bơi đi mất."
+
+msgid "That won't accomplish anything."
+msgstr "Làm thế không đạt được gì hết."
+
+msgid "I thought it hated water...?"
+msgstr "Tưởng nó ghét nước...?"
+
+msgid "Well, no... it's clearly swimming in the water just fine."
+msgstr "À không... rõ ràng nó đang bơi trong nước có sao đâu."
+
+msgid "Maybe it's some different kind of water."
+msgstr "Có khi phải là loại nước nào đó khác."
+
+msgid "The monster stares at you without moving from its spot."
+msgstr "Con quái vật nhìn chằm chằm vào bạn mà không hề xê dịch khỏi chỗ."
+
+msgid "No... what if something lives down there?"
+msgstr "Không... lỡ có con gì sống dưới đó thì sao?"
+
+msgid "I wouldn't want to drown it."
+msgstr "Mình không có muốn làm chết đuối nó."
+
+msgid "A boat that has seen better days."
+msgstr "Con thuyền cũ mòn xác xơ."
+
+msgid "It could probably take you north."
+msgstr "Chắc hẳn là có thể đưa bạn lên phía bắc."
+
+msgid "Ideally, I'd like to have two paddles."
+msgstr "Mình muốn có hai cái mái chèo cho nó lý tưởng."
+
+msgid "I can't take it anywhere without paddles."
+msgstr "Không có mái chèo thì mình không thể lái đi đâu được."
+
+msgid "Also..."
+msgstr "Với lại..."
+
+msgid "(What should I do?)"
+msgstr "(Mình nên làm gì đây?)"
+
+msgid "Get on the boat"
+msgstr "Lên thuyền"
+
+msgid "Do not"
+msgstr "Thôi"
+
+msgid "What the heck is that thing...?"
+msgstr "Cái con kia là cái thứ quái gì thế...?"
+
+msgid "(Maybe I shouldn't get on while it's there...)"
+msgstr "(Nó còn đang đó thì có khi mình không nên lên...)"
+
+msgid "A puddle of what looks like blood."
+msgstr "Cái vũng gì đó trông như là máu."
+
+msgid "Did this thing just turn into blood...?"
+msgstr "Cái con này vừa mới biến thành máu...?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.dlg.narrator"
+msgid "A small burrow."
+msgstr "Cái lỗ hang nhỏ."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice"
+msgid "Reach inside?"
+msgstr "Thò vào trong chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.Reach inside?"
+msgid "Yes"
+msgstr "Thò vào"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.Reach inside?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "You can't feel anything special."
+msgstr "Bạn chẳng cảm thấy được gì đặc biệt hết."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.dlg.narrator"
+msgid "A small burrow."
+msgstr "Cái lỗ hang nhỏ."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice"
+msgid "Reach inside?"
+msgstr "Thò vào trong chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.Reach inside?"
+msgid "Yes"
+msgstr "Thò vào"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.Reach inside?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A cage attached to a tree."
+msgstr "Cái cũi được gắn vào cái cây."
+
+msgid "It looks like I could put something inside."
+msgstr "Có vẻ mình có thể đặt cái gì đó vào bên trong."
+
+msgid "A bunny stares at you from inside."
+msgstr "Ở bên trong là chú thỏ con nhìn chòng chọc vào bạn."
+
+msgid "The 5-coin fish rests inside. It's not even grilled."
+msgstr "Ở bên trong đặt con cá 5-xu. Còn không được nướng lên."
+
+msgid "A pack of chips is inside."
+msgstr "Ở bên trong là gói bim bim."
+
+msgid "A chocolate bar is inside."
+msgstr "Ở bên trong là thanh sô-cô-la."
+
+msgid "(Take it back?)"
+msgstr "(Lấy nó lại chứ?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Take it back?)"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Take it back?)"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's no need to push the cage into the water anymore."
+msgstr "Không cần đẩy cái cũi xuống nước nữa đâu."
+
+msgid "(Push the cage into the water?)"
+msgstr "(Đẩy cái cũi xuống nước chứ?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Push the cage into the water?)"
+msgid "Yes"
+msgstr "Đẩy"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Push the cage into the water?)"
+msgid "No"
+msgstr "Thôi"
+
+msgid "(The monster seems to like what you put inside the cage.)"
+msgstr "(Con quái vật có vẻ thích cái món bạn đặt trong cũi.)"
+
+msgid "The cage is in the water."
+msgstr "Cái cũi đang ở dưới nước."
+
+msgid "No need to mess with it anymore."
+msgstr "Không cần nghịch nó nữa đâu."
+
+msgid "(Pull it back up?)"
+msgstr "(Kéo nó lên lại chứ?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Pull it back up?)"
+msgid "Yes"
+msgstr "Kéo lên"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Pull it back up?)"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A fishing rod."
+msgstr "Cái cần câu."
+
+msgid "Try it?"
+msgstr "Xài thử chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Try it?"
+msgid "Yes"
+msgstr "Xài thử"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Try it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A structure housing a lamp."
+msgstr "Khối cấu trúc chứa đựng một cái đèn."
+
+msgid "A crow standing on a rock."
+msgstr "Trên tảng đá có con quạ đang đậu."
+
+msgid "Is it waiting to take the boat?"
+msgstr "Nó đang đợi lên thuyền à?"
+
+msgid "Colorful logs sticking out of the water."
+msgstr "Các cây cọc gỗ màu sắc nhô lên khỏi mặt nước."
+
+msgid "Despite your best efforts, you can't read the note from this side of the tree."
+msgstr "Mặc dù cố gắng cỡ nào, bạn cũng không thể đọc tờ ghi từ phía bên này của cái cây được."
+
+msgid "A note is attached to the tree. It says:"
+msgstr "Tờ ghi được đính lên cái cây. Ghi là:"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVES MEAT\n"
+"HATES WATER\""
+msgstr ""
+"\"CON QUÁI VẬT\n"
+"${sp:1}ƯA THỊT\n"
+"${sp:1}GHÉT NƯỚC\""

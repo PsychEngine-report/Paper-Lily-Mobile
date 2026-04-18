@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Psst..."
+msgstr "Пс-с..."
+
+msgid "Over here."
+msgstr "Агов, сюди."
+
+msgid "Oh. A human."
+msgstr "А. Людина."
+
+msgid "I see."
+msgstr "Зрозуміло."
+
+msgid "Strange."
+msgstr "Дивно."
+
+msgid "How did you make it all the way here?"
+msgstr "Як ти сюди потрапила?"
+
+msgid "Um..."
+msgstr "Ем..."
+
+msgid "Well, no matter."
+msgstr "Що ж, яка різниця?"
+
+msgid "This isn't ideal but..."
+msgstr "Обставини не ідеальні..."
+
+msgid "...It'll do, I suppose."
+msgstr "...втім і ти зійдеш."
+
+msgid "Who are you?"
+msgstr "Хто ти?"
+
+msgid "I do not have a name."
+msgstr "У мене немає імені."
+
+msgid "(What was that..?)"
+msgstr "(Що це було?..)"
+
+msgid "Miss Knives is roaming around."
+msgstr "Пані Ніж блукає неподалік."
+
+msgid "Miss Knives..."
+msgstr "Пані Ніж..."
+
+msgid "I think I met her."
+msgstr "Здається, ми з нею зустрічались."
+
+msgid "Yes, I saw that."
+msgstr "Так, я бачив."
+
+msgid "You really brought out the \"crazy\" in her."
+msgstr "Тобі вдалося пробудити в ній божевільні емоції."
+
+msgid "..."
+msgstr "..."
+
+msgid "(I didn't exactly do anything...)"
+msgstr "(Я ж нічого не зробила...)"
+
+msgid "I need to find a way out of this place."
+msgstr "Мені треба знайди вихід звідси."
+
+msgid "I'm looking for a cursed door."
+msgstr "Я шукаю прокляті двері."
+
+msgid "Of course."
+msgstr "Ну звичайно."
+
+msgid "We have a common goal."
+msgstr "У нас спільна мета."
+
+msgid "To avoid you wandering aimlessly until you get killed..."
+msgstr "Аби ти тут не блукала до самої своєї смерті..."
+
+msgid "...I'll help you."
+msgstr "...я допоможу тобі."
+
+msgid "Alright."
+msgstr "Добре."
+
+msgid "So..."
+msgstr "Тож..."
+
+msgid "Why don't you have a name?"
+msgstr "Чому в тебе немає імені?"
+
+msgid "How do I get out of here?"
+msgstr "Як мені втекти звідси?"
+
+msgid "My items are gone"
+msgstr "Мої речі зникли"
+
+msgid "You don't have a name?"
+msgstr "У тебе немає імені?"
+
+msgid "I wasn't given one."
+msgstr "Мене ніяк не назвали."
+
+msgid "But when you live a solitary life, you don't need a name."
+msgstr "Та коли живеш життям відлюдника, ім'я тобі й не потрібно."
+
+msgid "You're free to call me what you wish."
+msgstr "Можеш звати мене як заманеться."
+
+msgid "You humans seem to want to name everything."
+msgstr "Ви, люди, любите всьому давати ім'я."
+
+msgid "I'll call you Spider."
+msgstr "Назву тебе Павучком."
+
+msgid "That's a terrible name."
+msgstr "Жахливе ім'я."
+
+msgid "Do you call other humans \"Human\"?"
+msgstr "Ти звеш інших людей \"Людинами\"?"
+
+msgid "There are several strange objects scattered around this place."
+msgstr "По цій домівці розкидані декілька дивних предметів."
+
+msgid "After you find them, you'll need to figure out how to unseal them."
+msgstr "Коли знайдеш їх, тобі потрібно буде знайти спосіб розкрити їхню сутність."
+
+msgid "How will I know what I'm looking for?"
+msgstr "Як дізнатися, що саме я шукаю?"
+
+msgid "You'll know it when you see it."
+msgstr "Ти зрозумієш, коли побачиш."
+
+msgid "...Okay."
+msgstr "...Як скажеш."
+
+msgid "By the way..."
+msgstr "До речі..."
+
+msgid "I came in here with a lot of things but... they're all gone."
+msgstr "Я зайшла сюди з купою речей, але... всі вони зникли."
+
+msgid "If I don't get them back..."
+msgstr "Якщо я їх не поверну..."
+
+msgid "Don't worry. You'll have them if you get out of here."
+msgstr "Не хвилюйся. Коли втечеш звідси, вони повернуться до тебе."
+
+msgid "I hear her coming."
+msgstr "Я чую, як вона наближається."
+
+msgid "You need to hide."
+msgstr "Тобі слід сховатися."
+
+msgid "Huh?"
+msgstr "Га?"
+
+msgid "Go, now!"
+msgstr "Хутчіш, біжи!"
+
+msgid "Oh..."
+msgstr "Ой..."
+
+msgid "The door is gone.."
+msgstr "Двері зникли..."
+
+msgid "The door has no keyhole."
+msgstr "Ці двері не мають замкової щілини."
+
+msgid "Looks like a guest book. It has no signatures."
+msgstr "Схоже на гостьову книгу. У ній немає жодного підпису."
+
+msgid "A large couch."
+msgstr "Велике крісло."
+
+msgid "An empty flower vase."
+msgstr "Порожня ваза для квітів."
+
+msgid "Purple flowers in a vase."
+msgstr "Ваза з фіолетовими квітами."
+
+msgid "I could use these flowers..."
+msgstr "Цими квітами можна скористатись..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Принести квіти рослині?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "\"Thank you.\""
+msgstr "\"Дякую.\""
+
+msgid "A coat hanger."
+msgstr "Вішак для одягу."
+
+msgid "I'm keeping mine on."
+msgstr "Я не збираюсь роздягатися."
+
+msgid "A floor lamp."
+msgstr "Лампа."
+
+msgid "A portrait of a person with tentacles for a head."
+msgstr "Портрет когось з щупальцями замість голови."
+
+msgid "A portrait of a girl with very long nails."
+msgstr "Портрет дівчини з дуже довгими нігтями."
+
+msgid "A portrait of a person with horns."
+msgstr "Портрет когось з рогами."
+
+msgid "A portrait of a person with a flower pot for a head."
+msgstr "Портрет когось з горщиком для рослин замість голови."
+
+msgid "They must smell really nice."
+msgstr "Напевно, вони приємні на запах."
+
+msgid "A portrait of a person with a butterfly on their face."
+msgstr "Портрет когось з метеликом на обличчі."
+
+msgid "Is the butterfly a part of their face? Or just resting on it?"
+msgstr "Метелик - це частина обличчя? Або він просто сидить на ньому?"
+
+msgid "A portrait of a person with one eye."
+msgstr "Портрет когось з одним оком."
+
+msgid "A portrait of a person with blood running down their face."
+msgstr "Портрет людини з кров'ю, що стікає з обличчя."
+
+msgid "Can they see properly?"
+msgstr "Що так можна побачити?"
+
+msgid "A portrait of a person with flowers for eyes."
+msgstr "Портрет когось з квітами замість очей."
+
+msgid "A portrait of several characters with big eyes."
+msgstr "Портрет декількох персонажів з великими очима."
+
+msgid "A portrait of a person with an octopus plush for a head."
+msgstr "Портрет когось з плюшевим восьминогом замість голови."
+
+msgid "A portrait of a scary lady. There's a grinning person above it."
+msgstr "Портрет моторошної пані. Над нею портрет усміхненої людини."
+
+msgid "Both look unsettling..."
+msgstr "Обидва викликають тривогу..."
+
+msgid "A painting that's mostly just blue."
+msgstr "Просто синя картина."
+
+msgid "Touch it?"
+msgstr "Доторкнутися?"
+
+msgid "A bunch of blue powder sticks to your finger."
+msgstr "До вашого пальця прилип синій порошок."
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Якби у вас було, де його зберегти, ви змогли б зіскребти ще."
+
+msgid "(You wipe it off.)"
+msgstr "(Ви стерли його з пальця.)"
+
+msgid "Creepy portraits adorn the walls."
+msgstr "По стіні розвішані моторошні портрети."
+
+msgid "A broken pot where Spider was."
+msgstr "Зламаний горщик, у якому сидів Павучок."
+
+msgid "There's something here..."
+msgstr "Тут щось лежить..."
+
+msgid "Take ${item:ch1.rainbow_potion_tmp}?"
+msgstr "Взяти предмет: ${item:ch1.rainbow_potion_tmp}?"
+
+msgid "A vase with a single flower."
+msgstr "Ваза з єдиною квіткою."
+
+msgid "There's nothing here."
+msgstr "Тут нічого немає."
+
+msgid "It's no use... It's just a wall now."
+msgstr "Марна справа... тут тепер просто стіна."
+
+msgid "You can hear someone crying inside."
+msgstr "Ви чуєте, як всередині хтось плаче."
+
+msgid "You can hear someone singing on the other side."
+msgstr "Ви чуєте, як з того боку хтось співає."

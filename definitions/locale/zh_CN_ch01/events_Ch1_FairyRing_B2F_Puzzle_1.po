@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.event_enter.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Aoi, stay close."
+msgstr "小青，跟紧点。"
+
+msgid "Okay..."
+msgstr "好的..."
+
+msgid "There's no point in seasoning them."
+msgstr "没必要给它们调味。"
+
+msgid "Whacha doing?"
+msgstr "你在做虾米？"
+
+msgid "Uh... Nothing."
+msgstr "呃...没什么。"
+
+msgid "(Does salt not work on all demons...?)"
+msgstr "（难道盐对所有恶魔都不起作用吗...？）"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_on_head.dlg.narrator"
+msgid "Better not to."
+msgstr "最好不要这么做。"
+
+msgid "Don't do that!"
+msgstr "别这么做！"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_on_head.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Sorry... Uh..."
+msgstr "对不起...呃..."
+
+msgid "What if its body comes here... if you stab it?"
+msgstr "如果你捅它一刀的话...它的身体来了怎么办？"
+
+msgid "Why would that happen?"
+msgstr "为什么会这样？"
+
+msgid "I don't know... I don't want to risk it."
+msgstr "我不知道...我不想冒这个险。"
+
+msgid "...Fair enough."
+msgstr "...有道理。"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_salt_on_plants.dlg.narrator"
+msgid "Better not to."
+msgstr "最好别这么做。"
+
+msgid "(Better not do that.)"
+msgstr "（最好别那么做。）"
+
+msgid "(This little plant is the only thing standing between us and those fairy heads...)"
+msgstr "（这株小植物是我们与仙子脑袋之间唯一的东西了...）"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.misc_head_a.dlg.narrator"
+msgid "A fairy head, or something."
+msgstr "这是仙子的头部，之类的吧。"
+
+msgid "Its mouth is wide open..."
+msgstr "它的嘴张得很大..."
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.misc_head_b.dlg.narrator"
+msgid "A fairy head, or something."
+msgstr "这是仙子的头部，之类的吧。"
+
+msgid "Its nostrils are weird."
+msgstr "它的鼻孔很奇怪。"
+
+msgid "Its eyes look creepy..."
+msgstr "它的眼睛看起来好可怕..."
+
+msgid "Another one of those plants."
+msgstr "另一株那样的植物。"

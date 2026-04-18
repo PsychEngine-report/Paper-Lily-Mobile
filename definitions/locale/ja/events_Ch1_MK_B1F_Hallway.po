@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Psst..."
+msgstr "シーッ……"
+
+msgid "Over here."
+msgstr "こっちだ。"
+
+msgid "Oh. A human."
+msgstr "おや。人間か。"
+
+msgid "I see."
+msgstr "ふむ。"
+
+msgid "Strange."
+msgstr "妙だな。"
+
+msgid "How did you make it all the way here?"
+msgstr "どうやってここまで来た？"
+
+msgid "Um..."
+msgstr "えっと……"
+
+msgid "Well, no matter."
+msgstr "まあいい。"
+
+msgid "This isn't ideal but..."
+msgstr "理想的ではないが……"
+
+msgid "...It'll do, I suppose."
+msgstr "……用は足りるだろう。"
+
+msgid "Who are you?"
+msgstr "あなたは？"
+
+msgid "I do not have a name."
+msgstr "名前はない。"
+
+msgid "(What was that..?)"
+msgstr "(今のは……？)"
+
+msgid "Miss Knives is roaming around."
+msgstr "ミス・ナイヴズがうろついているな。"
+
+msgid "Miss Knives..."
+msgstr "ミス・ナイヴズ……"
+
+msgid "I think I met her."
+msgstr "さっき会ったかも。"
+
+msgid "Yes, I saw that."
+msgstr "ああ、見ていたよ。"
+
+msgid "You really brought out the \"crazy\" in her."
+msgstr "君は本当に彼女の「狂気」を引き出したな。"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(I didn't exactly do anything...)"
+msgstr "(特に何もしてないけど……)"
+
+msgid "I need to find a way out of this place."
+msgstr "ここから出る方法を見つけないと。"
+
+msgid "I'm looking for a cursed door."
+msgstr "呪いの扉を探してるの。"
+
+msgid "Of course."
+msgstr "だろうな。"
+
+msgid "We have a common goal."
+msgstr "我々の目標は一致している。"
+
+msgid "To avoid you wandering aimlessly until you get killed..."
+msgstr "君があてもなくさまよって殺されないように……"
+
+msgid "...I'll help you."
+msgstr "……私が手を貸そう。"
+
+msgid "Alright."
+msgstr "わかった。"
+
+msgid "So..."
+msgstr "それで……"
+
+msgid "Why don't you have a name?"
+msgstr "どうして名前がないの？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.choice.So..."
+msgid "How do I get out of here?"
+msgstr "ここから出るにはどうすればいいの？"
+
+msgid "My items are gone"
+msgstr "アイテムが無くなってるんだけど"
+
+msgid "You don't have a name?"
+msgstr "名前がないの？"
+
+msgid "I wasn't given one."
+msgstr "与えられなかった。"
+
+msgid "But when you live a solitary life, you don't need a name."
+msgstr "だが、孤独な生活をしていると、名前などいらないものだ。"
+
+msgid "You're free to call me what you wish."
+msgstr "君は好きなふうに呼ぶといい。"
+
+msgid "You humans seem to want to name everything."
+msgstr "君たち人間は何にでも名前をつけたがるようだからな。"
+
+msgid "I'll call you Spider."
+msgstr "じゃあ、スパイダーって呼ぶ。"
+
+msgid "That's a terrible name."
+msgstr "ひどい名前だな。"
+
+msgid "Do you call other humans \"Human\"?"
+msgstr "他の人間のことは「ニンゲン」と呼んでいるのか？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.dlg.lacie"
+msgid "How do I get out of here?"
+msgstr "ここから出るにはどうすればいいの？"
+
+msgid "There are several strange objects scattered around this place."
+msgstr "この場所にはいくつか奇妙な物体が点在している。"
+
+msgid "After you find them, you'll need to figure out how to unseal them."
+msgstr "それを見つけて、それぞれ封印を解く方法を見つけるんだ。"
+
+msgid "How will I know what I'm looking for?"
+msgstr "どれがその物体かはどうすればわかるの？"
+
+msgid "You'll know it when you see it."
+msgstr "見ればわかる。"
+
+msgid "...Okay."
+msgstr "……そう。"
+
+msgid "By the way..."
+msgstr "ところで……"
+
+msgid "I came in here with a lot of things but... they're all gone."
+msgstr "ここに来たときには色々持ってたんだけど……全部なくなってるの。"
+
+msgid "If I don't get them back..."
+msgstr "あれが取り戻せなかったら……"
+
+msgid "Don't worry. You'll have them if you get out of here."
+msgstr "心配するな、外に出れば戻ってくる。"
+
+msgid "I hear her coming."
+msgstr "彼女が来る音だ。"
+
+msgid "You need to hide."
+msgstr "隠れろ。"
+
+msgid "Huh?"
+msgstr "え？"
+
+msgid "Go, now!"
+msgstr "行け、早く！"
+
+msgid "Oh..."
+msgstr "あぁ……"
+
+msgid "The door is gone.."
+msgstr "ドアがなくなってる……"
+
+msgid "The door has no keyhole."
+msgstr "このドアには鍵穴はない。"
+
+msgid "Looks like a guest book. It has no signatures."
+msgstr "来客名簿のようだ。誰の名前も書かれていない。"
+
+msgid "A large couch."
+msgstr "大きなソファ。"
+
+msgid "An empty flower vase."
+msgstr "空の花瓶。"
+
+msgid "Purple flowers in a vase."
+msgstr "紫の花が活けられた花瓶。"
+
+msgid "I could use these flowers..."
+msgstr "この花は使えるかも……"
+
+msgid "Bring the flowers to the plant?"
+msgstr "花を植物のところに持って行く？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_flowers.choice.Bring the flowers to the plant?"
+msgid "Yes"
+msgstr "持って行く"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_flowers.choice.Bring the flowers to the plant?"
+msgid "No"
+msgstr "持って行かない"
+
+msgid "\"Thank you.\""
+msgstr "「ありがとう。」"
+
+msgid "A coat hanger."
+msgstr "コート掛け。"
+
+msgid "I'm keeping mine on."
+msgstr "私は着たままでいよう。"
+
+msgid "A floor lamp."
+msgstr "フロアランプ。"
+
+msgid "A portrait of a person with tentacles for a head."
+msgstr "頭が触手になっている人物の肖像画。"
+
+msgid "A portrait of a girl with very long nails."
+msgstr "爪がとても長い少女の肖像画。"
+
+msgid "A portrait of a person with horns."
+msgstr "角のある人物の肖像画。"
+
+msgid "A portrait of a person with a flower pot for a head."
+msgstr "頭が花瓶になっている人物の肖像画。"
+
+msgid "They must smell really nice."
+msgstr "きっといい匂いなんだろうな。"
+
+msgid "A portrait of a person with a butterfly on their face."
+msgstr "顔に蝶が止まっている人物の肖像画。"
+
+msgid "Is the butterfly a part of their face? Or just resting on it?"
+msgstr "蝶も顔の一部なのかな？　それとも止まってるだけ？"
+
+msgid "A portrait of a person with one eye."
+msgstr "1つ目の人物の肖像画。"
+
+msgid "A portrait of a person with blood running down their face."
+msgstr "顔に血が流れている人物の肖像画。"
+
+msgid "Can they see properly?"
+msgstr "ちゃんと前見えてるのかな？"
+
+msgid "A portrait of a person with flowers for eyes."
+msgstr "目が花になっている人物の肖像画。"
+
+msgid "A portrait of several characters with big eyes."
+msgstr "大きな目の人物たちの肖像画。"
+
+msgid "A portrait of a person with an octopus plush for a head."
+msgstr "頭がタコのぬいぐるみになっている人物の肖像画。"
+
+msgid "A portrait of a scary lady. There's a grinning person above it."
+msgstr "怖い女性の肖像画。その上にはニッと笑った人物。"
+
+msgid "Both look unsettling..."
+msgstr "どっちも不気味……"
+
+msgid "A painting that's mostly just blue."
+msgstr "ほとんど単なる青の絵。"
+
+msgid "Touch it?"
+msgstr "触る？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_painting_blue.choice.Touch it?"
+msgid "Yes"
+msgstr "触る"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_painting_blue.choice.Touch it?"
+msgid "No"
+msgstr "触らない"
+
+msgid "A bunch of blue powder sticks to your finger."
+msgstr "青い粉が指についた。"
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "何か容器があれば、もっとこすり落として集めることができそうだ。"
+
+msgid "(You wipe it off.)"
+msgstr "(指を拭った。)"
+
+msgid "Creepy portraits adorn the walls."
+msgstr "不気味な肖像画が壁を飾っている。"
+
+msgid "A broken pot where Spider was."
+msgstr "スパイダーがいた鉢。壊れている。"
+
+msgid "There's something here..."
+msgstr "中に何かある……"
+
+msgid "Take ${item:ch1.rainbow_potion_tmp}?"
+msgstr "${item:ch1.rainbow_potion_tmp} を取る？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_pot.choice.Take ${item:ch1.rainbow_potion_tmp}?"
+msgid "Yes"
+msgstr "取る"
+
+msgid "A vase with a single flower."
+msgstr "花が一輪活けられた花瓶。"
+
+msgid "There's nothing here."
+msgstr "ここには何もない。"
+
+msgid "It's no use... It's just a wall now."
+msgstr "ダメだ……ただの壁になってる。"
+
+msgid "You can hear someone crying inside."
+msgstr "何かが中で泣いているのが聞こえる。"
+
+msgid "You can hear someone singing on the other side."
+msgstr "扉の向こうで誰かが歌っているのが聞こえる。"

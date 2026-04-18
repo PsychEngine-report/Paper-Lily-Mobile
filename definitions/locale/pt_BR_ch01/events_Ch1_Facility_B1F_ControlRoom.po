@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "Hm...? Não está funcionando...?"
+
+msgid "Those two thingies look burnt."
+msgstr "Essas duas coisas parecem queimadas."
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "Ah, há dois fusíveis queimados. Não é de se admirar."
+
+msgid "Let's throw this damaged fuse away."
+msgstr "Vamos jogar fora esse fusível danificado."
+
+msgid "Why? Just use it as a zero or something."
+msgstr "Por quê? Basta usá-lo como um zero ou algo assim."
+
+msgid "No... that's really not how fuses work."
+msgstr "Não... não é assim que os fusíveis funcionam."
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "Um fusível quebrado não completará o circuito."
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "Entendo... então é zero se você removê-lo?"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "Não... isso é só... também não completará o circuito. Você não pode fazer um zero."
+
+msgid "Just... leave this to me, okay?"
+msgstr "Apenas... deixe isso comigo, ok?"
+
+msgid "Roger!"
+msgstr "Entendido!"
+
+msgid "You hear something unlocking in the distance."
+msgstr "Você ouve algo sendo desbloqueado à distância."
+
+msgid "What? I didn't hear anything."
+msgstr "O quê? Eu não ouvi nada."
+
+msgid "...You're breaking my immersion."
+msgstr "...Você está quebrando minha imersão."
+
+msgid "What in the world was that?"
+msgstr "O que diabos foi isso?"
+
+msgid "Can't say I didn't warn you."
+msgstr "Não posso dizer que não avisei."
+
+msgid "Wait."
+msgstr "Espere."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "Tirar isso pode ser uma péssima ideia."
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "Já vi algumas portas assim antes. Acho que não queremos abri-los."
+
+msgid "I see..."
+msgstr "Saquei..."
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Talvez haja uma maneira melhor?)"
+
+msgid "Do you think the elevator works now?"
+msgstr "Você acha que o elevador funciona agora?"
+
+msgid "Ah, that's satisfying."
+msgstr "Ah, isso é satisfatório."
+
+msgid "Good job!"
+msgstr "Bom trabalho!"
+
+msgid "That sounded pretty big."
+msgstr "Isso parecia muito grande."
+
+msgid "Let's check the water level."
+msgstr "Vamos verificar o nível da água."
+
+msgid "There's already a handle there."
+msgstr "Já existe uma alça aí."
+
+msgid "You try to fit the handle in the slot..."
+msgstr "Você tenta encaixar a alça no slot..."
+
+msgid "But it doesn't fit."
+msgstr "Mas não cabe."
+
+msgid "The lights... ah... not nice."
+msgstr "As luzes... ah... nada legal."
+
+msgid "Why doesn't this work?"
+msgstr "Por que isso não funciona?"
+
+msgid "We probably need to fill all four slots."
+msgstr "Provavelmente precisaremos preencher todas as quatro vagas."
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "Caso contrário, a coisa dentro não fará contato."
+
+msgid "Right, contact."
+msgstr "Certo, entre em contato."
+
+msgid "You place the handle in the slot."
+msgstr "Você coloca a alça no slot."
+
+msgid "The handle fits!"
+msgstr "A alça se encaixa!"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "Claro, um diamante é apenas um quadrado girado."
+
+msgid "Yep."
+msgstr "Sim."
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "O que você está fazendo? Essas formas não combinam."
+
+msgid "...Huh."
+msgstr "...Huh."
+
+msgid "Are you switching them around...?"
+msgstr "Você está trocando-os...?"
+
+msgid "I'm just trying things."
+msgstr "Estou apenas tentando coisas."
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "Um barril pesado. Não pode ser movido."
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "Há uma alavanca de válvula e uma chave no cano."
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "Pegue a ${item:ch1.facility_handle_square} e ${item:ch1.facility_key_archives}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Some sort of machine."
+msgstr "Algum tipo de máquina."
+
+msgid "It's whirring loudly."
+msgstr "Está zumbindo alto."
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "Alguns armários grandes. Você provavelmente caberia lá dentro."
+
+msgid "There's something in here..."
+msgstr "Tem algo aqui..."
+
+msgid "There's nothing else of use."
+msgstr "Não há mais nada de útil."
+
+msgid "A large machine attached to some pipes."
+msgstr "Uma grande máquina presa a alguns canos."
+
+msgid "There's a note here:"
+msgstr "Há uma nota aqui:"
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "“Em Caso de Emergência - Sistema de Drenagem e Inundação"
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "Para que o sistema de drenagem funcione, primeiro deve estar instalado o fusível correto."
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "Gire todas as 4 alavancas da válvula, isso ativará a inundação."
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "É irreversível, então não faça isso sem avisar o-\""
+
+msgid "...The rest of the note is torn off."
+msgstr "...O resto da nota está arrancado."
+
+msgid "Looks like an electrical panel."
+msgstr "Parece um painel elétrico."
+
+msgid "Take a closer look?"
+msgstr "Olhe mais de perto?"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "Uma ranhura para colocar uma alça de válvula. O recuo tem formato quadrado."
+
+msgid "Turn it?"
+msgstr "Vire-a?"
+
+msgid "Turn the wheel"
+msgstr "Gire a alça"
+
+msgid "Remove the wheel"
+msgstr "Remova a alça"
+
+msgid "Do nothing"
+msgstr "Fazer nada"
+
+msgid "The wheel won't turn."
+msgstr "A alça não gira."
+
+msgid "It won't turn anymore."
+msgstr "Não vai mais virar."
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "Uma ranhura para colocar uma alça de válvula. O recuo tem formato de pentágono."
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "Uma ranhura para colocar uma alça de válvula. O recuo tem formato de estrela."
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "Uma ranhura para colocar uma alça de válvula. O recuo tem formato de diamante."
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "Parece o grande portão que vimos anteriormente..."
+
+msgid "Doors?"
+msgstr "Portas?"
+
+msgid "This is probably an elevator."
+msgstr "Provavelmente é um elevador."
+
+msgid "Lights."
+msgstr "Luzes."
+
+msgid "Water?"
+msgstr "Água?"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "Um slot vazio onde um fusível pode caber."
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "(Parece que tenho que reorganizar os fusíveis para corresponder ao display.)"
+
+msgid "An empty fuse slot."
+msgstr "Um slot de fusível vazio."
+
+msgid "Place a fuse?"
+msgstr "Colocar um fusível?"
+
+msgid "Place fuse no.5"
+msgstr "Coloque o fusível nº 5"
+
+msgid "Place fuse no.10"
+msgstr "Coloque o fusível nº 10"
+
+msgid "Place fuse no.15"
+msgstr "Coloque o fusível nº 15"
+
+msgid "Place fuse no.20"
+msgstr "Coloque o fusível nº 20"
+
+msgid "Place fuse no.25"
+msgstr "Coloque o fusível nº 25"
+
+msgid "Place fuse no.40"
+msgstr "Coloque o fusível nº 40"
+
+msgid "Do not"
+msgstr "Não"
+
+msgid "It's a spider!"
+msgstr "É uma aranha!"
+
+msgid "I see that."
+msgstr "Ah... entendo como é."
+
+msgid "Are you scared of spiders?"
+msgstr "Você tem medo de aranhas?"
+
+msgid "Not really."
+msgstr "Na verdade."
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "E aí, se você ver uma aranha na sua casa é só DEIXÁ-LA aí?!"
+
+msgid "That's crazy."
+msgstr "Isso é louco."
+
+msgid "What else should I be doing?"
+msgstr "O que mais eu deveria estar fazendo?"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "Não sei, a maioria das pessoas mata com um sapato ou algo assim."
+
+msgid "Why?"
+msgstr "Por que?"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "Não sei, eles rastejam e outras coisas. Eles são assustadores."
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "Por que deveria morrer por algo que não é culpa sua?"
+
+msgid "..."
+msgstr "..."
+
+msgid "That's fair."
+msgstr "Isso é justo."
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "Só para você saber, eu não mato aranhas."
+
+msgid "I see."
+msgstr "Estou entendendo."
+
+msgid "I used to, but now I just put them outside."
+msgstr "Eu costumava fazer isso, mas agora apenas os coloco do lado de fora."
+
+msgid "Great."
+msgstr "Ótimo."
+
+msgid "A spider hangs from here."
+msgstr "Uma aranha está pendurada aqui."
+
+msgid "A spider sits here."
+msgstr "Uma aranha está sentada aqui."
+
+msgid "Take out the fuse?"
+msgstr "Tirar o fusível?"

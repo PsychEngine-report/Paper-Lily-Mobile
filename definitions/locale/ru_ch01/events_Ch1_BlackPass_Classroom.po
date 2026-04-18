@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hey, where do you think you're going?"
+msgstr "Слышь, куда собралась?"
+
+msgctxt "events.Ch1_BlackPass_Classroom.event_bouncer.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_BlackPass_Classroom.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "There she is."
+msgstr "Вон она где."
+
+msgid "That's her?"
+msgstr "Это она?"
+
+msgid "She's so cursed that the bird dropped dead."
+msgstr "От её проклятия умерла птица."
+
+msgid "If she can make a bird die, I wonder what she could do to people."
+msgstr "Если она птиц умеет убивать, боюсь представить, что она может делать с людьми."
+
+msgid "What a freak."
+msgstr "Ну и уродка."
+
+msgid "Hey, you killed that poor bird."
+msgstr "Эй, ты убила эту бедненькую птицу."
+
+msgid "...N-no..."
+msgstr "...Н-нет..."
+
+msgid "It flew into the window next to YOUR seat."
+msgstr "Она влетела в окно возле ТВОЕЙ парты."
+
+msgid "...but.. I didn't..."
+msgstr "...Но... Я не..."
+
+msgid "It died because of you."
+msgstr "Она из-за тебя сдохла."
+
+msgid "This is your fault."
+msgstr "Это ты виновата."
+
+msgid "Aargh!"
+msgstr "А-а!"
+
+msgid "........"
+msgstr "........"
+
+msgid "What the hell!?"
+msgstr "Какого хрена?!"
+
+msgid "Did she kill him?"
+msgstr "Она что, его убила?"
+
+msgid "Is he dead?"
+msgstr "Он умер?"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.unknown"
+msgid "MURDERER!"
+msgstr "УБИЙЦА!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.unknown"
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "УБИЙЦА! УБИЙЦА! УБИЙЦА!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_left.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Wait... what are you doing!?"
+msgstr "А-ну стой... что это ты делаешь?!"
+
+msgid "I'm doing something, unlike you."
+msgstr "Что-нибудь. В отличие от вас."
+
+msgid "AAAAH!"
+msgstr "А-А-А!"
+
+msgid "She killed him!"
+msgstr "Она его убила!"
+
+msgid "Oh my god! She's crazy!"
+msgstr "Боже мой! Она сумасшедшая!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.unknown"
+msgid "MURDERER!"
+msgstr "УБИЙЦА!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.unknown"
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "УБИЙЦА! УБИЙЦА! УБИЙЦА!"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_knife_on_person_right.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Pick up ${item:global.reditem_3}?"
+msgstr "Подобрать: ${item:global.reditem_3}?"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_red_item_get.choice.Pick up ${item:global.reditem_3}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_BlackPass_Classroom.item_red_item_get.choice.Pick up ${item:global.reditem_3}?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "This isn't my fault..."
+msgstr "Я не виновата..."
+
+msgid "Can't believe you're still acting innocent."
+msgstr "До сих пор строишь из себя белую и пушистую?"
+
+msgid "You disgust me."
+msgstr "Ты мерзость."
+
+msgid "You cause nothing but ruin everywhere you go!"
+msgstr "Всюду, куда ты идёшь, ты вызываешь беды!"
+
+msgid "I-I'm sorry... I'm really sorry... I don't do it on purpose... I didn't do anything..."
+msgstr "П-простите... м-мне правда жаль... я же не специально... я ничего не делала..."
+
+msgid "Maybe you SHOULD do something..."
+msgstr "Может, тебе всё же стоит что-то сделать..."
+
+msgid "...Huh?"
+msgstr "...А?"
+
+msgid "...To make it up to us. Why don't you take responsibility for messing up everything?"
+msgstr "...чтобы загладить перед нами вину. Не хочешь взять ответственность за этот бардак?"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "...H-How...?"
+msgstr "...К-как?.."
+
+msgid "Hmmm."
+msgstr "Хм..."
+
+msgid "Make her eat it!"
+msgstr "Пускай съест её!"
+
+msgid "Yeah! Eat the bird!"
+msgstr "Да! Ешь птицу!"
+
+msgid "...What..?!"
+msgstr "...Что?!.."
+
+msgid "You heard them."
+msgstr "Ты всё услышала."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.dlg.unknown"
+msgid "Eat it, witch."
+msgstr "Жри давай, ведьма."
+
+msgid "If you eat it, maybe we'll forgive you."
+msgstr "Если съешь, тогда, может, мы тебя простим."
+
+msgid "Eat the bird, murderer."
+msgstr "Ешь птицу, убийца."
+
+msgid "(This isn't real...)"
+msgstr "(Это всё не по-настоящему...)"
+
+msgid "(Do I really have to do this...?)"
+msgstr "(Я правда должна это делать?..)"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice.(Do I really have to do this...?)"
+msgid "Eat the bird"
+msgstr "Съесть птицу"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice.(Do I really have to do this...?)"
+msgid "Do not"
+msgstr "Ничего не делать"
+
+msgid "Take the _____"
+msgstr "Взять _____"
+
+msgid "(Will this get them to stop...?)"
+msgstr "(Они после этого прекратят...?)"
+
+msgid "(Ugh... I feel sick...)"
+msgstr "(Угх... меня сейчас вырвет...)"
+
+msgid "She actually did it! She's insane!"
+msgstr "Реально схавала! Вот это она бешеная!"
+
+msgid "She's such a freak! HAHAHAHA!"
+msgstr "Ну и уродка! ХА-ХА-ХА-ХА!"
+
+msgid "HAHAHAHA It's all bloody now!"
+msgstr "ХА-ХА-ХА-ХА! Тут теперь всё в крови!"
+
+msgid "HAHAHAHAHA"
+msgstr "ХА-ХА-ХА-ХА"
+
+msgid "HAHAHAHAHAHAHAHAHAHAHA"
+msgstr "ХА-ХА-ХА-ХА-ХА-ХА-ХА-ХА"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Stab self"
+msgstr "Пырнуть себя"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Do not"
+msgstr "Ничего не делать"
+
+msgid "(This dream...)"
+msgstr "(Этот сон...)"
+
+msgid "(The easiest way to get out...)"
+msgstr "(Самый простой способ выбраться...)"
+
+msgid "(It's obvious, isn't it?)"
+msgstr "(Это же очевидно, не так ли?)"
+
+msgid "...Ah! It hurts! ...it hurts..."
+msgstr "...Ай! Больно!...больно..."
+
+msgid "...When am I waking up..."
+msgstr "...когда я проснусь..."
+
+msgid "...Let this stupid... nightmare... end..."
+msgstr "...пусть этот глупый кошмар... закончится..."
+
+msgid "...Why..."
+msgstr "...Почему..."
+
+msgid "...It's just a dream... so why..."
+msgstr "...Это же просто сон... так почему..."
+
+msgid "...It hurts..."
+msgstr "...мне так больно?.."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_desk.choice...."
+msgid "Eat the bird"
+msgstr "Съесть птицу"
+
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+msgid "There's nothing else to do here."
+msgstr "Здесь больше нечего делать."
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_person_left.dlg.unknown"
+msgid "Eat it, witch."
+msgstr "Жри давай, ведьма."
+
+msgid "Sorry, I can't let you pass."
+msgstr "Извини, не могу тебя пропустить."
+
+msgid "Please?"
+msgstr "Пожалуйста?"
+
+msgid "Just do what they say."
+msgstr "Просто делай как они говорят."
+
+msgid "(A strong force prevents you from entering the wardrobe.)"
+msgstr "(Какая-то сила не даёт вам залезть в шкаф.)"
+
+msgid "(Push through?)"
+msgstr "(Протолкнуться?)"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_wardrobe.choice.(Push through?)"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_BlackPass_Classroom.misc_wardrobe.choice.(Push through?)"
+msgid "No"
+msgstr "Нет"
+
+msgid "\"MURDERER\""
+msgstr "\"УБИЙЦА\""
+
+msgid "The passageway has closed behind you."
+msgstr "Проход за вами закрылся."

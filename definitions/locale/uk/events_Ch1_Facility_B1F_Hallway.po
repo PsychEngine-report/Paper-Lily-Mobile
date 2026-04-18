@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's something in there...!"
+msgstr "Там хтось є!.."
+
+msgid "Now is probably not a good time to go inside."
+msgstr "Зараз не слушна мить заходити."
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "Взяти предмет: ${item:ch1.bucket}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Cool, a bucket."
+msgstr "Відро, оце я розумію."
+
+msgid "You can do lots of things with that."
+msgstr "З ним можна робити багацько всякого."
+
+msgid "Like...?"
+msgstr "Наприклад?.."
+
+msgid "Hmmm..."
+msgstr "Гм-м..."
+
+msgid "We could try removing all the water with it."
+msgstr "З його допомогою можна прибрати всю воду."
+
+msgid "..."
+msgstr "..."
+
+msgid "You could wear it as a hat...?"
+msgstr "А ще його можна надягнути на голову..."
+
+msgid "A broken terrarium."
+msgstr "Зламаний тераріум."
+
+msgid "This looks like the box I was carrying the caterpillar in..."
+msgstr "Схоже на контейнер, в якому я несла гусінь..."
+
+msgid "Large windows."
+msgstr "Велике вікно."
+
+msgid "You can vaguely see some machinery inside."
+msgstr "Всередині видно обриси якихось машин."
+
+msgid "You can see something lurking inside."
+msgstr "Ви бачите, як всередині щось ходить."
+
+msgid "There's a door here, but it won't open."
+msgstr "Тут є двері, та вони не відчиняються."
+
+msgid "This is the door to the surface."
+msgstr "Ці двері ведуть на поверхню."
+
+msgid "...Huh? It's locked?"
+msgstr "...Га? Зачинено?"
+
+msgid "Are we trapped after all?"
+msgstr "Тобто ми все ж у пастці?"
+
+msgid "It can't be, I just came through here... Do we need a key?"
+msgstr "Не може бути. Я тільки нещодавно тут заходив... невже нам потрібен ключ?"
+
+msgid "There's no keyhole."
+msgstr "Замкової щілини немає."
+
+msgid "Huh... good eye."
+msgstr "Їй-бо... гострий в тебе зір."
+
+msgid "We'll just have to do as Rune said and go deeper down."
+msgstr "Треба спуститися ще нижче, як казав Рун."
+
+msgid "There's a crack in the wall."
+msgstr "У стіні є тріщина."

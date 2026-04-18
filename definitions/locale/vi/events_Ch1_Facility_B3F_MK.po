@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A house?"
+msgstr "Căn nhà?"
+
+msgid "Why's there a house so deep underground?"
+msgstr "Tại sao ở lòng đất sâu thế lại có cái căn nhà?"
+
+msgctxt "events.Ch1_Facility_B3F_MK.event_first_time.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Oh!"
+msgstr "Ồ!"
+
+msgid "Maybe someone lives here."
+msgstr "Có khi ở đây có ai đó sinh sống."
+
+msgid "But if there's an entrance to a house down here, maybe there's also an exit on the other side."
+msgstr "Nhưng nếu dưới đây có lối vào căn nhà, có khi phía bên kia cũng có lối ra."
+
+msgid "Don't you think?"
+msgstr "Phải không em nhỉ?"
+
+msgid "Well, no way to go but forward."
+msgstr "Thôi, không còn đường nào khác ngoài tiến lên."
+
+msgid "A mailbox. It's empty."
+msgstr "Cái hộp thư. Trống trơn."
+
+msgid "You can't see anything through the window."
+msgstr "Nhìn qua cửa sổ không thấy được gì hết."
+
+msgid "A solid wall has appeared where the hallway was."
+msgstr "Nơi vốn là hành lang giờ đã xuất hiện bức tường cứng."
+
+msgid "Huh...? What?"
+msgstr "Hở...? Là sao?"
+
+msgid "We're getting trapped deeper and deeper... I really hope we find that door soon."
+msgstr "Ta đang bị kẹt càng lúc càng sâu hơn rồi... Thật sự mong là tìm được cánh cửa đó sớm."

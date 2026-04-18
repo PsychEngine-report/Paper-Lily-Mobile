@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "Hiro'nun odası."
+
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go in without permission..."
+msgstr "İzin almadan gitmemeyi tercih ederim..."
+
+msgid "You shouldn't go in."
+msgstr "İçeri girmemelisin."
+
+msgid "You won't go in."
+msgstr "Girmeyeceksin."
+
+msgid "Some books and magazines."
+msgstr "Bazı kitap ve dergiler."
+
+msgid "No reading space would be complete without decorative books."
+msgstr "Hiçbir okuma alanı birkaç kitap dekoru olmadan olmaz."
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "Bir çeşit süsleme, ne tür olduğunu bilmiyorsun."
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "Bir resim, alt katta gördüğüne benzer."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting.dlg.narrator"
+msgid "A painting."
+msgstr "Bir resim"
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "Bu bir resim, sol taraftaki ile benzer."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_2.dlg.narrator"
+msgid "A painting."
+msgstr "Bir resim."
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "Bu bir resim, sağ taraftaki ile benzer."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_3.dlg.narrator"
+msgid "A painting."
+msgstr "Bir resim."
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "Kış tatili fotoğrafları. Hiçbirinde yoksun."
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "Güzel bir bitki. Tomurcukları yenilebilir değil."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant.dlg.narrator"
+msgid "A plant."
+msgstr "Bitki."
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant_2.dlg.narrator"
+msgid "A plant."
+msgstr "Bitki."
+
+msgid "Some old family pictures."
+msgstr "Bazı eski aile fotoğrafları."
+
+msgid "The backyard can be seen from here."
+msgstr "Arka bahçe buradan gözüküyor."
+
+msgid "Something is written on the door:"
+msgstr "Kapıya bir şeyler yazılmış."
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "\"Bu oda'da ne? Burada çok fazla zaman geçirdin."
+
+msgid "Always finding new places to hide away from the world."
+msgstr "Her şeyden kaçmak için her zaman yeni yerler buluyor."
+
+msgid "Did you ever stop hiding?\""
+msgstr "Hiç saklanmadığın oldumu?\""

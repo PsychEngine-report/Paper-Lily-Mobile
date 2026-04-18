@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no need to mess with it anymore."
+msgstr "Już nie ma po co się tym bawić."
+
+msgid "Ah... I see how it is."
+msgstr "Aha… już chyba wiem, o co tu chodzi."
+
+msgid "I really dislike this kind of puzzle though..."
+msgstr "Jak ja nie znoszę tego typu łamigłówek..."
+
+msgid "Hm..."
+msgstr "Hm..."
+
+msgid "Is that a button behind the lamppost?"
+msgstr "Czy mi się zdaje, czy za tą latarnią jest ukryty przycisk?"
+
+msgid "Ah... I kind of expected them to reset..."
+msgstr "Och… spodziewałam się, że to je zresetuje..."
+
+msgid "Geez... what was I thinking?"
+msgstr "Boże… co ja sobie myślałam?"
+
+msgid "The cable has already been severed."
+msgstr "Ten kabel już jest przecięty."
+
+msgid "The cable has been cut."
+msgstr "Kabel został przecięty."
+
+msgid "A cable runs from the lamp to the bushes."
+msgstr "Kabel, który zasila latarnię, niknie pośród krzaków."
+
+msgid "A heavy-looking metal gate."
+msgstr "Ciężka brama z metalu."
+
+msgid "Is this the Daylight Gate?"
+msgstr "Czy to jest ta Brama Światła Dziennego?"
+
+msgid "What does it have to do with daylight?"
+msgstr "Co ona może mieć wspólnego ze światłem dziennym?"
+
+msgid "There's a plaque next to it that reads:"
+msgstr "Tuż obok jest tablica, na której pisze:"
+
+msgid "A gate blocks your path."
+msgstr "Drogę zagradza ci brama."
+
+msgid ""
+"\"Daylight Gate\"\n"
+"\"(At daytime, the gate opens and the lamps turn off.)\""
+msgstr ""
+"\"Brama Światła Dziennego\"\n"
+"\"(Gdy nastaje dzień, brama się otwiera, a lampy gasną.)\""
+
+msgid "Day...? I don't even know what time it is..."
+msgstr "W dzień…? Nawet nie wiem, która teraz godzina..."
+
+msgid "Is there any way I can get this open without waiting?"
+msgstr "Może jest jakiś sposób, by ją otworzyć bez czekania?"
+
+msgid "A street lamp."
+msgstr "Latarnia."

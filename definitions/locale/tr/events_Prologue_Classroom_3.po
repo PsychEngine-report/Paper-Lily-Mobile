@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "On second thought, I don't feel like it."
+msgstr "Tekrar düşününce hiç yapasım gelmedi."
+
+msgid "Phew!"
+msgstr "Of!"
+
+msgid "This is my desk. Juli sits in front of me, and Kaya sits behind."
+msgstr "Burası benim sıram. Juli önümde Kaya da arka sıramda oturuyor."
+
+msgid "I see..."
+msgstr "Anladım..."
+
+msgid "Thanks for letting me know...?"
+msgstr "Söylediğin için teşekkürler...?"
+
+msgid "Saki's desk."
+msgstr "Saki´nin sırası."
+
+msgid "This isn't the right classroom for that."
+msgstr "Burası onun sınıfı değil."
+
+msgid "The path is already drawn."
+msgstr "Yol çoktan çizilmiş."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Daha değil. Önce lazım olan her şeyi aldığımdan emin olmalıyım."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Daha değil. Öncellikle sınıfı hazırlamayı bitirmeliyim."
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "Başımı daha fazla belaya sokmak istemem."
+
+msgid "This window already has curtains."
+msgstr "Bu pencerenin çoktan perdeleri var."
+
+msgctxt "events.Prologue_Classroom_3.item_lighter.dlg.narrator"
+msgid "Burning the school down is not part of the ritual."
+msgstr "Okulu yakıp kül etmek rituelin bir parçası değil."
+
+msgctxt "events.Prologue_Classroom_3.item_lighter_on_desks.dlg.narrator"
+msgid "Burning the school down is not part of the ritual."
+msgstr "Okulu yakıp kül etmek rituelin bir parçası değil."
+
+msgid "There's a red notebook here."
+msgstr "Burada kırmızı bir defter var."
+
+msgid "There's nothing else here."
+msgstr "Burada başka bir şey yok."
+
+msgid "It's already done."
+msgstr "Bu çoktan yapıldı."
+
+msgid "This isn't the time for that."
+msgstr "Şimdi bunun sırası değil"
+
+msgid "Some world encyclopedias."
+msgstr "Dünya ansiklopedileri."
+
+msgid "I would definitely steal one of these if they weren't so darn heavy."
+msgstr "Bu kadar ağır olmasalardı, kesinlikle birini çalardım."
+
+msgid "You can borrow my books if you need..."
+msgstr "İhtiyacın olursa, kitaplarımı ödünç alabilir..."
+
+msgid "I'll keep that in mind."
+msgstr "Aklımda tutarım."
+
+msgid "A clean chalkboard."
+msgstr Boş bir kara tahta."
+
+msgid "A wooden desk."
+msgstr "Tahta bir masa."
+
+msgid "Two paper slips filled with rules and regulations."
+msgstr "Kurallar ve yönetmeliğin yazılı olduğu iki parça kağıt."
+
+msgid "I wonder if it says somewhere that we're not allowed on school grounds at night."
+msgstr "Acaba burada bir yerde gece okulda bulunmamızın yasak olduğu da yazıyor mu?"
+
+msgid "Oh well! I guess we'll never know if I don't read it!"
+msgstr "Eğer okumazsam asla bilemeyiz, değil mi?"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Sınıf listeleri ve planları."
+
+msgid "A happy green plant."
+msgstr "Mutlu yeşil bir bitki."
+
+msgid "The plant is no longer happy."
+msgstr "Bitki artık mutlu değil."
+
+msgid "Some cute potted plants. Their silent nature enchants you."
+msgstr "Tatlı dikilmiş bitkiler."
+
+msgid "The teacher's podium."
+msgstr "Öğretmen kürsüsü."
+
+msgid "A geography book and a globe sit atop it."
+msgstr "Üzerinde coğrafya kitabı ve yerküre var."
+
+msgid "Some boring textbooks."
+msgstr "Sıkıcı ders kitapları."
+
+msgid "Some very thick, school-related books."
+msgstr "Kapkalın okulla alakalı kitaplar."
+
+msgid "Some books and... chalk."
+msgstr "Biraz daha kitap...ve tebeşir."
+
+msgid "Take it?"
+msgstr "Alacak mısın?"
+
+msgctxt "events.Prologue_Classroom_3.misc_shelf2b.choice.Take it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's nothing else of use."
+msgstr "Burada kullanışlı başka bir şey yok."
+
+msgid "A trash can."
+msgstr "Çöp kutusu."
+
+msgid "As it's usually the case with trash cans, it's devoid of useful items."
+msgstr "Normalde böyle durumlarda çöp kutuları gereken malzemelerle dolup taşar."
+
+msgctxt "events.Prologue_Classroom_3.misc_window1.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Perdeler kapalı kalmalı."
+
+msgctxt "events.Prologue_Classroom_3.misc_window2.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Perdeler kapalı kalmalı."
+
+msgctxt "events.Prologue_Classroom_3.misc_window3.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Perdeler kapalı kalmalı."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Sınıftaki sıraları şimdi düzenlemeli miyim?"
+
+msgctxt "events.Prologue_Classroom_3.move_enter.choice.Should I sort the desks in this classroom now?"
+msgid "Yes"
+msgstr "Evet"
+
+msgid "Not yet"
+msgstr "Daha değil"
+
+msgid "Let's do this."
+msgstr "Hadi yapalım şunu."

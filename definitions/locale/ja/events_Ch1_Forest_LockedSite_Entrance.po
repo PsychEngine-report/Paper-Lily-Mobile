@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.item_boltcutter_on_fence.dlg.narrator"
+msgid "There's no reason to do that."
+msgstr "そんなことをする理由はない。"
+
+msgid "(Why damage the fence when I can just cut the chain that locks the gate...?)"
+msgstr "(フェンスを破らなくても、ゲートを閉じてる鎖を切ればいいだけじゃない……？)"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.item_boltcutter_on_gate.dlg.narrator"
+msgid "There's no reason to do that."
+msgstr "そんなことをする理由はない。"
+
+msgid "It's a little too late for that."
+msgstr "そうするにはやや遅すぎる。"
+
+msgid "I don't have all 3 keys yet..."
+msgstr "まだ鍵が3つ揃ってない……"
+
+msgid "A gate locked with 3 padlocks."
+msgstr "3つの南京錠で閉ざされたゲート。"
+
+msgid "The warning sign reads:"
+msgstr "警告にはこう書いてある。"
+
+msgid "\"NO TRESPASSING. RISK OF SERIOUS INJURY OR DEATH\"."
+msgstr "「立ち入り禁止。重傷または死亡の危険あり」。"
+
+msgid "A fence blocks your path."
+msgstr "フェンスが行く手を阻んでいる。"
+
+msgid "I could've probably climbed over it... if not for those spikes."
+msgstr "よじ登って越えられそう……あのトゲさえなければ。"
+
+msgid "A lamppost."
+msgstr "街灯。"
+
+msgid "I'm not confident in my ability to climb this and jump to the other side."
+msgstr "これをよじ登って向こう側に跳べる自信はない。"
+
+msgid "The note reads:"
+msgstr "張り紙にはこう書いてある。"
+
+msgid "\"Due to the recent primal incident, we ask residents stupid enough to go inside to close the gate behind you.\""
+msgstr "「直近のプライマル・インシデントを鑑み、愚かにも中に入る住民の皆様は、入った後で必ず施錠をお願いします。」"
+
+msgid "As expected, the back of the note is blank."
+msgstr "予想通り、張り紙の裏は白紙だ。"
+
+msgid "A statue that looks out of place."
+msgstr "場違いな印象の像。"
+
+msgid "A torn piece of paper seems to be stuck underneath. Take it?"
+msgstr "紙の切れ端が下に差し込んであるようだ。取る？"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.misc_statue.choice.A torn piece of paper seems to be stuck underneath. Take it?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.misc_statue.choice.A torn piece of paper seems to be stuck underneath. Take it?"
+msgid "No"
+msgstr "取らない"
+
+msgid "This path looks really dark and dangerous..."
+msgstr "この道は真っ暗で、すごく危険そう……"
+
+msgid "I went through the trouble of opening that gate but..."
+msgstr "苦労してゲートを開けたけど、でも……"
+
+msgid "I don't think there's a reason to go in there."
+msgstr "中に入る理由はないと思う。"
+
+msgid "I don't have any other sources of light..."
+msgstr "他に明かりになるものはない……"
+
+msgid "Should I just use my phone's flashlight? It may be too bright..."
+msgstr "携帯のライトを使う？　明るすぎるかも……"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Should I just use my phone's flashlight? It may be too bright..."
+msgid "Yes"
+msgstr "使う"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Should I just use my phone's flashlight? It may be too bright..."
+msgid "No"
+msgstr "やめておく"
+
+msgid "I might not be able to come back after I go through here..."
+msgstr "ここを抜けたら戻ってこれないかも……"
+
+msgid "Continue down this path?"
+msgstr "このままこの道を進む？"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Continue down this path?"
+msgid "Yes"
+msgstr "進む"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Continue down this path?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "I don't think I can help Kozmo by going this way..."
+msgstr "こっちに行ってもコズモは助けられないと思う……"
+
+msgid "Go in anyway?"
+msgstr "それでも入る？"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Go in anyway?"
+msgid "Yes"
+msgstr "入る"
+
+msgctxt "events.Ch1_Forest_LockedSite_Entrance.move_enter.choice.Go in anyway?"
+msgid "No"
+msgstr "やめておく"

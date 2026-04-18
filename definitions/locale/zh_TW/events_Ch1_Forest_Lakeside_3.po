@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It seems to like the white tree."
+msgstr "看來是白樹。"
+
+msgid "Take ${item:ch1.doorknob_grave}?"
+msgstr "拿走 ${item:ch1.doorknob_grave} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Fallen white leaves surround the tree."
+msgstr "掉落的白葉圍繞著樹。"
+
+msgid "Take some ${item:ch1.lakeside_petals_white}?"
+msgstr "拿走一些 ${item:ch1.lakeside_petals_white} 嗎？"
+
+msgid "A wooden log."
+msgstr "木條。"
+
+msgid "It's too short to use as a bridge."
+msgstr "短到沒辦法當橋用。"
+
+msgid "I could use this to cross the river..."
+msgstr "我可以用它過河..."
+
+msgid "Push it into the water?"
+msgstr "把它放進水中嗎？"
+
+msgid "Something's weird about this spot, but you don't know what it is."
+msgstr "這個地點有點奇怪，但是妳不知道是什麼。"
+
+msgid "It's just trees... right?"
+msgstr "只是樹林...對吧？"
+
+msgid "The passage is camouflaged."
+msgstr "道路被隱藏了起來。"
+
+msgid "There's no way to open it from this side."
+msgstr "沒辦法從這一側打開。"
+
+msgid "A beautiful tree with white leaves."
+msgstr "有著白葉的漂亮的樹。"
+
+msgid "It's too far to jump."
+msgstr "遠到沒辦法跳過去。"
+
+msgid "The river fades into obscurity."
+msgstr "河流漸漸消失在遠處。"
+
+msgid "White leaves cover the ground."
+msgstr "白葉佈滿了地面。"

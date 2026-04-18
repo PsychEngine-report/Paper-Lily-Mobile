@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's just a flipped version of the other one..."
+msgstr "É só uma versão invertida da outra."
+
+msgid "It's not strong enough to cut through this. It must be reinforced somehow."
+msgstr "Não é forte o bastante para cortar através disso. Deve ter sido reforçado de alguma forma."
+
+msgid "There's a pair of scissors here."
+msgstr "Tem um par de tesouras aqui."
+
+msgid "Take ${item:ch1.scissors}?"
+msgstr "Pegar a ${item:ch1.scissors}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "You have a bad feeling about this. Are you sure?"
+msgstr "Você tem um sentimento ruim sobre isso. Você tem certeza?"
+
+msgid "These scissors can't cut through metal."
+msgstr "Essas tesouras não conseguem cortar através do metal."
+
+msgid "An abstract painting."
+msgstr "Uma pintura abstrata."
+
+msgid "An entrance to some sort of tunnel. It's locked and doesn't seem to have been opened in a while."
+msgstr "A entrada de algum tipo de túnel. Está trancada e não parece ter sido aberta há bastante tempo."

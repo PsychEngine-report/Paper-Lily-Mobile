@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's just a flipped version of the other one..."
+msgstr "這只是另一幅的翻轉版本..."
+
+msgid "It's not strong enough to cut through this. It must be reinforced somehow."
+msgstr "它的強度不足以剪不斷。一定是用某種方式加強了。"
+
+msgid "There's a pair of scissors here."
+msgstr "這裡有一把剪刀。"
+
+msgid "Take ${item:ch1.scissors}?"
+msgstr "拿走 ${item:ch1.scissors} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "You have a bad feeling about this. Are you sure?"
+msgstr "妳有一股不好的預感。妳確定嗎？"
+
+msgid "These scissors can't cut through metal."
+msgstr "這把剪刀剪不斷金屬。"
+
+msgid "An abstract painting."
+msgstr "一幅抽象畫。"
+
+msgid "An entrance to some sort of tunnel. It's locked and doesn't seem to have been opened in a while."
+msgstr "通往某個隧道的入口。入口被鎖著，看起來也有一段時間沒被開啟過。"

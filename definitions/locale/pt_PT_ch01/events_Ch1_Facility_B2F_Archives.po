@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait... you made me climb over all those boxes for nothing?"
+msgstr "Espera... Fizeste-me passar por cima daquelas caixas todas para nada?"
+
+msgid "It wasn't for nothing. Exercise is good for you."
+msgstr "Não foi para nada. Fazer exercício é bom."
+
+msgid "Huuuh?! I can't believe this..."
+msgstr "Hããã?! Não acredito nisto..."
+
+msgid "Man... it's really stuffy in there. I don't wanna do that again."
+msgstr "Meu... Está mesmo abafado lá dentro. Não quero fazer isso outra vez."
+
+msgid "It doesn't look like we can reach it to go back anyway."
+msgstr "Não me parece que consigamos voltar."
+
+msgid "What?!"
+msgstr "Quê?!"
+
+msgid "We're stuck?!"
+msgstr "Estamos presos?!"
+
+msgid "There's a door right there."
+msgstr "Há uma porta ali."
+
+msgid "Sheesh... why are all the vents exits so high up..."
+msgstr "Fogo… Porque é que as saídas de ar são tão altas?"
+
+msgid "If you're going to make them traversable, at least put them at a reasonable height."
+msgstr "Se é para andarmos dentro delas, pelo menos bota-as a uma altura razoável."
+
+msgid "A bookshelf with very few remaining books."
+msgstr "Uma estante com muito poucos livros."
+
+msgid "Read a passage?"
+msgstr "Ler um trecho?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "All of the pages are blank."
+msgstr "As páginas estão todas em branco."
+
+msgid "A bookshelf with very few remaining books. All of their pages are blank."
+msgstr "Uma estante com muito poucos livros. As páginas estão todas em branco."
+
+msgid "An empty bookshelf."
+msgstr "Uma estante vazia."
+
+msgid "...Actually, there's a key at the very back."
+msgstr "...Na verdade, há uma chave na parte de trás."
+
+msgid "A purple book."
+msgstr "Um livro roxo."
+
+msgid "All of its pages are blank, but you can see a faint outline of some letters."
+msgstr "Todas as páginas estão em branco, mas é possível ver o contorno ténue de algumas letras."
+
+msgid "(Have all of these books been erased... somehow?)"
+msgstr "(Será que todos estes livros foram apagados... sei lá como?)"
+
+msgid "Someone didn't want to leave any traces here."
+msgstr "Alguém não quis deixar aqui nenhum rasto."
+
+msgid "I agree."
+msgstr "Concordo."
+
+msgid "There's a hole on the floor."
+msgstr "Há um buraco no chão."
+
+msgid "Going down there is out of the question."
+msgstr "Ir lá abaixo está fora de questão."
+
+msgid "Crawl inside?"
+msgstr "Rastejar lá para dentro?"
+
+msgid "It's not a good idea to go in there without a way out."
+msgstr "Não é boa ideia entrar aí sem uma saída."
+
+msgid "A ventilation shaft."
+msgstr "Uma conduta de ventilação."
+
+msgid "The cover is screwed in."
+msgstr "A tampa está aparafusada."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Ah. I spot a shiny over there."
+msgstr "Ah. Estou a ver ali um brilhinho."
+
+msgid "A... \"shiny\"?"
+msgstr "Um... \"brilhinho\"?"
+
+msgid "You know... a useful item."
+msgstr "Tipo... um objeto útil."
+
+msgid "How do you know it will be useful..."
+msgstr "Como é que sabes que vai ser útil…?"
+
+msgid "Might need to push some boxes around to get it though."
+msgstr "Mas vamos precisar de empurrar umas caixas para o conseguir."
+
+msgid "Arrange the boxes?"
+msgstr "Arrumar as caixas?"

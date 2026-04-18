@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no keyhole on the door."
+msgstr "У цих дверях немає замкової щілини."
+
+msgid "The bookshelf towers over your small figure."
+msgstr "Ця книжкова шафа мов гора височить над вашим крихітним тілом."
+
+msgid "The bookshelf has always felt too large for comfort."
+msgstr "Від таких шаф по неволі відчуваєш пригнічення."
+
+msgid "The bookshelf is filled with hard to read books."
+msgstr "У книжковій шафі лежить купа книг, які важко читати."
+
+msgid "The bookshelf has books with titles you can't even pronounce."
+msgstr "У книжковій шафі лежить купа книг, назви яких геть не читаються."
+
+msgid "A pile of science books."
+msgstr "Купа наукових книжок."
+
+msgid "A pile of science books. Many pages are bookmarked."
+msgstr "Купа наукових книжок. Багато де лежать закладки."
+
+msgid "Books on out-of-body experiences."
+msgstr "Книги, у яких описується досвід виходу із власного тіла."
+
+msgid "A pile of books. The top one is called \"Depictions of psychological trauma in research patients.\""
+msgstr "Купа наукових книжок. Та, що зверху, має назву \"Прояви психологічних розладів у піддослідних\"."
+
+msgid "A pile of anatomy textbooks."
+msgstr "Купа книг з анатомії."
+
+msgid "What the hell."
+msgstr "Якого чорта?"
+
+msgid "Was that...?"
+msgstr "Це що?.."
+
+msgid "Was that...!?"
+msgstr "Це що?!.."
+
+msgid "No. It wasn't."
+msgstr "Ні, мені здалося."
+
+msgid "It's just an empty couch."
+msgstr "Це всього лише пуста канапа."
+
+msgid "A familiar desk."
+msgstr "Знайомий стіл."
+
+msgid "______val of souls from_____avel below the_____ot follow instructions____velope______."
+msgstr "Щ__ в___ати душ__ з по__бі__ччя, дотримуйтесь інструкцій ___верту."
+
+msgid "It's too hazy to read."
+msgstr "Важко прочитати."
+
+msgid "A story book and a photo of someone."
+msgstr "Пригодницька книга та чиясь світлина."
+
+msgid "Some books on physiological changes in humans in specific environments."
+msgstr "Книги, у яких описуються зміни в психології людини під впливом певних чинників."
+
+msgid "There's also a notebook filled with rough scribbles and notes."
+msgstr "Окрім цього, тут лежить нотатник, заповнений закресленими записами."
+
+msgid "A painting of a vague memory."
+msgstr "Картина розмитого спогаду."
+
+msgid "..."
+msgstr "..."
+
+msgid "A trashcan filled with blank pieces of paper."
+msgstr "Відро для сміття, в якому лежить купа пустих аркушів паперу."
+
+msgid "...!"
+msgstr "!.."
+
+msgid "Just what is this place..."
+msgstr "Що це за місце таке?"
+
+msgid "Not interested, huh?"
+msgstr "Не дуже цікаво, гм?"
+
+msgid "So? What do you think? I can see everything that's in your head."
+msgstr "Ну? Що думаєш? Я бачу все, що діється у твоїй голові."
+
+msgid "You really should make an effort to be more lively."
+msgstr "Ти хоча б спробуй вдавати із себе живу людину..."
+
+msgid "You only have until I decide I'm done playing around with you, you know?"
+msgstr "доти мені на набридне з тобою бавитися, врозуміла?"
+
+msgid "And then..."
+msgstr "А тоді..."
+
+msgid "...snap."
+msgstr "...Клац! І все."
+
+msgid "The door you came through won't open anymore."
+msgstr "Двері, через які ви зайшли, більше не відчиняються."

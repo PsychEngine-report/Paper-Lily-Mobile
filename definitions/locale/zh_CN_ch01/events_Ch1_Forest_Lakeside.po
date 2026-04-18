@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "....."
+msgstr "....."
+
+msgid "Let's get rid of some items..."
+msgstr "把一些东西扔掉吧..."
+
+msgid "(You got rid of some items.)"
+msgstr "（你扔掉了一些东西。）"
+
+msgid "There's a bucket here."
+msgstr "这里有个桶。"
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "要拿上${item:ch1.bucket}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice.Take ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice.Take ${item:ch1.bucket}?"
+msgid "No"
+msgstr "否"
+
+msgid "There are easier ways to fill a bucket with water."
+msgstr "往桶里灌水的话，有更容易的办法。"
+
+msgid "It doesn't want to go in there..."
+msgstr "它不愿意进去..."
+
+msgid "The fish is long dead. Putting it in water won't change that."
+msgstr "鱼已经死了。放进水里也无法改变这个事实。"
+
+msgid "The monster swims away after being splashed."
+msgstr "在被泼了水之后，怪物游走了。"
+
+msgid "That won't accomplish anything."
+msgstr "这样做不会有任何结果。"
+
+msgid "I thought it hated water...?"
+msgstr "我还以为它怕水呢...？"
+
+msgid "Well, no... it's clearly swimming in the water just fine."
+msgstr "好吧...它显然在水里游得很好。"
+
+msgid "Maybe it's some different kind of water."
+msgstr "可能要用另一种水。"
+
+msgid "The monster stares at you without moving from its spot."
+msgstr "怪物死死地盯着你，一动不动。"
+
+msgid "No... what if something lives down there?"
+msgstr "不行...万一下面有活物怎么办？"
+
+msgid "I wouldn't want to drown it."
+msgstr "我不想把它淹死。"
+
+msgid "A boat that has seen better days."
+msgstr "这艘船已经失去了它往日的光彩。"
+
+msgid "It could probably take you north."
+msgstr "它或许能带你去到北方。"
+
+msgid "Ideally, I'd like to have two paddles."
+msgstr "理想情况下，我希望能有两个船桨。"
+
+msgid "I can't take it anywhere without paddles."
+msgstr "没有船桨的话，我没法把它带到其他地方。"
+
+msgid "Also..."
+msgstr "还有..."
+
+msgid "(What should I do?)"
+msgstr "（我该怎么做？）"
+
+msgid "Get on the boat"
+msgstr "上船"
+
+msgid "Do not"
+msgstr "不要"
+
+msgid "What the heck is that thing...?"
+msgstr "那是什么鬼东西...？"
+
+msgid "(Maybe I shouldn't get on while it's there...)"
+msgstr "（也许我不应该在它还在的时候上去...）"
+
+msgid "A puddle of what looks like blood."
+msgstr "一滩像是血迹一样的东西。"
+
+msgid "Did this thing just turn into blood...?"
+msgstr "刚刚这个东西就这样变成了血...？"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.dlg.narrator"
+msgid "A small burrow."
+msgstr "一个小洞。"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice"
+msgid "Reach inside?"
+msgstr "要伸手进去吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.Reach inside?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.Reach inside?"
+msgid "No"
+msgstr "否"
+
+msgid "You can't feel anything special."
+msgstr "你没摸到特别的东西。"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.dlg.narrator"
+msgid "A small burrow."
+msgstr "一个小洞。"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice"
+msgid "Reach inside?"
+msgstr "要伸手进去吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.Reach inside?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.Reach inside?"
+msgid "No"
+msgstr "否"
+
+msgid "A cage attached to a tree."
+msgstr "一个拴在树上的笼子。"
+
+msgid "It looks like I could put something inside."
+msgstr "看起来我可以往里面放东西。"
+
+msgid "A bunny stares at you from inside."
+msgstr "一只兔兔从里面盯着你看。"
+
+msgid "The 5-coin fish rests inside. It's not even grilled."
+msgstr "里面放着5块钱的鱼。它甚至还没烤熟呢。"
+
+msgid "A pack of chips is inside."
+msgstr "里面放着一包薯片。"
+
+msgid "A chocolate bar is inside."
+msgstr "里面放着一条巧克力棒。"
+
+msgid "(Take it back?)"
+msgstr "（要拿回来吗？）"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Take it back?)"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Take it back?)"
+msgid "No"
+msgstr "否"
+
+msgid "There's no need to push the cage into the water anymore."
+msgstr "已经没有再把笼子放回水里的必要了。"
+
+msgid "(Push the cage into the water?)"
+msgstr "（要把笼子推进水里吗？）"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Push the cage into the water?)"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Push the cage into the water?)"
+msgid "No"
+msgstr "否"
+
+msgid "(The monster seems to like what you put inside the cage.)"
+msgstr "（怪物西湖很喜欢你放在笼子里的东西。）"
+
+msgid "The cage is in the water."
+msgstr "笼子现在在水中。"
+
+msgid "No need to mess with it anymore."
+msgstr "没必要再弄它了。"
+
+msgid "(Pull it back up?)"
+msgstr "（要拉回来吗？）"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Pull it back up?)"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Pull it back up?)"
+msgid "No"
+msgstr "否"
+
+msgid "A fishing rod."
+msgstr "一根钓鱼竿。"
+
+msgid "Try it?"
+msgstr "要试试吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Try it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Try it?"
+msgid "No"
+msgstr "否"
+
+msgid "A structure housing a lamp."
+msgstr "容纳灯笼的容器。"
+
+msgid "A crow standing on a rock."
+msgstr "一只乌鸦站在岩石上。"
+
+msgid "Is it waiting to take the boat?"
+msgstr "它是在等着乘船吗？"
+
+msgid "Colorful logs sticking out of the water."
+msgstr "五颜六色的原木伸出水面。"
+
+msgid "Despite your best efforts, you can't read the note from this side of the tree."
+msgstr "你尽了最大的努力，也无法从树的这一边读到纸条。"
+
+msgid "A note is attached to the tree. It says:"
+msgstr "树上挂着一张纸条。上面写道："
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVES MEAT\n"
+"HATES WATER\""
+msgstr ""
+"“怪物\n"
+"嗜肉\n"
+"弱水”"

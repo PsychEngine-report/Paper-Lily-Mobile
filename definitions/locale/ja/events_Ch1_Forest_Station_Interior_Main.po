@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "..."
+msgstr "……"
+
+msgid "There's no one behind the window."
+msgstr "窓の向こうには誰もいない。"
+
+msgid "Ads. Don't acknowledge them."
+msgstr "広告。無視しよう。"
+
+msgid "It says \"No cutting in line.\""
+msgstr "「割り込み禁止」と書いてある。"
+
+msgid "Cutting in front of who? There's nobody here!"
+msgstr "どこに割り込むの？　誰もいないのに！"
+
+msgid "Looks like ticket prices."
+msgstr "切符の値段のようだ。"
+
+msgid "A regular ticket is 20 coins."
+msgstr "通常券は20コインらしい。"
+
+msgid "...That's a lot of coins... for me at least."
+msgstr "……けっこう高い……少なくとも、私にとっては。"
+
+msgid "A number dispenser."
+msgstr "整理券の発券機。"
+
+msgid "It looks like the numbers ran out, though."
+msgstr "もっとも、今は券が切れているようだ。"
+
+msgid "A half-withered plant."
+msgstr "枯れかけた植物。"
+
+msgid "A dead plant."
+msgstr "死んだ植物。"
+
+msgid "A trash can."
+msgstr "ゴミ箱。"
+
+msgid "It's missing the pedal thingy, so you can't open it to check the contents."
+msgstr "ペダル的なものがなくなっているので、開けて中を確かめることはできない。"
+
+msgid "Touching the lid with your bare hands is out of the question."
+msgstr "素手でフタに触るのは問題外だ。"
+
+msgid "A coin-operated vending machine. It says \"OUT OF ORDER\"."
+msgstr "コイン式の自動販売機。「故障中」と書いてある。"
+
+msgid "Insert a coin anyways?"
+msgstr "構わずコインを入れる？"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Main.misc_vendingmachine.choice.Insert a coin anyways?"
+msgid "Yes"
+msgstr "入れる"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Main.misc_vendingmachine.choice.Insert a coin anyways?"
+msgid "No"
+msgstr "入れない"
+
+msgid "The machine took the coin, but nothing's happening."
+msgstr "コインは吞み込まれたが、何も起こらない。"
+
+msgid "A coin-eating, evil vending machine."
+msgstr "コインを食べた、邪悪な自動販売機。"
+
+msgid "What should I do, put another coin?"
+msgstr "どうしろって言うの、もう一枚入れるとか？"
+
+msgid "This upsets me..."
+msgstr "むかつく……"
+
+msgid "A coin-swallowing, useless vending machine."
+msgstr "コインを呑み込んだ、役立たずの自動販売機。"
+
+msgid "Kick it?"
+msgstr "蹴る？"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Main.misc_vendingmachine.choice.Kick it?"
+msgid "Yes"
+msgstr "蹴る"
+
+msgctxt "events.Ch1_Forest_Station_Interior_Main.misc_vendingmachine.choice.Kick it?"
+msgid "No"
+msgstr "蹴らない"
+
+msgid "Today, violence was the answer."
+msgstr "今回は、暴力が答えだった。"
+
+msgid "A broken vending machine."
+msgstr "壊れた自動販売機。"
+
+msgid "A coin-spitting vending machine that got what it deserved."
+msgstr "正当な報いを受けてコインを吐き出した自動販売機。"

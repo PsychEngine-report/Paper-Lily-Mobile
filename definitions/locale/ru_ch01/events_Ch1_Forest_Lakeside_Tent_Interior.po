@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Please hurry, or my sister will kill us both."
+msgstr "Прошу, поспеши, или моя сестра нас обоих порешит."
+
+msgid "Here or outside is fine."
+msgstr "Можешь тут или снаружи."
+
+msgid "We really appreciate it."
+msgstr "И большое спасибо."
+
+msgid "Hurry the hell up already!"
+msgstr "Давай быстрее, мать твою!"
+
+msgid "What are you doing?"
+msgstr "Что ты делаешь?"
+
+msgid "Don't babysit him, KILL HIM!"
+msgstr "Не жалей его, УБЕЙ ЕГО!"
+
+msgid "Oh my god. The silence. It's so damn good."
+msgstr "О мой бог. Тишина. Какой же кайф."
+
+msgid "Here you go, you earned it."
+msgstr "На, держи, заслужила."
+
+msgid "Not sure why you'd want this though."
+msgstr "Хотя не знаю, как оно может тебе сгодиться."
+
+msgid "Thanks."
+msgstr "Спасибо."
+
+msgid "Thank the cursed heavens it's gone."
+msgstr "Хвала небесам, что его больше нет."
+
+msgid "Alright, I guess I'll just..."
+msgstr "Наверное, мне нужно просто..."
+
+msgid "Yes, kill it. Do it."
+msgstr "Да, убей его. Давай."
+
+msgid "Quickly."
+msgstr "Быстро."
+
+msgid "HUZZAH!!!!!"
+msgstr "УРААА!!!!!"
+
+msgid "Finally."
+msgstr "Наконец-то."
+
+msgid "Dead dead dead!"
+msgstr "Подох-подох-подох!"
+
+msgid "You'll kill him???"
+msgstr "Ты его прикончишь???"
+
+msgid "I guess so."
+msgstr "Получается, что да."
+
+msgid "THANK THE HEAVENS."
+msgstr "ХВАЛА НЕБЕСАМ."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.ch1_terrarium"
+msgid "..."
+msgstr "..."
+
+msgid "You shut the hell up. You're dead meat, jerk."
+msgstr "А ты рот свой закрой. Звездец тебе, придурок."
+
+msgid "Farewell, little brother. It has been a displeasure."
+msgstr "Прощай, братишка. Был не рад знакомству."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(What now...?)"
+msgstr "(Что теперь?..)"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Kill it here"
+msgstr "Убить его здесь"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Do not"
+msgstr "Не убивать"
+
+msgid "Why're you carrying a bucket?"
+msgstr "Зачем тебе с собой ведро?"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_bucket_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(To be honest, I'm not so sure myself.)"
+msgstr "(Если честно, я сама не знаю.)"
+
+msgid "(Um...)"
+msgstr "(Эм...)"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Kill it here"
+msgstr "Убить его здесь"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Do not"
+msgstr "Не убивать"
+
+msgid "What's taking so long?!"
+msgstr "Чего ты так долго?!"
+
+msgid "...Damn. That was pretty metal."
+msgstr "Чего ты так долго?!...Ого, блин. Брутально."
+
+msgid "It stinks though."
+msgstr "Правда, теперь вонь стоит."
+
+msgid "No take backs!"
+msgstr "Назад ничего не принимаем!"
+
+msgid "Dang."
+msgstr "Блин."
+
+msgid "Huh... he's a lot quieter when he's with you."
+msgstr "Ха... а с тобой он намного тише."
+
+msgid "Maybe he's anticipating his demise!?"
+msgstr "Может, он уже предвкушает свою кончину?!"
+
+msgid "Oh man, can't wait!!!"
+msgstr "О боже, жду не дождусь!!!"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I don't need to see him anymore."
+msgstr "Не хочу его больше видеть."
+
+msgid "Not ALIVE, at least."
+msgstr "По крайней мере живым."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_boy.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "Ты знаешь, куда она ведёт?"
+
+msgid "No. We found that lying around when we were setting up camp."
+msgstr "Нет. Мы нашли её в траве когда обустраивали лагерь."
+
+msgid "I see..."
+msgstr "Понятно..."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_girl.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "Ты знаешь, куда она ведёт?"
+
+msgid "No idea."
+msgstr "Без понятия."
+
+msgid "Please, we already gave you the doorknob."
+msgstr "Пожалуйста, хватит, мы уже дали тебе дверную ручку."
+
+msgid "What more do you want?"
+msgstr "Чего тебе ещё надо?"
+
+msgid "Oh god..."
+msgstr "О господи..."
+
+msgid "Please stop, I seriously can't stand that."
+msgstr "Прошу, хватит, я это не переношу."
+
+msgid "Get that shit away from me."
+msgstr "Убери от меня эту херовину."
+
+msgid "Hate that crap."
+msgstr "Терпеть это говно не могу."
+
+msgid "Alright alright geez!"
+msgstr "Всё-всё, ладно!"
+
+msgid "Just take the stupid doorknob and leave!"
+msgstr "Бери уже эту ручку и вали!"
+
+msgid "That smells putrid..."
+msgstr "Мерзкий запах..."
+
+msgid "I guess I get to keep him...?"
+msgstr "Значит, я могу его оставить?.."
+
+msgid "No thanks, I don't care for stones."
+msgstr "Нет, спасибо, мне не нужны камни."
+
+msgid "The heck would I need that for?"
+msgstr "Нахрена мне это?"
+
+msgid "I don't know."
+msgstr "Не знаю."
+
+msgid "To give to Rune..?"
+msgstr "Можешь отдать Руну?.."
+
+msgid "Who the heck is Rune?"
+msgstr "Что ещё за Рун, мать твою?"
+
+msgid "What in the world are you doing!?"
+msgstr "Что ты делаешь, мать твою?!"
+
+msgid "Maybe she's deranged."
+msgstr "Может, она больная на голову?"
+
+msgid "You said to kill it."
+msgstr "Вы сказали убить его."
+
+msgid "Yeah, so do it already!"
+msgstr "Ну так убей!"
+
+msgid "(Hmmm...)"
+msgstr "(Хм...)"
+
+msgid "(I guess salt doesn't work on moths.)"
+msgstr "(Думаю, соль не работает на мотыльков.)"
+
+msgid "What. The. FUCK."
+msgstr "...Ёбаный в рот..."
+
+msgid "...Oh man..."
+msgstr "...Капец..."
+
+msgid "A fireplace."
+msgstr "Костёр."
+
+msgid "(There's no smoke...?)"
+msgstr "(С него не идёт дым?..)"
+
+msgid "Take ${item:ch1.forest_caterpillar}?"
+msgstr "Взять предмет: ${item:ch1.forest_caterpillar}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"

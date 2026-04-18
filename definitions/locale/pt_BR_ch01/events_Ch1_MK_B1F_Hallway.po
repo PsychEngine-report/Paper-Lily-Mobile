@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Psst..."
+msgstr "Psst..."
+
+msgid "Over here."
+msgstr "Por aqui."
+
+msgid "Oh. A human."
+msgstr "Oh. Um humano."
+
+msgid "I see."
+msgstr "Entendido."
+
+msgid "Strange."
+msgstr "Estranho."
+
+msgid "How did you make it all the way here?"
+msgstr "Como você chegou até aqui?"
+
+msgid "Um..."
+msgstr "Hum..."
+
+msgid "Well, no matter."
+msgstr "Bem, não importa."
+
+msgid "This isn't ideal but..."
+msgstr "Isso não é o ideal, mas..."
+
+msgid "...It'll do, I suppose."
+msgstr "...Vai servir, suponho."
+
+msgid "Who are you?"
+msgstr "Quem é você?"
+
+msgid "I do not have a name."
+msgstr "Eu não tenho um nome."
+
+msgid "(What was that..?)"
+msgstr "(O que é que foi isso..?)"
+
+msgid "Miss Knives is roaming around."
+msgstr "Senhora Knives está vagando por aí."
+
+msgid "Miss Knives..."
+msgstr "Senhora Knives..."
+
+msgid "I think I met her."
+msgstr "Acho que a conheci."
+
+msgid "Yes, I saw that."
+msgstr "Sim, eu vi aquilo."
+
+msgid "You really brought out the \"crazy\" in her."
+msgstr "Você realmente despertou o que há de \"louco\" nela."
+
+msgid "..."
+msgstr "..."
+
+msgid "(I didn't exactly do anything...)"
+msgstr "(Eu não fiz exatamente nada...)"
+
+msgid "I need to find a way out of this place."
+msgstr "Preciso encontrar uma maneira de sair deste lugar."
+
+msgid "I'm looking for a cursed door."
+msgstr "Estou procurando uma porta amaldiçoada."
+
+msgid "Of course."
+msgstr "Claro."
+
+msgid "We have a common goal."
+msgstr "Temos um objetivo comum."
+
+msgid "To avoid you wandering aimlessly until you get killed..."
+msgstr "Para evitar que você fique vagando sem rumo até ser morta..."
+
+msgid "...I'll help you."
+msgstr "...Vou te ajudar."
+
+msgid "Alright."
+msgstr "Tudo bem."
+
+msgid "So..."
+msgstr "Então..."
+
+msgid "Why don't you have a name?"
+msgstr "Por que você não tem um nome?"
+
+msgid "How do I get out of here?"
+msgstr "Como faço para sair daqui?"
+
+msgid "My items are gone"
+msgstr "Meus itens sumiram"
+
+msgid "You don't have a name?"
+msgstr "Você não tem nome?"
+
+msgid "I wasn't given one."
+msgstr "Eu não recebi um."
+
+msgid "But when you live a solitary life, you don't need a name."
+msgstr "Mas quando você vive uma vida solitária, não precisa de um nome."
+
+msgid "You're free to call me what you wish."
+msgstr "Você é livre para me chamar do que quiser."
+
+msgid "You humans seem to want to name everything."
+msgstr "Vocês, humanos, parecem querer nomear tudo."
+
+msgid "I'll call you Spider."
+msgstr "Vou te chamar de Spider."
+
+msgid "That's a terrible name."
+msgstr "Esse é um nome terrível."
+
+msgid "Do you call other humans \"Human\"?"
+msgstr "Você chama outros humanos de \"humanos\"?"
+
+msgid "There are several strange objects scattered around this place."
+msgstr "Existem vários objetos estranhos espalhados por este lugar."
+
+msgid "After you find them, you'll need to figure out how to unseal them."
+msgstr "Depois de encontrá-los, você precisará descobrir como retirá-los do selo."
+
+msgid "How will I know what I'm looking for?"
+msgstr "Como saberei o que estou procurando?"
+
+msgid "You'll know it when you see it."
+msgstr "Você saberá quando ver."
+
+msgid "...Okay."
+msgstr "...Ok."
+
+msgid "By the way..."
+msgstr "Por falar nisso..."
+
+msgid "I came in here with a lot of things but... they're all gone."
+msgstr "Entrei aqui com muitas coisas, mas... desapareceram todas."
+
+msgid "If I don't get them back..."
+msgstr "Se eu não os recuperar..."
+
+msgid "Don't worry. You'll have them if you get out of here."
+msgstr "Não se preocupe. Você os recuperará se sair daqui."
+
+msgid "I hear her coming."
+msgstr "Eu a ouço chegando."
+
+msgid "You need to hide."
+msgstr "Você precisa se esconder."
+
+msgid "Huh?"
+msgstr "Huh?"
+
+msgid "Go, now!"
+msgstr "Vá agora!"
+
+msgid "Oh..."
+msgstr "Oh..."
+
+msgid "The door is gone.."
+msgstr "A porta desapareceu.."
+
+msgid "The door has no keyhole."
+msgstr "A porta não tem fechadura."
+
+msgid "Looks like a guest book. It has no signatures."
+msgstr "Parece um livro de visitas. Não tem assinaturas."
+
+msgid "A large couch."
+msgstr "Um sofá grande."
+
+msgid "An empty flower vase."
+msgstr "Um vaso de flores vazio."
+
+msgid "Purple flowers in a vase."
+msgstr "Flores roxas em um vaso."
+
+msgid "I could use these flowers..."
+msgstr "Eu poderia usar essas flores..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Trazer as flores para a planta?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "\"Thank you.\""
+msgstr "\"Obrigada.\""
+
+msgid "A coat hanger."
+msgstr "Um cabide."
+
+msgid "I'm keeping mine on."
+msgstr "Estou mantendo o meu ligado."
+
+msgid "A floor lamp."
+msgstr "Uma luminária de chão."
+
+msgid "A portrait of a person with tentacles for a head."
+msgstr "O retrato de uma pessoa com tentáculos na cabeça."
+
+msgid "A portrait of a girl with very long nails."
+msgstr "Retrato de uma menina com unhas muito compridas."
+
+msgid "A portrait of a person with horns."
+msgstr "O retrato de uma pessoa com chifres."
+
+msgid "A portrait of a person with a flower pot for a head."
+msgstr "O retrato de uma pessoa com um vaso de flores na cabeça."
+
+msgid "They must smell really nice."
+msgstr "Eles devem cheirar muito bem."
+
+msgid "A portrait of a person with a butterfly on their face."
+msgstr "Retrato de uma pessoa com uma borboleta no rosto."
+
+msgid "Is the butterfly a part of their face? Or just resting on it?"
+msgstr "A borboleta faz parte do rosto deles? Ou apenas descansando sobre ele?"
+
+msgid "A portrait of a person with one eye."
+msgstr "Um retrato de uma pessoa com um olho só."
+
+msgid "A portrait of a person with blood running down their face."
+msgstr "O retrato de uma pessoa com sangue escorrendo pelo rosto."
+
+msgid "Can they see properly?"
+msgstr "Eles conseguem ver corretamente?"
+
+msgid "A portrait of a person with flowers for eyes."
+msgstr "Um retrato de uma pessoa com flores no lugar dos olhos."
+
+msgid "A portrait of several characters with big eyes."
+msgstr "Um retrato de vários personagens com olhos grandes."
+
+msgid "A portrait of a person with an octopus plush for a head."
+msgstr "O retrato de uma pessoa com um polvo de pelúcia na cabeça."
+
+msgid "A portrait of a scary lady. There's a grinning person above it."
+msgstr "Um retrato de uma senhora assustadora. Há uma pessoa sorridente acima dela."
+
+msgid "Both look unsettling..."
+msgstr "Ambos parecem perturbadores..."
+
+msgid "A painting that's mostly just blue."
+msgstr "Uma pintura que é principalmente azul."
+
+msgid "Touch it?"
+msgstr "Toque isso?"
+
+msgid "A bunch of blue powder sticks to your finger."
+msgstr "Um monte de pó azul gruda no seu dedo."
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Deve ser fácil desmontar e coletar mais, desde que você tenha algo para carregá-lo."
+
+msgid "(You wipe it off.)"
+msgstr "(Você limpa.)"
+
+msgid "Creepy portraits adorn the walls."
+msgstr "Retratos assustadores adornam as paredes."
+
+msgid "A broken pot where Spider was."
+msgstr "Um pote quebrado onde Spider estava."
+
+msgid "There's something here..."
+msgstr "Tem algo aqui..."
+
+msgid "Take ${item:ch1.rainbow_potion_tmp}?"
+msgstr "Pegar o ${item:ch1.rainbow_potion_tmp}?"
+
+msgid "A vase with a single flower."
+msgstr "Um vaso com uma única flor."
+
+msgid "There's nothing here."
+msgstr "Não há nada aqui."
+
+msgid "It's no use... It's just a wall now."
+msgstr "Não adianta... Agora é só uma parede."
+
+msgid "You can hear someone crying inside."
+msgstr "Você pode ouvir alguém chorando lá dentro."
+
+msgid "You can hear someone singing on the other side."
+msgstr "Você pode ouvir alguém cantando do outro lado."

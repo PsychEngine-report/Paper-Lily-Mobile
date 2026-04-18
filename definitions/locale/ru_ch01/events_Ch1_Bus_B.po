@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A creature with a huge mouth."
+msgstr "Существо с большим ртом."
+
+msgid "hhhhaaaaaa....."
+msgstr "хххххааааааа...."
+
+msgid "(It might be best to keep my distance...)"
+msgstr "(Лучше соблюдать между ним дистанцию...)"
+
+msgid "A scary-looking monster."
+msgstr "Жуткий монстр."
+
+msgid "It's looking at me..."
+msgstr "Он смотрит на меня..."
+
+msgid "A person holding what seems like a lamp with fish inside."
+msgstr "Человек, держащий лампу с рыбкой внутри."
+
+msgid "A hooded young man is lying down here."
+msgstr "Здесь разлёгся юноша в капюшоне."
+
+msgid "Pardon me..."
+msgstr "Прошу прощения..."
+
+msgctxt "events.Ch1_Bus_B.chr_sai.dlg.unknown"
+msgid "..."
+msgstr "..."
+
+msgid "I need some help."
+msgstr "Мне нужна помощь."
+
+msgctxt "events.Ch1_Bus_B.chr_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Yeah, I wouldn't talk to me either."
+msgstr "Ну да, на вашем месте я бы тоже со мной не разговаривала."
+
+msgid "Sigh..."
+msgstr "*Вздох*"
+
+msgid "An odd green man."
+msgstr "Странный зелёный гуманоид."
+
+msgctxt "events.Ch1_Bus_B.chr_sleepy.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "zzzzz"
+msgstr "хррррр"
+
+msgid "Uh... excuse me?"
+msgstr "Э... простите?"
+
+msgid "zzzzzZZZZZ"
+msgstr "хррррррРРРРР"
+
+msgid "Looks like he's trying to sleep..."
+msgstr "Похоже, он пытается поспать..."
+
+msgid "Some purple blobs with ...faces?"
+msgstr "Пурпурные слизняки с... лицами?"
+
+msgid "If I push them together, will they disappear?"
+msgstr "Если втолкнуть их друг в друга, они исчезнут?"
+
+msgid "The bus driver must be behind these curtains."
+msgstr "Водитель, должно быть, скрывается за этой шторкой."
+
+msgid "Take a look behind the curtains?"
+msgstr "Заглянуть внутрь?"
+
+msgctxt "events.Ch1_Bus_B.misc_curtain.choice.Take a look behind the curtains?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Bus_B.misc_curtain.choice.Take a look behind the curtains?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Some colorful goop is dripping from the ceiling."
+msgstr "С потолка капает какая-то цветастая жижа."
+
+msgid "An empty seat."
+msgstr "Пустое место."
+
+msgid "My seat. I didn't forget anything."
+msgstr "Моё место. Я ничего на нём не оставила."
+
+msgid "Should I sit back down?"
+msgstr "Сесть обратно?"
+
+msgctxt "events.Ch1_Bus_B.misc_seat_3.choice.Should I sit back down?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Bus_B.misc_seat_3.choice.Should I sit back down?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A list of rules for the bus."
+msgstr "Список правил в автобусе."
+
+msgctxt "events.Ch1_Bus_B.misc_sign.dlg.lacie"
+msgid "\"No eating on the bus.\""
+msgstr "\"Не есть в автобусе.\""
+
+msgid "Seems pretty reasonable."
+msgstr "Звучит вполне справедливо."
+
+msgctxt "events.Ch1_Bus_B.misc_sign.dlg.narrator"
+msgid "\"No eating on the bus.\""
+msgstr "\"Не есть в автобусе.\""
+
+msgid "The ticketing machine."
+msgstr "Билетоприёмник."
+
+msgid "You can see the bus stop and some trees out the window."
+msgstr "За окном вы видите автобусную остановку и несколько деревьев."
+
+msgid "...She actually got off?"
+msgstr "...Она реально вышла?"
+
+msgid "...Huh."
+msgstr "...Во как."

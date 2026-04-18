@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "....."
+msgstr "....."
+
+msgid "Let's get rid of some items..."
+msgstr "Vou livrar-me de alguns objetos..."
+
+msgid "(You got rid of some items.)"
+msgstr "(Perdeste alguns itens.)"
+
+msgid "There's a bucket here."
+msgstr "Há um balde aqui."
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "Levar o ${item:ch1.bucket}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "There are easier ways to fill a bucket with water."
+msgstr "Há maneiras mais fáceis de encher um balde com água."
+
+msgid "It doesn't want to go in there..."
+msgstr "Não quer entrar..."
+
+msgid "The fish is long dead. Putting it in water won't change that."
+msgstr "O peixe já está morto. Colocá-lo na água não vai mudar nada."
+
+msgid "The monster swims away after being splashed."
+msgstr "O monstro nada para longe depois de ter sido salpicado."
+
+msgid "That won't accomplish anything."
+msgstr "Isso não vai resultar em nada."
+
+msgid "I thought it hated water...?"
+msgstr "Pensei que detestava água...?"
+
+msgid "Well, no... it's clearly swimming in the water just fine."
+msgstr "Bem, não... Ele está claramente a nadar na água."
+
+msgid "Maybe it's some different kind of water."
+msgstr "Talvez seja um tipo de água diferente."
+
+msgid "The monster stares at you without moving from its spot."
+msgstr "O monstro fica a olhar para ti sem se mexer do lugar."
+
+msgid "No... what if something lives down there?"
+msgstr "Não... E se viver alguma coisa lá em baixo?"
+
+msgid "I wouldn't want to drown it."
+msgstr "Não quero afogá-lo."
+
+msgid "A boat that has seen better days."
+msgstr "Um barco que já viu dias melhores."
+
+msgid "It could probably take you north."
+msgstr "Provavelmente pode levar-te para o norte."
+
+msgid "Ideally, I'd like to have two paddles."
+msgstr "O ideal seria ter dois remos."
+
+msgid "I can't take it anywhere without paddles."
+msgstr "Não o posso levar para lado nenhum sem remos."
+
+msgid "Also..."
+msgstr "E..."
+
+msgid "(What should I do?)"
+msgstr "(O que devo fazer?)"
+
+msgid "Get on the boat"
+msgstr "Subir ao barco"
+
+msgid "Do not"
+msgstr "Não subir"
+
+msgid "What the heck is that thing...?"
+msgstr "Que raio é aquela coisa...?"
+
+msgid "(Maybe I shouldn't get on while it's there...)"
+msgstr "(Talvez eu não deva entrar enquanto aquilo estiver lá...)"
+
+msgid "A puddle of what looks like blood."
+msgstr "Uma poça do que parece ser sangue."
+
+msgid "Did this thing just turn into blood...?"
+msgstr "Esta coisa transformou-se em sangue...?"
+
+msgid "A small burrow."
+msgstr "Uma toca pequena."
+
+msgid "Reach inside?"
+msgstr "Alcançar o interior?"
+
+msgid "You can't feel anything special."
+msgstr "Não sentes nada de especial."
+
+msgid "A cage attached to a tree."
+msgstr "Uma jaula presa a uma árvore."
+
+msgid "It looks like I could put something inside."
+msgstr "Parece que posso pôr alguma coisa dentro dela."
+
+msgid "A bunny stares at you from inside."
+msgstr "O coelhinho olha para ti do interior."
+
+msgid "The 5-coin fish rests inside. It's not even grilled."
+msgstr "Tem o peixe das 5 moedas dentro. Nem sequer está grelhado."
+
+msgid "A pack of chips is inside."
+msgstr "Tem o pacote de batatas fritas dentro."
+
+msgid "A chocolate bar is inside."
+msgstr "Tem uma barra de chocolate dentro."
+
+msgid "(Take it back?)"
+msgstr "(Tirar?)"
+
+msgid "There's no need to push the cage into the water anymore."
+msgstr "Já não é necessário empurrar a jaula."
+
+msgid "(Push the cage into the water?)"
+msgstr "(Empurrar a jaula para a água?)"
+
+msgid "(The monster seems to like what you put inside the cage.)"
+msgstr "(O monstro parece gostar do que puseste lá dentro.)"
+
+msgid "The cage is in the water."
+msgstr "A jaula está na água."
+
+msgid "No need to mess with it anymore."
+msgstr "Não é preciso mexer mais nisto."
+
+msgid "(Pull it back up?)"
+msgstr "(Puxá-la para cima?)"
+
+msgid "A fishing rod."
+msgstr "Uma cana de pesca."
+
+msgid "Try it?"
+msgstr "Experimentar?"
+
+msgid "A structure housing a lamp."
+msgstr "Uma estrutura com uma lâmpada."
+
+msgid "A crow standing on a rock."
+msgstr "Um corvo em cima de uma rocha."
+
+msgid "Is it waiting to take the boat?"
+msgstr "Está à espera para apanhar o barco?"
+
+msgid "Colorful logs sticking out of the water."
+msgstr "Troncos coloridos a sair da água."
+
+msgid "Despite your best efforts, you can't read the note from this side of the tree."
+msgstr "Apesar de te esforçares muito, não consegues ler o bilhete deste lado da árvore."
+
+msgid "A note is attached to the tree. It says:"
+msgstr "Há um bilhete preso à árvore. Diz:"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVES MEAT\n"
+"HATES WATER\""
+msgstr ""
+"\"O MONSTRO\n"
+"ADORA CARNE\n"
+"ODEIA ÁGUA\""

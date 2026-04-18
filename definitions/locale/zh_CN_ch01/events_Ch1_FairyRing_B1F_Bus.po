@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is so fun, I haven't waited for the bus in ages!"
+msgstr "太好玩了，我已经很久没有等过巴士了！"
+
+msgid "(There's nothing fun in waiting for the bus...)"
+msgstr "（等巴士可一点也不好玩...）"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "总之，你知道仙女环是怎么逐渐扩大并覆盖更多区域的吗？"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "我听说它们一旦吃饱了，就会张开大嘴，吞下地表的一切！"
+
+msgid "So when that happened, one of them swallowed the station and a whole bus."
+msgstr "所以，当这种情况发生的时候时，它们的其中一个吞掉了车站和一整辆巴士。"
+
+msgid "(Apparently Glen was really unhappy so they destroyed most of the fairy rings.)"
+msgstr "（很显然的，格伦非常不高兴，所以他们摧毁了仙女环的大部分区域。）"
+
+msgid "(Glen?)"
+msgstr "（格伦？）"
+
+msgid "Wait... why don't they just destroy all of them?"
+msgstr "等等...为什么他们不直接把全部都摧毁掉呢？"
+
+msgid "I dunno."
+msgstr "我不知道。"
+
+msgid "They usually remove some of them, every few years..."
+msgstr "它们一般是每隔几年去除掉一些..."
+
+msgid "...Now that you mention it, I'm not sure why they don't just remove them all."
+msgstr "...现在你提到这个，我才发现我也想不明白，为什么他们不直接全部除掉。"
+
+msgid "Maybe it's too much work to remove the fairy rings..?"
+msgstr "也许是清除仙女环太费事了..？"
+
+msgid "Hmm... I wonder..."
+msgstr "嗯...我猜是的..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Oh I know!"
+msgstr "哦，我知道了！"
+
+msgid "Maybe there's something even more terrible underneath, so they're using the fairy rings to seal it away!"
+msgstr "也许下面还有更可怕的东西，所以他们用仙女环把它封印了！"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "No, that can't be it."
+msgstr "不，不可能是这样的。"
+
+msgid "I'll keep thinking."
+msgstr "我再想想吧。"
+
+msgid "Aoi is thinking."
+msgstr "小青正在思考。"
+
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "Is that...the bus stop?"
+msgstr "这是...巴士站吗？"
+
+msgid "Not the current one."
+msgstr "不是目前使用的那个吧。"
+
+msgid "But we must be right under the current one."
+msgstr "但是我们肯定就在目前使用的车站的正下方。"
+
+msgid "Wow, we sure walked a long way!"
+msgstr "哇，我们肯定已经走了很远的路了！"
+
+msgid "(Did I walk all the way back to where I started...!?)"
+msgstr "（是说我走回了我来的地方吗...！？）"
+
+msgid "So... what brings you here?"
+msgstr "所以说...什么风把你吹到这来了？"
+
+msgid "What brings me... down here?"
+msgstr "什么风...把我吹到这下面来？"
+
+msgid "I stepped into the fairy ring."
+msgstr "我踏进了仙女环啊。"
+
+msgid "Ah. Right."
+msgstr "哦。对哦。"
+
+msgid "Classic."
+msgstr "很典型。"
+
+msgid "I also stepped into it."
+msgstr "我也是踏了进去。"
+
+msgid "Yes, of course."
+msgstr "是的，当然了。"
+
+msgid "So what brings you to these parts of the forest?"
+msgstr "那么，是什么让你来到森林的这部分呢？"
+
+msgid "Um..."
+msgstr "呃..."
+
+msgid "(Actually, I wonder if they can they tell I'm human?)"
+msgstr "（其实，我很好奇它知不知道我是一个人类？）"
+
+msgid "(It's best not to say anything about that...)"
+msgstr "（最好还是别讲这件事了...）"
+
+msgid "I'm looking for a lighthouse."
+msgstr "我在找一个灯塔。"
+
+msgid "Ooh."
+msgstr "哦。"
+
+msgid "What for?"
+msgstr "为什么呢？"
+
+msgid "Meeting... someone..?"
+msgstr "去见...某人...？"
+
+msgid "(Aoi definitely can't help me with my problem... this is basically a child we're talking about.)"
+msgstr "（小青肯定帮不了我的忙...我们就像小孩子聊天一样。）"
+
+msgid "(So there's no point in elaborating much, I think.)"
+msgstr "（所以，我觉得没有必要再多说什么了。）"
+
+msgid "I'm just looking for someone to help me with a problem."
+msgstr "我正在找能帮助我的人。"
+
+msgid "Someone like a doctor? Or like an assassin?"
+msgstr "你是说医生？还是说刺客？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "...Probably more like a doctor, I guess."
+msgstr "...我觉得更像是医生吧。"
+
+msgid "Oh... are you sick, Lacie?"
+msgstr "哦...你是生病了吗，莱西？"
+
+msgid "No, It's nothing serious, probably."
+msgstr "不，可能没什么大碍。"
+
+msgid "I guess I'll be able to tell once I meet them."
+msgstr "我想，等我见到他们就知道了。"
+
+msgid "Ooh!"
+msgstr "哦！"
+
+msgid "I had a friend I used to meet all the time!"
+msgstr "我有一个经常见面的朋友！"
+
+msgid "But it wasn't at a lighthouse, it was..."
+msgstr "但是它不在灯塔，它在..."
+
+msgid "But..."
+msgstr "但是..."
+
+msgid "...It was in the supply closet..."
+msgstr "...它在补给柜里..."
+
+msgid "...in secret..."
+msgstr "...偷偷地..."
+
+msgid "???"
+msgstr "？？？"
+
+msgid "...But then they died."
+msgstr "...但是之后它死了。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "And now I'll die too....."
+msgstr "现在我也要死了....."
+
+msgid "W-what brings YOU to the forest?"
+msgstr "那—你来森林干什么？"
+
+msgid "Oh, I'm on vacation!"
+msgstr "哦，我来度假的！"
+
+msgid "Oh, that's nice."
+msgstr "哦，那很棒啊。"
+
+msgid "(Phew...)"
+msgstr "（呼...）"
+
+msgid "That looks heavy..."
+msgstr "看起来很重哦..."
+
+msgid "You're prepared for anything, aren't you?"
+msgstr "你已经做好了万全的准备，不是吗？"
+
+msgid "I also like bug-catching!"
+msgstr "我也喜欢捉虫子！"
+
+msgid "The small ones, at least..."
+msgstr "我是说，小的那种..."
+
+msgid "What's that?"
+msgstr "这是什么？"
+
+msgid "Hmm... I'll show you someday."
+msgstr "呃...改天告诉你吧。"
+
+msgid "Aww... alright."
+msgstr "哦...好吧。"
+
+msgid "You'll show Aoi someday. Maybe."
+msgstr "改天告诉小青吧。有机会的话。"
+
+msgid "Are you tired?"
+msgstr "你累了吗？"
+
+msgid "There's a bench right there, I guess."
+msgstr "那里有一张长椅的说。"
+
+msgid "I give it at least 10 more years before it will be fully swallowed!"
+msgstr "我觉得这要吃十多年才能完全吃完吧！"
+
+msgid "Oh, I also have one of those!"
+msgstr "哦，我也有一个这样的！"
+
+msgid "I heard they taste great, but I'm afraid to try them since they're poisonous and all..."
+msgstr "我听说这个吃起来很棒，但是我不敢尝，因为它们有毒..."
+
+msgid "Or... are you suggesting something???"
+msgstr "或者是...你是在暗示什么？？？"
+
+msgid "(Best not to spoil Aoi too much.)"
+msgstr "（最好不要再打扰小青了。）"
+
+msgid "Aww! Thanks!"
+msgstr "哇！谢谢！"
+
+msgid "It's good that you have a light, in case it gets dark in here."
+msgstr "你有灯真是太好了，以防这边变黑。"
+
+msgid "I really hope it doesn't..."
+msgstr "还是别希望这里变黑吧..."
+
+msgid "Ah... those rocks..."
+msgstr "啊...那种石头..."
+
+msgid "Sorry, I don't know what those do... You can keep it."
+msgstr "对不起，我不知道它们是干什么的...你留着吧。"
+
+msgid "Oh oh, are we cooking something?"
+msgstr "哦哦，我们要烧什么东西吗？"
+
+msgid "No, this is for self-defense."
+msgstr "不是，这是自我防卫用的。"
+
+msgid "?????"
+msgstr "？？？？？"
+
+msgid "Y-yes... I'll cut it off..."
+msgstr "好—好的...我会闭嘴的..."
+
+msgid "I'm sorry..."
+msgstr "对不起..."
+
+msgid "Let's not traumatize Aoi any further."
+msgstr "不要再给小青施加压力了。"
+
+msgid "A bus. It has seen better days."
+msgstr "一辆巴士。它的辉煌之日已经过去了。"
+
+msgid "Isn't that cool?!"
+msgstr "很酷吧？！"
+
+msgid "Do you think they ever got the passengers out?"
+msgstr "你觉得他们把乘客救出来了吗？"
+
+msgid "I can't see inside, so... I guess we'll never know."
+msgstr "我看不到里面，所以...我觉得我们可能永远也不会知道吧。"
+
+msgid "Maybe it's best that way."
+msgstr "也许这样最好。"
+
+msgid "I think it would ruin my day if we found corpses in there."
+msgstr "如果我们在那里面发现尸体的话，我想我的一天就毁了。"
+
+msgid "(Is your day not already ruined by being trapped in this place?)"
+msgstr "（都已经被困在这种地方了，你的一天不是早就被毁掉了吗？）"
+
+msgid "Looks like pieces of asphalt."
+msgstr "看起来像是沥青碎块。"
+
+msgid "A signpost. It's bent."
+msgstr "路牌。弯了。"
+
+msgid "(The schedule seems to show quite a few buses coming every day.)"
+msgstr "（从时刻表上看，每天都有不少公交车经过。）"
+
+msgid "Strange... the other schedule I saw was empty."
+msgstr "奇怪...我之前看到的另一张时刻表是空的。"
+
+msgid "Oh! Back in the day, the bus used to come more often... this is probably an old schedule."
+msgstr "哦！以前巴士来的很频繁的...这张可能是旧的时刻表。"
+
+msgid "The other schedule you saw must be the updated one."
+msgstr "你看见的另一张时刻表肯定是更新过的版本。"
+
+msgid "Nowadays it's very rare..."
+msgstr "现在它很少来了..."
+
+msgid "So if you're lucky enough to see the bus, you should definitely ride it!"
+msgstr "如果你有幸看见巴士的话，你一定要去坐坐！"
+
+msgid "That's what everyone does, at least. I never saw it myself..."
+msgstr "至少大家都是这么说的。我自己从来没见过就是了..."
+
+msgid "(It's just a bus, though...)"
+msgstr "（不就是巴士吗...）"
+
+msgid "A bus stop."
+msgstr "巴士站。"
+
+msgid "The poster here is too faded to read."
+msgstr "这里的海报褪色了，看不清。"
+
+msgid "It looks like a dead end."
+msgstr "看起来像是一条死路。"
+
+msgid "We just walked quite a bit to get here, let's at least look around."
+msgstr "我们才刚来这里，让我们到处看看吧。"

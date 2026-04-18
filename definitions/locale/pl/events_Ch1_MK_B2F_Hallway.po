@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "Klucz pasuje!"
+
+msgid "You don't know how to use it..."
+msgstr "Nie masz pojęcia jak tego użyć..."
+
+msgid "A portrait of a person with a brain for a head."
+msgstr "Portret przedstawiający człowieka z mózgiem zamiast głowy."
+
+msgid "A portrait of a scary-looking person."
+msgstr "Portret przedstawiający makabrycznie wyglądające indywiduum."
+
+msgid "..."
+msgstr "..."
+
+msgid "A portrait of a person with a gaping mouth."
+msgstr "Portret przedstawiający osobę z szeroko rozdziawionymi ustami."
+
+msgid "...I don't like this one."
+msgstr "...ten mi się nie podoba."
+
+msgid "His head looks like a spoon."
+msgstr "Gość przypomina trochę łyżkę."
+
+msgid "A portrait of a pretty-looking lady."
+msgstr "Portret przedstawiający urokliwą damę."
+
+msgid "She looks like she's made of porcelain."
+msgstr "Wygląda, jakby była zrobiona z porcelany."
+
+msgid "A portrait of a person with an animal skull for a head."
+msgstr "Portret przedstawiający osobę ze zwierzęcą czaszką zamiast głowy."
+
+msgid "A portrait of a person with many eyes."
+msgstr "Portret przedstawiający osobnika z ponadprzeciętną ilością oczu."
+
+msgid "Various strange portraits adorn the walls."
+msgstr "Sporo dziwacznych obrazów jest porozwieszanych na ścianach."
+
+msgid "A portrait of a girl with horns growing out of her face."
+msgstr "Portret przedstawiający dziewczynę, której z twarzy wyrastają rogi."
+
+msgid "A portrait of a grandma."
+msgstr "Portret przedstawiający babcię."
+
+msgid "She looks nice... Maybe."
+msgstr "Wygląda sympatycznie… Chyba."
+
+msgid "A portrait of a person with knifes floating above their head."
+msgstr "Portret przedstawiający lewitujące noże."
+
+msgid "A portrait of a person with a heart for a head."
+msgstr "Portret przedstawiający człowieka z sercem zamiast głowy."
+
+msgid "A portrait of a person with a crow for a head."
+msgstr "Portret przedstawiający osobę z głową wrony."
+
+msgid "It looks nothing like those cute crows I've been seeing around."
+msgstr "Wcale nie przypomina tych uroczych wron, które wcześniej widziałam."
+
+msgid "A portrait of a happy-looking girl."
+msgstr "Portret przedstawiający pogodną dziewczynę."
+
+msgid "A portrait of a person with a goat for a head."
+msgstr "Portret przedstawiający człowieka z kozim łbem."
+
+msgid "Creepy portraits adorn the walls."
+msgstr "Niepokojące obrazy są porozwieszane na ścianach."
+
+msgid "A painting that's mostly just red."
+msgstr "Obraz, na którym dominuje głęboka czerwień."
+
+msgid "Touch it?"
+msgstr "Czy chcesz go dotknąć?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "A bunch of red powder sticks to your finger."
+msgstr "Odrobina czerwonego pyłu przykleiła ci się do palca."
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Można by go bez większego problemu zdrapać więcej i zabrać, jeśli masz go gdzie wsypać."
+
+msgid "(You wipe it off.)"
+msgstr "(Został on starty.)"
+
+msgid "A painting that's mostly just yellow."
+msgstr "Obraz, na którym dominuje żywy odcień żółci."
+
+msgid "A bunch of yellow powder sticks to your finger."
+msgstr "Odrobina żółtego pyłu przykleiła ci się do palca."

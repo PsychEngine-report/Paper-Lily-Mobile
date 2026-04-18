@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't have the brain power for this right now."
+msgstr "Não tenho capacidade cerebral para isso agora."
+
+msgid "You know... I could just jump over those boxes and get you the thingy."
+msgstr "Você sabe... eu poderia simplesmente pular aquelas caixas e pegar aquela coisa para você."
+
+msgid "Still not interested?"
+msgstr "Ainda não está interessada?"
+
+msgid "Ask Sai to get the shiny?"
+msgstr "Pedir ao Sai para pegar o brilho?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Alright... knock yourself out."
+msgstr "Tudo bem... desmaie."
+
+msgid "Be right back!"
+msgstr "Volto logo!"
+
+msgid "Moments later..."
+msgstr "Momentos depois..."
+
+msgid "Easy peasy."
+msgstr "Mole-mole."
+
+msgid "Still not interested."
+msgstr "Ainda não estou interessada."
+
+msgid "No, I want to do it myself."
+msgstr "Não, eu quero fazer isso sozinha."
+
+msgid "The key fits!"
+msgstr "A chave se encaixa!"
+
+msgid "Nothing happens."
+msgstr "Nada acontece."
+
+msgid "An elevator door."
+msgstr "Uma porta de elevador."
+
+msgid "There's a massive gap on the floor. You can't reach the door."
+msgstr "Há uma lacuna enorme no chão. Você não pode alcançar a porta."
+
+msgid "The plank allows you to cross freely."
+msgstr "A prancha permite atravessar livremente."
+
+msgid "I've seen another hole that could use a plank like this..."
+msgstr "Eu vi outro buraco que poderia usar uma tábua como esta..."
+
+msgid "Move the plank to the other hole?"
+msgstr "Mover a prancha para o outro buraco?"
+
+msgid "Uugh... This is really heavy..."
+msgstr "Uugh... Isso é muito pesado..."
+
+msgid "Hey, let me carry that."
+msgstr "Ei, deixe-me levar isso."
+
+msgid "Since you removed the plank, you can't cross anymore."
+msgstr "Desde que você removeu a prancha, você não pode mais cruzar."
+
+msgid "It's locked."
+msgstr "Está trancado."

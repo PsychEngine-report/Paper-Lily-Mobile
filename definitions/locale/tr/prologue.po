@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"WARNING\n"
+"\n"
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"UYARI\n"
+"\n"
+Bu oyun yanıp sönen ışıklar ve efektler içerebilir,\n"
+"Ayrıca şiddet ve küfür tasviri de vardır."
+
+msgid "Special Thanks"
+msgstr "Özel Teşekkürler"
+
+msgid "Everyone who made a video or stream"
+msgstr "Bu oyun hakkında bir video ya da yayın yapanlar"
+
+msgid "Everyone who completed the survey"
+msgstr "Anketi tamamlayanlar"
+
+msgid "Everyone who left a comment or rating"
+msgstr "Yorum yapan ya da puanlayanlar"
+
+msgid "Our families and friends"
+msgstr "Ailemiz ve arkadaşlarımız"
+
+msgid "And You!"
+msgstr "Ve sen!"
+
+msgid ""
+"Note from the devs:\n"
+"We really appreciate you taking the time to play our little game! It means the world to us!\n"
+"\n"
+"What you have played is the prologue of Paper Lily, a larger project we are currently working on. Right now, Chapter 1 is out so we hope you'll give it a try!\n"
+"\n"
+"If you liked what you played, it would help us a lot if you could leave a review!\n"
+"\n"
+"Thank you so much!"
+msgstr ""
+"Geliştirici notu:\n"
+"Küçük oyunumuzu oynamak için zaman ayırdığınız için teşekkürler! Bu bizim için dünyalara bedel!\n"
+"\n"
+"Az önce oynadığınız Paper Lily'nin giriş bölümü, üzerinde çalıştığımız daha büyük bir proje. Şuan, 1. Bölüm çıktı o yüzden umarız ki bir denersiniz!\n"
+"\n"
+"Eğer oynadığınız oyunu sevdiyseniz, bir değerlendirme bırakmanızın bize çok yardımı dokunur!\n"
+"\n"
+"Hepinize Çok Teşekkürler!"
+
+msgid "True End K1 - Curiosity Killed the Kat"
+msgstr "True End K1 - Merak Katiyi Öldürdü"
+
+msgid "I need:"
+msgstr "İhtiyacım olanlar:"
+
+msgid "Preparations:"
+msgstr "Hazırlanış:"
+
+msgid "After waiting:"
+msgstr "Bekleme sonrası:"
+
+msgid "3 rooms"
+msgstr "3 Oda"
+
+msgid "12 candles"
+msgstr "12 Mum"
+
+msgid "A lighter"
+msgstr "Bir çakmak"
+
+msgid "A rune"
+msgstr "Bir rün"
+
+msgid "A tuft of hair"
+msgstr "Bir avuç saç"
+
+msgid "Chalk"
+msgstr "Tebeşir"
+
+msgid "1) Sort the desks in each classroom"
+msgstr "1) Her sınıftakı sıraları düzenle"
+
+msgid "2) Turn off all the lights & draw the curtains in each classroom"
+msgstr "2) Bütün ışıkları kapat ve bütün sınıflarda her perdeyi çek."
+
+msgid "3) Draw a path going through the 3 rooms (with chalk)"
+msgstr "3) 3 Odaya da giden bir yol çiz (tebeşirle)"
+
+msgid "4) In the middle room, place one candle on each desk"
+msgstr "4) Ortadaki odaya, her sıraya bir mum koy."
+
+msgid "5) Light the candles & wait at least 5 minutes"
+msgstr "5) Mumları yak ve en az 5 dakika bekle"
+
+msgid "6) Burn the tuft of hair on one of the candles"
+msgstr "6) Bir avuç saçı bir mumun üstünde yak."
+
+msgid "7) Blow out all of the candles"
+msgstr "7) Bütün mumları söndür"
+
+msgid "8) Close your eyes and count to 100"
+msgstr "8) Gözlerini kapa ve 100'e kadar say"
+
+msgid "9) Open your eyes and then ?????????"
+msgstr "9) Gözlerini aç ve sonra?????????"
+
+msgid "Something like this ??"
+msgstr "Bunun gibi bir şey ???"
+
+msgid "Windows (CLOSE CURTAINS!!)"
+msgstr "Camlar (PERDELERİ KAPAT!!)"
+
+msgid "White chalk lines"
+msgstr "Beyaz tebeşir çizgileri"
+
+msgid "Me"
+msgstr "Ben"
+
+msgid "Desks (candle on each)"
+msgstr "Sıra (her birinin üstüne mum)"
+
+msgid "???"
+msgstr "???"
+
+msgid "Ponytail Girl"
+msgstr "Atkuyruklu Kız"
+
+msgid "Pretty Girl"
+msgstr "Güzel Kız"
+
+msgid "Quiet Girl"
+msgstr "Sessiz Kız"

@@ -1,0 +1,1479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Welcome."
+msgstr "Kính chào."
+
+msgid "5 coins each."
+msgstr "Mỗi con năm đồng xu."
+
+msgid "Buy a fish?"
+msgstr "Mua một con cá chứ?"
+
+msgid "Buy"
+msgstr "Mua"
+
+msgid "Buy all"
+msgstr "Mua hết"
+
+msgid "Talk"
+msgstr "Nói chuyện"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.choice.Buy a fish?"
+msgid "Never mind"
+msgstr "Không có gì đâu"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.dlg.narrator"
+msgid "You don't have enough coins."
+msgstr "Bạn không có đủ tiền xu."
+
+msgid "(She looks intimidating...)"
+msgstr "(Cổ trông dễ sợ ghê...)"
+
+msgid "What're you staring at?"
+msgstr "Dòm ngó cái gì?"
+
+msgid "You heard me. 5 coins each, no haggling."
+msgstr "Nghe rồi đấy. Mỗi con năm đồng, không có mặc cả."
+
+msgid "Or, you could buy all my fish for 10 coins. It's a pretty good deal and I get to take the rest of the day off."
+msgstr "Hoặc là có thể trả 10 đồng mua hết chỗ cá. Giá cực kì hời xong rồi tao tranh thủ đóng cửa tiệm sớm luôn."
+
+msgid "(What kind of deal is that...?)"
+msgstr "(Khuyến mãi kiểu gì vậy...?)"
+
+msgid "I'll take one."
+msgstr "Tôi mua một con."
+
+msgid "I'll take all of them."
+msgstr "Tôi mua hết."
+
+msgid "I don't even have 5 coins."
+msgstr "Tôi chẳng có nổi 5 đồng."
+
+msgid "No thanks"
+msgstr "Thôi cám ơn."
+
+msgid "Does that sound like my problem? 5 coins each, no exceptions."
+msgstr "Nghe giống vấn đề của tao chắc? Mỗi con 5 đồng, không có ngoại lệ."
+
+msgid "Ready to buy?"
+msgstr "Sẵn sàng mua chưa?"
+
+msgid "What will I use the fish for?"
+msgstr "Mua cá rồi tôi dùng làm gì nhỉ?"
+
+msgid "What do I care?"
+msgstr "Tao quan tâm làm gì?"
+
+msgid "Will you at least grill it?"
+msgstr "Ít ra chị nướng cá lên chứ?"
+
+msgid "Do I look like a buffet?! Scram."
+msgstr "Chỗ tao giống nơi ăn buffet hay sao?! Xéo ngay."
+
+msgid "Where can I find more coins?"
+msgstr "Đi chỗ nào kiếm được thêm tiền xu nhỉ?"
+
+msgid "Sorry...! Please forget about it."
+msgstr "Xin lỗi...! Mong chị bỏ qua cho ạ."
+
+msgid "She doesn't seem like she wants to talk."
+msgstr "Cổ không có vẻ gì như là muốn nói chuyện."
+
+msgid "Welcome~"
+msgstr "Kính chào~"
+
+msgid "We're out of stock for today, so come back again soon."
+msgstr "Hôm nay hết hàng rồi, sau tranh thủ tới sớm nhé."
+
+msgid "Business is booming. Today was a good day."
+msgstr "Làm ăn đang phát đạt. Hôm nay là ngày tốt rồi."
+
+msgid "You should have rotted down there."
+msgstr "Mày nên thối rữa dưới đó đi cho rồi."
+
+msgid "Just like my fish."
+msgstr "Hệt như cá tao bán."
+
+msgid "Alba is counting the money she earned today."
+msgstr "Alba đang đếm số tiền kiếm được hôm nay."
+
+msgid "Aoi."
+msgstr "Aoi."
+
+msgid "Lacie!! Thank you!"
+msgstr "Lacie ơi!! Cảm ơn!"
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I was going to say that...)"
+msgstr "(Mình định nói câu đó chứ...)"
+
+msgid "Thanks to your idea, we managed to get out!!"
+msgstr "Nhờ ý tưởng của cậu mà hai đứa mình thoát ra được rồi nè!!"
+
+msgid "Ah, No... thank you."
+msgstr "À, không... cảm ơn."
+
+msgid "Um... also... with the fish lady..."
+msgstr "Ưm... với cả... vụ chị bán cá đây thì..."
+
+msgid "I mean... um..."
+msgstr "Tức là... ừm..."
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "You're nice."
+msgstr "Cậu tử tế quá."
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "...!"
+msgstr "...!"
+
+msgid "Heheh I'm glad I met you Lacie!"
+msgstr "Hê hê gặp được Lacie là tớ rất vui!"
+
+msgid "And I'm glad you had those amazing scissors!"
+msgstr "Với cũng mừng là cậu có mang chiếc kéo kì diệu đó nữa!"
+
+msgid "They really saved us both."
+msgstr "Nhờ thế cả hai đứa mình mới được cứu mạng nè."
+
+msgid "I hope I'll be able to have such cool scissors some day too!"
+msgstr "Hy vọng ngày nào đó tớ cũng sẽ có được chiếc kéo ngon lành như vậy!"
+
+msgid "Oh... yeah."
+msgstr "Ồ... thế thì."
+
+msgid "You can keep them."
+msgstr "Cậu cứ giữ lấy kéo đi."
+
+msgid "WHAAAT?!"
+msgstr "HẢẢẢ?!"
+
+msgid "But Lacie, what if you need them!"
+msgstr "Ủa Lacie, nhỡ đâu cậu cần kéo!"
+
+msgid "I'll be fine."
+msgstr "Tôi không sao đâu."
+
+msgid "Wow!!"
+msgstr "Oa!!"
+
+msgid "Thank you so much!"
+msgstr "Cảm ơn cậu nhiều lắm!"
+
+msgid "This is the best gift anyone's ever given me!"
+msgstr "Đây là món quà tuyệt vời nhất trước giờ tớ được tặng đấy!"
+
+msgid "What will you do now?"
+msgstr "Vậy giờ cậu sẽ làm gì?"
+
+msgid "Well... I'm... looking for something. Some answers, I guess."
+msgstr "Thì... tôi... đang đi tìm cái điều gì đó. Câu trả lời gì đó, chắc thế."
+
+msgid "For now, I need to go through the locked site."
+msgstr "Mà giờ, tôi đang cần đi qua khu bị khóa."
+
+msgid "Ohh!"
+msgstr "Ồồ!"
+
+msgid "Be careful in there."
+msgstr "Trong đấy cẩn thận nha."
+
+msgid "I have a tip! Always hide in the bushes!"
+msgstr "Tớ có mẹo nè! Luôn luôn trốn vào trong bụi!"
+
+msgid "Thank you."
+msgstr "Cảm ơn."
+
+msgid "Are you leaving?"
+msgstr "Cậu đi à?"
+
+msgid "Oh, yeah, back to work for me heheh."
+msgstr "À, ừ, tớ quay về làm việc chứ hề hề."
+
+msgid "I've had enough adventures..."
+msgstr "Tớ phiêu lưu thế này đủ rồi..."
+
+msgid "Is that good?"
+msgstr "Công việc tốt không?"
+
+msgid "I'm not looking forward to it..."
+msgstr "Tớ không có đam mê công việc đấy..."
+
+msgid "But.. it's where I live, so..."
+msgstr "Nhưng mà... tớ sống ở chỗ đó, nên là..."
+
+msgid "Maybe we'll meet again?"
+msgstr "Hai đứa mình có khi gặp lại nhau chứ?"
+
+msgid "Yeah."
+msgstr "Ừ."
+
+msgid "(That would be nice.)"
+msgstr "(Thế thì được quá.)"
+
+msgid "This isn't goodbye, okay!?"
+msgstr "Này không phải là chia tay luôn đâu nhé!?"
+
+msgid "Oh, okay."
+msgstr "Ừ, không đâu."
+
+msgid "Then..."
+msgstr "Vậy..."
+
+msgid "See you later!"
+msgstr "Hẹn gặp lại nha!"
+
+msgid "See you."
+msgstr "Hẹn gặp lại."
+
+msgid "(I feel like I should have said more... Why am I so bad with words?)"
+msgstr "(Mình thấy nên phải nói nhiều nữa... Tại sao mình lại kém ngôn từ thế này?)"
+
+msgid "(Sigh... I just have to make sure to say it next time we meet.)"
+msgstr "(Hầy... Lần sau gặp lại mình cứ phải đảm bảo nói ra cho được thôi.)"
+
+msgid "Mee-mee-mee-"
+msgstr "Xi-xi-xi-"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "...?"
+msgstr "...?"
+
+msgid "Mee-meet!"
+msgstr "Xi-xin!"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Uh...N-N-Nice to... meet..."
+msgstr "Ờ... X-X-Xin... xin chào cậu..."
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "..."
+msgstr "..."
+
+msgid "A-a-apologies. I-I-I'm not very good at speaking under pressure."
+msgstr "Th-th-thứ lỗi. T-T-Tôi không giỏi nói chuyện dưới áp lực lắm."
+
+msgid "(He's worse than me...)"
+msgstr "(Ổng tệ hơn mình rồi...)"
+
+msgid "Kozmo."
+msgstr "Kozmo."
+
+msgid "...What?"
+msgstr "...Hả?"
+
+msgid "Oh... Y-y-you didn't ask for my name."
+msgstr "Ồ... C-c-cậu đâu có hỏi tên tôi đâu."
+
+msgid "Yeah... I didn't."
+msgstr "Ừ... đâu có."
+
+msgid "Th-This interaction is not enjoyable."
+msgstr "T-Tương tác như vầy này không thích thú gì cả."
+
+msgid "It's nice to meet you, Kozmo."
+msgstr "Xin chào và làm quen cậu nhé, Kozmo."
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "...!"
+
+msgid "L-l-likewise, ...erm...?"
+msgstr "T-t-tôi cũng thế, ...ờm...?"
+
+msgid "Your-your..your-"
+msgstr "Cậu-cậu...cậu-"
+
+msgid "Your name is...?"
+msgstr "Cậu thì tên là...?"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "Oh."
+msgstr "Ồ."
+
+msgid "It's um... It's not important."
+msgstr "Tên là ừm... không quan trọng đâu."
+
+msgid "O-oh... okay..."
+msgstr "Ờ-Ồ.. không sao..."
+
+msgid "So..."
+msgstr "Thế..."
+
+msgid "Why are you so bad at speaking?"
+msgstr "Sao cậu kém nói chuyện vậy?"
+
+msgid "What are you doing here?"
+msgstr "Cậu làm gì ở đây vậy?"
+
+msgid "(Knock on his head)"
+msgstr "(Gõ lên đầu ổng)"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.So..."
+msgid "Never mind"
+msgstr "Không có gì đâu"
+
+msgid "Y-y-y-you think I'm bad at speaking...?"
+msgstr "C-c-c-cậu nghĩ tôi kém nói chuyện à...?"
+
+msgid "Well... you said it yourself, did you not?"
+msgstr "Thì... cậu tự nói thế mà, không phải sao?"
+
+msgid "Oh... w-well..."
+msgstr "Ờ... th-thì..."
+
+msgid "Th-Th-The truth is..."
+msgstr "Th-th-thực tình là..."
+
+msgid "I-I-I've been told I sometimes....."
+msgstr "Ng-ng-người ta có bảo là tôi thỉnh thoảng..."
+
+msgid "S-s-stutter...!"
+msgstr "C-c-cà lăm...!"
+
+msgid "Oh. I'm sorry to hear that."
+msgstr "Ồ. Lấy làm tiếc nhỉ."
+
+msgid "D-d-d-do you think I stutter?!?"
+msgstr "C-c-c-cậu thấy tôi cà lăm không?!?"
+
+msgid "(Do I think Kozmo stutters...?)"
+msgstr "(Mình có thấy Kozmo cà lăm không...?)"
+
+msgid "It's not my place to say."
+msgstr "Tôi không có tư cách nói đâu."
+
+msgid "Yes, it's very obvious."
+msgstr "Cà lăm rất rõ ràng."
+
+msgid "O-oh... That's okay."
+msgstr "Ồ-ồ... Không sao."
+
+msgid "M-m-maybe I've improved, and it's not so noticeable!"
+msgstr "C-c-có lẽ tôi có cải thiện rồi, với có bị lắp cũng không rõ rệt lắm!"
+
+msgid "Maybe."
+msgstr "Có lẽ thế."
+
+msgid "O-oh dear......"
+msgstr "C-chao ôi......"
+
+msgid "Do you live here?"
+msgstr "Cậu sống ở đây à?"
+
+msgid "N-no.. Not many of us live in the forest."
+msgstr "Kh-không.. Bọn tôi không có nhiều người sống trong rừng."
+
+msgid "I-it's too distant, you see..."
+msgstr "D-Do là xa quá, thì đấy..."
+
+msgid "Too distant to... what, exactly?"
+msgstr "Xa quá là xa với... cái gì cơ chứ?"
+
+msgid "T-t-the city, mainly."
+msgstr "V-v-với thành phố, chủ yếu vậy."
+
+msgid "How do you get to the city from here?"
+msgstr "Cậu từ đây lên thành phố bằng cách nào?"
+
+msgid "Is-is-is-is this a quiz?"
+msgstr "Này-này-này-này là thi hỏi đáp à?"
+
+msgid "No, I..."
+msgstr "Đâu, tôi..."
+
+msgid "We-well... It's... um... y-y-you can... you can take the bus... o-o-or the train..."
+msgstr "Th-thì... là... ừm... b-b-bắt xe... xe buýt là được... h-h-hoặc... đi tàu thôi..."
+
+msgid "Don't you know this though?"
+msgstr "Cậu không biết mấy cái này à?"
+
+msgid "Come to think of it, where are you from?"
+msgstr "Mà nghĩ chín thì, cậu từ đâu đến thế?"
+
+msgid "I should be going."
+msgstr "Tôi đi đây ạ."
+
+msgid "A-a-a-a don't do that! It's fragile!"
+msgstr "A-a-a-a đừng có làm thế! Dễ vỡ lắm!"
+
+msgid "S-s-s-s-stop...!!"
+msgstr "D-d-d-d-dừng...!!"
+
+msgid "Um... this isn't what I expected..."
+msgstr "Ưm... đây không phải điều mình mong đợi rồi..."
+
+msgid "Wh-wh-what have you done..!? Oh no, oh no, oh no."
+msgstr "C-c-cậu làm cái gì rồi...!? Ô không, ô không, ô không."
+
+msgid "Please help me!"
+msgstr "Xin cứu tôi với!"
+
+msgid "P-p-please find me a new head!"
+msgstr "L-l-làm ơn kiếm cho tôi một cái đầu mới!"
+
+msgid "A new head..?"
+msgstr "Một cái đầu mới á...?"
+
+msgid "A-a-anything hollow can serve as one, please!"
+msgstr "C-c-cái gì rỗng cũng dùng được, xin đấy!"
+
+msgid "H-h-h-hurry!"
+msgstr "M-m-m-mau lên!"
+
+msgid "If it all escapes I'll...I'll-"
+msgstr "Nếu nó thoát hết ra tôi sẽ... tôi sẽ-"
+
+msgid "Knock again?"
+msgstr "Gõ phát nữa?"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "Yes"
+msgstr "Gõ"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A large amount of something leaks from Kozmo."
+msgstr "Lượng lớn gì đó bốc nghi ngút ra khỏi Kozmo."
+
+msgid "I should hurry."
+msgstr "Mình nên nhanh lên."
+
+msgid "Kozmo sways left and right."
+msgstr "Kozmo đu đưa người sang trái sang phải."
+
+msgid "Kozmo is sporting a new head."
+msgstr "Kozmo đang diện cái đầu mới."
+
+msgid "P-p-p-p-p-please... give me a moment..."
+msgstr "Ch-ch-ch-ch-ch-cho... tôi yên một lát đi mà..."
+
+msgid "Apologize?"
+msgstr "Xin lỗi chứ?"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "Yes"
+msgstr "Xin lỗi"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "I'm sorry if I was rude."
+msgstr "Nếu có bất lịch sự thì cho tôi xin lỗi."
+
+msgid "I'm not very good at... interacting with people either."
+msgstr "Tôi cũng... không có giỏi giao thiệp với người ta lắm đâu."
+
+msgid "I don't get much practice."
+msgstr "Tại không tập nhiều mấy."
+
+msgid "R-r-really?"
+msgstr "Th-th-thật á?"
+
+msgid "Mhm..."
+msgstr "Ừm..."
+
+msgid "I think it's okay that you stutter."
+msgstr "Tôi thấy cậu có cà lăm thì có sao đâu."
+
+msgid "At least you're still able to convey your feelings."
+msgstr "Ít ra cậu còn truyền đạt được tiếng lòng của bản thân."
+
+msgid "Thank you for reassuring me!"
+msgstr "Cảm ơn lời an ủi của cậu nha!"
+
+msgid "(Phew...)"
+msgstr "(Phù...)"
+
+msgid "Kozmo's clothes remain here."
+msgstr "Ở đây còn lại đồ mặc của Kozmo."
+
+msgid "Kozmo isn't here anymore."
+msgstr "Kozmo không ở đây nữa."
+
+msgid "A pleasure."
+msgstr "Hân hạnh."
+
+msgid "Huh?"
+msgstr "Hở?"
+
+msgid "You're not from around here."
+msgstr "Cậu đâu phải dân quanh đây đâu nhỉ."
+
+msgid "How do you know?"
+msgstr "Sao ông biết được?"
+
+msgid "You wander around anxiously."
+msgstr "Cậu đi lòng và lòng vòng khắc khoải."
+
+msgid "Oh..."
+msgstr "Ồ..."
+
+msgid "Sit if you wish... The fire is captivating."
+msgstr "Cứ ngồi tùy ý... Ngọn lửa làm ta say đắm mà."
+
+msgid "No... thank you."
+msgstr "Không... cám ơn."
+
+msgid "What should I say?"
+msgstr "Mình nên nói gì đây?"
+
+msgid "\"Are you a bug?\""
+msgstr "\"Ông là côn trùng à?\""
+
+msgid "\"Can you help me?\""
+msgstr "\"Ông giúp tôi được không?\""
+
+msgid "About the reward"
+msgstr "Về phần thưởng"
+
+msgid "You have wings."
+msgstr "Ông có cánh nè."
+
+msgid "What of it?"
+msgstr "Thì sao?"
+
+msgid "Are you a butterfly?"
+msgstr "Ông là loài bướm à?"
+
+msgid "...Disgusting."
+msgstr "...Kinh tởm."
+
+msgctxt "events.Ch1_Forest_Center.chr_milion.dlg.lacie"
+msgid "Oh."
+msgstr "Ô."
+
+msgid "A-a-a moth is the correct term. It-it-it must be your first encounter with one."
+msgstr "L-l-loài 'ngài' mới là thuật ngữ đúng. H-h-hẳn là cậu lần đầu tiên bắt gặp một cá thể vậy."
+
+msgid "Th-Th-Th-They say if you meet all 9 moths you'll get a reward."
+msgstr "Ng-ng-ng-người ta nói nếu cậu gặp đủ 9 con ngài cậu sẽ có được phần thưởng."
+
+msgid "Folklore is all it is. Why would anyone give you a reward?"
+msgstr "Thảy là dân tục hết. Ai lại đi cho phần thưởng làm cái gì?"
+
+msgid "So-so-sometimes, you get rewarded for hard work. I-I-I've already met f-f-four."
+msgstr "Th-thi-thi thoảng làm việc chăm chỉ thì được nhận thưởng đó. T-t-tôi đã gặp b-b-bốn rồi."
+
+msgid "What a fool. Nobody will reward you for a scavenger hunt. The world is not a playground."
+msgstr "Ngu hết sức. Không ai lại đi trao thưởng cho trò tìm đồ hết. Thế giới này không phải là sân chơi."
+
+msgid "... Y-y-you're too grim, Milion."
+msgstr "... C-c-cậu ác nghiệt quá Milion ơi."
+
+msgid "Wh-what do you think, lady?"
+msgstr "C-cô nương thì nghĩ sao nhỉ?"
+
+msgid "(What do I think...?)"
+msgstr "(Mình thì nghĩ sao à...?)"
+
+msgid "The world is really unfair"
+msgstr "Thế giới rất là bất công mà"
+
+msgid "Hard work pays off"
+msgstr "Chăm làm thì có thôi"
+
+msgid "S-s-s-such pessimistic views..."
+msgstr "C-c-c-cái nhìn bi quan thế sao..."
+
+msgid "It's wise to be realistic."
+msgstr "Sống thực tế mới là khôn ngoan."
+
+msgid "W-w-w-well said!"
+msgstr "N-n-n-nói hay lắm!"
+
+msgid "I envy your naivety."
+msgstr "Tôi ghen tị tính ngây thơ của cậu đấy."
+
+msgid "Just like this warm flame, your innocence too will soon be extinguished."
+msgstr "Hệt như ngọn lửa ấm áp này, tấm lòng trong trắng rồi cũng sẽ sớm bị dập tắt thôi."
+
+msgid "A moth, if you really care for such simplifications."
+msgstr "Con 'ngài', nếu thực sự thích từ ngữ đơn giản hóa như thế."
+
+msgid "I see..."
+msgstr "Hiểu rồi..."
+
+msgid "I have a question."
+msgstr "Tôi có câu hỏi."
+
+msgid "Do you happen to know where I could lift a curse?"
+msgstr "Liệu ông có biết ở đâu tôi có thể phá giải lời nguyền không?"
+
+msgid "You must seek Red."
+msgstr "Cậu phải kiếm Red."
+
+msgid "Yeah... This isn't the first time I've heard that name."
+msgstr "Ừ... này không phải lần đầu tiên tôi nghe được cái tên đó."
+
+msgid "Everyone has heard that name."
+msgstr "Ai cũng đã nghe đến cái tên đó rồi."
+
+msgid "Red cures all sorts of ailments... For a hefty price."
+msgstr "Red chuyên cứu chữa mọi loại ốm đau... với cái giá đắt đỏ."
+
+msgid "..?"
+msgstr "..?"
+
+msgid "That one doesn't do anything for free."
+msgstr "Y chẳng làm gì mà miễn phí cả."
+
+msgid "The moth is entranced by the fire pit."
+msgstr "Con ngài bị mê mẩn với cái hố lửa."
+
+msgid "So after I find 8 more moths I'll get rewarded?"
+msgstr "Vậy sau khi tìm được 8 con ngài nữa là tôi được nhận thưởng hả?"
+
+msgid "As I stated, it's nothing but a myth."
+msgstr "Như tôi đã nói rõ, đó chỉ là thần thoại mà thôi."
+
+msgid "So... What kind of reward would it be?"
+msgstr "Thế... Cái loại phần thưởng nó sẽ là gì nhỉ?"
+
+msgid "I'll discuss no further with you."
+msgstr "Tôi sẽ không bàn luận thêm với cậu nữa."
+
+msgid "Milion is ignoring you."
+msgstr "Milion phớt lờ bạn."
+
+msgid "This is quite amusing."
+msgstr "Vụ này khá là gây thích thú đấy."
+
+msgctxt "events.Ch1_Forest_Center.chr_milion_post_tree.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It's been a while since anything interesting happened around here."
+msgstr "Cũng lâu rồi chốn này mới có cái gì đó thú vị xảy ra."
+
+msgid "Milion is smiling."
+msgstr "Milion đang mỉm cười."
+
+msgid "(I've only been here for a little while and I already have a lead.)"
+msgstr "(Mình mới chỉ đến đây một tí thôi mà đã có đầu mối rồi.)"
+
+msgid "(I really didn't think this would be where I might find my answers...)"
+msgstr "(Thực sự không ngờ rằng đây sẽ là nơi mình có thể tìm được câu trả lời...)"
+
+msgid "Finally..."
+msgstr "Cuối cùng thì..."
+
+msgid "A curse, huh?"
+msgstr "Lời nguyền, hử?"
+
+msgid "It sounds probable, but how did it happen?"
+msgstr "Nghe có thể đó, nhưng mà nó xảy ra thế nào?"
+
+msgid "And who... or what, cursed me?"
+msgstr "Và ai... hay cái gì, đã nguyền mình?"
+
+msgid "And why?"
+msgstr "Và tại sao?"
+
+msgid "There's too many questions."
+msgstr "Quá nhiều câu hỏi."
+
+msgid "(I wonder if I can call Hiro from here.)"
+msgstr "(Không biết ở đây gọi điện được anh Hiro không.)"
+
+msgid "(Looks like I have no reception... Should I try anyways?)"
+msgstr "(Thấy như không có sóng... Mình cứ thử đại xem?)"
+
+msgid "(It works?!)"
+msgstr "(Gọi được thật?!)"
+
+msgid "LACIE?!"
+msgstr "LACIE?!"
+
+msgctxt "events.Ch1_Forest_Center.event_hiro_call.dlg.lacie"
+msgid "Hiro!"
+msgstr "Anh!"
+
+msgid "Are you okay? How are you calling me? Are you back? Did you find out-"
+msgstr "Có sao không em? Làm sao em gọi anh được thế? Em về nhà chưa? Em tìm ra-"
+
+msgid "Wait-"
+msgstr "Từ từ-"
+
+msgid "ARE YOU HURT?! DO YOU NEED ME TO COME THERE? ARE YOU IN DANGER?"
+msgstr "EM BỊ THƯƠNG À?! CẦN ANH TỚI ĐÓ KHÔNG? EM BỊ CÁI GÌ NGUY HIỂM KHÔNG?"
+
+msgid "I swear I'll get one of those letters and meet you in a jiffy! A jiffy!!-"
+msgstr "Anh hứa anh sẽ lấy một cái lá thư đó rồi đi đón em liền! Liền! Liền!-"
+
+msgid "I'm fine."
+msgstr "Em không sao hết."
+
+msgid "Oh, thank goodness."
+msgstr "Ôi, may quá trời đất."
+
+msgid "It seems to be safe where I am right now, so I just.. tried calling you."
+msgstr "Ngay chỗ em đang ở giờ có vẻ an toàn, nên em chỉ... thử gọi anh xem."
+
+msgid "...and it worked."
+msgstr "...không ngờ gọi được thật."
+
+msgid "Huh... that doesn't make much sense."
+msgstr "Hờ... chẳng ra cái lý gì mấy."
+
+msgid "It doesn't, does it..."
+msgstr "Đúng vậy anh nhỉ..."
+
+msgid "Tell me everything, where are you?!"
+msgstr "Cho anh biết hết đi, em đang ở đâu?!"
+
+msgid "I'm... in a forest."
+msgstr "Em... đang ở trong rừng."
+
+msgid "A forest?! You didn't pack bug spray!"
+msgstr "Trong rừng á?! Không mang xịt côn trùng rồi em!"
+
+msgid "There's more dangerous things here than bugs."
+msgstr "Ở đây có nhiều thứ nguy hiểm hơn côn trùng đó anh."
+
+msgid "But don't worry, I've got it handled."
+msgstr "Nhưng mà anh khỏi lo lắng, em xử trí được rồi."
+
+msgid "I just need to find a light..."
+msgstr "Em chỉ cần tìm nguồn sáng nào đó..."
+
+msgid "I just needed to find a light and..."
+msgstr "Chỉ cần em có nguồn sáng đây rồi và..."
+
+msgid "Lacie no! Lights ATTRACT bugs!"
+msgstr "Đừng em! Ánh sáng DỤ côn trùng đó!"
+
+msgid "Hiro, I don't care about tiny bugs."
+msgstr "Anh, em không có ngại mấy con côn trùng tí tẹo."
+
+msgid "Just trying to lighten the mood~"
+msgstr "Anh hâm nóng bầu không khí tí thôi~"
+
+msgid "That's my job."
+msgstr "Nghề của anh mà."
+
+msgid "Mhm."
+msgstr "Ừm."
+
+msgid "Don't use up all your battery now."
+msgstr "Đừng xài hết pin bây giờ nhé."
+
+msgid "Remember you can use the flashlight from your phone if you need a light."
+msgstr "Nếu em cần ánh sáng thì nhớ là em có đèn điện thoại để mà dùng đấy."
+
+msgid "That's true. How could I forget?"
+msgstr "Đúng rồi. Sao em quên mất nhỉ?"
+
+msgid "But it will use up my battery... I might not be able to call you again if that's the case."
+msgstr "Nhưng mà dùng thì rút pin điện thoại... lỡ mà hết pin thì em không gọi anh được mất."
+
+msgid "It's up to you to decide if you need it."
+msgstr "Dùng hay không là tùy vào em thôi."
+
+msgid "Alright, I'll go now."
+msgstr "Được rồi, giờ em đi đây."
+
+msgid "You've got this!"
+msgstr "Quyết đoán lên em!"
+
+msgid "Cellphone"
+msgstr "Điện thoại di động"
+
+msgid "My personal phone. Hiro bought it for me. It may be used as a flashlight."
+msgstr "Điện thoại di động cá nhân của mình. Được anh Hiro mua cho. Có thể dùng làm đèn pin."
+
+msgid "I-I-I wouldn't do that if I were you. Fairy demons are vile, the worst."
+msgstr "N-nếu-nếu là cậu thì tôi sẽ không dám bước vào đâu. Quỷ yêu tinh là loài ghê gớm, xấu xa nhất đó."
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I was too late.)"
+msgstr "(Mình trễ mất rồi.)"
+
+msgid "Um..."
+msgstr "Ưm..."
+
+msgid "Is he..."
+msgstr "Ông ấy có..."
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.milion"
+msgid "Hm?"
+msgstr "Hửm?"
+
+msgid "Shouldn't you know? You're the sole cause of that."
+msgstr "Có với sao gì nữa? Do mình cậu gây ra cả đó."
+
+msgid "....."
+msgstr "....."
+
+msgid "That tree... is massive..."
+msgstr "Cái cây đó... khổng lồ thật..."
+
+msgid "This probably marks the center of this place. Which means..."
+msgstr "Cây này hẳn là đánh dấu cho trung tâm của nơi đây. Tức..."
+
+msgid "This is where the search really begins."
+msgstr "Đây là nơi cuộc tìm kiếm thực sự bắt đầu rồi."
+
+msgid "(She's not a bug...)"
+msgstr "(Cổ không phải là sâu bọ...)"
+
+msgctxt "events.Ch1_Forest_Center.item_bugnet_on_milion.dlg.milion"
+msgid "...?"
+msgstr "...?"
+
+msgid "U-um... It's nothing..."
+msgstr "Ừ-ừm... Không có gì đâu..."
+
+msgid "(The bug net is not large enough.)"
+msgstr "(Chiếc vợt bọ không đủ lớn rồi.)"
+
+msgid "This is..."
+msgstr "Cái này..."
+
+msgid "I know this craftsmanship."
+msgstr "Tôi biết cái kiểu chế tác này."
+
+msgid "I could recognize it anywhere."
+msgstr "Ở đâu đi nữa cũng nhận ra được."
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What do you mean?"
+msgstr "Ý ông là sao?"
+
+msgid "It's nothing."
+msgstr "Không sao hết."
+
+msgid "That didn't sound like nothing."
+msgstr "Nghe giống như là có sao ấy."
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.milion"
+msgid "..."
+msgstr "..."
+
+msgid "The candle is already lit."
+msgstr "Nến được thắp rồi."
+
+msgid "A candle is not enough to light this campfire."
+msgstr "Nến thì không đủ thắp cái lửa trại này đâu."
+
+msgid "There's no fire here."
+msgstr "Có lửa đâu mà thắp."
+
+msgid "Is this a gift?"
+msgstr "Này là quà à?"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "No."
+msgstr "Không."
+
+msgid "Pity."
+msgstr "Tiếc nhỉ."
+
+msgid "What do you want?"
+msgstr "Mày muốn cái gì?"
+
+msgid "Can I get a refund?"
+msgstr "Tôi trả hàng lấy lại tiền được không?"
+
+msgid "Absolutely not."
+msgstr "Tuyệt đối là không."
+
+msgid "That is one stinky fish."
+msgstr "Đó là con cá tanh hôi."
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "Hm?"
+msgstr "Hửm?"
+
+msgid "You didn't stutter?"
+msgstr "Cậu không nói cà lăm à?"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "...!"
+
+msgid "Is it a magic fish?!"
+msgstr "Này là cá ma thuật sao?!"
+
+msgid "Ah, you bought that from Alba's shop?"
+msgstr "A, cậu mua chỗ tiệm của Alba hả?"
+
+msgid "Yes."
+msgstr "Ừ."
+
+msgid "Alba's merchandise is always top tier."
+msgstr "Thương phẩm của Alba lúc nào cũng là đỉnh hạng."
+
+msgid "Lovely gal."
+msgstr "Cô gái yêu kiều."
+
+msgid "Flattery isn't going to get you anything, Milion."
+msgstr "Có nịnh thì cũng không được cái gì cả đâu nhé Milion."
+
+msgid "What a shame."
+msgstr "Luyến tiếc xiết bao."
+
+msgid "(I seem to be interrupting something...)"
+msgstr "(Hình như mình đang xen vào cái ấy ấy gì ấy...)"
+
+msgid "This tree has had enough fish for today."
+msgstr "Cái cây này hôm nay đã có đủ cá rồi."
+
+msgid "You're not doing that again."
+msgstr "Bạn không làm thế nữa đâu."
+
+msgid "You hold out the fish in front of the mirror, like you just caught it."
+msgstr "Bạn giơ con cá đằng trước chiếc gương, như thể bạn vừa mới bắt được nó."
+
+msgid "You feel silly, so you stop."
+msgstr "Bạn cảm thấy ngớ ngẩn, nên là dừng lại."
+
+msgid "Throw it down the hole?"
+msgstr "Ném xuống cái hố chứ?"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "Yes"
+msgstr "Ném"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "You listen for a while, but no impact sound can be heard this time."
+msgstr "Bạn lắng nghe một lúc, nhưng lần này không nghe được tiếng va chạm gì cả."
+
+msgid "After six or so seconds, you hear the faint impact of the fish against something."
+msgstr "Sau sáu hay mấy giây gì đó, bạn nghe thấy tiếng va chạm yếu ớt của con cá với cái gì đó."
+
+msgid "Throw all your fish into the hole?"
+msgstr "Ném hết đống cá xuống hố chứ?"
+
+msgid "Throw all of them"
+msgstr "Ném hết"
+
+msgid "Just throw one"
+msgstr "Ném một thôi"
+
+msgid "Don't"
+msgstr "Không ném"
+
+msgid "You throw each and every fish into the hole."
+msgstr "Bạn ném từng con từng con một xuống hố."
+
+msgid "Some of them make sounds when they hit the bottom, but many don't."
+msgstr "Vài con đụng vào đáy thì gây ra tiếng động, nhưng phần lớn con thì không thấy tiếng gì."
+
+msgid "After a while, you run out of fish."
+msgstr "Lúc sau, bạn hết sạch chỗ cá."
+
+msgid "Your hands smell terrible, and you feel like you accomplished nothing."
+msgstr "Đôi bàn tay bạn bốc mùi kinh khủng, và bạn cảm thấy như công dã tràng vậy."
+
+msgid "No. You're not my type."
+msgstr "Không. Mày không phải gu tao."
+
+msgid "(You're not her type.)"
+msgstr "(Bạn không phải gu của cổ.)"
+
+msgid "T-thanks! Y-you're a good person!"
+msgstr "C-cảm ơn! C-cậu là người tốt!"
+
+msgid "Is this head OK?"
+msgstr "Cái đầu này có được không?"
+
+msgid "T-t-this is... pretty good..."
+msgstr "C-c-cái này... khá là tốt..."
+
+msgid "Glad that's solved."
+msgstr "Giải quyết được là thấy mừng rồi."
+
+msgid "Ju-just wondering though... where exactly did you get this?"
+msgstr "Ch-chỉ là thắc mắc thôi... rốt cuộc cậu lấy cái này ở đâu ra thế?"
+
+msgctxt "events.Ch1_Forest_Center.item_head_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I... I don't think the previous owner needs it anymore..."
+msgstr "Thì... Thì tôi thấy là chủ cũ của nó không cần nó nữa nên là..."
+
+msgid "O-oh......."
+msgstr "O-Ồ......."
+
+msgid ".........."
+msgstr ".........."
+
+msgid "An empty lamp that fell from that post."
+msgstr "Cái đèn rỗng rớt từ cái cột đèn đây."
+
+msgid "Whatever was inside is gone."
+msgstr "Cái gì bên trong thì cũng đâu mất rồi."
+
+msgid "Can I find a use for this?"
+msgstr "Mình dùng thứ này vào việc gì được không?"
+
+msgid "Take ${item:ch1.forest_lamp_empty}?"
+msgstr "Lấy ${item:ch1.forest_lamp_empty} chứ?"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "I can't reach up there."
+msgstr "Mình không với lên đấy được."
+
+msgid "And even if I could, I can't see the point in fixing the lamp."
+msgstr "Mà có với được đi nữa thì lắp cái đèn này lên cũng chẳng thấy có nghĩa lý gì cả."
+
+msgid "I still can't reach..."
+msgstr "Mình vẫn không với lên được."
+
+msgid "Besides, it's not like a secret door will open just because I fixed this particular lamp."
+msgstr "Với cả, cho dù mình có lắp chiếc đèn nói riêng này vào thì cũng không có nghĩa là sẽ có cửa bí mật hay gì mở ra đâu."
+
+msgid "There's seriously no point in that."
+msgstr "Thực sự làm thế không có nghĩa lý gì hết."
+
+msgid "Fascinating creatures."
+msgstr "Các sinh vật quyến rũ."
+
+msgid "Naturally emitting light can be a great asset to one's value."
+msgstr "Ánh sáng phát ra một cách tự nhiên có thể là của quý báu với giá trị quan của người ta."
+
+msgctxt "events.Ch1_Forest_Center.item_light_full_on_milion.dlg.lacie"
+msgid "...?"
+msgstr "...?"
+
+msgid "Is this OK?"
+msgstr "Cái này được không?"
+
+msgid "I-I-I guess it could be worse..."
+msgstr "Ch-ch-chắc là tôi còn hên chán..."
+
+msgid "Thank you! I didn't think you would come back!"
+msgstr "Cảm ơn! Những tưởng cậu không thèm quay lại ấy!"
+
+msgid "...It was my fault after all..."
+msgstr "...Dù gì cũng là lỗi của tôi mà..."
+
+msgid "You're welcome, I suppose."
+msgstr "Nên chắc là không có chi đâu."
+
+msgid "(Alba's eyes dart to your rune, so you quickly put it away.)"
+msgstr "(Đôi mắt Alba phi tới cục rune của bạn, nên bạn nhanh chóng cất đi.)"
+
+msgid "Ooh! I-I-I also have a rock just like that. I b-b-buried it to keep it safe."
+msgstr "Ồò! T-t-tôi cũng có cục đá giống vầy đó. Tôi c-ch-chôn nó để giữ an toàn rồi."
+
+msgid "Do you have nothing better to do than collecting rocks?"
+msgstr "Cậu không có trò gì bổ ích hơn là đi nhặt rune hả?"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Do you have nothing better to do than staring at a fire?"
+msgstr "Ông cũng không có việc gì có ích hơn là nhìn chăm chăm vào lửa sao?"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.milion"
+msgid "..."
+msgstr "..."
+
+msgid "You don't need that. My fish already taste great without it."
+msgstr "Mày không cần cái đó. Không có muối cá tao cũng có vị tuyệt vời rồi."
+
+msgid "I-i-is that for me...?!"
+msgstr "C-c-cái đó là cho tôi...?!"
+
+msgctxt "events.Ch1_Forest_Center.item_salt_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "...No."
+msgstr "...Không."
+
+msgid "O-oh."
+msgstr "Ờ-ồ."
+
+msgid "Let's not provoke her."
+msgstr "Thôi đừng chọc tức cổ."
+
+msgid "Don't threaten me, kid."
+msgstr "Đừng có dọa tao, nhãi con."
+
+msgid "I will shred you."
+msgstr "Tạo xé xác bây giờ."
+
+msgctxt "events.Ch1_Forest_Center.item_scissors_on_alba.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go around cutting random cables."
+msgstr "Mình không đi cắt dây cáp lung tung thì hơn."
+
+msgid "P-p-please don't...! I'm fragile..."
+msgstr "X-x-xin đừng mà...! Tôi dễ vỡ..."
+
+msgid "I would advise you not to challenge me."
+msgstr "Tôi thì sẽ khuyên cậu đừng có mà thách tôi."
+
+msgid "There's no need to break it."
+msgstr "Không cần thiết đập vỡ nó."
+
+msgid "You could probably smash the mirror with this."
+msgstr "Chắc hẳn bạn có thể đập vỡ chiếc gương bằng cái này."
+
+msgid "Break the mirror?"
+msgstr "Đập vỡ chiếc gương chứ?"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "Yes"
+msgstr "Đập"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "You prepare to break the mirror..."
+msgstr "Bạn chuẩn bị đập vỡ chiếc gương..."
+
+msgid "But you notice there's a door handle on it."
+msgstr "Nhưng bạn nhận ra trên nó có tay nắm cửa."
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "Không có vẻ gì là nó bị khóa."
+
+msgid "I don't do barter."
+msgstr "Đây không đổi hàng lấy hàng."
+
+msgid "N-n-no thank you."
+msgstr "K-kh-không, cảm ơn."
+
+msgid "I don't need it."
+msgstr "Tôi không cần."
+
+msgid "You may give it to someone who does."
+msgstr "Có khi cậu đưa cho ai đó cần đi."
+
+msgid "Is this OK? I'm sorry, it's the only thing I could find..."
+msgstr "Cái này được không? Xin lỗi nha, tôi tìm được mỗi cái này thôi à..."
+
+msgid "W-Wow!! T-t-this is amazing...!!!"
+msgstr "O-Oa!! H-h-hay quá xá...!!!"
+
+msgid "Thank you s-s-s-so much!"
+msgstr "Cám ơn cậu r-r-r-rất là nhiều!"
+
+msgid "...You're... welcome...?"
+msgstr "...Ờ... không... có chi...?"
+
+msgid "(To each their own, I suppose)"
+msgstr "(Mỗi kẻ mỗi sở thích, chắc là vậy đi)"
+
+msgid "A bucket full of bones and other terrible-smelling organic garbage."
+msgstr "Cái xô chứa đầy xương và những rác rến hữu cơ bốc mùi kinh khủng khác."
+
+msgid "A cable runs through here."
+msgstr "Có cọng dây cáp chạy qua chỗ này."
+
+msgid "The cable runs into the woods, against the cliff."
+msgstr "Dây cáp chạy vào trong rừng cây, men theo vách đá."
+
+msgid "The cable runs into the woods."
+msgstr "Dây cáp chạy vào trong rừng cây."
+
+msgid "A campfire."
+msgstr "Đống lửa trại."
+
+msgid "There's no fire, so right now it's just a camp."
+msgstr "Không có lửa, nên giờ đây chỉ là trại thôi."
+
+msgid "A camp."
+msgstr "Cái trại."
+
+msgid "The fire is on. It seems to produce heat too."
+msgstr "Lửa bật lên rồi. Hình như còn tỏa ra nhiệt nữa."
+
+msgid "A crow standing on a stump."
+msgstr "Trên gốc đốn có con quạ đang đậu."
+
+msgid "They're everywhere, huh?"
+msgstr "Đi đâu cũng gặp hử?"
+
+msgid "Now is not the time for that."
+msgstr "Giờ không phải lúc làm chuyện đó."
+
+msgid "Small mushrooms surround a patch of dead grass."
+msgstr "Mấy cây nấm nhỏ vây quanh khoảnh cỏ chết."
+
+msgid "W-what..."
+msgstr "G-gì..."
+
+msgid "What happened? It was so sudden..."
+msgstr "Cái gì thế này? Đột ngột quá..."
+
+msgid "Am I trapped inside of something?"
+msgstr "Mình bị kẹt bên trong cái gì sao?"
+
+msgid "I can barely move..."
+msgstr "Mình cử động chẳng nổi mấy..."
+
+msgid "Ugh... it's all soggy and... squishy..."
+msgstr "Ưư... thấy toàn nhem nhép... nhớp nháp..."
+
+msgctxt "events.Ch1_Forest_Center.misc_fairyring_death.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "This is suffocating... I don't like closed spaces..."
+msgstr "Thấy ngộp quá... mình không thích không gian kín..."
+
+msgid "Aahh... I hate this... I'm going to be sick...!"
+msgstr "Aaa... Ghét quá... Mình phát ốm mất...!"
+
+msgid "Wait... calm down."
+msgstr "Từ từ... bình tĩnh lại."
+
+msgid "I can move my arms, somewhat."
+msgstr "Mình di chuyển cánh tay được, phần nào."
+
+msgid "Think."
+msgstr "Nghĩ đi."
+
+msgid "Let's see... do I have anything that could help me?"
+msgstr "Xem nào... mình có cái gì giúp được không?"
+
+msgid "Maybe something sharp..."
+msgstr "Có khi cái gì đó sắc nhọn..."
+
+msgid "Oh, scissors...!"
+msgstr "À, có kéo...!"
+
+msgid "Sorry, but I don't feel like being eaten today."
+msgstr "Xin lỗi nhé, hôm nay tao không có ưa bị con gì ăn thịt đâu."
+
+msgid "I can cross off \"being digested alive\" from my to-do list."
+msgstr "Mình gạch bỏ mục \"bị tiêu hóa mà còn sống\" ra khỏi danh sách việc cần làm được rồi đó."
+
+msgid "Good thing I had those scissors... ugh..."
+msgstr "Tốt là mình có cái kéo đây... ưư..."
+
+msgid "Now... where am I?"
+msgstr "Giờ... mình đang đâu vậy?"
+
+msgid "It's no good... I can't do anything..."
+msgstr "Không được rồi... Mình không làm gì được..."
+
+msgid "Am I going to die... inside this thing?"
+msgstr "Mình sẽ bỏ mạng... bên trong cái thứ này sao?"
+
+msgid "Nobody will even find my body..."
+msgstr "Còn chẳng ai có thể tìm ra thi thể mình..."
+
+msgid "Sigh... what a pointless way to go."
+msgstr "Hầy... ra đi cách này vô nghĩa lý thật."
+
+msgid "What is this smell... it's making me want to puke..."
+msgstr "Cái mùi này là gì... làm mình muốn mửa quá..."
+
+msgid "My legs... are also itching..."
+msgstr "Chân mình... cũng đang ngứa rồi..."
+
+msgid "Wait, could it be...?"
+msgstr "Từ từ, không lẽ là...?"
+
+msgid "Oh god... is this thing digesting me!?"
+msgstr "Trời ơi... cái thứ này nó đang tiêu hóa mình à!?"
+
+msgid "Nononono.... I don't want to die like that!!!"
+msgstr "Không không không không... Mình không muốn chết thế này!!!"
+
+msgid "I tried kicking around and fighting it as much as I could."
+msgstr "Tôi cố đá đạp và giãy giụa hết sức có thể."
+
+msgid "But soon enough, my skin started burning, confirming my fears."
+msgstr "Nhưng chẳng mấy chốc, da tôi bắt đầu bỏng rát, xác nhận nỗi sợ của tôi."
+
+msgid "The more I squirmed, the more the digestive juices got all over me."
+msgstr "Tôi càng quằn quại, chất dịch tiêu hóa càng bao phủ khắp người tôi."
+
+msgid "The more I screamed, the more the gas burned my nose and throat from inside."
+msgstr "Tôi càng la hét, hơi khí càng thiêu đốt mũi và họng tôi từ bên trong."
+
+msgid "It seems that the moment I stepped into that circle, my fate had been sealed."
+msgstr "Xem ra khoảnh khắc tôi bước chân vào cái vòng đó, số phận tôi đã an bài rồi."
+
+msgid "A lamppost that's missing its lamp."
+msgstr "Cái cột đèn bị thiếu mất đèn."
+
+msgid "Now it's just a post."
+msgstr "Giờ nó chỉ là cái cột."
+
+msgid "A post."
+msgstr "Cái cột."
+
+msgid "A wooden log."
+msgstr "Khúc gỗ."
+
+msgid "This is not the time to sit around."
+msgstr "Đây không phải lúc ngồi ì ra."
+
+msgid "A big mirror is embedded in the tree trunk."
+msgstr "Chiếc gương lớn hõm vào thân cây."
+
+msgid "A door handle can be seen."
+msgstr "Có thể thấy có cái tay nắm cửa."
+
+msgid "Your reflection stares anxiously back at you."
+msgstr "Hình phản chiếu của bạn áy náy nhìn chằm chằm về phía bạn."
+
+msgid "On a closer inspection, there's a door handle on the mirror."
+msgstr "Xem xét kĩ hơn thì trên chiếc gương có cái tay nắm cửa."
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "Nó không có vẻ là bị khóa."
+
+msgid "Check behind the mirror?"
+msgstr "Coi đằng sau chiếc gương chứ?"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "Yes"
+msgstr "Coi"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "The tree... is hollow...?"
+msgstr "Cái cây... rỗng à...?"
+
+msgid "Has anything changed now that I threw all those fish in?"
+msgstr "Mình ném hết đống cá xuống rồi thì có thay đổi được bất kì điều gì rồi không?"
+
+msgid "I can't see the bottom, but it's really deep."
+msgstr "Mình không thấy được đáy, nhưng thật sự là rất sâu."
+
+msgid "Why is the inside of the tree like this?"
+msgstr "Tại sao bên trong cái cây lại như thế này?"
+
+msgid "Doesn't seem like it."
+msgstr "Trông không có vẻ gì là thay đổi."
+
+msgid "The roots of a massive tree. There's blue mushrooms everywhere."
+msgstr "Rễ của cái cây khổng lồ. Khắp bề mặt rễ mọc mấy cây nấm xanh lam."
+
+msgid "It reads: \"STOP! Do not walk inside the fairy ring.\""
+msgstr "Ghi là: \"DỪNG LẠI! Không được bước vào trong vòng yêu tinh.\""
+
+msgid "\"But if you do, please ask them to take their business elsewhere.\""
+msgstr "\"Nhưng mà nếu bạn làm thế, xin bảo bọn chúng hãy mang công chuyện đi chỗ khác giùm nhé.\""
+
+msgid ""
+"South-West: Sculptor's House.\n"
+"West: Red's Treehouse."
+msgstr ""
+"Tây-Nam: Nhà của Điêu khắc gia.\n"
+"Tây: Nhà cây của Red."
+
+msgid ""
+"South: Train Station.\n"
+"East: Locked Site."
+msgstr ""
+"Nam: Trạm Tàu.\n"
+"Đông: Khu Bị khóa."
+
+msgid "The sign says \"Alba's Shop\""
+msgstr "Biển đề là \"Tiệm của Alba\""
+
+msgid "A curtain covers the stand."
+msgstr "Cái tấm rèm che khuất gian hàng."
+
+msgid "Peek behind curtain?"
+msgstr "Nhòm đằng sau rèm chứ?"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "Yes"
+msgstr "Nhòm"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's some trays aligned for display, but there's nothing on them."
+msgstr "Có vài cái khay được sắp thành hàng để trưng bày, nhưng ở trên không có gì cả."
+
+msgid "You decided to save your curiosity for later."
+msgstr "Bạn quyết định để dành sự tò mò của mình cho lần sau."
+
+msgid "A stand lined up with fish of various sizes."
+msgstr "Cái gian hàng bày bán cá đủ thứ kích cỡ."
+
+msgid "The shop is closed for today."
+msgstr "Tiệm đóng cửa hôm nay rồi."
+
+msgid "A massive crater that you caused."
+msgstr "Cái hố sâu hoắm vĩ đại mà bạn đã gây ra."
+
+msgid "I don't think there's anything this way that will help Kozmo..."
+msgstr "Thấy là đi đường này không có cái gì giúp được Kozmo đâu..."
+
+msgid "I need to get this to Kozmo as soon as possible..."
+msgstr "Mình cần phải đem cái này cho Kozmo nhanh nhất có thể..."
+
+msgid "Continue down this path?"
+msgstr "Tiếp tục xuống đường này chứ?"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "Yes"
+msgstr "Tiếp tục"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "No"
+msgstr "Thôi"

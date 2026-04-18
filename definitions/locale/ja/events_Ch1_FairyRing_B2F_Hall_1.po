@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm? What's that?"
+msgstr "んん？　あれは？"
+
+msgid "Oh that? It's a fairy head."
+msgstr "ああ、あれ？　妖精の頭だよ。"
+
+msgid "A... head? Is the rest of the fairy just buried?"
+msgstr "あ……頭？　残りの部分は埋まってるの？"
+
+msgid "No, it's probably roaming around somewhere."
+msgstr "いや、どこかをうろついてるんじゃないかな。"
+
+msgid "But the heads are dangerous too, be careful."
+msgstr "でも、頭だけでも危険だから、気をつけて。"
+
+msgid "There's another one..."
+msgstr "またいる……"
+
+msgid "But... this one definitely has eyes, doesn't it?"
+msgstr "でも……今度のはどう見ても目がついてない？"
+
+msgid "Maybe they're nostrils."
+msgstr "鼻の穴かも。"
+
+msgid "Wha- nostrils?"
+msgstr "な――鼻の穴？"
+
+msgid "Could that be?"
+msgstr "そんなことある？"
+
+msgid "They're eyes"
+msgstr "あれは目だ"
+
+msgid "They're nostrils"
+msgstr "あれは鼻の穴だ"
+
+msgid "(That's ridiculous.)"
+msgstr "(ありえない。)"
+
+msgid "I suppose I hadn't thought of it that way..."
+msgstr "その発想はなかったかも……"
+
+msgid "(Anyways... how will we pass without it seeing us?)"
+msgstr "(それはともかく……どうやって見られずに通り抜けよう？)"
+
+msgid "Now there's a bunch of them..."
+msgstr "今度はいっぱいいる……"
+
+msgid "This is going to be a thing, isn't it."
+msgstr "これは中々きつそう。"
+
+msgid "Wanna turn back?"
+msgstr "引き返したい？"
+
+msgid "Wait, I can try to visualize a solution..."
+msgstr "待って、答えを可視化してみるから……"
+
+msgid "Visualize solution?"
+msgstr "答えを可視化する？"
+
+msgid "Yes, please"
+msgstr "うん、お願い"
+
+msgid "I don't need it"
+msgstr "しなくていい"
+
+msgid "It's probably something like that."
+msgstr "たぶん、こんな感じだと思う。"
+
+msgid "Wow! Amazing!"
+msgstr "おぉ！　すごいね！"
+
+msgid "Okay..."
+msgstr "そう……"
+
+msgid "A fairy head. It only has a mouth."
+msgstr "妖精の頭。口しかない。"
+
+msgid "It only has a mouth... is that why it can't see me even though I'm this close?"
+msgstr "口しかない……だから、こんなに近くにいても見えてないのかな？"
+
+msgid "A fairy head. It only has nostrils."
+msgstr "妖精の頭。鼻の穴しかない。"
+
+msgid "A fairy head. It only has eyes."
+msgstr "妖精の頭。目しかない。"
+
+msgid "It seems like this one can only see to the sides..."
+msgstr "どうやら、こっちのは横しか見えないみたい……"
+
+msgctxt "events.Ch1_FairyRing_B2F_Hall_1.misc_plant_1.dlg.narrator"
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "小さな植物。妖精の視界を遮っているようだ。"
+
+msgid "This thing... does it block the head's view?"
+msgstr "これ……頭の視界を遮ってる？"
+
+msgctxt "events.Ch1_FairyRing_B2F_Hall_1.misc_plant_2.dlg.narrator"
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "小さな植物。妖精の視界を遮っているようだ。"
+
+msgid "As long as these black plant things are there, it should be possible to go around."
+msgstr "この黒い植物みたいなのがある限り、どうにか避けて通れそう。"

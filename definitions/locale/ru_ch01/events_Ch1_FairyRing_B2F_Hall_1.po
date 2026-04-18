@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm? What's that?"
+msgstr "М? А это что?"
+
+msgid "Oh that? It's a fairy head."
+msgstr "О, это? Это голова феи."
+
+msgid "A... head? Is the rest of the fairy just buried?"
+msgstr "Голова? А её тело что, под землёй?"
+
+msgid "No, it's probably roaming around somewhere."
+msgstr "Нет. Скорее всего, оно где-то бродит."
+
+msgid "But the heads are dangerous too, be careful."
+msgstr "Но головы тоже опасные, смотри в оба."
+
+msgid "There's another one..."
+msgstr "Ещё одна..."
+
+msgid "But... this one definitely has eyes, doesn't it?"
+msgstr "Но у этой отчётливо видно глаза, разве нет?"
+
+msgid "Maybe they're nostrils."
+msgstr "Может, это ноздри?"
+
+msgid "Wha- nostrils?"
+msgstr "Чт-? Ноздри?"
+
+msgid "Could that be?"
+msgstr "Ну а вдруг?"
+
+msgid "They're eyes"
+msgstr "Это глаза"
+
+msgid "They're nostrils"
+msgstr "Это ноздри"
+
+msgid "(That's ridiculous.)"
+msgstr "(Дебилизм.)"
+
+msgid "I suppose I hadn't thought of it that way..."
+msgstr "Я даже об этом не думала..."
+
+msgid "(Anyways... how will we pass without it seeing us?)"
+msgstr "(Всё же... как незаметно пройти мимо неё?)"
+
+msgid "Now there's a bunch of them..."
+msgstr "Теперь их целая куча..."
+
+msgid "This is going to be a thing, isn't it."
+msgstr "Дай угадаю, они теперь будут повсюду."
+
+msgid "Wanna turn back?"
+msgstr "Хочешь повернуть назад?"
+
+msgid "Wait, I can try to visualize a solution..."
+msgstr "Подожди, я попробую представить решение..."
+
+msgid "Visualize solution?"
+msgstr "Показать решение?"
+
+msgid "Yes, please"
+msgstr "Да, пожалуйста"
+
+msgid "I don't need it"
+msgstr "Нет, я и так справлюсь"
+
+msgid "It's probably something like that."
+msgstr "Решение примерно такое."
+
+msgid "Wow! Amazing!"
+msgstr "Ого! Круто!"
+
+msgid "Okay..."
+msgstr "Ладно..."
+
+msgid "A fairy head. It only has a mouth."
+msgstr "Голова феи. У неё есть только рот."
+
+msgid "It only has a mouth... is that why it can't see me even though I'm this close?"
+msgstr "У неё есть только рот... поэтому она не видит меня в такой близи?"
+
+msgid "A fairy head. It only has nostrils."
+msgstr "Голова феи. У неё есть только ноздри."
+
+msgid "A fairy head. It only has eyes."
+msgstr "Голова феи. У неё есть только глаза."
+
+msgid "It seems like this one can only see to the sides..."
+msgstr "Похоже, она видит только слева и справа..."
+
+msgctxt "events.Ch1_FairyRing_B2F_Hall_1.misc_plant_1.dlg.narrator"
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "Небольшое растение. Оно преграждает зрение феи."
+
+msgid "This thing... does it block the head's view?"
+msgstr "Эта штука мешает ей видеть?"
+
+msgctxt "events.Ch1_FairyRing_B2F_Hall_1.misc_plant_2.dlg.narrator"
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "Небольшое растение. Оно преграждает зрение феи."
+
+msgid "As long as these black plant things are there, it should be possible to go around."
+msgstr "Пока тут есть эти растения, мы сможем пробраться."

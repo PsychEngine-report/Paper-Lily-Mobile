@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is not a good place to release it."
+msgstr "Thả nó ra ở chỗ này không tốt đâu."
+
+msgid "There's nothing special behind the door."
+msgstr "Đằng sau cánh cửa không có gì đặc biệt cả."
+
+msgid "The door frame is about 15 centimeters thick."
+msgstr "Cái khung cửa dày khoảng 15 xăng-ti-mét."
+
+msgid "Alright then..."
+msgstr "Được rồi vậy..."
+
+msgid "First, to take the real lily from the vase..."
+msgstr "Đầu tiên, là lấy bông hoa bách hợp thật ra khỏi cái lọ..."
+
+msgid "Now... to make a paper lily from my letter..."
+msgstr "Bây giờ... gấp một bông hoa bách hợp từ lá thư của mình..."
+
+msgid "And finally, to place it where the lily was."
+msgstr "Rồi cuối cùng, cắm nó vào chỗ vốn cắm cái bông kia."
+
+msgid "It seems like it worked."
+msgstr "Hình như là được rồi đấy."
+
+msgid "You don't seem very impressed."
+msgstr "Trông em không có vẻ gì là ấn tượng nhể."
+
+msgid "I suppose with everything that's happened so far, this is just another puzzle."
+msgstr "Chắc là trải qua mọi chuyện đến giờ rồi, cái này cũng chỉ là cái puzzle khác thôi."
+
+msgid "A puzzle, huh..."
+msgstr "Cái puzzle khác thôi, hử..."
+
+msgid "I guess it's time to go home..."
+msgstr "Chắc là đến lúc về nhà thôi..."
+
+msgid "The paper lily is in place."
+msgstr "Bông hoa bách hợp vào chỗ rồi."
+
+msgid "(If I leave through here, the door might close...)"
+msgstr "(Nếu mình rời qua đây, cánh cửa có khi đóng lại...)"
+
+msgid "The door is open. A white light is coming through."
+msgstr "Cánh cửa mở rồi. Có ánh sáng màu trắng đang chiếu qua."
+
+msgid "Go through the door?"
+msgstr "Đi qua cánh cửa chứ?"
+
+msgid "Yes"
+msgstr "Đi qua"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "The door is locked."
+msgstr "Cánh cửa bị khóa rồi."

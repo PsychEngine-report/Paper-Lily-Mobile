@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alba"
+msgstr "Alba"
+
+msgid "Annie"
+msgstr "Annie"
+
+msgid "Aoi"
+msgstr "Aoi"
+
+msgid "Mother?"
+msgstr "Anne?"
+
+msgid "Bunny"
+msgstr "Tavşan"
+
+msgid "Cashier"
+msgstr "Kasiyer"
+
+msgid "Yellow Moth"
+msgstr "Sarı Güve"
+
+msgid "White Moth"
+msgstr "Beyaz Güve"
+
+msgid "Girl A"
+msgstr "Kız A"
+
+msgid "Girl B"
+msgstr "Kız B"
+
+msgid "Spider"
+msgstr "Örümcek"
+
+msgid "Caterpillar"
+msgstr "Tırtıl"
+
+msgid "Hiro"
+msgstr "Hiro"
+
+msgctxt "characters.name.hoodie"
+msgid "???"
+msgstr "???"
+
+msgid "Kat"
+msgstr "Kat"
+
+msgid "Kett"
+msgstr "Kett"
+
+msgid "Kozmo"
+msgstr "Kozmo"
+
+msgid "Lacie"
+msgstr "Lacie"
+
+msgid "Milion"
+msgstr "Milion"
+
+msgid "Miss Knives"
+msgstr "Bayan Knives"
+
+msgid "Saki"
+msgstr "Saki"
+
+msgid "Juli"
+msgstr "Juli"
+
+msgid "Kaya"
+msgstr "Kaya"
+
+msgid "Rune"
+msgstr "Rün"
+
+msgid "Sai"
+msgstr "Sai"
+
+msgid "Shadow Girl"
+msgstr "Gölge Kız"
+
+msgctxt "characters.name.unknown"
+msgid "???"
+msgstr "???"

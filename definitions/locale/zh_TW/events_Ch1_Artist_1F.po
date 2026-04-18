@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OH."
+msgstr "*喔*。"
+
+msgid "A child."
+msgstr "有個孩子。"
+
+msgid "A child is in my gallery. But my gallery is closed. So how can a child be in my gallery?"
+msgstr "有個孩子在我的藝廊。可是我的藝廊已經關門了。所以怎麼會有個小孩在我的藝廊？"
+
+msgid "Atrocious."
+msgstr "太差勁了。"
+
+msgid "Smells like..."
+msgstr "聞起來像..."
+
+msgid "..."
+msgstr "..."
+
+msgid "GARBAGE."
+msgstr "*垃圾*。"
+
+msgid "What? That's not true..."
+msgstr "什麼？不是這樣的..."
+
+msgid "Who is this child?"
+msgstr "這孩子是誰？"
+
+msgid "My name is Lacie."
+msgstr "我是萊西。"
+
+msgid "(Wait... I shouldn't give out my name like that to demons!)"
+msgstr "(等等...我不該就這樣把名字告訴惡魔！)"
+
+msgid "Lacie..."
+msgstr "萊西..."
+
+msgid "(Did he figure out I'm human...?)"
+msgstr "(他察覺到我是人類了嗎...？)"
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "What is your name?"
+msgstr "你的名字是什麼？"
+
+msgid "What's under that drape?"
+msgstr "簾幕下的是什麼？"
+
+msgid "You seem better now."
+msgstr "你看起來好多了。"
+
+msgid "You're dropping a lot of flowers."
+msgstr "你掉了很多花朵。"
+
+msgid "Never mind"
+msgstr "當我沒說"
+
+msgid "Kett is what I am called."
+msgstr "蓋特是我的名字。"
+
+msgid "Oh."
+msgstr "喔。"
+
+msgid "And who are you?"
+msgstr "那麼你是？"
+
+msgid "I... already told you my name."
+msgstr "我...已經告訴你我的名字了。"
+
+msgid "(He forgot it...? Maybe that's a good thing.)"
+msgstr "(他忘了...？也許這是好事。)"
+
+msgid "Please excuse me. I have no use for meaningless information in my mind."
+msgstr "請見諒。記著無用的資訊對我沒有用處。"
+
+msgid "No... that's okay."
+msgstr "不...沒關係。"
+
+msgid "A commission."
+msgstr "一項委託。"
+
+msgid "I have been stuck, blocked, uninspired, you could say."
+msgstr "我被困住了、阻擋了、缺乏靈感，可以這麼說。"
+
+msgid "FOR AGES."
+msgstr "*一段很長的時間*。"
+
+msgid "Everything I made..."
+msgstr "我所做的一切..."
+
+msgid "But now suddenly I feel..."
+msgstr "但是我突然感到..."
+
+msgid "Awaken."
+msgstr "覺醒了。"
+
+msgid "You seemed very um...crazy...a while ago."
+msgstr "你剛剛感覺...非常...瘋癲。"
+
+msgid "Ah, sleep deprivation."
+msgstr "啊，睡眠不足。"
+
+msgid "I feel that."
+msgstr "我懂。"
+
+msgid "HOWEVER, AN ANGEL delivered salvation to me."
+msgstr "然而！一位天使給了我救贖。"
+
+msgid "I brought you that."
+msgstr "是我給你的。"
+
+msgid "IF I COULD FIND THIS ANGEL, well, they would be humbly welcomed into my gallery, for no fee."
+msgstr "如果我可以找到那位天使！那麼，他會被我恭迎進我的藝廊，不收費。"
+
+msgid "It was me."
+msgstr "是我。"
+
+msgid "BUT ALAS."
+msgstr "*但是很遺憾*。"
+
+msgid "They are the fruit of my inspiration."
+msgstr "它們是我的靈感。"
+
+msgid "I picked up some of your inspiration, I hope you don't mind."
+msgstr "我撿起了一些你的靈感，希望你不介意。"
+
+msgid "Your inspiration is all over the floor."
+msgstr "你的靈感掉了滿地。"
+
+msgid "What is that commission about?"
+msgstr "這項委託是什麼？"
+
+msgid "I keep my business matters private."
+msgstr "我對我的生意保密。"
+
+msgid "Can I commission you for a piece?"
+msgstr "我可以委託你製作嗎？"
+
+msgid "Of course. You may add your name to my waiting list."
+msgstr "當然。妳可以把妳的名字加到等待名單。"
+
+msgid "...Never mind then."
+msgstr "...那就算了。"
+
+msgid "Where is it?"
+msgstr "在哪裡？"
+
+msgid "On the wall."
+msgstr "在牆上。"
+
+msgid "Why don't you make anything colorful?"
+msgstr "為什麼你不製作任何色彩繽紛的作品？"
+
+msgid "Color....ful..?"
+msgstr "色彩...繽紛...？"
+
+msgid "What ever do you mean?"
+msgstr "你這到底是什麼意思？"
+
+msgid "Well...all of your...art...is blue or grey."
+msgstr "呃...你的作品..都...是藍色或灰色的。"
+
+msgid "Blue...? Grey...?"
+msgstr "藍色...？灰色...？"
+
+msgid "(He seems really perplexed.)"
+msgstr "(他看起來非常困惑。)"
+
+msgid "What did you smell on me earlier?"
+msgstr "你剛剛在我身上聞到了什麼？"
+
+msgid "I don't recall the event you're referring to."
+msgstr "我不記得你提到的事情。"
+
+msgid "Because you don't keep meaningless information in your mind?"
+msgstr "因為記著無用的資訊對你沒有用處？"
+
+msgid "Yes, how did you know?"
+msgstr "是啊，妳怎麼知道？"
+
+msgid "Just a feeling."
+msgstr "直覺。"
+
+msgid "Of course.. the patterns must match on each limb."
+msgstr "當然了...紋路需要和每個肢體對上。"
+
+msgid "But how shall I go about it...?"
+msgstr "但是我該怎麼做呢...？"
+
+msgid "Kett seems to be concentrated."
+msgstr "蓋特看起來很專注。"
+
+msgid "There's someone there. Grab their attention?"
+msgstr "那裡有個人。引起他的注意嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "!!!"
+msgstr "！！！"
+
+msgid "He seems to be asleep."
+msgstr "他看起來睡著了。"
+
+msgid "I'd really rather not bother him..."
+msgstr "我不想要打擾他..."
+
+msgid "This isn't the time for that."
+msgstr "現在不是時候。"
+
+msgid "This is from the lighthouse."
+msgstr "這是從燈塔那裡來的。"
+
+msgid "Garbage."
+msgstr "垃圾。"
+
+msgid "Huh? Really?"
+msgstr "蛤？真的嗎？"
+
+msgid "It sickens me."
+msgstr "令我作噁。"
+
+msgid "Do you know where the lighthouse is?"
+msgstr "你知道燈塔在哪裡嗎？"
+
+msgid "Begone, child."
+msgstr "快離開，孩子。"
+
+msgid "...Guess not."
+msgstr "...那是不知道囉。"
+
+msgid "This candle looks familiar to me. How curious."
+msgstr "這根蠟燭看起來很眼熟。真是奇妙。"
+
+msgid "What is that garbage smell?"
+msgstr "那是什麼垃圾的味道？"
+
+msgid "You may keep that. It is little more than garbage to me."
+msgstr "你可以留著。這對我來說只是垃圾。"
+
+msgid "A rock. It's carving is skillful."
+msgstr "一塊石頭。雕刻的技術相當精湛。"
+
+msgid "Could there be another artist out there...?"
+msgstr "可能會是另一位藝術家嗎？"
+
+msgid "No. Impossible."
+msgstr "不。不可能。"
+
+msgid "(He ate it!?)"
+msgstr "(他吃掉了！？)"
+
+msgid "This tool is not well suited for carving."
+msgstr "這個工具不適合雕刻。"
+
+msgid "This is one of those things that isn't very interesting when seen from behind."
+msgstr "這是那種從背後看沒那麼有趣的東西。"
+
+msgid "Blue paint."
+msgstr "藍色顏料。"
+
+msgid "A blank canvas. Paint something?"
+msgstr "空畫布。畫些什麼嗎？"
+
+msgid "What should I paint?"
+msgstr "我該畫什麼？"
+
+msgid "A blue butterfly"
+msgstr "藍色蝴蝶"
+
+msgid "A self-portrait"
+msgstr "自畫像"
+
+msgid "Hiro"
+msgstr "廣人"
+
+msgid "A portrait of Kett"
+msgstr "蓋特的肖像"
+
+msgid "A ghost"
+msgstr "鬼"
+
+msgid "A dinosaur"
+msgstr "恐龍"
+
+msgid "Show drawing here"
+msgstr "在這裡展示畫作"
+
+msgid "It's the painting I made. Kett will probably trash it soon enough."
+msgstr "這是我的畫。蓋特大概很快就會丟了它。"
+
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "撿起 ${item:ch1.kett_flower}？"
+
+msgid "A waiting list. It has over a hundred names on it."
+msgstr "等待名單。上面有上百個名字。"
+
+msgid "...Never mind."
+msgstr "...算了。"
+
+msgid "A painting of some landscape."
+msgstr "風景畫。"
+
+msgid "There must be a huge sculpture hidden under this drape."
+msgstr "簾幕下肯定是一座巨大的雕塑。"
+
+msgid "Check under the drape?"
+msgstr "檢查簾幕底下？"
+
+msgid "It looks like an unfinished sculpture of a lady. She looks like she's made of porcelain."
+msgstr "看起來像是還沒完成的女士雕塑。她看起來像是陶瓷做的一樣。"
+
+msgid "There's a sculpture of a lady under this drape."
+msgstr "簾幕底下有個女士的雕像。"
+
+msgid "A tall vase."
+msgstr "高花瓶。"
+
+msgid "Reach inside?"
+msgstr "伸手進去嗎？"
+
+msgid "There's nothing inside."
+msgstr "裡面什麼都沒有。"
+
+msgid "A small art piece."
+msgstr "小件的藝術品。"
+
+msgid "A weird thing."
+msgstr "怪東西。"
+
+msgid "What... is this?"
+msgstr "這是...什麼？"
+
+msgid "A twisty pot."
+msgstr "扭曲的罐子。"
+
+msgid "A broken pot."
+msgstr "破掉的罐子。"
+
+msgid "It looks like a dinosaur."
+msgstr "看起來像是恐龍。"
+
+msgid "A small dinosaur."
+msgstr "小恐龍。"

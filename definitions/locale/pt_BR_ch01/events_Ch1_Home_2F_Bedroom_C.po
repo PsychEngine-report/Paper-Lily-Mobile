@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There are colored thread rolls inside."
+msgstr "Dentro há rolos de linha colorida."
+
+msgid "The red thread may be useful."
+msgstr "O fio vermelho pode ser útil."
+
+msgid "Take ${item:ch1.thread}?"
+msgstr "Pegar ${item:ch1.thread}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "My parents' bed."
+msgstr "A cama dos meus pais."
+
+msgid "A bookshelf with complicated books."
+msgstr "Uma estante com livros complicados."
+
+msgid "Black... Black... No red markers here."
+msgstr "Preto... Preto... Sem marcadores vermelhos aqui."
+
+msgid "Maybe in my room?"
+msgstr "Talvez no meu quarto?"
+
+msgid "Maybe downstairs?"
+msgstr "Talvez lá embaixo?"
+
+msgid "A classic alarm clock."
+msgstr "Um despertador clássico."
+
+msgid "Father doesn't trust the alarm app."
+msgstr "O pai não confia no aplicativo de alarme."
+
+msgid "A computer chair."
+msgstr "Uma cadeira de computador."
+
+msgid "A computer chair. Yours is better."
+msgstr "Uma cadeira de computador. O seu é melhor."
+
+msgid "An older computer."
+msgstr "Um computador mais antigo."
+
+msgid "It's mostly for spreadsheets, so you can't game on it."
+msgstr "É principalmente para planilhas, então você não pode brincar com isso."
+
+msgid "A plant."
+msgstr "Uma planta."
+
+msgid "A plant. We have several like this one."
+msgstr "Uma planta. Temos vários como esta."
+
+msgid "A sewing kit."
+msgstr "Um kit de costura."
+
+msgid "A shelf with nothing of interest."
+msgstr "Uma prateleira sem nada de interessante."
+
+msgid "The wardrobe. It doesn't close well anymore."
+msgstr "O armário. Já não fecha bem."
+
+msgid "Something is written on the door:"
+msgstr "Algo está escrito na porta:"
+
+msgid "\"The wardrobe is stuffy, isn't it? You almost can't breathe in there."
+msgstr "“O guarda-roupa está abafado, não é? Quase não dá para respirar lá dentro."
+
+msgid "You almost stopped breathing. Take a deep breath, Lacie.\""
+msgstr "Você quase parou de respirar. Respire fundo, Lacie.\""
+
+msgid "Open it?"
+msgstr "Abra?"
+
+msgid "A cold breeze blows from inside."
+msgstr "Uma brisa fria sopra de dentro."
+
+msgid "There's a few clothes inside."
+msgstr "Há algumas roupas dentro."

@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Huh... A bathroom?)"
+msgstr "(Гм... Ванна кімната?)"
+
+msgid "Um... excuse me."
+msgstr "Ем... перепрошую."
+
+msgid "Could you wait outside?"
+msgstr "Почекаєш ззовні?"
+
+msgid "Wha-? Oh. Of course."
+msgstr "Що-? О, звісно."
+
+msgid "I- ...I guess I'll stay out there."
+msgstr "Я- ...мабуть, тут стоятиму."
+
+msgid "Scream if you need me."
+msgstr "Кричи, якщо знадоблюся."
+
+msgid "...I won't."
+msgstr "...Не буду."
+
+msgid "(Now I get to have some time away from that guy.)"
+msgstr "(Тепер у мене є час побути подалі від цього хлопця.)"
+
+msgid "(Is it really safe to have him around?)"
+msgstr "(Чи справді безпечно мати його поруч?)"
+
+msgid "(A bathroom?)"
+msgstr "(Ванна кімната?)"
+
+msgid "(I hope that guy won't find me here.)"
+msgstr "(Сподіваюся, що той хлопець не знайде мене тут.)"
+
+msgid "(I don't really trust him... Hopefully he's not searching for me...)"
+msgstr "(Я не дуже довіряю йому... Сподіваюся, він не шукає мене...)"
+
+msgid "(Hiro would tell me to have a bit of faith in others, but...)"
+msgstr "(Хіро сказав би мені трохи повірити в інших, але...)"
+
+msgid "..."
+msgstr "..."
+
+msgid "(I wonder if I could ask Hiro.)"
+msgstr "(Цікаво, чи можу я запитати Хіро.)"
+
+msgid "(Is it even possible to call from here?)"
+msgstr "(Чи вийде зателефонувати звідси?)"
+
+msgid "(I still have no signal... but... that didn't matter last time.)"
+msgstr "(Сигналу досі немає... але... минулого разу це не мало значення.)"
+
+msgid "Oh... I'm out of battery."
+msgstr "Ой, у мене сіла батарея."
+
+msgid "That's not good... I suppose using it as a flashlight killed it."
+msgstr "Це не добре... Мабуть, я надто довго користувалася ліхтариком."
+
+msgid "...Oh well."
+msgstr "...Ну й ну."
+
+msgid "I'll give it a try."
+msgstr "Спробую."
+
+msgid "Lace!"
+msgstr "Лейсі!"
+
+msgid "Oh good..."
+msgstr "Як добре..."
+
+msgid "Thank goodness I can reach you, Hiro..."
+msgstr "Слава Богу, я можу до тебе додзвонитися, Хіро."
+
+msgid "Are you alright!?"
+msgstr "Ти в порядку!?"
+
+msgid "What happened!?"
+msgstr "Що сталося!?"
+
+msgid "Are you safe!?"
+msgstr "Ти в порядку?"
+
+msgid "Yes, I'm okay."
+msgstr "Так, все добре."
+
+msgid "(Though I did fall down the stairs and wake up in some sort of dungeon...)"
+msgstr "(Хоча я й впала зі сходів та прокинулася в якомусь підземеллі...)"
+
+msgid "(and there's a strange guy following me everywhere...)"
+msgstr "(і за мною тепер ходить якийсь хлопець...)"
+
+msgid "(...and there was a strange guy following me everywhere...)"
+msgstr "(...а потім за мною ходив якийсь хлопець...)"
+
+msgid "(...and Rune said there's no way out.)"
+msgstr "(...а ще Рун сказав, що звідси немає виходу.)"
+
+msgid "Everything is okay, don't worry."
+msgstr "Так, все супер, не переймайся."
+
+msgid "Thank god."
+msgstr "Дякувати богу."
+
+msgid "Is everything alright? Why are you whispering?"
+msgstr "Все добре? Чому ти шепочешся?"
+
+msgid "Because there's someone right outside, and..."
+msgstr "Бо хтось прямо за дверима, і..."
+
+msgid "Because someone might be looking for me."
+msgstr "Бо хтось може шукати мене."
+
+msgid "An enemy!?"
+msgstr "Ворог!?"
+
+msgid "No, well... he says he's not."
+msgstr "Ні… принаймні він каже, що він не ворог."
+
+msgid "And now he's following me around."
+msgstr "А тепер слідує тут за мною."
+
+msgid "You made a friend!?"
+msgstr "Ти завела друга!?"
+
+msgid "No."
+msgstr "Ні."
+
+msgid "I don't really trust him."
+msgstr "Я йому не дуже довіряю."
+
+msgid "But maybe it's better to have company! He might be willing to tag along and help!"
+msgstr "Але, можливо, краще мати компанію! Може, він буде готовий супроводжувати тебе і допомагати!"
+
+msgid "But... that's why it's strange."
+msgstr "Але... це ж дивно."
+
+msgid "Why is he willing to tag along?"
+msgstr "Чому він хоче йти поруч?"
+
+msgid "...You know how people act around me, Hiro..."
+msgstr "...Хіро, ти ж знаєш, як люди поводяться навколо мене..."
+
+msgid "And he's just acting...like nothing is wrong with me."
+msgstr "А він удає, що зі мною все добре."
+
+msgid "Hmmm..."
+msgstr "Гм…"
+
+msgid "You sound conflicted."
+msgstr "Схоже, тобі важко прийняти рішення."
+
+msgid "Well... I don't really care, I just..."
+msgstr "Ну... мене ця ситуація не сильно хвилює, просто..."
+
+msgid "He's just shady."
+msgstr "Він якийсь мутний."
+
+msgid "Well, tell you what. It's your choice."
+msgstr "Скажу так - вирішуй сама. Це твій вибір."
+
+msgid "You can have him tag along and see how it plays out..."
+msgstr "Можеш дозволити йому ходити з тобою. Подивишся, чим все обернеться..."
+
+msgid "...or you can ditch him."
+msgstr "...а можеш його кинути."
+
+msgid "No, well... he said he's not."
+msgstr "Ні… принаймні він казав, що він не ворог."
+
+msgid "But... it doesn't matter. I already got rid of him."
+msgstr "Але... це вже не має значення. Я від нього здихалась."
+
+msgid "Well, I can't condone murder but..."
+msgstr "Ну, я стараюсь не виправдовувати вбивства. Але..."
+
+msgid "No! Not like that! Hiro!"
+msgstr "Ні! Хіро, все зовсім не так!"
+
+msgid "He's still somewhere around... I just slipped away for a bit."
+msgstr "Він досі тут плентається... я просто від нього втекла ненадовго."
+
+msgid "Well, tell you what."
+msgstr "Ну, я тобі так скажу."
+
+msgid "Next time he finds you, you could try locking him up somewhere."
+msgstr "Коли він наступного разу тебе знайде, спробуй його десь закрити."
+
+msgid "Huh... it's not like you to suggest something like that."
+msgstr "Ого... це на тебе зовсім не схоже."
+
+msgid "Well, I personally think you should have a bit of faith in him! But it's up to you."
+msgstr "Ну, я особисто вважаю, що ти повинна трохи довіритися йому! Але вибір за тобою."
+
+msgid "Well, I personally think you could go back and apologize."
+msgstr "Ну, я особисто вважаю, що ти могла б повернутися і попросити вибачення."
+
+msgid "Nothing wrong with making a friend, right? Still, it's up to you."
+msgstr "Що поганого в тому, щоб з кимось подружитися? Але вибір за тобою."
+
+msgid "(Yeah... that's more like it.)"
+msgstr "(Ось так краще.)"
+
+msgid "I should go."
+msgstr "Я маю йти."
+
+msgid "Be careful, Lace."
+msgstr "Будь обережна, Лейсі."
+
+msgid "Get back home safely."
+msgstr "Повернись додому живою."
+
+msgid "Yeah."
+msgstr "Добре."
+
+msgid "I can't believe I'm entertaining this idea."
+msgstr "Не вірю, що даю цій ідеї шанс."
+
+msgid "This is the stupidest thing I've ever done."
+msgstr "Нічого дурнішого у своєму житті не робила."
+
+msgid "Just a few more trips!"
+msgstr "Ще кілька разів!"
+
+msgid "This'll work, you'll see."
+msgstr "Все вийде, ось побачиш."
+
+msgid "There's no way."
+msgstr "Це неможливо."
+
+msgid "At least this is a good workout."
+msgstr "Принаймні ти потренуєш м'язи."
+
+msgid "(I'm not fit enough for this...)"
+msgstr "(Я зараз не у формі...)"
+
+msgid "Sigh... What makes you think the drain isn't connected to the water we're removing..."
+msgstr "*Позіхає*… Звідки ти впевнений, що ми не зливаємо воду туди ж, звідки її беремо?.."
+
+msgid "Hm... I don't know."
+msgstr "Гм… не знаю."
+
+msgid "Well, too late to consider that now."
+msgstr "Ну, думати запізно."
+
+msgid "(What possessed me to agree to this?)"
+msgstr "(Який біс в мене вселився?)"
+
+msgid "We're really bonding over this, don't you think?"
+msgstr "А тобі не здається, що через це наші стосунки потихеньку налагоджуються?"
+
+msgid "....."
+msgstr "....."
+
+msgid "One Eternity Later..."
+msgstr "Одну вічність пізніше..."
+
+msgid "You actually did it."
+msgstr "У вас дійсно вийшло."
+
+msgid "Congratulations!"
+msgstr "Вітаю!"
+
+msgid "This is nothing. Just wait until you hear my other ideas."
+msgstr "Це ще квіточки. Ти почекай, поки почуєш інші мої ідеї."
+
+msgid "I very much look forward to it!"
+msgstr "Буду на це чекати!"
+
+msgid "Will she be okay?"
+msgstr "А з нею все буде добре?"
+
+msgid "She'll be fine."
+msgstr "Все буде чудово."
+
+msgid "See? She's still breathing."
+msgstr "Ось бачиш? Ще дихає."
+
+msgid "Um... will you be okay?"
+msgstr "Ем... з тобою все буде добре?"
+
+msgid "Nice! You're sturdy, aren't you?"
+msgstr "Клас! А ти міцний горішок."
+
+msgid "You ready to go?"
+msgstr "Готова йти?"
+
+msgid "A mop. It looks like it's never been used."
+msgstr "Швабра. Схоже, нею давно ніхто не користувався."
+
+msgid "Everything here has been gathering dust for a really long time."
+msgstr "Тут вже давно все покрилося пилом."
+
+msgid "There's something on this shelf."
+msgstr "На полиці щось лежить."
+
+msgid "There's nothing else of use."
+msgstr "Тут більше немає нічого корисного."
+
+msgid "A rusted sink."
+msgstr "Іржава раковина."
+
+msgid "A bathroom stall. It's occupied."
+msgstr "Кабінка в туалеті. Вона зайнята."
+
+msgid "Try to open it anyways?"
+msgstr "Все одно спробувати відчинити?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Something shiny can be seen at the bottom of the toilet bowl."
+msgstr "На дні унітаза щось блищить."
+
+msgid "Fish it out?"
+msgstr "Дістати?"
+
+msgid "A small hand towel."
+msgstr "Невеликий рушник для рук."
+
+msgid "That took a million years."
+msgstr "Пів життя тебе чекаю."
+
+msgid "Were you talking to someone in there?"
+msgstr "Ти там з кимось розмовляла?"
+
+msgid "(Did he overhear anything...?)"
+msgstr "(Він підслуховував?..)"
+
+msgid "It kinda sounded like it."
+msgstr "Схоже, що так."
+
+msgid "I wasn't."
+msgstr "А от і ні."
+
+msgid "Oh."
+msgstr "Гм."
+
+msgid "It's cool, I talk to myself sometimes too."
+msgstr "Все добре. Я теж іноді розмовляю сам із собою."
+
+msgid "Like having a little narrator, right?"
+msgstr "Це як мати невидимого оповідача, згодна?"
+
+msgid "Find anything cool?"
+msgstr "Знайшла щось корисне?"
+
+msgid "Nope."
+msgstr "Ні."
+
+msgid "...Where did you get that?"
+msgstr "...А звідки це в тебе?"
+
+msgid "The lollipop? I had 'em with me."
+msgstr "Льодяник? Просто взяв із собою."
+
+msgid "Want some?"
+msgstr "Ти будеш?"
+
+msgid "I don't accept candy from strangers."
+msgstr "Я не приймаю солодощі від незнайомців."
+
+msgid "(Sai joined your party.)"
+msgstr "(Сай приєднується до групи.)"

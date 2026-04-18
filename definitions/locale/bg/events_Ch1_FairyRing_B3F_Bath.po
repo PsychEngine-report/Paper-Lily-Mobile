@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's... a dead end?"
+msgstr "Това е… задънен край?"
+
+msgid "..."
+msgstr "…"
+
+msgid "What now?"
+msgstr "Сега какво?"
+
+msgid "We're gonna die here, aren't we?"
+msgstr "Ще умрем тук, нали?"
+
+msgid "I don't know."
+msgstr "Не зная."
+
+msgid "Oh god... I really hoped I wouldn't be right."
+msgstr "О боже… Искрено се надявам да не съм права."
+
+msgid "I should have known. Of course it's a dead end."
+msgstr "Трябваше да знам. Разбира се, това е задънена улица."
+
+msgid "But I felt more confident walking around with you... so I thought..."
+msgstr "Но се чувствах по-уверена, когато се разхождах с теб… затова си помислих…"
+
+msgid "Please, let me think."
+msgstr "Моля те, нека помисля."
+
+msgid "(Think Lacie...)"
+msgstr "(Мисли Лейси…)"
+
+msgid "(Is there really no way out..?)"
+msgstr "(Наистина ли няма път навън…?)"
+
+msgid "Can't we break the ground above us and just climb out?"
+msgstr "Не можем ли да разбием земята над нас и просто да се изкачим?"
+
+msgid "How?"
+msgstr "Как?"
+
+msgid "Well...."
+msgstr "Ами…"
+
+msgid "...I don't know."
+msgstr "… Не знам."
+
+msgid "Sorry, that was stupid."
+msgstr "Прости ми, това беше глупаво."
+
+msgid "(Can I call someone?)"
+msgstr "(Мога ли да звънна на някого?)"
+
+msgid "(There's no signal though...)"
+msgstr "(Но няма сигнал…)"
+
+msgid "(But... it worked before...)"
+msgstr "(Но… преди проработи…)"
+
+msgid "(It doesn't work...)"
+msgstr "(Не работи…)"
+
+msgid "Say..."
+msgstr "Я кажи…"
+
+msgid "...?"
+msgstr "…?"
+
+msgid "Will you tell me your name? Since we might be dying anyway..."
+msgstr "Ще ми кажеш ли името си? Тъй като може би ще умрем така или иначе…"
+
+msgid "It's Lacie."
+msgstr "То е Лейси."
+
+msgid "Oh... that's such a nice name."
+msgstr "Оу… това е толкова мило име."
+
+msgid "...Thanks."
+msgstr "…Благодаря."
+
+msgid "After that, we stayed in silence for a few minutes."
+msgstr "След това, останахме да мълчим в тишина за няколко минути."
+
+msgid "I tried thinking of options at first, but quickly ran out of alternatives."
+msgstr "Първоначално се опитах да измисля варианти, но бързо ги изчерпах."
+
+msgid "Maybe there really was no way out this time."
+msgstr "Може би този път наистина нямаше изход."
+
+msgid "Through all of this, Aoi was awfully quiet."
+msgstr "През цялото това време, Аой беше ужасно тиха."
+
+msgid "Um... hey."
+msgstr "Ъм… хей."
+
+msgid "Mhm..?"
+msgstr "Мхм…?"
+
+msgid "Don't panic. It won't solve anything."
+msgstr "Не се паникьосвай. Това няма да реши нищо."
+
+msgid "What makes you think I'm panicking?"
+msgstr "Какво те кара да си мислиш че се паникьосвам?"
+
+msgid "You're melting."
+msgstr "Топиш се."
+
+msgid "O-Oh right..."
+msgstr "О-Оу вярно…"
+
+msgid "No panic... no panic..."
+msgstr "Без паника… без паника…"
+
+msgid "Wait... you're melting."
+msgstr "Чакай… ти си топиш."
+
+msgid "YES, I KNOW!"
+msgstr "ДА, ЗНАМ!"
+
+msgid "I can't stop!!!"
+msgstr "Не мога да спра!!!"
+
+msgid "No, Aoi!"
+msgstr "Не, Аой!"
+
+msgid "I have an idea."
+msgstr "Имам идея."
+
+msgid "Huh!?"
+msgstr "Хмм!?"
+
+msgid "There's a drain."
+msgstr "Има дренаж."
+
+msgid "...AND!?"
+msgstr "…И!?"
+
+msgid "Where do you think it leads?"
+msgstr "Докъде според теб води тя?"
+
+msgid "You want me..."
+msgstr "Искаш от мен…"
+
+msgid "You want me to go through the drain!?"
+msgstr "Искаш от мен да мина през дренажа!?"
+
+msgid "Even if I do... you can't come with me."
+msgstr "Дори и да го сторя… ти не можеш да дойдеш с мен."
+
+msgid "...Yeah."
+msgstr "…Мда."
+
+msgid "I-I got it, don't worry! If this leads anywhere, I'll find a way to get you out!"
+msgstr "А-Схванах го, не се притеснявай! Ако това доведе до нещо, ще намеря начин да те измъкна!"
+
+msgid "Just stay put!"
+msgstr "Просто стой на място!"
+
+msgid "Really?"
+msgstr "Наистина?"
+
+msgid "YEAH!"
+msgstr "О-ДА!"
+
+msgid "Well, let's hope there's a way."
+msgstr "Е, да се надяваме, че има начин."
+
+msgid "There's gotta be a way!"
+msgstr "Трябва да има начин!"
+
+msgid "Okay... well... Here goes."
+msgstr "Добре… ами… Хайде започвам."
+
+msgid "(Was that a good idea...?)"
+msgstr "(Това беше ли добра идея…?)"
+
+msgid "How long has it been..."
+msgstr "Колко време е минало…"
+
+msgid "Did I seriously just trust a demon with my life?"
+msgstr "Сериозно ли поверих живота си на демон?"
+
+msgid "Did I seriously just trust a spirit with my life?"
+msgstr "Сериозно ли поверих живота си на някакъв дух?"
+
+msgid "Aoi might not even come back."
+msgstr "Аой може дори да не се върне."
+
+msgid "Wait, Aoi could have died for all I know..."
+msgstr "Задръж, Аой може да е умряла, доколкото знам…"
+
+msgid "What did I do..."
+msgstr "Какво сторих…"
+
+msgid "Did I seriously just send Aoi down the drain to die..."
+msgstr "Наистина ли току-що изпратих Аой да умре в канализацията…"
+
+msgid "I should have said goodbye to Hiro when I had the chance..."
+msgstr "Трябваше да се сбогувам с Хиро, когато имах възможност…"
+
+msgid "It felt like days have gone by."
+msgstr "Сякаш бяха минали дни."
+
+msgid "I don't know exactly how long it's been."
+msgstr "Не знам точно колко време е минало."
+
+msgid "But my phone battery died a long time ago..."
+msgstr "Но батерията на телефона ми отдавна е умряла…"
+
+msgid "...And I fell asleep for a while too."
+msgstr "…И аз също заспах за известно време."
+
+msgid "Despite this... I don't feel hungry or thirsty..."
+msgstr "Въпреки това… не чувствам глад или жажда…"
+
+msgid "I don't have hope that Aoi will come back anymore."
+msgstr "Вече нямам надежда, че Аой ще се върне."
+
+msgid "I don't think anyone will come."
+msgstr "Не мисля, че някой ще дойде."
+
+msgid "I can't believe it... I threw in everything I had..."
+msgstr "Не мога да повярвам… Захвърлих всичко, което имах…"
+
+msgid "I even threw in the fish that was here, I have nothing else I can use..."
+msgstr "Дори изхвърлих рибата, която беше тук, нямам нищо друго, което мога да използвам…"
+
+msgid "Is there really nothing I can feed this thing...? Is there nothing I can do to save Lacie?"
+msgstr "Наистина ли няма с какво да го нахраня…? Нищо ли не мога да направя, за да спася Лейси?"
+
+msgid "There's always a way..."
+msgstr "Винаги има начин…"
+
+msgid "Think... think..."
+msgstr "Мисли… мисли…"
+
+msgid "Oh... oh god..."
+msgstr "Ой… о боже…"
+
+msgid "A bath tub."
+msgstr "Вана."
+
+msgid "Why is there a bathtub in a place like this?"
+msgstr "Защо на такова място има вана?"
+
+msgid "Maybe the faeries take baths here?"
+msgstr "Може би феите се къпят тук?"
+
+msgid "At least it's not full of blood or something."
+msgstr "Поне не е пълна с кръв или нещо такова."

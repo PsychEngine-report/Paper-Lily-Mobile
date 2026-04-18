@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "要清空${item:ch1.bucket_full}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "No"
+msgstr "否"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "要清空${item:ch1.bucket_full_holy}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "No"
+msgstr "否"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "要灌满${item:ch1.bucket}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "No"
+msgstr "否"
+
+msgid "What to do?"
+msgstr "要做什么呢？"
+
+msgid "Kill it here"
+msgstr "把它杀死"
+
+msgid "Release it around this area"
+msgstr "把它放到周围去"
+
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgid "The crow shows no interest in it."
+msgstr "乌鸦对它毫无兴趣。"
+
+msgid "Nobody seems to want you, little one."
+msgstr "看起来没人想要你啊，小家伙。"
+
+msgid "It refuses to leave the terrarium."
+msgstr "它不愿离开生态箱。"
+
+msgid "He must not like lavender very much..."
+msgstr "他一定不是很喜欢薰衣草..."
+
+msgid "(Looks like it couldn't swim after all.)"
+msgstr "（它看起来不会游泳。）"
+
+msgid "(You can't place an incomplete doorknob...)"
+msgstr "（你无法放置不完整的门把...）"
+
+msgid "Lavender flowers are growing all over this place."
+msgstr "薰衣草花长满了这片区域。"
+
+msgid "Pretty..."
+msgstr "真好看啊..."
+
+msgid "Take ${item:ch1.forest_lavender}?"
+msgstr "要取走${item:ch1.forest_lavender}吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "No"
+msgstr "否"
+
+msgid "A crow standing on a log."
+msgstr "一只乌鸦站立在原木上。"
+
+msgid "It's completely unfazed by the rain..."
+msgstr "它完全不怕雨淋呢..."
+
+msgid "A wooden log."
+msgstr "一根木头。"
+
+msgid "I came from this direction. There's no reason to go back now."
+msgstr "我是从这个方向来的。现在没理由回去。"
+
+msgid "You can't see the other side of the lake from here."
+msgstr "你无法从这里看见湖的另一端。"
+
+msgid "A small pond."
+msgstr "一个小池塘。"
+
+msgid "The caterpillar has moved on. You should too."
+msgstr "毛虫已经向前进了。你也应该如此。"
+
+msgid "A door with two doorknobs."
+msgstr "一扇有着两个门把的门。"
+
+msgid "Take a closer look?"
+msgstr "凑近点看看？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_facility.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "我已经把返回门把放上去了。我不应该去别的地方了。"
+
+msgid "A stairway?"
+msgstr "楼梯？"
+
+msgid "It's so dark... I can't see anything..."
+msgstr "好暗...我什么也看不见..."
+
+msgid "Agh... my head..."
+msgstr "啊...我的头..."
+
+msgid "What's going on...?"
+msgstr "怎么了...？"
+
+msgid "This doorknob won't even turn."
+msgstr "这个门把根本转不动。"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_grave.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "我已经把返回门把放上去了。我不应该去别的地方了。"
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "A strange door with two doorknobs... and empty slots to place more."
+msgstr "一扇有着两个门把的奇怪的门...以及还有空槽位可以放更多的上去。"
+
+msgid "Amazing... my ${item:ch1.doorknob_return} fits right in. It wasn't a scam after all..."
+msgstr "真有意思...我的${item:ch1.doorknob_return}对上了。这居然不是一场骗局..."
+
+msgid "Still... I'm not ready to go home yet, but I'm glad to have found this door."
+msgstr "虽然说...我还没准备好回家，但我很高兴发现了这扇门。"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_library.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "我已经把返回门把放上去了。我不应该去别的地方了。"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_moths.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "我已经把返回门把放上去了。我不应该去别的地方了。"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_shop.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "我已经把返回门把放上去了。我不应该去别的地方了。"
+
+msgid "An empty slot."
+msgstr "一个空槽位。"
+
+msgid "Place a doorknob?"
+msgstr "要放置门把吗？"
+
+msgid "Gray Doorknob"
+msgstr "灰色门把"
+
+msgid "Doorknob With Eye"
+msgstr "带有眼睛图案的门把"
+
+msgid "White Doorknob"
+msgstr "白色门把"
+
+msgid "Doorknob With Flower"
+msgstr "带有花状图案的门把"
+
+msgid "Return Doorknob"
+msgstr "返回门把"
+
+msgid "Do not"
+msgstr "不放"
+
+msgid "Is it really time to go home...?"
+msgstr "现在真的是回家的时候吗...？"
+
+msgid "Are you sure that you want to place this doorknob?"
+msgstr "你确定要放置这个门把吗？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "No"
+msgstr "否"

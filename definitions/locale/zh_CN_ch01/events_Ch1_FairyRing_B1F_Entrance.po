@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's probably no point, this one didn't even do anything."
+msgstr "没有这么做的理由吧，这只还什么都没干呢。"
+
+msgid "Nothing good can come out of stabbing every single plant you see."
+msgstr "看到一棵植物就捅一刀的话，不会有什么好下场的。"
+
+msgid "(Is this plant eating something... or someone?)"
+msgstr "（这种植物是吃什么东西...不对，是在吃某人吗？）"
+
+msgid "(Should I really risk opening it?)"
+msgstr "（我真的要冒这个险打开它吗？）"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "(Probably best not to...)"
+msgstr "（最好还是别这么做了...）"
+
+msgid "(It's a person.)"
+msgstr "（是人。）"
+
+msgid "(Are they... alright? They seem asleep.)"
+msgstr "（它...还好吗？它看起来睡着了。）"
+
+msgid "(Wait... that might be a demon. Maybe I'd better leave them alone.)"
+msgstr "（等等...这可能是一只恶魔。我最好还是离它远点。）"
+
+msgid "(Well... I'll look around while they wake up.)"
+msgstr "（嗯...等它醒来我再去四处看看吧。）"
+
+msgid "AH!"
+msgstr "啊！"
+
+msgid "...!?"
+msgstr "...！？"
+
+msgid "Ahh... AHH!"
+msgstr "啊... 啊！"
+
+msgid "Get it off get it off get it off!!!"
+msgstr "快弄开快弄开快弄开！！！"
+
+msgid "Oh god... oh god... gaaaah!"
+msgstr "天呐...天呐...啊啊啊！"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...!"
+msgstr "...！"
+
+msgid "Did you just save me?!?"
+msgstr "是你救了我吗？！？"
+
+msgid "Everything was so dark and so gross, I thought I was gonna die for real this time!"
+msgstr "一切都如此黑暗，如此恶心，我还以为我这次真的要死了！"
+
+msgid "That gooey stuff was eating away at my skin, it's so itchy, uuugh I still feel it!!!"
+msgstr "那些黏糊糊的东西在啃咬我的皮肤，好痒，我现在还感觉得到！！！"
+
+msgid "I don't want it to eat me!!!"
+msgstr "我不想让它再啃了！！！"
+
+msgid "Oh god, I didn't plan to get digested today, this is NOT how I pictured my death!"
+msgstr "天呐，我没算到今天会被这样消化掉，这不是我的期望的死亡方式！"
+
+msgid "WHAT IS THIS PLACE?!?"
+msgstr "这是什么地方？！？"
+
+msgid "Oh."
+msgstr "哦。"
+
+msgid "Hahaha no..."
+msgstr "哈哈哈，不..."
+
+msgid "We're in the fairy ring aren't we?!"
+msgstr "我们这是在仙女环里面是吧？！"
+
+msgid "Noooo! There's no way to get out of here!!"
+msgstr "不！这里没办法出去的！！"
+
+msgid "This is it. WE'RE DEAD!"
+msgstr "就这样了。我们都要死了！"
+
+msgid "I might as well go back in the plant, at least it will be faster."
+msgstr "我还不如回到那个植物里，至少还痛快点。"
+
+msgid "Nooo I don't want it to end this way!!!"
+msgstr "不，我不想就这么结束！！！"
+
+msgid "Hey."
+msgstr "嘿。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...?"
+msgstr "...？"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "Cut it off."
+msgstr "再讲就剪烂你的嘴。"
+
+msgid "...W-what...?"
+msgstr "...什—什么...？"
+
+msgid "I said: cut it off."
+msgstr "我说：再讲就剪烂你的嘴。"
+
+msgid "Ah, s-sorry..."
+msgstr "啊，抱—抱歉..."
+
+msgid "(Is that supposed to be... a joke?)"
+msgstr "（这算...笑话吗？）"
+
+msgid "You know, I'm actually okay with dying."
+msgstr "好吧，其实我还能接受死亡啦。"
+
+msgid "But I feel like being eaten alive isn't really the way to go, you know?"
+msgstr "但我感觉被生吞的话，真的不是很好，你懂的？"
+
+msgid "I see... I guess so."
+msgstr "嗯...我懂。"
+
+msgid "My name's Aoi."
+msgstr "我的名字是小青。"
+
+msgid "...I see."
+msgstr "...好的。"
+
+msgid "Lacie."
+msgstr "我叫莱西。"
+
+msgid "Hehe... Were you trapped in one of those things too?"
+msgstr "哈哈...之前你也被困在那种东西里了吧？"
+
+msgid "Yeah."
+msgstr "没错。"
+
+msgid "How'd you get out?"
+msgstr "你是怎么出来的？"
+
+msgid "${item:ch1.scissors}."
+msgstr "用${item:ch1.scissors}啊。"
+
+msgid "Whoa."
+msgstr "哇哦。"
+
+msgid "If I get out of here I'll always carry scissors on me!"
+msgstr "如果我能离开这里，我一定会随身带着剪刀的！"
+
+msgid "I promise you-"
+msgstr "我对你保证—"
+
+msgid "No!"
+msgstr "不对！"
+
+msgid "I SWEAR to you."
+msgstr "我对你发誓。"
+
+msgid "O-okay..."
+msgstr "好—好的..."
+
+msgid "(What am I supposed to say to that...?)"
+msgstr "（我还能说什么呢...？）"
+
+msgid "So um..."
+msgstr "所以，呃..."
+
+msgid "H-how do we get out..."
+msgstr "我们要—要怎么出去呢..."
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "WE'RE ABSOLUTELY NEVER GETTING OUT WHAT ARE WE GOING TO DO!?!"
+msgstr "我们绝对没办法出去了啊啊啊怎么办啊啊啊！？！"
+
+msgid "Should I go back and get eaten by that plant instead?"
+msgstr "我是不是应该回去，然后让那个植物把我吃掉？"
+
+msgid "That might actually be better than losing my mind as I walk endlessly through this hellish place..."
+msgstr "这样总比我失去理智，然后在这个地狱一般的地方永无止境地漫步要好..."
+
+msgid "Can you imagine it???"
+msgstr "你能想象得到吗？？？"
+
+msgid "We would go insane!"
+msgstr "我们会疯掉的！"
+
+msgid "I hear the fairy ring slowly digests you, even if you're not caught in a plant."
+msgstr "我听说仙女环会缓慢地把你消化掉，就算你没被植物捉住。"
+
+msgid "Eventually the skin on our feet will start chipping away from walking through this visceral floor."
+msgstr "最终，我们脚上的皮肤会因为在这种内脏构成的地板上行走而开始脱落。"
+
+msgid "Then we'll start crawling, when our feet no longer work, hoping for the sweet release of death."
+msgstr "然后，当我们的双脚无法行动时，我们只能开始爬行，许愿在死亡中甜蜜地解脱。"
+
+msgid "We might even wind up eating each other..."
+msgstr "我们最后甚至可能会相互吃掉对方..."
+
+msgid "Aoi."
+msgstr "小青。"
+
+msgid "R-right..."
+msgstr "好—好的..."
+
+msgid "Sorry."
+msgstr "对不起。"
+
+msgid "I'll look around first."
+msgstr "我先去探探路。"
+
+msgid "I want to take another look at the next room."
+msgstr "我想再看看隔壁的房间。"
+
+msgid "I haven't even left this room yet."
+msgstr "我甚至都还没离开过这个房间呢。"
+
+msgid "OKAY!"
+msgstr "好的！"
+
+msgid "Can I follow you?"
+msgstr "我能跟着你吗？"
+
+msgid "No thank you."
+msgstr "不了，谢谢你。"
+
+msgid "Y-you'll leave me alone?!"
+msgstr "你—你要留我一个人吗？！"
+
+msgid "Please let me come with you, I promise I'll be useful!"
+msgstr "求你带着我走吧，我保证我会尽力的！"
+
+msgid "...uh..."
+msgstr "...呃..."
+
+msgid "PLEASE!!!"
+msgstr "求你了！！！"
+
+msgid "Okay... okay."
+msgstr "好吧... 好吧。"
+
+msgid "(It's probably a bad idea, but...)"
+msgstr "（这可能是个坏主意，但是...）"
+
+msgid "(This... boy... or girl? They don't seem dangerous.)"
+msgstr "（这位...男生...还是说女生？它看起来并不危险。）"
+
+msgid "(Maybe it's best not to be alone in this place.)"
+msgstr "（也许在这个地方独自行动不是一件好事。）"
+
+msgid "...Yes, I don't see why not."
+msgstr "...当然啦，没问题。"
+
+msgid "Yay!"
+msgstr "好耶！"
+
+msgid "I promise I'll be useful!"
+msgstr "我保证我会尽力的！"
+
+msgid "Sure. Pleased to make your acquaintance."
+msgstr "好的。很高兴认识你。"
+
+msgid "(I wonder if this girl... or boy... can help me with my problem.)"
+msgstr "（我很好奇这位女生...还是说男生...能不能帮我解决问题。）"
+
+msgid "(Were they... melting? They might be a spirit or something...)"
+msgstr "（它是在...融化吗？它可能是某种精灵之类的...）"
+
+msgid "(For now, let's focus on getting out of this place.)"
+msgstr "（就目前来说，我们还是专注于逃出这个地方吧。）"
+
+msgid "There's no one else to rescue in there."
+msgstr "这里面已经没有人可以救了。"
+
+msgid "It probably learned its lesson, I think."
+msgstr "我想，它可能吸取了教训。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plants.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "各种各样的植物，跟把你抓住的那株很像。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_aoi.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "各种各样的植物，跟把你抓住的那株很像。"
+
+msgid "This one seems to be digesting something..."
+msgstr "这一株看起来像是在消化什么东西..."
+
+msgid "The thing that almost ate Aoi. It's wide open."
+msgstr "险些吃掉小青的东西。张的很大。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "之前把我困进去的那株植物。"
+
+msgid "It's not nice in there."
+msgstr "里面很不舒服。"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine_aoi.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "之前把我困进去的那株植物。"
+
+msgid "Does this even classify as a plant?"
+msgstr "这能算是植物吗？"
+
+msgid "Not sure..."
+msgstr "不确定..."
+
+msgid "It kinda looks like one."
+msgstr "看起来算吧。"

@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Huh... A bathroom?)"
+msgstr "(Hơ... Nhà vệ sinh?)"
+
+msgid "Um... excuse me."
+msgstr "Ờm... nhờ anh cái này."
+
+msgid "Could you wait outside?"
+msgstr "Anh đứng ngoài đợi được không?"
+
+msgid "Wha-? Oh. Of course."
+msgstr "Cái-? Ờ. Được thôi."
+
+msgid "I- ...I guess I'll stay out there."
+msgstr "Tôi- ...Chắc là ở bên ngoài vậy."
+
+msgid "Scream if you need me."
+msgstr "Có gì cần thì gào lên đấy."
+
+msgid "...I won't."
+msgstr "...Không nhé."
+
+msgid "(Now I get to have some time away from that guy.)"
+msgstr "(Giờ tách ra khỏi ảnh rồi phải tranh thủ tí thời gian.)"
+
+msgid "(Is it really safe to have him around?)"
+msgstr "(Có cái anh chàng này theo bên thì ổn thật không?)"
+
+msgid "(A bathroom?)"
+msgstr "(Nhà vệ sinh?)"
+
+msgid "(I hope that guy won't find me here.)"
+msgstr "(Mong là cái anh đó không kiếm ra mình ở đây.)"
+
+msgid "(I don't really trust him... Hopefully he's not searching for me...)"
+msgstr "(Mình không thực sự tin cái anh này... Mong là không có đang đi tìm mình...)"
+
+msgid "(Hiro would tell me to have a bit of faith in others, but...)"
+msgstr "(Anh Hiro thì sẽ bảo mình phải có chút niềm tin vào người khác, mà...)"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I wonder if I could ask Hiro.)"
+msgstr "(Có khi mình hỏi anh Hiro chăng.)"
+
+msgid "(Is it even possible to call from here?)"
+msgstr "(Gọi từ chỗ này có khả thi không đây nữa?)"
+
+msgid "(I still have no signal... but... that didn't matter last time.)"
+msgstr "(Vẫn không có sóng... nhưng mà... lần cuối đâu cần có sóng.)"
+
+msgid "Oh... I'm out of battery."
+msgstr "Ô... hết pin rồi."
+
+msgid "That's not good... I suppose using it as a flashlight killed it."
+msgstr "Dở rồi... Chắc là do dùng làm đèn pin nên sạch điện."
+
+msgid "...Oh well."
+msgstr "...Thôi vậy."
+
+msgid "I'll give it a try."
+msgstr "Gọi thử xem vậy."
+
+msgid "Lace!"
+msgstr "Em!"
+
+msgid "Oh good..."
+msgstr "Tốt rồi..."
+
+msgid "Thank goodness I can reach you, Hiro..."
+msgstr "May quá trời em gọi điện được anh..."
+
+msgid "Are you alright!?"
+msgstr "Có sao không em!?"
+
+msgid "What happened!?"
+msgstr "Việc gì xảy ra!?"
+
+msgid "Are you safe!?"
+msgstr "Có ổn không em!?"
+
+msgid "Yes, I'm okay."
+msgstr "Dạ, em không sao."
+
+msgid "(Though I did fall down the stairs and wake up in some sort of dungeon...)"
+msgstr "(Mặc dù mình có bị ngã xuống cầu thang rồi thức dậy trong cái hầm ngục gì đó...)"
+
+msgid "(and there's a strange guy following me everywhere...)"
+msgstr "(rồi có cái anh chàng kì lạ đi đâu cũng đi theo mình...)"
+
+msgid "(...and there was a strange guy following me everywhere...)"
+msgstr "(rồi vừa có cái anh chàng kì lạ đi đâu cũng đi theo mình...)"
+
+msgid "(...and Rune said there's no way out.)"
+msgstr "(...rồi Rune bảo là không có lối ra.)"
+
+msgid "Everything is okay, don't worry."
+msgstr "Không có chuyện gì hết, anh khỏi lo."
+
+msgid "Thank god."
+msgstr "Ơn trời."
+
+msgid "Is everything alright? Why are you whispering?"
+msgstr "Không có gì hết hả em? Sao nói chuyện thì thầm vậy?"
+
+msgid "Because there's someone right outside, and..."
+msgstr "Dạ tại đang có người đứng ngay bên ngoài, với..."
+
+msgid "Because someone might be looking for me."
+msgstr "Dạ tại có cái người có khi là đang tìm em."
+
+msgid "An enemy!?"
+msgstr "Kẻ địch à!?"
+
+msgid "No, well... he says he's not."
+msgstr "Không, thì... cái anh đó nói không phải thế."
+
+msgid "And now he's following me around."
+msgstr "Rồi giờ cái anh đó đi theo em hoài."
+
+msgid "You made a friend!?"
+msgstr "Em có bạn rồi à!?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "No."
+msgstr "Không."
+
+msgid "I don't really trust him."
+msgstr "Em không thực sự tin tưởng cái anh này."
+
+msgid "But maybe it's better to have company! He might be willing to tag along and help!"
+msgstr "Nhưng mà có bầu có bạn vẫn tốt hơn chứ em! Biết đâu người ta sẵn lòng theo cùng giúp đỡ thì sao!"
+
+msgid "But... that's why it's strange."
+msgstr "Thì... thế cho nên mới kì lạ."
+
+msgid "Why is he willing to tag along?"
+msgstr "Tại sao cái anh đó lại sẵn lòng đi theo?"
+
+msgid "...You know how people act around me, Hiro..."
+msgstr "...Anh biết người ta cư xử với em thế nào đó..."
+
+msgid "And he's just acting...like nothing is wrong with me."
+msgstr "Thế mà cái anh đó lại ra vẻ... như là không có gì bất thường với em."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.hiro"
+msgid "Hmmm..."
+msgstr "Hừmmm..."
+
+msgid "You sound conflicted."
+msgstr "Nghe em phân vân nhỉ."
+
+msgid "Well... I don't really care, I just..."
+msgstr "Ờ thì... em chả quan tâm đâu, chỉ là..."
+
+msgid "He's just shady."
+msgstr "Cái anh đó cứ mờ mờ ám ám ấy."
+
+msgid "Well, tell you what. It's your choice."
+msgstr "Mà thôi, nói em này. Tùy em cả."
+
+msgid "You can have him tag along and see how it plays out..."
+msgstr "Em có thể cho cái anh đó đi theo cùng rồi xem xem thế nào..."
+
+msgid "...or you can ditch him."
+msgstr "...không thì đá cái anh đó đi thôi."
+
+msgid "No, well... he said he's not."
+msgstr "Không, thì... cái anh đó có nói là không phải thế."
+
+msgid "But... it doesn't matter. I already got rid of him."
+msgstr "Mà... chẳng quan trọng. Em đã tống khứ cái anh đó đi rồi."
+
+msgid "Well, I can't condone murder but..."
+msgstr "Chà, giết người thì đâu có dung thứ được, cơ mà..."
+
+msgid "No! Not like that! Hiro!"
+msgstr "Không anh! Không phải thế!"
+
+msgid "He's still somewhere around... I just slipped away for a bit."
+msgstr "Cái anh đó vẫn ở đâu đó quanh đây... Em chuồn đi một chút thôi."
+
+msgid "Well, tell you what."
+msgstr "Mà thôi, nói em này."
+
+msgid "Next time he finds you, you could try locking him up somewhere."
+msgstr "Lần sau cái anh đó mà tìm thấy em, thì em thử nhốt ảnh vào đâu đó xem."
+
+msgid "Huh... it's not like you to suggest something like that."
+msgstr "Hở... anh như thế nào mà lại bày em như thế."
+
+msgid "Well, I personally think you should have a bit of faith in him! But it's up to you."
+msgstr "Thôi, cá nhân anh nghĩ em nên có chút niềm tin vào cái anh đó! Nhưng mà tùy em cả thôi."
+
+msgid "Well, I personally think you could go back and apologize."
+msgstr "Thôi, cá nhân anh nghĩ em quay lại xin lỗi đi xem."
+
+msgid "Nothing wrong with making a friend, right? Still, it's up to you."
+msgstr "Có bạn có bè thì đâu có gì sai, đúng không? Mà vẫn là tùy em cả thôi."
+
+msgid "(Yeah... that's more like it.)"
+msgstr "(Ừ... thế mới đúng là anh chứ.)"
+
+msgid "I should go."
+msgstr "Em phải cúp máy rồi anh."
+
+msgid "Be careful, Lace."
+msgstr "Cẩn thận nhé em."
+
+msgid "Get back home safely."
+msgstr "Về nhà cho an toàn đấy."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "Yeah."
+msgstr "Dạ."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "I can't believe I'm entertaining this idea."
+msgstr "Không thể tin nổi mình lại vun đắp cái ý tưởng này."
+
+msgid "This is the stupidest thing I've ever done."
+msgstr "Đây là cái trò ngu xuẩn nhất mà mình từng làm."
+
+msgid "Just a few more trips!"
+msgstr "Vài vòng nữa thôi!"
+
+msgid "This'll work, you'll see."
+msgstr "Được mà, rồi sẽ thấy."
+
+msgid "There's no way."
+msgstr "Làm gì có chuyện."
+
+msgid "At least this is a good workout."
+msgstr "Ít ra làm thế này tập thể dục cũng tốt."
+
+msgid "(I'm not fit enough for this...)"
+msgstr "(Mình không có đủ khỏe cho cái trò này...)"
+
+msgid "Sigh... What makes you think the drain isn't connected to the water we're removing..."
+msgstr "Hầy... căn cứ vào đâu anh nghĩ đường cống đây không nối ra đống nước mình đang múc..."
+
+msgid "Hm... I don't know."
+msgstr "Hừm... tôi không biết."
+
+msgid "Well, too late to consider that now."
+msgstr "Mà giờ mới tính đến vụ đó thì muộn rồi."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(What possessed me to agree to this?)"
+msgstr "(Cái gì xui khiến mình tán thành trò này?)"
+
+msgid "We're really bonding over this, don't you think?"
+msgstr "Hai ta nhờ chuyện này mà khăng khít thật sự đấy, em nhỉ?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "One Eternity Later..."
+msgstr "Một Vĩnh Hằng Sau..."
+
+msgid "You actually did it."
+msgstr "Cậu làm được thật rồi."
+
+msgid "Congratulations!"
+msgstr "Xin chúc mừng!"
+
+msgid "This is nothing. Just wait until you hear my other ideas."
+msgstr "Chưa là gì hết. Cứ chờ đến khi nghe được mấy ý tưởng khác của tôi kìa."
+
+msgid "I very much look forward to it!"
+msgstr "Tớ chờ mong được nghe lắm đó!"
+
+msgid "Will she be okay?"
+msgstr "Mà cậu ấy không có sao chứ?"
+
+msgid "She'll be fine."
+msgstr "Khỏe lại thôi ấy mà."
+
+msgid "See? She's still breathing."
+msgstr "Thấy chưa? Vẫn còn đang thở nè."
+
+msgid "Um... will you be okay?"
+msgstr "Ừm... em không có sao chứ?"
+
+msgid "Nice! You're sturdy, aren't you?"
+msgstr "Được! Quá sung luôn em nhể?"
+
+msgid "You ready to go?"
+msgstr "Sẵn sàng đi chưa em?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "Yeah."
+msgstr "Rồi."
+
+msgid "A mop. It looks like it's never been used."
+msgstr "Cái cây giẻ lau. Trông như không được dùng bao giờ."
+
+msgid "Everything here has been gathering dust for a really long time."
+msgstr "Cái gì trong đây đều bị bám bụi bặm từ rất là lâu lắm rồi."
+
+msgid "There's something on this shelf."
+msgstr "Trên kệ này có cái gì đó."
+
+msgid "There's nothing else of use."
+msgstr "Không có gì khác được việc."
+
+msgid "A rusted sink."
+msgstr "Cái bồn rửa mặt rỉ sét."
+
+msgid "A bathroom stall. It's occupied."
+msgstr "Cái buồng xí. Có ai chiếm rồi."
+
+msgid "Try to open it anyways?"
+msgstr "Cứ mở ra thử chứ?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "Yes"
+msgstr "Mở"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Something shiny can be seen at the bottom of the toilet bowl."
+msgstr "Ở dưới đáy cái bồn cầu thấy có cái gì đó sáng bóng."
+
+msgid "Fish it out?"
+msgstr "Vớt nó ra chứ?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "Yes"
+msgstr "Vớt"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A small hand towel."
+msgstr "Cái khăn lau tay nhỏ."
+
+msgid "That took a million years."
+msgstr "Làm gì lâu quá trời quá đất."
+
+msgid "Were you talking to someone in there?"
+msgstr "Em vừa nói chuyện với ai trong đó đấy?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "No."
+msgstr "Đâu."
+
+msgid "(Did he overhear anything...?)"
+msgstr "(Ảnh nghe lỏm được cái gì không...?)"
+
+msgid "It kinda sounded like it."
+msgstr "Nghe giống vậy mà."
+
+msgid "I wasn't."
+msgstr "Không có."
+
+msgid "Oh."
+msgstr "Ồ."
+
+msgid "It's cool, I talk to myself sometimes too."
+msgstr "Sao đâu, lâu lâu tôi cũng nói chuyện một mình mà."
+
+msgid "Like having a little narrator, right?"
+msgstr "Kiểu như mang theo người tự sự nhỏ vậy, phải không em?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Find anything cool?"
+msgstr "Tìm ra gì hay ho không?"
+
+msgid "Nope."
+msgstr "Chả có."
+
+msgid "...Where did you get that?"
+msgstr "...Anh lấy đâu ra đó?"
+
+msgid "The lollipop? I had 'em with me."
+msgstr "Cây kẹo mút hả? Tôi cất trong người tôi."
+
+msgid "Want some?"
+msgstr "Muốn cái không?"
+
+msgid "I don't accept candy from strangers."
+msgstr "Tôi không nhận kẹo từ người lạ."
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai đã nhập bọn.)"

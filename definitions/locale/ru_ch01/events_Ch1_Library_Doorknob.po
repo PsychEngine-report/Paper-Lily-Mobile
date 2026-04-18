@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Dozens of books are neatly organized on the shelves."
+msgstr "Ряд аккуратно разложенных по полкам книг."
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "Из ряда книг выделяется одна безымянная. Прочитать абзац?"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_1.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Variations of rituals ______carefully documented ______ recipient."
+msgstr "Разнообразные ритуалы _____ тщательно документируются _______ получателем."
+
+msgid "Any human that enters ______ by way of a ritual is carefully tracked."
+msgstr "За каждым человеком, что смог попасть в ______ благодаря ритуалу, ведётся слежка."
+
+msgid "No accounts of humans infiltrating by their own means exist, _________ easily detected."
+msgstr "Не было обнаружено ни одного случая попадания человека в ______ своими силами, ______ легко обнаружить."
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "Из ряда книг выделяется одна безымянная. Прочитать абзац?"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_2.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Average recorded survival time of humans following ritual rules: 15 minutes."
+msgstr "Средняя продолжительность жизни человека после следования правилам ритуала: 15 минут."
+
+msgid "Average survival time ________ breaching ritual rules: 140 minutes."
+msgstr "Средняя продолжительность жизни ______ после нарушения правил ритуала: 140 минут."
+
+msgid "Average rate of adherence to the ritual rules: 98.31%"
+msgstr "Средний коэффициент людей, которые следуют правилам ритуала: 98,31%"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "Из ряда книг выделяется одна безымянная. Прочитать абзац?"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_3.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Demons can pick up on a human's soul from at least five meters away."
+msgstr "Демоны могут учуять душу человека на расстоянии от пяти метров."
+
+msgid "Exceptions exist ___________ as well as the elderly or the sick; they are less perceivable and less satiating."
+msgstr "Исключение составляют ______ а также больные или пожилые люди. Они менее заметные и сытные."
+
+msgid "Due to these factors, their value is considered to be negligible."
+msgstr "Ввиду этих факторов их ценностью можно пренебречь."
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice"
+msgid "An untitled book stands out. Read a passage?"
+msgstr "Из ряда книг выделяется одна безымянная. Прочитать абзац?"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice.An untitled book stands out. Read a passage?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Library_Doorknob.misc_books_4.choice.An untitled book stands out. Read a passage?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Demons won't hesitate to kill and consume ______"
+msgstr "Демоны без колебаний убивают и поглощают ______"
+
+msgid "_____'s regulations don't allow free consumption of souls ________ must be reported."
+msgstr "Правила _____ не допускают бесплатного потребления душ, о ________ необходимо немедленно сообщать."
+
+msgid "Any demand ________ through the appropriate channels."
+msgstr "Любые требования _______ через соответсвующие каналы."
+
+msgid "White grass is growing on the floor. It's soft to the touch."
+msgstr "На полу растёт белая трава. Она мягкая на ощупь."
+
+msgid "You can spot some faint shapes in the window."
+msgstr "Из окна можно увидеть еле заметные фигуры."

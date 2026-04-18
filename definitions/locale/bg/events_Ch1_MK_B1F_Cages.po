@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The room where you were locked in is directly under you."
+msgstr "Стаята, в която бяхте затворени, е точно под вас."
+
+msgid "You can see Sai from here. He doesn't seem to be doing anything."
+msgstr "Можете да видите Сай оттук. Той не изглежда да прави нещо."
+
+msgid "Empty bird cages."
+msgstr "Празни клетки за птици."
+
+msgid "There seems to be something strange inside the cage."
+msgstr "Изглежда, че в клетката има нещо странно."
+
+msgid "Try to get ${item:ch1.mk_hand_mirror}?"
+msgstr "Пробвай да вземеш ${item:ch1.mk_hand_mirror}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "There's nothing else in there."
+msgstr "Там няма нищо друго."
+
+msgid "The painting lady is gone."
+msgstr "Дамата, която рисува, вече я няма."
+
+msgid "A painting of a lady."
+msgstr "Картина на една дама."
+
+msgid "Her golden eye stands out..."
+msgstr "Златното ѝ око се откроява…"
+
+msgid "Pull it out?"
+msgstr "Издърпайте го?"
+
+msgid "(You don't need an extra eye, so you discarded it.)"
+msgstr "(Нямате нужда от допълнително око, затова го изхвърлихте.)"
+
+msgid "Some abstract paintings."
+msgstr "Няколко абстрактни картини."

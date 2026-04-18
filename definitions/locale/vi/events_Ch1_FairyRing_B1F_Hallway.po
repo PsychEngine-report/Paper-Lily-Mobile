@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Oh... I know where this is)."
+msgstr "(Ồ... biết cái này ở đâu ra rồi.)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "This must be under that weird fella's house."
+msgstr "Cái này chắc phải là bên dưới cái nhà của cái ông kì kì đó."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "You know, the sculptor?"
+msgstr "Cái.. ông điêu khắc đó ấy?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "Yeah."
+msgstr "Ừ."
+
+msgid "I think artists are really impressive!"
+msgstr "Tớ thấy mấy nghệ sĩ ấn tượng lắm!"
+
+msgid "(What's this..?)"
+msgstr "(Cái gì đây...?)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Not really."
+msgstr "Không rõ."
+
+msgid "Oh, it's a cranky old artist."
+msgstr "Ồ, ông đó là nghệ sĩ già gàn dở á."
+
+msgid "I've never spoken to him because he's in a bad mood when he's tired."
+msgstr "Tớ chưa nói chuyện với ổng bao giờ tại khi ổng mệt là lại nổi cáu."
+
+msgid "...And he's almost always tired."
+msgstr "...Mà hầu như lúc nào ổng cũng mệt cả."
+
+msgid "But I think artists are really impressive!"
+msgstr "Nhưng mà tớ thấy mấy nghệ sĩ ấn tượng lắm!"
+
+msgid "Sculpting is really hard..."
+msgstr "Điêu khắc nó rất là khó luôn ấy..."
+
+msgid "Especially hands..."
+msgstr "Nhất là điêu khắc tay..."
+
+msgid "I can't seem to get my hands right..."
+msgstr "Mà tớ thì chẳng làm cho tay mình ra đúng được..."
+
+msgid "(Oh, that explains...)"
+msgstr "(Ồ, ra là vậy...)"
+
+msgid "(Huh... the path is open now.)"
+msgstr "(Ủa... đường mở rồi này.)"
+
+msgid "We need to walk slowly... and uh... keep an eye out."
+msgstr "Tụi mình cần phải bước chậm... với ờ... để ý cho kĩ nha."
+
+msgid "Keep an eye out for what?"
+msgstr "Để ý cho kĩ cái gì cơ?"
+
+msgid "For... fairies."
+msgstr "Để ý... yêu tinh á."
+
+msgid "Don't you know what this place is!?"
+msgstr "Cậu không biết chỗ này là gì hả!?"
+
+msgid "Lacie, don't you know what this place is!?"
+msgstr "Lacie không biết chỗ này là gì hả!?"
+
+msgid "...No, not really."
+msgstr "...Chịu, không biết thật."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "This is the inside of a fairy ring!"
+msgstr "Chỗ này bên trong vòng yêu tinh đó!"
+
+msgid "Lacie, this is the inside of a fairy ring!"
+msgstr "Lacie ơi, chỗ này bên trong vòng yêu tinh đó!"
+
+msgid "Um..."
+msgstr "Ừm..."
+
+msgid "...The mushroom circle from outside?"
+msgstr "...Cái vòng tròn nấm chỗ ngoài đó à?"
+
+msgid "Yep. That's a fairy ring."
+msgstr "Ừ. Cái vòng yêu tinh đó đó."
+
+msgid "So this place is..."
+msgstr "Thế nơi này thì là..."
+
+msgid "Underneath that circle?"
+msgstr "Ở phía dưới cái vòng đó hả?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "Yeah."
+msgstr "Ừ."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "Oh."
+msgstr "Ồ."
+
+msgid "Can you tell me more?"
+msgstr "Cậu nói thêm đi được không?"
+
+msgid "Let's see... I only know the things everyone talks about."
+msgstr "Để coi... người ta hay bảo sao thì tớ biết thế thôi nha."
+
+msgid "For one, fairies live in fairy rings, and they're really nasty."
+msgstr "Cái thứ nhất, yêu tinh sống trong vòng yêu tinh, bọn nó gớm lắm."
+
+msgid "(Fairies...)"
+msgstr "(Yêu tinh...)"
+
+msgid "They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!"
+msgstr "Bọn nó trông cũng gớm luôn, đầu thì hình quả trứng tách rời khỏi cơ thể, màu thì trắng, răng thì to! Có con không có mắt!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "But even without the fairies, winding up inside of a fairy ring is..."
+msgstr "Mà kể cả không có yêu tinh đi, sa vào trong vòng yêu tinh là..."
+
+msgid "Well, they say you get stuck here for 7 years."
+msgstr "Thì, nghe đồn là bị kẹt ở đây 7 năm luôn."
+
+msgid "But nobody has ever escaped because they usually just die before that."
+msgstr "Nhưng mà chưa từng có ai thoát ra được bởi vì thường người ta đều chết trước cả."
+
+msgid "Oh god this is horrible, we're not gonna escape!"
+msgstr "Trời đất ơi kinh khủng quá, tụi mình không thoát được mất!"
+
+msgid "Even if we somehow make it 7 years, that's only a myth!"
+msgstr "Có ráng được 7 năm đi nữa đi thì cũng là truyền thuyết thôi!"
+
+msgid "Maybe it's meant to instill hope in the poor souls that end up here!"
+msgstr "Có khi cái đó là nhằm gieo hy vọng cho mấy sinh linh tội nghiệp bị vô đây!"
+
+msgid "LIKE US! THIS IS A DEAD END!!!"
+msgstr "NHƯ TỤI MÌNH ĐÓ! CÙNG ĐƯỜNG LUÔN RỒI!!!"
+
+msgid "Aoi."
+msgstr "Aoi."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Cut it off."
+msgstr "Cắt ngay."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "Sorry."
+msgstr "Xin lỗi."
+
+msgid "Are the fairies dangerous?"
+msgstr "Yêu tinh nó có nguy hiểm không?"
+
+msgid "Yeah..."
+msgstr "Có..."
+
+msgid "...But everything is dangerous."
+msgstr "...Nhưng mà đây gì cũng nguy hiểm hết."
+
+msgid "The floor here is also slowly digesting us."
+msgstr "Nền đất chỗ này cũng đang từ từ tiêu hóa tụi mình rồi."
+
+msgid "I guess you don't feel it because you have shoes, hehe..."
+msgstr "Cậu mang giày nên chắc không cảm thấy đâu, hê hê..."
+
+msgid "I only have socks, so it's already eating away at them..."
+msgstr "Tớ mang mỗi tất thôi, nên nó ăn dần vô rồi đây này..."
+
+msgid "(Should I offer Aoi my shoes?)"
+msgstr "(Mình có nên cho Aoi giày mình không?)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "Yes"
+msgstr "Cho"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Would you like my shoes?"
+msgstr "Cậu lấy giày của tôi không?"
+
+msgid "Whaaat? You're offering me your own shoes?!?"
+msgstr "Hảảả? Cậu cho tớ giày cậu luôn á?!?"
+
+msgid "That's so nice of you!"
+msgstr "Cậu tử tế quá á!"
+
+msgid "That's so nice, Lacie!"
+msgstr "Lacie tử tế quá á!"
+
+msgid "But no, I'll be alright. I'll just remake my feet if they start being unusable."
+msgstr "Nhưng mà thôi, tớ không sao đâu. Nếu chân tớ bắt đầu hết xài được thì cứ tạo lại thôi."
+
+msgid "It just burns but that's okay, I'm used to burns."
+msgstr "Bỏng thì bỏng thôi mà không sao, tớ bị bỏng quen rồi."
+
+msgid "...I'm used to burns..."
+msgstr "...ừ, bỏng quen rồi..."
+
+msgid "Um... okay."
+msgstr "Ừm... được rồi."
+
+msgid "(Best not...)"
+msgstr "(Tốt nhất là không...)"
+
+msgid "(Who knows what this floor will do to my feet...)"
+msgstr "(Ai biết được cái nền đất này sẽ làm gì với chân mình...)"
+
+msgid "(This person is not human, so they will probably be fine.)"
+msgstr "(Cái tên này không phải là con người, nên hẳn là ổn thôi.)"
+
+msgid "A large skeleton of an unknown creature."
+msgstr "Bộ xương lớn của sinh vật nào đó không biết."
+
+msgid "Hm...?"
+msgstr "Hừm...?"
+
+msgid "What died here...?"
+msgstr "Con gì chết đây nhỉ...?"
+
+msgid "Something big!"
+msgstr "Con gì đó bự!"
+
+msgid "Oh!"
+msgstr "Ồ!"
+
+msgid "A dragon!"
+msgstr "Con rồng!"
+
+msgid "(A dragon...!?)"
+msgstr "(Rồng à...!?)"
+
+msgid "Was I right?!"
+msgstr "Tớ đúng không nhỉ?!"
+
+msgid "Huh? How should I know?"
+msgstr "Hở? Sao tôi biết được?"
+
+msgid "Aw..."
+msgstr "Àu..."
+
+msgid "A large skeleton of a dragon."
+msgstr "Bộ xương lớn của con rồng nào đó."
+
+msgid "(Do dragons really exist in this place...?)"
+msgstr "(Ở nơi đây có rồng tồn tại thật à...?)"
+
+msgid "Isn't it so cool that humans have dragons in their world?"
+msgstr "Thế giới loài người có rồng là tuyệt lắm luôn đó không phải sao?"
+
+msgid "I'd like dragons here too."
+msgstr "Ước gì cũng có rồng nơi đây."
+
+msgid "(Never mind.)"
+msgstr "(Thôi bỏ đi.)"
+
+msgid "A large skeleton of something other than a dragon."
+msgstr "Bộ xương lớn của con gì đó khác con rồng."
+
+msgid "We sure are walking a lot."
+msgstr "Tụi mình đi bộ rõ là nhiều rồi nhỉ."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "My feet don't hurt, or anything. Don't worry!"
+msgstr "Chân tớ không có đau hay gì đâu. Khỏi lo!"
+
+msgid "I bet there's no way out..."
+msgstr "Chắc không có đường ra quá..."
+
+msgid "Hmm..."
+msgstr "Hừm..."
+
+msgid "There's always a way."
+msgstr "Luôn luôn phải có cách."
+
+msgid "(Right...?)"
+msgstr "(Phải không...?)"
+
+msgid "Whoa."
+msgstr "Whoa."
+
+msgid "I like that!"
+msgstr "Tớ ưng đó!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "The path ends here."
+msgstr "Con đường đến đây là hết."
+
+msgid "Huh...? Is there really nowhere to go from here...?"
+msgstr "Hở...? Đến chỗ này hết có đường đi được thật à...?"
+
+msgid "A large bone."
+msgstr "Cục xương lớn."
+
+msgid "A broken street lamp."
+msgstr "Cái đèn đường bị hỏng."
+
+msgid "Blue mushrooms are lining the floor."
+msgstr "Mấy cây nấm màu lam sắp hàng trên mặt đất."
+
+msgid "A bunch of rubble."
+msgstr "Mớ đá vụn."
+
+msgid "A piece of a sculpture."
+msgstr "Bức điêu khắc."
+
+msgid "A strangely-shaped pot."
+msgstr "Cái chậu có hình dáng kì lạ."
+
+msgid "There's a large hole on the floor."
+msgstr "Dưới nền đất có cái hố to."
+
+msgid "(It's deep... and dark.)"
+msgstr "(Nó sâu... với tối.)"
+
+msgid "It doesn't seem very smart to try going down there."
+msgstr "Tính đi xuống dưới đấy có vẻ là không thông minh lắm đâu."
+
+msgid "I feel like there has to be a better option than going down this hole..."
+msgstr "Tôi thấy ngoài việc xuống cái hố này thì phải có lựa chọn nào đó tốt hơn..."
+
+msgid "(We checked everywhere else but...)"
+msgstr "(Chỗ nào cũng đi ngó cả rồi ngoài...)"
+
+msgid "(If I go down there... it will be impossible to come back up...)"
+msgstr "(Nếu xuống đấy... thì sẽ hết cách đi lên lại...)"
+
+msgid "Go down the hole?"
+msgstr "Đi xuống hố chứ?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "Yes"
+msgstr "Xuống"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "...Sigh, here we go."
+msgstr "...Hầy, thôi xuống vậy."
+
+msgid "Wanna turn back?"
+msgstr "Quay lại nha?"
+
+msgid "There's nowhere else to go, so we might as well explore whatever's down there."
+msgstr "Có còn chỗ nào đi đâu, nên có khi khám phá xem dưới đấy có cái gì luôn."
+
+msgid "Okay."
+msgstr "Rùi."
+
+msgid "Going deeper down to find an exit... this isn't very smart, is it?"
+msgstr "Đi xuống sâu hơn để tìm lối ra... không được thông minh lắm nhỉ?"

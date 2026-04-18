@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "Nie chcę tego wszędzie ze sobą nosić..."
+
+msgid "(Discarded ingredients)."
+msgstr "(Wyrzucono składniki)."
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "Nadal brakuje mi wszystkich składników, by to przygotować..."
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "Brakuje mi \"Inspiracji Artysty\"..."
+
+msgid "Could it be Kett's flowers?"
+msgstr "Czyżby chodziło o kwiaty Ketta?"
+
+msgid "What in the world is that?"
+msgstr "Co to może być?"
+
+msgid "(You don't know what to do with this...)"
+msgstr "(Nie wiesz co z tym zrobić...)"
+
+msgid "You can't cut through that with scissors."
+msgstr "Nie możesz przeciąć tego za pomocą nożyczek."
+
+msgid "Some books about cursed trees."
+msgstr "Parę książek o przeklętych drzewach."
+
+msgid "Read a passage?"
+msgstr "Przeczytać fragment?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "\"Pomimo ich zazwyczaj małych rozmiarów, przeklęte drzewa mają charakterystyczny zwyczaj wydłużania swoich korzeni na długość do 60 metrów."
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "Ich korzenie sięgają jeszcze głębiej pod ziemię. Jeszcze nie ustalono jak daleko mogą sięgnąć przed zatrzymaniem się.\""
+
+msgid "Four small blue butterflies on display."
+msgstr "Cztery małe niebieskie motyle na wystawie."
+
+msgid "They're somewhat mesmerizing."
+msgstr "Są odrobinę hipnotyzujące."
+
+msgid "A large blue butterfly on display."
+msgstr "Wielki niebieski motyl na wystawie."
+
+msgid "It's kind of mesmerizing..."
+msgstr "Jest dosyć hipnotyzujący..."
+
+msgid "A small blue butterfly on display."
+msgstr "Mały niebieski motyl na wystawie."
+
+msgid "It's not as mesmerizing."
+msgstr "Nie jest aż tak hipnotyzujący."
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "Prosty zestaw alchemiczny do mieszania substancji."
+
+msgid "Some bottles and other containers."
+msgstr "Kilka butelek i innych pojemników."
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "Książka wypełniona obszernymi badaniami na temat przeróżnych materiałów."
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "W szufladach jest również adapter."
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "Wziąć ${item:ch1.forest_adapter}?"
+
+msgid "Some notes on curse removal rituals."
+msgstr "Trochę notatek na temat rytuałów usuwania klątw."
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "Wziąć ${item:ch1.red_notes}?"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "(Czy mogę to w jakiś sposób wykorzystać...?)"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "Puste biurko z którego ukradłaś parę notatek."
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "Czerwona lalka. Oba oczy są pokolorowane."
+
+msgid "I know this."
+msgstr "Słyszałam o tym."
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "To lalka, która pomaga ci spełnić twoje życzenia."
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "Wypowiadając życzenie, kolorujesz jedno oko, a lalka pomoże je spełnić."
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "W zamian, jak już osiągniesz swój cel, kolorujesz drugie oko..."
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "...w zasadzie oddając lalce jej wzrok, jako dowód wdzięczności."
+
+msgid "..."
+msgstr "..."
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "Hiro dużo czyta na ten temat."
+
+msgid "I wonder what this person's wish was."
+msgstr "Ciekawe, jakie było życzenie tej osoby."
+
+msgid "Some books about butterflies."
+msgstr "Książki o motylach."
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "\"Niebieski motyl pojawia się za każdą zniesioną klątwę."
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "Są przyciągane do przeklętych drzew i będą ryć się w pień, z czasem czyniąc go całkowicie pustym wewnątrz."
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "Przyczyna tego zachowania pozostaje nieznana.\""
+
+msgid "A furnace."
+msgstr "Piec."
+
+msgid "Inside is a... thing."
+msgstr "W środku leży... coś."
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "Czy to... sztuka? Wygląda to jak skorupa jakiejś rzeźby."
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "Mogłaby by się nadać dla Kozma, ale pewnie mnie za to znienawidzi."
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "Wziąć ${item:ch1.red_pot}?"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "Zbiór nieukończonych notatek na temat zdejmowania klątw."
+
+msgid "I don't really understand any of this."
+msgstr "Nic z tego nie rozumiem."
+
+msgid "A small plant."
+msgstr "Niewielka roślina."
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "Jej liście wyglądają, jakby były zawiązane w kokardę."
+
+msgid "A plant that looks like a bow."
+msgstr "Roślina, która wygląda jak wstążka związana w kokardę."
+
+msgid "Some purple mushrooms are growing here."
+msgstr "Rośnie tu grupka fioletowych grzybów."
+
+msgid "Some black mushrooms are growing here."
+msgstr "W tym miejscu rośnie sporo czarnych grzybów."
+
+msgid "Some pink plants are growing here."
+msgstr "Tutaj są zasadzone jakieś różowe rośliny."
+
+msgid "The carpet here seems suspicious."
+msgstr "Dywan wygląda podejrzanie w tym miejscu."
+
+msgid "Take a closer look?"
+msgstr "Przyjrzeć się bliżej?"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "Jest tu drabina, ale zejście niżej jest zamknięte na kłódkę."
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "Artykuły ogrodnicze leżą na półce."
+
+msgid "A tree filled with blue butterflies."
+msgstr "Drzewo pełne niebieskich motyli."
+
+msgid "Thin vertical windows."
+msgstr "Wąskie pionowe okna."

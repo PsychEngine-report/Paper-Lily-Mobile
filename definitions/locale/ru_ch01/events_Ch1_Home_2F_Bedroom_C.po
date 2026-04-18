@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There are colored thread rolls inside."
+msgstr "Здесь клубком смотаны разноцветные нити."
+
+msgid "The red thread may be useful."
+msgstr "Красная может пригодиться."
+
+msgid "Take ${item:ch1.thread}?"
+msgstr "Взять предмет: ${item:ch1.thread}?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "My parents' bed."
+msgstr "Кровать моих родителей."
+
+msgid "A bookshelf with complicated books."
+msgstr "Книжный шкаф со сложными книженциями."
+
+msgid "Black... Black... No red markers here."
+msgstr "Чёрный... чёрный... красного маркера здесь нет."
+
+msgid "Maybe in my room?"
+msgstr "Может, найдётся у меня в комнате?"
+
+msgid "Maybe downstairs?"
+msgstr "Может, найдётся на первом этаже?"
+
+msgid "A classic alarm clock."
+msgstr "Классический будильник."
+
+msgid "Father doesn't trust the alarm app."
+msgstr "Папа не доверяет будильникам в телефонах."
+
+msgid "A computer chair."
+msgstr "Стул на колёсиках."
+
+msgid "A computer chair. Yours is better."
+msgstr "Стул на колёсиках. Ваш лучше."
+
+msgid "An older computer."
+msgstr "Старенький компьютер."
+
+msgid "It's mostly for spreadsheets, so you can't game on it."
+msgstr "На нём обычно работают с таблицами, так что в игры на нём не поиграть."
+
+msgid "A plant."
+msgstr "Растение."
+
+msgid "A plant. We have several like this one."
+msgstr "Растение. У нас таких несколько."
+
+msgid "A sewing kit."
+msgstr "Набор для шитья."
+
+msgid "A shelf with nothing of interest."
+msgstr "Шкаф, в котором нет ничего интересного."
+
+msgid "The wardrobe. It doesn't close well anymore."
+msgstr "Шкаф для одежды. Он не закрывается полностью."
+
+msgid "Something is written on the door:"
+msgstr "На дверце что-то написано:"
+
+msgid "\"The wardrobe is stuffy, isn't it? You almost can't breathe in there."
+msgstr "\"В шкафу душновато, не так ли? Там даже подышать нельзя."
+
+msgid "You almost stopped breathing. Take a deep breath, Lacie.\""
+msgstr "Ты почти уже не дышишь. Вдохни поглубже, Лэйси.\""
+
+msgid "Open it?"
+msgstr "Открыть его?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A cold breeze blows from inside."
+msgstr "Оттуда дует прохладный ветерок."
+
+msgid "There's a few clothes inside."
+msgstr "Внутри висит одежда."

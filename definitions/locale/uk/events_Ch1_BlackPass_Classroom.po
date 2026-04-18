@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hey, where do you think you're going?"
+msgstr "Агов, куди пішла?"
+
+msgid "..."
+msgstr "..."
+
+msgid "There she is."
+msgstr "Ось вона."
+
+msgid "That's her?"
+msgstr "Точно вона?"
+
+msgid "She's so cursed that the bird dropped dead."
+msgstr "Вона настільки проклята, що пташка просто загинула."
+
+msgid "If she can make a bird die, I wonder what she could do to people."
+msgstr "Якщо вона може вбивати пташок, навіть не знаю, що вона може робити з людьми."
+
+msgid "What a freak."
+msgstr "От потвора."
+
+msgid "Hey, you killed that poor bird."
+msgstr "Чуєш, ти вбила цю бідну пташку."
+
+msgid "...N-no..."
+msgstr "...Н-ні..."
+
+msgid "It flew into the window next to YOUR seat."
+msgstr "Вона влетіла у вікно поруч з ТВОЄЮ партою."
+
+msgid "...but.. I didn't..."
+msgstr "...але... я нічого не робила..."
+
+msgid "It died because of you."
+msgstr "Вона через тебе померла."
+
+msgid "This is your fault."
+msgstr "Це все твоя провина."
+
+msgid "Aargh!"
+msgstr "А-а-а!"
+
+msgid "........"
+msgstr "..."
+
+msgid "What the hell!?"
+msgstr "Якого дідька?!"
+
+msgid "Did she kill him?"
+msgstr "Вона його вбила?"
+
+msgid "Is he dead?"
+msgstr "Він мертвий?"
+
+msgid "MURDERER!"
+msgstr "ВБИВЦЯ!"
+
+msgid "MURDERER! MURDERER! MURDERER!"
+msgstr "ВБИВЦЯ! ВБИВЦЯ! ВБИВЦЯ! "
+
+msgid "....."
+msgstr "..."
+
+msgid "Wait... what are you doing!?"
+msgstr "Чекай... що ти робиш?!"
+
+msgid "I'm doing something, unlike you."
+msgstr "Принаймні щось, на відміну від вас."
+
+msgid "AAAAH!"
+msgstr "А-А-А!"
+
+msgid "She killed him!"
+msgstr "Вона його вбила!"
+
+msgid "Oh my god! She's crazy!"
+msgstr "О господи! Вона скажена!"
+
+msgid "Pick up ${item:global.reditem_3}?"
+msgstr "Взяти предмет: ${item:global.reditem_3}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "This isn't my fault..."
+msgstr "Я не винна..."
+
+msgid "Can't believe you're still acting innocent."
+msgstr "Не вірю, що ти досі вдаєш із себе білу й пухнасту."
+
+msgid "You disgust me."
+msgstr "Ти огидна."
+
+msgid "You cause nothing but ruin everywhere you go!"
+msgstr "Куди б ти не пішла, ти всюди несеш із собою лиха!"
+
+msgid "I-I'm sorry... I'm really sorry... I don't do it on purpose... I didn't do anything..."
+msgstr "Б-благаю... пробачте мені... я ж не навмисно... я нічого не робила..."
+
+msgid "Maybe you SHOULD do something..."
+msgstr "Може, тобі СЛІД щось зробити..."
+
+msgid "...Huh?"
+msgstr "...Га?"
+
+msgid "...To make it up to us. Why don't you take responsibility for messing up everything?"
+msgstr "...Щоб загладити перед нами провину. Чом би тобі не відповісти за свої дії?"
+
+msgid "...H-How...?"
+msgstr "...Як?.."
+
+msgid "Hmmm."
+msgstr "М-м."
+
+msgid "Make her eat it!"
+msgstr "Нехай з'їсть її!"
+
+msgid "Yeah! Eat the bird!"
+msgstr "Точно! Жери пташку!"
+
+msgid "...What..?!"
+msgstr "...Що?!.."
+
+msgid "You heard them."
+msgstr "Ти все чула."
+
+msgid "Eat it, witch."
+msgstr "Їж, відьмо."
+
+msgid "If you eat it, maybe we'll forgive you."
+msgstr "Якщо з'їси, ми, може, тебе й пробачимо."
+
+msgid "Eat the bird, murderer."
+msgstr "Їж пташку, вбивце."
+
+msgid "(This isn't real...)"
+msgstr "(Це все не насправді...)"
+
+msgid "(Do I really have to do this...?)"
+msgstr "(Невже я маю це робити?..)"
+
+msgid "Eat the bird"
+msgstr "З'їсти пташку"
+
+msgid "Do not"
+msgstr "Нічого не робити"
+
+msgid "Take the _____"
+msgstr "Взяти _____"
+
+msgid "(Will this get them to stop...?)"
+msgstr "(Це змусить їх замовкнути?..)"
+
+msgid "(Ugh... I feel sick...)"
+msgstr "(Гх… мене страшно нудить...)"
+
+msgid "She actually did it! She's insane!"
+msgstr "Вона реально це зробила! Навіжена!"
+
+msgid "She's such a freak! HAHAHAHA!"
+msgstr "Яка ж вона огидна! ХА-ХА-ХА-ХА!"
+
+msgid "HAHAHAHA It's all bloody now!"
+msgstr "ХА-ХА-ХА-ХА! Тут тепер усюди кров!"
+
+msgid "HAHAHAHAHA"
+msgstr "ХА-ХА-ХА-ХА!"
+
+msgid "HAHAHAHAHAHAHAHAHAHAHA"
+msgstr "ХА-ХА-ХА-ХА-ХА-ХА-ХА-ХА!"
+
+msgid "Stab self"
+msgstr "Штрикнути себе"
+
+msgid "(This dream...)"
+msgstr "(Це сон...)"
+
+msgid "(The easiest way to get out...)"
+msgstr "(А це найлегший спосіб вибратися звідси...)"
+
+msgid "(It's obvious, isn't it?)"
+msgstr "(Хіба не так?)"
+
+msgid "...Ah! It hurts! ...it hurts..."
+msgstr "...А! Боляче... боляче..."
+
+msgid "...When am I waking up..."
+msgstr "...Якщо я прокинусь..."
+
+msgid "...Let this stupid... nightmare... end..."
+msgstr "...Нехай цей... кошмар... закінчиться..."
+
+msgid "...Why..."
+msgstr "...Чому..."
+
+msgid "...It's just a dream... so why..."
+msgstr "...Це лише сон... чому..."
+
+msgid "...It hurts..."
+msgstr "...мені так боляче..."
+
+msgid "Do nothing"
+msgstr "Нічого не робити"
+
+msgid "There's nothing else to do here."
+msgstr "Тут більше нічого робити."
+
+msgid "Sorry, I can't let you pass."
+msgstr "Вибач, не можу тебе пропустити."
+
+msgid "Please?"
+msgstr "Будь ласка?"
+
+msgid "Just do what they say."
+msgstr "Просто роби як вони кажуть."
+
+msgid "(A strong force prevents you from entering the wardrobe.)"
+msgstr "(Якась сила заважає вам залізти у шафу.)"
+
+msgid "(Push through?)"
+msgstr "(Проштовхнутися?)"
+
+msgid "\"MURDERER\""
+msgstr "\"ВБИВЦЯ\""
+
+msgid "The passageway has closed behind you."
+msgstr "Прохід за вами закрився."

@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I just need to open my locker, and then the closet to end this."
+msgstr "Só preciso de abrir o meu cacifo e depois o armário para acabar com isto."
+
+msgid "My locker is..."
+msgstr "O meu cacifo é..."
+
+msgid "It's pretty obvious, isn't it?"
+msgstr "É bastante óbvio, não é?"
+
+msgid "This isn't your locker."
+msgstr "Este não é o teu cacifo."
+
+msgid "A locker."
+msgstr "Um cacifo."
+
+msgid "Huh? What's that red thing? It's the first time I see it."
+msgstr "Hã? O que é aquela coisa vermelha? É a primeira vez que a vejo."
+
+msgid "There's nothing else to see here."
+msgstr "Não há mais nada para ver aqui."
+
+msgid "..."
+msgstr "..."
+
+msgid "Trash fills your locker."
+msgstr "O teu cacifo está cheio de lixo."
+
+msgid "What a mess."
+msgstr "Que confusão."
+
+msgid "\"Welcome back, Lacie."
+msgstr "\"Bem-vinda, Lacie."
+
+msgid "We've missed you at school."
+msgstr "Tivemos saudades tuas na escola."
+
+msgid "You'll have a lot to catch up on, so your classmates organized the reading material for you."
+msgstr "Terás muito para pôr em dia. Os teus colegas organizaram os apontamentos para ti."
+
+msgid "You can find it in your locker."
+msgstr "Está tudo no teu cacifo."
+
+msgid "Please be sure to look over everything carefully."
+msgstr "Não te esqueças de ler tudo com atenção."
+
+msgid "You wouldn't want to fail the year.\""
+msgstr "Não é bom chumbar o ano.\""
+
+msgid "...sigh."
+msgstr "...Haaahhh."
+
+msgid "...Blah blah blah."
+msgstr "...Blá blá blá."
+
+msgid "It's always the same text."
+msgstr "O texto é sempre o mesmo."
+
+msgid "The note will be back in this spot next time, even if I crumple it."
+msgstr "O bilhete vai voltar a estar neste sítio outra vez, mesmo que o amasse."
+
+msgid "Peace and quiet."
+msgstr "Paz e sossego."
+
+msgid "Nah, it's better like this."
+msgstr "Nah, é melhor assim."
+
+msgid "...Heh... never gets old."
+msgstr "...Heh... Nunca envelhece."
+
+msgid "Pick up ${item:global.reditem_1}?"
+msgstr "Levar o ${item:global.reditem_1}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "It's the exit."
+msgstr "É a saída."
+
+msgid "It doesn't open until I check the locker..."
+msgstr "Só abre quando eu vejo o cacifo..."
+
+msgid "Blindingly white light is all you can see."
+msgstr "Só se vê uma luz branca e ofuscante."
+
+msgid "Students, laughing at you."
+msgstr "Alunos a rirem-se de ti."
+
+msgid "...I hate them."
+msgstr "...Odeio-os."
+
+msgid "The passageway has closed behind you."
+msgstr "A passagem fechou-se atrás de ti."

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no boat."
+msgstr "Лодка пропала."
+
+msgid "Only red."
+msgstr "Здесь лишь красная вода."
+
+msgid "A red rabbit."
+msgstr "Красный кролик."
+
+msgid "It's not breathing."
+msgstr "Он не дышит."
+
+msgid "The crow that was here is gone."
+msgstr "Сидевшая здесь ворона пропала."
+
+msgid "Wooden logs stick out from the bloody water."
+msgstr "Из кровавой воды торчат деревянные колоды."
+
+msgid "A note is attached to the tree. It says:"
+msgstr "К дереву прилеплена записка. В ней написано:"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVED MEAT\n"
+"HATED WATER\""
+msgstr ""
+"\"ЧУДОВИЩЕ\n"
+"ЛЮБИЛО МЯСО\n"
+"НЕ ЛЮБИЛО ВОДУ\""
+
+msgid "The way to the temple is sealed off."
+msgstr "Путь к храму закрыт."
+
+msgid "Nothing but trees here."
+msgstr "Здесь лишь деревья."
+
+msgid "The way back seems to be gone."
+msgstr "Путь назад исчез."
+
+msgid "This way is closed off by trees."
+msgstr "Этот путь преграждают деревья."

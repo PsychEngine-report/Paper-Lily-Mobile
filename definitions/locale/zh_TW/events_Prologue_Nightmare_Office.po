@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no keyhole on the door."
+msgstr "門上沒有鑰匙孔。"
+
+msgid "The bookshelf towers over your small figure."
+msgstr "書架聳立於妳嬌小的身軀前。"
+
+msgid "The bookshelf has always felt too large for comfort."
+msgstr "書架的大小一直讓我感到不舒服。"
+
+msgid "The bookshelf is filled with hard to read books."
+msgstr "書架塞滿了艱澀難懂的書本。"
+
+msgid "The bookshelf has books with titles you can't even pronounce."
+msgstr "書架上有妳根本無法唸出書名的書。"
+
+msgid "A pile of science books."
+msgstr "一堆科學相關書本。"
+
+msgid "A pile of science books. Many pages are bookmarked."
+msgstr "一堆科學相關書本。很多頁都有書籤。"
+
+msgid "Books on out-of-body experiences."
+msgstr "靈魂出竅體驗的書本。"
+
+msgid "A pile of books. The top one is called \"Depictions of psychological trauma in research patients.\""
+msgstr "一堆書本。最上面的標題是\"研究患者的心理創傷描述。\""
+
+msgid "A pile of anatomy textbooks."
+msgstr "一堆解剖學課本。"
+
+msgid "What the hell."
+msgstr "什麼鬼。"
+
+msgid "Was that...?"
+msgstr "那是...？"
+
+msgid "Was that...!?"
+msgstr "那是...！？"
+
+msgid "No. It wasn't."
+msgstr "不。不是。"
+
+msgid "It's just an empty couch."
+msgstr "只是張空沙發。"
+
+msgid "A familiar desk."
+msgstr "熟悉的桌子。"
+
+msgid "______val of souls from_____avel below the_____ot follow instructions____velope______."
+msgstr "___的靈魂來自___之下___跟隨著___的指引。"
+
+msgid "It's too hazy to read."
+msgstr "讀起來太模糊了。"
+
+msgid "A story book and a photo of someone."
+msgstr "故事書和某人的照片。"
+
+msgid "Some books on physiological changes in humans in specific environments."
+msgstr "關於人類在特定環境下生理變化的書本。"
+
+msgid "There's also a notebook filled with rough scribbles and notes."
+msgstr "還有填滿潦草的塗鴉和筆記的筆記本。"
+
+msgid "A painting of a vague memory."
+msgstr "描繪著模糊記憶的畫作。"
+
+msgid "..."
+msgstr "..."
+
+msgid "A trashcan filled with blank pieces of paper."
+msgstr "裝滿白紙的垃圾桶。"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "Just what is this place..."
+msgstr "這到底是什麼地方..."
+
+msgid "Not interested, huh?"
+msgstr "不感興趣嗎？"
+
+msgid "So? What do you think? I can see everything that's in your head."
+msgstr "那麼，妳怎麼看？我可以看穿你的思緒。"
+
+msgid "You really should make an effort to be more lively."
+msgstr "妳真的該試著變得活潑一點。"
+
+msgid "You only have until I decide I'm done playing around with you, you know?"
+msgstr "我玩夠了才會放妳走，知道嗎？"
+
+msgid "And then..."
+msgstr "然後..."
+
+msgid "...snap."
+msgstr "...啪。"
+
+msgid "The door you came through won't open anymore."
+msgstr "妳先前進入的門無法再打開了。"

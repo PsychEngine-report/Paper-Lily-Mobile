@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This locker has no keyhole."
+msgstr "Ця шафа не має замкової щілини."
+
+msgid "They're already open, so there's nothing to cut."
+msgstr "Вони вже відкриті, не треба нічого різати."
+
+msgid "Boxes filled to the brim with cleaning products."
+msgstr "Коробки, переповнені мильними засобами."
+
+msgid "It's packed with white chalk and nothing else."
+msgstr "Тут є лише купа білої крейди."
+
+msgid "This must be like... a year's supply."
+msgstr "Його тут вистачить принаймні на рік."
+
+msgid "..."
+msgstr "..."
+
+msgid "They're packed too tightly, I can't pull any out."
+msgstr "Вони так щільно приставлені одне до одного... мені не вдасться дістати жодну."
+
+msgid "Some boxes filled with left shoes and lighters."
+msgstr "Деякі коробки заповнені лівими черевиками та запальничками."
+
+msgid "Some brand new brooms."
+msgstr "Досить нові мітли."
+
+msgid "A calendar... probably."
+msgstr "Календар... напевно."
+
+msgid "There are no dates or month names in it."
+msgstr "У ньому немає ні чисел, ні місяців."
+
+msgid "A cleaning cart."
+msgstr "Візок для прибирання."
+
+msgid "It's sparkling clean."
+msgstr "Такий чистий, що аж блищить."
+
+msgid "A lamp. There's no light bulb nor a slot to place one."
+msgstr "Лампа. Лампочка відсутня і всунути її немає куди."
+
+msgid "A large locker. It's sealed shut."
+msgstr "Велика шафа. Вона щільно зачинена."
+
+msgid "A trash can. You can't see the bottom."
+msgstr "Відро для сміття. Ви не бачите дно."
+
+msgid "That's... weird."
+msgstr "Це так... дивно."
+
+msgid "What is?"
+msgstr "Що саме?"
+
+msgid "The existence of this room... makes no sense."
+msgstr "Сама ця кімната... позбавлена сенсу."
+
+msgid "What do you mean?"
+msgstr "Тобто?"
+
+msgid "Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside."
+msgstr "Якщо враховувати форму школу, то тут не повинно бути ніякої кімнати. Вона має літати десь за межами школи."
+
+msgid "Interesting..."
+msgstr "Цікаво..."
+
+msgid "But... we didn't even finish the ritual! What's happening?"
+msgstr "Але... ми навіть не завершили ритуал! Що відбувається?"
+
+msgid "I don't know..."
+msgstr "Уявлення не маю..."
+
+msgid "Isn't it exciting!?"
+msgstr "А це хіба не захоплююче?!"
+
+msgid "Let's keep going."
+msgstr "Нумо далі."

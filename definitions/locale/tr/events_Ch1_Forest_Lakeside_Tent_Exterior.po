@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What to do?"
+msgstr "Ne yapacağım?"
+
+msgid "Kill it here"
+msgstr "Burada öldür"
+
+msgid "Release it around this area"
+msgstr "Buraya bir yere bırak"
+
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgid "It's not wise to do that here."
+msgstr "Bunu burada yapmak zekice değil."
+
+msgid "I don't think I should release it so close to them..."
+msgstr "Birbirlerine bu kadar yakın bırakmamam gerektiğini düşünüyorum."
+
+msgid "HEY! I'M WATCHING YOU!"
+msgstr "HEY! SENİ İZLİYORUM!"
+
+msgid "IF YOU LET THAT SHIT FREE I'LL COME OUT AND KILL YOU BOTH MYSELF!!!"
+msgstr "EĞER O ŞEYİ ÖZGÜR BIRAKITSAN... GELİRİM... ÖNCE SENİ, SONRA KENDİMİ ÖLDÜRÜRÜM!!!"
+
+msgid "(...Sorry...)"
+msgstr "(...Üzgünüm...)"
+
+msgid "A rudimentary lamp."
+msgstr "İlkel bir lamba."
+
+msgid "A tent. Looks rather cozy."
+msgstr "Bir çadır. Oldukça rahat görünüyor."
+
+msgid "There's nothing particularly interesting about the backside of the tent."
+msgstr "Çadırın arkasında özel olarak ilginç duran bir şey yok."
+
+msgid "Stay away!!!"
+msgstr "Uzak dur!!!"

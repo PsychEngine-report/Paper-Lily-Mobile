@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Psst..."
+msgstr "嘶..."
+
+msgid "Over here."
+msgstr "来这里。"
+
+msgid "Oh. A human."
+msgstr "哦。人类。"
+
+msgid "I see."
+msgstr "嗯。"
+
+msgid "Strange."
+msgstr "真奇怪。"
+
+msgid "How did you make it all the way here?"
+msgstr "你是怎么来到这里的？"
+
+msgid "Um..."
+msgstr "唔..."
+
+msgid "Well, no matter."
+msgstr "好吧，没关系。"
+
+msgid "This isn't ideal but..."
+msgstr "虽然不是很理想，但..."
+
+msgid "...It'll do, I suppose."
+msgstr "...我想应该也可以。"
+
+msgid "Who are you?"
+msgstr "你是谁？"
+
+msgid "I do not have a name."
+msgstr "我没有姓名。"
+
+msgid "(What was that..?)"
+msgstr "（那是什么..？）"
+
+msgid "Miss Knives is roaming around."
+msgstr "莉刃小姐正在四处游荡。"
+
+msgid "Miss Knives..."
+msgstr "莉刃小姐..."
+
+msgid "I think I met her."
+msgstr "我想我已经见过她了。"
+
+msgid "Yes, I saw that."
+msgstr "是的，我看到那一幕了。"
+
+msgid "You really brought out the \"crazy\" in her."
+msgstr "你真的把她“气飙”了。"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I didn't exactly do anything...)"
+msgstr "（我什么也没做...）"
+
+msgid "I need to find a way out of this place."
+msgstr "我需要找到离开此处的方法。"
+
+msgid "I'm looking for a cursed door."
+msgstr "我在找一扇被诅咒的门。"
+
+msgid "Of course."
+msgstr "当然。"
+
+msgid "We have a common goal."
+msgstr "我们有一个共同目的。"
+
+msgid "To avoid you wandering aimlessly until you get killed..."
+msgstr "为了避免你在被杀死之前，都要漫无目的地游荡..."
+
+msgid "...I'll help you."
+msgstr "...我会帮助你。"
+
+msgid "Alright."
+msgstr "太好了。"
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "Why don't you have a name?"
+msgstr "你为什么没有名字？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.choice.So..."
+msgid "How do I get out of here?"
+msgstr "我要怎么从这里出去？"
+
+msgid "My items are gone"
+msgstr "我的东西不见了"
+
+msgid "You don't have a name?"
+msgstr "你没有名字吗？"
+
+msgid "I wasn't given one."
+msgstr "没人给我起名。"
+
+msgid "But when you live a solitary life, you don't need a name."
+msgstr "当你过着孤独的生活时，是不需要名字的。"
+
+msgid "You're free to call me what you wish."
+msgstr "你叫我什么都可以。"
+
+msgid "You humans seem to want to name everything."
+msgstr "你们人类看起来想给予所有事物以姓名。"
+
+msgid "I'll call you Spider."
+msgstr "就叫你蜘蛛吧。"
+
+msgid "That's a terrible name."
+msgstr "真是个糟糕的名字。"
+
+msgid "Do you call other humans \"Human\"?"
+msgstr "你会叫别的人类“人类”吗？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.dlg.lacie"
+msgid "How do I get out of here?"
+msgstr "我要怎么从这里出去？"
+
+msgid "There are several strange objects scattered around this place."
+msgstr "此处散落着几件奇异的物品。"
+
+msgid "After you find them, you'll need to figure out how to unseal them."
+msgstr "一旦你找到了它们，你需要弄清楚解封它们的方法。"
+
+msgid "How will I know what I'm looking for?"
+msgstr "我要怎么知道，我要找什么东西？"
+
+msgid "You'll know it when you see it."
+msgstr "当你看到它时，你会明白的。"
+
+msgid "...Okay."
+msgstr "...好吧。"
+
+msgid "By the way..."
+msgstr "顺带一提..."
+
+msgid "I came in here with a lot of things but... they're all gone."
+msgstr "我带着很多东西过来的，但是...它们全部不见了。"
+
+msgid "If I don't get them back..."
+msgstr "如果我找不回来的话..."
+
+msgid "Don't worry. You'll have them if you get out of here."
+msgstr "不要担心。当你出去的时候，它们会回来的。"
+
+msgid "I hear her coming."
+msgstr "我听到她的脚步了。"
+
+msgid "You need to hide."
+msgstr "你要躲起来。"
+
+msgid "Huh?"
+msgstr "啊？"
+
+msgid "Go, now!"
+msgstr "快跑，就现在！"
+
+msgid "Oh..."
+msgstr "哦..."
+
+msgid "The door is gone.."
+msgstr "门不见了..."
+
+msgid "The door has no keyhole."
+msgstr "这扇门没有钥匙孔。"
+
+msgid "Looks like a guest book. It has no signatures."
+msgstr "看起来像是一本留言簿。没有签名。"
+
+msgid "A large couch."
+msgstr "一张大沙发。"
+
+msgid "An empty flower vase."
+msgstr "空花瓶。"
+
+msgid "Purple flowers in a vase."
+msgstr "花瓶里插着紫色的花。"
+
+msgid "I could use these flowers..."
+msgstr "我可以利用这些花..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "要把花带给植物吗？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_flowers.choice.Bring the flowers to the plant?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_flowers.choice.Bring the flowers to the plant?"
+msgid "No"
+msgstr "否"
+
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"
+
+msgid "A coat hanger."
+msgstr "一个衣架。"
+
+msgid "I'm keeping mine on."
+msgstr "我要继续穿我的衣服。"
+
+msgid "A floor lamp."
+msgstr "一盏落地灯。"
+
+msgid "A portrait of a person with tentacles for a head."
+msgstr "一幅头部长满触手的人物肖像。"
+
+msgid "A portrait of a girl with very long nails."
+msgstr "一幅有着修长指甲的女孩肖像。"
+
+msgid "A portrait of a person with horns."
+msgstr "一幅长角的人物肖像。"
+
+msgid "A portrait of a person with a flower pot for a head."
+msgstr "一幅头部是花盆的人物肖像。"
+
+msgid "They must smell really nice."
+msgstr "闻起来肯定很香。"
+
+msgid "A portrait of a person with a butterfly on their face."
+msgstr "一幅脸上挂着一只蝴蝶的人物肖像。"
+
+msgid "Is the butterfly a part of their face? Or just resting on it?"
+msgstr "蝴蝶是它脸的一部分？还是说，只是停在它脸上？"
+
+msgid "A portrait of a person with one eye."
+msgstr "一幅单眼人的画像。"
+
+msgid "A portrait of a person with blood running down their face."
+msgstr "一幅脸上血流不止的人物肖像。"
+
+msgid "Can they see properly?"
+msgstr "它看得清楚东西吗？"
+
+msgid "A portrait of a person with flowers for eyes."
+msgstr "一幅以花为眼的人的肖像。"
+
+msgid "A portrait of several characters with big eyes."
+msgstr "一幅有着几个长着大眼睛的角色的画像。"
+
+msgid "A portrait of a person with an octopus plush for a head."
+msgstr "一幅头部是章鱼毛绒玩具的人物肖像。"
+
+msgid "A portrait of a scary lady. There's a grinning person above it."
+msgstr "一幅画着可怕女士的肖像。上面有一个咧嘴笑的人。"
+
+msgid "Both look unsettling..."
+msgstr "看起来都很令人不安..."
+
+msgid "A painting that's mostly just blue."
+msgstr "一幅大体上只有蓝色的画作。"
+
+msgid "Touch it?"
+msgstr "要碰它吗？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_painting_blue.choice.Touch it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_painting_blue.choice.Touch it?"
+msgid "No"
+msgstr "否"
+
+msgid "A bunch of blue powder sticks to your finger."
+msgstr "一些蓝色粉末沾到了你的手指上。"
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "这个很容易刮下并收集起来，就是你得有能把它装着的东西。"
+
+msgid "(You wipe it off.)"
+msgstr "（你把它擦掉了。）"
+
+msgid "Creepy portraits adorn the walls."
+msgstr "墙上装饰着令人毛骨悚然的肖像。"
+
+msgid "A broken pot where Spider was."
+msgstr "破盆罐，蜘蛛曾在里面。"
+
+msgid "There's something here..."
+msgstr "这里有什么东西..."
+
+msgid "Take ${item:ch1.rainbow_potion_tmp}?"
+msgstr "要取走${item:ch1.rainbow_potion_tmp}吗？"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_pot.choice.Take ${item:ch1.rainbow_potion_tmp}?"
+msgid "Yes"
+msgstr "是"
+
+msgid "A vase with a single flower."
+msgstr "放着一朵花的花瓶。"
+
+msgid "There's nothing here."
+msgstr "这里什么也没有。"
+
+msgid "It's no use... It's just a wall now."
+msgstr "没用的...现在，这就只是一堵墙罢了。"
+
+msgid "You can hear someone crying inside."
+msgstr "你能听到有人在里面哭泣。"
+
+msgid "You can hear someone singing on the other side."
+msgstr "你能听到有人在另一头唱歌。"

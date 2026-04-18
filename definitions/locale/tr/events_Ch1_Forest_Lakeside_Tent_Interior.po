@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Please hurry, or my sister will kill us both."
+msgstr "Lütfen acele et, yokda kız kardeşim ikimizi de öldürecek."
+
+msgid "Here or outside is fine."
+msgstr "Burası ya da dışarısı iyi."
+
+msgid "We really appreciate it."
+msgstr "Gerçekten minnettarız."
+
+msgid "Hurry the hell up already!"
+msgstr "Acele et artık!"
+
+msgid "What are you doing?"
+msgstr "Ne yapıyorsun?"
+
+msgid "Don't babysit him, KILL HIM!"
+msgstr "Ona bebek bakıcılığı yapma, ÖLDÜR ONU!"
+
+msgid "Oh my god. The silence. It's so damn good."
+msgstr "Aman tanrım. Sessizlik. Çok gürültülü."
+
+msgid "Here you go, you earned it."
+msgstr "Al bakalım, hak ettin."
+
+msgid "Not sure why you'd want this though."
+msgstr "Bunu neden istedin anlamadım ama neyse."
+
+msgid "Thanks."
+msgstr "Sağol."
+
+msgid "Thank the cursed heavens it's gone."
+msgstr "Tanrıya şükürler olsun ki gitti."
+
+msgid "Alright, I guess I'll just..."
+msgstr "Pekala, sanırım ben..."
+
+msgid "Yes, kill it. Do it."
+msgstr "Evet, gebert onu. Yap."
+
+msgid "Quickly."
+msgstr "Hızlıca."
+
+msgid "HUZZAH!!!!!"
+msgstr "HURRAA!!!!!"
+
+msgid "Finally."
+msgstr "Sonunda."
+
+msgid "Dead dead dead!"
+msgstr "Ölü ölü ölü!"
+
+msgid "You'll kill him???"
+msgstr "Onu öldürecek misin???"
+
+msgid "I guess so."
+msgstr "Galiba."
+
+msgid "THANK THE HEAVENS."
+msgstr "ŞÜKÜRLER OLSUN."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.ch1_terrarium"
+msgid "..."
+msgstr "..."
+
+msgid "You shut the hell up. You're dead meat, jerk."
+msgstr "Kapa çeneni. Öldün sen, pislik."
+
+msgid "Farewell, little brother. It has been a displeasure."
+msgstr "Hoşçakal, küçük kardeşim. "
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(What now...?)"
+msgstr "(Şimdi ne olacak...?)"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Kill it here"
+msgstr "Onu burada öldür"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Do not"
+msgstr "Yapma"
+
+msgid "Why're you carrying a bucket?"
+msgstr "Neden bir kova taşıyorsun?"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_bucket_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(To be honest, I'm not so sure myself.)"
+msgstr "(Açıkçası, ben de emin değilim.)"
+
+msgid "(Um...)"
+msgstr "(Um...)"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Kill it here"
+msgstr "Onu burada öldür"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Do not"
+msgstr "Yapma"
+
+msgid "What's taking so long?!"
+msgstr "Niye bu kadar uzun sürdü?!"
+
+msgid "...Damn. That was pretty metal."
+msgstr "... Vay be. Bu çok sağlamdı.  "
+
+msgid "It stinks though."
+msgstr "İğrenç kokuyor."
+
+msgid "No take backs!"
+msgstr "Geri dönüş yok!"
+
+msgid "Dang."
+msgstr "Kahretsin."
+
+msgid "Huh... he's a lot quieter when he's with you."
+msgstr "Huh... seninleyken daha sessiz."
+
+msgid "Maybe he's anticipating his demise!?"
+msgstr "Belki de ölümünü bekliyordur!?"
+
+msgid "Oh man, can't wait!!!"
+msgstr "Dostum, sabırsızlanıyorum!!!"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I don't need to see him anymore."
+msgstr "Artık onu görmeme gerrek yok."
+
+msgid "Not ALIVE, at least."
+msgstr "En azından, CANLI olarak."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_boy.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "Bunun nereye gittiğini biliyor musun?"
+
+msgid "No. We found that lying around when we were setting up camp."
+msgstr "Hayır. Kampı kurarken onu etrafta bulduk."
+
+msgid "I see..."
+msgstr "Anladım..."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_girl.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "Bunun nereye gittiğini biliyor musun?"
+
+msgid "No idea."
+msgstr "Hiçbir fikrim yok."
+
+msgid "Please, we already gave you the doorknob."
+msgstr "Lütfen, sana çoktan kapı kolunu verdik."
+
+msgid "What more do you want?"
+msgstr "Daha ne istiyorsun?"
+
+msgid "Oh god..."
+msgstr "Tanrım..."
+
+msgid "Please stop, I seriously can't stand that."
+msgstr "Lütfen dur, cidden dayanamıyorum."
+
+msgid "Get that shit away from me."
+msgstr "Şu şeyi benden uzak tut."
+
+msgid "Hate that crap."
+msgstr "Bu saçmalıktan nefret ediyorum."
+
+msgid "Alright alright geez!"
+msgstr "Tamaaam tamaaam."
+
+msgid "Just take the stupid doorknob and leave!"
+msgstr "Al şu aptal kapı kolunu ve git!"
+
+msgid "That smells putrid..."
+msgstr "Leş gibi kokuyor."
+
+msgid "I guess I get to keep him...?"
+msgstr "Sanırım onu tutabilirim...?"
+
+msgid "No thanks, I don't care for stones."
+msgstr "Almayayım sağol, taşlar umrumda değil."
+
+msgid "The heck would I need that for?"
+msgstr "Buna neden ihtiyacım olsun ki?"
+
+msgid "I don't know."
+msgstr "Bilmiyorum."
+
+msgid "To give to Rune..?"
+msgstr "Rün'e vermek için mi..?"
+
+msgid "Who the heck is Rune?"
+msgstr "Rün de kim?"
+
+msgid "What in the world are you doing!?"
+msgstr "Ne yapıyorsun be!?"
+
+msgid "Maybe she's deranged."
+msgstr "Belki de o delidir."
+
+msgid "You said to kill it."
+msgstr "Onu öldürmemi söyledin."
+
+msgid "Yeah, so do it already!"
+msgstr "Evet, o zaman yapsana!"
+
+msgid "(Hmmm...)"
+msgstr "(Hmmm...)"
+
+msgid "(I guess salt doesn't work on moths.)"
+msgstr "(Sanırım tuz güvelerde işe yaramıyor.)"
+
+msgid "What. The. FUCK."
+msgstr "Ne. Oluyor. lAN."
+
+msgid "...Oh man..."
+msgstr "...Öf, dostum..."
+
+msgid "A fireplace."
+msgstr "Bir şömine."
+
+msgid "(There's no smoke...?)"
+msgstr "(Duman yok mu...?)"
+
+msgid "Take ${item:ch1.forest_caterpillar}?"
+msgstr "${item:ch1.forest_caterpillar} Alacak mısın?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"

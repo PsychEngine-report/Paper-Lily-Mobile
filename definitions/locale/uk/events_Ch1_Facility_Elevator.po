@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A floor indicator."
+msgstr "Лампочка, що показує поточний поверх."
+
+msgid "The elevator has no power, so the indicator lights are off."
+msgstr "До ліфта не надходить електроенергія, тому лампочка не горить."
+
+msgid "Where to?"
+msgstr "Куди відправитись?"
+
+msgid "B1F"
+msgstr "Підземний поверх 1"
+
+msgid "B2F"
+msgstr "Підземний поверх 2"
+
+msgid "B3F"
+msgstr "Підземний поверх 3"
+
+msgid "B4F"
+msgstr "Підземний поверх 4"
+
+msgid "Never mind"
+msgstr "Нікуди не відправлятись"
+
+msgid "Nothing happens."
+msgstr "Нічого не відбулось."
+
+msgid "The button is not responding."
+msgstr "Кнопка не відповідає."
+
+msgid "An emblem that looks like an eye of some sort."
+msgstr "Символ, схожий на якесь око."
+
+msgid "The doors are stuck..."
+msgstr "Двері не відчиняються..."

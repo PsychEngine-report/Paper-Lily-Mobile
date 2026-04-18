@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A broken, bloody baseball bat lies next to a skeleton."
+msgstr "Obok szkieletu leży połamany i zakrwawiony kij do baseballa."
+
+msgid "A \"W\" is carved into it."
+msgstr "Wyryto na nim literę \"W\"."
+
+msgid "The door is unreachable."
+msgstr "Do tych drzwi nie ma dostępu."
+
+msgid "\"Subject D5. Age: 100-150. Status: Dormant. Awaiting further tests.\""
+msgstr "\"Osobnik D5. Wiek: 100-150 lat. Status: Uśpiony. Oczekiwane dalsze testy.\""
+
+msgid "\"Subject D8. Age: Unknown. Status: Highly active. Awaiting further tests.\""
+msgstr "\"Osobnik D8. Wiek: Nieznany. Status: Wysoce aktywny. Oczekiwane dalsze testy.\""
+
+msgid "A confinement door. It's locked."
+msgstr "Drzwi do celi. Są zamknięte."
+
+msgid "There's something inside..."
+msgstr "Coś jest w środku..."
+
+msgid "Nothing of interest on the desk."
+msgstr "Na biurku nie ma nic interesującego."
+
+msgid "There's nothing else in the drawer."
+msgstr "W szufladzie nie ma nic więcej."
+
+msgid "There's a valve handle in the drawer."
+msgstr "W szufladzie znajduje się zawór."
+
+msgid "Take ${item:ch1.facility_handle_diamond}?"
+msgstr "Wziąć ${item:ch1.facility_handle_diamond}?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "A hole on the floor."
+msgstr "Dziura w podłodze."
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai dołączył do twojej drużyny.)"

@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The front door."
+msgstr "前门。"
+
+msgid "I need to paint a red symbol here..."
+msgstr "我需要在这里画一个红色的符号..."
+
+msgid "The front door. There's still no red symbol painted on it."
+msgstr "前门。我还未在此处画上红色符号。"
+
+msgid "Go inside?"
+msgstr "要进去吗？"
+
+msgctxt "events.Ch1_Home_Exterior_Front.event_paint_needed.choice.Go inside?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_Exterior_Front.event_paint_needed.choice.Go inside?"
+msgid "No"
+msgstr "否"
+
+msgid "(You filled up the bird food bowl inside.)"
+msgstr "（你把里面的鸟食碗装满了。）"
+
+msgid "I don't know if I can feed it directly... Let's fill the bird feeder instead."
+msgstr "我不知道我能不能直接喂它...还是把饲鸟器装满吧。"
+
+msgid "The bird food goes in the bird house."
+msgstr "鸟食正放在鸟舍里。"
+
+msgid "Let's try it..."
+msgstr "让我们来试试看吧..."
+
+msgid "Oh... oh no... lipstick on wood doesn't work at all."
+msgstr "哦...哦不...口红在木头上完全写不出来。"
+
+msgid "This thing is also completely ruined."
+msgstr "这玩意完全不能用了。"
+
+msgid "I hope mother won't get angry..."
+msgstr "我希望妈妈不要生气..."
+
+msgid "...Nah. I'll get rid of it and pretend it never existed."
+msgstr "...哎。把它扔掉，然后当它从来就不存在吧。"
+
+msgctxt "events.Ch1_Home_Exterior_Front.item_lipstick_on_door.dlg.narrator"
+msgid "It's already done."
+msgstr "已经完成了。"
+
+msgid "Time to draw..."
+msgstr "画画时间到..."
+
+msgid "What a strange symbol..."
+msgstr "真是个奇怪的符号啊..."
+
+msgid "Now the house will be even more cursed than it already was."
+msgstr "现在，这所房子将受到比原来更严重的诅咒。"
+
+msgctxt "events.Ch1_Home_Exterior_Front.item_paint_on_door.dlg.narrator"
+msgid "It's already done."
+msgstr "已经完成了。"
+
+msgid "I already salted the other door, that should be good enough."
+msgstr "我已经在别的门上撒过了盐，这应该已经足够了。"
+
+msgid "The salt probably goes on the inner door, not here."
+msgstr "盐应该在门内撒，而不是这里。"
+
+msgid "That wouldn't be good for the birds."
+msgstr "这对鸟儿可不好。"
+
+msgctxt "events.Ch1_Home_Exterior_Front.item_salt_on_door.dlg.lacie"
+msgid "The salt goes on the inside only..."
+msgstr "只用在室内撒盐..."
+
+msgid "Also, I'll clean up the drawing tomorrow, since it's not in the instructions."
+msgstr "另外，我明天还要清理这个涂鸦，虽然这个没写在教程上。"
+
+msgctxt "events.Ch1_Home_Exterior_Front.item_salt_on_garage_door.dlg.lacie"
+msgid "The salt goes on the inside only..."
+msgstr "只用在室内撒盐..."
+
+msgid "The gates probably don't need salt."
+msgstr "大门口应该不需要撒盐。"
+
+msgid "A birdhouse."
+msgstr "鸟居。"
+
+msgid "We don't get many birds, but I leave food here for them in case."
+msgstr "我们家的鸟不多，但我还是给它们留了食物，以防万一。"
+
+msgid "Where did I put that bag..?"
+msgstr "我把袋子放哪儿了..？"
+
+msgid "Various red and blue flowers."
+msgstr "各种红色与蓝色的花朵。"
+
+msgid "Bright blue flowers."
+msgstr "亮蓝色的花朵。"
+
+msgid "These lamps turn on automatically at night."
+msgstr "这些灯在晚上会自动开启。"
+
+msgid "These lamps turn off automatically during the day."
+msgstr "这些灯在白天会自动关闭。"
+
+msgid "The curtains prevent you from looking in."
+msgstr "窗帘让你无法看到内部。"
+
+msgid "The garage door. It requires a remote control to open from the outside."
+msgstr "车库门。需要遥控器才能从外面打开。"
+
+msgid "A sturdy black gate meant for cars."
+msgstr "一扇坚固的黑色大门，专供汽车通行。"
+
+msgid "A small lamppost."
+msgstr "一个小灯柱。"
+
+msgid "The neighbor's front yard is on the other side."
+msgstr "邻居家的前院就在另一侧。"
+
+msgid "I shouldn't stare... and give them another reason to dislike me."
+msgstr "我不应该看过去的...然后给他们另一个不喜欢我的理由。"
+
+msgid "A crow keeps watch in front of your house."
+msgstr "一只乌鸦在你家门口守望着。"
+
+msgid "Maybe it's waiting for some food?"
+msgstr "也许它在等着吃东西呢？"
+
+msgid "I brought the bird food with me, I just have to fill up the feeder."
+msgstr "我带了鸟食，只需要把喂食器装满就可以了。"
+
+msgid "The feeder is full, but it doesn't seem to care..."
+msgstr "喂食器已经满了，但它似乎并不在乎..."
+
+msgid "A large tree."
+msgstr "一棵大树。"
+
+msgid "Its leaves look nice in fall."
+msgstr "它的叶子在秋天很好看。"
+
+msgid "A small tree."
+msgstr "一棵小树。"
+
+msgid "I'd rather go inside right now."
+msgstr "我宁可现在去室内。"
+
+msgid "The front gate."
+msgstr "大门。"
+
+msgid "I don't want to go back outside..."
+msgstr "我不想回到外面去了..."
+
+msgid "Get on the bus?"
+msgstr "要登上巴士吗？"
+
+msgctxt "events.Ch1_Home_Exterior_Front.move_exit.choice.Get on the bus?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_Exterior_Front.move_exit.choice.Get on the bus?"
+msgid "No"
+msgstr "否"
+
+msgid "The bus isn't here yet."
+msgstr "巴士现在还没来。"
+
+msgid "The bus isn't here so... Let's just clean up."
+msgstr "巴士没有来，所以...让我们开始清理工作吧。"
+
+msgid "Where to?"
+msgstr "要去哪里？"

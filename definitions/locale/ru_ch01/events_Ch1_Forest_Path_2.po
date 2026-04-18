@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That entrance... wasn't there before."
+msgstr "Этого прохода здесь раньше не было..."
+
+msgid "Is it underground?"
+msgstr "Он ведёт под землю?"
+
+msgid "There's another signpost here. It's loose, so it can be rotated."
+msgstr "Здесь есть ещё один указатель. Он плохо приделан, так что его можно вращать."
+
+msgid "Alright, I think I understand."
+msgstr "Так, теперь я, кажется, поняла."
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice"
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "На указателе написано [color=#8080FF]\"Дневные врата\"[/color]. Повернуть его?"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "North"
+msgstr "На север"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "South"
+msgstr "На юг"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "West"
+msgstr "На запад"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "East"
+msgstr "На восток"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "Не вращать его"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice"
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "На указателе написано [color=#8080FF]\"Дневные врата\"[/color]. Повернуть его?"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "North"
+msgstr "На север"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "South"
+msgstr "На юг"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "West"
+msgstr "На запад"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "East"
+msgstr "На восток"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "Не вращать его"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice"
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgstr "На указателе написано [color=#8080FF]\"Дневные врата\"[/color]. Повернуть его?"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "North"
+msgstr "На север"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "South"
+msgstr "На юг"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "West"
+msgstr "На запад"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "East"
+msgstr "На восток"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]\"Daylight Gate\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "Не вращать его"
+
+msgid "This sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "На указателе написано [color=#8080FF]\"Дневные врата\"[/color]."
+
+msgid "It's fixed in place, so it cannot be rotated."
+msgstr "Он зафиксирован в одном положении, и его не получается повернуть."
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice"
+msgid "This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgstr "На указателе написано [color=#FF8080]\"Секрет\"[/color]. Повернуть его?"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "North"
+msgstr "На север"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "South"
+msgstr "На юг"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "West"
+msgstr "На запад"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "East"
+msgstr "На восток"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "Не вращать его"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice"
+msgid "This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgstr "На указателе написано [color=#FF8080]\"Секрет\"[/color]. Повернуть его?"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "North"
+msgstr "На север"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "South"
+msgstr "На юг"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "West"
+msgstr "На запад"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "East"
+msgstr "На восток"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]\"Secret\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "Не вращать его"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice"
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "На указателе написано [color=#FFFF80]\"Доступ к Ж/Д станции\"[/color]. Повернуть его?"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "North"
+msgstr "На север"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "South"
+msgstr "На юг"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "West"
+msgstr "На запад"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "East"
+msgstr "На восток"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "Не вращать его"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice"
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "На указателе написано [color=#FFFF80]\"Доступ к Ж/Д станции\"[/color]. Повернуть его?"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "North"
+msgstr "На север"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "South"
+msgstr "На юг"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "West"
+msgstr "На запад"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "East"
+msgstr "На восток"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "Не вращать его"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice"
+msgid "This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgstr "На указателе написано [color=#FFFF80]\"Доступ к Ж/Д станции\"[/color]. Повернуть его?"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "North"
+msgstr "На север"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "South"
+msgstr "На юг"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "West"
+msgstr "На запад"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "East"
+msgstr "На восток"
+
+msgctxt "events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]\"Train Station Access\"[/color]. Rotate it?"
+msgid "Don't Rotate"
+msgstr "Не вращать его"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_1.choice"
+msgid "A dark pathway through the trees. Enter?"
+msgstr "Тёмная тропа вглубь деревьев. Войти?"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_1.choice.A dark pathway through the trees. Enter?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_1.choice.A dark pathway through the trees. Enter?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_2.choice"
+msgid "A dark pathway through the trees. Enter?"
+msgstr "Тёмная тропа вглубь деревьев. Войти?"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_2.choice.A dark pathway through the trees. Enter?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Path_2.move_secret_2.choice.A dark pathway through the trees. Enter?"
+msgid "No"
+msgstr "Нет"

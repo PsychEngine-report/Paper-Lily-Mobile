@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The path looks like it should continue here, but it doesn't."
+msgstr "Здається, що ця стежка повинна тягнутися далі, проте не тягнеться."
+
+msgid "There's a sign that says [color=#8080FF]\"Daylight Gate\"[/color]. It points straight ahead."
+msgstr "Тут стоїть вказівник, на якому написано [color=#8080FF]\"Світанкова Брама\"[/color]. Він вказує вперед."
+
+msgid "The sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "На вказівнику написано [color=#8080FF]\"Світанкова Брама\"[/color]."
+
+msgid "It's pointing towards the trees."
+msgstr "Він дивиться в хащі."
+
+msgid "It seems to be a bit loose. You could rotate it to match the other one..."
+msgstr "Він не досить надійно прикріплений. Можна покрутити його, щоб він дивився в ту ж сторону, що й інший вказівник..."
+
+msgid "Let's do it"
+msgstr "Зробімо це"
+
+msgid "Not my job"
+msgstr "За кого ви мене маєте?"
+
+msgid "It seems to be pointing in the correct direction now."
+msgstr "Схоже, зараз він дивиться у правильну сторону."
+
+msgid "There's nothing here."
+msgstr "Там нічого немає."
+
+msgid "(Hmm... Could it be that the sign is pointing in the wrong direction?)"
+msgstr "(Гм… може, знак дивиться не в ту сторону?)"

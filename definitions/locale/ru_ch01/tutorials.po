@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Battle"
+msgstr "Сражение"
+
+msgid "Move around to avoid the spikes!"
+msgstr "Перемещайтесь, чтобы уклониться от шипов!"
+
+msgid "Minigame: Box Puzzle"
+msgstr "Мини игра: Коробки"
+
+msgid "Push the desks into the green zones to complete the puzzle"
+msgstr "Расставьте парты в зелёные области, чтобы пройти мини игру"
+
+msgid "Documents"
+msgstr "Записи"
+
+msgid "Your papers and notes are stored in the notebook in your inventory."
+msgstr "Все найденные документы и записки будут храниться в блокноте у вас в инвентаре."
+
+msgid "Hiding"
+msgstr "Прятки"
+
+msgid "Hide in the bushes with {0} to avoid being caught."
+msgstr "Прячьтесь в кусты, нажав на {0}, чтобы вас не поймали."
+
+msgctxt "tutorials.name.interaction"
+msgid "Interacting"
+msgstr "Взаимодействие"
+
+msgctxt "tutorials.text.interaction"
+msgid "Press {0} to interact with the environment"
+msgstr "Нажмите на {0}, чтобы взаимодействовать с окружением"
+
+msgctxt "tutorials.name.interaction_lacie"
+msgid "Interacting"
+msgstr "Взаимодействие"
+
+msgctxt "tutorials.text.interaction_lacie"
+msgid "Press {0} to interact with the environment"
+msgstr "Нажмите на {0}, чтобы взаимодействовать с окружением"
+
+msgctxt "tutorials.name.itemuse"
+msgid "Using Items"
+msgstr "Использование предметов"
+
+msgid "To use an item, stand close and select the item from the menu ({0})"
+msgstr "Чтобы использовать предмет, подойдите к объекту и выберите предмет в меню ({0})"
+
+msgctxt "tutorials.name.itemuse_lacie"
+msgid "Using Items"
+msgstr "Использование предметов"
+
+msgid "To use an item, stand close and select the item from the menu"
+msgstr "Чтобы использовать предмет, подойдите к объекту и выберите предмет в меню"
+
+msgctxt "tutorials.name.menu"
+msgid "Opening the Menu"
+msgstr "Открытие меню"
+
+msgctxt "tutorials.text.menu"
+msgid "Press {0} to open the menu and see your items"
+msgstr "Нажмите {0}, чтобы открыть меню и увидеть список своих предметов"
+
+msgctxt "tutorials.name.menu_lacie"
+msgid "Opening the Menu"
+msgstr "Открытие меню"
+
+msgctxt "tutorials.text.menu_lacie"
+msgid "Press {0} to open the menu and see your items"
+msgstr "Нажмите {0}, чтобы открыть меню и увидеть список своих предметов"
+
+msgctxt "tutorials.name.movement"
+msgid "Moving"
+msgstr "Перемещение"
+
+msgctxt "tutorials.text.movement"
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "Для перемещения используйте {0}{1}{2}{3}"
+
+msgctxt "tutorials.name.movement_lacie"
+msgid "Moving"
+msgstr "Перемещение"
+
+msgctxt "tutorials.text.movement_lacie"
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "Для перемещения используйте {0}{1}{2}{3}"
+
+msgid "Picking Up Items"
+msgstr "Подбор предметов"
+
+msgid "Press {0} to pick up items"
+msgstr "Чтобы подобрать предмет, нажмите {0}"
+
+msgctxt "tutorials.name.running"
+msgid "Running"
+msgstr "Бег"
+
+msgctxt "tutorials.text.running"
+msgid "While moving, hold {0} to run"
+msgstr "Удерживайте {0} во время движения, чтобы бежать"
+
+msgctxt "tutorials.name.running_lacie"
+msgid "Running"
+msgstr "Бег"
+
+msgctxt "tutorials.text.running_lacie"
+msgid "While moving, hold {0} to run"
+msgstr "Удерживайте {0} во время движения, чтобы бежать"
+
+msgctxt "tutorials.name.save"
+msgid "Saving the Game"
+msgstr "Сохранение игры"
+
+msgctxt "tutorials.text.save"
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "С помощью ворон можно сохранять игру. Сохраняйтесь почаще, ведь кто знает, как сложится будущее?"
+
+msgctxt "tutorials.name.save_lacie"
+msgid "Saving the Game"
+msgstr "Сохранение игры"
+
+msgctxt "tutorials.text.save_lacie"
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "С помощью ворон можно сохранять игру. Сохраняйтесь почаще, ведь кто знает, как сложится будущее?"
+
+msgid "Sneaking"
+msgstr "Скрытность"
+
+msgid "Running will make you easier to spot. Hold {0} to sneak past enemies"
+msgstr "Вас легче заметить, когда вы бежите. Удерживайте {0} во время движения, чтобы прокрасться мимо врагов"
+
+msgid "Climbing Stairs"
+msgstr "Взбирание по лестницам"
+
+msgid "Hold {0} while moving to climb up the stairs"
+msgstr "Нажмите {0} во время движения, чтобы взобраться на ступеньки"
+
+msgid "Timed Event"
+msgstr "Проверка на скорость"
+
+msgid "Get to the bus before the time runs out!"
+msgstr "Доберитесь до автобуса, пока не вышло время!"
+
+msgid "Minigame: Timing Bar"
+msgstr "Мини игра: Точность"
+
+msgid "Press {0} when the indicator matches the green zone"
+msgstr "Нажмите {0} в момент, когда индикатор попадёт на зелёную область"

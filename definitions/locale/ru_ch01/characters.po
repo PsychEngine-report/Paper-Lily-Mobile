@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alba"
+msgstr "Альба"
+
+msgid "Annie"
+msgstr "Энни"
+
+msgid "Aoi"
+msgstr "Аой"
+
+msgid "Mother?"
+msgstr "Мама?"
+
+msgid "Bunny"
+msgstr "Кролик"
+
+msgid "Cashier"
+msgstr "Бариста"
+
+msgid "Yellow Moth"
+msgstr "Жёлтый мотылёк"
+
+msgid "White Moth"
+msgstr "Белая моль"
+
+msgid "Girl A"
+msgstr "Девочка А"
+
+msgid "Girl B"
+msgstr "Девочка Б"
+
+msgid "Spider"
+msgstr "Паучок"
+
+msgid "Caterpillar"
+msgstr "Гусеница"
+
+msgid "Hiro"
+msgstr "Хиро"
+
+msgctxt "characters.name.hoodie"
+msgid "???"
+msgstr "???"
+
+msgid "Kat"
+msgstr "Кэт"
+
+msgid "Kett"
+msgstr "Кетт"
+
+msgid "Kozmo"
+msgstr "Козмо"
+
+msgid "Lacie"
+msgstr "Лэйси"
+
+msgid "Milion"
+msgstr "Милиан"
+
+msgid "Miss Knives"
+msgstr "Мадам Нож"
+
+msgid "Saki"
+msgstr "Саки"
+
+msgid "Juli"
+msgstr "Джули"
+
+msgid "Kaya"
+msgstr "Кая"
+
+msgid "Rune"
+msgstr "Рун"
+
+msgid "Sai"
+msgstr "Сай"
+
+msgid "Shadow Girl"
+msgstr "Теневая девочка"
+
+msgctxt "characters.name.unknown"
+msgid "???"
+msgstr "???"

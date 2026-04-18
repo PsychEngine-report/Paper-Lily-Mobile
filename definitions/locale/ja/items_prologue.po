@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "White Flower"
+msgstr "白い花"
+
+msgid "A white flower I found on the grass. It appears to be a lily... I think."
+msgstr "地面にあった白い花。百合……だと思う。"
+
+msgid "Wet White Flower"
+msgstr "湿った白い花"
+
+msgid "A white flower I took from a vase. It's probably a Lily."
+msgstr "花瓶から取った白い花。たぶん百合だと思う。"
+
+msgid "Ritual Notes"
+msgstr "儀式のメモ"
+
+msgid "I put everything I need to remember here."
+msgstr "覚えておくべきことは全部ここに書いてある。"
+
+msgid "Ritual Notes (Drawing)"
+msgstr "儀式のメモ(絵)"
+
+msgid "This is how it looks in my head."
+msgstr "儀式の大体のイメージ。"
+
+msgid "Candles"
+msgstr "ロウソク"
+
+msgid "A bunch of candles. I need these for the ritual."
+msgstr "大量のロウソク。儀式のために必要。"
+
+msgid "Chalk"
+msgstr "チョーク"
+
+msgid "A piece of chalk. I can draw various things with it."
+msgstr "チョーク。色んなものが描ける。"
+
+msgid "Curtains"
+msgstr "カーテン"
+
+msgid "Red blackout curtains used to block as much light as possible."
+msgstr "光を可能な限り遮るのに使われる赤の遮光カーテン。"
+
+msgid "Lighter"
+msgstr "ライター"
+
+msgid "My personal lighter. I don't smoke, but I enjoy watching things burn."
+msgstr "わたしの私物。煙草は吸わないけど、ものが燃えるのを見るのは好きだから。"
+
+msgid "Old Lighter"
+msgstr "古いライター"
+
+msgid "An old lighter I had lost a long time ago. It doesn't seem to work anymore."
+msgstr "かなり前に没収されたライター。もう火は点かなさそう。"
+
+msgid "Scissors"
+msgstr "ハサミ"
+
+msgid "A regular pair of scissors. Not pointy enough to stab people with."
+msgstr "ごく普通のハサミ。人を刺せるほど尖ってはない。"
+
+msgctxt "items.name.prologue.tuft01"
+msgid "Girl's Hair"
+msgstr "女の子の髪"
+
+msgid "A tuft of hair I cut from the girl with brown hair."
+msgstr "茶髪の子から切った髪の毛。"
+
+msgctxt "items.name.prologue.tuft02"
+msgid "Girl's Hair"
+msgstr "女の子の髪"
+
+msgid "A tuft of hair I cut from the girl with black hair."
+msgstr "黒髪の子から切った髪の毛。"
+
+msgctxt "items.name.prologue.tuft03"
+msgid "Girl's Hair"
+msgstr "女の子の髪"
+
+msgid "A tuft of hair I cut from the girl with dark brown hair."
+msgstr "暗い茶色の髪の子から切った髪の毛。"
+
+msgid "My Hair"
+msgstr "自分の髪"
+
+msgid "A bit of hair I cut from myself. Looking at it makes me sad."
+msgstr "自分の髪の毛少々。見てると悲しくなる。"
+
+msgctxt "items.name.prologue.rune_berkana"
+msgid "Protective Rune"
+msgstr "守護のルーン"
+
+msgctxt "items.desc.prologue.rune_berkana"
+msgid "A rune with some ancient symbol engraved."
+msgstr "古代のシンボルが彫られたルーン。"
+
+msgctxt "items.name.prologue.rune_inguz"
+msgid "Protective Rune"
+msgstr "守護のルーン"
+
+msgctxt "items.desc.prologue.rune_inguz"
+msgid "A rune with some ancient symbol engraved."
+msgstr "古代のシンボルが彫られたルーン。"
+
+msgctxt "items.name.prologue.rune_kaunaz"
+msgid "Protective Rune"
+msgstr "守護のルーン"
+
+msgctxt "items.desc.prologue.rune_kaunaz"
+msgid "A rune with some ancient symbol engraved."
+msgstr "古代のシンボルが彫られたルーン。"
+
+msgid "Student's Notebook"
+msgstr "生徒のノート"
+
+msgid "A red notebook, probably forgotten by a student. The color and design are not my style."
+msgstr "生徒が忘れていったらしい赤いノート。こういう色やスタイルは私の趣味じゃない。"
+
+msgid "Theater Club Key"
+msgstr "演劇部室の鍵"
+
+msgid "The key to open the theater club room."
+msgstr "演劇部室を開けるための鍵。"
+
+msgid "Dusty Hairpin"
+msgstr "くすんだヘアピン"
+
+msgid "My trusty hairpin! I have a feeling this could come in handy."
+msgstr "私の頼れるヘアピン！ 役に立つような気がする。"
+
+msgid "Fairly Normal-Looking Key"
+msgstr "ごく普通の鍵"
+
+msgid "A key I found on a long hallway."
+msgstr "長い廊下で見つけた鍵。"
+
+msgid "Lettuce"
+msgstr "レタス"
+
+msgid "You're not supposed to have this in your inventory."
+msgstr "これがインベントリに入ることはない。"
+
+msgid "Small Key"
+msgstr "小さい鍵"
+
+msgid "A small key, probably for a locker."
+msgstr "恐らくロッカー用の、小さい鍵。"
+
+msgid "Strange Blueprints"
+msgstr "奇妙な青写真"
+
+msgid "Blueprints for an unknown device. You can't make heads or tails out of it."
+msgstr "謎の機械の青写真。何なのかさっぱりわからない。"

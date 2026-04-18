@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I just need to open my locker, and then the closet to end this."
+msgstr "Sadece dolabımı açmalıyım, ve ardınan bitirmek için gardırobu"
+
+msgid "My locker is..."
+msgstr "Dolabım şey..."
+
+msgid "It's pretty obvious, isn't it?"
+msgstr "Oldukça net, öyle değil mi?"
+
+msgid "This isn't your locker."
+msgstr "Bu senin dolabın değil."
+
+msgid "A locker."
+msgstr "Bir dolap."
+
+msgid "Huh? What's that red thing? It's the first time I see it."
+msgstr "Huh? Bu kırmızı şey de ne? Bunu ilk defa görüyorum."
+
+msgid "There's nothing else to see here."
+msgstr "Burada görecek başka bir şey yok."
+
+msgid "..."
+msgstr "..."
+
+msgid "Trash fills your locker."
+msgstr "Çöpler dolabının tamamını kaplıyor."
+
+msgid "What a mess."
+msgstr "Ne büyük bir karmaşa."
+
+msgid "\"Welcome back, Lacie."
+msgstr "\"Tekrar hoş geldin, Lacie."
+
+msgid "We've missed you at school."
+msgstr "Seni okulda özlüyorduk."
+
+msgid "You'll have a lot to catch up on, so your classmates organized the reading material for you."
+msgstr "Yetişmen gerek çok konu var, bu yüzden sınıf arkadaşların senin için bir kaynak hazırladı."
+
+msgid "You can find it in your locker."
+msgstr "Dolabında bulabilirsin."
+
+msgid "Please be sure to look over everything carefully."
+msgstr "Her şeyi dikkatle oku tamam mı?"
+
+msgid "You wouldn't want to fail the year.\""
+msgstr "Sınfıta kalmak istemezsin."
+
+msgid "...sigh."
+msgstr "...ooff."
+
+msgid "...Blah blah blah."
+msgstr "...Bla bla bla."
+
+msgid "It's always the same text."
+msgstr "Hep aynı yazı."
+
+msgid "The note will be back in this spot next time, even if I crumple it."
+msgstr "Buruşturup atsam bile, not tekrar aynı yere geri gelecek."
+
+msgid "Peace and quiet."
+msgstr "Huzur ve barış."
+
+msgid "Nah, it's better like this."
+msgstr "Hayır, böylesi daha iyi."
+
+msgid "...Heh... never gets old."
+msgstr "...Heh... asla eskimiyor."
+
+msgid "Pick up ${item:global.reditem_1}?"
+msgstr "${item:global.reditem_1} almalı mıyım?"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "It's the exit."
+msgstr "İşte çıkış."
+
+msgid "It doesn't open until I check the locker..."
+msgstr "Dolabı kontrol edene kadar açılmayacak..."
+
+msgid "Blindingly white light is all you can see."
+msgstr "Görebileceğiniz tek şey kör edici beyaz bir ışık."
+
+msgid "Students, laughing at you."
+msgstr "Öğrenciler sana gülüyor."
+
+msgid "...I hate them."
+msgstr "...Onlardan nefret ediyorum."
+
+msgid "The passageway has closed behind you."
+msgstr "Geçit arkandan kapandı."

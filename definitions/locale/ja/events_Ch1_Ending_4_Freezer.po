@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Ending_4_Freezer.misc_fridge_3.dlg.narrator"
+msgid "A large door with a metallic handle."
+msgstr "金属の取っ手がついた大きな扉。"
+
+msgid "Open it?"
+msgstr "開ける？"
+
+msgid "Yes"
+msgstr "開ける"
+
+msgid "No"
+msgstr "開けない"
+
+msgid "Frozen inside, you see..."
+msgstr "その中に凍り付いていたのは……"
+
+msgid "...Fingers!"
+msgstr "……指！"
+
+msgid "Wait... arms...? Are these... human arms...?"
+msgstr "いや……腕……？　これ……人間の腕……？"
+
+msgid "Neatly stacked inside the fridge, there's fifty or so arms of different sizes, cut off from their bodies."
+msgstr "冷凍庫の中には、体から切り離された様々な大きさの腕が50本ほど、きれいに重ねられている。"
+
+msgid "Both left and right arms can be seen."
+msgstr "左腕も右腕もある。"
+
+msgid "....."
+msgstr "……"
+
+msgid "The arms prevent you from closing the door."
+msgstr "腕が邪魔で閉められない。"
+
+msgctxt "events.Ch1_Ending_4_Freezer.misc_fridge_noopen.dlg.narrator"
+msgid "A large door with a metallic handle."
+msgstr "金属の取っ手がついた大きな扉。"
+
+msgid "It won't open."
+msgstr "開かない。"
+
+msgid "Better not to open it."
+msgstr "開けない方がいい。"

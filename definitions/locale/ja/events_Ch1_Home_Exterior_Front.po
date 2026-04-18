@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The front door."
+msgstr "玄関の扉。"
+
+msgid "I need to paint a red symbol here..."
+msgstr "ここに赤い印を描かないといけない……"
+
+msgid "The front door. There's still no red symbol painted on it."
+msgstr "玄関の扉。まだ赤い印は描かれていない。"
+
+msgid "Go inside?"
+msgstr "中に入る？"
+
+msgctxt "events.Ch1_Home_Exterior_Front.event_paint_needed.choice.Go inside?"
+msgid "Yes"
+msgstr "入る"
+
+msgctxt "events.Ch1_Home_Exterior_Front.event_paint_needed.choice.Go inside?"
+msgid "No"
+msgstr "入らない"
+
+msgid "(You filled up the bird food bowl inside.)"
+msgstr "(中のエサ皿をいっぱいにした。)"
+
+msgid "I don't know if I can feed it directly... Let's fill the bird feeder instead."
+msgstr "直接エサをあげられるかわからない……エサ箱のほうに入れよう。"
+
+msgid "The bird food goes in the bird house."
+msgstr "エサは鳥小屋に入れるものだ。"
+
+msgid "Let's try it..."
+msgstr "やってみよう……"
+
+msgid "Oh... oh no... lipstick on wood doesn't work at all."
+msgstr "う……無理だ……木に口紅じゃ全然描けない。"
+
+msgid "This thing is also completely ruined."
+msgstr "それに、口紅がすっかりダメになっちゃった。"
+
+msgid "I hope mother won't get angry..."
+msgstr "ママが怒らないといいけど……"
+
+msgid "...Nah. I'll get rid of it and pretend it never existed."
+msgstr "……いや。捨てちゃって、初めから無かったふりをしよう。"
+
+msgctxt "events.Ch1_Home_Exterior_Front.item_lipstick_on_door.dlg.narrator"
+msgid "It's already done."
+msgstr "もう描いてある。"
+
+msgid "Time to draw..."
+msgstr "よし、描こう……"
+
+msgid "What a strange symbol..."
+msgstr "変な印……"
+
+msgid "Now the house will be even more cursed than it already was."
+msgstr "元から呪われた家だけど、これでもっと呪われそう。"
+
+msgctxt "events.Ch1_Home_Exterior_Front.item_paint_on_door.dlg.narrator"
+msgid "It's already done."
+msgstr "もう描いてある。"
+
+msgid "I already salted the other door, that should be good enough."
+msgstr "奥の扉にはもう塩をまいたから、それで十分なはず。"
+
+msgid "The salt probably goes on the inner door, not here."
+msgstr "たぶん、塩はここじゃなくて奥の扉にまくんだと思う。"
+
+msgid "That wouldn't be good for the birds."
+msgstr "それは鳥によくない。"
+
+msgctxt "events.Ch1_Home_Exterior_Front.item_salt_on_door.dlg.lacie"
+msgid "The salt goes on the inside only..."
+msgstr "塩は内側だけでいいはず……"
+
+msgid "Also, I'll clean up the drawing tomorrow, since it's not in the instructions."
+msgstr "あと、取り消しの手順になかったから、描いたものは明日消す。"
+
+msgctxt "events.Ch1_Home_Exterior_Front.item_salt_on_garage_door.dlg.lacie"
+msgid "The salt goes on the inside only..."
+msgstr "塩は内側だけでいいはず……"
+
+msgid "The gates probably don't need salt."
+msgstr "門には塩は要らないと思う。"
+
+msgid "A birdhouse."
+msgstr "鳥小屋。"
+
+msgid "We don't get many birds, but I leave food here for them in case."
+msgstr "あまり鳥は来ないけど、念の為エサを入れてある。"
+
+msgid "Where did I put that bag..?"
+msgstr "あの袋、どこに置いたっけ……？"
+
+msgid "Various red and blue flowers."
+msgstr "様々な赤や青の花。"
+
+msgid "Bright blue flowers."
+msgstr "明るい青の花。"
+
+msgid "These lamps turn on automatically at night."
+msgstr "このランプは夜になると自動で点く。"
+
+msgid "These lamps turn off automatically during the day."
+msgstr "このランプは昼間は自動で消える。"
+
+msgid "The curtains prevent you from looking in."
+msgstr "カーテンがあるので中は見えない。"
+
+msgid "The garage door. It requires a remote control to open from the outside."
+msgstr "ガレージのシャッター。外からはリモコンを使わないと開かない。"
+
+msgid "A sturdy black gate meant for cars."
+msgstr "自動車用の、頑丈な黒い門。"
+
+msgid "A small lamppost."
+msgstr "小さなランプ。"
+
+msgid "The neighbor's front yard is on the other side."
+msgstr "向こう側は隣家の前庭だ。"
+
+msgid "I shouldn't stare... and give them another reason to dislike me."
+msgstr "あんまりじろじろ見ないようにしよう……嫌われる理由が増えるだけだ。"
+
+msgid "A crow keeps watch in front of your house."
+msgstr "カラスが家の前で見張っている。"
+
+msgid "Maybe it's waiting for some food?"
+msgstr "ごはんが欲しいのかな？"
+
+msgid "I brought the bird food with me, I just have to fill up the feeder."
+msgstr "鳥のエサは持ってるから、エサ箱に補充しよう。"
+
+msgid "The feeder is full, but it doesn't seem to care..."
+msgstr "エサ箱はいっぱいだけど、興味ないみたい……"
+
+msgid "A large tree."
+msgstr "大きな木。"
+
+msgid "Its leaves look nice in fall."
+msgstr "秋には葉がいい感じになる。"
+
+msgid "A small tree."
+msgstr "小さな木。"
+
+msgid "I'd rather go inside right now."
+msgstr "今は早く中に入りたい。"
+
+msgid "The front gate."
+msgstr "正面の門。"
+
+msgid "I don't want to go back outside..."
+msgstr "外には戻りたくない……"
+
+msgid "Get on the bus?"
+msgstr "バスに乗る？"
+
+msgctxt "events.Ch1_Home_Exterior_Front.move_exit.choice.Get on the bus?"
+msgid "Yes"
+msgstr "乗る"
+
+msgctxt "events.Ch1_Home_Exterior_Front.move_exit.choice.Get on the bus?"
+msgid "No"
+msgstr "乗らない"
+
+msgid "The bus isn't here yet."
+msgstr "バスはまだ来てない。"
+
+msgid "The bus isn't here so... Let's just clean up."
+msgstr "バスは来てない……早く片付けよう。"
+
+msgid "Where to?"
+msgstr "どこに？"

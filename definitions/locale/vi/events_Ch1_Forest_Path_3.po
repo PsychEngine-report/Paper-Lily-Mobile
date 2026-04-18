@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You plugged in the cable using the adapter.)"
+msgstr "(Bạn cắm dây cáp vào thông qua cái adapter.)"
+
+msgid "There's an electrical socket hiding behind the bush."
+msgstr "Ở đằng sau bụi cây có ẩn cái ổ cắm điện và cái phích cắm."
+
+msgid "The plug and the socket don't match, so you can't plug it in."
+msgstr "Cái phích cắm không vừa với ổ cắm, nên bạn không cắm vào được."
+
+msgid "I suppose I could try this adapter I found."
+msgstr "Chắc mình thử cái adapter mình tìm thấy xem thế nào."
+
+msgid "Do I need an adapter? That's so weird."
+msgstr "Cần adapter à? Sao kì cục thế."
+
+msgid "The campfire is plugged here."
+msgstr "Lửa trại đấy được cắm dây ở đây."
+
+msgid "The cable is plugged in."
+msgstr "Dây cáp được cắm vào rồi."
+
+msgid "\"Red's Treehouse\""
+msgstr "\"Nhà cây của Red\""
+
+msgid "\"Treehouse\"... sheesh!"
+msgstr "\"Nhàà cây\"... xì!"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "The floor here is unusual..."
+msgstr "Mặt đất ở đây khang khác..."
+
+msgid "There's a key hidden here."
+msgstr "Ở đây có giấu chiếc chìa khóa."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Lấy ${item:ch1.forest_lockedsite_key} chứ?"
+
+msgid "Yes"
+msgstr "Lấy"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Bạn không cần chiếc chìa đó, nên đã bỏ nó đi.)"
+
+msgid "There's a note as well."
+msgstr "Còn có tờ ghi nữa."
+
+msgid "There's nothing else here."
+msgstr "Ở đây không còn gì nữa."

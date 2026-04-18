@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Dozens of books are neatly organized on the shelves."
+msgstr "Десетки книги са грижливо подредени по рафтовете."
+
+msgid "An untitled book stands out. Read a passage?"
+msgstr "Изпъква една книга без заглавие. Прочетете откъс?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Variations of rituals ______carefully documented ______ recipient."
+msgstr "Различни ритуали ______прилежно документирани ______ получател."
+
+msgid "Any human that enters ______ by way of a ritual is carefully tracked."
+msgstr "Всеки човек, който влиза в ______ чрез ритуал, се следи внимателно."
+
+msgid "No accounts of humans infiltrating by their own means exist, _________ easily detected."
+msgstr "Няма данни за проникване на хора със собствени средства, _________ лесно откриваеми."
+
+msgid "Average recorded survival time of humans following ritual rules: 15 minutes."
+msgstr "Средно регистрирано време за оцеляване на хора, спазващи ритуални правила: 15 минути."
+
+msgid "Average survival time ________ breaching ritual rules: 140 minutes."
+msgstr "Средно време за оцеляване ________ нарушаващи ритуалните правила: 140 минути."
+
+msgid "Average rate of adherence to the ritual rules: 98.31%"
+msgstr "Средна степен на спазване на правилата на ритуала: 98.31%"
+
+msgid "Demons can pick up on a human's soul from at least five meters away."
+msgstr "Демоните могат да доловят душата на човек от поне пет метра разстояние."
+
+msgid "Exceptions exist ___________ as well as the elderly or the sick; they are less perceivable and less satiating."
+msgstr "Изключения съществуват ___________ както и възрастните или болните хора; те са по-малко възприемаеми и по-малко засищащи."
+
+msgid "Due to these factors, their value is considered to be negligible."
+msgstr "Поради тези фактори тяхната стойност се счита за незначителна."
+
+msgid "Demons won't hesitate to kill and consume ______"
+msgstr "Демоните няма да се поколебаят да убиват и консумират ______"
+
+msgid "_____'s regulations don't allow free consumption of souls ________ must be reported."
+msgstr "Разпоредбите на _____ не позволяват свободна консумация на души ________ трябва да се докладва."
+
+msgid "Any demand ________ through the appropriate channels."
+msgstr "Всяко искане ________ по съответните канали."
+
+msgid "White grass is growing on the floor. It's soft to the touch."
+msgstr "На пода расте бяла трева. Тя е мека на допир."
+
+msgid "You can spot some faint shapes in the window."
+msgstr "В прозореца можете да забележите някои слаби форми."

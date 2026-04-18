@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Um... okay..."
+msgstr "Hm... Ok..."
+
+msgid "A realistic sculpture of a man with a candle for a head."
+msgstr "Uma escultura realista de um homem com uma vela a servir de cabeça."
+
+msgid "(What should I do?)"
+msgstr "(O que é que eu faço?)"
+
+msgid "Touch it"
+msgstr "Tocar"
+
+msgid "Take the candle"
+msgstr "Levar a vela"
+
+msgid "Blow out the candle"
+msgstr "Apagar a vela"
+
+msgid "Do nothing"
+msgstr "Não fazer nada"
+
+msgid "The statue feels like stone, just as you would expect."
+msgstr "Tal como seria de esperar, a estátua parece de pedra."
+
+msgid "Are you sure?"
+msgstr "Tens a certeza?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Leftovers of what was once a sculpture."
+msgstr "Restos do que já foi uma escultura."
+
+msgid "The candle man is gone."
+msgstr "O homem-vela foi-se embora."
+
+msgid "It's hard to tell what it says from this side."
+msgstr "É difícil saber o que diz deste lado."
+
+msgid "It reads: \"Exhibit closed indefinitely. If you have complaints, please direct them back to where they came from.\""
+msgstr "Diz: \"Exposição encerrada por tempo indeterminado. Se tiverem queixas, por favor, encaminhem-nas para o local de onde vieram.\""
+
+msgid "The sculpture is either broken or unfinished. You can't really tell."
+msgstr "A escultura está ou partida ou inacabada. Não dá para saber."
+
+msgid "A tall vase."
+msgstr "Um vaso alto."
+
+msgid "Reach inside?"
+msgstr "Enfiar a mão lá dentro?"
+
+msgid "..."
+msgstr "..."
+
+msgid "...tired..."
+msgstr "...Cansado..."
+
+msgid "...so....tired...."
+msgstr "...Tão.... cansado...."

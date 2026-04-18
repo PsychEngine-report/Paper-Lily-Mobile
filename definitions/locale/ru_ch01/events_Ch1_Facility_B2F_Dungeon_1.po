@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "...This door doesn't seem to open."
+msgstr "...Эта дверь не открывается."
+
+msgid "So I AM trapped here after all, just not in that tiny cell."
+msgstr "Значит, я всё-таки ЗАПЕРТА здесь, просто не в той тесной камере."
+
+msgid "I suppose that's less bad..."
+msgstr "Тогда всё не так плохо..."
+
+msgid "Alright, vent it is."
+msgstr "Ладно, тогда воспользуемся вентиляцией."
+
+msgid "Let's hope there's another way out."
+msgstr "Надеюсь, отсюда есть другой путь."
+
+msgid "The door won't open."
+msgstr "Дверь не открывается."
+
+msgid "Looks like human bones."
+msgstr "Похоже на человеческие кости."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_cell_1.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open. Something seems to be holding it from the other side."
+msgstr "Не открывается. Что-то сдерживает дверь с другой стороны."
+
+msgid "\"Subject 66. Age: 38. Sex: Female. Status: Incapacitated. Extraction scheduled. Priority: Medium.\""
+msgstr "\"Субъект 66. Возраст: 38. Пол: Женский. Статус: Недееспособна. Назначено извлечение. Приоритет: Средний.\""
+
+msgid "That's not me. Someone else must've been kept in here."
+msgstr "Это не я. Должно быть, здесь держали кого-то ещё."
+
+msgid "It was just... open?"
+msgstr "Она была просто... открытая?"
+
+msgid "\"Subject 41. Age: 53. Sex: Male. Status: Incapacitated. Extraction scheduled. Priority: Low.\""
+msgstr "\"Субъект 41. Возраст: 53. Пол: Мужской. Статус: Недееспособный. Назначено извлечение. Приоритет: Низкий.\""
+
+msgid "\"Subject 37. Age: 13. Sex: Male. Status: Incapacitated. Extraction on hold. Awaiting further results. Follow-up tests scheduled. Priority: High.\""
+msgstr "\"Субъект 37. Возраст: 13. Пол: Мужской. Статус: Недееспособный. В очереди на извлечение. Назначены последующие тесты. Приоритет: Высокий.\""
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_cell_5.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open anymore. Something seems to be holding it from the other side."
+msgstr "Дверь уже не открывается. Что-то удерживает её с другой стороны."
+
+msgid "These are my things... most of it anyway."
+msgstr "Это мои вещи... почти все."
+
+msgid "I hadn't even noticed I had lost them."
+msgstr "Я и не заметила, что они пропали."
+
+msgid "Why are they here...?"
+msgstr "Что они здесь делают?.."
+
+msgid "(You got your items back.)"
+msgstr "(Вы вернули свои вещи.)"
+
+msgid "There's nothing else on the desk."
+msgstr "На столе больше ничего нет."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_desk_left.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "В выдвижных ящиках пусто."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_desk_right.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "В выдвижных ящиках пусто."
+
+msgid "A huge hole."
+msgstr "Огромная дыра."
+
+msgid "I hope the floor is stable..."
+msgstr "Надеюсь, пол не рухнет..."
+
+msgid "This vent is suspicious."
+msgstr "Подозрительная вентиляция."
+
+msgid "Maybe I could escape through here?"
+msgstr "Может, у меня получится сбежать через неё?"
+
+msgid "It's almost like it's inviting me in."
+msgstr "Она будто так и приглашает залезть в себя."
+
+msgid "It's too high to reach."
+msgstr "Слишком высоко."
+
+msgid "Wait, there's something on the desk."
+msgstr "Будет неразумно уходить, не забрав свои вещи со стола."
+
+msgid "Climb the box and remove the vent cover?"
+msgstr "Взобраться на коробку и снять крышку вентиляции?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Climb the box and remove the vent cover?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Climb the box and remove the vent cover?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Crawl into the vents?"
+msgstr "Залезть в вентиляцию?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Crawl into the vents?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Crawl into the vents?"
+msgid "No"
+msgstr "Нет"
+
+msgid "No... at that point, it would just be silly."
+msgstr "Нет... теперь это будет выглядеть по-дурацки."
+
+msgid "That guy is waiting for me outside..."
+msgstr "Этот парень ждёт меня снаружи..."
+
+msgid "If I go through here right now, it would take him a while to realize I left."
+msgstr "Если я отсюда выйду, он ещё не скоро поймёт, что я ушла."
+
+msgid "I could get rid of him that way, I think."
+msgstr "Наверное, так получиться от него избавиться."
+
+msgid "Go through the vent and leave Sai behind?"
+msgstr "Залезть в вентиляцию и оставить Сая?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Go through the vent and leave Sai behind?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Go through the vent and leave Sai behind?"
+msgid "No"
+msgstr "Нет"
+
+msgid "No... that would probably be pretty rude."
+msgstr "Нет... это будет слишком грубо."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Having fun?"
+msgstr "Тебе весело?"
+
+msgid "...Yep, plenty."
+msgstr "...Да, вполне."
+
+msgid "Let's go then?"
+msgstr "Тогда пойдём?"
+
+msgid "Safe!"
+msgstr "Я в безопасности!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Сай присоединяется к отряду.)"

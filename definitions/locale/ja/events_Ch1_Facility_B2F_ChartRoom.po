@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "We could use it to get out of this room."
+msgstr "この部屋を出るのに使えるかも。"
+
+msgid "I could use this to get out of this room."
+msgstr "この部屋を出るのに使えるかも。"
+
+msgid "Place plank outside?"
+msgstr "板切れを外に置く？"
+
+msgid "Yes"
+msgstr "置く"
+
+msgid "No"
+msgstr "置かない"
+
+msgid "It's done."
+msgstr "できた。"
+
+msgid "The vent cover."
+msgstr "通気口のカバー。"
+
+msgid "It's not large enough to cross the hole outside."
+msgstr "外の穴に渡せるほどの大きさはない。"
+
+msgid "Sketches of maps are displayed on the wall."
+msgstr "地図のスケッチが壁に貼られている。"
+
+msgid "Sketches of maps are laying on the ground."
+msgstr "地図のスケッチが地面に散らばっている。"
+
+msgid "There's a large plank on the floor."
+msgstr "床に大きな板切れが落ちている。"
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "小さな画面からなる大きな画面。"
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_1.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "どこかの監視カメラの映像が映っているようだ。"
+
+msgid "Looks like... hallways? With lots of doors."
+msgstr "これは……廊下か？　扉がたくさんあるな。"
+
+msgid "Who comes up with this shit?"
+msgstr "誰がこんなの思いついたんだ？"
+
+msgid "There's blood too..."
+msgstr "血も映ってる……"
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "A large screen composed of smaller screens."
+msgstr "小さな画面からなる大きな画面。"
+
+msgctxt "events.Ch1_Facility_B2F_ChartRoom.misc_screens_2.dlg.narrator"
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "どこかの監視カメラの映像が映っているようだ。"
+
+msgid "Are those... sticky notes taped to the cameras?"
+msgstr "これ……カメラに付箋が貼ってある？"
+
+msgid "Someone didn't want to be spied on."
+msgstr "盗み見られるのが嫌いなやつがいたんだな。"
+
+msgid "Understandable."
+msgstr "無理もない。"
+
+msgid "Scrolls containing technical drawings of different locations."
+msgstr "様々な場所の技術的な図面が描かれた巻物。"
+
+msgid "What's that?"
+msgstr "何だこれ？"
+
+msgid "I don't know."
+msgstr "わからない。"
+
+msgid "It looks like it's just hallways."
+msgstr "ただの廊下みたいだけど。"
+
+msgid "But it's laid out like a labyrinth, and some rooms overlap each other."
+msgstr "でも迷宮みたいに配置されてて、お互い重なり合ってる部屋もある。"
+
+msgid "This map doesn't make any sense."
+msgstr "地図としてまったく意味をなしてない。"
+
+msgid "A trashcan. It's full of neatly crumpled papers."
+msgstr "ゴミ箱。きちんと丸められた紙であふれている。"
+
+msgid "..."
+msgstr "……"
+
+msgid "I see."
+msgstr "なるほどね。"
+
+msgid "It's too far to jump."
+msgstr "跳び越すには遠すぎる。"
+
+msgid "It's too high to reach."
+msgstr "高くて届かない。"

@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait... you made me climb over all those boxes for nothing?"
+msgstr "おい……俺があんなに箱を登ったのは無駄だったのかよ？"
+
+msgid "It wasn't for nothing. Exercise is good for you."
+msgstr "無駄じゃないよ。運動は体にいいから。"
+
+msgid "Huuuh?! I can't believe this..."
+msgstr "はぁぁぁあ？　信じらんねぇ……"
+
+msgid "Man... it's really stuffy in there. I don't wanna do that again."
+msgstr "あぁ……すげぇ息苦しかった。二度目はごめんだな。"
+
+msgid "It doesn't look like we can reach it to go back anyway."
+msgstr "どのみち、届かないからもう戻れなさそう。"
+
+msgid "What?!"
+msgstr "はぁ!?"
+
+msgid "We're stuck?!"
+msgstr "閉じ込められたのか!?"
+
+msgid "There's a door right there."
+msgstr "そこにドアがあるでしょ。"
+
+msgid "Sheesh... why are all the vents exits so high up..."
+msgstr "まったく……どうして通気口の出口はどれも高い所にあるんだろう……"
+
+msgid "If you're going to make them traversable, at least put them at a reasonable height."
+msgstr "通れるようにするんなら、せめてまともな高さに作ってほしい。"
+
+msgid "A bookshelf with very few remaining books."
+msgstr "ほとんど本が残っていない本棚。"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice"
+msgid "Read a passage?"
+msgstr "一節を読む？"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice.Read a passage?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice.Read a passage?"
+msgid "No"
+msgstr "読まない"
+
+msgid "All of the pages are blank."
+msgstr "全ページが白紙だ。"
+
+msgid "A bookshelf with very few remaining books. All of their pages are blank."
+msgstr "ほとんど本が残っていない本棚。本は全ページが白紙だ。"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_6.dlg.narrator"
+msgid "An empty bookshelf."
+msgstr "空の本棚。"
+
+msgid "...Actually, there's a key at the very back."
+msgstr "……と思いきや、一番奥に鍵があった。"
+
+msgid "A purple book."
+msgstr "紫色の本。"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice"
+msgid "Read a passage?"
+msgstr "一節を読む？"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice.Read a passage?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice.Read a passage?"
+msgid "No"
+msgstr "読まない"
+
+msgid "All of its pages are blank, but you can see a faint outline of some letters."
+msgstr "全ページが白紙だが、かすかに文字の輪郭が見える。"
+
+msgid "(Have all of these books been erased... somehow?)"
+msgstr "(どの本も……何らかの方法で消されてる？)"
+
+msgid "Someone didn't want to leave any traces here."
+msgstr "痕跡を残したくないやつがいたみたいだな。"
+
+msgid "I agree."
+msgstr "同感。"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_empty.dlg.narrator"
+msgid "An empty bookshelf."
+msgstr "空の本棚。"
+
+msgid "There's a hole on the floor."
+msgstr "床に穴がある。"
+
+msgid "Going down there is out of the question."
+msgstr "下に降りるのは問題外だ。"
+
+msgid "Crawl inside?"
+msgstr "中に入る？"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.move_vent.choice.Crawl inside?"
+msgid "Yes"
+msgstr "入る"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.move_vent.choice.Crawl inside?"
+msgid "No"
+msgstr "入らない"
+
+msgid "It's not a good idea to go in there without a way out."
+msgstr "出る方法なしで入るのは得策ではない。"
+
+msgid "A ventilation shaft."
+msgstr "通気口。"
+
+msgid "The cover is screwed in."
+msgstr "カバーはネジで留められている。"
+
+msgid "Hmm..."
+msgstr "うーん……"
+
+msgid "Ah. I spot a shiny over there."
+msgstr "あ。あそこにキラキラがある。"
+
+msgid "A... \"shiny\"?"
+msgstr "き……「キラキラ」？"
+
+msgid "You know... a useful item."
+msgstr "その……便利なアイテムのこと。"
+
+msgid "How do you know it will be useful..."
+msgstr "どうやったらここから便利かわかるんだよ……"
+
+msgid "Might need to push some boxes around to get it though."
+msgstr "でも、いくつか箱を押さないと取りに行けなさそう。"
+
+msgid "Arrange the boxes?"
+msgstr "箱を整理する？"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.on_enter_puzzle.choice.Arrange the boxes?"
+msgid "Yes"
+msgstr "する"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.on_enter_puzzle.choice.Arrange the boxes?"
+msgid "No"
+msgstr "しない"

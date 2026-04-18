@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no need to mess with it anymore."
+msgstr "Não há necessidade de mexer mais nisso."
+
+msgid "Ah... I see how it is."
+msgstr "Ah... Estou a ver."
+
+msgid "I really dislike this kind of puzzle though..."
+msgstr "Mas não gosto muito deste tipo de puzzle..."
+
+msgid "Hm..."
+msgstr "Hm..."
+
+msgid "Is that a button behind the lamppost?"
+msgstr "Aquilo atrás do poste é um botão?"
+
+msgid "Ah... I kind of expected them to reset..."
+msgstr "Ah... Estava à espera que eles fossem reiniciados..."
+
+msgid "Geez... what was I thinking?"
+msgstr "Bolas... Em que é que eu estava a pensar?"
+
+msgid "The cable has already been severed."
+msgstr "O cabo já está cortado."
+
+msgid "The cable has been cut."
+msgstr "O cabo foi cortado."
+
+msgid "A cable runs from the lamp to the bushes."
+msgstr "O cabo vai do poste aos arbustos."
+
+msgid "A heavy-looking metal gate."
+msgstr "Um portão de metal que parece pesado."
+
+msgid "Is this the Daylight Gate?"
+msgstr "É o Portão da Luz do Dia?"
+
+msgid "What does it have to do with daylight?"
+msgstr "O que é que tem a ver com a luz do dia?"
+
+msgid "There's a plaque next to it that reads:"
+msgstr "Há uma placa ao lado que diz:"
+
+msgid "A gate blocks your path."
+msgstr "Um portão bloqueia o teu caminho."
+
+msgid ""
+"\"Daylight Gate\"\n"
+"\"(At daytime, the gate opens and the lamps turn off.)\""
+msgstr ""
+"\"Portão da Luz do Dia\"\n"
+"\"(Durante o dia, o portão abre-se e as lâmpadas apagam-se.)\""
+
+msgid "Day...? I don't even know what time it is..."
+msgstr "Dia...? Nem sequer sei que horas são..."
+
+msgid "Is there any way I can get this open without waiting?"
+msgstr "Há alguma forma de o abrir sem ser esperar?"
+
+msgid "A street lamp."
+msgstr "Um poste de rua."

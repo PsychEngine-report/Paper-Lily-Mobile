@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's another large hole on the floor."
+msgstr "地板上有另一个大洞。"
+
+msgid "Jump down?"
+msgstr "要跳下去吗？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "..."
+msgstr "..."
+
+msgid "It's not like there's anywhere else to go."
+msgstr "我们没有别的地方可去了。"
+
+msgid "Wanna turn back?"
+msgstr "要不回头吧？"
+
+msgid "No, the further away from those heads we go, the better."
+msgstr "不，我们离那些脑袋越远越好。"
+
+msgid "Okay."
+msgstr "好吧。"
+
+msgid "I'm starting to doubt there's an exit, with how deep we've gone..."
+msgstr "我开始怀疑有没有出口了，我们已经走得那么深了..."

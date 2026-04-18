@@ -1,0 +1,26 @@
+{
+	"Locale": "zh_CN",
+	"Name": "简体中文 - by Ximra",
+	"Credit": "Translated by Ximra",
+	"Website": "",
+	"Path": "zh_CN_ch01",
+	"Disclaimer": true,
+	"UseContext": true,
+	"FallbackFonts": {
+		"default": "res://translation-resources/zh_CN/NotoSansSC-Regular.otf",
+		"default_large": "res://translation-resources/zh_CN/NotoSansSC-Regular.otf",
+		"default_small": "res://translation-resources/zh_CN/NotoSansSC-Regular.otf",
+		"dialogue_small": "res://translation-resources/zh_CN/NotoSansSC-Regular.otf"
+	},
+	"ResourceRemaps": {
+		"res://resources/font/default_title.tres": "res://translation-resources/zh_CN/default_title.tres",
+		"res://resources/font/ch1_cg_todolist.tres": "res://translation-resources/zh_CN_ch01/ch1_cg_todolist.tres",
+		"res://resources/font/ch1_cg_todolist_subtitle.tres": "res://translation-resources/zh_CN_ch01/ch1_cg_todolist_subtitle.tres",
+		"res://assets/img/cg/ch1/facility_map_1.png": "res://translation-resources/zh_CN_ch01/facility_map_1.png",
+		"res://assets/img/cg/ch1/facility_map_2.png": "res://translation-resources/zh_CN_ch01/facility_map_2.png"
+	},
+	"Compatibility": [
+		"Lacie Engine",
+		"Paper Lily Chapter 1"
+	]
+}

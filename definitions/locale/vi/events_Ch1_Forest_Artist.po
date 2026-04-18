@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "These flowers seem to belong here... but..."
+msgstr "Mấy bông hoa có vẻ là thuộc về chỗ này... cơ mà..."
+
+msgid "It would serve no purpose to plant them."
+msgstr "Trồng vô thì chẳng để làm cái mục đích gì cả."
+
+msgid "That would be terrible."
+msgstr "Thế thì tàn nhẫn lắm."
+
+msgid "A large pile of rubble."
+msgstr "Đống đá vụn lớn."
+
+msgid "What is this material? Clay?"
+msgstr "Chất liệu là gì nhỉ? Đất sét à?"
+
+msgid "There's nothing else of interest."
+msgstr "Không có gì khác thú vị."
+
+msgid "Seems like someone has dug here recently."
+msgstr "Có vẻ gần đây có ai đào chỗ này lên."
+
+msgid "Check it out?"
+msgstr "Coi thử chứ?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowerbed.choice.Check it out?"
+msgid "Yes"
+msgstr "Coi"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowerbed.choice.Check it out?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A set of colorful flowers."
+msgstr "Bộ hoa ngũ nhan lục sắc."
+
+msgid "A cactus among a set of colorful flowers."
+msgstr "Lẫn trong bộ hoa ngũ nhan lục sắc là cây xương rồng."
+
+msgid "There seems to be something hidden inside the pot."
+msgstr "Bên trong cái chậu hình như có giấu cái gì đó này."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Lấy ${item:ch1.forest_lockedsite_key} chứ?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowers_cactus.choice.Take ${item:ch1.forest_lockedsite_key}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowers_cactus.choice.Take ${item:ch1.forest_lockedsite_key}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Bạn không cần chiếc chìa đó, nên đã bỏ nó đi.)"
+
+msgid "There's also a note under the pot."
+msgstr "Bên dưới cái chậu còn có tờ ghi."
+
+msgid "An artistic pot."
+msgstr "Chiếc chậu nghệ thuật."
+
+msgid "This could work for Kozmo."
+msgstr "Cái này có thể Kozmo dùng được đấy."
+
+msgid "Take ${item:ch1.forest_pot}?"
+msgstr "Lấy ${item:ch1.forest_pot} chứ?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_pot.choice.Take ${item:ch1.forest_pot}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Artist.misc_pot.choice.Take ${item:ch1.forest_pot}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A strange looking... vase? In the shape of a... hand?"
+msgstr "Cái bình trông... lạ ta? Hình dạng lại là... bàn tay?"
+
+msgid "A pile of rubble."
+msgstr "Đống đá vụn."

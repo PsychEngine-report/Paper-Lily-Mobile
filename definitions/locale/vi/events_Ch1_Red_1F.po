@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "Mình không muốn mang theo mấy cái này đi..."
+
+msgid "(Discarded ingredients)."
+msgstr "(Đã bỏ nguyên liệu đi.)"
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "Mình vẫn chưa có đủ nguyên liệu để làm cái này..."
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "Mình đang bị thiếu \"Cảm hứng của Nghệ sĩ\"..."
+
+msgid "Could it be Kett's flowers?"
+msgstr "Không chừng là hoa của Kett á?"
+
+msgid "What in the world is that?"
+msgstr "Rốt cuộc đó là cái gì trời?"
+
+msgid "(You don't know what to do with this...)"
+msgstr "(Bạn không biết làm gì với cái này cả...)"
+
+msgid "You can't cut through that with scissors."
+msgstr "Dùng kéo không cắt đứt cái này được."
+
+msgid "Some books about cursed trees."
+msgstr "Vài cuốn sách về cây bị nguyền."
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice"
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "\"Mặc dù thường có kích thước nhỏ, cây bị nguyền lại có cách phát triển riêng biệt là mọc dài bộ rễ ra xa lên đến 60 mét."
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "Bộ rễ của nó thậm chí còn mọc dài sâu hơn xuống ngầm đất. Không rõ bộ rễ có thể đâm xa được đến đâu mới dừng lại.\""
+
+msgid "Four small blue butterflies on display."
+msgstr "Bốn con bướm nhỏ màu xanh lam được trưng bày."
+
+msgid "They're somewhat mesmerizing."
+msgstr "Chúng có chút làm ta thấy mê mẩn."
+
+msgid "A large blue butterfly on display."
+msgstr "Con bướm to màu xanh lam được trưng bày."
+
+msgid "It's kind of mesmerizing..."
+msgstr "Nó có phần làm ta thấy mê mẩn..."
+
+msgid "A small blue butterfly on display."
+msgstr "Con bướm nhỏ màu xanh lam được trưng bày."
+
+msgid "It's not as mesmerizing."
+msgstr "Không thấy mê mẩn bằng."
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "Bộ dụng cụ hóa học đơn giản dùng để pha trộn hóa chất."
+
+msgid "Some bottles and other containers."
+msgstr "Vài cái chai và các vật đựng khác."
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "Cuốn sách mang đầy những nghiên cứu sâu rộng về đủ thứ loại chất liệu."
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "Trong ngăn kéo còn có cái AC adapter nữa."
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "Lấy ${item:ch1.forest_adapter} chứ?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Some notes on curse removal rituals."
+msgstr "Vài ghi chép về những nghi thức phá bỏ lời nguyền."
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "Lấy ${item:ch1.red_notes} chứ?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "(Mình có dùng cái này làm được gì không cơ chứ...?)"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "Cái bàn trống không mà bạn có lấy cắp vài ghi chép."
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "Con búp-bê màu đỏ. Cả hai mắt đều được tô màu."
+
+msgid "I know this."
+msgstr "Mình biết cái này."
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "Này là búp-bê giúp người ta đạt được điều ước của mình."
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "Khi ước gì đó thì tô màu vào một mắt, và rồi con búp-bê sẽ giúp thực hiện điều ước đó."
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "Bù lại, một khi ta đã đạt được mục đích, thì tô màu vào con mắt còn lại..."
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "...cơ bản là ban lại cho con búp-bê khả năng nhìn, coi như lòng biết ơn."
+
+msgid "..."
+msgstr "..."
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "Anh Hiro đọc mấy thứ kiểu này nhiều lắm."
+
+msgid "I wonder what this person's wish was."
+msgstr "Không biết cái người này đã ước gì ta."
+
+msgid "Some books about butterflies."
+msgstr "Vài cuốn sách về bươm bướm."
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice"
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "\"Cứ mỗi lời nguyền được phá giải là một con bướm xanh lam xuất hiện."
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "Loài bướm này bị hấp dẫn với 'cây bị nguyền' và sẽ bới vào trong thân cây, khiến cho nó hoàn toàn bị rỗng theo thời gian."
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "Không rõ tại sao hành vi này xảy ra.\""
+
+msgid "A furnace."
+msgstr "Cái lò lửa."
+
+msgid "Inside is a... thing."
+msgstr "Bên trong là một cái... thứ."
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "Đây là... đồ nghệ thuật à? Trông như vỏ xác của bức điêu khắc gì đó."
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "Có khi cái này Kozmo dùng được đấy, mà dùng cái này sợ ổng ghét mình mất."
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "Lấy ${item:ch1.red_pot} chứ?"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "Vài ghi chép chưa hoàn thành về cách phá bỏ lời nguyền."
+
+msgid "I don't really understand any of this."
+msgstr "Mình chẳng hiểu cái gì mấy trong đống này."
+
+msgid "A small plant."
+msgstr "Cái cây nhỏ."
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "Lá nó trông như thắt thành cái nơ bướm vậy."
+
+msgid "A plant that looks like a bow."
+msgstr "Cái cây trông giống như cái nơ bướm."
+
+msgid "Some purple mushrooms are growing here."
+msgstr "Ở đây đang trồng vài cây nấm màu tím."
+
+msgid "Some black mushrooms are growing here."
+msgstr "Ở đây đang trồng vài cây nấm màu đen."
+
+msgid "Some pink plants are growing here."
+msgstr "Ở đây đang trồng vài cái cây màu hồng."
+
+msgid "The carpet here seems suspicious."
+msgstr "Tấm thảm ở đây có vẻ khả nghi."
+
+msgid "Take a closer look?"
+msgstr "Nhìn kĩ hơn chứ?"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Nhìn kĩ hơn"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "Có cái thang, nhưng chỗ vào bị cái 'khóa móc' khóa lại."
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "Dụng cụ làm vườn được xếp trên kệ."
+
+msgid "A tree filled with blue butterflies."
+msgstr "Cái cây bu đầy bươm bướm màu xanh lam."
+
+msgid "Thin vertical windows."
+msgstr "Mấy cái cửa sổ hình dọc mỏng."

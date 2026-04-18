@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "それは良い考えとは思えない。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "The hole is big enough."
+msgstr "穴はもう十分大きい。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "There's no reason to go back."
+msgstr "戻る理由はない。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "それは良い考えとは思えない。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "The hole is big enough."
+msgstr "穴はもう十分大きい。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "There's no reason to go back."
+msgstr "戻る理由はない。"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_3.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "それは良い考えとは思えない。"
+
+msgid "There's no reason to do that."
+msgstr "そんなことをする理由はない。"
+
+msgid "There's a gate nearby!"
+msgstr "すぐそばにゲートがある！"
+
+msgid "There's quite a bit of blood in this spot."
+msgstr "ここにはかなりの量の血だまりがある。"
+
+msgid "Someone's remains. You can't tell whether they're human or not."
+msgstr "誰かの遺骸。人間のものかどうかはわからない。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.lacie"
+msgid "I'd rather not go back in there."
+msgstr "あっちに戻る気はしない。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.lacie"
+msgid "The grass is definitely greener on this side."
+msgstr "間違いなく、こっちの芝の方が青いし。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "フェンスが行く手を阻んでいる。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice"
+msgid "Use ${item:ch1.forest_bolt_cutter}?"
+msgstr "${item:ch1.forest_bolt_cutter} を使う？"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "Yes"
+msgstr "使う"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "No"
+msgstr "使わない"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.lacie"
+msgid "I'd rather not go back in there."
+msgstr "あっちに戻る気はしない。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.lacie"
+msgid "The grass is definitely greener on this side."
+msgstr "間違いなく、こっちの芝の方が青いし。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "フェンスが行く手を阻んでいる。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice"
+msgid "Use ${item:ch1.forest_bolt_cutter}?"
+msgstr "${item:ch1.forest_bolt_cutter} を使う？"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "Yes"
+msgstr "使う"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "No"
+msgstr "使わない"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_3.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "フェンスが行く手を阻んでいる。"
+
+msgid "A long fence."
+msgstr "長いフェンス。"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_door.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "それは良い考えとは思えない。"
+
+msgid "There's no way I'm going back in there."
+msgstr "あっちには絶対に戻らない。"
+
+msgid "There's a note on the floor:"
+msgstr "地面にメモが落ちている。"
+
+msgid "The petal trail ends here."
+msgstr "花びらの道はここで終わっている。"
+
+msgid "They didn't make it to the exit..."
+msgstr "出口にたどり着けなかったようだ……"

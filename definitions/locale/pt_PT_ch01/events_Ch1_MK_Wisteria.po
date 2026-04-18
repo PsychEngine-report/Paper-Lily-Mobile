@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You're done."
+msgstr "Já está."
+
+msgid "Good work."
+msgstr "Bom trabalho."
+
+msgid "What now?"
+msgstr "E agora?"
+
+msgid "Now, all of these objects need to be burned in the correct order."
+msgstr "Agora, é preciso queimar estes objetos todos na ordem certa."
+
+msgid "What's the order?"
+msgstr "Qual é a ordem?"
+
+msgid "That's for you to figure out. The hands over there might provide a clue."
+msgstr "Isso é para tu descobrires. As mãos ali podem dar uma pista."
+
+msgid "I see..."
+msgstr "Estou a ver..."
+
+msgid "Make sure you have a way to light the fireplace as well."
+msgstr "Também tens que descobrir uma forma de acender a lareira."
+
+msgid "Oh, that's true..."
+msgstr "Ah, é verdade..."
+
+msgid "(Are there any places I haven't checked yet...?)"
+msgstr "(Há algum sítio que eu ainda não tenha verificado...?)"
+
+msgid "Lastly... this whole thing tends to culminate with candles going out."
+msgstr "Por último... tudo isto tende a acabar com o apagar das velas."
+
+msgid "Therefore, if you see any candles, put them out."
+msgstr "Por isso, se vires alguma vela, apaga-a."
+
+msgid "Understood."
+msgstr "Entendido."
+
+msgid "One more thing."
+msgstr "Mais uma coisa."
+
+msgid "I couldn't help but notice how weak you look."
+msgstr "Não pude deixar de reparar que pareces fraca."
+
+msgid "The challenges ahead might be beyond your capabilities."
+msgstr "Os desafios futuros podem estar para além das suas capacidades."
+
+msgid "There's an object inside my old hiding spot that can help with that."
+msgstr "Tenho um objeto dentro do meu antigo esconderijo que te pode ajudar com isso."
+
+msgid "Spider is just dangling there."
+msgstr "O Aranha está ali pendurado."
+
+msgid "Psst..."
+msgstr "Psst..."
+
+msgid "Over here."
+msgstr "Aqui."
+
+msgid "Here. On the wall."
+msgstr "Aqui. Na parede."
+
+msgid "..."
+msgstr "..."
+
+msgid "Spider...?"
+msgstr "Aranha...?"
+
+msgid "Yes."
+msgstr "Sim."
+
+msgid "Is that really you?"
+msgstr "És mesmo tu?"
+
+msgid "Huh... you really meant it when you said you talked to a spider."
+msgstr "Uh... Estavas a falar a sério quando disseste que falaste com uma aranha."
+
+msgid "He looked different last time, but it's still basically a spider."
+msgstr "Ele era diferente antes, mas continua a ser basicamente uma aranha."
+
+msgid "Oh. There's two of you now."
+msgstr "Oh. Agora vocês são dois."
+
+msgid "Well, no matter."
+msgstr "Bem, não importa."
+
+msgid "You look... different."
+msgstr "Estás... diferente."
+
+msgid "...But I can't quite put my finger on it."
+msgstr "...Mas não consigo perceber bem o que é."
+
+msgid "I don't appreciate your humor."
+msgstr "Não gosto do teu humor."
+
+msgid "Miss Knives discovered my hiding spot."
+msgstr "A Senhorita Facas descobriu o meu esconderijo."
+
+msgid "She's not fond of my presence."
+msgstr "Ela não gosta da minha presença."
+
+msgid "So she turned me into... this."
+msgstr "Então transformou-me... nisto."
+
+msgid "It's pathetic."
+msgstr "É patético."
+
+msgid "Damn, she must have crazy powers."
+msgstr "Bolas, ela deve ter uns poderes loucos."
+
+msgid "Is she really that powerful?"
+msgstr "Ela é assim tão poderosa?"
+
+msgid "Not quite."
+msgstr "Não é bem assim."
+
+msgid "You both must have had some time to look around this place by now."
+msgstr "Vocês já devem ter dado uma vista de olhos neste sítio."
+
+msgid "You must have had some time to look around this place by now."
+msgstr "Já deves ter dado uma vista de olhos neste sítio."
+
+msgid "Did you figure out anything strange?"
+msgstr "Não havia nada estranho?"
+
+msgid "You mean aside from... everything?"
+msgstr "Tipo, para além de... tudo?"
+
+msgid "Kind of a tall order, pal."
+msgstr "É uma tarefa um bocado difícil, amigo."
+
+msgid "...Well..."
+msgstr "...Bem..."
+
+msgid "The location of this house is strange."
+msgstr "A localização desta casa é estranha."
+
+msgid "The walls are filled with creepy paintings."
+msgstr "As paredes estão cheias de quadros arrepiantes."
+
+msgid "It's all very purple, I guess."
+msgstr "É tudo muito roxo, acho eu."
+
+msgid "...Maybe humans are just slow."
+msgstr "...Talvez os humanos sejam burros."
+
+msgid "None of what you're seeing is real."
+msgstr "Nada disto é real."
+
+msgid "Huh?"
+msgstr "Hm?"
+
+msgid "What?"
+msgstr "Quê?"
+
+msgid "Miss Knives is a strange case."
+msgstr "A Senhorita Facas é um caso estranho."
+
+msgid "She created this place out of her own desires."
+msgstr "Ela criou este lugar a partir dos seus desejos."
+
+msgid "But the house doesn't actually exist."
+msgstr "Mas a casa não existe de facto."
+
+msgid "Convenient."
+msgstr "Que prático."
+
+msgid "So then... it's an illusion?"
+msgstr "Então... é uma ilusão?"
+
+msgid "To an extent, yes."
+msgstr "Até certo ponto, sim."
+
+msgid "That's also why I look like this."
+msgstr "Também é por isso que tenho este aspeto."
+
+msgid "Miss Knives only sees what she wants to see."
+msgstr "A Senhorita Facas só vê o que quer ver."
+
+msgid "So she sees you as... a little spider on the wall?"
+msgstr "Então ela vê-te como... uma aranhinha na parede?"
+
+msgid "It would seem so."
+msgstr "É o que parece."
+
+msgid "I see."
+msgstr "Entendi."
+
+msgid "Then... to escape..."
+msgstr "Então... para escapar..."
+
+msgid "You have to break the illusion."
+msgstr "É preciso quebrar a ilusão."
+
+msgid "Remind her who she is."
+msgstr "Lembrar-lhe quem ela é."
+
+msgid "Or rather... who she isn't."
+msgstr "Ou melhor... quem ela não é."
+
+msgid "That's where those objects you need to collect come into play."
+msgstr "É aí que os objetos entram em jogo."
+
+msgid "They seem to have some sort of connection to her memories."
+msgstr "Eles parecem ter uma certa ligação com as memórias dela."
+
+msgid "Once you find and unseal them all, come back and see me."
+msgstr "Quando os encontrares e abrires, volta para me ver."
+
+msgid "If you need help with the burning order..."
+msgstr "Se precisar de ajuda com a ordem em que os tens de queimar..."
+
+msgid "The painting with the hands might provide you with a hint."
+msgstr "O quadro com as mãos pode dar uma pista."
+
+msgid "That seems to be already unsealed."
+msgstr "Parece que já foi aberto."
+
+msgid "You don't need to do anything else with it."
+msgstr "Não precisa de fazer mais nada com ele."
+
+msgid "(The hands reject the item... it needs to be unsealed first.)"
+msgstr "(As mãos rejeitaram o objeto... preciso de abrir o selo primeiro.)"
+
+msgid "My mother got worse one day."
+msgstr "Um dia, a minha mãe piorou."
+
+msgid "Father thinks she might die."
+msgstr "O pai acha que ela pode morrer."
+
+msgid "I don't want mom to die."
+msgstr "Não quero que a mãe morra."
+
+msgid "I brought her a cold compress to lower the fever."
+msgstr "Trouxe-lhe uma compressa fria para baixar a febre."
+
+msgid "Mother always said that water provides the best healing."
+msgstr "A mãe sempre disse que a água é a melhor cura."
+
+msgid "That night, I said a prayer to try to help her."
+msgstr "Naquela noite, rezei para tentar ajudá-la."
+
+msgid "I wished for her to get better, and I wished for our family to go back to normal, at least."
+msgstr "Desejei que ela melhorasse e que a nossa família voltasse ao normal, pelo menos."
+
+msgid "The [color=#90EE90]third blessing[/color] came as a surprise to everyone in the village."
+msgstr "A [color=#90EE90]terceira bênção[/color] foi uma surpresa para todos na aldeia."
+
+msgid "The morning after my prayer, my mother was out of bed, and cooking."
+msgstr "Na manhã depois da minha oração, a mãe levantou-se da cama e estava a cozinhar."
+
+msgid "She said she felt much better, she even had strength to go to the market."
+msgstr "Ela disse que se sentia muito melhor, e até tinha forças para ir ao mercado."
+
+msgid "You see? The cold compress did the job!"
+msgstr "Viste? A compressa fria resultou!"
+
+msgid "Clean water is the purest thing we have."
+msgstr "A água potável é a coisa mais pura que temos."
+
+msgid "Are you sure you should be out of bed?"
+msgstr "Tens a certeza que devias estar fora da cama?"
+
+msgid "This is the best I've felt in years."
+msgstr "Não me sinto tão bem há anos."
+
+msgid "But... the doctor said..."
+msgstr "Mas... o médico disse..."
+
+msgid "I'm sure he was just wrong."
+msgstr "De certeza que se enganou."
+
+msgid "You know, medicine isn't always entirely accurate."
+msgstr "Tipo, nem sempre a medicina é totalmente certa."
+
+msgid "No more than two days later, some adults knocked at the door."
+msgstr "Passados dois dias, alguns adultos bateram à porta."
+
+msgid "They took my mother. They called her a witch."
+msgstr "Eles levaram a minha mãe. Chamaram-na de bruxa."
+
+msgid "They claimed she used her powers to get cured of a deadly illness."
+msgstr "Diziam que ela usou os seus poderes para se curar da doença mortal."
+
+msgid "They said the village needs to be cleansed, and that witch hunts were important for this."
+msgstr "Diziam que a aldeia precisava de ser purificada e que a caça às bruxas era importante para isso."
+
+msgid "The next day, my mother was burned at the stake."
+msgstr "No dia seguinte, a minha mãe foi queimada na fogueira."
+
+msgid "Everyone watched, and everyone cheered, as she died slowly, for a sin she did not commit."
+msgstr "Todos assistiram e aplaudiram enquanto ela morria lentamente, por um pecado que não cometeu."
+
+msgid "This was the first time I wished that I couldn't see anymore."
+msgstr "Foi a primeira vez que desejei não poder ver mais."
+
+msgid "Have you somehow missed the large painting that's lacking eyes?"
+msgstr "Não viste o quadro grande que não tem olhos?"
+
+msgid "The [color=#90EE90]fourth blessing[/color] was something I would never wish for."
+msgstr "A [color=#90EE90]quarta bênção[/color] foi algo que eu nunca desejaria."
+
+msgid "Give it back!"
+msgstr "Devolve!"
+
+msgid "How'd you get your hands on such an expensive-looking sketchbook, huh?"
+msgstr "Como é que conseguiste um caderno de desenho tão caro?"
+
+msgid "Let's see..."
+msgstr "Vejamos..."
+
+msgid "Stop! Just give it to me!"
+msgstr "Para! Dá cá isso!"
+
+msgid "What the heck is this?"
+msgstr "Mas que raio é isto?"
+
+msgid "They flipped through the pages of my sketchbook, and their faces got an awful ghostly white."
+msgstr "Eles folhearam o meu caderno e ficaram com as caras pálidas, de um tom branco fantasmagórico horrível."
+
+msgid "Is she a witch?"
+msgstr "Ela é uma bruxa?"
+
+msgid "What are those?"
+msgstr "O que é isso?"
+
+msgid "I didn't draw that!"
+msgstr "Eu não desenhei isso!"
+
+msgid "Hey, I didn't know you were a witch."
+msgstr "Ei, não sabia que eras uma bruxa."
+
+msgid "I'm not!!!"
+msgstr "Não sou!!!"
+
+msgid "Pages and pages of creepy drawings."
+msgstr "Várias e várias páginas de desenhos arrepiantes."
+
+msgid "What is this? Some kind of curse casting shit?"
+msgstr "O que é que é isto? Alguma maldição?"
+
+msgid "I didn't make them! I don't know where they came from!"
+msgstr "Não fui eu que os fiz! Não sei de onde é que vieram!"
+
+msgid "It's the truth. Why didn't they believe me?"
+msgstr "É verdade. Porque é que não acreditaram em mim?"
+
+msgid "STOP! WHAT ARE YOU DOING?!?"
+msgstr "PARA! O QUE ESTÁS A FAZER?!?"
+
+msgid "You're just a filthy witch!"
+msgstr "És uma bruxa nojenta!"
+
+msgid "I'm reporting you, you won't be needing this!"
+msgstr "Vou expor-te, não vais precisar disto!"
+
+msgid "PLEASE DON'T BREAK IT!"
+msgstr "POR FAVOR, NÃO O RASGUES!"
+
+msgid "You don't even need all of these colors."
+msgstr "Nem sequer precisas destas cores todas."
+
+msgid "Nothing but black."
+msgstr "Só preto."
+
+msgid "You were never supposed to see anything but darkness anyway."
+msgstr "Não era suposto veres nada além da escuridão, de qualquer forma."
+
+msgid "Blind freak."
+msgstr "Cega maluca."
+
+msgid "Please stop... Give them back..."
+msgstr "Por favor, para... Devolve..."
+
+msgid "Aww.. poor little crybaby."
+msgstr "Aiii… Coitadinha da bebé chorona."
+
+msgid "I'm gonna report you."
+msgstr "Vou denunciar-te."
+
+msgid "Father will be so proud, I caught my own witch."
+msgstr "O pai vai ficar tão orgulhoso, descobri uma bruxa."
+
+msgid "I'm not a witch..."
+msgstr "Não sou uma bruxa..."
+
+msgid "I swear I'm not..."
+msgstr "Juro que não sou..."
+
+msgid "No! Don't!!!! Please!!!"
+msgstr "Não! Não!!!! Por favor!!!"
+
+msgid "(Stop, please stop...)"
+msgstr "(Para, por favor para...)"
+
+msgid "(Please stop...)"
+msgstr "(Por favor, para...)"
+
+msgid "(What did I do to you...?)"
+msgstr "(O que é que eu te fiz...?)"
+
+msgid "(Please stop.......)"
+msgstr "(Por favor, para.......)"
+
+msgid "I hate them. I hate my life. Why is this happening to me?"
+msgstr "Odeio-os. Odeio a minha vida. Porque é que isto me está a acontecer?"
+
+msgid "Soon enough, the boy dropped the sketchbook."
+msgstr "O rapaz deixou o caderno de desenhos cair."
+
+msgid "My eyes were focused on the crumpled pages of my sketchbook hitting the ground, so I didn't see it until someone screamed."
+msgstr "Os meus olhos concentraram-se nas páginas amachucadas que caíam no chão, então só vi quando alguém gritou."
+
+msgid "...!?"
+msgstr "...?!"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+msgstr "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+
+msgid "The boy's right leg twisted almost 360 degrees, as if it was some form of nightmarish witchcraft."
+msgstr "A perna direita do rapaz rodou quase 360 graus, como se fosse bruxaria."
+
+msgid "Then it twisted again."
+msgstr "Depois, torceu-se outra vez."
+
+msgid "Something broke in his leg, and he fell down, writhing in pain."
+msgstr "Alguma coisa na perna partiu-se e ele caiu, contorcendo-se de dor."
+
+msgid "I couldn't understand what I was seeing."
+msgstr "Não consegui compreender o que estava a ver."
+
+msgid "Y-you... what did you do to his leg?!?"
+msgstr "O-o que... O que é que lhe fizeste à perna?!?"
+
+msgid "N-Nothing I didn't even touch him..."
+msgstr "N-nada, nem sequer lhe toquei..."
+
+msgid "AAAAAAAAGGGHHHH! IT HURTS!!!!"
+msgstr "AAAAAAAAGGGHHHH! DÓI!!!!"
+
+msgid "Call someone! We need help! HELP!!!"
+msgstr "Chamem alguém! Precisamos de ajuda! AJUDA!!!"
+
+msgid "YOU'RE A WITCH!! YOU'RE A WITCH!!!"
+msgstr "ÉS UMA BRUXA!!! ÉS UMA BRUXA!!!"
+
+msgid "I WILL DESTROY YOU!!!! YOU'LL BE BURNED!!!!"
+msgstr "VOU DESTRUIR-TE!!!! VAIS SER QUEIMADA!!!!"
+
+msgid "................."
+msgstr "................."
+
+msgid "BURN IN HELL!!!"
+msgstr "ARDE NO INFERNO!!!"
+
+msgid "The adults came and took him away."
+msgstr "Os adultos vieram e levaram-no."
+
+msgid "When I finally lifted my gaze from the dirt below my fingers, Iris was standing in front of me."
+msgstr "Quando finalmente levantei o olhar da terra debaixo dos meus dedos, a Iris estava à minha frente."
+
+msgid "My heart sank... Did she see what happened?"
+msgstr "O meu coração afundou-se... Ela viu o que aconteceu?"
+
+msgid "...A-Are you alright...?"
+msgstr "...E-estás bem...?"
+
+msgid "............"
+msgstr "............"
+
+msgid "I-I... You didn't do that to his leg, right?"
+msgstr "E-eu... Não fizeste aquilo à perna dele, pois não?"
+
+msgid "No! Of course I didn't!"
+msgstr "Não! Claro que não!"
+
+msgid "O-Okay."
+msgstr "O-ok."
+
+msgid "...I... Why are you here?"
+msgstr "...Eu... Porque é que estás aqui?"
+
+msgid "Um... I came because... my parents said..."
+msgstr "Hum... Eu vim porque... os meus pais disseram..."
+
+msgid "...That I'm not allowed to see you anymore."
+msgstr "...Que não posso voltar a ver-te."
+
+msgid "Take ${item:ch1.mk_jar} x3?"
+msgstr "Levar o ${item:ch1.mk_jar} x3?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "You may use that on the canvas over there."
+msgstr "Podes usá-los na tela que está ali."
+
+msgid "That's the right idea, I think."
+msgstr "É a ideia certa, penso eu."
+
+msgid "What should I be doing with these?"
+msgstr "O que devo fazer com eles?"
+
+msgid "They're probably related to that canvas over there."
+msgstr "Provavelmente estão relacionados com aquela tela ali."
+
+msgid "Maybe you use them to make paint."
+msgstr "Talvez os possas usar para fazer tinta."
+
+msgid "That's the key to the bedroom."
+msgstr "É a chave do quarto."
+
+msgid "Oh... I don't need this anymore."
+msgstr "Oh... Já não preciso disto."
+
+msgid "That's a key to the cages."
+msgstr "É a chave das gaiolas."
+
+msgid "I see you don't need it anymore."
+msgstr "Vejo que já não precisas dela."
+
+msgid "I can take that off your hands."
+msgstr "Posso tirar-ta das mãos."
+
+msgid "Oh... I see."
+msgstr "Oh… Entendi."
+
+msgid "That's the key to this room."
+msgstr "É a chave desta sala."
+
+msgid "I shall get rid of it, given that you already made it in."
+msgstr "Vou livrar-me dela, agora que já a abriste."
+
+msgid "After the incident with that boy's leg, the authorities knocked at our door again."
+msgstr "Depois do que aconteceu com a perna do rapaz, as autoridades voltaram a bater-nos à porta."
+
+msgid "\"Your daughter is a witch\" they said to my father."
+msgstr "\"A sua filha é uma bruxa\", disseram ao meu pai."
+
+msgid "They talked about how I hurt that boy, how my mother healed from a fatal illness, how my eyesight came back."
+msgstr "Falaram de como magoei aquele rapaz, de como a minha mãe se curou de uma doença fatal, de como a minha visão voltou."
+
+msgid "They told us both me and my father are accused of witchcraft."
+msgstr "Disseram que tanto eu como o meu pai fomos acusados de bruxaria."
+
+msgid "T-That's nonsense! What are you talking about??"
+msgstr "I-isso é um disparate! Do que é que estão a falar??"
+
+msgid "The whole family needs to be cleansed."
+msgstr "A família toda precisa de ser purificada."
+
+msgid "Your daughter will be tried for witchcraft, and due to your ties to her, you will be as well."
+msgstr "A sua filha será julgada por bruxaria e você também será, já que tem laços com ela."
+
+msgid "H-Hold on... Wait... You've got it all wrong. She's not my daughter."
+msgstr "E-esperem... Esperem... Vocês entenderam tudo mal. Ela não é minha filha."
+
+msgid "I merely found her on the streets, she does not share my blood."
+msgstr "Eu encontrei-a nas ruas, não temos o mesmo sangue."
+
+msgid "(...Father...)"
+msgstr "(...Pai...)"
+
+msgid "Take him."
+msgstr "Levem-no."
+
+msgid "N-NO NO! PLEASE! I HAVE NOTHING TO DO WITH THIS!"
+msgstr "N-NÃO NÃO! POR FAVOR! NÃO TENHO NADA A VER COM ISTO!"
+
+msgid "When the men walked in the house, my father ran towards the back door."
+msgstr "Quando os homens entraram na casa, o meu pai correu para a porta das traseiras."
+
+msgid "He was frantically bumping into the furniture to reach it."
+msgstr "Ele esbarrou freneticamente nos móveis para a alcançar."
+
+msgid "Find the girl."
+msgstr "Encontrem a menina."
+
+msgid "And burn his body."
+msgstr "E queimem o corpo dele."
+
+msgid "Burn the whole house, it's cursed."
+msgstr "Queimem a casa toda, está amaldiçoada."
+
+msgid "My father's blood ran down the hallway like a small river stream."
+msgstr "O sangue do meu pai escorria pelo corredor, como se fosse um rio."
+
+msgid "It seeped into the cracks of the broken floorboards."
+msgstr "Infiltrou-se nas fendas das tábuas partidas do soalho."
+
+msgid "This is all that boy's fault."
+msgstr "A culpa é toda daquele rapaz."
+
+msgid "The prison cell was cold, and dark."
+msgstr "A cela da prisão era fria e escura."
+
+msgid "There was nobody else there with me, except for the occasional rat."
+msgstr "Não havia mais ninguém lá comigo, exceto alguns ratos."
+
+msgid "People always said rats are dirty and dangerous."
+msgstr "As pessoas diziam sempre que os ratos eram sujos e perigosos."
+
+msgid "But at that moment, I appreciated the company."
+msgstr "Mas, naquele momento, apreciei a companhia."
+
+msgid "The adults told me my execution will be the following morning."
+msgstr "Os adultos disseram que a minha execução seria na manhã seguinte."
+
+msgid "They said I will be burned in order to purify the village."
+msgstr "Disseram que eu ia ser queimada para purificar a aldeia."
+
+msgid "What does that even mean? Purify the village..."
+msgstr "O que é que isso quer dizer? Purificar a aldeia..."
+
+msgid "I was alone with my thoughts for what felt like hours before someone came by."
+msgstr "Fiquei sozinha com os meus pensamentos por horas, até que alguém apareceu."
+
+msgid "Hey..."
+msgstr "Ei..."
+
+msgid "Iris...?"
+msgstr "Iris...?"
+
+msgid "(Will I get out of here...??)"
+msgstr "(Será que vou sair daqui...??)"
+
+msgid "Um... listen... I'm so sorry...!"
+msgstr "Hm... Escuta... Peço imensa desculpa...!"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "I-... I told my dad about everything..."
+msgstr "Eu-... Eu contei tudo ao meu pai..."
+
+msgid "What...?"
+msgstr "Hã...?"
+
+msgid "(...No way...)"
+msgstr "(...Não pode ser...)"
+
+msgid "I... I thought if you might really be a witch, he could protect you...."
+msgstr "Pensei... Pensei que, se fosses mesmo uma bruxa, ele poderia proteger-te...."
+
+msgid "B-Because he knew we were friends!"
+msgstr "P-porque ele sabia que nós éramos amigas!"
+
+msgid "I'm sorry... I did this...!"
+msgstr "Desculpa... Fui eu que fiz isto...!"
+
+msgid "I didn't know he would kill your dad... and... and you..."
+msgstr "Não sabia que ele ia matar o teu pai... e... E a ti..."
+
+msgid "Please..."
+msgstr "Por favor..."
+
+msgid "Please take this knife..."
+msgstr "Por favor, fica com esta faca..."
+
+msgid "P-please... please use it... before they kill you."
+msgstr "P-por favor... Por favor, usa-a... antes que eles te matem."
+
+msgid "You'll be better off if you end it this way...!"
+msgstr "Vai ser melhor se acabar assim...!"
+
+msgid "What's happening?"
+msgstr "O que é que está a acontecer?"
+
+msgid "Why would she tell me something like this?"
+msgstr "Porque é que ela me diria algo assim?"
+
+msgid "What's going on?"
+msgstr "O que é que se passa?"
+
+msgid "I-I love you and... father said burning is slow and painful...!!"
+msgstr "E-eu amo-te e... o pai disse que queimar é lento e doloroso...!!!"
+
+msgid "You're better off doing it this way..!"
+msgstr "É melhor morrer desta forma...!"
+
+msgid "....."
+msgstr "....."
+
+msgid "You're asking me to kill myself..?"
+msgstr "Estás a pedir-me que me mate?"
+
+msgid "Y-Yes... because... I still care about you...!"
+msgstr "Sim... porque... ainda gosto de ti...!"
+
+msgid "Is this what you call... care?"
+msgstr "É a isto que chamas... gostar?"
+
+msgid "I didn't know that my vision would get blurry if I cry."
+msgstr "Não sabia que a visão ficava desfocada quando as pessoas choravam."
+
+msgid "I need help with this."
+msgstr "Preciso de ajuda."
+
+msgid "Ah, this is a knife."
+msgstr "Ah, é uma faca."
+
+msgid "You might have to draw some blood to unseal it."
+msgstr "Talvez seja preciso sangue para abrires esse."
+
+msgid "Are you brave enough to cut yourself?"
+msgstr "Tens coragem de te cortar?"
+
+msgid "Why should I cut myself?"
+msgstr "Porque é que me hei-de cortar?"
+
+msgid "I don't see who else you could cut."
+msgstr "Não estou a ver quem mais se cortaria."
+
+msgid "I could cut you instead."
+msgstr "Posso cortar-te a ti."
+
+msgid "You'll never aim properly."
+msgstr "Nunca me acertarias."
+
+msgid "Your aim is terrible."
+msgstr "A tua pontaria é péssima."
+
+msgid "Perhaps there are advantages to being small after all."
+msgstr "Talvez haja vantagens em ser pequeno, afinal."
+
+msgid "You're not skilled enough for that."
+msgstr "Não és hábil o suficiente para isso."
+
+msgid "(The hands reject the item... they're scared of it.)"
+msgstr "(As mãos rejeitaram o objeto... Têm medo dele.)"
+
+msgid "That should serve you well in lighting the fireplace."
+msgstr "Isto deve servir para acender a lareira."
+
+msgid "My life is below average."
+msgstr "A minha vida está abaixo da média."
+
+msgid "I've been blind since I was a baby, so my parents thought of abandoning me."
+msgstr "Sou cega desde bebé, então os meus pais pensaram em abandonar-me."
+
+msgid "\"A blind child cannot help the family\" they said. \"Especially not a girl.\""
+msgstr "\"Uma criança cega não pode ajudar a família\", diziam eles. \"Muito menos uma menina.\""
+
+msgid "But my mother says they loved me so much that they wanted to give me a chance."
+msgstr "Mas a minha mãe disse que eles gostaram tanto de mim que quiseram dar-me uma oportunidade."
+
+msgid "Right now, I manage just fine."
+msgstr "Atualmente, consigo desenrascar-me bem."
+
+msgid "I do my chores, I go to the market, I help with the vegetable garden."
+msgstr "Faço as minhas tarefas, vou ao mercado, ajudo na horta."
+
+msgid "Mother is sick, so she's always in bed."
+msgstr "A mãe está doente, então passa a vida na cama."
+
+msgid "The doctor says she might be like this for the rest of her life."
+msgstr "O médico diz que ela pode ficar assim para o resto da vida."
+
+msgid "Every day, I go meet my friend at the riverbank."
+msgstr "Todos os dias, vou ter com a minha amiga à margem do rio."
+
+msgid "Iris is always talking excitedly about everything you could find outside of the village."
+msgstr "A Iris está sempre a falar com entusiasmo sobre tudo o que fica fora da aldeia."
+
+msgid "She makes the world sound so bright."
+msgstr "Ela faz o mundo parecer tão brilhante."
+
+msgid "We made a deal, that when we turn 14, we'll run away together, and travel to mountains and seas."
+msgstr "Fizemos um acordo: quando fizéssemos 14 anos, fugiríamos juntas e viajaríamos para as montanhas e para os mares."
+
+msgid "But I was actually fine with a simple life. The bare minimum was enough, as long as I had Iris."
+msgstr "Mas, na verdade, não me importava de ter uma vida simples. O mínimo era suficiente, desde que tivesse a Iris."
+
+msgid "If there's one thing I wanted..."
+msgstr "Se eu tivesse que pedir por alguma coisa..."
+
+msgid "It was just to be able to see her."
+msgstr "Quer poder vê-la."
+
+msgid "The [color=#90EE90]first blessing[/color] changed the course of my life."
+msgstr "A [color=#90EE90]primeira bênção[/color] mudou o rumo da minha vida."
+
+msgid "........."
+msgstr "........."
+
+msgid "I couldn't calm my breathing."
+msgstr "Não conseguia acalmar a respiração."
+
+msgid "I woke up one morning and I could see."
+msgstr "Acordei e consegui ver."
+
+msgid "I saw shapes, and colors, and my parents."
+msgstr "Vi formas, cores e os meus pais."
+
+msgid "I saw the broken dining table."
+msgstr "Vi a mesa de jantar partida."
+
+msgid "I saw the weeds in the vegetable garden."
+msgstr "Vi as ervas daninhas na horta."
+
+msgid "I saw the chipped cup that I drank from."
+msgstr "Vi a chávena rachada que usava sempre para beber."
+
+msgid "I saw my wrinkled clothes."
+msgstr "Vi as minhas roupas amarrotadas."
+
+msgid "Despite not having much, they were the most beautiful things I laid my eyes on."
+msgstr "Apesar de não serem grande coisa, eram o mais bonito que já vi."
+
+msgid "I couldn't say the same about my reflection."
+msgstr "Não posso dizer o mesmo do meu reflexo."
+
+msgid "(Have I always looked like this?)"
+msgstr "(Sempre tive este aspeto?)"
+
+msgid "(Were my eyes always so... bland?)"
+msgstr "(Os meus olhos sempre foram tão... chatos?)"
+
+msgid "(Was my hair always so... dull?)"
+msgstr "(O meu cabelo sempre foi tão... aborrecido?)"
+
+msgid "My parents gradually grew distant."
+msgstr "Os meus pais foram-se distanciando de mim."
+
+msgid "People in the village stared at me, and whispered behind my back."
+msgstr "As pessoas da aldeia olhavam para mim e sussurravam nas minhas costas."
+
+msgid "Why did they seem scared of me?"
+msgstr "Porque é que eles pareciam ter medo de mim?"
+
+msgid "Iris said she's a little nervous around me, but she was really happy that I got my eyesight."
+msgstr "A Iris disse que fica um bocado nervosa ao pé de mim, mas que estava muito contente por eu ter recuperado a visão."
+
+msgid "She called it a miracle."
+msgstr "Disse que era um milagre."
+
+msgid "My parents started avoiding me."
+msgstr "Os meus pais começaram a evitar-me."
+
+msgid "When I spoke to them, they always tried to brush me away."
+msgstr "Quando falava com eles, tentavam sempre afastar-me."
+
+msgid "The only times their tired eyes met mine, I only saw hatred in them."
+msgstr "Sempre que os seus olhos cansados se encontravam com os meus, só via ódio neles."
+
+msgid "Did they always look at me this way?"
+msgstr "Eles sempre me olharam assim?"
+
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+msgid "Have you tried simply looking at it?"
+msgstr "Já tentaste olhar para ele?"
+
+msgid "(The hands reject the item... it is irrelevant to them.)"
+msgstr "(As mãos rejeitaram o objeto... É irrelevante para elas.)"
+
+msgid "With your masterpiece complete, the canvas turns into a sketchbook."
+msgstr "Com a obra-prima concluída, a tela transforma-se num caderno de desenho."
+
+msgid "The pigment doesn't stick on its own..."
+msgstr "O pigmento não adere..."
+
+msgid "You soak the rag in the pool..."
+msgstr "Mergulhas o pano na piscina..."
+
+msgid "It's already wet enough."
+msgstr "Já está bastante húmido."
+
+msgid "A dry piece of cloth?"
+msgstr "Um pano seco?"
+
+msgid "Try moisturizing it."
+msgstr "Tente molhá-lo."
+
+msgid "The [color=#90EE90]second blessing[/color] came as a gift."
+msgstr "A [color=#90EE90]segunda bênção[/color] veio como um presente."
+
+msgid "I always met Iris out by the river, and we sat and talked for hours."
+msgstr "Encontrava-me sempre com a Iris junto ao rio e ficávamos a conversar durante horas."
+
+msgid "She told me all about the things I couldn't see."
+msgstr "Ela contava-me tudo sobre as coisas que eu não conseguia ver."
+
+msgid "But it was different now."
+msgstr "Mas agora era diferente."
+
+msgid "She spoke with such happiness and excitement."
+msgstr "Ela falava com alegria e entusiasmo."
+
+msgid "I couldn't take my eyes off of her."
+msgstr "Não conseguia tirar os olhos dela."
+
+msgid "So to celebrate this miracle..."
+msgstr "Então, para celebrar este milagre..."
+
+msgid "I got you something!"
+msgstr "Trouxe-te uma coisa!"
+
+msgid "For me?"
+msgstr "Para mim?"
+
+msgid "Of course! Your eyes work now! It's amazing! We have to celebrate!"
+msgstr "Claro! Os teus olhos funcionam agora! Isso é espetacular! Temos que comemorar!"
+
+msgid "So... I stole this from my family..."
+msgstr "Então... roubei isto à minha família..."
+
+msgid "But shh!"
+msgstr "Mas, shh!"
+
+msgid "Don't tell!"
+msgstr "Não digas a ninguém!"
+
+msgid "Wha-.."
+msgstr "Hã-.."
+
+msgid "Iris! A sketchbook and paints are... so expensive...!"
+msgstr "Iris! Cadernos de desenho e tintas são... tão caros...!"
+
+msgid "H-How...? Why...?"
+msgstr "C-como...? Porquê...?"
+
+msgid "You always said you wanted to paint! I believe in you!"
+msgstr "Sempre disseste que querias pintar! Eu acredito em ti!"
+
+msgid "I'm so excited to see what you'll come up with!"
+msgstr "Estou ansiosa para ver o que vais inventar!"
+
+msgid "I couldn't believe it! My very own sketchbook and watercolors!"
+msgstr "Nem consegui acreditar! O meu próprio caderno de desenho e aguarelas!"
+
+msgid "There were so many things I could paint!"
+msgstr "Podia pintar tantas coisas!"
+
+msgid "Mother was always bedridden, so I made a habit of showing her my paintings."
+msgstr "A minha mãe estava sempre acamada e eu tinha o hábito de lhe mostrar os meus quadros."
+
+msgid "I started with trees and objects."
+msgstr "Comecei com árvores e objetos."
+
+msgid "But I took a liking to portraits of people."
+msgstr "Mas comecei a gostar de fazer retratos de pessoas."
+
+msgid "They all have such distinct, beautiful faces."
+msgstr "Toda a gente tem caras tão diferentes e bonitas."
+
+msgid "After only 2 days, I had already made 8 portraits!"
+msgstr "Em 2 dias, já tinha feito 8 retratos!"
+
+msgid "But when I flipped to the next page... a different kind of portrait filled the brown paper."
+msgstr "Mas, quando passei para a página seguinte... um retrato diferente preencheu o papel castanho."
+
+msgid "It was all painted in black, and it was twisted and scary."
+msgstr "Estava tudo pintado de preto, era retorcido e assustador."
+
+msgid "I hadn't painted this..."
+msgstr "Eu não tinha pintado aquilo..."
+
+msgid "I didn't even know who this person- or... creature, was."
+msgstr "Nem sequer sabia quem era aquela pessoa - ou... criatura."
+
+msgid "Every morning after that, I found new distorted portraits in the pages, but I never remembered painting them."
+msgstr "Depois disso, todas as manhãs eu encontrava novos retratos distorcidos nas páginas, mas nunca me lembrava de os ter pintado."
+
+msgid "A bookshelf full of coloring books, and other children's books."
+msgstr "Uma estante cheia de livros para colorir e livros infantis."
+
+msgid "A bookshelf full of books about painting."
+msgstr "Uma estante cheia de livros sobre pintura."
+
+msgid "One of them stands out. Read a passage?"
+msgstr "Um deles destaca-se. Leu um trecho?"
+
+msgid "\"Should a merchant not be available in your region, it is always possible to create your own paint by mixing pigments with water.\""
+msgstr "\"Se um comerciante não estiver disponível na sua região, pode sempre criar a sua própria tinta misturando pigmentos com água.\""
+
+msgid "There's something covered with a drape."
+msgstr "Qualquer coisa coberta com uma cortina."
+
+msgid "Remove the drape?"
+msgstr "Retirar a cortina?"
+
+msgid "Looks like a flat, black square."
+msgstr "Parece um quadrado normal e preto."
+
+msgid "Take it with you?"
+msgstr "Queres levá-lo?"
+
+msgid "...It's too large and heavy to carry around."
+msgstr "...É demasiado grande e pesado para ser levado."
+
+msgid "A crow stands at the edge of the pool."
+msgstr "Um corvo à beira da piscina."
+
+msgid "A painting with two protruding hands expecting something."
+msgstr "Um quadro com duas mãos à espera de algo."
+
+msgid "Looks like I can place something on these hands..."
+msgstr "Parece que posso colocar alguma coisa nas mãos..."
+
+msgid "A small pool. The water looks clean."
+msgstr "Uma piscina pequena. A água parece limpa."

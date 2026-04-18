@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "....."
+msgstr "....."
+
+msgid "Let's get rid of some items..."
+msgstr "Стоит выбросить некоторые вещи..."
+
+msgid "(You got rid of some items.)"
+msgstr "(Вы выбросили некоторые вещи.)"
+
+msgid "There's a bucket here."
+msgstr "Тут есть ведро."
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "Взять ${item:ch1.bucket}?"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice.Take ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice.Take ${item:ch1.bucket}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "There are easier ways to fill a bucket with water."
+msgstr "Ведро можно набрать и попроще."
+
+msgid "It doesn't want to go in there..."
+msgstr "Он не хочет туда влазить..."
+
+msgid "The fish is long dead. Putting it in water won't change that."
+msgstr "Рыба уже давным-давно мертва. Вода ей не поможет."
+
+msgid "The monster swims away after being splashed."
+msgstr "Чудовище ушло, когда вы плеснули в него водой."
+
+msgid "That won't accomplish anything."
+msgstr "Вы этим ничего не добьётесь."
+
+msgid "I thought it hated water...?"
+msgstr "А я думала, что оно ненавидит воду..."
+
+msgid "Well, no... it's clearly swimming in the water just fine."
+msgstr "Хотя нет... в воде этому чудищу вполне комфортно."
+
+msgid "Maybe it's some different kind of water."
+msgstr "Может, нужна какая-то иная вода?"
+
+msgid "The monster stares at you without moving from its spot."
+msgstr "Чудовище застыло и смотрит на вас."
+
+msgid "No... what if something lives down there?"
+msgstr "Нет... а вдруг там кто-то живёт?"
+
+msgid "I wouldn't want to drown it."
+msgstr "Не хотелось бы кого-то затопить."
+
+msgid "A boat that has seen better days."
+msgstr "Лодка, видавшая дни и получше."
+
+msgid "It could probably take you north."
+msgstr "Она может помочь вам отправиться на север."
+
+msgid "Ideally, I'd like to have two paddles."
+msgstr "В идеале мне надо два весла."
+
+msgid "I can't take it anywhere without paddles."
+msgstr "Без вёсел на ней далеко не поплывёшь."
+
+msgid "Also..."
+msgstr "А ещё..."
+
+msgid "(What should I do?)"
+msgstr "(Как мне поступить?)"
+
+msgid "Get on the boat"
+msgstr "Сесть в лодку"
+
+msgid "Do not"
+msgstr "Ничего не делать"
+
+msgid "What the heck is that thing...?"
+msgstr "Что это за хрень?.."
+
+msgid "(Maybe I shouldn't get on while it's there...)"
+msgstr "(Лучше не лезть туда, пока чудище на месте...)"
+
+msgid "A puddle of what looks like blood."
+msgstr "Лужица чего-то похожего на кровь."
+
+msgid "Did this thing just turn into blood...?"
+msgstr "Оно только что превратилось в кровь?.."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.dlg.narrator"
+msgid "A small burrow."
+msgstr "Небольшая норка."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice"
+msgid "Reach inside?"
+msgstr "Засунуть туда руку?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.Reach inside?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.Reach inside?"
+msgid "No"
+msgstr "Нет"
+
+msgid "You can't feel anything special."
+msgstr "Вы не нащупали ничего особенного."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.dlg.narrator"
+msgid "A small burrow."
+msgstr "Небольшая норка."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice"
+msgid "Reach inside?"
+msgstr "Засунуть туда руку?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.Reach inside?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.Reach inside?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A cage attached to a tree."
+msgstr "К дереву привязана клетка."
+
+msgid "It looks like I could put something inside."
+msgstr "Похоже, я могу в неё что-то положить."
+
+msgid "A bunny stares at you from inside."
+msgstr "Кролик смотрит на вас из клетки."
+
+msgid "The 5-coin fish rests inside. It's not even grilled."
+msgstr "Внутри лежит рыбина за пять монет. И даже не поджаренная."
+
+msgid "A pack of chips is inside."
+msgstr "Внутри лежит пачка чипсов."
+
+msgid "A chocolate bar is inside."
+msgstr "Внутри лежит плитка шоколада."
+
+msgid "(Take it back?)"
+msgstr "(Забрать обратно?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Take it back?)"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Take it back?)"
+msgid "No"
+msgstr "Нет"
+
+msgid "There's no need to push the cage into the water anymore."
+msgstr "Теперь уже не нужно сталкивать клетку в воду."
+
+msgid "(Push the cage into the water?)"
+msgstr "(Сбросить клетку в воду?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Push the cage into the water?)"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Push the cage into the water?)"
+msgid "No"
+msgstr "Нет"
+
+msgid "(The monster seems to like what you put inside the cage.)"
+msgstr "(Похоже, чудовищу нравится то, что вы засунули в клетку.)"
+
+msgid "The cage is in the water."
+msgstr "Клетка погружена в воду."
+
+msgid "No need to mess with it anymore."
+msgstr "Не стоит с ней ничего делать."
+
+msgid "(Pull it back up?)"
+msgstr "(Вытянуть её обратно?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Pull it back up?)"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Pull it back up?)"
+msgid "No"
+msgstr "Нет"
+
+msgid "A fishing rod."
+msgstr "Удочка."
+
+msgid "Try it?"
+msgstr "Попробовать порыбачить?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Try it?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Try it?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A structure housing a lamp."
+msgstr "Конструкция с лампой внутри."
+
+msgid "A crow standing on a rock."
+msgstr "Ворона, сидящая на камне."
+
+msgid "Is it waiting to take the boat?"
+msgstr "Она хочет сесть на лодку?"
+
+msgid "Colorful logs sticking out of the water."
+msgstr "Из воды выпирают брёвна разных цветов."
+
+msgid "Despite your best efforts, you can't read the note from this side of the tree."
+msgstr "Вы очень старались, но не смогли прочитать записку с другой стороны дерева."
+
+msgid "A note is attached to the tree. It says:"
+msgstr "К дереву прикреплена записка. В ней сказано:"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVES MEAT\n"
+"HATES WATER\""
+msgstr ""
+"\"ЧУДОВИЩЕ\n"
+"ЛЮБИТ МЯСО\n"
+"НЕ ЛЮБИТ ВОДУ\""

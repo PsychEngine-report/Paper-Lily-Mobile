@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"WARNING\n"
+"\n"
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"CẢNH BÁO\n"
+"\n"
+"Trò chơi này có thể chứa ánh sáng và hiệu ứng chớp nháy,\n"
+"cùng với nội dung có miêu tả bạo lực và ngôn từ thô lỗ."
+
+msgid "Special Thanks"
+msgstr "Trân trọng cảm ơn"
+
+msgid "Everyone who made a video or stream"
+msgstr "Những người đã làm video hay stream"
+
+msgid "Everyone who completed the survey"
+msgstr "Những người đã hoàn thành khảo sát"
+
+msgid "Everyone who left a comment or rating"
+msgstr "Những người đã để lại bình luận và đánh giá"
+
+msgid "Our families and friends"
+msgstr "Bạn bè và gia đình của chúng tôi"
+
+msgid "And You!"
+msgstr "Và bạn!"
+
+msgid ""
+"Note from the devs:\n"
+"We really appreciate you taking the time to play our little game! It means the world to us!\n"
+"\n"
+"What you have played is the prologue of Paper Lily, a larger project we are currently working on. Right now, Chapter 1 is out so we hope you'll give it a try!\n"
+"\n"
+"If you liked what you played, it would help us a lot if you could leave a review!\n"
+"\n"
+"Thank you so much!"
+msgstr ""
+"Lời nhắn từ các dev:\n"
+"Chúng tôi vô cùng cảm kích bạn đã chơi qua trò chơi bé nhỏ này! Với chúng tôi, đó là niềm vui không gì thay thế được!\n"
+"\n"
+"Cái mà bạn vừa chơi xong là phần mở đầu của Paper Lily, một dự án lớn hơn mà chúng tôi hiện tại đang tiến hành. Bây giờ Chương 1 đã ra mắt rồi nên mong bạn hãy thử qua nhé!\n"
+"\n"
+"Nếu bạn thích thú với trò chơi này thì hãy để lại đánh giá nhé, làm thế sẽ giúp đỡ chúng tôi nhiều lắm!\n"
+"\n"
+"Cảm ơn các bạn rất nhiều!!!"
+
+msgid "True End K1 - Curiosity Killed the Kat"
+msgstr "Kết Đúng K1 – Tò Mò Hại Chết Con Meo"
+
+msgid "I need:"
+msgstr "Ta cần:"
+
+msgid "Preparations:"
+msgstr "Bước làm:"
+
+msgid "After waiting:"
+msgstr "Sau khi chờ đợi:"
+
+msgid "3 rooms"
+msgstr "3 căn phòng"
+
+msgid "12 candles"
+msgstr "12 cây nến"
+
+msgid "A lighter"
+msgstr "Bật lửa"
+
+msgid "A rune"
+msgstr "Rune"
+
+msgid "A tuft of hair"
+msgstr "Nhúm tóc"
+
+msgid "Chalk"
+msgstr "Phấn viết"
+
+msgid "1) Sort the desks in each classroom"
+msgstr "1) Sắp xếp bàn dạt sang hai bên trong mỗi lớp học"
+
+msgid "2) Turn off all the lights & draw the curtains in each classroom"
+msgstr "2) Tắt hết đèn và kéo rèm lại trong mỗi lớp học"
+
+msgid "3) Draw a path going through the 3 rooms (with chalk)"
+msgstr "3) Vẽ một con đường bằng phấn xuyên qua 3 lớp học"
+
+msgid "4) In the middle room, place one candle on each desk"
+msgstr "4) Ở phòng chính giữa, trên mỗi bàn đặt một cây nến"
+
+msgid "5) Light the candles & wait at least 5 minutes"
+msgstr "5) Thắp nến lên rồi đợi ít nhất 5 phút"
+
+msgid "6) Burn the tuft of hair on one of the candles"
+msgstr "6) Đốt nhúm tóc trên một ngọn nến bất kì"
+
+msgid "7) Blow out all of the candles"
+msgstr "7) Thổi tắt hết nến"
+
+msgid "8) Close your eyes and count to 100"
+msgstr "8) Nhắm mắt lại rồi đếm đến 100"
+
+msgid "9) Open your eyes and then ?????????"
+msgstr "9) Mở mắt ra và rồi ?????????"
+
+msgid "Something like this ??"
+msgstr "Kiểu kiểu giống vầy ??"
+
+msgid "Windows (CLOSE CURTAINS!!)"
+msgstr "Cửa sổ (PHẢI ĐÓNG RÈM!!)"
+
+msgid "White chalk lines"
+msgstr "Đường phấn trắng"
+
+msgid "Me"
+msgstr "Mình"
+
+msgid "Desks (candle on each)"
+msgstr "Bàn học (đặt nến mỗi bàn)"
+
+msgid "???"
+msgstr "???"
+
+msgid "Ponytail Girl"
+msgstr "Bạn nữ Tóc đuôi ngựa"
+
+msgid "Pretty Girl"
+msgstr "Bạn nữ Xinh xắn"
+
+msgid "Quiet Girl"
+msgstr "Bạn nữ Trầm tĩnh"

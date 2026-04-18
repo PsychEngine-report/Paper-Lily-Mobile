@@ -1,0 +1,975 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alright, let's see..."
+msgstr "さて、どれどれ……"
+
+msgid "According to my notes..."
+msgstr "メモによれば……"
+
+msgid "I need to move the desks to the sides in all three classrooms."
+msgstr "まず、3つの教室全部の机を脇に寄せる。"
+
+msgid "Then I can draw a \"path\" in the middle of each one with chalk."
+msgstr "それから、それぞれの教室の真ん中にチョークで「道」を描く。"
+
+msgid "Well, I'll leave the chalk drawing for last. I want to gather everything I need first."
+msgstr "道を描くのは最後にしましょう。先に必要なものを集めておかなきゃ。"
+
+msgid "Oh no..."
+msgstr "そんな……"
+
+msgid "What are you doing...? Is this part of the ritual?"
+msgstr "何してるの……？ それも儀式の一部？"
+
+msgid "Um... what's wrong with you?"
+msgstr "ねぇ……一体どうしたのよ？"
+
+msgid "If this ritual involves the mass genocide of harmless plants, then I want nothing to do with it."
+msgstr "もしこの儀式とやらに罪のない植物の大量虐殺が必要なら、私は関わり合いになるのはごめんよ。"
+
+msgid "Agreed."
+msgstr "同感ね。"
+
+msgid "Are you seriously going to go around killing all the plants?"
+msgstr "本気で全部の植物を殺して回るつもり？"
+
+msgid "I knew you were a psychopath..."
+msgstr "あんた、やっぱりサイコパスね……"
+
+msgid "Sorry Kat, but we didn't sign up for this."
+msgstr "申し訳ないけど、こんな話聞いてないわ。"
+
+msgid "I don't like this ritual anymore..."
+msgstr "こんな儀式、私は嫌だよ……"
+
+msgid "Don't worry Kaya, we're going home now."
+msgstr "大丈夫よカヤ、私たちはもう帰りましょう。"
+
+msgid "Don't talk to us again."
+msgstr "もう話しかけないで。"
+
+msgid "Shelves for the students to place their school bags."
+msgstr "生徒が鞄を置く棚。"
+
+msgid "There are no bags right now though."
+msgstr "でも今はひとつも置かれてない。"
+
+msgid "Everything's ready."
+msgstr "これで準備は完了ね。"
+
+msgid "All that's left is to wait 5 minutes and then burn the hair."
+msgstr "あとは5分待って、髪の毛を燃やすだけだわ。"
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "This is going to be such a pain to clean up."
+msgstr "後片付けには骨が折れそうね。"
+
+msgid "Seriously? Stop messing with things!"
+msgstr "正気!? 変な事に手を出すのはやめなよ！"
+
+msgid "But everything I \"mess with\" ends up being a scam."
+msgstr "でも私が「手を出した」ものは結局全部イカサマだったわ。"
+
+msgid "What if some day it isn't?"
+msgstr "もしいつかそうじゃなかったら？"
+
+msgid "What if you end up summoning some ghost or the devil and condemning your soul to an eternity in the netherworld?"
+msgstr "もし幽霊だか悪魔だかを呼び出して、魂が永遠に地獄に堕ちたら？"
+
+msgid "What if your soul is already damned!?"
+msgstr "もし魂がもう地獄に堕ちてたらどうするのよ!?"
+
+msgid "Then I guess that's what's waiting for me after I die."
+msgstr "そしたら、死んだあと地獄に行くだけね。"
+
+msgid "KAT!"
+msgstr "キャット！"
+
+msgid "It was a joke!"
+msgstr "冗談よ！"
+
+msgid "You're not gonna find him this way, you know?"
+msgstr "こんなことをしてもあの人は見つからない。わかってるでしょ？"
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.annie"
+msgid "..."
+msgstr "……"
+
+msgid "You'll just do whatever you want no matter what I say, won't you?"
+msgstr "でも、私が何を言おうと、あなたはしたいようにするんでしょうね。"
+
+msgid "It's possible."
+msgstr "かもね。"
+
+msgid "Stubborn idiot."
+msgstr "キャットの頑固バカ。"
+
+msgid "I prefer \"ambitious idiot\"."
+msgstr "「大望あるバカ」と呼んでほしいわね。"
+
+msgid "So... will you tell me where the letter is?"
+msgstr "で……手紙の場所、教えてくれる？"
+
+msgid "You exhaust me Kat, you know that?"
+msgstr "あなたと話してると疲れるわ、キャット。自覚ある？"
+
+msgid "And yet here we are."
+msgstr "でもこうして、今も一緒にいる。"
+
+msgid "Fine. You win. It's in the occult club."
+msgstr "はいはい。あなたの勝ちよ。手紙はオカルト部にある。"
+
+msgid "There's a golden envelope in one of the drawers. But they won't let you sniff around since you're not a member."
+msgstr "引き出しの中の金色の封筒。でも、あなたは部員じゃないから探させてもらえないと思うわよ。"
+
+msgid "Thanks, you're the best!"
+msgstr "ありがと、最高！"
+
+msgctxt "events.Global.prologue_cutscene_ritual_1.dlg.kat"
+msgid "Huh?"
+msgstr "んん？"
+
+msgid "(Is there somebody at the door..?)"
+msgstr "(ドアのところに誰かいる……？)"
+
+msgid "Alright, now I just have to blow the candles off. So let's-"
+msgstr "よし、あとはロウソクを吹き消すだけだわ。さっそく ―"
+
+msgid "Huh? The candles... Did they just...?"
+msgstr "えっ？ ロウソクが……勝手に……？"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "...I guess I should count to 100..."
+msgstr "……100まで数えよう……"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "1, 2, 3, 4, 5..."
+msgstr "1、2、3、4、5……"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...28, 29, 30..."
+msgstr "……28、29、30……"
+
+msgid "(Why am I doing this? This ridiculous game couldn't possibly work.)"
+msgstr "(何でこんなことしてるんだろう？ こんな下らないゲーム、うまくいくはずないのに。)"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...55, 56, 57, 58..."
+msgstr "……55、56、57、58……"
+
+msgid "(I wonder if mom is worried about me...)"
+msgstr "(ママが心配してるかな……。)"
+
+msgid "(Huh? What was that?)"
+msgstr "(ん？ 今のは？)"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.dlg.kat"
+msgid "...79, 80, 81..."
+msgstr "……79、80、81……"
+
+msgid "(What's all that noise!?)"
+msgstr "(この音一体何!?)"
+
+msgid "Is anyone there...?"
+msgstr "誰かいるの……？"
+
+msgid "...97, 98, 99..."
+msgstr "……97、98、99……"
+
+msgid "...100."
+msgstr "……100。"
+
+msgid "So... I... open my eyes?"
+msgstr "じゃあ……目を開けるわよ？"
+
+msgid "It... worked?"
+msgstr "うまく……いった？"
+
+msgid "It worked?"
+msgstr "うまくいったの？"
+
+msgid "It worked!! I can't believe it!"
+msgstr "うまくいったんだわ！ 信じられない！"
+
+msgid "This is incredible!!"
+msgstr "本当、現実とは思えないわ!!"
+
+msgid "But... where am I?"
+msgstr "でも……ここ、どこ？"
+
+msgid "It's a... hallway? It definitely isn't the school."
+msgstr "廊下……？ 明らかに学校じゃないわ。"
+
+msgid "This is unbelievable, how could it have worked?"
+msgstr "信じられない、いったいどういうことなの？"
+
+msgid "It doesn't make any logical sense. I was in the classroom a minute ago. Have I gone mad?"
+msgstr "論理的に考えてありえない。1分前には教室にいたのに。私がおかしくなっちゃったのかな？"
+
+msgid "THIS IS SO EXCITING, I CAN'T BELIEVE IT WORKED!"
+msgstr "あぁ興奮する、本当にうまくいくなんて！"
+
+msgid "If I wake up from this and it turns out to be a dream... well... that would be disappointing, to say the least."
+msgstr "これで目が覚めて、夢だったりしたら……まぁ……がっかりするわね、少なくとも。"
+
+msgid "Okay. I definitely need to check this place out."
+msgstr "オーケー。これはこの場所を調べて回るっきゃないわね。"
+
+msgid "Do you wish to save your progress?"
+msgstr "進行状況をセーブしますか？"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.choice.Do you wish to save your progress?"
+msgid "Yes"
+msgstr "はい"
+
+msgctxt "events.Global.prologue_cutscene_ritual_2.choice.Do you wish to save your progress?"
+msgid "No"
+msgstr "いいえ"
+
+msgid "Now what?"
+msgstr "それで？"
+
+msgid "Now we just wait 5 minutes."
+msgstr "5分間待つ。"
+
+msgid "Doing nothing?"
+msgstr "何もせずに？"
+
+msgid "Peace and quiet are not as bad as you imagine."
+msgstr "静かにまったり、っていうのも案外悪くないものよ。"
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "After that, I'll burn the hair and you help me blow out the candles one by one."
+msgstr "そのあと私が髪を燃やすから、あなたたちはロウソクを一本ずつ吹き消すのを手伝って。"
+
+msgid "Burnt hair smells bad..."
+msgstr "髪って燃えると嫌なにおいするよね……"
+
+msgid "It does."
+msgstr "そうね。"
+
+msgid "But it's the last step, might as well do it right."
+msgstr "でも最後の手順だから、ちゃんとやらないと。"
+
+msgid "What happens then?"
+msgstr "そしたらどうなるの？"
+
+msgid "No idea."
+msgstr "さあね。"
+
+msgid "Really?"
+msgstr "本当？"
+
+msgid "We probably just clean up and go home. These rituals are a scam, you know?"
+msgstr "たぶん後片付けをして、帰るのがオチでしょうね。何しろ、こういう儀式ってのはしょせん偽物だから。"
+
+msgid "So... you're just making us make a mess, so that we can help you clean it up?"
+msgstr "じゃあ……私たちに後片付けを手伝わせるために、わざわざ散らかさせようってわけ？"
+
+msgid "What's the matter, are you not entertained?"
+msgstr "問題でも？ ワクワクしてるくせに？"
+
+msgid "...Tsk."
+msgstr "……もう。"
+
+msgid "I think it's time."
+msgstr "そろそろ5分よ。"
+
+msgid "Finally!"
+msgstr "ようやくね！"
+
+msgid "Now I just burn this..."
+msgstr "じゃあ燃やすわよ……"
+
+msgid "Quickly, put out the candles now!"
+msgstr "今よ、ロウソクを消して回って！"
+
+msgid "Now, shut your eyes and be quiet while I count to one hundred, okay?"
+msgstr "じゃあ目を閉じて、私が100まで数える間静かにしてて。OK？"
+
+msgid "Got it."
+msgstr "わかった。"
+
+msgid "Alright then, I'll start."
+msgstr "よし、じゃあ始めるわよ。"
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "1, 2, 3, 4, 5..."
+msgstr "1、2、3、4、5……"
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...28, 29, 30..."
+msgstr "……28、29、30……"
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...55, 56, 57, 58..."
+msgstr "……55、56、57、58……"
+
+msgid "Shhh!"
+msgstr "しーっ！"
+
+msgctxt "events.Global.prologue_cutscene_ritual_girls.dlg.kat"
+msgid "...79, 80, 81..."
+msgstr "……79、80、81……"
+
+msgid "(Huh...?)"
+msgstr "(んん……？)"
+
+msgid "(What the hell was that!?)"
+msgstr "(今の一体何!?)"
+
+msgid "...94, 95, 96, 97, 98, 99, 100!"
+msgstr "……94、95、96、97、98、99、100！"
+
+msgid "Huh...?"
+msgstr "あれ……？"
+
+msgid "What the...?"
+msgstr "な……？"
+
+msgid "Are those...?"
+msgstr "これは……？"
+
+msgid "Well... my lines aren't perfect, but it should do the job!"
+msgstr "まぁ……完璧とはいえないけど、これで事足りるはずよ！"
+
+msgid "I need to do this in all three rooms."
+msgstr "これを3つの教室全部でやらなきゃいけない。"
+
+msgid "Two down, one to go."
+msgstr "2つ終わって、残りはあと1つね。"
+
+msgid "That night... I got cold feet, I guess."
+msgstr "あの晩……私は怖気づいたんだと思う。"
+
+msgid "I went home without completing the ritual."
+msgstr "儀式を終えないまま、私は家に帰った。"
+
+msgid "Despite that, I made plans to try again."
+msgstr "それでも、再挑戦の計画は立てた。"
+
+msgid "However, both my notes and the letter had disappeared without a trace."
+msgstr "だけど、私のメモもあの手紙も、跡形もなく消えてしまっていた。"
+
+msgid "I tried telling myself that maybe the ritual was a scam anyways..."
+msgstr "あの儀式はどのみち偽物だったんだと、私は自分に言い聞かせた……"
+
+msgid "But now... how will I ever know?"
+msgstr "でも……本当にそうだったんだと、いったいどうやったらわかるだろう？"
+
+msgid "Dead End K2 - Cold Kat Feet"
+msgstr "Dead End K2 - 鳴く猫は鼠を取らず"
+
+msgid "What's... going on?"
+msgstr "一体……どうなってるの？"
+
+msgid "These stairs are making no sense right now."
+msgstr "この階段、おかしいわ。"
+
+msgid "This building has only 3 floors. I've taken these stairs every day..."
+msgstr "校舎は3階建てのはず。毎日使ってる階段なのに……"
+
+msgctxt "events.Global.prologue_ending_k3.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "I must be really tired. I'll just go down without thinking."
+msgstr "きっと疲れてるのね。深く考えずに、降りましょう。"
+
+msgid "I can't... get anywhere..."
+msgstr "どこにも……出られない……"
+
+msgid "Am I dreaming right now?"
+msgstr "夢でも見てるのかな？"
+
+msgid "I think I'll just... rest here."
+msgstr "とにかく……ここで休もう。"
+
+msgid "Tomorrow morning... someone will wake me up."
+msgstr "朝になったら……誰かが起こしてくれるでしょ。"
+
+msgid "Hopefully at home, in my own bed."
+msgstr "できれば家の、ベッドの中で。"
+
+msgid "The next time I woke up, I was still in the same place."
+msgstr "次に目が覚めたときも、私はまだ同じ場所にいた。"
+
+msgid "I tried again. Going up, going down... it made no difference."
+msgstr ""
+"私はまた試してみた。上って、下りて……何も変わらなかっ\n"
+"た。"
+
+msgid "I decided to make an experiment with chalk."
+msgstr "そこで、チョークで実験をしてみることに決めた。"
+
+msgid "Logic would dictate that this X isn't here if I go up or down a floor."
+msgstr "論理に従えば、この×印は上るか下りるかした先の階にはないはず。"
+
+msgctxt "events.Global.prologue_ending_k3_pt2.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "I'm... trapped..."
+msgstr "閉じ込め……られたのね……"
+
+msgid "I don't think I'm going to make it home tonight either..."
+msgstr "今夜も、家に帰れそうにはないな……"
+
+msgid "Sorry Mom."
+msgstr "ごめんね、ママ。"
+
+msgid "Dead End K3 - Academic Spiral"
+msgstr "Dead End K3 - スクール・スパイラル"
+
+msgid "And so, we went home without completing the ritual."
+msgstr "こうして、私たちは儀式を終えないまま家に帰った。"
+
+msgid "For some reason, I lost interest after that."
+msgstr "どういうわけか、私はその後、儀式への興味を失った。"
+
+msgid "In exchange, I gained some new people to talk to."
+msgstr "でもその代わり、新しい話し相手ができた。"
+
+msgid "Well, I suppose the ritual couldn't have been that important anyways."
+msgstr "まぁ、どのみちあの儀式も、そんなに重要なことだったはずもないし。"
+
+msgid "Dead End K4 - Nevermind Forever"
+msgstr "Dead End K4 - もう思い出すこともない"
+
+msgid "You know, despite the rules,"
+msgstr "いやはや、ルールがあるというのに、"
+
+msgid "every so often some moron thinks they can bring in an entire group."
+msgstr "一度に何人も連れて行ける、と思う阿呆が時折いるものだ。"
+
+msgid "Huh? Who's there?"
+msgstr "え？いったい誰？"
+
+msgid "Where is this place...?"
+msgstr "ここはどこなの……？"
+
+msgid "I would have at least made it interesting for you."
+msgstr ""
+"君にはもう少し、面白いものを見せてやる\n"
+"つもりだったんだが。"
+
+msgid "But now? Forget it."
+msgstr "だがこれでは、なかった話にさせてもらおう。"
+
+msgid "What? Wait-!"
+msgstr "え？ 待っ……！"
+
+msgid "Dead End K5 - Party Wipe"
+msgstr "Dead End K5 - パーティー全滅"
+
+msgid "Once they were gone, I felt a bit guilty so I went home as well."
+msgstr "皆が帰った後、私も少し罪悪感を感じて、家に帰った。"
+
+msgid "Maybe I'll try the ritual again, some other time."
+msgstr "まぁ、儀式はまたいつかやろう。"
+
+msgid "Next time, I hope not to run into anyone."
+msgstr "次回は、誰とも鉢合わせしないといいけど。"
+
+msgid "Dead End K6 - Snip snip"
+msgstr "Dead End K6 - ちょきん、ちょきん"
+
+msgid "And so, we left the school and walked home."
+msgstr "そうして、私たちは学校を出て、家路についた。"
+
+msgid "No one said anything for a while."
+msgstr "しばらくの間、誰も何も言わなかった。"
+
+msgid "(I think Kat is feeling down...)"
+msgstr "(キャット、落ち込んでるね……)"
+
+msgid "(Yeah.)"
+msgstr "(そうね)"
+
+msgid "(Should we do something?)"
+msgstr "(何かしてあげたほうがいいかな？)"
+
+msgid "(What's on your mind?)"
+msgstr "(何かって、何を？)"
+
+msgid "(I don't know...)"
+msgstr "(わからないけど……)"
+
+msgid "(Do you think Kat likes to sing?)"
+msgstr "(キャット、歌うのは好きかな？)"
+
+msgid "(Hmmm...)"
+msgstr "(うーん……)"
+
+msgid "(Good idea, Saki!)"
+msgstr "(名案だよ、サキ！)"
+
+msgid "(Haven't seen you this excited about karaoke before, Kaya...)"
+msgstr "(あなたがそんなにカラオケに乗り気なのは初めて見たわ、カヤ……)"
+
+msgid "(That's a yes, then?)"
+msgstr "(じゃあ、それでいいわね？)"
+
+msgid "(Alright.)"
+msgstr "(ええ)"
+
+msgid "So..."
+msgstr "その……"
+
+msgctxt "events.Global.prologue_ending_k7.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "We were thinking of going to this place..."
+msgstr "私たち、ここに行こうと思ってたんだけど……"
+
+msgctxt "events.Global.prologue_ending_k7.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "(I can't do this! She's ignoring me!)"
+msgstr "(無理だわ！　無視されてる！)"
+
+msgid "Kat!"
+msgstr "キャット！"
+
+msgid "Hmm?"
+msgstr "んん？"
+
+msgid "Come with us."
+msgstr "一緒に来て。"
+
+msgctxt "events.Global.prologue_ending_k7.dlg.kat"
+msgid "Huh?"
+msgstr "え？"
+
+msgid "Just come."
+msgstr "いいから。"
+
+msgid "Sure, whatever."
+msgstr "いいわよ、よくわかんないけど。"
+
+msgid "(You're so good!)"
+msgstr "(ナイス！)"
+
+msgid "(Are they trying... to cheer me up...?)"
+msgstr "(もしかして……励ましてくれてる……？)"
+
+msgid "(Maybe... things are better this way.)"
+msgstr "(たぶん……このほうがいいんだろう。)"
+
+msgid "(I need to believe that much, at least.)"
+msgstr "(少なくとも、そう信じないと。)"
+
+msgid "Dead End K7 - Girls' Night Out"
+msgstr "Dead End K7 - 少女たちの夜は更けて"
+
+msgid "I didn't hear from the voice again."
+msgstr "その後、もう声はしなくなった。"
+
+msgid "But, no matter how much I wanted to, I didn't scream for help."
+msgstr "でも、泣き叫びたくてたまらなくても、私は助けを求めて叫ぶことはしなかった。"
+
+msgid "Someone will come for me... eventually."
+msgstr "いつかは……誰かが助けに来てくれる。"
+
+msgid "I just know it."
+msgstr "私にはわかる。"
+
+msgid "Dead End K8 - My Way"
+msgstr "Dead End K8 - 私のやり方"
+
+msgid "We're... back here?"
+msgstr "戻ってきた……？"
+
+msgid "Maybe this is the school's way of saying \"You can't leave now.\""
+msgstr "学校が「もう出られない」って言ってるのかも。"
+
+msgid "How can you just say something like that?"
+msgstr "どうしてそんなこと言うの？"
+
+msgid "Are we going home soon...?"
+msgstr "もうすぐ帰れるよね……？"
+
+msgid "I think I'll pass on burning the school down today."
+msgstr "今日は学校を焼失させるのはやめておきたい。"
+
+msgid "Wow, thank you for your generosity."
+msgstr "あら、ご厚意感謝するわ。"
+
+msgid "What are you doing? I thought you were busy."
+msgstr "何してるの？ 忙しいんだと思ってたけど。"
+
+msgid "I'm just taking a break."
+msgstr "ちょっと休憩してるだけ。"
+
+msgid "Is that so..."
+msgstr "それなら……"
+
+msgid "Are you scared? You're scared, aren't you?"
+msgstr "怖くなった？　怖くなったんでしょ？"
+
+msgid "Did you come to us for comfort?"
+msgstr "それで私たちの所に来たってわけね？"
+
+msgid "The only scary thing here is that attitude of yours."
+msgstr "今怖いのはあなたの態度だけよ。"
+
+msgid "She's still upset at you messing up our night, as you can see."
+msgstr "見ての通り、ゲームを台無しにされたのをサキはまだ怒ってるのよ。"
+
+msgid "It's okay to be scared..."
+msgstr "怖がるのも無理ないよ……"
+
+msgid "Oh, I know! Why don't you show us your ritual as an apology?"
+msgstr "ああ、そうだ！　お詫びにあなたの儀式とやらを見せてよ！"
+
+msgid "I'm kind of interested, too."
+msgstr "私も、ちょっと興味ある。"
+
+msgid "Well, the rules say..."
+msgstr "でも、ルールには……"
+
+msgid "Oh come on, you don't ACTUALLY think it's gonna work, do you? It's just a game, as you said."
+msgstr "何よ、あなたも本当に成功するなんて思ってないんでしょ？ただのゲーム、って言ってたじゃない。"
+
+msgid "The rules don't actually matter."
+msgstr "なら、ルールなんて別に関係ないでしょ。"
+
+msgctxt "events.Global.prologue_event_sit_with_girls.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "I suppose not."
+msgstr "それもそうね。"
+
+msgid "Then it's decided, we will tag along with you."
+msgstr "なら決まりね、あなたに付いて行くわ。"
+
+msgid "You're tasked with entertaining us now."
+msgstr "せいぜい楽しませてちょうだい。"
+
+msgid "Well, I suppose it can't be helped."
+msgstr "まぁ、そうするしかなさそうね。"
+
+msgid "Let's go, then."
+msgstr "じゃ、行きましょ。"
+
+msgctxt "events.Global.prologue_hod_event_wake_up.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "I'm back in this hallway..."
+msgstr "またこの廊下……"
+
+msgid "I don't like this... I need to get out of here..."
+msgstr "嫌だ……ここから出なくちゃ……"
+
+msgid "Whoa... weird dream."
+msgstr "ああ……変な夢だった。"
+
+msgid "Everyone must be gone already."
+msgstr "もうみんな帰ったはず。"
+
+msgid "Looks like it's eleven... I should get to it."
+msgstr "11時か……始めなきゃ。"
+
+msgid "Ohhhh no..."
+msgstr "そんな……"
+
+msgid "You moved it!!"
+msgstr "あなたが動かしたんでしょ!!"
+
+msgid "I didn't, I swear! You know I hate this type of thing!"
+msgstr "違うわ！ 私がこういうの嫌いなのは知ってるでしょ！"
+
+msgid "This can't possibly be happening..."
+msgstr "そんな、そんなはずない…"
+
+msgid "It spelled \"DIE\"!!-"
+msgstr "「DIE(死ね)」って動いたわ!!"
+
+msgid "Oh my... Oh no..."
+msgstr "そんな……こんなこと……"
+
+msgid "Stop joking around!! This is serious!!"
+msgstr "茶化すのはやめて！ シャレにならないわよ!!"
+
+msgid "...Aah.... we should not have played this..."
+msgstr "……あぁ……こんなゲームしなきゃよかった……"
+
+msgid "I TOLD you we're going to be cursed!!"
+msgstr "だから呪われるって言ったじゃない!!"
+
+msgid "WHAT WAS THAT!?"
+msgstr "今の何!?"
+
+msgid "Is that a ghost?? We summoned a ghost!"
+msgstr "幽霊？ 私たち、幽霊を呼んじゃったのよ!!"
+
+msgid "oh my god oh my god oh my god oh my god-"
+msgstr "やめてやめてやめて……"
+
+msgid "YOU'RE MAKING TOO MUCH NOISE"
+msgstr "うるさいわよ"
+
+msgid "Oh...It's just Kat..."
+msgstr "あぁ……なんだ、キャットか……"
+
+msgid "What's with the crazy knocking? What was that for!?"
+msgstr "でもあの変なノックの音は？ あれは何だったのよ？"
+
+msgid "Did that spook you? You're not supposed to be here, you know?"
+msgstr "怖がらせちゃった？ でも、あなた達がここにいるのがそもそもおかしいと思うんだけど？"
+
+msgid "I could say the same about you. Why are YOU here?"
+msgstr "それはあなたも同じでしょ。何でここにいるの？"
+
+msgid "Actually..."
+msgstr "それは……"
+
+msgid "Say hello to the new member of the occult club!"
+msgstr "この私がオカルト部の新入部員であらせられるからよ！"
+
+msgid "I had the wonderful opportunity to meet all of the members yesterday."
+msgstr "昨日部員の皆様全員にお会いする光栄を賜ったけど、"
+
+msgid "I don't recall seeing you there."
+msgstr "そこであなたたちを見た記憶はない。"
+
+msgid "You three are not part of the club, are you?"
+msgstr "あなたたち、オカルト部の部員じゃないでしょ？"
+
+msgid "That's funny. I didn't pin you of all people as the \"occult\" type, Kat."
+msgstr "笑えるわね。あなたが「オカルト」系だなんて意外にも程があるわよ、キャット。"
+
+msgid "That's because I'm not."
+msgstr "当然よ、実際私はそういうタイプじゃないんだから。"
+
+msgid "H-Hey!! We were doing something here!"
+msgstr "ね、ねぇ!! 私たち、取り込み中だったんだけど！"
+
+msgid "I'll save you the trouble. All three of you moved it."
+msgstr "手間を省いてあげようかと思って。それを動かしたのはあなたたち全員よ。"
+
+msgid "Wha...?"
+msgstr "え……？"
+
+msgid "The planchette. From your game. You all moved it. There's no ghost in the room."
+msgstr "あなたたちがやってたゲーム。全員が動かしてたの。幽霊なんかじゃなく。"
+
+msgid "There's a simple scientific explanation: it's called the ideomotor effect."
+msgstr "簡単に科学的に説明できるわ。いわゆる「観念運動効果」ってやつ。"
+
+msgid "Simply put, just like your body reacts to pain reflexively, it may also react to ideas and move on its own. It pretty much bypasses the part of the brain which we use for conscious behavior."
+msgstr "要するに、痛みに対して反射的に反応するみたいに、人間の身体っていうのは思考にも反応して勝手に動くものなのよ。その信号は脳の意識的動作に使う部分をまるっと迂回する。"
+
+msgid "It's not all that different from blinking or breathing. The effect is even stronger when a bunch of gullible people who are desperate to believe in ghost stories get together and play."
+msgstr "まばたきや呼吸と似たようなものね。幽霊の存在を頑なに信じたがってる、信じ込みやすいタイプが集まってこういうものをするときにはなおさら効果を発揮するわ。"
+
+msgid "There was an experiment where the players were blindfolded and suddenly the \"ghosts\" could no longer spell messages. You can try it if you don't believe me."
+msgstr "参加者が目隠しをされると、突然「幽霊」が意味のあるメッセージを伝えなくなった、って実験もある。信じられないならやってみるといいわ。"
+
+msgid "In other words, your mysterious answers from beyond... are really just your imagination playing tricks on you."
+msgstr "言い換えると、あなたたちが受け取った「彼方からの謎めいた答え」は……ホントは単なる想像力のいたずらってわけ。"
+
+msgid "Great job killing the mood."
+msgstr "雰囲気をぶち壊してくれて感謝するわ。"
+
+msgid "You must be fun at parties."
+msgstr "パーティにはぴったりの人材ね。"
+
+msgid "Thanks a lot, Kat."
+msgstr "どうもありがとう、キャット。"
+
+msgid "Always a pleasure."
+msgstr "どういたしまして。"
+
+msgid "(Alright, time to search.)"
+msgstr "(さて、材料を探しますか)"
+
+msgid "(I should go over my notes to make sure I don't forget anything.)"
+msgstr "(抜けがないように、メモを確認しときましょう)"
+
+msgid "I already have enough chalk but... the more the merrier!"
+msgstr "もうチョークは十分あるけど……多いほうが楽しいわよね！"
+
+msgid "What kind of ritual is this...?"
+msgstr "一体どんな儀式なのよ……？"
+
+msgid "Do I really need all of this chalk...?"
+msgstr "こんなにチョーク必要かしら…？"
+
+msgid "This window already has curtains."
+msgstr "この窓にはもうカーテンがある。"
+
+msgid "The thought of its burning beauty charms you."
+msgstr "植物の燃える美しい姿を想像すると、とても魅力的だ。"
+
+msgid "I really shouldn't, though."
+msgstr "でも、そんなこと絶対すべきじゃない。"
+
+msgid "It looks like a private journal."
+msgstr "日記のようだ。"
+
+msgid "This looks like that girl's private journal."
+msgstr "あの子の日記みたいね。"
+
+msgid "Look through it?"
+msgstr "中を見る？"
+
+msgctxt "events.Global.prologue_item_notebook.choice.Look through it?"
+msgid "Yes"
+msgstr "見る"
+
+msgctxt "events.Global.prologue_item_notebook.choice.Look through it?"
+msgid "No"
+msgstr "見ない"
+
+msgid "Let's see..."
+msgstr "どれどれ…"
+
+msgid "Blegh, it's just math problems... and girly doodles all over."
+msgstr "何だ、ただの数学の問題と……女の子っぽい落書きだけか。"
+
+msgid "This isn't worth my time."
+msgstr "時間の無駄だったわね。"
+
+msgid "A math notebook. Nothing worth looking through."
+msgstr "数学の教科書だ。目を通す価値はない。"
+
+msgid "(Alright, so I need to search the school for the items first.)"
+msgstr "(よし、まずは教室を回って材料を集めましょう。)"
+
+msgid "(The rune should be in this room...)"
+msgstr "(ルーンはこの部屋にあるはず…)"
+
+msgid "(...somewhere.)"
+msgstr "(……どこかはわからないけど。)"
+
+msgid "Well, I need a tuft of hair for the ritual..."
+msgstr "うーん、儀式には髪の毛が一房必要だけど…"
+
+msgid "Should I cut my own hair?"
+msgstr "自分の髪を切る？"
+
+msgid "I guess..."
+msgstr "仕方ないか……"
+
+msgid "Forget it"
+msgstr "やめておく"
+
+msgid "Sigh..."
+msgstr "はぁ……"
+
+msgid "Here I go, I suppose..."
+msgstr "やりますか……"
+
+msgid "I never want to do that again."
+msgstr "二度とやりたくないわね。"
+
+msgid "You're so brave, Kat."
+msgstr "勇気あるね、キャット。"
+
+msgid "Of course not."
+msgstr "切るわけないじゃない。"
+
+msgid "I already have enough hair."
+msgstr "もう十分髪はある。"
+
+msgid "(Nah.)"
+msgstr "(うーん。)"
+
+msgid "Um... any takers?"
+msgstr "あー……手伝ってくれる人ー？"
+
+msgid "What do you need?"
+msgstr "何が必要なの？"
+
+msgid "Just a bit of hair."
+msgstr "髪をちょっとだけ。"
+
+msgctxt "events.Global.prologue_item_scissors.dlg.prologue_girl2"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Global.prologue_item_scissors.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "Why don't you cut your own?"
+msgstr "何で自分のを切らないの？"
+
+msgid "I thought you girls wanted to participate...?"
+msgstr "あなたたち、儀式に参加したかったんでしょ……？"
+
+msgid "I don't mind helping..."
+msgstr "私はいいけど……"
+
+msgid "No Kaya, you don't have to do that."
+msgstr "いいえカヤ、あなたが切る必要はないわ。"
+
+msgid "It's alright, I'll give you mine."
+msgstr "わかった、私が切りましょう。"
+
+msgid "...!"
+msgstr "……！"
+
+msgid "There's no need for that. I'll just cut some of mine."
+msgstr "その必要はないわ。私が切る。"
+
+msgid "Are you sure?"
+msgstr "本当に？"
+
+msgid "Yeah, it would be a waste to use yours."
+msgstr "ええ、ジュリの髪を使うのはもったいないわ。"
+
+msgid "Alright."
+msgstr "ありがと。"
+
+msgid "A tuft of hair from Saki. She gave it to me voluntarily."
+msgstr "サキの髪ひとふさ。自分から切ってくれた。"
+
+msgid "Thanks!"
+msgstr "ありがと！"
+
+msgid "Uuugh..."
+msgstr "うぅ……"
+
+msgid "It's so dark..."
+msgstr "真っ暗だね……"
+
+msgid "Let's see what's behind this door."
+msgstr "ドアの先に何があるか、拝見といきましょう。"
+
+msgid "Maybe we'll find exam answers!"
+msgstr "もしかしたら、試験の答えがあるかも！"
+
+msgid "Or dead bodies!"
+msgstr "それとも死体かも！"
+
+msgid "Or... maybe it's just a supply closet."
+msgstr "それとも……単なる物置かも。"
+
+msgid "Heh."
+msgstr "ふん。"

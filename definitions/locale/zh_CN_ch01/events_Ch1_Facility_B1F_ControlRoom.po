@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "嗯...？没用吗...？"
+
+msgid "Those two thingies look burnt."
+msgstr "这两个小东西看起来烧坏了。"
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "哦，这有两个烧坏的保险丝。难怪。"
+
+msgid "Let's throw this damaged fuse away."
+msgstr "把这些损坏的保险丝扔掉吧。"
+
+msgid "Why? Just use it as a zero or something."
+msgstr "为什么？不能把它们当0用吗。"
+
+msgid "No... that's really not how fuses work."
+msgstr "不行的...保险丝不是这样运作的。"
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "坏掉的保险丝无法连通电路。"
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "我知道...所以你把它移除掉不就是0了吗？"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "不是...那样的话就...它就无法连通电路了。你不能把它当0用。"
+
+msgid "Just... leave this to me, okay?"
+msgstr "就...让我来吧，好吗？"
+
+msgid "Roger!"
+msgstr "遵命！"
+
+msgid "You hear something unlocking in the distance."
+msgstr "你听到远处传来解锁的声音。"
+
+msgid "What? I didn't hear anything."
+msgstr "什么？我啥也没听到啊。"
+
+msgid "...You're breaking my immersion."
+msgstr "...你打破了我的沉浸感。"
+
+msgid "What in the world was that?"
+msgstr "发生什么事了？"
+
+msgid "Can't say I didn't warn you."
+msgstr "不要说我没警告过你。"
+
+msgid "Wait."
+msgstr "慢着。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "把这个拿掉可能是个坏主意。"
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "我之前看到一些像这样的门。我觉得我们不会想打开它们的。"
+
+msgid "I see..."
+msgstr "好吧..."
+
+msgid "(Maybe there's a better way?)"
+msgstr "（也许还有更好的办法？）"
+
+msgid "Do you think the elevator works now?"
+msgstr "你觉得电梯现在能用了吗？"
+
+msgid "Ah, that's satisfying."
+msgstr "啊，这样舒服了。"
+
+msgid "Good job!"
+msgstr "干得好啊！"
+
+msgid "That sounded pretty big."
+msgstr "这听起来也太响了。"
+
+msgid "Let's check the water level."
+msgstr "我们去看看水位吧。"
+
+msgid "There's already a handle there."
+msgstr "这里已经有一个把手了。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.event_handle_on_wrong_valve.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "你试图把把手对上插槽..."
+
+msgid "But it doesn't fit."
+msgstr "但是它对不上。"
+
+msgid "The lights... ah... not nice."
+msgstr "灯...啊...不妙啊。"
+
+msgid "Why doesn't this work?"
+msgstr "为什么这样不行呢？"
+
+msgid "We probably need to fill all four slots."
+msgstr "可能我们需要放满四个槽位。"
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "不然的话内部就接触不上。"
+
+msgid "Right, contact."
+msgstr "哦对，接触。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_1.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "你把把手插进了槽位。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "你试图把把手对上插槽..."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "The handle fits!"
+msgstr "把手对上了！"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "当然啦，菱形就是旋转过来的方形嘛。"
+
+msgid "Yep."
+msgstr "没错。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_2_on_valve_2.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "你把把手插进了槽位。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "你试图把把手对上插槽..."
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "你在做什么？这个形状对不上啊。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "The handle fits!"
+msgstr "把手对上了！"
+
+msgid "...Huh."
+msgstr "...啊。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_3.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "你把把手插进了槽位。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "你试图把把手对上插槽..."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "The handle fits!"
+msgstr "把手对上了！"
+
+msgid "Are you switching them around...?"
+msgstr "你在把它们换来换去吗...？"
+
+msgid "I'm just trying things."
+msgstr "我只是试试而已。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_4.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "你把把手插进了槽位。"
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "一个沉重的桶。不能移动。"
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "桶上有一个阀门把手和一把钥匙。"
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "要拿走${item:ch1.facility_handle_square}和${item:ch1.facility_key_archives}吗？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "No"
+msgstr "否"
+
+msgid "Some sort of machine."
+msgstr "某种机器。"
+
+msgid "It's whirring loudly."
+msgstr "它呼呼地响着。"
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "某种大型储物柜。你或许能坐进去。"
+
+msgid "There's something in here..."
+msgstr "里面有些东西..."
+
+msgid "There's nothing else of use."
+msgstr "这里没有其他能用的东西了。"
+
+msgid "A large machine attached to some pipes."
+msgstr "一个连接着一些管道的大型机器。"
+
+msgid "There's a note here:"
+msgstr "这里有张纸条："
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "“紧急情况 - 排水排涝系统"
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "要使排水系统工作，保险丝应当放在正确的位置。"
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "旋转所有的4个阀门把手，这将启动泄洪。"
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "这个操作是不可逆的，所以在此之前请联系——”"
+
+msgid "...The rest of the note is torn off."
+msgstr "...剩下的纸张被撕掉了。"
+
+msgid "Looks like an electrical panel."
+msgstr "看起来像是配电盘。"
+
+msgid "Take a closer look?"
+msgstr "凑近点看看？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "No"
+msgstr "否"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "用于放置阀轮的槽位。凹痕呈方形。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice"
+msgid "Turn it?"
+msgstr "要打开吗？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "转动阀轮"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "移除阀轮"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "阀轮转不动了。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "它转不动了。"
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "用于放置阀轮的槽位。凹痕呈五边形。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice"
+msgid "Turn it?"
+msgstr "要打开吗？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "转动阀轮"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "移除阀轮"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "阀轮转不动了。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "它转不动了。"
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "用于放置阀轮的槽位。凹痕呈星形。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice"
+msgid "Turn it?"
+msgstr "要打开吗？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "转动阀轮"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "移除阀轮"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "阀轮转不动了。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "它转不动了。"
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "用于放置阀轮的槽位。凹痕呈菱形。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice"
+msgid "Turn it?"
+msgstr "要打开吗？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "转动阀轮"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "移除阀轮"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "阀轮转不动了。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "它转不动了。"
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "看起来像我们之前看到过的大门..."
+
+msgid "Doors?"
+msgstr "这是门吗？"
+
+msgid "This is probably an elevator."
+msgstr "这可能是个电梯。"
+
+msgid "Lights."
+msgstr "灯光。"
+
+msgid "Water?"
+msgstr "水？"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "一个可以安装保险丝的空槽。"
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "（看起来我要重新排列这些保险丝，以匹配图标。）"
+
+msgid "An empty fuse slot."
+msgstr "一个空的保险丝槽位。"
+
+msgid "Place a fuse?"
+msgstr "要放置保险丝吗？"
+
+msgid "Place fuse no.5"
+msgstr "放置保险丝5号"
+
+msgid "Place fuse no.10"
+msgstr "放置保险丝10号"
+
+msgid "Place fuse no.15"
+msgstr "放置保险丝15号"
+
+msgid "Place fuse no.20"
+msgstr "放置保险丝20号"
+
+msgid "Place fuse no.25"
+msgstr "放置保险丝25号"
+
+msgid "Place fuse no.40"
+msgstr "放置保险丝40号"
+
+msgid "Do not"
+msgstr "不放"
+
+msgid "It's a spider!"
+msgstr "是只蜘蛛！"
+
+msgid "I see that."
+msgstr "我看到了。"
+
+msgid "Are you scared of spiders?"
+msgstr "你怕蜘蛛吗？"
+
+msgid "Not really."
+msgstr "不怕吧。"
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "那，如果你在家里看到一只蜘蛛，你就把它留在那里不管吗？！"
+
+msgid "That's crazy."
+msgstr "太吓人了。"
+
+msgid "What else should I be doing?"
+msgstr "那我还能做什么？"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "我不知道，大多数人会用鞋之类的东西把它拍死。"
+
+msgid "Why?"
+msgstr "为什么呢？"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "我不知道，它们会爬来爬去。那可真吓人。"
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "这又不是它的错，为什么要让它死呢？"
+
+msgid "..."
+msgstr "..."
+
+msgid "That's fair."
+msgstr "有道理。"
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "你知道的，我不会杀蜘蛛了。"
+
+msgid "I see."
+msgstr "好的。"
+
+msgid "I used to, but now I just put them outside."
+msgstr "以前我会这么干，但是现在我会把它们赶到外面去。"
+
+msgid "Great."
+msgstr "太棒了。"
+
+msgid "A spider hangs from here."
+msgstr "一只蜘蛛悬挂在此处。"
+
+msgid "A spider sits here."
+msgstr "一只蜘蛛坐在这里。"
+
+msgid "Take out the fuse?"
+msgstr "要取出保险丝吗？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "No"
+msgstr "否"

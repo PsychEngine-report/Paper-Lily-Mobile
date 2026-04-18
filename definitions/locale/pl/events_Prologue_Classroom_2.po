@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Maybe I'll explore somewhere else first."
+msgstr "Może najpierw poszperam gdzie indziej."
+
+msgid "There we go."
+msgstr "No i proszę."
+
+msgid "Candles are already set here."
+msgstr "Świece już są tutaj poustawiane."
+
+msgid "It's not time for that yet."
+msgstr "Jeszcze nie czas na to."
+
+msgid "The path is already drawn."
+msgstr "Ścieżka jest już narysowana."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Jeszcze nie. Wolę się najpierw upewnić, że mam wszystko, czego potrzebuję."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Jeszcze nie. Chcę najpierw skończyć przygotowanie sal lekcyjnych."
+
+msgid "Some broken chalk."
+msgstr "Trochę połamanej kredy."
+
+msgid "Take it?"
+msgstr "Wziąć?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "Wolę nie pakować się w większe kłopoty, niż już się wpakowałam ."
+
+msgid "This should do the trick."
+msgstr "To powinno załatwić sprawę."
+
+msgid "Perfect!"
+msgstr "Doskonale!"
+
+msgid "Totally. Nobody will even notice."
+msgstr "Zupełnie nikt nawet nie zauważy."
+
+msgid "Let's do this."
+msgstr "Do dzieła!"
+
+msgid "Not yet."
+msgstr "Jeszcze nie."
+
+msgid "The candles are already lit."
+msgstr "Świece są już zapalone."
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "Spalenie szkoły nie jest częścią rytuału."
+
+msgid "It's already done."
+msgstr "To już jest zrobione."
+
+msgid "This isn't the time for that."
+msgstr "To nie jest czas na to."
+
+msgid "A geography textbook."
+msgstr "Podręcznik do geografii."
+
+msgid "Some textbooks you don't care about."
+msgstr "Parę podręczników, które cię nie obchodzą."
+
+msgid "A clean chalkboard."
+msgstr "Czysta tablica."
+
+msgid "A wooden desk."
+msgstr "Drewniana ławka."
+
+msgid "The candle burns warmly."
+msgstr "Świeca pali się ciepłym płomieniem."
+
+msgid "The candle is unlit."
+msgstr "Świeca nie jest zapalona."
+
+msgid "A model of Earth. It's fun to spin it."
+msgstr "Model Ziemi. Fajnie się nim kreci."
+
+msgid "A paper slip with a list of regulations."
+msgstr "Papierowa kartka z listą przepisów."
+
+msgid "No one reads these, why do they bother?"
+msgstr "Nikt ich nie czyta, po co się trudzą?"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Jakieś arkusze obecności i harmonogramy."
+
+msgid "A happy green plant."
+msgstr "Szczęśliwa zielona roślina."
+
+msgid "The plant is no longer happy."
+msgstr "Roślina nie jest już szczęśliwa."
+
+msgid "The teacher's podium."
+msgstr "Podium nauczyciela."
+
+msgid "There's a useless history book as well."
+msgstr "Jest też bezużyteczny podręcznik do historii."
+
+msgid "Some boring textbooks."
+msgstr "Trochę nudnych podręczników."
+
+msgid "Some very thick, school-related books."
+msgstr "Kilka bardzo grubych, szkolnych książek."
+
+msgid "Some books and... chalk."
+msgstr "Kilka książek i... kreda."
+
+msgid "There's nothing else of use."
+msgstr "Nie ma nic innego, co mogłoby się przydać."
+
+msgid "A trash can. You feel uninclined to dig through it."
+msgstr "Kosz na śmieci. Nie masz ochoty w nim grzebać."
+
+msgid "The curtains should stay closed."
+msgstr "Zasłony powinny pozostać zasłonięte."
+
+msgid "Uh-oh. The curtains here are missing."
+msgstr "Ehhh. Brakuje tu zasłon."
+
+msgid "According to the ritual instructions, I need to black out all the rooms..."
+msgstr "Zgodnie z instrukcjami rytuału, muszę zaciemnić wszystkie pokoje..."
+
+msgid "But where will I find new curtains...?"
+msgstr "Ale gdzie znajdę nowe zasłony...?"
+
+msgid "Maybe the theater club has some curtains I can borrow?"
+msgstr "Może klub teatralny ma jakieś zasłony, które mogę pożyczyć?"
+
+msgid "Yeah, it does."
+msgstr "Taa, to prawda."
+
+msgid "I hope these curtains will work."
+msgstr "Mam nadzieję, że te zasłony się sprawdzą."
+
+msgid "I replaced the missing curtains. No need to mess with it anymore."
+msgstr "Wymieniłam brakujące zasłony. Nie ma sensu już ich dotykać."
+
+msgid "I need to block the light from this window."
+msgstr "Muszę zablokować światło z tego okna."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Czy mam teraz poprzestawiać ławki w tej klasie?"
+
+msgid "Not yet"
+msgstr "Jeszcze nie"
+
+msgid "Let's get started."
+msgstr "Zaczynajmy."

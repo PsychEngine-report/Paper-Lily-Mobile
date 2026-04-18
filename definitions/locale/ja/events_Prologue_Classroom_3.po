@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "On second thought, I don't feel like it."
+msgstr "やっぱりやめとこ。気分が乗らない。"
+
+msgid "Phew!"
+msgstr "ヒューッ！"
+
+msgid "This is my desk. Juli sits in front of me, and Kaya sits behind."
+msgstr "私の席ね。ジュリが私の前で、カヤが後ろ。"
+
+msgid "I see..."
+msgstr "へぇ……"
+
+msgid "Thanks for letting me know...?"
+msgstr "教えてくれてありがとね……？"
+
+msgid "Saki's desk."
+msgstr "サキの机。"
+
+msgid "This isn't the right classroom for that."
+msgstr "それをするのはこの教室ではない。"
+
+msgid "The path is already drawn."
+msgstr "道は既に描いてある。"
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "まだダメ。先に必要なものを揃えておきたい。"
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "まだダメ。先に教室の準備をしておきたい。"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "これ以上問題を起こすのは控えたい。"
+
+msgid "This window already has curtains."
+msgstr "この窓にはもうカーテンがある。"
+
+msgctxt "events.Prologue_Classroom_3.item_lighter.dlg.narrator"
+msgid "Burning the school down is not part of the ritual."
+msgstr "儀式の手順には学校への放火は含まれていない。"
+
+msgctxt "events.Prologue_Classroom_3.item_lighter_on_desks.dlg.narrator"
+msgid "Burning the school down is not part of the ritual."
+msgstr "儀式の手順には学校への放火は含まれていない。"
+
+msgid "There's a red notebook here."
+msgstr "赤いノートがある。"
+
+msgid "There's nothing else here."
+msgstr "他には何もない。"
+
+msgid "It's already done."
+msgstr "もう揃えてある。"
+
+msgid "This isn't the time for that."
+msgstr "今はそんなことをしている場合ではない。"
+
+msgid "Some world encyclopedias."
+msgstr "百科事典が数冊。"
+
+msgid "I would definitely steal one of these if they weren't so darn heavy."
+msgstr "こんなにクソ重くなかったら、絶対1冊盗んでたんだけど。"
+
+msgid "You can borrow my books if you need..."
+msgstr "必要なら、私の本を貸すよ……"
+
+msgid "I'll keep that in mind."
+msgstr "覚えとくわ。"
+
+msgid "A clean chalkboard."
+msgstr "きれいな黒板。"
+
+msgid "A wooden desk."
+msgstr "木の机。"
+
+msgid "Two paper slips filled with rules and regulations."
+msgstr "校則がびっしり書かれた紙2枚。"
+
+msgid "I wonder if it says somewhere that we're not allowed on school grounds at night."
+msgstr "どこかに生徒は校内夜間立入禁止って書いてあったっけ……？"
+
+msgid "Oh well! I guess we'll never know if I don't read it!"
+msgstr "まあいいか、読まなきゃ知らないままでいられるし。"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "出欠表とスケジュール表。"
+
+msgid "A happy green plant."
+msgstr "楽しげな観葉植物。"
+
+msgid "The plant is no longer happy."
+msgstr "観葉植物。もう楽しげじゃない。"
+
+msgid "Some cute potted plants. Their silent nature enchants you."
+msgstr "可愛らしい鉢植えの植物。静かな生命力にうっとりしてしまう。"
+
+msgid "The teacher's podium."
+msgstr "教壇。"
+
+msgid "A geography book and a globe sit atop it."
+msgstr "地理の教科書があって、その上に地球儀が置いてある。"
+
+msgid "Some boring textbooks."
+msgstr "退屈な教科書が数冊。"
+
+msgid "Some very thick, school-related books."
+msgstr "分厚い学校関連の本が数冊。"
+
+msgid "Some books and... chalk."
+msgstr "本が数冊と……チョーク。"
+
+msgid "Take it?"
+msgstr "取る？"
+
+msgctxt "events.Prologue_Classroom_3.misc_shelf2b.choice.Take it?"
+msgid "Yes"
+msgstr "取る"
+
+msgid "No"
+msgstr "取らない"
+
+msgid "There's nothing else of use."
+msgstr "他に使えるものはない。"
+
+msgid "A trash can."
+msgstr "ゴミ箱。"
+
+msgid "As it's usually the case with trash cans, it's devoid of useful items."
+msgstr "普通のゴミ箱と同じで、役に立つものは入っていない。"
+
+msgctxt "events.Prologue_Classroom_3.misc_window1.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "カーテンは閉めたままにしておかないといけない。"
+
+msgctxt "events.Prologue_Classroom_3.misc_window2.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "カーテンは閉めたままにしておかないといけない。"
+
+msgctxt "events.Prologue_Classroom_3.misc_window3.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "カーテンは閉めたままにしておかないといけない。"
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "今この教室の机を揃える？"
+
+msgctxt "events.Prologue_Classroom_3.move_enter.choice.Should I sort the desks in this classroom now?"
+msgid "Yes"
+msgstr "揃える"
+
+msgid "Not yet"
+msgstr "まだやめておく"
+
+msgid "Let's do this."
+msgstr "さて、やりますか。"

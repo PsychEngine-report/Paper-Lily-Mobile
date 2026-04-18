@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's some red lipstick."
+msgstr "Tutaj jest czerwona szminka."
+
+msgid "I wonder if I can use something like this to draw the symbol..."
+msgstr "Zastanawiam się, czy mogłabym użyć czegoś takiego do namalowania symbolu..."
+
+msgid "Take ${item:ch1.lipstick}?"
+msgstr "Wziąć ${item:ch1.lipstick}?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "A bathtub."
+msgstr "Wanna."
+
+msgid "A relaxing bathtub."
+msgstr "Relaksująca wanna."
+
+msgid "The drawer contains various toiletries."
+msgstr "Szuflada zawiera różne przybory toaletowe."
+
+msgid "The drawer contains a hair dryer and other appliances."
+msgstr "Szuflada zawiera suszarkę do włosów i inne urządzenia."
+
+msgid "It's just you."
+msgstr "To tylko ty."
+
+msgid "Even in the bathroom, there are plants."
+msgstr "Nawet w łazience są rośliny."
+
+msgid "This one is fake, though."
+msgstr "Ale ta jest sztuczna."
+
+msgid "A plant."
+msgstr "Roślina."
+
+msgid "Soap, shampoo, conditioner."
+msgstr "Mydło, szampon i odżywka do włosów."
+
+msgid "Some towels and a laundry basket."
+msgstr "Kilka ręczników i kosz na pranie."
+
+msgid "A stool."
+msgstr "Taboret."
+
+msgid "Thankfully, there's plenty of toilet paper."
+msgstr "Na szczęście papieru toaletowego jest pod dostatkiem."
+
+msgid "Toilet paper."
+msgstr "Papier toaletowy."
+
+msgid "A towel."
+msgstr "Ręcznik."
+
+msgid "A trash can."
+msgstr "Kosz na śmieci."
+
+msgid "Nothing but air fills this trash can."
+msgstr "W tym koszu nie ma nic oprócz powietrza."

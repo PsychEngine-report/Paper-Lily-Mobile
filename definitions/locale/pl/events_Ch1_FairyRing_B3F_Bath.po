@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's... a dead end?"
+msgstr "To... ślepy zaułek?"
+
+msgid "..."
+msgstr "..."
+
+msgid "What now?"
+msgstr "I co teraz?"
+
+msgid "We're gonna die here, aren't we?"
+msgstr "Umrzemy tutaj, prawda?"
+
+msgid "I don't know."
+msgstr "Nie wiem."
+
+msgid "Oh god... I really hoped I wouldn't be right."
+msgstr "O boże... Naprawdę liczyłam na to, że nie będę mieć racji."
+
+msgid "I should have known. Of course it's a dead end."
+msgstr "Nie mam się czemu dziwić. Oczywiście, że to ślepy zaułek."
+
+msgid "But I felt more confident walking around with you... so I thought..."
+msgstr "Ale czułem się pewniej przy tobie... więc wydawało mi się..."
+
+msgid "Please, let me think."
+msgstr "Proszę, daj mi chwilę pomyśleć."
+
+msgid "(Think Lacie...)"
+msgstr "(Myśl, Lacie...)"
+
+msgid "(Is there really no way out..?)"
+msgstr "(Czy naprawdę nie ma drogi wyjścia..?)"
+
+msgid "Can't we break the ground above us and just climb out?"
+msgstr "Nie moglibyśmy się przebić do góry i po prostu wyjść na powierzchnię?"
+
+msgid "How?"
+msgstr "Jak?"
+
+msgid "Well...."
+msgstr "Cóż..."
+
+msgid "...I don't know."
+msgstr "...Nie wiem."
+
+msgid "Sorry, that was stupid."
+msgstr "Przepraszam, to było głupie."
+
+msgid "(Can I call someone?)"
+msgstr "(Czy mogę po kogoś zadzwonić?)"
+
+msgid "(There's no signal though...)"
+msgstr "(Nie ma zasięgu...)"
+
+msgid "(But... it worked before...)"
+msgstr "(Ale... wcześniej zadziałało...)"
+
+msgid "(It doesn't work...)"
+msgstr "(Nie działa...)"
+
+msgid "Say..."
+msgstr "Więc..."
+
+msgid "...?"
+msgstr "…?"
+
+msgid "Will you tell me your name? Since we might be dying anyway..."
+msgstr "Powiesz mi, jak ci na imię? Skoro i tak mamy niebawem umrzeć..."
+
+msgid "It's Lacie."
+msgstr "Lacie."
+
+msgid "Oh... that's such a nice name."
+msgstr "O... to bardzo ładne imię."
+
+msgid "...Thanks."
+msgstr "...Dzięki."
+
+msgid "After that, we stayed in silence for a few minutes."
+msgstr "Po tym, siedzieliśmy w ciszy przez kilka minut."
+
+msgid "I tried thinking of options at first, but quickly ran out of alternatives."
+msgstr "Najpierw próbowałam coś wymyśleć, ale szybko skończyły mi się opcje."
+
+msgid "Maybe there really was no way out this time."
+msgstr "Może tym razem naprawdę nie było drogi ucieczki."
+
+msgid "Through all of this, Aoi was awfully quiet."
+msgstr "Przez ten czas, Aoi był, czy była, bardzo cicho."
+
+msgid "Um... hey."
+msgstr "Em... hej."
+
+msgid "Mhm..?"
+msgstr "Hm..?"
+
+msgid "Don't panic. It won't solve anything."
+msgstr "Nie panikuj. To nam nie pomoże."
+
+msgid "What makes you think I'm panicking?"
+msgstr "Czemu myślisz, że panikuję?"
+
+msgid "You're melting."
+msgstr "Topisz się."
+
+msgid "O-Oh right..."
+msgstr "O-Och, faktycznie..."
+
+msgid "No panic... no panic..."
+msgstr "Nie panikuj... nie panikuj..."
+
+msgid "Wait... you're melting."
+msgstr "Chwila... topisz się."
+
+msgid "YES, I KNOW!"
+msgstr "TAK, WIEM!"
+
+msgid "I can't stop!!!"
+msgstr "Nie mogę przestać!!!"
+
+msgid "No, Aoi!"
+msgstr "Nie, Aoi!"
+
+msgid "I have an idea."
+msgstr "Mam pomysł."
+
+msgid "Huh!?"
+msgstr "Hę!?"
+
+msgid "There's a drain."
+msgstr "Tu jest odpływ."
+
+msgid "...AND!?"
+msgstr "...NO I!?"
+
+msgid "Where do you think it leads?"
+msgstr "Jak myślisz, dokąd może prowadzić?"
+
+msgid "You want me..."
+msgstr "Chcesz..."
+
+msgid "You want me to go through the drain!?"
+msgstr "Chcesz, żebym przeszedł przez odpływ!?"
+
+msgid "Even if I do... you can't come with me."
+msgstr "Nawet jeśli tak zrobię... nie będziesz mogła pójść za mną."
+
+msgid "...Yeah."
+msgstr "...Tak."
+
+msgid "I-I got it, don't worry! If this leads anywhere, I'll find a way to get you out!"
+msgstr "N-nie martw się! Jeśli to dokądkolwiek prowadzi, to znajdę sposób, by cię wydostać!"
+
+msgid "Just stay put!"
+msgstr "Nigdzie nie odchodź!"
+
+msgid "Really?"
+msgstr "Naprawdę?"
+
+msgid "YEAH!"
+msgstr "TAK!"
+
+msgid "Well, let's hope there's a way."
+msgstr "Cóż, miejmy nadzieję, że jest jakiś sposób."
+
+msgid "There's gotta be a way!"
+msgstr "Musi być!"
+
+msgid "Okay... well... Here goes."
+msgstr "Cóż... no... to spływam."
+
+msgid "(Was that a good idea...?)"
+msgstr "(Czy to był dobry pomysł...?)"
+
+msgid "How long has it been..."
+msgstr "Ile czasu minęło..."
+
+msgid "Did I seriously just trust a demon with my life?"
+msgstr "Czy naprawdę powierzyłam demonowi swoje życie?"
+
+msgid "Did I seriously just trust a spirit with my life?"
+msgstr "Czy naprawdę powierzyłam duchowi swoje życie?"
+
+msgid "Aoi might not even come back."
+msgstr "Aoi może nawet nie wrócić."
+
+msgid "Wait, Aoi could have died for all I know..."
+msgstr "Chwila, Aoi mógł równie dobrze zginąć..."
+
+msgid "What did I do..."
+msgstr "Co ja zrobiłam..."
+
+msgid "Did I seriously just send Aoi down the drain to die..."
+msgstr "Czy naprawdę wysłałam Aoi na śmierć przez ten odpływ..."
+
+msgid "I should have said goodbye to Hiro when I had the chance..."
+msgstr "Powinnam była się pożegnać z Hiro, kiedy jeszcze miałam szansę..."
+
+msgid "It felt like days have gone by."
+msgstr "Miałam wrażenie, że minęły dni."
+
+msgid "I don't know exactly how long it's been."
+msgstr "Nie wiem dokładnie ile minęło już czasu."
+
+msgid "But my phone battery died a long time ago..."
+msgstr "Ale bateria w moim telefonie wysiadła dawno temu..."
+
+msgid "...And I fell asleep for a while too."
+msgstr "...I usnęłam na jakiś czas."
+
+msgid "Despite this... I don't feel hungry or thirsty..."
+msgstr "Mimo to... Nie czułam się głodna ani spragniona..."
+
+msgid "I don't have hope that Aoi will come back anymore."
+msgstr "Nie mam już nadziei, że Aoi wróci."
+
+msgid "I don't think anyone will come."
+msgstr "Nikt nie przyjdzie."
+
+msgid "I can't believe it... I threw in everything I had..."
+msgstr "Nie wierzę... wrzuciłam tam wszystko, co miałam..."
+
+msgid "I even threw in the fish that was here, I have nothing else I can use..."
+msgstr "Nawet wrzuciłem te ryby, które tu były. Już nic mi nie zostało..."
+
+msgid "Is there really nothing I can feed this thing...? Is there nothing I can do to save Lacie?"
+msgstr "Czy naprawdę nie ma czegoś, czym mógłbym nakarmić to coś...? Naprawdę nie mogę nic zrobić, by uratować Lacie?"
+
+msgid "There's always a way..."
+msgstr "Zawsze jest jakiś sposób..."
+
+msgid "Think... think..."
+msgstr "Myśl... myśl..."
+
+msgid "Oh... oh god..."
+msgstr "O... o boże..."
+
+msgid "A bath tub."
+msgstr "Wanna."
+
+msgid "Why is there a bathtub in a place like this?"
+msgstr "Co może robić wanna w takim miejscu?"
+
+msgid "Maybe the faeries take baths here?"
+msgstr "Może wróżki biorą tu kąpiel?"
+
+msgid "At least it's not full of blood or something."
+msgstr "Przynajmniej nie jest wypełniona krwią, czy coś."

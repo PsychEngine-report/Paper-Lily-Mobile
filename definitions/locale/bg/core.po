@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "On"
+msgstr "Включено"
+
+msgid "Off"
+msgstr "Изключено"
+
+msgid "Auto"
+msgstr "Автоматично"
+
+msgid "Next"
+msgstr "Следващ"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Apply"
+msgstr "Приложи"
+
+msgid "Cancel"
+msgstr "Отмяна"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Loading..."
+msgstr "Зареждане..."
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "Button"
+msgstr "Бутон"
+
+msgid "Axis"
+msgstr "Ос"
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "Controller"
+msgstr "Контролер"
+
+msgid "New Game"
+msgstr "Нова игра"
+
+msgid "Continue"
+msgstr "Продължи"
+
+msgid "Website"
+msgstr "Уебсайт"
+
+msgid "Itch.io Page"
+msgstr "нач.стр. пазар за игри"
+
+msgid "Translator Page"
+msgstr "Страница на преводача"
+
+msgid "Kickstarter"
+msgstr "Кикстартер"
+
+msgid "Save"
+msgstr "Запис"
+
+msgid "Save Game"
+msgstr "Запази игра"
+
+msgid "SLOT {0}"
+msgstr "СЛОТ {0}"
+
+msgid "<EMPTY>"
+msgstr "<ПРАЗНО>"
+
+msgid "CORRUPTED"
+msgstr "КОРУМПИРАН"
+
+msgid "OBSOLETE"
+msgstr "ИЗЧЕЗНАЛ"
+
+msgid "Unknown Location"
+msgstr "Неизвестна локация"
+
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "Наистина ли желаете да презапишите този сейф файл?"
+
+msgid "Load"
+msgstr "Зареди"
+
+msgid "Load Game"
+msgstr "Зареди игра"
+
+msgid "Quit"
+msgstr "Изход"
+
+msgid "Debug Room"
+msgstr "Стая за отстраняване на грешки"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Inventory"
+msgstr "Инвентар"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Objectives"
+msgstr "Цели"
+
+msgid "(There are no objectives)"
+msgstr "(Няма никакви цели)"
+
+msgid "Main Menu"
+msgstr "Главно меню"
+
+msgid "Log"
+msgstr "Лог"
+
+msgid "Extras"
+msgstr "Екстри"
+
+msgid "Gallery"
+msgstr "Галерия"
+
+msgid "Credits"
+msgstr "Надписи"
+
+msgid "{0} Select {1} Back"
+msgstr "{0} Избери {1} Назад"
+
+msgid "Go to Debug Room"
+msgstr "Отиди до стаята за отстраняване на грешки"
+
+msgid "Quit to Title Screen"
+msgstr "Изход към Началния екран"
+
+msgid "Quit to Desktop"
+msgstr "Изход към Декстоп"
+
+msgid "Are you sure you want to quit? Unsaved progress will be lost."
+msgstr "Сигурни ли сте, че искате да излезете? Незаписаният прогрес ще бъде изгубен."
+
+msgid "Game Paused!"
+msgstr "Играта е на Пауза!"
+
+msgid "{0}{1} Select {2} Confirm"
+msgstr "{0}{1} Избери {2} Потвърди"
+
+msgid "Coins: {0}"
+msgstr "Монети: {0}"
+
+msgid "Up"
+msgstr "Нагоре"
+
+msgid "Down"
+msgstr "Надолу"
+
+msgid "Left"
+msgstr "Вляво"
+
+msgid "Right"
+msgstr "Вдясно"
+
+msgid "Action/OK"
+msgstr "Действие/Ок"
+
+msgid "Run"
+msgstr "Изпълнение"
+
+msgid "Special"
+msgstr "Специално"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Battery Saver Mode"
+msgstr "Режим пестене на енергия"
+
+msgid "Brightness"
+msgstr "Яркост"
+
+msgid "Contrast"
+msgstr "Контраст"
+
+msgid "FPS Limit"
+msgstr "ФПС Лимит(КЗС)"
+
+msgid "Unlocked"
+msgstr "Отключено"
+
+msgid "V-Sync"
+msgstr "В-Синхр."
+
+msgid "G-Sync"
+msgstr "Г-Синхр."
+
+msgid "Comp.V-Sync"
+msgstr "Комп. В-Синхр."
+
+msgid "Full Screen"
+msgstr "Цял екран"
+
+msgid "Internal Resolution"
+msgstr "Вътрешна резолюция"
+
+msgid "Gamma"
+msgstr "Гамма"
+
+msgid "Renderer"
+msgstr "Визуализатор"
+
+msgid "OpenGL ES 2.x"
+msgstr "ОпънДжЛ ЕС 2.х"
+
+msgid "OpenGL ES 3.x"
+msgstr "ОпънДжЛ ЕС 3.0"
+
+msgid "Resolution"
+msgstr "Резолюция"
+
+msgid "Window Size"
+msgstr "Размер на прозореца"
+
+msgid "Saturation"
+msgstr "Сатурация"
+
+msgid "General Volume"
+msgstr "Общ звук"
+
+msgid "BGM Volume"
+msgstr "Фон Звук"
+
+msgid "SFX Volume"
+msgstr "Специални ефекти звук"
+
+msgid "Interface Volume"
+msgstr "Интерфейсен звук"
+
+msgid "Text Scrolling Volume"
+msgstr "Звук при скролване на текста"
+
+msgid "Mute All Audio"
+msgstr "Заглуши цялото аудио"
+
+msgid "Hide Mouse Cursor"
+msgstr "Скрий контроли за мишка"
+
+msgid "Objective Notifications"
+msgstr "Известия за Цели"
+
+msgid "Sound Settings"
+msgstr "Звукови настройки"
+
+msgid "Screen Settings"
+msgstr "Екранни настройки"
+
+msgid "Control Settings"
+msgstr "Контролни настройки"
+
+msgid "Invalid custom controls: All actions need to be assigned!"
+msgstr "Невалидни персонализирани контроли: Всички действия трябва да бъдат зададени!"
+
+msgid "Game Settings"
+msgstr "Игрови настройки"
+
+msgid "Profile"
+msgstr "Профил"
+
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+msgid "Classic"
+msgstr "Класическо"
+
+msgid "WASD"
+msgstr "УЬЯА"
+
+msgid "Azerty Classic"
+msgstr "Азерти Класик"
+
+msgid "Azerty WASD"
+msgstr "Азерти УЬЯА"
+
+msgid "Dvorak Classic"
+msgstr "Дворак Класик"
+
+msgid "Dvorak WASD"
+msgstr "Дворак УЬЯА"
+
+msgid "Xbox"
+msgstr "Хбох"
+
+msgid "DualShock 4"
+msgstr "Дулшок 4"
+
+msgid "DualShock 4 (JP)"
+msgstr "Дулшок 4 (Япония)"
+
+msgid "Switch Pro"
+msgstr "Суитч Про"
+
+msgid "Generic"
+msgstr "Общ"
+
+msgid "Custom"
+msgstr "Потребителски"
+
+msgid "Press a key to assign to {0}..."
+msgstr "Натиснете бутон, за да го присвоите на {0}"
+
+msgid "Press a button to assign to {0}..."
+msgstr "Натиснете бутон, за да го присвоите на {0}..."
+
+msgid "Auto Switch"
+msgstr "Авто превключвател"
+
+msgid "Controller Deadzone"
+msgstr "Мъртва зона на контролер"
+
+msgid "Advanced Settings"
+msgstr "Разширени настройки"
+
+msgid "Revert Settings to Default"
+msgstr "Върни настройките до първоначалните"
+
+msgid "Not recommended"
+msgstr "Не е препоръчително"
+
+msgid "Restart required"
+msgstr "Необходим е рестарт"
+
+msgid "Current: {0}"
+msgstr "Настоящо: {0}"
+
+msgid "Hold to Fast Forward"
+msgstr "Задръж за превъртане"
+
+msgid "Show Skip Option"
+msgstr "Показвай Прескочи"
+
+msgid "Language Settings"
+msgstr "Езикови настройки"
+
+msgid "Select Language"
+msgstr "Избери Език"
+
+msgid "Unofficial Translations"
+msgstr "Неофициални Преводи"
+
+msgid "More..."
+msgstr "Повече..."
+
+msgid ""
+"Attention!\n"
+"\n"
+"You're about to view unofficial translations. These translations are\n"
+"not developed by Leef 6010 and we take no responsibility for their accuracy.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"Внимание!\n"
+"\n"
+"Предстои ви да разгледате неофициални преводи. Тези преводи\n"
+"не са разработени от Leef 6010 и ние не поемаме отговорност за тяхната точност.\n"
+"\n"
+"Продължи?"
+
+msgid "Objectives Updated!"
+msgstr "Целите Обновени!"
+
+msgid "(Done)"
+msgstr "(Готов)"
+
+msgid "{0} Give Up {1} Reset"
+msgstr "{0} Откажи се {1} Нулиране"
+
+msgid "{0} Slow"
+msgstr "{0} Забави"
+
+msgid "{0} Next"
+msgstr "{0} Сладващ"
+
+msgid "{0} Okay"
+msgstr "{0} Окей"
+
+msgid "Obtained {0} {1}"
+msgstr "Получено {0} {1}"
+
+msgid "Designed By"
+msgstr "Дизайн"
+
+msgid "Art"
+msgstr "Изкуство"
+
+msgid "Programming"
+msgstr "Програмиране"
+
+msgid "Playtesting"
+msgstr "Тестване на играта"
+
+msgid "Fonts"
+msgstr "Шрифтове"
+
+msgid "UI Design"
+msgstr "дизайн на ПИ"
+
+msgid "Additional UI Design"
+msgstr "Допълнителен дизайн на ПИ"
+
+msgid "Paper Lily Logo"
+msgstr "Лого на Хартиена Лилия"
+
+msgid "Paper Lily OST"
+msgstr "Хартиена Лили ОСТ"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "Additional Music"
+msgstr "Допълнителна музика"
+
+msgid "SFX"
+msgstr "Специални ефекти (СЕ)"
+
+msgid "Additional Shaders & Special Effects"
+msgstr "Допълнителни Шейдъри & Специални Ефекти"
+
+msgid "Japanese Communications"
+msgstr "Японски Комуникации"
+
+msgid "Korean Communications"
+msgstr "Корейски Комуникации"
+
+msgid "Additional Assets"
+msgstr "Допълнителни Активи"
+
+msgid "Special Thanks"
+msgstr "Специални Благодарности"
+
+msgid "Created By"
+msgstr "Създаден от"
+
+msgid "Made Using"
+msgstr "Направено с"
+
+msgid "Godot Engine"
+msgstr "Годот модул"
+
+msgid "Thank You for Playing!"
+msgstr "Благодаря че играхте!"
+
+msgid "You Died"
+msgstr "Ти Загина"
+
+msgid "Retry"
+msgstr "Повтори"
+
+msgid "Give Up"
+msgstr "Предай се"

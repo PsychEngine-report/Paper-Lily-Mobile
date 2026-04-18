@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Unsealed golden letters scattered across the floor."
+msgstr "По підлозі розкидані нерозкриті золоті конверти."
+
+msgid "They seem to be rituals with various titles."
+msgstr "Схоже, це ритуали з різноманітними назвами."
+
+msgid "\"The Mirror Ritual\""
+msgstr "\"Ритуал з дзеркалами\""
+
+msgid "\"The Ritual of the Well\""
+msgstr "\"Ритуал з криницею\""
+
+msgid "\"The Bus Ritual\""
+msgstr "\"Ритуал з автобусом\""
+
+msgid "\"The Three-Room Ritual\""
+msgstr "\"Ритуал з трьома кімнатами\""
+
+msgid "This is the one I did..."
+msgstr "Ось цей я й виконала..."
+
+msgid "These all come in golden letters... do they all work?"
+msgstr "І всі вони запечатані в золотих конвертах... невже вони всі робочі?"
+
+msgid "I should look into this when I get home."
+msgstr "Продивлюсь їх, як дістанусь додому."
+
+msgid "It's too dark to see anything on the other side."
+msgstr "Надто темно, по ту сторону нічого не видно."
+
+msgid "You think you can leave?"
+msgstr "Вважаєш, що зможеш утекти?"
+
+msgid "Now that you can prove that these rituals work, you have no way of going back to tell anyone."
+msgstr "Оскільки ти підтвердила дієвість цих ритуалів, я аж ніяк не зможу тебе відпустити."
+
+msgid "The knowledge will die with you."
+msgstr "Цей секрет загине разом із тобою."
+
+msgid "That's... that's a lie, right?"
+msgstr "Це ж... це ж все брехня, так?"
+
+msgid "You're just trying to scare me."
+msgstr "Ти просто хочеш мене налякати."
+
+msgid "The door is stuck. It won't open."
+msgstr "Двері заклинило. Їх не виходить відкрити."

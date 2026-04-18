@@ -1,0 +1,1096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You're done."
+msgstr "Xong rồi đấy."
+
+msgid "Good work."
+msgstr "Tốt lắm."
+
+msgid "What now?"
+msgstr "Giờ gì đây?"
+
+msgid "Now, all of these objects need to be burned in the correct order."
+msgstr "Giờ, tất cả mấy vật thể đấy cần được đốt cháy theo đúng thứ tự."
+
+msgid "What's the order?"
+msgstr "Cái thứ tự là gì đấy?"
+
+msgid "That's for you to figure out. The hands over there might provide a clue."
+msgstr "Cái đó thì để cho cô bé tự tìm ra. Đôi bàn tay đằng kia có khi sẽ đưa ra manh mối đấy."
+
+msgid "I see..."
+msgstr "Hiểu rồi..."
+
+msgid "Make sure you have a way to light the fireplace as well."
+msgstr "Đảm bảo cô bé có được phương cách nhóm lò sưởi luôn nữa."
+
+msgid "Oh, that's true..."
+msgstr "Ồ, đúng nhỉ..."
+
+msgid "(Are there any places I haven't checked yet...?)"
+msgstr "(Có nơi nào mình còn chưa coi không ta...?)"
+
+msgid "Lastly... this whole thing tends to culminate with candles going out."
+msgstr "Với sau cùng... hễ nến lụi đi là cả sự tình này hay dẫn đến kết thúc."
+
+msgid "Therefore, if you see any candles, put them out."
+msgstr "Do đó, nếu cô bé thấy bất kì ngọn nến nào, cứ dập tắt đi."
+
+msgid "Understood."
+msgstr "Đã hiểu."
+
+msgid "One more thing."
+msgstr "Một điều nữa."
+
+msgid "I couldn't help but notice how weak you look."
+msgstr "Ta chẳng thể không để ý bộ dạng cô bé yếu đuối nhường nào."
+
+msgid "The challenges ahead might be beyond your capabilities."
+msgstr "Các thử thách sắp tới đây có khi nằm ngoài năng lực cô bé rồi."
+
+msgid "There's an object inside my old hiding spot that can help with that."
+msgstr "Bên trong chỗ trốn cũ của ta có vật thể giúp được cho đấy."
+
+msgid "Spider is just dangling there."
+msgstr "Nhền Nhện cứ lủng lẳng đấy."
+
+msgid "Psst..."
+msgstr "Suỵt..."
+
+msgid "Over here."
+msgstr "Qua đây."
+
+msgid "Here. On the wall."
+msgstr "Chỗ này. Trên tường ấy."
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Spider...?"
+msgstr "Nhền Nhện...?"
+
+msgid "Yes."
+msgstr "Đúng rồi."
+
+msgid "Is that really you?"
+msgstr "Là ông thật hả?"
+
+msgid "Huh... you really meant it when you said you talked to a spider."
+msgstr "Hử... em bảo em có nói chuyện với nhện quả đúng vậy thật luôn."
+
+msgid "He looked different last time, but it's still basically a spider."
+msgstr "Lần cuối trông ổng khác cơ, nhưng cơ bản vẫn là nhện."
+
+msgid "Oh. There's two of you now."
+msgstr "Ồ. Các ngươi giờ có hai người rồi à."
+
+msgid "Well, no matter."
+msgstr "Thôi, không hề gì."
+
+msgid "You look... different."
+msgstr "Ông trông... khác nè."
+
+msgid "...But I can't quite put my finger on it."
+msgstr "...Nhưng mà khác chỗ nào tôi nhìn hoài hổng ra hè."
+
+msgid "I don't appreciate your humor."
+msgstr "Cái khôi hài của cô bé ta chẳng coi trân."
+
+msgid "Miss Knives discovered my hiding spot."
+msgstr "Chị Dao khám phá ra chỗ trốn của ta rồi."
+
+msgid "She's not fond of my presence."
+msgstr "Cô ta không mến sự hiện diện của ta."
+
+msgid "So she turned me into... this."
+msgstr "Thành ra đã biến ta trở thành... thế này."
+
+msgid "It's pathetic."
+msgstr "Thê thảm chưa."
+
+msgid "Damn, she must have crazy powers."
+msgstr "Bỏ xừ, bà cô này mạnh kinh lắm đây."
+
+msgid "Is she really that powerful?"
+msgstr "Bà chị đó mạnh đến vậy thật à?"
+
+msgid "Not quite."
+msgstr "Không hẳn thế."
+
+msgid "You both must have had some time to look around this place by now."
+msgstr "Nãy giờ hẳn là cả hai người có bỏ chút thời gian dò la nơi này rồi."
+
+msgid "You must have had some time to look around this place by now."
+msgstr "Nãy giờ hẳn là cô bé có bỏ chút thời gian dò la nơi này rồi."
+
+msgid "Did you figure out anything strange?"
+msgstr "Thế có nhận ra gì lạ rồi không?"
+
+msgid "You mean aside from... everything?"
+msgstr "Ý là ngoài... hết mấy thứ đây ra á?"
+
+msgid "Kind of a tall order, pal."
+msgstr "Đòi hỏi hơi cao đấy ông bạn."
+
+msgid "...Well..."
+msgstr "...Ờ thì..."
+
+msgid "The location of this house is strange."
+msgstr "Vị trí căn nhà này nó kì lạ."
+
+msgid "The walls are filled with creepy paintings."
+msgstr "Mấy bức tường đầy những bức tranh ghê rợn."
+
+msgid "It's all very purple, I guess."
+msgstr "Cái gì cũng toàn màu tía, chắc thế."
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.ch1_spider"
+msgid "..."
+msgstr "..."
+
+msgid "...Maybe humans are just slow."
+msgstr "...Có khi con người trì độn thật."
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "None of what you're seeing is real."
+msgstr "Không có thứ gì đang thấy đây là có thật hết."
+
+msgid "Huh?"
+msgstr "Hở?"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.lacie"
+msgid "What?"
+msgstr "Hả?"
+
+msgid "Miss Knives is a strange case."
+msgstr "Chị Dao là trường hợp kì lạ."
+
+msgid "She created this place out of her own desires."
+msgstr "Cô ta tạo ra nơi này từ chính ý nguyện của bản thân."
+
+msgid "But the house doesn't actually exist."
+msgstr "Song căn nhà này không thực sự tồn tại."
+
+msgid "Convenient."
+msgstr "Tiện nhỉ."
+
+msgid "So then... it's an illusion?"
+msgstr "Vậy thì... đây là ảo ảnh à?"
+
+msgid "To an extent, yes."
+msgstr "Mức độ nào đó thì đúng."
+
+msgid "That's also why I look like this."
+msgstr "Cũng là lý do ta trông như thế này."
+
+msgid "Miss Knives only sees what she wants to see."
+msgstr "Chị Dao chỉ nhìn thấy gì cô ta muốn thấy."
+
+msgid "So she sees you as... a little spider on the wall?"
+msgstr "Vậy nên cổ nhìn thấy ông như là... con nhện bé xíu trên tường à?"
+
+msgid "It would seem so."
+msgstr "Thấy thì có vẻ là thế."
+
+msgid "I see."
+msgstr "Ra vậy."
+
+msgid "Then... to escape..."
+msgstr "Thế... để thoát ra..."
+
+msgid "You have to break the illusion."
+msgstr "Cô bé phải phá tan cái ảo ảnh."
+
+msgid "Remind her who she is."
+msgstr "Khiến cô ta nhớ lại mình là ai."
+
+msgid "Or rather... who she isn't."
+msgstr "Hay đúng hơn là... mình không phải là ai."
+
+msgid "That's where those objects you need to collect come into play."
+msgstr "Đấy là khi mấy vật thể cô bé cần thu thập đó trở nên hữu ích."
+
+msgid "They seem to have some sort of connection to her memories."
+msgstr "Chúng có vẻ có kết nối gì đó với kí ức của cô ta."
+
+msgid "Once you find and unseal them all, come back and see me."
+msgstr "Một khi cô bé tìm và giải phong ấn hết chúng, hãy quay trở lại gặp ta."
+
+msgid "If you need help with the burning order..."
+msgstr "Nếu cô bé cần giúp đỡ về thứ tự đốt..."
+
+msgid "The painting with the hands might provide you with a hint."
+msgstr "Cái bức vẽ có hai cái tay đây có khi sẽ đưa ra gợi ý đấy."
+
+msgid "That seems to be already unsealed."
+msgstr "Thứ đó xem ra đã được giải phong ấn rồi."
+
+msgid "You don't need to do anything else with it."
+msgstr "Cô bé không cần làm gì khác lên nó nữa."
+
+msgid "(The hands reject the item... it needs to be unsealed first.)"
+msgstr "(Đôi bàn tay đấy từ chối món đồ... nó cần được giải phong ấn trước đã.)"
+
+msgid "My mother got worse one day."
+msgstr "Một ngày mẹ tôi bệnh nặng hơn."
+
+msgid "Father thinks she might die."
+msgstr "Ba nghĩ là mẹ có khi sẽ chết."
+
+msgid "I don't want mom to die."
+msgstr "Tôi không muốn mẹ chết."
+
+msgid "I brought her a cold compress to lower the fever."
+msgstr "Tôi mang cho mẹ cái khăn chườm lạnh để hạ sốt."
+
+msgid "Mother always said that water provides the best healing."
+msgstr "Mẹ lúc nào cũng nói rằng nước là phương cách chữa trị tốt nhất."
+
+msgid "That night, I said a prayer to try to help her."
+msgstr "Đêm đó, tôi nói lời cầu nguyện nhằm thử giúp mẹ."
+
+msgid "I wished for her to get better, and I wished for our family to go back to normal, at least."
+msgstr "Tôi ước cho mẹ tôi được khỏe hơn, và tôi ước cho gia đình mình trở lại bình thường, ít nhất là thế."
+
+msgid "The [color=#90EE90]third blessing[/color] came as a surprise to everyone in the village."
+msgstr "Cái [color=#90EE90]phước lành thứ ba[/color] đến làm điều bất ngờ cho mọi người trong làng."
+
+msgid "The morning after my prayer, my mother was out of bed, and cooking."
+msgstr "Buổi sáng sau lời cầu nguyện của tôi, mẹ tôi ra khỏi giường rồi, và nấu ăn."
+
+msgid "She said she felt much better, she even had strength to go to the market."
+msgstr "Me bảo mẹ cảm thấy tốt hơn nhiều rồi, thậm chí có sức đi chợ nữa."
+
+msgid "You see? The cold compress did the job!"
+msgstr "Thấy chưa con? Khăn chườm lạnh hiệu nghiệm đó!"
+
+msgid "Clean water is the purest thing we have."
+msgstr "Nước sạch là thứ thuần khiết nhất chúng ta có mà."
+
+msgid "Are you sure you should be out of bed?"
+msgstr "Mẹ chắc là nên dậy khỏi giường chứ?"
+
+msgid "This is the best I've felt in years."
+msgstr "Bao năm qua đây là điều tuyệt vời nhất mẹ cảm thấy rồi."
+
+msgid "But... the doctor said..."
+msgstr "Nhưng mà... bác sĩ dặn..."
+
+msgid "I'm sure he was just wrong."
+msgstr "Chắc chắn là bác sĩ sai rồi mà thôi."
+
+msgid "You know, medicine isn't always entirely accurate."
+msgstr "Y học đâu phải lúc nào cũng hoàn toàn chuẩn xác đâu con."
+
+msgctxt "events.Ch1_MK_Wisteria.item_compress_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "No more than two days later, some adults knocked at the door."
+msgstr "Không hơn hai ngày sau, vài tên người lớn đến gõ cửa."
+
+msgid "They took my mother. They called her a witch."
+msgstr "Họ mang mẹ tôi đi. Họ gọi mẹ tôi là phù thủy."
+
+msgid "They claimed she used her powers to get cured of a deadly illness."
+msgstr "Họ tuyên xưng rằng mẹ sử dụng ma lực của mình để chữa khỏi được căn bệnh nan y."
+
+msgid "They said the village needs to be cleansed, and that witch hunts were important for this."
+msgstr "Họ nói ngôi làng cần phải được làm sạch, và nói rằng vì lẽ đó nên việc quan trọng là tiến hành săn phù thủy."
+
+msgid "The next day, my mother was burned at the stake."
+msgstr "Ngày kế tiếp, mẹ tôi bị đem lên cọc hỏa thiêu."
+
+msgid "Everyone watched, and everyone cheered, as she died slowly, for a sin she did not commit."
+msgstr "Ai ai cũng chứng kiến, và ai ai cũng hô reo, khi mẹ từ từ chết đi, vì cái tội lỗi mà mẹ không hề phạm phải."
+
+msgid "This was the first time I wished that I couldn't see anymore."
+msgstr "Đấy là lần đầu tiên tôi ước giá như mình không thể nhìn được nữa."
+
+msgid "Have you somehow missed the large painting that's lacking eyes?"
+msgstr "Không lẽ cô bé bỏ qua mất cái bức tranh lớn bị thiếu đôi mắt đấy rồi sao?"
+
+msgid "The [color=#90EE90]fourth blessing[/color] was something I would never wish for."
+msgstr "Cái [color=#90EE90]phước lành thứ tư[/color] là điều mà tôi sẽ không đời nào ước đến."
+
+msgid "Give it back!"
+msgstr "Trả lại tao!"
+
+msgid "How'd you get your hands on such an expensive-looking sketchbook, huh?"
+msgstr "Sao mày sờ tay được vào cuốn vở phác thảo trông đắt tiền như thế này được hử?"
+
+msgid "Let's see..."
+msgstr "Để coi nào..."
+
+msgid "Stop! Just give it to me!"
+msgstr "Dừng lại! Trả vở tao đi!"
+
+msgid "What the heck is this?"
+msgstr "Cái quỷ gì thế này?"
+
+msgid "They flipped through the pages of my sketchbook, and their faces got an awful ghostly white."
+msgstr "Chúng nó lật qua các trang giấy vở phác thảo của tôi, và gương mặt chúng nó trở nên trắng bệch như ma."
+
+msgid "Is she a witch?"
+msgstr "Nó là phù thủy hả?"
+
+msgid "What are those?"
+msgstr "Mấy cái đó là gì?"
+
+msgid "I didn't draw that!"
+msgstr "Tao không có vẽ cái đó!"
+
+msgid "Hey, I didn't know you were a witch."
+msgstr "Ê, không ngờ mày là phù thủy."
+
+msgid "I'm not!!!"
+msgstr "Không phải!!!"
+
+msgid "Pages and pages of creepy drawings."
+msgstr "Trang nào trang nấy toàn vẽ ghê rợn gì đâu."
+
+msgid "What is this? Some kind of curse casting shit?"
+msgstr "Cái gì đây? Bùa chú nguyền rủa vạ gì đó há?"
+
+msgid "I didn't make them! I don't know where they came from!"
+msgstr "Tao không có vẽ mấy cái đó! Tao không biết nó từ đâu ra ấy!"
+
+msgid "It's the truth. Why didn't they believe me?"
+msgstr "Sự thật là thế mà. Tại sao chúng nó không tin tôi?"
+
+msgid "STOP! WHAT ARE YOU DOING?!?"
+msgstr "DỪNG LẠI! BỌN MÀY LÀM GÌ ĐẤY?!?"
+
+msgid "You're just a filthy witch!"
+msgstr "Mày là con phù thủy bẩn thỉu thôi!"
+
+msgid "I'm reporting you, you won't be needing this!"
+msgstr "Tao báo cáo mày đây, cái này mày chả cần đâu!"
+
+msgid "PLEASE DON'T BREAK IT!"
+msgstr "XIN ĐỪNG CÓ LÀM HỎNG NÓ!"
+
+msgid "You don't even need all of these colors."
+msgstr "Mày còn chả cần hết những cái màu này."
+
+msgid "Nothing but black."
+msgstr "Không cần gì ngoài màu đen."
+
+msgid "You were never supposed to see anything but darkness anyway."
+msgstr "Dù gì đáng lý ra mày có bao giờ nhìn được cái gì ngoài bóng tối đâu."
+
+msgid "Blind freak."
+msgstr "Con quái dị mắt đui."
+
+msgid "Please stop... Give them back..."
+msgstr "Dừng lại đi mà... Trả lại đây..."
+
+msgid "Aww.. poor little crybaby."
+msgstr "Aau... em bé khóc nhè tội nghiệp kìa."
+
+msgid "I'm gonna report you."
+msgstr "Tao sẽ báo cáo mày."
+
+msgid "Father will be so proud, I caught my own witch."
+msgstr "Ba tự hào lắm đây, chính tay tao bắt được con phù thủy rồi."
+
+msgid "I'm not a witch..."
+msgstr "Tao không phải phù thủy..."
+
+msgid "I swear I'm not..."
+msgstr "Tao thề tao không phải..."
+
+msgid "No! Don't!!!! Please!!!"
+msgstr "Không! Đừng!!! Xin đấy!!!"
+
+msgid "(Stop, please stop...)"
+msgstr "(Dừng lại, xin hãy dừng lại...)"
+
+msgid "(Please stop...)"
+msgstr "(Xin hãy dừng lại...)"
+
+msgid "(What did I do to you...?)"
+msgstr "(Tao đã làm gì chúng mày...?)"
+
+msgid "(Please stop.......)"
+msgstr "(Xin dừng lại đi...)"
+
+msgid "I hate them. I hate my life. Why is this happening to me?"
+msgstr "Tôi ghét bọn chúng. Tôi hận cuộc đời mình. Tại sao điều này xảy ra với tôi hả?"
+
+msgid "Soon enough, the boy dropped the sketchbook."
+msgstr "Chẳng bao lâu, thằng con trai thả cuốn vở phác thảo xuống."
+
+msgid "My eyes were focused on the crumpled pages of my sketchbook hitting the ground, so I didn't see it until someone screamed."
+msgstr "Đôi mắt tôi tập trung vào những trang giấy nhàu nát từ cuốn vở phác thảo đập xuống đất, nên tôi không thấy cái điều đó cho đến khi một đứa thét lên."
+
+msgid "...!?"
+msgstr "...!?"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+msgstr "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!!"
+
+msgid "The boy's right leg twisted almost 360 degrees, as if it was some form of nightmarish witchcraft."
+msgstr "Chân phải của đứa con trai đấy bị xoắn gần 360 độ, cứ như là hình thù của cái yêu thuật trong ác mộng mà ra."
+
+msgid "Then it twisted again."
+msgstr "Rồi nó lại bị xoắn nữa."
+
+msgid "Something broke in his leg, and he fell down, writhing in pain."
+msgstr "Cái gì đó gãy trong chân của nó, rồi nó ngã xuống, quằn quại đớn đau."
+
+msgid "I couldn't understand what I was seeing."
+msgstr "Tôi không thể hiểu nổi cái mà tôi đang nhìn."
+
+msgid "Y-you... what did you do to his leg?!?"
+msgstr "M-mày... mày làm gì chân thằng đó rồi?!?"
+
+msgid "N-Nothing I didn't even touch him..."
+msgstr "Kh-không có, tao còn không đụng vào nó..."
+
+msgid "AAAAAAAAGGGHHHH! IT HURTS!!!!"
+msgstr "AAAAAAAAƯƯU! ĐAU, ĐAU QUÁ!!!!"
+
+msgid "Call someone! We need help! HELP!!!"
+msgstr "Gọi người ta đi! Bớ người ta! CỨU!!!"
+
+msgid "YOU'RE A WITCH!! YOU'RE A WITCH!!!"
+msgstr "MÀY LÀ PHÙ THỦY!! MÀY LÀ PHÙ THỦY!!!"
+
+msgid "I WILL DESTROY YOU!!!! YOU'LL BE BURNED!!!!"
+msgstr "TAO SẼ TIÊU DIỆT MÀY!!!! MÀY SẼ BỊ THIÊU SỐNG!!!!"
+
+msgid "................."
+msgstr "................."
+
+msgid "BURN IN HELL!!!"
+msgstr "CHÁY TRONG HỎA NGỤC!!!"
+
+msgid "The adults came and took him away."
+msgstr "Đám người lớn đến và mang thằng đó đi."
+
+msgid "When I finally lifted my gaze from the dirt below my fingers, Iris was standing in front of me."
+msgstr "Khi tôi cuối cùng nhấc ánh nhìn khỏi đất cát bên dưới ngón tay tôi, Iris đang đứng đằng trước mặt tôi rồi."
+
+msgid "My heart sank... Did she see what happened?"
+msgstr "Tim tôi chùng xuống... Nó đã thấy cái gì xảy ra rồi?"
+
+msgid "...A-Are you alright...?"
+msgstr "...C-Cậu không sao chứ...?"
+
+msgctxt "events.Ch1_MK_Wisteria.item_foot_on_holder.dlg.mk"
+msgid "............"
+msgstr "............"
+
+msgid "I-I... You didn't do that to his leg, right?"
+msgstr "T-Tớ... Cậu đâu có làm gì chân của nó đâu đúng không?"
+
+msgid "No! Of course I didn't!"
+msgstr "Không! Đương nhiên tớ không làm!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_foot_on_holder.dlg.chara1"
+msgid "..."
+msgstr "..."
+
+msgid "O-Okay."
+msgstr "Đ-Được rồi."
+
+msgid "...I... Why are you here?"
+msgstr "...Tớ... Cậu ở đây làm gì?"
+
+msgid "Um... I came because... my parents said..."
+msgstr "Ừm... Tớ đến vì... ba mẹ tớ bảo..."
+
+msgid "...That I'm not allowed to see you anymore."
+msgstr "...Là tớ không được phép chơi với cậu nữa."
+
+msgid "Take ${item:ch1.mk_jar} x3?"
+msgstr "Lấy ${item:ch1.mk_jar} x3 chứ?"
+
+msgctxt "events.Ch1_MK_Wisteria.item_jars_get.choice.Take ${item:ch1.mk_jar} x3?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_MK_Wisteria.item_jars_get.choice.Take ${item:ch1.mk_jar} x3?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "You may use that on the canvas over there."
+msgstr "Cô bé có thể dùng cái đó lên tấm vải bạt bên kia."
+
+msgid "That's the right idea, I think."
+msgstr "Tôi cho là ý tưởng đi đúng hướng đấy."
+
+msgid "What should I be doing with these?"
+msgstr "Mấy thứ này tôi nên làm cái gì đây?"
+
+msgid "They're probably related to that canvas over there."
+msgstr "Chắc hẳn những thứ đó liên quan đến tấm vải bạt đằng kìa."
+
+msgid "Maybe you use them to make paint."
+msgstr "Có khi là dùng những thứ đó để tạo màu vẽ."
+
+msgid "That's the key to the bedroom."
+msgstr "Đó là chìa khóa vào phòng ngủ."
+
+msgid "Oh... I don't need this anymore."
+msgstr "Ồ... Cái này tôi không cần nữa."
+
+msgid "That's a key to the cages."
+msgstr "Đó là chìa khóa mở mấy cái lồng."
+
+msgid "I see you don't need it anymore."
+msgstr "Ta thấy cô bé không cần nó nữa."
+
+msgid "I can take that off your hands."
+msgstr "Có thể lấy nó ra khỏi tay cô bé rồi."
+
+msgid "Oh... I see."
+msgstr "Ồ... ra vậy."
+
+msgid "That's the key to this room."
+msgstr "Đó là chìa khóa vào căn phòng này."
+
+msgid "I shall get rid of it, given that you already made it in."
+msgstr "Với việc cô bé đã vào đây được rồi, ta sẽ vứt nó đi."
+
+msgid "After the incident with that boy's leg, the authorities knocked at our door again."
+msgstr "Sau tai nạn với cái chân của thằng con trai kia, đương cục lại gõ cửa nhà chúng tôi."
+
+msgid "\"Your daughter is a witch\" they said to my father."
+msgstr "\"Con gái nhà này là phù thủy\" họ nói với ba tôi."
+
+msgid "They talked about how I hurt that boy, how my mother healed from a fatal illness, how my eyesight came back."
+msgstr "Họ nói chuyện về việc tôi làm thằng con trai đó bị đau thế nào, mẹ tôi lành khỏi bệnh hiểm nghèo thế nào, tôi nhìn lại được thế nào."
+
+msgid "They told us both me and my father are accused of witchcraft."
+msgstr "Họ bảo chúng tôi là cả tôi và ba tôi đều bị buộc tội dùng yêu thuật."
+
+msgid "T-That's nonsense! What are you talking about??"
+msgstr "T-Thế là trái khoáy! Mấy người nói cái gì vậy??"
+
+msgid "The whole family needs to be cleansed."
+msgstr "Cả gia đình cần phải được thanh tẩy."
+
+msgid "Your daughter will be tried for witchcraft, and due to your ties to her, you will be as well."
+msgstr "Con gái ông sẽ bị xét xử vì dùng yêu thuật, và do ràng buộc với con gái, ông cũng sẽ bị xét xử luôn."
+
+msgid "H-Hold on... Wait... You've got it all wrong. She's not my daughter."
+msgstr "Kh-khoan đã... Từ từ... Mấy vị nhầm cả rồi. Nó có phải con gái tôi đâu."
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "I merely found her on the streets, she does not share my blood."
+msgstr "Tôi nhặt được nó trên đường thôi, nó không có huyết thống với tôi."
+
+msgid "(...Father...)"
+msgstr "(...Ba ơi...)"
+
+msgid "Take him."
+msgstr "Dắt ông ta đi."
+
+msgid "N-NO NO! PLEASE! I HAVE NOTHING TO DO WITH THIS!"
+msgstr "K-KHÔNG KHÔNG! XIN ĐẤY! TÔI KHÔNG CÓ LIÊN QUAN GÌ HẾT!"
+
+msgid "When the men walked in the house, my father ran towards the back door."
+msgstr "Khi mấy gã đàn ông bước vào nhà, ba tôi chạy hướng ra cửa sau."
+
+msgid "He was frantically bumping into the furniture to reach it."
+msgstr "Ba trối chết va sầm vào đống gia cụ mà chạy ra đó."
+
+msgid "Find the girl."
+msgstr "Tìm đứa con gái."
+
+msgid "And burn his body."
+msgstr "Rồi đốt thây ông bố."
+
+msgid "Burn the whole house, it's cursed."
+msgstr "Đốt cả căn nhà luôn, nó bị nguyền rủa rồi."
+
+msgid "My father's blood ran down the hallway like a small river stream."
+msgstr "Máu của ba tôi chảy xuống hành lang như một dòng sông nhỏ."
+
+msgid "It seeped into the cracks of the broken floorboards."
+msgstr "Nó rỉ xuống kẽ nứt của mấy tấm ván sàn hỏng nát."
+
+msgid "This is all that boy's fault."
+msgstr "Tất cả là tại thằng con trai đó."
+
+msgid "The prison cell was cold, and dark."
+msgstr "Ngục giam đây lạnh lẽo, và tối tăm."
+
+msgid "There was nobody else there with me, except for the occasional rat."
+msgstr "Chẳng có ai khác ở đây với tôi, ngoại trừ thi thoảng vài con chuột."
+
+msgid "People always said rats are dirty and dangerous."
+msgstr "Người ta lúc nào cũng bảo chuột là loài dơ dáy và nguy hiểm."
+
+msgid "But at that moment, I appreciated the company."
+msgstr "Nhưng vào khoảnh khắc đó, được bầu bạn chúng tôi lại thấy cảm kích."
+
+msgid "The adults told me my execution will be the following morning."
+msgstr "Đám người lớn bảo tôi buổi hành quyết tôi sẽ là buổi sáng sau đó."
+
+msgid "They said I will be burned in order to purify the village."
+msgstr "Họ nói tôi sẽ bị hỏa thiêu nhằm để thanh lọc ngôi làng."
+
+msgid "What does that even mean? Purify the village..."
+msgstr "Như thế có nghĩa là gì cơ? Thanh lọc ngôi làng á..."
+
+msgid "I was alone with my thoughts for what felt like hours before someone came by."
+msgstr "Tôi cô đơn với suy tư của mình cảm thấy như suốt hàng tiếng trước khi ai đó ghé tới."
+
+msgid "Hey..."
+msgstr "Ê..."
+
+msgid "Iris...?"
+msgstr "Iris...?"
+
+msgid "(Will I get out of here...??)"
+msgstr "(Mình sẽ được ra khỏi đây...??)"
+
+msgid "Um... listen... I'm so sorry...!"
+msgstr "Ừm... nghe nè... tớ rất xin lỗi...!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "...?"
+msgstr "...?"
+
+msgid "I-... I told my dad about everything..."
+msgstr "Tớ-... Là do tớ mách cho ba tớ biết mọi chuyện..."
+
+msgid "What...?"
+msgstr "Cái gì...?"
+
+msgid "(...No way...)"
+msgstr "(...Không thể nào...)"
+
+msgid "I... I thought if you might really be a witch, he could protect you...."
+msgstr "Tớ... Tớ tưởng nếu cậu có khi là phù thủy thật, ba tớ có thể bảo vệ cậu..."
+
+msgid "B-Because he knew we were friends!"
+msgstr "B-Bởi vì ba tớ biết chúng ta là bạn mà!"
+
+msgid "I'm sorry... I did this...!"
+msgstr "Tớ xin lỗi... Tại tớ làm...!"
+
+msgid "I didn't know he would kill your dad... and... and you..."
+msgstr "Tớ không hề biết ba tớ sẽ giết ba cậu... và... và cậu nữa..."
+
+msgid "Please..."
+msgstr "Xin cậu..."
+
+msgid "Please take this knife..."
+msgstr "Hãy cầm lấy con dao này..."
+
+msgid "P-please... please use it... before they kill you."
+msgstr "X-xin hãy... hãy dùng nó... trước khi mấy người đó giết cậu."
+
+msgid "You'll be better off if you end it this way...!"
+msgstr "Nếu cậu kết thúc bằng cách này thì sẽ tốt hơn đấy...!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "............"
+msgstr "............"
+
+msgid "What's happening?"
+msgstr "Cái gì xảy ra đây?"
+
+msgid "Why would she tell me something like this?"
+msgstr "Tại sao nó lại nói cho tôi điều như thế?"
+
+msgid "What's going on?"
+msgstr "Chuyện gì xảy ra vậy?"
+
+msgid "I-I love you and... father said burning is slow and painful...!!"
+msgstr "Tớ-tớ thương cậu và... ba tớ bảo hỏa thiêu thì chậm và đau đớn...!!"
+
+msgid "You're better off doing it this way..!"
+msgstr "Nêu cậu làm cách này thì sẽ tốt hơn đấy...!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "....."
+msgstr "....."
+
+msgid "You're asking me to kill myself..?"
+msgstr "Cậu bảo tớ kết liễu chính mình...?"
+
+msgid "Y-Yes... because... I still care about you...!"
+msgstr "Đ-đúng... bởi vì... tớ vẫn quan tâm cho cậu...!"
+
+msgid "Is this what you call... care?"
+msgstr "Cậu gọi thế này là... quan tâm sao?"
+
+msgid "I didn't know that my vision would get blurry if I cry."
+msgstr "Tôi không biết rằng tầm nhìn của mình sẽ bị mờ đi khi tôi khóc đấy."
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "Giúp tôi cái đồ này với."
+
+msgid "Ah, this is a knife."
+msgstr "À, đây là con dao."
+
+msgid "You might have to draw some blood to unseal it."
+msgstr "Cô bé có khi phải rút tí máu để mà giải phong ấn nó."
+
+msgid "Are you brave enough to cut yourself?"
+msgstr "Đủ dũng khí để cắt bản thân không nào?"
+
+msgid "Why should I cut myself?"
+msgstr "Cớ sao tôi phải cắt chính tôi?"
+
+msgid "I don't see who else you could cut."
+msgstr "Ta không thấy cô bé cắt được ai khác cả."
+
+msgid "I could cut you instead."
+msgstr "Tôi cắt ông thay cho là được."
+
+msgid "You'll never aim properly."
+msgstr "Cô bé không đời nào nhắm chuẩn được đâu."
+
+msgid "Your aim is terrible."
+msgstr "Nhắm dở tệ cô bé ạ."
+
+msgid "Perhaps there are advantages to being small after all."
+msgstr "Có lẽ bị bé nhỏ thế này rốt cuộc cũng có cái ưu thế."
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_spider.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're not skilled enough for that."
+msgstr "Bạn không đủ điêu luyện mà làm thế đâu."
+
+msgid "(The hands reject the item... they're scared of it.)"
+msgstr "(Hai bàn tay từ chối món đồ... chúng nó sợ thứ này.)"
+
+msgid "That should serve you well in lighting the fireplace."
+msgstr "Để nhóm lò sưởi thì xài thứ đó được việc đấy."
+
+msgid "My life is below average."
+msgstr "Cuộc đời tôi ở dưới mức trung bình."
+
+msgid "I've been blind since I was a baby, so my parents thought of abandoning me."
+msgstr "Từ khi tôi còn là em bé thì tôi đã bị mù, nên ba mẹ tôi có nghĩ đến việc bỏ rơi tôi."
+
+msgid "\"A blind child cannot help the family\" they said. \"Especially not a girl.\""
+msgstr "\"Đứa con mù lòa sao thể giúp đỡ gia đình được\" họ nói. \"Là con gái thì đặc biệt là không.\""
+
+msgid "But my mother says they loved me so much that they wanted to give me a chance."
+msgstr "Nhưng mẹ tôi nói hai người thương yêu tôi rất nhiều nên mong muốn cho tôi cơ hội."
+
+msgid "Right now, I manage just fine."
+msgstr "Bây giờ, tôi xoay sở cũng ổn."
+
+msgid "I do my chores, I go to the market, I help with the vegetable garden."
+msgstr "Tôi làm việc nhà, tôi đi chợ, tôi giúp chăm sóc vườn rau."
+
+msgid "Mother is sick, so she's always in bed."
+msgstr "Mẹ bị ốm, nên mẹ lúc nào cũng nằm trên giường."
+
+msgid "The doctor says she might be like this for the rest of her life."
+msgstr "Bác sĩ nói mẹ có khi sẽ như thế cho đến hết phần đời còn lại."
+
+msgid "Every day, I go meet my friend at the riverbank."
+msgstr "Mỗi ngày, tôi ra bờ sông gặp cô bạn thân của mình."
+
+msgid "Iris is always talking excitedly about everything you could find outside of the village."
+msgstr "Iris lúc nào cũng sốt sắng trò chuyện về mọi thứ mà ta tìm được bên ngoài ngôi làng."
+
+msgid "She makes the world sound so bright."
+msgstr "Có nó mà thế giới nghe thật là tươi sáng."
+
+msgid "We made a deal, that when we turn 14, we'll run away together, and travel to mountains and seas."
+msgstr "Bọn tôi giao hẹn rằng khi hai đứa lên 14, hai đứa sẽ cùng nhau chạy đi, và du hành lên núi xuống biển."
+
+msgid "But I was actually fine with a simple life. The bare minimum was enough, as long as I had Iris."
+msgstr "Nhưng tôi thực ra thấy ổn với cuộc sống giản dị. Mức tối thiểu vầy là đủ rồi, miễn là tôi có Iris."
+
+msgid "If there's one thing I wanted..."
+msgstr "Nếu có một điều mà tôi muốn..."
+
+msgid "It was just to be able to see her."
+msgstr "Đó chỉ là có thể nhìn được nó mà thôi."
+
+msgid "The [color=#90EE90]first blessing[/color] changed the course of my life."
+msgstr "Cái [color=#90EE90]phước lành đầu tiên[/color] đã thay đổi dòng chảy cuộc đời tôi."
+
+msgctxt "events.Ch1_MK_Wisteria.item_mirror_on_holder.dlg.mk"
+msgid "..."
+msgstr "..."
+
+msgid "........."
+msgstr "........."
+
+msgid "I couldn't calm my breathing."
+msgstr "Tôi không thể nguôi đi cơn thở của mình."
+
+msgid "I woke up one morning and I could see."
+msgstr "Một sáng tôi thức dậy và bỗng tôi có thể nhìn."
+
+msgid "I saw shapes, and colors, and my parents."
+msgstr "Tôi thấy hình dáng, thấy màu sắc, và thấy ba mẹ của mình."
+
+msgid "I saw the broken dining table."
+msgstr "Tôi thấy cái bàn ăn bị hỏng."
+
+msgid "I saw the weeds in the vegetable garden."
+msgstr "Tôi thấy cỏ dại trong vườn rau."
+
+msgid "I saw the chipped cup that I drank from."
+msgstr "Tôi thấy cái tách bị sứt mà tôi có cầm uống."
+
+msgid "I saw my wrinkled clothes."
+msgstr "Tôi thấy bộ quần áo nhăn nheo của mình."
+
+msgid "Despite not having much, they were the most beautiful things I laid my eyes on."
+msgstr "Mặc dù không có lấy làm nhiều, chúng là những thứ tuyệt đẹp nhất mà tôi hướng mắt nhìn."
+
+msgid "I couldn't say the same about my reflection."
+msgstr "Hình phản chiếu tôi thì tôi lại không thể nói là giống vậy."
+
+msgid "(Have I always looked like this?)"
+msgstr "(Mình lúc nào cũng trông như thế này sao?)"
+
+msgid "(Were my eyes always so... bland?)"
+msgstr "(Đôi mắt của mình lúc nào cũng... nhạt nhẽo thế sao?)"
+
+msgid "(Was my hair always so... dull?)"
+msgstr "(Mái tóc của mình lúc nào cũng... tẻ ngắt thế sao?)"
+
+msgid "My parents gradually grew distant."
+msgstr "Ba mẹ tôi dần dần trở nên xa cách."
+
+msgid "People in the village stared at me, and whispered behind my back."
+msgstr "Người dân trong làng nhìn chằm chằm tôi, và lời ra tiếng vào sau lưng tôi."
+
+msgid "Why did they seem scared of me?"
+msgstr "Tại sao người ta có vẻ e dè tôi thế?"
+
+msgid "Iris said she's a little nervous around me, but she was really happy that I got my eyesight."
+msgstr "Iris nói là nó hơi chút bồn chồn bên tôi, nhưng nó rất là vui khi mà tôi có được sức nhìn rồi."
+
+msgid "She called it a miracle."
+msgstr "Nó bảo đây là phép mầu vậy."
+
+msgid "My parents started avoiding me."
+msgstr "Ba mẹ tôi bắt đầu tránh né tôi."
+
+msgid "When I spoke to them, they always tried to brush me away."
+msgstr "Khi tôi cất tiếng với ba mẹ, họ lúc nào cũng cố phủi tôi đi."
+
+msgid "The only times their tired eyes met mine, I only saw hatred in them."
+msgstr "Mỗi mấy lần đôi mắt mỏi mệt của ba mẹ nhìn tôi, tôi chỉ thấy được nỗi căm hờn mà thôi."
+
+msgid "Did they always look at me this way?"
+msgstr "Ba mẹ lúc nào cũng nhìn tôi theo cách đó sao?"
+
+msgctxt "events.Ch1_MK_Wisteria.item_mirror_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "Giúp tôi cái đồ này với."
+
+msgid "Hmmm..."
+msgstr "Hừmmm..."
+
+msgid "Have you tried simply looking at it?"
+msgstr "Cô bé thử chỉ nhìn vào nó thôi xem?"
+
+msgid "(The hands reject the item... it is irrelevant to them.)"
+msgstr "(Hai bàn tay từ chối món đồ... với chúng nó đồ này không liên quan gì.)"
+
+msgid "With your masterpiece complete, the canvas turns into a sketchbook."
+msgstr "Vừa hoàn thành kiệt tác của bạn, tấm vải bạt liền biến thành cuốn vở phác thảo."
+
+msgid "The pigment doesn't stick on its own..."
+msgstr "Bột màu bản thân nó không bám dính được..."
+
+msgid "You soak the rag in the pool..."
+msgstr "Bạn nhúng cái giẻ trong bể..."
+
+msgid "It's already wet enough."
+msgstr "Nó ướt đủ rồi."
+
+msgctxt "events.Ch1_MK_Wisteria.item_rag_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "Giúp tôi cái đồ này với."
+
+msgid "A dry piece of cloth?"
+msgstr "Miếng vải khô à?"
+
+msgid "Try moisturizing it."
+msgstr "Thử làm ướt nó xem."
+
+msgid "The [color=#90EE90]second blessing[/color] came as a gift."
+msgstr "Cái [color=#90EE90]phước lành thứ hai[/color] đến như món quà."
+
+msgid "I always met Iris out by the river, and we sat and talked for hours."
+msgstr "Lúc nào tôi cũng ra gặp Iris bên dòng sông, và bọn tôi ngồi nói chuyện hàng giờ liền."
+
+msgid "She told me all about the things I couldn't see."
+msgstr "Nó nói cho tôi hết về những điều mà hồi trước tôi không thể thấy."
+
+msgid "But it was different now."
+msgstr "Nhưng giờ thì khác rồi."
+
+msgid "She spoke with such happiness and excitement."
+msgstr "Nó nói mà tràn đầy hạnh phúc và nhiệt tình."
+
+msgid "I couldn't take my eyes off of her."
+msgstr "Tôi không thể đưa mắt đi khỏi nó."
+
+msgid "So to celebrate this miracle..."
+msgstr "Nên là để khánh chúc phép mầu này..."
+
+msgid "I got you something!"
+msgstr "Tớ có cái đồ cho cậu nè!"
+
+msgctxt "events.Ch1_MK_Wisteria.item_sketchbook_on_holder.dlg.mk"
+msgid "What?"
+msgstr "Gì đó?"
+
+msgid "For me?"
+msgstr "Cho mình à?"
+
+msgid "Of course! Your eyes work now! It's amazing! We have to celebrate!"
+msgstr "Đương nhiên! Giờ mắt cậu nhìn được rồi! Tuyệt vời mà! Ta phải ăn mừng chứ!"
+
+msgid "So... I stole this from my family..."
+msgstr "Thành ra... tớ trộm cái này từ nhà tớ..."
+
+msgid "But shh!"
+msgstr "Cơ mà suỵt!"
+
+msgid "Don't tell!"
+msgstr "Đừng nói ai nha!"
+
+msgid "Wha-.."
+msgstr "Cái gì-..."
+
+msgid "Iris! A sketchbook and paints are... so expensive...!"
+msgstr "Iris này! Vở phác thảo với màu vẽ nó... đắt tiền lắm...!"
+
+msgid "H-How...? Why...?"
+msgstr "L-làm sao...? Tại sao...?"
+
+msgid "You always said you wanted to paint! I believe in you!"
+msgstr "Lúc nào cậu cũng nói là muốn vẽ mà! Tớ tin vào cậu!"
+
+msgid "I'm so excited to see what you'll come up with!"
+msgstr "Được nhìn xem cậu sẽ vẽ nên những gì là tớ thích thú lắm luôn!"
+
+msgid "I couldn't believe it! My very own sketchbook and watercolors!"
+msgstr "Tôi không thể tin nổi! Cuốn vở phác thảo và màu nước của chính tôi đây!"
+
+msgid "There were so many things I could paint!"
+msgstr "Có nhiều thứ mà tôi có thể vẽ nên lắm!"
+
+msgid "Mother was always bedridden, so I made a habit of showing her my paintings."
+msgstr "Mẹ lúc nào cũng nằm liệt giường, nên tôi hình thành thói quen cho mẹ xem tranh vẽ của mình."
+
+msgid "I started with trees and objects."
+msgstr "Tôi bắt đầu bằng cây cối với đồ vật."
+
+msgid "But I took a liking to portraits of people."
+msgstr "Nhưng tôi trở nên yêu thích chân dung con người."
+
+msgid "They all have such distinct, beautiful faces."
+msgstr "Tranh vẽ đều có những khuôn mặt khác biệt, xinh đẹp."
+
+msgid "After only 2 days, I had already made 8 portraits!"
+msgstr "Chỉ sau 2 ngày thôi, mà tôi vẽ được hẳn 8 bức chân dung rồi!"
+
+msgid "But when I flipped to the next page... a different kind of portrait filled the brown paper."
+msgstr "Nhưng khi tôi lật sang trang tiếp theo... một bức chân dung kiểu khác lấp kín trang giấy nâu."
+
+msgid "It was all painted in black, and it was twisted and scary."
+msgstr "Nó được vẽ hoàn toàn màu đen, và nó vặn vẹo với dễ sợ."
+
+msgid "I hadn't painted this..."
+msgstr "Tôi không hề vẽ cái này..."
+
+msgid "I didn't even know who this person- or... creature, was."
+msgstr "Tôi còn không hề biết người – hay... cái sinh vật – này là gì."
+
+msgid "Every morning after that, I found new distorted portraits in the pages, but I never remembered painting them."
+msgstr "Mỗi buổi sáng sau đó, tôi cứ nhìn thấy những bức chân dung méo mó mới trong các trang giấy, nhưng tôi không hề nhớ là mình có vẽ bao giờ."
+
+msgid "A bookshelf full of coloring books, and other children's books."
+msgstr "Cái kệ sách đầy sách tô màu, và mấy cuốn sách trẻ em khác."
+
+msgid "A bookshelf full of books about painting."
+msgstr "Cái kệ sách đầy sách nói về vẽ."
+
+msgid "One of them stands out. Read a passage?"
+msgstr "Một cuốn trong đó nổi bật ra. Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_bookshelf_2.choice.One of them stands out. Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_bookshelf_2.choice.One of them stands out. Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "\"Should a merchant not be available in your region, it is always possible to create your own paint by mixing pigments with water.\""
+msgstr "\"Nếu mà địa phương ta sống không có thương nhân, hoàn toàn có thể tự làm ra màu vẽ bằng cách trộn bột màu với nước.\""
+
+msgid "There's something covered with a drape."
+msgstr "Có cái gì đó được tấm che phủ lên."
+
+msgid "Remove the drape?"
+msgstr "Bỏ tấm che ra chứ?"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Remove the drape?"
+msgid "Yes"
+msgstr "Bỏ ra"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Remove the drape?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Looks like a flat, black square."
+msgstr "Trông như hình vuông phẳng màu đen."
+
+msgid "Take it with you?"
+msgstr "Lấy nó theo chứ?"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Take it with you?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Take it with you?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "...It's too large and heavy to carry around."
+msgstr "...Nó to và nặng quá không mang đi được."
+
+msgid "A crow stands at the edge of the pool."
+msgstr "Ở gờ cái bể có con quạ đứng đậu."
+
+msgid "A painting with two protruding hands expecting something."
+msgstr "Bức tranh có hai bàn tay thò ra mong nhận cái gì đó."
+
+msgid "Looks like I can place something on these hands..."
+msgstr "Có vẻ mình có thể đặt cái gì đó lên hai cái tay này..."
+
+msgid "A small pool. The water looks clean."
+msgstr "Cái bể nhỏ. Nước trông sạch."

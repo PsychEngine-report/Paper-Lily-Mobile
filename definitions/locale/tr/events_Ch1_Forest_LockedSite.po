@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "Bu iyi bir fikir gibi durmuyor."
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "The hole is big enough."
+msgstr "Delik yeterince büyük."
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_1.dlg.narrator"
+msgid "There's no reason to go back."
+msgstr "Geri dönmek için bir sebep yok."
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "Bu iyi bir fikir gibi durmuyor."
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "The hole is big enough."
+msgstr "Delik yeterince büyük."
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_2.dlg.narrator"
+msgid "There's no reason to go back."
+msgstr "Geri dönmek için bir sebep yok."
+
+msgctxt "events.Ch1_Forest_LockedSite.item_boltcutter_on_fence_3.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "Bu iyi bir fikir gibi durmuyor"
+
+msgid "There's no reason to do that."
+msgstr "Bunu yapmak için bir sebep yok."
+
+msgid "There's a gate nearby!"
+msgstr "Yakında bir geçit var."
+
+msgid "There's quite a bit of blood in this spot."
+msgstr "Bu alanda oldukça fazla kan var."
+
+msgid "Someone's remains. You can't tell whether they're human or not."
+msgstr "Birinin kalıntıları. İnsan olup olmadığını anlayamıyorsun."
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.lacie"
+msgid "I'd rather not go back in there."
+msgstr "Oraya geri dönmemeyi tercih ederim."
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.lacie"
+msgid "The grass is definitely greener on this side."
+msgstr "Bu tarafta çimenler kesinlikle daha yeşil."
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "Çit yolunu kapatıyor."
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice"
+msgid "Use ${item:ch1.forest_bolt_cutter}?"
+msgstr "${item:ch1.forest_bolt_cutter} burada kullanmalı mıyım?"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_1.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.lacie"
+msgid "I'd rather not go back in there."
+msgstr "Oraya geri dönmemeyi tercih ederim."
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.lacie"
+msgid "The grass is definitely greener on this side."
+msgstr "Bu tarafta çimenler kesinlikle daha yeşil."
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "Çit yolunu kapatıyor."
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice"
+msgid "Use ${item:ch1.forest_bolt_cutter}?"
+msgstr "${item:ch1.forest_bolt_cutter} burada kullanmalı mıyım?"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_2.choice.Use ${item:ch1.forest_bolt_cutter}?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_3.dlg.narrator"
+msgid "A fence blocks your path."
+msgstr "Çit yolunu kapatıyor."
+
+msgid "A long fence."
+msgstr "Uzun bir çit."
+
+msgctxt "events.Ch1_Forest_LockedSite.misc_fence_door.dlg.narrator"
+msgid "That doesn't seem like a good idea."
+msgstr "Bu iyi bir fikir gibi durmuyor."
+
+msgid "There's no way I'm going back in there."
+msgstr "Oraya geri dönmemin hiçbir yolu yok."
+
+msgid "There's a note on the floor:"
+msgstr "Yerde bir not var:"
+
+msgid "The petal trail ends here."
+msgstr "Taç yaprağı izi burada sona eriyor."
+
+msgid "They didn't make it to the exit..."
+msgstr "Çıkışa ulaşamadılar..."

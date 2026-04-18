@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Maybe I'll explore somewhere else first."
+msgstr "Може би първо ще изследвам някъде другаде."
+
+msgid "There we go."
+msgstr "Ето ни и нас."
+
+msgid "Candles are already set here."
+msgstr "Свещите са вече сложени тук."
+
+msgid "It's not time for that yet."
+msgstr "Все още не е времето за това."
+
+msgid "The path is already drawn."
+msgstr "Пътят вече е начертан."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Още не. Първо би следвало да се убедя че умам всичко необходимо."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Още не. Искам първо да приключа подготовката на класните стаи."
+
+msgid "Some broken chalk."
+msgstr "Малко счупен тебешир."
+
+msgid "Take it?"
+msgstr "Вземи го?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "По-добре да не се забърквам в повече проблеми отколкото съм."
+
+msgid "This should do the trick."
+msgstr "Това ще свърши работа."
+
+msgid "Perfect!"
+msgstr "Перфектно!"
+
+msgid "Totally. Nobody will even notice."
+msgstr "Напълно. Никой няма да забележи."
+
+msgid "Let's do this."
+msgstr "Хайде да го направим."
+
+msgid "Not yet."
+msgstr "Още не."
+
+msgid "The candles are already lit."
+msgstr "Свещите са вече запалени."
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "Изгарянето на училището не е част от ритуала."
+
+msgid "It's already done."
+msgstr "Вече е свършено."
+
+msgid "This isn't the time for that."
+msgstr "Сега не е времето за това."
+
+msgid "A geography textbook."
+msgstr "Географски бележник."
+
+msgid "Some textbooks you don't care about."
+msgstr "Някои бележници от които нямам нужда."
+
+msgid "A clean chalkboard."
+msgstr "Чиста тебеширена дъска."
+
+msgid "A wooden desk."
+msgstr "дървен чин."
+
+msgid "The candle burns warmly."
+msgstr "Свеща гори топло."
+
+msgid "The candle is unlit."
+msgstr "Свеща не е запалена."
+
+msgid "A model of Earth. It's fun to spin it."
+msgstr "модел на Земята. Забавно е да го завъртиш."
+
+msgid "A paper slip with a list of regulations."
+msgstr "хартиен фиш с лист от регулации."
+
+msgid "No one reads these, why do they bother?"
+msgstr "Никой не ги чете, защо въобще си правят труда?"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Някои присъствени листове и графици."
+
+msgid "A happy green plant."
+msgstr "Щастливо зелено растение."
+
+msgid "The plant is no longer happy."
+msgstr "Растението вече не е щастливо."
+
+msgid "The teacher's podium."
+msgstr "Учителския подиум."
+
+msgid "There's a useless history book as well."
+msgstr "Има също и безполезна книга по история."
+
+msgid "Some boring textbooks."
+msgstr "Някакви скучни бележници."
+
+msgid "Some very thick, school-related books."
+msgstr "Някакви много тънки, книги на ученическа тематика."
+
+msgid "Some books and... chalk."
+msgstr "Някакви книги и... тебешир."
+
+msgid "There's nothing else of use."
+msgstr "Няма нищо друго, което да е от полза."
+
+msgid "A trash can. You feel uninclined to dig through it."
+msgstr "кошче за боклук. Чувствате се несклонни да ровите в него."
+
+msgid "The curtains should stay closed."
+msgstr "Завесите трябва да останат спуснати."
+
+msgid "Uh-oh. The curtains here are missing."
+msgstr "Ъ-ъ-ъ. Пердетата трябва да останат затворени."
+
+msgid "According to the ritual instructions, I need to black out all the rooms..."
+msgstr "Според ритуалните инструкции, трябва да затъмня всички стаи..."
+
+msgid "But where will I find new curtains...?"
+msgstr "Но къде ще открия нови завеси...?"
+
+msgid "Maybe the theater club has some curtains I can borrow?"
+msgstr "Може би мога да взема на заем от театралния клуб?"
+
+msgid "Yeah, it does."
+msgstr "Да, така е."
+
+msgid "I hope these curtains will work."
+msgstr "Надявам се че тези завеси ще проработат."
+
+msgid "I replaced the missing curtains. No need to mess with it anymore."
+msgstr "Замених неработещите завеси. Няма нужда да се занимавам повече."
+
+msgid "I need to block the light from this window."
+msgstr "Трябва да блокирам светлината идваща от този прозорец."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Да сортирам ли бюрата на класната стая сега?"
+
+msgid "Not yet"
+msgstr "Още не"
+
+msgid "Let's get started."
+msgstr "Хайде да започваме."

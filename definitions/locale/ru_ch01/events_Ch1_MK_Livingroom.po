@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "Иллюзия ведь должна сейчас распасться, да?"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "Жаль, а мне тут только начало нравиться."
+
+msgctxt "events.Ch1_MK_Livingroom.event_ending_12.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "That's probably not good..."
+msgstr "Наверное, это нехороший знак..."
+
+msgid "Did you see that? The painting opened its eyes!"
+msgstr "Ты видела? Картины открыли глаза!"
+
+msgid "Um... did you burn the things in the right order?"
+msgstr "Слушай... ты же сжигала всё в нужном порядке?"
+
+msgid "I... think... so?"
+msgstr "Ну... это... вроде бы?.."
+
+msgid "Did I do something wrong...?"
+msgstr "Я где-то напортачила?.."
+
+msgid "Was the illusion supposed to LITERALLY break apart?"
+msgstr "Иллюзия что, должна прям ВОТ ТАК распадаться?"
+
+msgid "I don't know...!"
+msgstr "Я не знаю!.."
+
+msgid "Maybe we should leave..."
+msgstr "Может, нам уйти?.."
+
+msgid "Oh crap, the doors are gone!"
+msgstr "Вот блин, двери пропали!"
+
+msgid "What do I do...? I need to get out of here!"
+msgstr "Что же делать?.. Надо отсюда выбираться!"
+
+msgid "Hey, be careful."
+msgstr "Эй, осторожно там."
+
+msgid "....."
+msgstr "....."
+
+msgctxt "events.Ch1_MK_Livingroom.event_ending_12.dlg.lacie"
+msgid "(My foot... it hurts...!)"
+msgstr "(Нога... как болит!..)"
+
+msgid "(Where are we...?)"
+msgstr "(Где мы?..)"
+
+msgid "We need to find a way out..."
+msgstr "Нужно найти отсюда выход..."
+
+msgid "Yeahh.... WELL..."
+msgstr "Ну-у-у да...."
+
+msgid "About that..."
+msgstr "Об этом..."
+
+msgid "I..."
+msgstr "Я..."
+
+msgid "...might have landed on something hard."
+msgstr "...наверное, упал на что-то острое."
+
+msgid "Doesn't look great."
+msgstr "Дела обстоят не очень."
+
+msgid "...W-what do we do...?"
+msgstr "...Ч-что же нам делать?.."
+
+msgid "If you can still move, go on ahead."
+msgstr "Если можешь идти - иди."
+
+msgid "I need a moment."
+msgstr "Я сейчас."
+
+msgid "O-okay..."
+msgstr "Л-ладно..."
+
+msgid "Uh... hey..."
+msgstr "Э... слушай..."
+
+msgid "You'll uh.... You'll come back, right?"
+msgstr "Ты... ты же вернёшься?"
+
+msgid "Yes."
+msgstr "Да."
+
+msgid "Thanks."
+msgstr "Спасибо."
+
+msgid "(Where am I...?)"
+msgstr "(Нога... как болит!..)"
+
+msgid "I need to find a way out..."
+msgstr "(Где я?..)"
+
+msgid "This item is yet to be unsealed."
+msgstr "Нужно найти отсюда выход..."
+
+msgid "The fire needs to be lit first."
+msgstr "Сперва нужно зажечь огонь."
+
+msgid "Light the fireplace?"
+msgstr "Зажечь камин?"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.Light the fireplace?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.Light the fireplace?"
+msgid "No"
+msgstr "Нет"
+
+msgid "I don't have all 5 items ready to burn yet..."
+msgstr "У меня ещё нет пяти вещей для сожжения..."
+
+msgid "If I light this on, I'll just lure that lady here for no reason."
+msgstr "Если зажгу его сейчас, то просто так приманю сюда эту дамочку."
+
+msgid "(What should I burn first?)"
+msgstr "(Что стоит сжечь сначала?)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The knife"
+msgstr "Нож"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The foot"
+msgstr "Ногу"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The sketchbook"
+msgstr "Альбом"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The mirror"
+msgstr "Зеркальце"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The cold compress"
+msgstr "Тряпку"
+
+msgid "(What should I burn next?)"
+msgstr "(Что сжечь теперь?)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The knife"
+msgstr "Нож"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The foot"
+msgstr "Ногу"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The sketchbook"
+msgstr "Альбом"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The mirror"
+msgstr "Зеркальце"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The cold compress"
+msgstr "Тряпку"
+
+msgid "And finally... the knife."
+msgstr "И, наконец... нож."
+
+msgid "And finally... the foot."
+msgstr "И, наконец... ногу."
+
+msgid "And finally... the sketchbook."
+msgstr "И, наконец... альбом."
+
+msgid "And finally... the mirror."
+msgstr "И, наконец... зеркальце."
+
+msgid "And finally... the cold compress."
+msgstr "И, наконец... тряпку."
+
+msgid "Take ${item:ch1.lockpick}?"
+msgstr "Взять предмет: ${item:ch1.lockpick}?"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lockpick_get.choice.Take ${item:ch1.lockpick}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lockpick_get.choice.Take ${item:ch1.lockpick}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "You pour some liquid onto the rag..."
+msgstr "Вы вылили немного жидкости на тряпку..."
+
+msgid "It's already wet enough."
+msgstr "Она уже достаточно мокрая."
+
+msgid "\"Alcohol tastes just like water.\""
+msgstr "\"Алкоголь на вкус как вода.\""
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plant4.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Спасибо.\""
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plant4.dlg.narrator"
+msgid "(You watered the plant.)"
+msgstr "(Вы полили растение.)"
+
+msgid "(You pour water into the empty pot...)"
+msgstr "(Вы вылили воду в пустой горшок...)"
+
+msgid "(...but nothing happens.)"
+msgstr "(Но ничего не произошло.)"
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plants.dlg.narrator"
+msgid "(You watered the plant.)"
+msgstr "(Вы полили растение.)"
+
+msgid "Various useless trinkets are displayed on these shelves."
+msgstr "На этих полках выставлены всякие безделицы."
+
+msgid "A teapot, full of some liquid. Seems to be water."
+msgstr "Чайник с какой-то жидкостью. Похоже, с водой."
+
+msgid "I could use this..."
+msgstr "Я могу его использовать..."
+
+msgid "Bring water to the plant?"
+msgstr "Принести воду к растению?"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.choice.Bring water to the plant?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.choice.Bring water to the plant?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Спасибо.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_fireplace.dlg.narrator"
+msgid "A fireplace."
+msgstr "Каменный камин."
+
+msgid "There's no fire, so it's just... a place."
+msgstr "Если каменный камин не горит, тогда это... камень."
+
+msgid "Haha, good one!"
+msgstr "Хаха, неплохо!"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_fireplace.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A place."
+msgstr "Камень."
+
+msgid "An old gramophone."
+msgstr "Старый граммофон."
+
+msgid "What to do?"
+msgstr "Что с ним сделать?"
+
+msgid "Play music"
+msgstr "Включить музыку"
+
+msgid "Stop the music"
+msgstr "Выключить музыку"
+
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+msgid "A floor lamp."
+msgstr "Напольная лампа."
+
+msgid "A rotary phone."
+msgstr "Стационарный телефон."
+
+msgid "It's old... but there's a certain charm to it."
+msgstr "Он старый... но не лишён шарма."
+
+msgid "There's no dial tone."
+msgstr "Он не издаёт гудки."
+
+msgid "A tall plant."
+msgstr "Высокое растение."
+
+msgid "A tall, pretty plant."
+msgstr "Высокое и красивое растение."
+
+msgid "An empty flower vase."
+msgstr "Пустая ваза."
+
+msgid "Purple flowers in a vase."
+msgstr "Пурпурные цветы в вазе."
+
+msgid "I could use these flowers..."
+msgstr "Я могу их использовать..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Принести цветы к растению?"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.choice.Bring the flowers to the plant?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.choice.Bring the flowers to the plant?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Спасибо.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "It's dead."
+msgstr "Оно умерло."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "К растению прикреплена бирка. На ней написано:"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Спасибо.\""
+
+msgid "\"It was good while it lasted.\""
+msgstr "\"Хорошо, что я услышал музыку.\""
+
+msgid "\"Requires medium light."
+msgstr "\"Требует среднего освещения."
+
+msgid "For enrichment, provide music.\""
+msgstr "Для удобрения нужно включить музыку.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "It's dead."
+msgstr "Оно умерло."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "К растению прикреплена бирка. На ней написано:"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Спасибо.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "\"Requires dim light."
+msgstr "\"Требует тусклого освещения."
+
+msgid "Feed it once a day to avoid irritability. Appropriate diet includes meat of various kinds.\""
+msgstr "Кормить раз в день во избежание раздражения. Правильная диета - любое мясо.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "It's dead."
+msgstr "Оно умерло."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "К растению прикреплена бирка. На ней написано:"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Спасибо.\""
+
+msgid "\"Requires medium light. Provide alcohol twice daily to keep its leaves moist."
+msgstr "\"Требует среднего освещения. Поливать алкоголем два раза в день, чтобы листья были влажными."
+
+msgid "Water is a valid substitute, as it can't tell the difference.\""
+msgstr "Также можно использовать воду, поскольку растение не поймёт разницу.\""
+
+msgid "The pot has been destroyed."
+msgstr "Горшок разрушен."
+
+msgid "An empty pot."
+msgstr "Пустой горшок."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "It's dead."
+msgstr "Оно умерло."
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "К растению прикреплена бирка. На ней написано:"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "\"Спасибо.\""
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "\"Requires dim light."
+msgstr "\"Требует тусклого освещения."
+
+msgid "For enrichment, give it a flower crown once a month.\""
+msgstr "Для удобрения нужно ежемесячно предоставлять цветочный венок..\""
+
+msgid "A warning sign."
+msgstr "Знак с предупреждением."
+
+msgid "It doesn't say what the warning is for."
+msgstr "Не указано, о чём именно предупреждают."

@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "Ключ підходить!"
+
+msgid "You don't know how to use it..."
+msgstr "Ви не вмієте цим користуватись..."
+
+msgid "A pile of books."
+msgstr "Купа книг."
+
+msgid "A pile of books, taller than you."
+msgstr "Купа книг, вища за вас."
+
+msgid "A massive pile of books. If they fell on you, it would hurt."
+msgstr "Величезна купа книг. Якщо впаде на вас, буде боляче."
+
+msgid "A pile of books, shorter than you."
+msgstr "Купа книг, нижча за вас."
+
+msgid "A bookshelf housing hundreds of books."
+msgstr "Книжкова шафа з сотнею книг."
+
+msgid "One of them stands out."
+msgstr "Одна з них виділяється."
+
+msgid "Read a passage?"
+msgstr "Прочитати абзац?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "I don't think you should be testing on her anymore."
+msgstr "Мені здається, тобі слід перестати ставити на ній досліди."
+
+msgid "Her powers hold potential, I wish to entertain this idea a little longer."
+msgstr "У її сили є потенціал, я б хотів ще трохи з цим побавитись."
+
+msgid "She's incapable of any sort of coherent thought."
+msgstr "Вона не здатна формулювати будь-які думки."
+
+msgid "We're just wasting souls on her."
+msgstr "Ми тільки витрачаємо на неї душі."
+
+msgid "..."
+msgstr "..."
+
+msgid "I don't know why I've decided to talk to you."
+msgstr "Не знаю, чому я вирішила з тобою поговорити."
+
+msgid "Maybe it's because you look really pitiful."
+msgstr "Може, тому, що ти виглядаєш жалюгідно."
+
+msgid "You're so worthless that no matter what tests they put you through, you fail them all."
+msgstr "Не має значення, які тести на тобі проводити, ти їх всі провалюєш."
+
+msgid "If I had just left you alone that day. You wouldn't be wasting all of our time."
+msgstr "Якби я тільки залишила тебе в той день. Ти б зараз не гаяла наш час."
+
+msgid "You wouldn't be wasting your own time here."
+msgstr "І свій час ти б теж не гаяла."
+
+msgid "Tomorrow, Glen will discontinue your tests."
+msgstr "Завтра Глен припинить твої тести."
+
+msgid "You better thank me. I'm the one who told him to."
+msgstr "Краще подякуй мені. Це я його попросила."
+
+msgid "I'm just sick of seeing you."
+msgstr "Мене вже просто від тебе нудить."
+
+msgid "The 36th experiment has failed as well."
+msgstr "Експеримент №36 теж закінчився провалом."
+
+msgid "I'm TELLING YOU, she's practically just a used tissue."
+msgstr "КАЖУ ТОБІ, вона вже схожа на м'яту хустинку."
+
+msgid "Useless, USELESS demon. WE'RE WASTING OUR TIME!"
+msgstr "Нікчемний, НІКЧЕМНИЙ демон. МИ ЛИШЕ МАРНУЄМО НА НЕЇ ЧАС!"
+
+msgid "Calm down. I can't work when you're so noisy."
+msgstr "Заспокойся. Мені важко працювати, коли ти так волаєш."
+
+msgid "Go play with your other dolls."
+msgstr "Йди пограй зі своїми ляльками."
+
+msgid "Maybe I WILL."
+msgstr "А от і ПІДУ."
+
+msgid "Are you upset?"
+msgstr "Ти засмучена?"
+
+msgid "No, of course not."
+msgstr "Звісно ж ні."
+
+msgid "You look like you're deep in thought."
+msgstr "А виглядаєш так, ніби глибоко роздумуєш."
+
+msgid "You are the one who did this to her, after all."
+msgstr "Урешті-решт, це ти з нею скоїла."
+
+msgid "Glen, back off."
+msgstr "Глен, відчепися."
+
+msgid "Heh."
+msgstr "Хе."
+
+msgid "If I'm correct, you're getting yourself into a messy situation."
+msgstr "Якщо не помиляюсь, ти втратила в халепу."
+
+msgid "I'll be fine."
+msgstr "Я впораюсь."
+
+msgid "A large couch."
+msgstr "Великий диван."
+
+msgid "Maybe we should take a rest."
+msgstr "Може, нам слід відпочити?"
+
+msgid "You just rested."
+msgstr "Ти тільки відпочив."
+
+msgid "In the cage."
+msgstr "У клітці."
+
+msgid "That wasn't rest, it was uncomfortable!"
+msgstr "Який же це відпочинок, якщо мені було незручно?!"
+
+msgid "There's something inside the lamp."
+msgstr "Усередині лампи щось є."
+
+msgid "Reach for it?"
+msgstr "Дотягнутися?"
+
+msgid "There's a eyeball inside the lamp, but you no longer need it."
+msgstr "Усередині лампи є око, проте воно вам не потрібно."
+
+msgid "A reading table."
+msgstr "Стіл для читання."

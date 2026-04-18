@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Explore your surroundings"
+msgstr "Dò la xung quanh"
+
+msgid "I woke up in a strange garden. Where am I?"
+msgstr "Mình thức giấc trong cái khu vườn kỳ lạ. Đây là đâu?"
+
+msgid "Check your notes to refresh your memory"
+msgstr "Xem ghi chú để nhớ lại cho rõ"
+
+msgid "I should go over my ritual notes to make sure I don't forget anything."
+msgstr "Mình nên đọc lướt qua ghi chú nghi thức cho chắc kẻo quên gì đó."
+
+msgid "Gather items for the ritual"
+msgstr "Thu thập đồ đạc cho nghi thức"
+
+msgid "I should gather everything I'll need for the ritual first."
+msgstr "Trước tiên cần thu thập hết đồ dùng cho nghi thức cái đã."
+
+msgid "Chalk"
+msgstr "Phấn viết"
+
+msgid "This is a school - surely I can find chalk here."
+msgstr "Đây là trường học, kiểu gì cũng kiếm được phấn."
+
+msgid "Candles"
+msgstr "Nến"
+
+msgid "I brought some from home."
+msgstr "Mình có đem mấy cái từ nhà lên."
+
+msgid "A tuft of hair"
+msgstr "Nhúm tóc"
+
+msgid "It has to be human hair."
+msgstr "Phải là tóc người thì mới được."
+
+msgid "A rune"
+msgstr "Rune"
+
+msgid "My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there."
+msgstr "Nghe đứa bạn bảo phòng câu lạc bộ huyền bí có cất vài cái rune. Mình cần một cái cho nghi thức nên phải tới tìm mới được."
+
+msgid "Find a way to open the box with the runes"
+msgstr "Tìm cách mở thùng chứa rune"
+
+msgid "I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick."
+msgstr "Mình tìm thấy thùng cất rune của câu lạc bộ huyền bí rồi, nhưng thùng bị dán băng dính. Kiếm đồ gì nhọn nhọn mở là ngon."
+
+msgid "Sort the desks in all three classrooms"
+msgstr "Sắp đặt lại bàn trong cả ba phòng học"
+
+msgid "According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms."
+msgstr "Theo quy trình nghi thức, mình cần chuyển mấy cái bàn dạt sang bên trong cả ba lớp học."
+
+msgid "Shut the curtains in all three classrooms"
+msgstr "Kéo rèm kín lại trong cả ba phòng học"
+
+msgid "According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut."
+msgstr "Theo quy trình nghi thức, cả ba lớp học cần phải để tối nhất có thể, nên phải kéo rèm lại."
+
+msgid "Find a curtain to replace the missing one in Classroom 3-B"
+msgstr "Tìm rèm thay cho cái bị thiếu trong Lớp 3-B"
+
+msgid "I can't shut all the curtains if one of them is missing. I need to find something to cover that window."
+msgstr "Thiếu mất một tấm rèm thì không kéo hết được. Cần phải kiếm cái gì che được cửa sổ đó."
+
+msgid "Find a way into the Theater Club room"
+msgstr "Tìm cách vào phòng câu lạc bộ kịch"
+
+msgid "I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in."
+msgstr "Mình đoán chắc có thể kiếm rèm trong phòng câu lạc bộ kịch, có điều phòng bị khóa rồi. Phải tìm cách vào thôi."
+
+msgid "Retrieve the girl's notebook"
+msgstr "Đi lấy vở của bạn nữ về"
+
+msgid "One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it."
+msgstr "Một đứa trong đám con gái để quên vở ở lớp 3-C. Nếu mình lấy về được thì có khi nó sẽ cho mình mượn chìa phòng câu lạc bộ kịch. Nó dặn đừng có lật ra xem."
+
+msgid "Finalize ritual preparations"
+msgstr "Hoàn tất chuẩn bị nghi thức"
+
+msgid "Finally, I need to set candles, and draw a path with chalk in all 3 classrooms."
+msgstr "Khâu cuối là phải đặt nến, rồi dùng phấn vẽ một con đường qua cả 3 lớp học."
+
+msgid "Draw a path with chalk in all 3 classrooms"
+msgstr "Vẽ một con đường bằng phấn xuyên qua cả ba lớp học"
+
+msgid "I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it."
+msgstr "Mình cần vẽ một con đường phấn lên sàn kết nối cả ba lớp học. Tham khảo bức vẽ của mình xem."
+
+msgid "Set and light candles in the middle room"
+msgstr "Đặt và thắp mớ nến trong căn phòng chính giữa"
+
+msgid "I need to set and light the candles on top of all the desks in classroom 3-B."
+msgstr "Mình cần đặt và thắp mấy cây nến lên bên trên mấy cái bàn trong phòng lớp 3-B."
+
+msgid "Burn the hair tuft on a candle"
+msgstr "Đốt nhúm tóc trên một ngọn nến"
+
+msgid "Preparations are complete. Let's burn the hair tuft on a candle to start the ritual."
+msgstr "Chuẩn bị xong rồi. Đốt nhúm tóc trên nến rồi bắt đầu nghi thức thôi."
+
+msgid "Explore the strange place"
+msgstr "Dò la cái nơi kỳ lạ này"
+
+msgid "I arrived at a mysterious location, let's take a look around!"
+msgstr "Mình đến được một nơi kỳ lạ rồi, đi dòm quanh coi!"
+
+msgid "Escape this cursed place"
+msgstr "Thoát khỏi cái nơi nguyền rủa này"
+
+msgid "This isn't fun anymore. I need to find a way back!"
+msgstr "Không có vui nữa đâu nha, kiếm đường đi về nhanh!"
+
+msgid "Go home"
+msgstr "Về nhà"
+
+msgid "I'm going home. Maybe I'll finish the ritual some other time."
+msgstr "Đi về nhà thôi. Nghi thức để khi khác làm cũng được."
+
+msgid "Test your theory"
+msgstr "Kiểm chứng giả thuyết"
+
+msgid "If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case... right?"
+msgstr "Nếu mình thực sự bị kẹt trong vòng lặp nào đó, vậy thì dấu X này vẫn sẽ ở đúng chỗ đây khi mình đi lên đi xuống. Nhưng mà chắc không phải là vậy... đâu nhỉ?"

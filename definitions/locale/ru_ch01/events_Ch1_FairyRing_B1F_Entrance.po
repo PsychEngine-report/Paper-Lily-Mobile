@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's probably no point, this one didn't even do anything."
+msgstr "Не стоит. Этот цветок даже ничего не сделал."
+
+msgid "Nothing good can come out of stabbing every single plant you see."
+msgstr "Если пытаться заколоть каждое встречное растение, ничего толкового не выйдет."
+
+msgid "(Is this plant eating something... or someone?)"
+msgstr "(Этот цветок ест что-то... или кого-то?)"
+
+msgid "(Should I really risk opening it?)"
+msgstr "(Рискнуть и раскрыть его?)"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "(Probably best not to...)"
+msgstr "(Лучше не стоит...)"
+
+msgid "(It's a person.)"
+msgstr "(Вижу кого-то.)"
+
+msgid "(Are they... alright? They seem asleep.)"
+msgstr "(Она в порядке? Какая-то она сонная.)"
+
+msgid "(Wait... that might be a demon. Maybe I'd better leave them alone.)"
+msgstr "(Стоп... а вдруг это демон? Лучше держаться подальше.)"
+
+msgid "(Well... I'll look around while they wake up.)"
+msgstr "(Ладно... пока она спит, я осмотрюсь.)"
+
+msgid "AH!"
+msgstr "А!"
+
+msgid "...!?"
+msgstr "?!.."
+
+msgid "Ahh... AHH!"
+msgstr "А-А... А-А-А-А-А!"
+
+msgid "Get it off get it off get it off!!!"
+msgstr "Уберите это от меня!!!"
+
+msgid "Oh god... oh god... gaaaah!"
+msgstr "Боже... о боже... А-а-а-а-а!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...!"
+msgstr "!.."
+
+msgid "Did you just save me?!?"
+msgstr "Ты что, меня спасла?!?"
+
+msgid "Everything was so dark and so gross, I thought I was gonna die for real this time!"
+msgstr "Там внутри было темно и мерзко, я уж подумала, что моя песенка спета!"
+
+msgid "That gooey stuff was eating away at my skin, it's so itchy, uuugh I still feel it!!!"
+msgstr "Та склизкая жижа разъедала мою кожу, она потом так чесалась, что у меня до сих пор зуд!!!"
+
+msgid "I don't want it to eat me!!!"
+msgstr "Я не хочу, чтобы меня съедали!!!"
+
+msgid "Oh god, I didn't plan to get digested today, this is NOT how I pictured my death!"
+msgstr "Господи, хоть бы меня сегодня не съели, я не так представляла свою смерть!"
+
+msgid "WHAT IS THIS PLACE?!?"
+msgstr "ЧТО ЭТО ЗА МЕСТО?!?"
+
+msgid "Oh."
+msgstr "Ой."
+
+msgid "Hahaha no..."
+msgstr "Ха-ха, только не это..."
+
+msgid "We're in the fairy ring aren't we?!"
+msgstr "Мы что, в кругу фей?!"
+
+msgid "Noooo! There's no way to get out of here!!"
+msgstr "Не-е-ет! Отсюда нет выхода!!"
+
+msgid "This is it. WE'RE DEAD!"
+msgstr "Вот и всё. НАМ КРАНТЫ!"
+
+msgid "I might as well go back in the plant, at least it will be faster."
+msgstr "Лучше уж закрыться в том цветке, так я хоть быстрее умру."
+
+msgid "Nooo I don't want it to end this way!!!"
+msgstr "Нет, я так не хочу!!!"
+
+msgid "Hey."
+msgstr "Эй."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.aoi"
+msgid "...?"
+msgstr "?.."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.item_scissors_on_plants_aoi.dlg.lacie"
+msgid "Cut it off."
+msgstr "Не режь уши."
+
+msgid "...W-what...?"
+msgstr "...Ч-что?.."
+
+msgid "I said: cut it off."
+msgstr "Говорю - не режь уши."
+
+msgid "Ah, s-sorry..."
+msgstr "А, п-прости..."
+
+msgid "(Is that supposed to be... a joke?)"
+msgstr "(Это типа шутка такая?)"
+
+msgid "You know, I'm actually okay with dying."
+msgstr "Знаешь, я, в общем-то, не прочь умереть."
+
+msgid "But I feel like being eaten alive isn't really the way to go, you know?"
+msgstr "Но гнить у кого-то в желудке как-то неправильно, согласна?"
+
+msgid "I see... I guess so."
+msgstr "Ну... да, есть немного."
+
+msgid "My name's Aoi."
+msgstr "Меня зовут Аой."
+
+msgid "...I see."
+msgstr "...Хорошо."
+
+msgid "Lacie."
+msgstr "Лэйси."
+
+msgid "Hehe... Were you trapped in one of those things too?"
+msgstr "Хе-хе, тебя тоже поймала эта штуковина?"
+
+msgid "Yeah."
+msgstr "Угу."
+
+msgid "How'd you get out?"
+msgstr "И как ты выбралась?"
+
+msgid "${item:ch1.scissors}."
+msgstr "Мне помогли ${item:ch1.scissors}."
+
+msgid "Whoa."
+msgstr "Ого."
+
+msgid "If I get out of here I'll always carry scissors on me!"
+msgstr "Если я выберусь, то буду всё время их с собой носить!"
+
+msgid "I promise you-"
+msgstr "Я обещаю-"
+
+msgid "No!"
+msgstr "Нет!"
+
+msgid "I SWEAR to you."
+msgstr "Я КЛЯНУСЬ."
+
+msgid "O-okay..."
+msgstr "Л-ладно..."
+
+msgid "(What am I supposed to say to that...?)"
+msgstr "(И что мне на это ответить?..)"
+
+msgid "So um..."
+msgstr "Итак, м-м..."
+
+msgid "H-how do we get out..."
+msgstr "К-как нам выбраться отсюда?.."
+
+msgid "I don't know."
+msgstr "Без понятия."
+
+msgid "WE'RE ABSOLUTELY NEVER GETTING OUT WHAT ARE WE GOING TO DO!?!"
+msgstr "ДА МЫ ТУТ КОНКРЕТНО ВСТРЯЛИ, ЧТО ТУТ СДЕЛАЕШЬ ВООБЩЕ?!"
+
+msgid "Should I go back and get eaten by that plant instead?"
+msgstr "Может, пусть меня лучше переварит тот цветочек?"
+
+msgid "That might actually be better than losing my mind as I walk endlessly through this hellish place..."
+msgstr "Всяко лучше, чем вечно бродить по этому пеклу и лишиться рассудка."
+
+msgid "Can you imagine it???"
+msgstr "Ты вообще осознаёшь, что происходит???"
+
+msgid "We would go insane!"
+msgstr "Мы можем сойти с ума!"
+
+msgid "I hear the fairy ring slowly digests you, even if you're not caught in a plant."
+msgstr "Я слышала, что круг фей тебя медленно переваривает, даже если ты не в растении."
+
+msgid "Eventually the skin on our feet will start chipping away from walking through this visceral floor."
+msgstr "Рано или поздно кожу на наших ногах разъест этот мерзкий пол."
+
+msgid "Then we'll start crawling, when our feet no longer work, hoping for the sweet release of death."
+msgstr "А потом мы без ног будем пытаться побыстрее приползти к объятьям смерти."
+
+msgid "We might even wind up eating each other..."
+msgstr "А ещё мы будем вынуждены друг друга съесть..."
+
+msgid "Aoi."
+msgstr "Аой."
+
+msgid "R-right..."
+msgstr "Х-хорошо..."
+
+msgid "Sorry."
+msgstr "Извини."
+
+msgid "I'll look around first."
+msgstr "Я сначала осмотрюсь."
+
+msgid "I want to take another look at the next room."
+msgstr "Хочу ещё раз глянуть, что в следующей комнате."
+
+msgid "I haven't even left this room yet."
+msgstr "Я ещё даже не выходила с этой комнаты."
+
+msgid "OKAY!"
+msgstr "ХОРОШО!"
+
+msgid "Can I follow you?"
+msgstr "А мне с тобой можно?"
+
+msgid "No thank you."
+msgstr "Нет, спасибо."
+
+msgid "Y-you'll leave me alone?!"
+msgstr "Т-ты оставишь меня одну?!"
+
+msgid "Please let me come with you, I promise I'll be useful!"
+msgstr "Пожалуйста, разреши пойти с тобой! Обещаю, я буду помогать!"
+
+msgid "...uh..."
+msgstr "...Э-э..."
+
+msgid "PLEASE!!!"
+msgstr "НУ ПОЖАЛУЙСТА!!!"
+
+msgid "Okay... okay."
+msgstr "Ладно... ладно."
+
+msgid "(It's probably a bad idea, but...)"
+msgstr "(Наверное, это плохая мысль, но...)"
+
+msgid "(This... boy... or girl? They don't seem dangerous.)"
+msgstr "(...она вроде не представляет угрозы.)"
+
+msgid "(Maybe it's best not to be alone in this place.)"
+msgstr "(И вряд ли ходить тут одной - это хорошая затея.)"
+
+msgid "...Yes, I don't see why not."
+msgstr "...Хорошо, почему нет."
+
+msgid "Yay!"
+msgstr "Ура!"
+
+msgid "I promise I'll be useful!"
+msgstr "Обещаю, я буду помогать!"
+
+msgid "Sure. Pleased to make your acquaintance."
+msgstr "Хорошо. Приятно познакомиться."
+
+msgid "(I wonder if this girl... or boy... can help me with my problem.)"
+msgstr "(Интересно, сможет ли она помочь мне решить мою проблему?)"
+
+msgid "(Were they... melting? They might be a spirit or something...)"
+msgstr "(Она что, плавилась? Наверное, это какой-то дух...)"
+
+msgid "(For now, let's focus on getting out of this place.)"
+msgstr "(Лучше пока что сосредоточиться на поиске выхода.)"
+
+msgid "There's no one else to rescue in there."
+msgstr "Здесь больше некого спасать."
+
+msgid "It probably learned its lesson, I think."
+msgstr "Мне кажется, оно усвоило урок."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plants.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "Разнообразные растения. Похожи на те, которые вас поймали."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_aoi.dlg.narrator"
+msgid "Various plants, similar to the one that caught you."
+msgstr "Разнообразные растения. Похожи на те, которые вас поймали."
+
+msgid "This one seems to be digesting something..."
+msgstr "А это что-то переваривает..."
+
+msgid "The thing that almost ate Aoi. It's wide open."
+msgstr "Штуковина, которая чуть не съела Аой. Она вскрыта."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "Растение, которое меня поймало."
+
+msgid "It's not nice in there."
+msgstr "Внутри него нехорошо."
+
+msgctxt "events.Ch1_FairyRing_B1F_Entrance.misc_plant_mine_aoi.dlg.narrator"
+msgid "The plant I was trapped in."
+msgstr "Растение, которое меня поймало."
+
+msgid "Does this even classify as a plant?"
+msgstr "Это вообще можно считать растением?"
+
+msgid "Not sure..."
+msgstr "Мне так не кажется..."
+
+msgid "It kinda looks like one."
+msgstr "Но оно выглядит как растение."

@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A creature with a huge mouth."
+msgstr "Uma criatura com uma boca enorme."
+
+msgid "hhhhaaaaaa....."
+msgstr "hhhhaaaaaa....."
+
+msgid "(It might be best to keep my distance...)"
+msgstr "(Talvez seja melhor manter distância...)"
+
+msgid "A scary-looking monster."
+msgstr "Um monstro de aparência assustadora."
+
+msgid "It's looking at me..."
+msgstr "Está olhando para mim..."
+
+msgid "A person holding what seems like a lamp with fish inside."
+msgstr "Uma pessoa segurando o que parece ser uma lâmpada com peixes dentro."
+
+msgid "A hooded young man is lying down here."
+msgstr "Um jovem encapuzado está deitado aqui."
+
+msgid "Pardon me..."
+msgstr "Perdoe-me..."
+
+msgid "..."
+msgstr "..."
+
+msgid "I need some help."
+msgstr "Eu preciso de ajuda."
+
+msgid "Yeah, I wouldn't talk to me either."
+msgstr "Sim, eu também não falaria comigo."
+
+msgid "Sigh..."
+msgstr "Suspirar..."
+
+msgid "An odd green man."
+msgstr "Um estranho homem verde."
+
+msgid "zzzzz"
+msgstr "zzzzz"
+
+msgid "Uh... excuse me?"
+msgstr "Uh... com licença?"
+
+msgid "zzzzzZZZZZ"
+msgstr "zzzzzZZZZZ"
+
+msgid "Looks like he's trying to sleep..."
+msgstr "Parece que ele está tentando dormir..."
+
+msgid "Some purple blobs with ...faces?"
+msgstr "Algumas manchas roxas com... rostos?"
+
+msgid "If I push them together, will they disappear?"
+msgstr "Se eu juntá-los, eles desaparecerão?"
+
+msgid "The bus driver must be behind these curtains."
+msgstr "O motorista do ônibus deve estar atrás dessas cortinas."
+
+msgid "Take a look behind the curtains?"
+msgstr "Dê uma olhada por trás das cortinas?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Some colorful goop is dripping from the ceiling."
+msgstr "Alguma gosma colorida está pingando do teto."
+
+msgid "An empty seat."
+msgstr "Um assento vazio."
+
+msgid "My seat. I didn't forget anything."
+msgstr "Meu assento. Eu não esqueci nada."
+
+msgid "Should I sit back down?"
+msgstr "Devo sentar novamente?"
+
+msgid "A list of rules for the bus."
+msgstr "Uma lista de regras para o ônibus."
+
+msgid "\"No eating on the bus.\""
+msgstr "\"Não é permitido comer no ônibus.\""
+
+msgid "Seems pretty reasonable."
+msgstr "Parece bastante razoável."
+
+msgid "The ticketing machine."
+msgstr "A máquina de bilhetes."
+
+msgid "You can see the bus stop and some trees out the window."
+msgstr "Você pode ver o ponto de ônibus e algumas árvores pela janela."
+
+msgid "...She actually got off?"
+msgstr "...Ela realmente escapou?"
+
+msgid "...Huh."
+msgstr "...Huh."

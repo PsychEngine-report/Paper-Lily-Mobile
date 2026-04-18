@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "White Flower"
+msgstr "Beyaz Çiçek"
+
+msgid "A white flower I found on the grass. It appears to be a lily... I think."
+msgstr "Vazoda bulduğum bir beyaz çiçek. Zambak gibi görünüyor... Sanırım."
+
+msgid "Wet White Flower"
+msgstr "Islak Beyaz Çiçek"
+
+msgid "A white flower I took from a vase. It's probably a Lily."
+msgstr "Vazodan bir beyaz çiçek aldım. Muhtemelen bir zambak."
+
+msgid "Ritual Notes"
+msgstr "Ritüel Notları"
+
+msgid "I put everything I need to remember here."
+msgstr "Hatırlamam gereken her şeyi buraya yazdım."
+
+msgid "Ritual Notes (Drawing)"
+msgstr "Ritüel Notları (Çiziyor)"
+
+msgid "This is how it looks in my head."
+msgstr "İşte kafamın içinde böyle canlanıyor."
+
+msgid "Candles"
+msgstr "Mumlar"
+
+msgid "A bunch of candles. I need these for the ritual."
+msgstr "Bir demet mum. Ritüel için bunlara ihtiyacım var."
+
+msgid "Chalk"
+msgstr "Tebeşir"
+
+msgid "A piece of chalk. I can draw various things with it."
+msgstr "Bir tebeşir parçası. Bununla bir sürü şey çizebilirim."
+
+msgid "Curtains"
+msgstr "Perdeler"
+
+msgid "Red blackout curtains used to block as much light as possible."
+msgstr "Kırmızı beyaz perdeler ışığı olabildiğince engellemk için kullanılırdı."
+
+msgid "Lighter"
+msgstr "Çakmak"
+
+msgid "My personal lighter. I don't smoke, but I enjoy watching things burn."
+msgstr "Kendi çakmağım. Sigara içmiyorum, fakat bir şeylerin yanmasını izlemeyi çok seviyorum."
+
+msgid "Old Lighter"
+msgstr "Eski Çakmak"
+
+msgid "An old lighter I had lost a long time ago. It doesn't seem to work anymore."
+msgstr "Uzun zaman önce kaybettiğim çakmak. Artık çalışıyormuş gibi görünmüyor."
+
+msgid "Scissors"
+msgstr "Makas"
+
+msgid "A regular pair of scissors. Not pointy enough to stab people with."
+msgstr "Sıradan bir çift makas. İnsanlara saplamak için yeterince sivri değil."
+
+msgctxt "items.name.prologue.tuft01"
+msgid "Girl's Hair"
+msgstr "Kızın Saçı"
+
+msgid "A tuft of hair I cut from the girl with brown hair."
+msgstr "Kahverengi saçlı kızdan kestiğim bir tutam saç."
+
+msgctxt "items.name.prologue.tuft02"
+msgid "Girl's Hair"
+msgstr "Kızın saçı"
+
+msgid "A tuft of hair I cut from the girl with black hair."
+msgstr "Siyah saçlı kızdan kestiğim bir tutam saç."
+
+msgctxt "items.name.prologue.tuft03"
+msgid "Girl's Hair"
+msgstr "Kızın Saçı"
+
+msgid "A tuft of hair I cut from the girl with dark brown hair."
+msgstr "Koyu kahverengi saçlı kızdan kestiğim bir tutam saç."
+
+msgid "My Hair"
+msgstr "Benim Saçım"
+
+msgid "A bit of hair I cut from myself. Looking at it makes me sad."
+msgstr "Kendimden kestiğim bir tutam saç. Buna bakmak beni üzüyor."
+
+msgctxt "items.name.prologue.rune_berkana"
+msgid "Protective Rune"
+msgstr "Korunmuş Runik Yazı"
+
+msgctxt "items.desc.prologue.rune_berkana"
+msgid "A rune with some ancient symbol engraved."
+msgstr "Bazı antik sembollerle işlenmiş bir runik yazı."
+
+msgctxt "items.name.prologue.rune_inguz"
+msgid "Protective Rune"
+msgstr "Korunmuş Runik Yazı"
+
+msgctxt "items.desc.prologue.rune_inguz"
+msgid "A rune with some ancient symbol engraved."
+msgstr "Bazı antik sembollerle işlenmiş bir runik yazı."
+
+msgctxt "items.name.prologue.rune_kaunaz"
+msgid "Protective Rune"
+msgstr "Korunmuş Runik yazı"
+
+msgctxt "items.desc.prologue.rune_kaunaz"
+msgid "A rune with some ancient symbol engraved."
+msgstr "Bazı antik sembollerle işlenmiş bir runik yazı."
+
+msgid "Student's Notebook"
+msgstr "Öğrenci Not Defteri"
+
+msgid "A red notebook, probably forgotten by a student. The color and design are not my style."
+msgstr "Kırmızı bir not defteri, muhtemelen bir öğrenci tarafından unutulmuş. Bu renk ve tasarım benim tarzım değil."
+
+msgid "Theater Club Key"
+msgstr "Tiyatro Kulübü Anahtarı"
+
+msgid "The key to open the theater club room."
+msgstr "Tiyatro Kulübü odasını açan anahtar."
+
+msgid "Dusty Hairpin"
+msgstr "Tozlu Tel Toka"
+
+msgid "My trusty hairpin! I have a feeling this could come in handy."
+msgstr "Benim ömürlük tel tokalarım! İçimde bunun faydalı olabileceğine dair bir his var."
+
+msgid "Fairly Normal-Looking Key"
+msgstr "Gayet Normal Görünen Anahtar"
+
+msgid "A key I found on a long hallway."
+msgstr "Uzun koridorda bulduğum bir anahtar."
+
+msgid "Lettuce"
+msgstr "Marul"
+
+msgid "You're not supposed to have this in your inventory."
+msgstr "Envanterinde bu olmamalı."
+
+msgid "Small Key"
+msgstr "Küçük Anahtar"
+
+msgid "A small key, probably for a locker."
+msgstr "Küçük bir anahtar, muhtemelen kilitlenen bir dolap için."
+
+msgid "Strange Blueprints"
+msgstr "Garip Teknik Çizimler"
+
+msgid "Blueprints for an unknown device. You can't make heads or tails out of it."
+msgstr "Bilinmeyen bir cihazdan teknik çizimler. Kafa veya kuyruk dışında bir şey yapamazsın."

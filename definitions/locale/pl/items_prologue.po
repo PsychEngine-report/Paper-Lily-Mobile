@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "White Flower"
+msgstr "Biały kwiat"
+
+msgid "A white flower I found on the grass. It appears to be a lily... I think."
+msgstr "Biały kwiatek, który znalazłam na trawie. Wygląda na lilię… Przynajmniej tak mi się wydaje."
+
+msgid "Wet White Flower"
+msgstr "Mokry biały kwiat"
+
+msgid "A white flower I took from a vase. It's probably a Lily."
+msgstr "Biały kwiatek, który wzięłam z wazonu. To prawdopodobnie lilia."
+
+msgid "Ritual Notes"
+msgstr "Notatki z rytuału"
+
+msgid "I put everything I need to remember here."
+msgstr "Umieszczam tu wszystko, o czym muszę pamiętać."
+
+msgid "Ritual Notes (Drawing)"
+msgstr "Notatki z rytuału (rysunek)"
+
+msgid "This is how it looks in my head."
+msgstr "Tak to wygląda w mojej głowie."
+
+msgid "Candles"
+msgstr "Świece"
+
+msgid "A bunch of candles. I need these for the ritual."
+msgstr "Kilka świec. Potrzebuję ich do rytuału."
+
+msgid "Chalk"
+msgstr "Kreda"
+
+msgid "A piece of chalk. I can draw various things with it."
+msgstr "Kawałek kredy. Mogę nią rysować różne rzeczy."
+
+msgid "Curtains"
+msgstr "Zasłony"
+
+msgid "Red blackout curtains used to block as much light as possible."
+msgstr "Czerwone zasłony zaciemniające służą do blokowania jak największej ilości światła."
+
+msgid "Lighter"
+msgstr "Zapalniczka"
+
+msgid "My personal lighter. I don't smoke, but I enjoy watching things burn."
+msgstr "Moja osobista zapalniczka. Nie palę, ale lubię patrzeć, jak coś się pali."
+
+msgid "Old Lighter"
+msgstr "Stara zapalniczka"
+
+msgid "An old lighter I had lost a long time ago. It doesn't seem to work anymore."
+msgstr "Stara zapalniczka, którą zgubiłam dawno temu. Wydaje się, że już nie działa."
+
+msgid "Scissors"
+msgstr "Nożyczki"
+
+msgid "A regular pair of scissors. Not pointy enough to stab people with."
+msgstr "Zwykłe nożyczki. Nie na tyle spiczaste, żeby dźgać nimi ludzi."
+
+msgid "Girl's Hair"
+msgstr "Włosy dziewczyny"
+
+msgid "A tuft of hair I cut from the girl with brown hair."
+msgstr "Kępkę włosów odcięłam dziewczynie o brązowych włosach."
+
+msgid "A tuft of hair I cut from the girl with black hair."
+msgstr "Kępkę włosów odcięłam dziewczynie o czarnych włosach."
+
+msgid "A tuft of hair I cut from the girl with dark brown hair."
+msgstr "Kępkę włosów odcięłam dziewczynie o ciemnobrązowych włosach."
+
+msgid "My Hair"
+msgstr "Moje Włosy"
+
+msgid "A bit of hair I cut from myself. Looking at it makes me sad."
+msgstr "Kawałek włosów, które sama sobie obcięłam. Patrząc na nie robi mi się smutno."
+
+msgid "Protective Rune"
+msgstr "Runa ochronna"
+
+msgid "A rune with some ancient symbol engraved."
+msgstr "Runa z jakimś wyrytym starożytnym symbolem."
+
+msgid "Student's Notebook"
+msgstr "Notatnik ucznia"
+
+msgid "A red notebook, probably forgotten by a student. The color and design are not my style."
+msgstr "Czerwony zeszyt, prawdopodobnie zapomniany przez jakiegoś ucznia. Kolor i wzornictwo nie w moim stylu."
+
+msgid "Theater Club Key"
+msgstr "Klucz do Klubu Teatralnego"
+
+msgid "The key to open the theater club room."
+msgstr "Klucz do otwarcia pomieszczenia klubu teatralnego."
+
+msgid "Dusty Hairpin"
+msgstr "Zakurzona spinka do włosów"
+
+msgid "My trusty hairpin! I have a feeling this could come in handy."
+msgstr "Moja niezawodna spinka do włosów! Mam przeczucie, że może się przydać."
+
+msgid "Fairly Normal-Looking Key"
+msgstr "W miarę normalny Klucz"
+
+msgid "A key I found on a long hallway."
+msgstr "Klucz, który znalazłam na długim korytarzu."
+
+msgid "Lettuce"
+msgstr "Sałata"
+
+msgid "You're not supposed to have this in your inventory."
+msgstr "Nie powinnam mieć tego w swoim ekwipunku."
+
+msgid "Small Key"
+msgstr "Mały klucz"
+
+msgid "A small key, probably for a locker."
+msgstr "Mały kluczyk, pewnie otwiera jakąś szafkę."
+
+msgid "Strange Blueprints"
+msgstr "Dziwne plany"
+
+msgid "Blueprints for an unknown device. You can't make heads or tails out of it."
+msgstr "Projekt nieznanego urządzenia. Nie da się tego rozgryźć."

@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "...This door doesn't seem to open."
+msgstr "...这扇门看起来打不开。"
+
+msgid "So I AM trapped here after all, just not in that tiny cell."
+msgstr "所以我还是被困在这里了，只是不在那个小牢房里罢了。"
+
+msgid "I suppose that's less bad..."
+msgstr "我想这还不算太坏吧..."
+
+msgid "Alright, vent it is."
+msgstr "好吧，去看看通风口吧。"
+
+msgid "Let's hope there's another way out."
+msgstr "希望这里还有其他出口吧。"
+
+msgid "The door won't open."
+msgstr "门打不开。"
+
+msgid "Looks like human bones."
+msgstr "看起来像是人类的骨头。"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_cell_1.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open. Something seems to be holding it from the other side."
+msgstr "打不开。似乎有什么东西从另一边顶住了。"
+
+msgid "\"Subject 66. Age: 38. Sex: Female. Status: Incapacitated. Extraction scheduled. Priority: Medium.\""
+msgstr "“实验体66号。年龄：38。性别：女性。状态：丧失行为能力。已提取计划。优先级：中等。”"
+
+msgid "That's not me. Someone else must've been kept in here."
+msgstr "这不是我吧。之前一定有人被关在这里。"
+
+msgid "It was just... open?"
+msgstr "这就...打开了？"
+
+msgid "\"Subject 41. Age: 53. Sex: Male. Status: Incapacitated. Extraction scheduled. Priority: Low.\""
+msgstr "“实验体41号。年龄：53。性别：男性。状态：丧失行为能力。已提取计划。优先级：低。”"
+
+msgid "\"Subject 37. Age: 13. Sex: Male. Status: Incapacitated. Extraction on hold. Awaiting further results. Follow-up tests scheduled. Priority: High.\""
+msgstr "“实验体37号。年龄：13。性别：男性。状态：丧失行为能力。正在提取。正在等待进一步结果。已安排后续测试。优先级：高。”"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_cell_5.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open anymore. Something seems to be holding it from the other side."
+msgstr "打不开了。似乎有什么东西从另一侧顶住了。"
+
+msgid "These are my things... most of it anyway."
+msgstr "这些是我的东西...总之大部分是。"
+
+msgid "I hadn't even noticed I had lost them."
+msgstr "我甚至都没注意到我把它们弄丢了。"
+
+msgid "Why are they here...?"
+msgstr "为什么它们会在这里呢...？"
+
+msgid "(You got your items back.)"
+msgstr "（你把你的物品拿了回来。）"
+
+msgid "There's nothing else on the desk."
+msgstr "桌子上没有其他东西了。"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_desk_left.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "抽屉是空的。"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_desk_right.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "抽屉是空的。"
+
+msgid "A huge hole."
+msgstr "一个大洞。"
+
+msgid "I hope the floor is stable..."
+msgstr "我希望地板还是稳定的..."
+
+msgid "This vent is suspicious."
+msgstr "这个通风口很可疑。"
+
+msgid "Maybe I could escape through here?"
+msgstr "也许我能从这里逃出去？"
+
+msgid "It's almost like it's inviting me in."
+msgstr "它看起来就像在欢迎我进去一样。"
+
+msgid "It's too high to reach."
+msgstr "太高了，够不到。"
+
+msgid "Wait, there's something on the desk."
+msgstr "等等，桌上有东西。"
+
+msgid "Climb the box and remove the vent cover?"
+msgstr "要爬上箱子，取下通风口盖吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Climb the box and remove the vent cover?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Climb the box and remove the vent cover?"
+msgid "No"
+msgstr "否"
+
+msgid "Crawl into the vents?"
+msgstr "要爬进通风口吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Crawl into the vents?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Crawl into the vents?"
+msgid "No"
+msgstr "否"
+
+msgid "No... at that point, it would just be silly."
+msgstr "不...已经到这种地步了，那样的话就太傻了。"
+
+msgid "That guy is waiting for me outside..."
+msgstr "那个家伙还在外面等着我..."
+
+msgid "If I go through here right now, it would take him a while to realize I left."
+msgstr "如果我现在过去，他要过一段时间才会意识到我离开了。"
+
+msgid "I could get rid of him that way, I think."
+msgstr "我想，这样我就能摆脱他了。"
+
+msgid "Go through the vent and leave Sai behind?"
+msgstr "要从通风口出去，丢下赛伊吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Go through the vent and leave Sai behind?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Go through the vent and leave Sai behind?"
+msgid "No"
+msgstr "否"
+
+msgid "No... that would probably be pretty rude."
+msgstr "不...这样也太不礼貌了。"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Having fun?"
+msgstr "好玩吗？"
+
+msgid "...Yep, plenty."
+msgstr "...对，蛮好玩的。"
+
+msgid "Let's go then?"
+msgstr "那我们走吧？"
+
+msgid "Safe!"
+msgstr "安全了！"
+
+msgid "(Sai joined your party.)"
+msgstr "（赛伊加入了你的队伍。）"

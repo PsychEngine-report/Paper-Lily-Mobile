@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I think I'll just do it later."
+msgstr "之後再做吧。"
+
+msgid "That was easy."
+msgstr "還真簡單。"
+
+msgid "This isn't the right classroom for that."
+msgstr "不是在這間教室。"
+
+msgid "The path is already drawn."
+msgstr "路徑已經畫好了。"
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "還沒。我要先確定我有所有必要的東西。"
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "還沒。我要先把教室準備好。"
+
+msgid "There's some chalk here."
+msgstr "這裡有一些粉筆。"
+
+msgid "Take it?"
+msgstr "拿走嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "我不想再惹上更多麻煩。"
+
+msgid "This is my desk. I keep all kinds of cool stuff here."
+msgstr "這是我的桌子。我把各種酷玩意兒放在這裡。"
+
+msgid "This might be useful."
+msgstr "這應該會有用處。"
+
+msgid "Take Dusty Hairpin?"
+msgstr "拿走髒兮兮的髮夾？"
+
+msgid "There's nothing else of use for today."
+msgstr "這裡已經沒有其他有用處的東西了。"
+
+msgid "My desk. I don't need anything from it right now."
+msgstr "我的桌子。我現在不需要從這裡拿東西了。"
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "把學校燒掉不是儀式的一部分。"
+
+msgid "There's a pair of scissors here."
+msgstr "這裡有一把剪刀。"
+
+msgid "Take Scissors?"
+msgstr "拿走剪刀？"
+
+msgid "It's already done."
+msgstr "已經完成了。"
+
+msgid "This isn't the time for that."
+msgstr "現在不是時候。"
+
+msgid "Return scissors?"
+msgstr "放回剪刀？"
+
+msgid "Some geometry books."
+msgstr "幾何學課本。"
+
+msgid "A clean chalkboard."
+msgstr "乾淨的黑板。"
+
+msgid "A wooden desk."
+msgstr "木桌。"
+
+msgid "A paper slip with rules for students."
+msgstr "印著校規的紙張。"
+
+msgid "There's no time for rules right now."
+msgstr "現在沒時間看校規。"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "出席表和課表。"
+
+msgid "A happy green plant."
+msgstr "快樂的綠色植物。"
+
+msgid "The plant is no longer happy."
+msgstr "植物不再快樂了。"
+
+msgid "The teacher's podium."
+msgstr "教師的講台。"
+
+msgid "Some boring textbooks."
+msgstr "無聊的課本。"
+
+msgid "Some very thick, school-related books."
+msgstr "非常厚重、跟學校有關的書本。"
+
+msgid "Some books and... chalk."
+msgstr "書本和...粉筆。"
+
+msgid "There's nothing else of use."
+msgstr "沒有什麼有用的東西了。"
+
+msgid "A simple trash can. Its contents look trashy."
+msgstr "垃圾桶。它的內容物很垃圾。"
+
+msgid "The curtains should stay closed."
+msgstr "窗簾應該關上。"
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "我應該現在把教室的桌子排好嗎？"
+
+msgid "Not yet"
+msgstr "再等等"
+
+msgid "This should be easy."
+msgstr "應該會很簡單。"

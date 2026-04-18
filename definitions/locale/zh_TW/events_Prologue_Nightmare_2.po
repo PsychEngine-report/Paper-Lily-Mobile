@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "...Damn it."
+msgstr "...可惡。"
+
+msgid "There's nothing there."
+msgstr "這裡沒有東西。"
+
+msgid "It's too dark to see anything on the other side."
+msgstr "暗到沒辦法看到另一側。"
+
+msgid "Do you even know where you are? You chose a one-way trip to hell, kid."
+msgstr "妳到底知不道妳在哪裡？妳選擇了通往地獄的單程票，小子。"
+
+msgid "Where are you...?"
+msgstr "你在哪裡...？"
+
+msgid "Well, If you're not gonna help, then be quiet."
+msgstr "如果你不打算幫忙，那就安靜。"
+
+msgid "I'll leave once I find what I came for."
+msgstr "我找到我要的東西就會離開。"
+
+msgid "The door is stuck. It won't open."
+msgstr "門被卡住了。沒辦法打開。"

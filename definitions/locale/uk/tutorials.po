@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Battle"
+msgstr "Битва"
+
+msgid "Move around to avoid the spikes!"
+msgstr "Рухайтесь, аби ухилитися від шипів!"
+
+msgid "Minigame: Box Puzzle"
+msgstr "Міні гра: Парти по рядах"
+
+msgid "Push the desks into the green zones to complete the puzzle"
+msgstr "Розставте парти у зелені зони для проходження міні гри"
+
+msgid "Documents"
+msgstr "Документи"
+
+msgid "Your papers and notes are stored in the notebook in your inventory."
+msgstr "Знайдені записки та документи зберігатимуться в блокноті, який можна знайти в інвентарі."
+
+msgid "Hiding"
+msgstr "Хованки"
+
+msgid "Hide in the bushes with {0} to avoid being caught."
+msgstr "Ховайтеся в кущах, натиснувши на {0} , щоб вас не піймали."
+
+msgid "Interacting"
+msgstr "Взаємодія"
+
+msgid "Press {0} to interact with the environment"
+msgstr "Натисніть {0} для взаємодії з об'єктами"
+
+msgid "Using Items"
+msgstr "Використання предметів"
+
+msgid "To use an item, stand close and select the item from the menu ({0})"
+msgstr "Щоб використати предмет, підійдіть упритул до об'єкта та виберіть предмет з меню ({0})"
+
+msgid "To use an item, stand close and select the item from the menu"
+msgstr "Щоб використати предмет, підійдіть упритул до об'єкта та виберіть предмет з меню"
+
+msgid "Opening the Menu"
+msgstr "Як відкрити меню"
+
+msgid "Press {0} to open the menu and see your items"
+msgstr "Натисніть {0} для того, щоб відкрити меню та побачити всі свої предмети"
+
+msgid "Moving"
+msgstr "Переміщення"
+
+msgid "Use {0}{1}{2}{3} to move"
+msgstr "Для переміщення використовуйте {0}{1}{2}{3}"
+
+msgid "Picking Up Items"
+msgstr "Підбирання предметів"
+
+msgid "Press {0} to pick up items"
+msgstr "Натисніть {0} для того, щоб підбирати предмети"
+
+msgid "Running"
+msgstr "Біг"
+
+msgid "While moving, hold {0} to run"
+msgstr "Затисніть {0} під час руху, щоб бігти"
+
+msgid "Saving the Game"
+msgstr "Збереження гри"
+
+msgid "Crows can save your game. Save often, since the future is uncertain"
+msgstr "Ґави зберігають вашу гру. Користуйтеся ними частіше, бо хто зна, що таїть майбутнє"
+
+msgid "Sneaking"
+msgstr "Прихованість"
+
+msgid "Running will make you easier to spot. Hold {0} to sneak past enemies"
+msgstr "Коли ви бігаєте, вас простіше помітити. Затисніть {0}, щоб крадькома пройти повз ворогів"
+
+msgid "Climbing Stairs"
+msgstr "Підняття по сходах"
+
+msgid "Hold {0} while moving to climb up the stairs"
+msgstr "Затисніть {0} під час руху, щоб піднятись по сходах"
+
+msgid "Timed Event"
+msgstr "Перевірка на швидкість"
+
+msgid "Get to the bus before the time runs out!"
+msgstr "Добіжіть до автобуса, пока не сплив час!"
+
+msgid "Minigame: Timing Bar"
+msgstr "Міні гра: Вчасний натиск"
+
+msgid "Press {0} when the indicator matches the green zone"
+msgstr "Коли риска зайде в зелену зону, натисніть {0}"

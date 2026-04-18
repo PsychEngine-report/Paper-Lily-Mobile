@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "Стаята на Хиро."
+
+msgid "..."
+msgstr "…"
+
+msgid "I'd rather not go in without permission..."
+msgstr "Предпочитам да не влизам без разрешение…"
+
+msgid "You shouldn't go in."
+msgstr "Не бива да влизате."
+
+msgid "You won't go in."
+msgstr "Няма да влезете."
+
+msgid "Some books and magazines."
+msgstr "Няколко книги и списания."
+
+msgid "No reading space would be complete without decorative books."
+msgstr "Няма място за четене, което да е цяло без декоративни книги."
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "Това е някакъв вид украса. Всъщност не знаеш."
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "Това е картина, сходна на онази долу."
+
+msgid "A painting."
+msgstr "Картина."
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "Това е картина, идентична на тази отляво."
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "Това е картина, идентична на тази отдясно."
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "Зимни ваканционни снимки. Не сте на никоя от тях."
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "Красиво растение. Пъпките не са годни за консумация."
+
+msgid "A plant."
+msgstr "Растение."
+
+msgid "Some old family pictures."
+msgstr "Няколко стари семейни снимки."
+
+msgid "The backyard can be seen from here."
+msgstr "Задният двор може да бъде видян оттук."
+
+msgid "Something is written on the door:"
+msgstr "На вратата е написано нещо:"
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "\"Каква е тази стая? Прекарваш много време в нея."
+
+msgid "Always finding new places to hide away from the world."
+msgstr "Винаги отварям нови места да се скрия от света."
+
+msgid "Did you ever stop hiding?\""
+msgstr "Спря ли някога да се криеш?\""

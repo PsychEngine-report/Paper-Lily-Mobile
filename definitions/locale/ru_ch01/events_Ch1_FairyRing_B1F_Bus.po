@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is so fun, I haven't waited for the bus in ages!"
+msgstr "Я уже сто лет не ждала автобус, это весело!"
+
+msgid "(There's nothing fun in waiting for the bus...)"
+msgstr "(Что же тут весёлого?)"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "Слушай, ты же знаешь, что круги фей постепенно расширяются и покрывают большую площадь?"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "Мне как-то рассказывали, что когда круг съедает достаточно пищи, он раскрывается и поглощает область, под которой расположен!"
+
+msgid "So when that happened, one of them swallowed the station and a whole bus."
+msgstr "И один из кругов, насытившись, поглотил целый автобус вместе с автостанцией."
+
+msgid "(Apparently Glen was really unhappy so they destroyed most of the fairy rings.)"
+msgstr "(По всей видимости, Глен это не оценил, и большинство кругов фей уничтожили.)"
+
+msgid "(Glen?)"
+msgstr "(Глен?)"
+
+msgid "Wait... why don't they just destroy all of them?"
+msgstr "Постой... а почему только большинство, а не все?"
+
+msgid "I dunno."
+msgstr "Без понятия."
+
+msgid "They usually remove some of them, every few years..."
+msgstr "Каждые несколько лет какую-то часть из них убирают..."
+
+msgid "...Now that you mention it, I'm not sure why they don't just remove them all."
+msgstr "...Но мне теперь самой непонятно, почему нельзя убрать сразу все."
+
+msgid "Maybe it's too much work to remove the fairy rings..?"
+msgstr "Может, убирать круги фей - слишком трудоёмкое занятие?.."
+
+msgid "Hmm... I wonder..."
+msgstr "Хм... интересно..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Oh I know!"
+msgstr "О, поняла!"
+
+msgid "Maybe there's something even more terrible underneath, so they're using the fairy rings to seal it away!"
+msgstr "Наверное, глубже скрывается что-то ещё более жуткое, а круги фей оставляют для безопасности!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "No, that can't be it."
+msgstr "Не, вряд ли."
+
+msgid "I'll keep thinking."
+msgstr "Я буду думать дальше."
+
+msgid "Aoi is thinking."
+msgstr "Аой думает."
+
+msgid "Hm?"
+msgstr "Хм?"
+
+msgid "Is that...the bus stop?"
+msgstr "Это что, автобусная остановка?"
+
+msgid "Not the current one."
+msgstr "Это не та, которую можно увидеть перед лесом."
+
+msgid "But we must be right under the current one."
+msgstr "Хотя мы сейчас должны быть прямо под ней."
+
+msgid "Wow, we sure walked a long way!"
+msgstr "Вау, да мы большое расстояние прошли!"
+
+msgid "(Did I walk all the way back to where I started...!?)"
+msgstr "(Неужели я вернулась туда, откуда начала?!)"
+
+msgid "So... what brings you here?"
+msgstr "Итак, что тебя сюда привело?"
+
+msgid "What brings me... down here?"
+msgstr "Именно сюда?"
+
+msgid "I stepped into the fairy ring."
+msgstr "Я зашла в круг фей."
+
+msgid "Ah. Right."
+msgstr "А. Ну да."
+
+msgid "Classic."
+msgstr "Классика."
+
+msgid "I also stepped into it."
+msgstr "Я тоже туда зашла."
+
+msgid "Yes, of course."
+msgstr "Ну конечно."
+
+msgid "So what brings you to these parts of the forest?"
+msgstr "А что привело тебя в эту часть леса?"
+
+msgid "Um..."
+msgstr "Эм..."
+
+msgid "(Actually, I wonder if they can they tell I'm human?)"
+msgstr "(Мне начинает казаться, что она не видит во мне человека...)"
+
+msgid "(It's best not to say anything about that...)"
+msgstr "(Лучше об этом пока помалкивать...)"
+
+msgid "I'm looking for a lighthouse."
+msgstr "Я ищу маяк."
+
+msgid "Ooh."
+msgstr "О-о."
+
+msgid "What for?"
+msgstr "А зачем?"
+
+msgid "Meeting... someone..?"
+msgstr "Надо... с кое-кем встретиться?.."
+
+msgid "(Aoi definitely can't help me with my problem... this is basically a child we're talking about.)"
+msgstr "(Аой мне точно не поможет с решением проблемы... она же просто ребёнок.)"
+
+msgid "(So there's no point in elaborating much, I think.)"
+msgstr "(Наверное, нет смысла говорить откровенно.)"
+
+msgid "I'm just looking for someone to help me with a problem."
+msgstr "Я просто ищу того, кто поможет мне решить одну проблему."
+
+msgid "Someone like a doctor? Or like an assassin?"
+msgstr "Мы говорим про доктора? Или про наёмного убийцу?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "....."
+msgstr "..."
+
+msgid "...Probably more like a doctor, I guess."
+msgstr "Скорее про доктора."
+
+msgid "Oh... are you sick, Lacie?"
+msgstr "Ой... Лэйси, ты заболела?"
+
+msgid "No, It's nothing serious, probably."
+msgstr "Нет, со мной ничего серьёзного. Наверное."
+
+msgid "I guess I'll be able to tell once I meet them."
+msgstr "После встречи с доктором я всё пойму."
+
+msgid "Ooh!"
+msgstr "О-о!"
+
+msgid "I had a friend I used to meet all the time!"
+msgstr "Был у меня один друг, с которым я раньше постоянно разговаривала!"
+
+msgid "But it wasn't at a lighthouse, it was..."
+msgstr "Но это было не на маяке, а..."
+
+msgid "But..."
+msgstr "Ну..."
+
+msgid "...It was in the supply closet..."
+msgstr "...в маленькой кладовке..."
+
+msgid "...in secret..."
+msgstr "...в тайне от всех..."
+
+msgid "???"
+msgstr "???"
+
+msgid "...But then they died."
+msgstr "...А потом друга не стало."
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "And now I'll die too....."
+msgstr "И я скоро тоже умру..."
+
+msgid "W-what brings YOU to the forest?"
+msgstr "А-а ТЫ что делаешь в лесу?"
+
+msgid "Oh, I'm on vacation!"
+msgstr "О, у меня отпуск!"
+
+msgid "Oh, that's nice."
+msgstr "О, это хорошо."
+
+msgid "(Phew...)"
+msgstr "(Фух...)"
+
+msgid "That looks heavy..."
+msgstr "Тяжёлая вещь..."
+
+msgid "You're prepared for anything, aren't you?"
+msgstr "Я так понимаю, ты ко всему готова?"
+
+msgid "I also like bug-catching!"
+msgstr "Я тоже люблю ловить жуков!"
+
+msgid "The small ones, at least..."
+msgstr "По крайней мере маленьких..."
+
+msgid "What's that?"
+msgstr "А что это?"
+
+msgid "Hmm... I'll show you someday."
+msgstr "Хм... когда-нибудь расскажу."
+
+msgid "Aww... alright."
+msgstr "У-у... ладно."
+
+msgid "You'll show Aoi someday. Maybe."
+msgstr "Когда-нибудь вы расскажете Аой, что это. Может быть."
+
+msgid "Are you tired?"
+msgstr "Ты устала?"
+
+msgid "There's a bench right there, I guess."
+msgstr "Вон там скамейка, если что."
+
+msgid "I give it at least 10 more years before it will be fully swallowed!"
+msgstr "Уверенно заявляю, что она тут ещё лет 10 продержится!"
+
+msgid "Oh, I also have one of those!"
+msgstr "О, у меня тоже такая есть!"
+
+msgid "I heard they taste great, but I'm afraid to try them since they're poisonous and all..."
+msgstr "Говорят, они очень вкусные, но я боюсь пробовать, потому что они ядовитые..."
+
+msgid "Or... are you suggesting something???"
+msgstr "Или... ты что-то замышляешь???"
+
+msgid "(Best not to spoil Aoi too much.)"
+msgstr "(Не стоит чересчур баловать Аой.)"
+
+msgid "Aww! Thanks!"
+msgstr "О! Спасибо!"
+
+msgid "It's good that you have a light, in case it gets dark in here."
+msgstr "Хорошо, что у тебя есть свет. Тут может стать темно."
+
+msgid "I really hope it doesn't..."
+msgstr "Надеюсь, не станет..."
+
+msgid "Ah... those rocks..."
+msgstr "А... эти камешки..."
+
+msgid "Sorry, I don't know what those do... You can keep it."
+msgstr "Извини, я не знаю, что они делают... Оставь их себе."
+
+msgid "Oh oh, are we cooking something?"
+msgstr "О, мы сейчас будем готовить?"
+
+msgid "No, this is for self-defense."
+msgstr "Нет, она для самообороны."
+
+msgid "?????"
+msgstr "??????"
+
+msgid "Y-yes... I'll cut it off..."
+msgstr "Л-ладно, не буду резать уши..."
+
+msgid "I'm sorry..."
+msgstr "Извини..."
+
+msgid "Let's not traumatize Aoi any further."
+msgstr "Лучше перестать травмировать Аой."
+
+msgid "A bus. It has seen better days."
+msgstr "Автобус. Он видал дни и получше."
+
+msgid "Isn't that cool?!"
+msgstr "Разве не круто?!"
+
+msgid "Do you think they ever got the passengers out?"
+msgstr "Как думаешь, а пассажиры успели выйти?"
+
+msgid "I can't see inside, so... I guess we'll never know."
+msgstr "Я не вижу, что там внутри, так что не узнаем."
+
+msgid "Maybe it's best that way."
+msgstr "Возможно, оно и к лучшему."
+
+msgid "I think it would ruin my day if we found corpses in there."
+msgstr "Мой день испортится, если я обнаружу там трупы."
+
+msgid "(Is your day not already ruined by being trapped in this place?)"
+msgstr "(То есть, это место твой день не испортило?)"
+
+msgid "Looks like pieces of asphalt."
+msgstr "Похоже на куски асфальта."
+
+msgid "A signpost. It's bent."
+msgstr "Дорожный знак. Он погнут."
+
+msgid "(The schedule seems to show quite a few buses coming every day.)"
+msgstr "(Расписание на знаке показывает, что тут каждый день проезжает довольно много автобусов.)"
+
+msgid "Strange... the other schedule I saw was empty."
+msgstr "Странно... я видела другое расписание, оно было пустым."
+
+msgid "Oh! Back in the day, the bus used to come more often... this is probably an old schedule."
+msgstr "О! Раньше автобусы приезжали почаще... наверное, это старый график."
+
+msgid "The other schedule you saw must be the updated one."
+msgstr "А ты, видимо, видела обновлённый график."
+
+msgid "Nowadays it's very rare..."
+msgstr "Сейчас они очень редко проезжают..."
+
+msgid "So if you're lucky enough to see the bus, you should definitely ride it!"
+msgstr "Так что если повезёт наткнуться на автобус, обязательно садись в него!"
+
+msgid "That's what everyone does, at least. I never saw it myself..."
+msgstr "По крайней мере, так все делают. Я их сама не видела..."
+
+msgid "(It's just a bus, though...)"
+msgstr "(Но это ведь просто автобус...)"
+
+msgid "A bus stop."
+msgstr "Автобусная остановка."
+
+msgid "The poster here is too faded to read."
+msgstr "Плакат слишком сильно стёрся."
+
+msgid "It looks like a dead end."
+msgstr "Похоже на тупик."
+
+msgid "We just walked quite a bit to get here, let's at least look around."
+msgstr "Мы довольно долго шли сюда, давай хотя бы осмотримся."

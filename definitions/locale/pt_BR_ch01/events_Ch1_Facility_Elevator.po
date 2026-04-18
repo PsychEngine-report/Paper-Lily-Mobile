@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A floor indicator."
+msgstr "Um indicador de piso."
+
+msgid "The elevator has no power, so the indicator lights are off."
+msgstr "O elevador não tem energia, então as luzes indicadoras estão apagadas."
+
+msgid "Where to?"
+msgstr "Para onde?"
+
+msgid "B1F"
+msgstr "B1F"
+
+msgid "B2F"
+msgstr "B2F"
+
+msgid "B3F"
+msgstr "B3F"
+
+msgid "B4F"
+msgstr "B4F"
+
+msgid "Never mind"
+msgstr "Deixa para lá"
+
+msgid "Nothing happens."
+msgstr "Nada acontece."
+
+msgid "The button is not responding."
+msgstr "O botão não está respondendo."
+
+msgid "An emblem that looks like an eye of some sort."
+msgstr "Um emblema que parece algum tipo de olho."
+
+msgid "The doors are stuck..."
+msgstr "As portas estão emperradas..."

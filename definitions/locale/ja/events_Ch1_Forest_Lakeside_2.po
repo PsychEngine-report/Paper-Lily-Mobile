@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "${item:ch1.bucket_full} を空にする？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "Yes"
+msgstr "する"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "No"
+msgstr "しない"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "${item:ch1.bucket_full_holy} を空にする？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "Yes"
+msgstr "する"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "No"
+msgstr "しない"
+
+msgid "The faucet isn't working."
+msgstr "蛇口は機能していない。"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "${item:ch1.bucket} を満たす？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "満たす"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "No"
+msgstr "満たさない"
+
+msgid "There's a boat paddle here."
+msgstr "ボートのオールがある。"
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "${item:ch1.forest_paddles} を取る？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "I don't think this is where I'm supposed to put them..."
+msgstr "ここに入れるんじゃないと思う……"
+
+msgid "The note said something about a \"little keeper\"...?"
+msgstr "メモには「小さな番人」とか書いてあったような……？"
+
+msgid "There's a faucet coming out of the water."
+msgstr "水から蛇口が突き出している。"
+
+msgid "Turn it on?"
+msgstr "蛇口を開ける？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Turn it on?"
+msgid "Yes"
+msgstr "開ける"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Turn it on?"
+msgid "No"
+msgstr "開けない"
+
+msgid "Nothing is coming out of the faucet."
+msgstr "何も出てこない。"
+
+msgid "The water flows freely from the faucet."
+msgstr "蛇口から水が勢いよく流れ出ている。"
+
+msgid "Something's floating near the stream..."
+msgstr "流れのそばに何かが浮かんでいる……"
+
+msgid "Take ${item:ch1.doorknob_library_fragment}?"
+msgstr "${item:ch1.doorknob_library_fragment} を取る？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Take ${item:ch1.doorknob_library_fragment}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_faucet.choice.Take ${item:ch1.doorknob_library_fragment}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "Pink water lilies can be seen."
+msgstr "桃色の睡蓮が見える。"
+
+msgid "Take some ${item:ch1.lakeside_petals_pink}?"
+msgstr "${item:ch1.lakeside_petals_pink} を取る？"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_pink}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Lakeside_2.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_pink}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "A structure housing a lamp."
+msgstr "明かりの灯った構造物。"
+
+msgid "The water is calm."
+msgstr "水面は穏やかだ。"

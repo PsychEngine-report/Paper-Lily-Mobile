@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "\"Are you lost?\""
+msgstr "\"妳迷路了嗎？\""
+
+msgid "\"You should give up, you will never leave this place.\""
+msgstr "\"妳應該放棄了，妳是沒辦法離開這裡的。\""
+
+msgid "The figures stare at you from the other side of the windows."
+msgstr "身影從窗戶另一側凝視著妳。"
+
+msgid "Your mother will be devastated to learn that she's now completely alone."
+msgstr "妳的母親在知道自己即將孤身一人會崩潰的。"
+
+msgid "No husband, no daughter. Everybody left her. How pitiful."
+msgstr "沒了丈夫，沒了女兒。所有人都離開了她。真是可憐。"
+
+msgid "How dare you... say something like that..."
+msgstr "你怎麼可以...說這種話..."
+
+msgid "You know nothing about me."
+msgstr "你對我一無所知。"
+
+msgid "The door is stuck. It won't open."
+msgstr "門被卡住了。沒辦法打開。"

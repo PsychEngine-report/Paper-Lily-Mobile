@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That's strange."
+msgstr "Това е странно."
+
+msgid "Have I already passed through here?"
+msgstr "Не минах ли вече от тук?"
+
+msgid "..."
+msgstr "..."
+
+msgid "I have."
+msgstr "Имам."
+
+msgid "Hmm..."
+msgstr "Хмм..."
+
+msgid "There must be something I missed."
+msgstr "Трябва да има нещо което пропускам."
+
+msgid "Um... am I lost? I don't remember this hallway being so long before."
+msgstr "Ъм… изгубих ли се? Не помня този коридор да е толкова дълъг."
+
+msgid "Uh-oh... The hairpin is bent badly."
+msgstr "Ами-ох… Фибата е огъната зле."
+
+msgid "I don't think it can take much more of this."
+msgstr "Не мисля че мога да поема повече от това."
+
+msgid "The hairpin broke."
+msgstr "Фибата се счупи."
+
+msgid "The door unlocked!"
+msgstr "Вратата се отключи!"
+
+msgid "Before proceeding through the door, do you wish to save your progress?"
+msgstr "Преди да преминете през вратата, искате ли да запазите напредъка си?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "The lock looks really sturdy."
+msgstr "Ключалката изглежда наистина здрава."
+
+msgid "Should I try to pick it?"
+msgstr "Да пробвам ли да я отключа?"
+
+msgid "There's a key hanging from a hook."
+msgstr "Има ключ, висящ от кука."
+
+msgid "Take Key?"
+msgstr "Вземи Ключа?"
+
+msgid "There's nothing left."
+msgstr "Нищо не остана."
+
+msgid "The key fits!"
+msgstr "Ключа пасва!"
+
+msgid "I don't suppose I could burn these planks down...?"
+msgstr "Не мисля че мога да изгоря тези дъски…?"
+
+msgid "Ugh, it's no use. I'll run out of fuel before they even warm up."
+msgstr "Безполезно е. Ще ми свърши горивото още преди да са загрели."
+
+msgid "There's no point in that."
+msgstr "Няма никакъв смисъл в това."
+
+msgid "Hm... This is a closed space."
+msgstr "Хм… Това е затворено пространство."
+
+msgid "If this turns out to be flammable, it could get really dangerous."
+msgstr "Ако това се окаже запалимо, може да стане наистина опасно."
+
+msgid "I really shouldn't."
+msgstr "Наистина не бива."
+
+msgid "This door has no keyhole."
+msgstr "Тази врата няма дупка."
+
+msgid "This key doesn't fit here."
+msgstr "Ключа не пасва тук."
+
+msgid "A black substance drips down from here."
+msgstr "Черна субстанция капе от тук."
+
+msgid "Where is this stuff coming from?"
+msgstr "Откъде идва всичко това?"
+
+msgid "A black substance drips down from above."
+msgstr "Черна субстнация капе от горе."
+
+msgid "Whatever it is, it looks disgusting."
+msgstr "Каквото и да е, изглежда отвратително."
+
+msgid "A large amount of a black substance has accumulated under the stairs."
+msgstr "Огромно количество черна субстанция се е акумулирала под стълбите."
+
+msgid "This stuff makes me uneasy... What if it comes alive or something?"
+msgstr "Това нещо ме кара да се чувствам неловко... Ами ако оживее или нещо такова?"
+
+msgid "The way these mirrors are set on the walls is almost comforting."
+msgstr "Начинът, по който тези огледала са поставени по стените, е почти успокояващ."
+
+msgid "But staring into mirrors in a place like this..."
+msgstr "Но зяпайки ги на място като това..."
+
+msgid "It's almost like I'm asking to be jump-scared."
+msgstr "Е почти сигурна причина да бъда уплашена."
+
+msgid "Multiple reflections stare back at you."
+msgstr "Множество отражения ме гледат."
+
+msgid "Nonsensical pipes run all over the place."
+msgstr "Безсмислените тръби минават навсякъде."
+
+msgid "They are warm to the touch. Is this some sort of heating?"
+msgstr "Те са топли на пипане. Това да не би да е някакъв вид отопление?"
+
+msgid "A door with an odd pattern."
+msgstr "Врата със странна шарка."
+
+msgid "It's locked."
+msgstr "Заключена е."
+
+msgid "It's very locked."
+msgstr "Определено е заключена."
+
+msgid "This door is open..."
+msgstr "Тази врата е отворена..."
+
+msgid "Wasn't it boarded up...?"
+msgstr "Не беше ли залостена...?"
+
+msgid "Everything else is locked... I have no other choice but to go in..."
+msgstr "Всичко останало е заключено… Нямам друг избор освен да вляза вътре..."
+
+msgid "A fairly normal-looking door."
+msgstr "Прилично изглеждаща врата."
+
+msgid "There's nothing here."
+msgstr "Тук няма нищо."
+
+msgid "A small door with an odd pattern."
+msgstr "Малка врата със странна шарка."
+
+msgid "A door with a glossy finish."
+msgstr "Врата с гланцово покритие."
+
+msgid "You can see yourself in it."
+msgstr "Можеш да видиш себе си в него."

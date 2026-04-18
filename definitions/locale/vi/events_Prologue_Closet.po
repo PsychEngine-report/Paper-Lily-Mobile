@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Khóa đã mở rồi."
+
+msgid "The box contains various empty notebooks, textbooks and... chalk."
+msgstr "Trong thùng cất đủ thứ từ vở trắng với sách giáo khoa đến... phấn viết."
+
+msgid "Take chalk?"
+msgstr "Lấy phấn viết chứ?"
+
+msgctxt "events.Prologue_Closet.event_check_boxes2.choice.Take chalk?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Prologue_Closet.event_check_boxes2.choice.Take chalk?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Prologue_Closet.event_check_boxes2.dlg.narrator"
+msgid "There's nothing else of interest."
+msgstr "Chẳng có thứ gì khác đáng lưu tâm."
+
+msgid "There's some dusty documents that catch your eye."
+msgstr "Có mấy giấy tờ bụi bặm đập vào tầm mắt."
+
+msgid "Read them?"
+msgstr "Đọc chứ?"
+
+msgctxt "events.Prologue_Closet.event_read_letter.choice.Read them?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Prologue_Closet.event_read_letter.choice.Read them?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "..."
+msgstr "..."
+
+msgid "It's a... lawsuit?"
+msgstr "Cái này là... hồ sơ kiện tụng à?"
+
+msgid "What's that doing in a place like this?"
+msgstr "Sao ở đây lại có thứ thế này?"
+
+msgid "I heard about that from my dad."
+msgstr "Tao có nghe được vụ này từ ba tao là.."
+
+msgid "Supposedly someone sued the school because of their daughter's disappearance."
+msgstr "Hình như có đứa con gái bị mất tích thành ra gia đình nó kiện nhà trường."
+
+msgid "Oh, the 2nd year girl?"
+msgstr "À, đứa năm 2 đó hả?"
+
+msgid "I heard something happened, but I didn't know the school was involved."
+msgstr "Tao có nghe vụ đó, mà nhà trường có dính líu thì mới biết nha."
+
+msgid "I don't know either."
+msgstr "Tao cũng đâu có biết rõ đâu."
+
+msgid "But she was last seen at school, so her family was convinced that something happened here and it was covered up."
+msgstr "Mà có vẻ do nhìn thấy lần cuối tại trường nên người nhà cho rằng ở trường gặp chuyện xong rồi nhà trường ém đi."
+
+msgid "There's definitely an odd history of disappearances in this town."
+msgstr "Cái thị trấn này cứ liên tiếp có mất tích kỳ lạ chả sai vào đâu được."
+
+msgid "When I graduate, I'm out of here."
+msgstr "Tốt nghiệp xong tao biến khỏi đây luôn."
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Kẹp tóc không khít với khóa này."
+
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgid "The boxes are already open."
+msgstr "Đống thùng đã mở rồi."
+
+msgid "Boxes filled with rags and other cleaning supplies."
+msgstr "Đống thùng nhét đầy giẻ lau với dụng cụ lau dọn này nọ."
+
+msgid "A sealed box."
+msgstr "Thùng bị niêm phong."
+
+msgid "Some boxes filled with random objects."
+msgstr "Mớ thùng chất đầy mấy thứ linh tinh."
+
+msgid "This is the lost and found box!"
+msgstr "Thùng đồ mất này!"
+
+msgid "Really?"
+msgstr "Thật à?"
+
+msgid "Look, I found my old shoe."
+msgstr "Á, này là giày tao làm mất nè."
+
+msgid "A shoe...?"
+msgstr "Giày á...?"
+
+msgid "I lost it years ago."
+msgstr "Tao làm mất cả mấy năm trước rồi."
+
+msgid "How do you lose one shoe?"
+msgstr "Làm sao làm mất có một chiếc được vậy?"
+
+msgid "It just disappeared."
+msgstr "Một hôm tự nhiên nó biến mất à."
+
+msgid "Oh! My lighter!"
+msgstr "A! Bật lửa tao nè!"
+
+msgid "Don't you already have a lighter?"
+msgstr "Mày đang có bật lửa rồi mà?"
+
+msgid "This is my old one."
+msgstr "Cái này là cái cũ."
+
+msgid "You lost a lighter in the school?"
+msgstr "Ở trường làm mất bật lửa à?"
+
+msgid "No, they confiscated it."
+msgstr "Không phải, cái này là bị tịch thu."
+
+msgid "Figures. Lighters can be dangerous."
+msgstr "Hóa ra là thế. Bật lửa đồ nguy hiểm mà."
+
+msgid "Only in the wrong hands."
+msgstr "Vào tay người xấu mới nguy hiểm."
+
+msgid "And yours aren't?"
+msgstr "Thế mày thì không á?"
+
+msgid "You shouldn't bring lighters to school..."
+msgstr "Không nên đem bật lửa đến trường nha..."
+
+msgctxt "events.Prologue_Closet.misc_boxes3.dlg.narrator"
+msgid "There's nothing else of interest."
+msgstr "Chẳng có thứ gì khác đáng lưu tâm."
+
+msgid "Some used brooms."
+msgstr "Vài cây chổi bị xài đến bục rồi."
+
+msgid "A calendar and information sheet for the cleaning staff."
+msgstr "Lịch và yết thị dành cho nhân viên quét dọn."
+
+msgid "A cleaning cart."
+msgstr "Xe quét dọn."
+
+msgid "It could use some cleaning."
+msgstr "Bản thân cái xe có lẽ cần được lau dọn luôn."
+
+msgid "A dusty lamp. The light bulb is missing."
+msgstr "Đèn dính bụi. Thiếu mất bóng đèn."
+
+msgid "Well that's ominous."
+msgstr "Xui thế."
+
+msgid "A little darkness won't hurt anybody."
+msgstr "Tối tăm tí hại gì ai đâu."
+
+msgid "...Probably."
+msgstr "...Chắc là thế."
+
+msgid "It doesn't work."
+msgstr "Không bật được."
+
+msgid "A large locker that could probably fit a person."
+msgstr "Tủ đồ lớn đến nỗi chứa được một người luôn."
+
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgid "Lots of cleaning supplies. It smells weird."
+msgstr "Nhiều dụng cụ lau dọn. Có mùi kì cục."
+
+msgid "Lots of school supplies."
+msgstr "Nhiều vật dụng trường học."
+
+msgid "Books and paints line the shelves."
+msgstr "Trên kệ có xếp sách và sơn."
+
+msgid "There's a small key on one of the shelves."
+msgstr "Trên kệ có chiếc chìa nhỏ."
+
+msgid "Take it?"
+msgstr "Lấy chứ?"
+
+msgctxt "events.Prologue_Closet.misc_shelf3.choice.Take it?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Prologue_Closet.misc_shelf3.choice.Take it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A trash can, even in a place like this."
+msgstr "Cả nơi thế này cũng có thùng rác à."
+
+msgid "Why would there be a trash can in a supply closet?"
+msgstr "Tại sao trong phòng kho lại có thùng rác được nhỉ?"
+
+msgid "Maybe it's a spare?"
+msgstr "Hay là dự trữ?"
+
+msgid "It's... so dark."
+msgstr "Tối... tối quá vậy."
+
+msgid "Come on Ponytail, don't chicken out on me now."
+msgstr "Ơ kìa tóc đuôi ngựa, giờ này rồi đừng có mà hèn nhát với tao."
+
+msgid "Don't call me that."
+msgstr "Đừng có gọi tao kiểu đó."
+
+msgid "You have a ponytail, don't you?"
+msgstr "Nhưng mà mày tóc đuôi ngựa gọi đúng còn gì?"
+
+msgid "I have a name too."
+msgstr "Tao cũng có tên đàng hoàng ơ kìa."

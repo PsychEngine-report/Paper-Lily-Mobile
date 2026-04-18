@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The little girl is swaying slowly."
+msgstr "小女孩慢慢地搖晃著。"
+
+msgid "Hello."
+msgstr "哈囉。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Um.... What do you do here?"
+msgstr "嗯...妳在這裡是做什麼的？"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "Is she... giving me something?"
+msgstr "她是...要給我東西嗎？"
+
+msgid "Oh... Thank you."
+msgstr "喔...謝謝妳。"
+
+msgid "I guess."
+msgstr "應該吧。"
+
+msgid "(The shadow girl happily takes the bunny off your hands.)"
+msgstr "(影子女孩高興地從你手中接過兔子。)"
+
+msgid "(The shadow girl lovingly takes the caterpillar from you.)"
+msgstr "(影子女孩深情地從你手中接過毛毛蟲。)"
+
+msgid "(The shadow girl happily accepts the fireflies.)"
+msgstr "(影子女孩高興地接受了螢火蟲。)"
+
+msgid "(The shadow girl takes the fragment and looks up at you.)"
+msgstr "(影子女孩接過碎片並抬頭看著你。)"
+
+msgid "...? ...?"
+msgstr "...？ ...？"
+
+msgid "Oh... I don't have any more pieces than that one..."
+msgstr "喔...除了那個以外我已經沒有更多東西了..."
+
+msgid "... ..."
+msgstr "... ..."
+
+msgid "(The shadow girl returns the fragment to you with a sad expression.)"
+msgstr "(影子女孩將碎片還給你，表情悲傷。)"
+
+msgid "(The shadow girl takes the fragments from you.)"
+msgstr "(影子女孩從你手中拿走了碎片。)"
+
+msgid "(After a few seconds, she returns them to you.)"
+msgstr "(幾秒鐘後，她把它還給了你。)"
+
+msgid "Oh... I'm still missing a piece, am I not...?"
+msgstr "喔...我還缺了一件，不是嗎..？"
+
+msgid "Sorry for bothering you."
+msgstr "抱歉打擾到妳。"
+
+msgid "(With some effort, she fits them together and returns them to you.)"
+msgstr "(經過一番努力，她將它們組裝在一起並歸還給你。)"
+
+msgid "Thank you, I appreciate it."
+msgstr "謝謝妳，我很感激。"
+
+msgid "Various colorful liquids and drinks are stored on the shelf."
+msgstr "架子上存放著各種色彩繽紛的液體和飲料。"
+
+msgid "Some papers with opening hours and upcoming shop discounts."
+msgstr "一些紙張上寫著營業時間和即將到來的商店折扣。"
+
+msgid "There's a... shadow of a girl sitting on the other side of the desk."
+msgstr "桌子的另一側坐著一個...女孩的影子。"
+
+msgid "She doesn't seem much for conversation."
+msgstr "她看起來不太愛說話。"
+
+msgid "\"CLOSED. DO NOT ENTER\" is marked on the sign."
+msgstr "標示上寫著\"已關閉。請勿進入\"。"
+
+msgid "The door is locked."
+msgstr "門被鎖住了。"

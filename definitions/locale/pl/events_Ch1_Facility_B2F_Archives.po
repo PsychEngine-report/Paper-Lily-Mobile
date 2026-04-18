@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait... you made me climb over all those boxes for nothing?"
+msgstr "Chwila... czyli kazałaś mi się gramolić po tych wszystkich skrzynkach po nic?"
+
+msgid "It wasn't for nothing. Exercise is good for you."
+msgstr "To nie było na nic. Trening jest dobry dla ciała."
+
+msgid "Huuuh?! I can't believe this..."
+msgstr "Cooooo?! Nie mogę w to uwierzyć..."
+
+msgid "Man... it's really stuffy in there. I don't wanna do that again."
+msgstr "Rany... strasznie tam duszno. Nie chcę tego powtarzać."
+
+msgid "It doesn't look like we can reach it to go back anyway."
+msgstr "Wygląda na to, że i tak się tam nie dostaniemy, by wrócić z powrotem."
+
+msgid "What?!"
+msgstr "Że co?!"
+
+msgid "We're stuck?!"
+msgstr "Utknęliśmy?!"
+
+msgid "There's a door right there."
+msgstr "Tam są drzwi."
+
+msgid "Sheesh... why are all the vents exits so high up..."
+msgstr "Boże… dlaczego wszystkie otwory wentylacyjne są tak wysoko..."
+
+msgid "If you're going to make them traversable, at least put them at a reasonable height."
+msgstr "Jak już dajecie taką wentylację, że da się przez nią przechodzić, to przynajmniej zamontujcie ją na normalnej wysokości."
+
+msgid "A bookshelf with very few remaining books."
+msgstr "Półka z bardzo małą ilością książek."
+
+msgid "Read a passage?"
+msgstr "Przeczytać fragment?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "All of the pages are blank."
+msgstr "Wszystkie strony są puste."
+
+msgid "A bookshelf with very few remaining books. All of their pages are blank."
+msgstr "Półka z nielicznymi książkami. Wszystkie strony są puste."
+
+msgid "An empty bookshelf."
+msgstr "Pusta półka na książki."
+
+msgid "...Actually, there's a key at the very back."
+msgstr "...Tak właściwie, głębiej na półce leży klucz."
+
+msgid "A purple book."
+msgstr "Fioletowa książka."
+
+msgid "All of its pages are blank, but you can see a faint outline of some letters."
+msgstr "Wszystkie strony są puste, ale niewyraźnie widać zarys niektórych liter."
+
+msgid "(Have all of these books been erased... somehow?)"
+msgstr "(Czy treść tych książek została w jakiś sposób… wymazana?)"
+
+msgid "Someone didn't want to leave any traces here."
+msgstr "Ktoś nie chciał pozostawić tu żadnych śladów."
+
+msgid "I agree."
+msgstr "Zgadzam się."
+
+msgid "There's a hole on the floor."
+msgstr "W podłodze jest dziura."
+
+msgid "Going down there is out of the question."
+msgstr "Zejście tam nie wchodzi w grę."
+
+msgid "Crawl inside?"
+msgstr "Wczołgać się do środka?"
+
+msgid "It's not a good idea to go in there without a way out."
+msgstr "Wchodzenie tam bez możliwości powrotu nie jest dobrym pomysłem."
+
+msgid "A ventilation shaft."
+msgstr "Szyb wentylacyjny."
+
+msgid "The cover is screwed in."
+msgstr "Pokrywa jest przykręcona."
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Ah. I spot a shiny over there."
+msgstr "Ach. Dostrzegam tam błyskotkę."
+
+msgid "A... \"shiny\"?"
+msgstr "\"Błyskotkę\"?"
+
+msgid "You know... a useful item."
+msgstr "No wiesz... przydatny przedmiot."
+
+msgid "How do you know it will be useful..."
+msgstr "Skąd wiesz, że to się przyda..."
+
+msgid "Might need to push some boxes around to get it though."
+msgstr "Ale prawdopodobnie trzeba będzie przepchnąć parę skrzyń, aby to zdobyć."
+
+msgid "Arrange the boxes?"
+msgstr "Poprzestawiać skrzynie?"

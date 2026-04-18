@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "White Flower"
+msgstr "Hoa Trắng"
+
+msgid "A white flower I found on the grass. It appears to be a lily... I think."
+msgstr "Bông hoa trắng mình thấy trên cỏ. Có vẻ là hoa bách hợp... nhỉ."
+
+msgid "Wet White Flower"
+msgstr "Hoa Trắng Ướt"
+
+msgid "A white flower I took from a vase. It's probably a Lily."
+msgstr "Bông hoa trắng mình lấy từ chiếc lọ hoa. Chắc hẳn là hoa bách hợp."
+
+msgid "Ritual Notes"
+msgstr "Ghi chú Nghi thức"
+
+msgid "I put everything I need to remember here."
+msgstr "Mình chép mọi thứ cần nhớ vào đây rồi."
+
+msgid "Ritual Notes (Drawing)"
+msgstr "Bức vẽ Nghi thức"
+
+msgid "This is how it looks in my head."
+msgstr "Trong đầu mình mường tượng nó như thế này."
+
+msgid "Candles"
+msgstr "Nến"
+
+msgid "A bunch of candles. I need these for the ritual."
+msgstr "Mớ nến. Mình cần để làm nghi thức."
+
+msgid "Chalk"
+msgstr "Phấn viết"
+
+msgid "A piece of chalk. I can draw various things with it."
+msgstr "Que phấn viết. Có thể dùng vẽ đủ thứ."
+
+msgid "Curtains"
+msgstr "Rèm"
+
+msgid "Red blackout curtains used to block as much light as possible."
+msgstr "Rèm che nắng màu đỏ dùng để che chắn ánh sáng hết mức có thể."
+
+msgid "Lighter"
+msgstr "Bật lửa"
+
+msgid "My personal lighter. I don't smoke, but I enjoy watching things burn."
+msgstr "Bật lửa cá nhân của mình. Không hút thuốc đâu cơ mà mình thích nhìn đồ vật bị cháy."
+
+msgid "Old Lighter"
+msgstr "Bật lửa Cũ"
+
+msgid "An old lighter I had lost a long time ago. It doesn't seem to work anymore."
+msgstr "Chiếc bật lửa cũ mà mình bị tịch thu từ lâu. Có vẻ không còn xài được nữa."
+
+msgid "Scissors"
+msgstr "Kéo"
+
+msgid "A regular pair of scissors. Not pointy enough to stab people with."
+msgstr "Chiếc kéo thông thường. Chẳng nhọn đến nỗi đâm người ta được đâu."
+
+msgctxt "items.name.prologue.tuft01"
+msgid "Girl's Hair"
+msgstr "Tóc của Bạn nữ"
+
+msgid "A tuft of hair I cut from the girl with brown hair."
+msgstr "Nhúm tóc mình cắt của bạn nữ có tóc màu nâu."
+
+msgctxt "items.name.prologue.tuft02"
+msgid "Girl's Hair"
+msgstr "Tóc của Bạn nữ"
+
+msgid "A tuft of hair I cut from the girl with black hair."
+msgstr "Nhúm tóc mình cắt của bạn nữ có tóc màu đen."
+
+msgctxt "items.name.prologue.tuft03"
+msgid "Girl's Hair"
+msgstr "Tóc của Bạn nữ"
+
+msgid "A tuft of hair I cut from the girl with dark brown hair."
+msgstr "Nhúm tóc mình cắt của bạn nữ có tóc màu nâu sẫm."
+
+msgid "My Hair"
+msgstr "Tóc của Mình"
+
+msgid "A bit of hair I cut from myself. Looking at it makes me sad."
+msgstr "Nhúm tóc mình cắt của mình. Thấy mà buồn quá."
+
+msgctxt "items.name.prologue.rune_berkana"
+msgid "Protective Rune"
+msgstr "Rune Thủ hộ"
+
+msgctxt "items.desc.prologue.rune_berkana"
+msgid "A rune with some ancient symbol engraved."
+msgstr "Miếng rune có khắc biểu tượng cổ đại gì đó."
+
+msgctxt "items.name.prologue.rune_inguz"
+msgid "Protective Rune"
+msgstr "Rune Thủ hộ"
+
+msgctxt "items.desc.prologue.rune_inguz"
+msgid "A rune with some ancient symbol engraved."
+msgstr "Miếng rune có khắc biểu tượng cổ đại gì đó."
+
+msgctxt "items.name.prologue.rune_kaunaz"
+msgid "Protective Rune"
+msgstr "Rune Thủ hộ"
+
+msgctxt "items.desc.prologue.rune_kaunaz"
+msgid "A rune with some ancient symbol engraved."
+msgstr "Miếng rune có khắc biểu tượng cổ đại gì đó."
+
+msgid "Student's Notebook"
+msgstr "Vở Học sinh"
+
+msgid "A red notebook, probably forgotten by a student. The color and design are not my style."
+msgstr "Quyển vở màu đỏ, chắc là học sinh nào đó bỏ quên. Cái màu và kiểu của nó không phải gu của mình."
+
+msgid "Theater Club Key"
+msgstr "Chìa Câu lạc bộ Kịch"
+
+msgid "The key to open the theater club room."
+msgstr "Chiếc chìa khóa để mở phòng câu lạc bộ kịch."
+
+msgid "Dusty Hairpin"
+msgstr "Kẹp tóc Xỉn màu"
+
+msgid "My trusty hairpin! I have a feeling this could come in handy."
+msgstr "Cái kẹp tóc xịn mầu của mình! Cảm thấy nó có thể được việc."
+
+msgid "Fairly Normal-Looking Key"
+msgstr "Chìa Trông Khá Thường"
+
+msgid "A key I found on a long hallway."
+msgstr "Chiếc chìa khóa mà mình thấy trên cái hành lang dài."
+
+msgid "Lettuce"
+msgstr "Rau diếp"
+
+msgid "You're not supposed to have this in your inventory."
+msgstr "Có món này trong kho đồ là không đúng rồi. (BUG)"
+
+msgid "Small Key"
+msgstr "Chìa Nhỏ"
+
+msgid "A small key, probably for a locker."
+msgstr "Chiếc chìa khóa nhỏ, chắc là để mở tủ đồ."
+
+msgid "Strange Blueprints"
+msgstr "Bản thiết kế Kỳ lạ"
+
+msgid "Blueprints for an unknown device. You can't make heads or tails out of it."
+msgstr "Bản thiết kế cho món thiết bị lạ lùng. Chả hiểu mô tê gì nó cả."

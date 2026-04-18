@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "鑰匙吻合！"
+
+msgid "You don't know how to use it..."
+msgstr "妳不知道怎麼使用它..."
+
+msgid "A pile of books."
+msgstr "一堆書。"
+
+msgid "A pile of books, taller than you."
+msgstr "一堆書，比你還高。"
+
+msgid "A massive pile of books. If they fell on you, it would hurt."
+msgstr "一大堆書。如果掉到妳身上會很痛。"
+
+msgid "A pile of books, shorter than you."
+msgstr "一堆書，比你還矮。"
+
+msgid "A bookshelf housing hundreds of books."
+msgstr "放著數百本書的書架。"
+
+msgid "One of them stands out."
+msgstr "其中一本脫穎而出。"
+
+msgid "Read a passage?"
+msgstr "閱讀其中一段嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "I don't think you should be testing on her anymore."
+msgstr "我覺得你不應該繼續對她進行測試。"
+
+msgid "Her powers hold potential, I wish to entertain this idea a little longer."
+msgstr "她的能力很有潛力，我希望能再研究這個想法久一點。"
+
+msgid "She's incapable of any sort of coherent thought."
+msgstr "她沒辦法正常思考。"
+
+msgid "We're just wasting souls on her."
+msgstr "我們只是在她身上浪費靈魂。"
+
+msgid "..."
+msgstr "..."
+
+msgid "I don't know why I've decided to talk to you."
+msgstr "我不知道為什麼決定跟你說話。"
+
+msgid "Maybe it's because you look really pitiful."
+msgstr "也許是因為你看起來很可憐。"
+
+msgid "You're so worthless that no matter what tests they put you through, you fail them all."
+msgstr "你沒用到他們不管讓你進行什麼測試，都會失敗。"
+
+msgid "If I had just left you alone that day. You wouldn't be wasting all of our time."
+msgstr "如果我當初沒有理會你。你就不會浪費我們大家的時間。"
+
+msgid "You wouldn't be wasting your own time here."
+msgstr "你不會在這裡浪費自己的時間。"
+
+msgid "Tomorrow, Glen will discontinue your tests."
+msgstr "明天，葛蘭會中止你的測試。"
+
+msgid "You better thank me. I'm the one who told him to."
+msgstr "你最好感謝我。是我要他這麼做的。"
+
+msgid "I'm just sick of seeing you."
+msgstr "我對你感到厭煩了。"
+
+msgid "The 36th experiment has failed as well."
+msgstr "第 36 次實驗也失敗了。"
+
+msgid "I'm TELLING YOU, she's practically just a used tissue."
+msgstr "*我跟你說過了*，她基本上只是一張用過的衛生紙。"
+
+msgid "Useless, USELESS demon. WE'RE WASTING OUR TIME!"
+msgstr "沒用，*沒用*的惡魔。我們在浪費時間！"
+
+msgid "Calm down. I can't work when you're so noisy."
+msgstr "冷靜點。你這麼吵我沒辦法做事。"
+
+msgid "Go play with your other dolls."
+msgstr "去跟你其他玩偶玩。"
+
+msgid "Maybe I WILL."
+msgstr "也許*我會*。"
+
+msgid "Are you upset?"
+msgstr "你在生氣嗎？"
+
+msgid "No, of course not."
+msgstr "不，當然沒有。"
+
+msgid "You look like you're deep in thought."
+msgstr "看來你正在沉思。"
+
+msgid "You are the one who did this to her, after all."
+msgstr "畢竟是你對她這麼做的。"
+
+msgid "Glen, back off."
+msgstr "葛蘭，滾開。"
+
+msgid "Heh."
+msgstr "呵。"
+
+msgid "If I'm correct, you're getting yourself into a messy situation."
+msgstr "如果我是正確的。你正讓自己陷入麻煩。"
+
+msgid "I'll be fine."
+msgstr "我會沒事的。"
+
+msgid "A large couch."
+msgstr "一張大沙發。"
+
+msgid "Maybe we should take a rest."
+msgstr "也許我們該休息一下。"
+
+msgid "You just rested."
+msgstr "你剛剛休息過了。"
+
+msgid "In the cage."
+msgstr "在籠子裡。"
+
+msgid "That wasn't rest, it was uncomfortable!"
+msgstr "那才不是休息，很不舒服！"
+
+msgid "There's something inside the lamp."
+msgstr "燈裡面有東西。"
+
+msgid "Reach for it?"
+msgstr "伸手去拿嗎？"
+
+msgid "There's a eyeball inside the lamp, but you no longer need it."
+msgstr "燈裡面有一顆眼珠，但是妳不再需要它了。"
+
+msgid "A reading table."
+msgstr "閱讀桌。"

@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "あれ……？　動かない……？"
+
+msgid "Those two thingies look burnt."
+msgstr "その2つ、焼き切れてるみたいだぜ。"
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "ああ、確かにヒューズが2つ飛んでる。動かないわけだ。"
+
+msgid "Let's throw this damaged fuse away."
+msgstr "切れたヒューズは捨てちゃおう。"
+
+msgid "Why? Just use it as a zero or something."
+msgstr "何でだ？　ゼロとかの代わりに使えばいいだろ。"
+
+msgid "No... that's really not how fuses work."
+msgstr "ううん……ヒューズってそういうものじゃないから。"
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "切れたヒューズじゃ、回路が完成しないでしょ。"
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "なるほどな……じゃあ、取ったらゼロになるのか？"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "いや……それじゃ……やっぱり回路が完成しない。ゼロは作れないの。"
+
+msgid "Just... leave this to me, okay?"
+msgstr "とにかく……私に任せて。いい？"
+
+msgid "Roger!"
+msgstr "了解！"
+
+msgid "You hear something unlocking in the distance."
+msgstr "遠くで何かが開く音がした。"
+
+msgid "What? I didn't hear anything."
+msgstr "はぁ？　俺には何も聞こえなかったぜ。"
+
+msgid "...You're breaking my immersion."
+msgstr "……集中が切れるからやめて。"
+
+msgid "What in the world was that?"
+msgstr "今のいったい何？"
+
+msgid "Can't say I didn't warn you."
+msgstr "警告しなかったとは言わせないぜ。"
+
+msgid "Wait."
+msgstr "ちょっと待った。"
+
+msgid "...?"
+msgstr "……？"
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "それを取るのはかなりマズいかもしれない。"
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "その絵に似た扉を前に見た。開けない方がいいと思うぜ。"
+
+msgid "I see..."
+msgstr "そう……"
+
+msgid "(Maybe there's a better way?)"
+msgstr "(もっといい方法があるのかな？)"
+
+msgid "Do you think the elevator works now?"
+msgstr "これでエレベーターが動いたと思う？"
+
+msgid "Ah, that's satisfying."
+msgstr "ああ、爽快。"
+
+msgid "Good job!"
+msgstr "お見事！"
+
+msgid "That sounded pretty big."
+msgstr "すげぇ音だったな。"
+
+msgid "Let's check the water level."
+msgstr "水位を見に行こう。"
+
+msgid "There's already a handle there."
+msgstr "もうハンドルはつけてある。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.event_handle_on_wrong_valve.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "ハンドルを穴にはめようと試みた……"
+
+msgid "But it doesn't fit."
+msgstr "が、合わなかった。"
+
+msgid "The lights... ah... not nice."
+msgstr "明かりが……その……よくないね。"
+
+msgid "Why doesn't this work?"
+msgstr "何でこれで動かないんだ？"
+
+msgid "We probably need to fill all four slots."
+msgstr "4つ全部を埋める必要があるのかも。"
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "そうじゃないと、中のものがちゃんと接触しないとか。"
+
+msgid "Right, contact."
+msgstr "なるほど、接触ね。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_1.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "ハンドルを穴にはめた。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "ハンドルを穴にはめようと試みた……"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "The handle fits!"
+msgstr "ハンドルがはまった！"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "そりゃそうだ、正方形を回せばダイヤだもんな。"
+
+msgid "Yep."
+msgstr "うん。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_2_on_valve_2.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "ハンドルを穴にはめた。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "ハンドルを穴にはめようと試みた……"
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "何してんだ？　形が合わないだろ。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "The handle fits!"
+msgstr "ハンドルがはまった！"
+
+msgid "...Huh."
+msgstr "……はん。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_3.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "ハンドルを穴にはめた。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "ハンドルを穴にはめようと試みた……"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "The handle fits!"
+msgstr "ハンドルがはまった！"
+
+msgid "Are you switching them around...?"
+msgstr "逆にしたのか……？"
+
+msgid "I'm just trying things."
+msgstr "いろいろ試してみてるだけ。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_4.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "ハンドルを穴にはめた。"
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "重いドラム缶。動かせない。"
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "ドラム缶の上にバルブのハンドルと鍵がある。"
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "${item:ch1.facility_handle_square} と${item:ch1.facility_key_archives} を取る？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "Some sort of machine."
+msgstr "何らかの機械。"
+
+msgid "It's whirring loudly."
+msgstr "うなるような轟音を立てている。"
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "大きなロッカー。自分がすっぽり入りそうだ。"
+
+msgid "There's something in here..."
+msgstr "中に何かある……"
+
+msgid "There's nothing else of use."
+msgstr "他に使えるものはない。"
+
+msgid "A large machine attached to some pipes."
+msgstr "パイプにつながれた大きな機械。"
+
+msgid "There's a note here:"
+msgstr "メモがある。"
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "「緊急時――排水・冠水システム"
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "排水システムを動作させるには、正しいヒューズを取り付けておく必要があります。"
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "バルブハンドルを4つすべて回すと、冠水が作動します。"
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "元には戻せないため、行う際は必ず――」"
+
+msgid "...The rest of the note is torn off."
+msgstr "……残りは破れている。"
+
+msgid "Looks like an electrical panel."
+msgstr "配電盤のようだ。"
+
+msgid "Take a closer look?"
+msgstr "詳しく見る？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "Yes"
+msgstr "見る"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "No"
+msgstr "見ない"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "ハンドルをはめる穴だ。正方形をしている。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice"
+msgid "Turn it?"
+msgstr "回す？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "ハンドルを回す"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "ハンドルを取る"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "ハンドルは回らない。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "これ以上回らない。"
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "ハンドルをはめる穴だ。五角形をしている。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice"
+msgid "Turn it?"
+msgstr "回す？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "ハンドルを回す"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "ハンドルを取る"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "ハンドルは回らない。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "これ以上回らない。"
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "ハンドルをはめる穴だ。星形をしている。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice"
+msgid "Turn it?"
+msgstr "回す？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "ハンドルを回す"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "ハンドルを取る"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "ハンドルは回らない。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "これ以上回らない。"
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "ハンドルをはめる穴だ。ダイヤ形をしている。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice"
+msgid "Turn it?"
+msgstr "回す？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "ハンドルを回す"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "ハンドルを取る"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "ハンドルは回らない。"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "これ以上回らない。"
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "前に見た大きなゲートのように見える……"
+
+msgid "Doors?"
+msgstr "ドア？"
+
+msgid "This is probably an elevator."
+msgstr "恐らくエレベーター。"
+
+msgid "Lights."
+msgstr "明かり。"
+
+msgid "Water?"
+msgstr "水？"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "ヒューズを取り付けられそうな空きスロット。"
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "(表示されてる数字に合うように、ヒューズを付け直さないといけないみたい。)"
+
+msgid "An empty fuse slot."
+msgstr "ヒューズの空きスロット。"
+
+msgid "Place a fuse?"
+msgstr "ヒューズを取り付ける？"
+
+msgid "Place fuse no.5"
+msgstr "5番のヒューズを取り付ける"
+
+msgid "Place fuse no.10"
+msgstr "10番のヒューズを取り付ける"
+
+msgid "Place fuse no.15"
+msgstr "15番のヒューズを取り付ける"
+
+msgid "Place fuse no.20"
+msgstr "20番のヒューズを取り付ける"
+
+msgid "Place fuse no.25"
+msgstr "25番のヒューズを取り付ける"
+
+msgid "Place fuse no.40"
+msgstr "40番のヒューズを取り付ける"
+
+msgid "Do not"
+msgstr "やめておく"
+
+msgid "It's a spider!"
+msgstr "クモだ！"
+
+msgid "I see that."
+msgstr "そうだね。"
+
+msgid "Are you scared of spiders?"
+msgstr "クモは怖いか？"
+
+msgid "Not really."
+msgstr "そんなに。"
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "はぁ？　じゃあ何だ、家にクモがいても放っとくのか!?"
+
+msgid "That's crazy."
+msgstr "どうかしてる。"
+
+msgid "What else should I be doing?"
+msgstr "他にどうしろって言うの？"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "さあな、ふつうは靴か何かで殺すんじゃないか。"
+
+msgid "Why?"
+msgstr "どうして？"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "わからんが、這い回るとか、色々あるだろ。気持ち悪いんだよ。"
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "クモの責任じゃないのに、どうしてそんなことで死なないといけないの？"
+
+msgid "..."
+msgstr "……"
+
+msgid "That's fair."
+msgstr "それはそうだな。"
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "言っとくが、俺はクモを殺さないぜ。"
+
+msgid "I see."
+msgstr "そう。"
+
+msgid "I used to, but now I just put them outside."
+msgstr "前は殺してたが、今は外に逃がすだけにしてる。"
+
+msgid "Great."
+msgstr "いいね。"
+
+msgid "A spider hangs from here."
+msgstr "クモがぶら下がっている。"
+
+msgid "A spider sits here."
+msgstr "クモがいる。"
+
+msgid "Take out the fuse?"
+msgstr "ヒューズを外す？"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "Yes"
+msgstr "外す"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "No"
+msgstr "外さない"

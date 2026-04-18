@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The room where you were locked in is directly under you."
+msgstr "A sala onde você estava trancado está diretamente abaixo de você."
+
+msgid "You can see Sai from here. He doesn't seem to be doing anything."
+msgstr "Você pode ver Sai daqui. Ele não parece estar fazendo nada."
+
+msgid "Empty bird cages."
+msgstr "Gaiolas vazias para pássaros."
+
+msgid "There seems to be something strange inside the cage."
+msgstr "Parece haver algo estranho dentro da jaula."
+
+msgid "Try to get ${item:ch1.mk_hand_mirror}?"
+msgstr "Tentar pegar o ${item:ch1.mk_hand_mirror}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "There's nothing else in there."
+msgstr "Não há mais nada lá."
+
+msgid "The painting lady is gone."
+msgstr "A senhora da pintura se foi."
+
+msgid "A painting of a lady."
+msgstr "Uma pintura de uma senhora."
+
+msgid "Her golden eye stands out..."
+msgstr "Seu olho dourado se destaca..."
+
+msgid "Pull it out?"
+msgstr "Puxá-lo para fora?"
+
+msgid "(You don't need an extra eye, so you discarded it.)"
+msgstr "(Você não precisa de um olho extra, então você o descartou.)"
+
+msgid "Some abstract paintings."
+msgstr "Algumas pinturas abstratas."

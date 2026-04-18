@@ -1,0 +1,1479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Welcome."
+msgstr "Здравствуй."
+
+msgid "5 coins each."
+msgstr "5 монет за штуку."
+
+msgid "Buy a fish?"
+msgstr "Купить рыбу?"
+
+msgid "Buy"
+msgstr "Купить"
+
+msgid "Buy all"
+msgstr "Купить всё"
+
+msgid "Talk"
+msgstr "Поговорить"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.choice.Buy a fish?"
+msgid "Never mind"
+msgstr "Уйти"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.dlg.narrator"
+msgid "You don't have enough coins."
+msgstr "У вас не хватает монет."
+
+msgid "(She looks intimidating...)"
+msgstr "(Она выглядит грозной...)"
+
+msgid "What're you staring at?"
+msgstr "На что уставилась?"
+
+msgid "You heard me. 5 coins each, no haggling."
+msgstr "Ты всё слышала. 5 монет за штуку, торгов не устраиваю."
+
+msgid "Or, you could buy all my fish for 10 coins. It's a pretty good deal and I get to take the rest of the day off."
+msgstr "Или можешь скупить всю мою рыбу за 10 монет. Отличное предложение, плюс я смогу на сегодня закончить."
+
+msgid "(What kind of deal is that...?)"
+msgstr "(Что это за предложение такое?..)"
+
+msgid "I'll take one."
+msgstr "Я возьму одну."
+
+msgid "I'll take all of them."
+msgstr "Я возьму все."
+
+msgid "I don't even have 5 coins."
+msgstr "У меня нет даже 5-ти монет."
+
+msgid "No thanks"
+msgstr "Нет, спасибо"
+
+msgid "Does that sound like my problem? 5 coins each, no exceptions."
+msgstr "И что, это я виновата? 5 монет за штуку, исключений не делаю."
+
+msgid "Ready to buy?"
+msgstr "Будешь покупать?"
+
+msgid "What will I use the fish for?"
+msgstr "А что я буду делать с этой рыбой?"
+
+msgid "What do I care?"
+msgstr "А мне какое дело?"
+
+msgid "Will you at least grill it?"
+msgstr "Может, вы её хотя бы поджарите?"
+
+msgid "Do I look like a buffet?! Scram."
+msgstr "Я тебе что, на буфетчицу похожа? Катись давай."
+
+msgid "Where can I find more coins?"
+msgstr "Где мне найти больше монет?"
+
+msgid "Sorry...! Please forget about it."
+msgstr "Простите!.. Пожалуйста, забудьте об этом."
+
+msgid "She doesn't seem like she wants to talk."
+msgstr "Не похоже, что она настроена на разговор с вами."
+
+msgid "Welcome~"
+msgstr "Добро пожаловать~"
+
+msgid "We're out of stock for today, so come back again soon."
+msgstr "На сегодня товар закончился, приходите в другой раз."
+
+msgid "Business is booming. Today was a good day."
+msgstr "Дела идут шикарно. Сегодня был отличный день."
+
+msgid "You should have rotted down there."
+msgstr "Лучше бы ты сгнила там внизу."
+
+msgid "Just like my fish."
+msgstr "Вместе с моей рыбой."
+
+msgid "Alba is counting the money she earned today."
+msgstr "Альба пересчитывает заработанные деньги."
+
+msgid "Aoi."
+msgstr "Аой."
+
+msgid "Lacie!! Thank you!"
+msgstr "Лэйси!! Спасибо тебе!"
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I was going to say that...)"
+msgstr "(Это я должна была благодарить...)"
+
+msgid "Thanks to your idea, we managed to get out!!"
+msgstr "Мы только благодаря твоей идее смогли выбраться!!"
+
+msgid "Ah, No... thank you."
+msgstr "Ой, да ладно тебе... спасибо."
+
+msgid "Um... also... with the fish lady..."
+msgstr "Ну... ещё... рыбная дамочка помогла..."
+
+msgid "I mean... um..."
+msgstr "Ну, то есть... эм..."
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "You're nice."
+msgstr "Ты молодец."
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "...!"
+msgstr "!.."
+
+msgid "Heheh I'm glad I met you Lacie!"
+msgstr "Хе-хе, я так рада, что встретила тебя, Лэйси!"
+
+msgid "And I'm glad you had those amazing scissors!"
+msgstr "А ещё рада, что у тебя были твои шикарные ножницы!"
+
+msgid "They really saved us both."
+msgstr "Они нам обеим жизни спасли."
+
+msgid "I hope I'll be able to have such cool scissors some day too!"
+msgstr "Я тоже хочу себе такие же классные ножницы!"
+
+msgid "Oh... yeah."
+msgstr "А... вот."
+
+msgid "You can keep them."
+msgstr "Можешь их забрать."
+
+msgid "WHAAAT?!"
+msgstr "ЧЕГООООО?!"
+
+msgid "But Lacie, what if you need them!"
+msgstr "Но Лэйси, а вдруг они тебе пригодятся?"
+
+msgid "I'll be fine."
+msgstr "Как-нибудь выкручусь."
+
+msgid "Wow!!"
+msgstr "Вау!!"
+
+msgid "Thank you so much!"
+msgstr "Большое спасибо!"
+
+msgid "This is the best gift anyone's ever given me!"
+msgstr "Это самый лучший подарок за всю мою жизнь!"
+
+msgid "What will you do now?"
+msgstr "Что теперь будешь делать?"
+
+msgid "Well... I'm... looking for something. Some answers, I guess."
+msgstr "Ну... я тут кое-что ищу. Ответы на некоторые вопросы."
+
+msgid "For now, I need to go through the locked site."
+msgstr "А пока мне надо пройти через закрытую зону."
+
+msgid "Ohh!"
+msgstr "О!"
+
+msgid "Be careful in there."
+msgstr "Ты там осторожно!"
+
+msgid "I have a tip! Always hide in the bushes!"
+msgstr "Дам совет: не забывай прятаться в кустах!"
+
+msgid "Thank you."
+msgstr "Спасибо."
+
+msgid "Are you leaving?"
+msgstr "А ты уходишь?"
+
+msgid "Oh, yeah, back to work for me heheh."
+msgstr "О, ну да, пора возвращаться к работе, хе-хе."
+
+msgid "I've had enough adventures..."
+msgstr "Приключений мне пока хватит..."
+
+msgid "Is that good?"
+msgstr "У тебя хорошая работа?"
+
+msgid "I'm not looking forward to it..."
+msgstr "Скажем так, я туда не рвусь..."
+
+msgid "But.. it's where I live, so..."
+msgstr "Но... я живу там же, где и работаю, так что..."
+
+msgid "Maybe we'll meet again?"
+msgstr "Может, мы ещё встретимся?"
+
+msgid "Yeah."
+msgstr "Ну да."
+
+msgid "(That would be nice.)"
+msgstr "(Было бы славно.)"
+
+msgid "This isn't goodbye, okay!?"
+msgstr "Тогда я не прощаюсь, поняла?!"
+
+msgid "Oh, okay."
+msgstr "А, ладно."
+
+msgid "Then..."
+msgstr "Тогда..."
+
+msgid "See you later!"
+msgstr "До скорого!"
+
+msgid "See you."
+msgstr "Давай."
+
+msgid "(I feel like I should have said more... Why am I so bad with words?)"
+msgstr "(Такое чувство, будто я должна была сказать больше... Почему я так бездарна в общении?)"
+
+msgid "(Sigh... I just have to make sure to say it next time we meet.)"
+msgstr "(*Вздох*... Тогда обязательно всё скажу при следующей встрече.)"
+
+msgid "Mee-mee-mee-"
+msgstr "В-в-вс-"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "...?"
+msgstr "?.."
+
+msgid "Mee-meet!"
+msgstr "В-в-стрече!"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Uh...N-N-Nice to... meet..."
+msgstr "Э... Р-Рад... в-встрече..."
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "..."
+msgstr "..."
+
+msgid "A-a-apologies. I-I-I'm not very good at speaking under pressure."
+msgstr "П-п-простите! Я п-п-плохо говорю под давлением."
+
+msgid "(He's worse than me...)"
+msgstr "(У него с этим даже хуже, чем у меня...)"
+
+msgid "Kozmo."
+msgstr "Козмо."
+
+msgid "...What?"
+msgstr "...Что?"
+
+msgid "Oh... Y-y-you didn't ask for my name."
+msgstr "Оу... В-в-вы же не спрашивали моего имени."
+
+msgid "Yeah... I didn't."
+msgstr "Действительно... не спрашивала."
+
+msgid "Th-This interaction is not enjoyable."
+msgstr "Эт-тот разговор неприятен."
+
+msgid "It's nice to meet you, Kozmo."
+msgstr "Рада встрече, Козмо."
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "!.."
+
+msgid "L-l-likewise, ...erm...?"
+msgstr "В-в-заимно, ...эм?.."
+
+msgid "Your-your..your-"
+msgstr "К-к-как.. вас-"
+
+msgid "Your name is...?"
+msgstr "Как вас зовут?.."
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "Oh."
+msgstr "А..."
+
+msgid "It's um... It's not important."
+msgstr "Это... неважно."
+
+msgid "O-oh... okay..."
+msgstr "О-ох... хорошо..."
+
+msgid "So..."
+msgstr "Итак..."
+
+msgid "Why are you so bad at speaking?"
+msgstr "Почему ты так плохо разговариваешь?"
+
+msgid "What are you doing here?"
+msgstr "Что ты здесь делаешь?"
+
+msgid "(Knock on his head)"
+msgstr "(Постучать ему по голове)"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.So..."
+msgid "Never mind"
+msgstr "Уйти"
+
+msgid "Y-y-y-you think I'm bad at speaking...?"
+msgstr "Д-д-д-думаешь, я плохо разговариваю?.."
+
+msgid "Well... you said it yourself, did you not?"
+msgstr "Ну... ты ведь сам так сказал, разве нет?"
+
+msgid "Oh... w-well..."
+msgstr "Ну... к-как бы сказать..."
+
+msgid "Th-Th-The truth is..."
+msgstr "П-п-правда в том, что..."
+
+msgid "I-I-I've been told I sometimes....."
+msgstr "М-м-мне говорят, что я порой..."
+
+msgid "S-s-stutter...!"
+msgstr "З-з-запинаюсь!.."
+
+msgid "Oh. I'm sorry to hear that."
+msgstr "Оу. Жаль это слышать."
+
+msgid "D-d-d-do you think I stutter?!?"
+msgstr "А т-т-тебе не кажется, что я запинаюсь?!?"
+
+msgid "(Do I think Kozmo stutters...?)"
+msgstr "(Кажется ли мне, что Козмо запинается?..)"
+
+msgid "It's not my place to say."
+msgstr "Не мне это судить."
+
+msgid "Yes, it's very obvious."
+msgstr "Да, это явно слышно."
+
+msgid "O-oh... That's okay."
+msgstr "О-оу... понятно."
+
+msgid "M-m-maybe I've improved, and it's not so noticeable!"
+msgstr "М-м-может, я стал лучше говорить, и теперь запинки не так заметны!"
+
+msgid "Maybe."
+msgstr "Может быть."
+
+msgid "O-oh dear......"
+msgstr "О б-божечки..."
+
+msgid "Do you live here?"
+msgstr "Ты здесь живёшь?"
+
+msgid "N-no.. Not many of us live in the forest."
+msgstr "Н-нет... Немногие живут в лесу."
+
+msgid "I-it's too distant, you see..."
+msgstr "Он п-просто слишком далеко, видишь ли..."
+
+msgid "Too distant to... what, exactly?"
+msgstr "Слишком далеко от чего?"
+
+msgid "T-t-the city, mainly."
+msgstr "П-по сути, от города."
+
+msgid "How do you get to the city from here?"
+msgstr "А как ты добрался сюда с города?"
+
+msgid "Is-is-is-is this a quiz?"
+msgstr "Это до-до-допрос?"
+
+msgid "No, I..."
+msgstr "Нет, я просто..."
+
+msgid "We-well... It's... um... y-y-you can... you can take the bus... o-o-or the train..."
+msgstr "Н-ну что же... ты... эм... м-м-можешь сесть на... автобус... ил-ли на поезд..."
+
+msgid "Don't you know this though?"
+msgstr "А ты что, этого не знала?"
+
+msgid "Come to think of it, where are you from?"
+msgstr "Кстати говоря, а ты откуда?"
+
+msgid "I should be going."
+msgstr "Мне пора бежать."
+
+msgid "A-a-a-a don't do that! It's fragile!"
+msgstr "А-а-а-а, прошу, не надо! Она хрупкая!"
+
+msgid "S-s-s-s-stop...!!"
+msgstr "Х-х-х-хватит!!.."
+
+msgid "Um... this isn't what I expected..."
+msgstr "Эм... я такого не ожидала..."
+
+msgid "Wh-wh-what have you done..!? Oh no, oh no, oh no."
+msgstr "Чт-то-то-то ты наделала?!.. О-нет-о-нет."
+
+msgid "Please help me!"
+msgstr "Прошу, спаси меня!"
+
+msgid "P-p-please find me a new head!"
+msgstr "П-п-прошу, найди мне другую голову!"
+
+msgid "A new head..?"
+msgstr "Другую голову?.."
+
+msgid "A-a-anything hollow can serve as one, please!"
+msgstr "Что у-г-годно, что сойдёт за голову, прошу!"
+
+msgid "H-h-h-hurry!"
+msgstr "П-п-поспеши!"
+
+msgid "If it all escapes I'll...I'll-"
+msgstr "Если всё выветрится, я... я-"
+
+msgid "Knock again?"
+msgstr "Постучать снова?"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A large amount of something leaks from Kozmo."
+msgstr "Из Козмо вылетают большие объёмы какого-то вещества."
+
+msgid "I should hurry."
+msgstr "Мне нужно поспешить."
+
+msgid "Kozmo sways left and right."
+msgstr "Козмо качается влево-вправо."
+
+msgid "Kozmo is sporting a new head."
+msgstr "Козмо кичится новой головой."
+
+msgid "P-p-p-p-p-please... give me a moment..."
+msgstr "П-п-п-прошу... дай минутку побыть одному..."
+
+msgid "Apologize?"
+msgstr "Извиниться?"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "No"
+msgstr "Нет"
+
+msgid "I'm sorry if I was rude."
+msgstr "Прости, что нагрубила."
+
+msgid "I'm not very good at... interacting with people either."
+msgstr "Я тоже не профи в общении с другими людьми."
+
+msgid "I don't get much practice."
+msgstr "Мне не достаёт практики."
+
+msgid "R-r-really?"
+msgstr "П-правда?"
+
+msgid "Mhm..."
+msgstr "Угу..."
+
+msgid "I think it's okay that you stutter."
+msgstr "Я думаю, что твои запинки тебя не портят."
+
+msgid "At least you're still able to convey your feelings."
+msgstr "Хотя бы ты можешь выражать свои чувства."
+
+msgid "Thank you for reassuring me!"
+msgstr "Спасибо за поддержку!"
+
+msgid "(Phew...)"
+msgstr "(Фух...)"
+
+msgid "Kozmo's clothes remain here."
+msgstr "Одежда Козмо осталась тут."
+
+msgid "Kozmo isn't here anymore."
+msgstr "Козмо тут нет."
+
+msgid "A pleasure."
+msgstr "Рад встрече."
+
+msgid "Huh?"
+msgstr "Хм?"
+
+msgid "You're not from around here."
+msgstr "Ты не здешняя."
+
+msgid "How do you know?"
+msgstr "Откуда ты знаешь?"
+
+msgid "You wander around anxiously."
+msgstr "Ты всё без цели ходишь и бродишь вокруг."
+
+msgid "Oh..."
+msgstr "Вот как..."
+
+msgid "Sit if you wish... The fire is captivating."
+msgstr "Сядь, если хочешь... У огня захватывающий вид."
+
+msgid "No... thank you."
+msgstr "Нет... спасибо."
+
+msgid "What should I say?"
+msgstr "Что мне сказать?"
+
+msgid "\"Are you a bug?\""
+msgstr "\"Ты жук?\""
+
+msgid "\"Can you help me?\""
+msgstr "\"Ты мне поможешь?\""
+
+msgid "About the reward"
+msgstr "Насчёт вознаграждения"
+
+msgid "You have wings."
+msgstr "У тебя есть крылья."
+
+msgid "What of it?"
+msgstr "И что с того?"
+
+msgid "Are you a butterfly?"
+msgstr "Ты бабочка?"
+
+msgid "...Disgusting."
+msgstr "...Мерзость."
+
+msgctxt "events.Ch1_Forest_Center.chr_milion.dlg.lacie"
+msgid "Oh."
+msgstr "А..."
+
+msgid "A-a-a moth is the correct term. It-it-it must be your first encounter with one."
+msgstr "П-п-правильнее будет сказать мотылёк! Н-н-наверное, ты раньше их не встречала."
+
+msgid "Th-Th-Th-They say if you meet all 9 moths you'll get a reward."
+msgstr "Го-го-говорят, что если встретить всех мотыльков, коих девять, то тебя вознаградят."
+
+msgid "Folklore is all it is. Why would anyone give you a reward?"
+msgstr "Это всё сказки. Кто и зачем будет давать тебе награду?"
+
+msgid "So-so-sometimes, you get rewarded for hard work. I-I-I've already met f-f-four."
+msgstr "По-по-рой за тяжкий труд вознаграждают. Я уж-же встретил ч-ч-четырёх."
+
+msgid "What a fool. Nobody will reward you for a scavenger hunt. The world is not a playground."
+msgstr "Каков глупец. За поиск мусора никто тебя ничем не одарит. Это тебе не игра."
+
+msgid "... Y-y-you're too grim, Milion."
+msgstr "...В-В-Вы чересчур уж мрачный, Милиан."
+
+msgid "Wh-what do you think, lady?"
+msgstr "А в-в-вы как думаете, леди?"
+
+msgid "(What do I think...?)"
+msgstr "(Как я думаю?..)"
+
+msgid "The world is really unfair"
+msgstr "Этот мир несправедлив."
+
+msgid "Hard work pays off"
+msgstr "Тяжкий труд окупается."
+
+msgid "S-s-s-such pessimistic views..."
+msgstr "К-к-какие же пессимистичные взгляды..."
+
+msgid "It's wise to be realistic."
+msgstr "Быть реалистом - мудро."
+
+msgid "W-w-w-well said!"
+msgstr "Х-х-х-хорошо сказано!"
+
+msgid "I envy your naivety."
+msgstr "Завидую вашей наивности."
+
+msgid "Just like this warm flame, your innocence too will soon be extinguished."
+msgstr "Как и это тёплое пламя, ваша невинность скоро угаснет."
+
+msgid "A moth, if you really care for such simplifications."
+msgstr "Если уж решила всё упростить, то говори \"мотылёк\"."
+
+msgid "I see..."
+msgstr "Понятно..."
+
+msgid "I have a question."
+msgstr "У меня вопрос."
+
+msgid "Do you happen to know where I could lift a curse?"
+msgstr "Ты случайно не знаешь, где я смогу снять проклятие?"
+
+msgid "You must seek Red."
+msgstr "Это тебе к Рэду."
+
+msgid "Yeah... This isn't the first time I've heard that name."
+msgstr "Да, я не впервые слышу это имя."
+
+msgid "Everyone has heard that name."
+msgstr "Все знают это имя."
+
+msgid "Red cures all sorts of ailments... For a hefty price."
+msgstr "Рэд излечит любую хворь... за немалую цену."
+
+msgid "..?"
+msgstr "?.."
+
+msgid "That one doesn't do anything for free."
+msgstr "Рэд ничего не делает даром."
+
+msgid "The moth is entranced by the fire pit."
+msgstr "Мотылёк очарован костром."
+
+msgid "So after I find 8 more moths I'll get rewarded?"
+msgstr "Так, значит, если я найду ещё 8 мотыльков, то получу награду?"
+
+msgid "As I stated, it's nothing but a myth."
+msgstr "Как я уже сказал, это всего лишь миф."
+
+msgid "So... What kind of reward would it be?"
+msgstr "Так... а о какой именно награде речь?"
+
+msgid "I'll discuss no further with you."
+msgstr "Я это с тобой обсуждать не собираюсь."
+
+msgid "Milion is ignoring you."
+msgstr "Милиан вас игнорирует."
+
+msgid "This is quite amusing."
+msgstr "А вот это занимательно."
+
+msgctxt "events.Ch1_Forest_Center.chr_milion_post_tree.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It's been a while since anything interesting happened around here."
+msgstr "Здесь уже давно не происходило ничего интересного."
+
+msgid "Milion is smiling."
+msgstr "Милиан улыбается."
+
+msgid "(I've only been here for a little while and I already have a lead.)"
+msgstr "(Я тут пробыла всего-ничего, но у меня уже есть наводка.)"
+
+msgid "(I really didn't think this would be where I might find my answers...)"
+msgstr "(Не думала я, что именно здесь я смогу найти ответы...)"
+
+msgid "Finally..."
+msgstr "Наконец-то..."
+
+msgid "A curse, huh?"
+msgstr "Проклятие, значит?"
+
+msgid "It sounds probable, but how did it happen?"
+msgstr "Это вполне возможно, но как такое случилось?"
+
+msgid "And who... or what, cursed me?"
+msgstr "И кто... или что меня прокляло?"
+
+msgid "And why?"
+msgstr "И зачем?"
+
+msgid "There's too many questions."
+msgstr "Так много вопросов."
+
+msgid "(I wonder if I can call Hiro from here.)"
+msgstr "(Интересно, получится ли отсюда дозвониться Хиро?)"
+
+msgid "(Looks like I have no reception... Should I try anyways?)"
+msgstr "(Похоже, что связи нет... может, всё равно попробовать?)"
+
+msgid "(It works?!)"
+msgstr "(Работает?!)"
+
+msgid "LACIE?!"
+msgstr "ЛЭЙСИ?!"
+
+msgctxt "events.Ch1_Forest_Center.event_hiro_call.dlg.lacie"
+msgid "Hiro!"
+msgstr "Хиро!"
+
+msgid "Are you okay? How are you calling me? Are you back? Did you find out-"
+msgstr "Ты в порядке? Как ты мне позвонила? Ты дома? Ты проверила-"
+
+msgid "Wait-"
+msgstr "Постой-"
+
+msgid "ARE YOU HURT?! DO YOU NEED ME TO COME THERE? ARE YOU IN DANGER?"
+msgstr "ТЫ НЕ РАНЕНА? МНЕ К ТЕБЕ ПРИЙТИ? ТЕБЕ ЧТО-ТО УГРОЖАЕТ?"
+
+msgid "I swear I'll get one of those letters and meet you in a jiffy! A jiffy!!-"
+msgstr "Клянусь, я сам найду такое же письмо и мигом к тебе примчусь! Мигом!!-"
+
+msgid "I'm fine."
+msgstr "Я в порядке."
+
+msgid "Oh, thank goodness."
+msgstr "Фух, слава богу."
+
+msgid "It seems to be safe where I am right now, so I just.. tried calling you."
+msgstr "Похоже, я сейчас в безопасном месте, вот я и... попыталась дозвониться тебе."
+
+msgid "...and it worked."
+msgstr "...Что и получилось."
+
+msgid "Huh... that doesn't make much sense."
+msgstr "Вот как...Как-то это странно."
+
+msgid "It doesn't, does it..."
+msgstr "Да, странные дела..."
+
+msgid "Tell me everything, where are you?!"
+msgstr "Рассказывай всё - где ты сейчас?!"
+
+msgid "I'm... in a forest."
+msgstr "Я... в лесу."
+
+msgid "A forest?! You didn't pack bug spray!"
+msgstr "В лесу?! Ты же не взяла спрей от жуков!"
+
+msgid "There's more dangerous things here than bugs."
+msgstr "Тут есть вещи и опаснее жуков."
+
+msgid "But don't worry, I've got it handled."
+msgstr "Но не бойся, у меня всё под контролем."
+
+msgid "I just need to find a light..."
+msgstr "Вот бы только найти источник света..."
+
+msgid "I just needed to find a light and..."
+msgstr "Надо всего-то найти источник света и..."
+
+msgid "Lacie no! Lights ATTRACT bugs!"
+msgstr "Лэйси, нет! На свет СЛЕТАЮТСЯ жуки!"
+
+msgid "Hiro, I don't care about tiny bugs."
+msgstr "Хиро, мне сейчас не до жуков."
+
+msgid "Just trying to lighten the mood~"
+msgstr "Я просто пытаюсь поднять тебе настроение~"
+
+msgid "That's my job."
+msgstr "Это моя работа."
+
+msgid "Mhm."
+msgstr "Угу."
+
+msgid "Don't use up all your battery now."
+msgstr "Смотри не израсходуй всю батарею."
+
+msgid "Remember you can use the flashlight from your phone if you need a light."
+msgstr "Не забывай, что для света можно использовать фонарик в телефоне."
+
+msgid "That's true. How could I forget?"
+msgstr "И правда. Как я могла забыть?"
+
+msgid "But it will use up my battery... I might not be able to call you again if that's the case."
+msgstr "Но он сильно тратит энергию... В таком случае я потом не смогу тебе позвонить."
+
+msgid "It's up to you to decide if you need it."
+msgstr "Сама решай, нужен он тебе или нет."
+
+msgid "Alright, I'll go now."
+msgstr "Ладно, мне пора идти."
+
+msgid "You've got this!"
+msgstr "У тебя всё получится."
+
+msgid "Cellphone"
+msgstr "Сотовый телефон"
+
+msgid "My personal phone. Hiro bought it for me. It may be used as a flashlight."
+msgstr "Мой личный телефон. Его мне купил Хиро. Его можно использовать как фонарик."
+
+msgid "I-I-I wouldn't do that if I were you. Fairy demons are vile, the worst."
+msgstr "Н-н-на вашем месте я б-бы этого не делал. Демоны-феи гнусны, хуже не придумаешь."
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I was too late.)"
+msgstr "(Я не успела.)"
+
+msgid "Um..."
+msgstr "Эм..."
+
+msgid "Is he..."
+msgstr "Он что..."
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.milion"
+msgid "Hm?"
+msgstr "Хм?"
+
+msgid "Shouldn't you know? You're the sole cause of that."
+msgstr "Кому знать, если не тебе? Это ведь результат исключительно твоих действий."
+
+msgid "....."
+msgstr ""
+
+msgid "That tree... is massive..."
+msgstr "Это дерево... огроменное..."
+
+msgid "This probably marks the center of this place. Which means..."
+msgstr "Должно быть, это центр этого места. А это значит..."
+
+msgid "This is where the search really begins."
+msgstr "Что здесь и начинаются мои поиски."
+
+msgid "(She's not a bug...)"
+msgstr "(Она не жук...)"
+
+msgctxt "events.Ch1_Forest_Center.item_bugnet_on_milion.dlg.milion"
+msgid "...?"
+msgstr "?.."
+
+msgid "U-um... It's nothing..."
+msgstr "Э-эм... не обращайте внимание..."
+
+msgid "(The bug net is not large enough.)"
+msgstr "(Этот сачок для него слишком мал.)"
+
+msgid "This is..."
+msgstr "Это же..."
+
+msgid "I know this craftsmanship."
+msgstr "Я знаю, чья это работа."
+
+msgid "I could recognize it anywhere."
+msgstr "Я всюду её узнаю."
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What do you mean?"
+msgstr "То есть?"
+
+msgid "It's nothing."
+msgstr "Неважно."
+
+msgid "That didn't sound like nothing."
+msgstr "А звучало так, будто важно."
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.milion"
+msgid "..."
+msgstr "..."
+
+msgid "The candle is already lit."
+msgstr "Свеча уже горит."
+
+msgid "A candle is not enough to light this campfire."
+msgstr "Одной свечой этот костёр не зажечь."
+
+msgid "There's no fire here."
+msgstr "Здесь нет огня."
+
+msgid "Is this a gift?"
+msgstr "Это подарок?"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "No."
+msgstr "Нет."
+
+msgid "Pity."
+msgstr "А жаль."
+
+msgid "What do you want?"
+msgstr "Чего тебе?"
+
+msgid "Can I get a refund?"
+msgstr "Можно вернуть деньги?"
+
+msgid "Absolutely not."
+msgstr "Категорически нет."
+
+msgid "That is one stinky fish."
+msgstr "Какая же вонючая рыбёшка."
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "Hm?"
+msgstr "Хм?"
+
+msgid "You didn't stutter?"
+msgstr "Ты не запнулся?"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "!.."
+
+msgid "Is it a magic fish?!"
+msgstr "Это что, волшебная рыба?!"
+
+msgid "Ah, you bought that from Alba's shop?"
+msgstr "А, ты купила её у Альбы?"
+
+msgid "Yes."
+msgstr "Да."
+
+msgid "Alba's merchandise is always top tier."
+msgstr "Альба торгует только товарами высшего сорта."
+
+msgid "Lovely gal."
+msgstr "Классная девчонка."
+
+msgid "Flattery isn't going to get you anything, Milion."
+msgstr "За красивые слова я тебе ничего не дам, Милиан."
+
+msgid "What a shame."
+msgstr "Ой как жаль."
+
+msgid "(I seem to be interrupting something...)"
+msgstr "(Похоже, я кому-то мешаю...)"
+
+msgid "This tree has had enough fish for today."
+msgstr "Дереву пока хватит рыбы."
+
+msgid "You're not doing that again."
+msgstr "Вы больше не будете этим заниматься."
+
+msgid "You hold out the fish in front of the mirror, like you just caught it."
+msgstr "Вы протянули рыбу древу, будто вы сами её только что выловили."
+
+msgid "You feel silly, so you stop."
+msgstr "Вы чувствуете свою глупость и прекращаете."
+
+msgid "Throw it down the hole?"
+msgstr "Бросить её в дыру?"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "No"
+msgstr "Нет"
+
+msgid "You listen for a while, but no impact sound can be heard this time."
+msgstr "Вы недолго прислушиваетесь, но не слышите звука удара."
+
+msgid "After six or so seconds, you hear the faint impact of the fish against something."
+msgstr "Спустя шесть или около того секунд вы еле услышали, как рыба упала."
+
+msgid "Throw all your fish into the hole?"
+msgstr "Бросить в дыру всю рыбу?"
+
+msgid "Throw all of them"
+msgstr "Бросить всю"
+
+msgid "Just throw one"
+msgstr "Бросить одну"
+
+msgid "Don't"
+msgstr "Не бросать ничего"
+
+msgid "You throw each and every fish into the hole."
+msgstr "Вы бросили в дыру всю рыбу до единой."
+
+msgid "Some of them make sounds when they hit the bottom, but many don't."
+msgstr "Некоторые по достижении дна издают звук, но большинство - нет."
+
+msgid "After a while, you run out of fish."
+msgstr "Спустя какое-то время у вас кончилась рыба."
+
+msgid "Your hands smell terrible, and you feel like you accomplished nothing."
+msgstr "Ваши руки ужасно воняют и вам кажется, что вы ничего не добились."
+
+msgid "No. You're not my type."
+msgstr "Не. Ты не в моём вкусе."
+
+msgid "(You're not her type.)"
+msgstr "(Вы не в её вкусе.)"
+
+msgid "T-thanks! Y-you're a good person!"
+msgstr "С-спасибо! Т-ты хорошая!"
+
+msgid "Is this head OK?"
+msgstr "Эта голова не поможет?"
+
+msgid "T-t-this is... pretty good..."
+msgstr "В-вполне... Вполне себе..."
+
+msgid "Glad that's solved."
+msgstr "Хорошо, что с этим разобрались."
+
+msgid "Ju-just wondering though... where exactly did you get this?"
+msgstr "Но-но-но мне интересно... где именно ты её добыла?"
+
+msgctxt "events.Ch1_Forest_Center.item_head_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I... I don't think the previous owner needs it anymore..."
+msgstr "Мне кажется, своему бывшему владельцу она больше ни к чему... "
+
+msgid "O-oh......."
+msgstr "В-вот как....."
+
+msgid ".........."
+msgstr ".........."
+
+msgid "An empty lamp that fell from that post."
+msgstr "Пустой фонарь, упавший со столба."
+
+msgid "Whatever was inside is gone."
+msgstr "Что бы там ни было внутри, сейчас этого нет."
+
+msgid "Can I find a use for this?"
+msgstr "Можно ли найти ему применение?"
+
+msgid "Take ${item:ch1.forest_lamp_empty}?"
+msgstr "Взять предмет: ${item:ch1.forest_lamp_empty}?"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "I can't reach up there."
+msgstr "Мне туда не достать."
+
+msgid "And even if I could, I can't see the point in fixing the lamp."
+msgstr "А даже если бы достала, я не вижу смысла чинить фонарь."
+
+msgid "I still can't reach..."
+msgstr "Я по-прежнему не достаю."
+
+msgid "Besides, it's not like a secret door will open just because I fixed this particular lamp."
+msgstr "Кроме того, никакая секретная дверь не откроется, если починить именно этот фонарь."
+
+msgid "There's seriously no point in that."
+msgstr "В этом действительно нет смысла."
+
+msgid "Fascinating creatures."
+msgstr "Восхитительные создания."
+
+msgid "Naturally emitting light can be a great asset to one's value."
+msgstr "Биолюминесценция всякому придаёт весомой ценности..."
+
+msgctxt "events.Ch1_Forest_Center.item_light_full_on_milion.dlg.lacie"
+msgid "...?"
+msgstr "?.."
+
+msgid "Is this OK?"
+msgstr "Это подойдёт?"
+
+msgid "I-I-I guess it could be worse..."
+msgstr "М-м-могло быть и хуже..."
+
+msgid "Thank you! I didn't think you would come back!"
+msgstr "Благодарю! Я и не думал, что вы вернётесь!"
+
+msgid "...It was my fault after all..."
+msgstr "...В конце концов это моя вина..."
+
+msgid "You're welcome, I suppose."
+msgstr "Всегда пожалуйста, стало быть."
+
+msgid "(Alba's eyes dart to your rune, so you quickly put it away.)"
+msgstr "(Альба взглядом сверлит дыру в вашей руне, поэтому вы её быстренько прячете.)"
+
+msgid "Ooh! I-I-I also have a rock just like that. I b-b-buried it to keep it safe."
+msgstr "О-о! А у м-меня тоже есть такой к-камешек. Я е-г-го закопал для с-с-сохранности."
+
+msgid "Do you have nothing better to do than collecting rocks?"
+msgstr "У тебя нет других дел, кроме как собирать камни?"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Do you have nothing better to do than staring at a fire?"
+msgstr "У тебя нет других дел, кроме как пялиться на огонь?"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.milion"
+msgid "..."
+msgstr "..."
+
+msgid "You don't need that. My fish already taste great without it."
+msgstr "Тебе оно не надо. Моя рыба и так идеальна."
+
+msgid "I-i-is that for me...?!"
+msgstr "Э-это мне?.."
+
+msgctxt "events.Ch1_Forest_Center.item_salt_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "...No."
+msgstr "...Нет."
+
+msgid "O-oh."
+msgstr "О-ох."
+
+msgid "Let's not provoke her."
+msgstr "Лучше её не провоцировать."
+
+msgid "Don't threaten me, kid."
+msgstr "Малая, не лезь ко мне."
+
+msgid "I will shred you."
+msgstr "Или я тебя разорву."
+
+msgctxt "events.Ch1_Forest_Center.item_scissors_on_alba.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go around cutting random cables."
+msgstr "Лучше не резать случайные провода."
+
+msgid "P-p-please don't...! I'm fragile..."
+msgstr "П-прошу, не н-надо!.. Я очень хрупкий..."
+
+msgid "I would advise you not to challenge me."
+msgstr "Я бы не советовал со мной связываться."
+
+msgid "There's no need to break it."
+msgstr "Не нужно его ломать."
+
+msgid "You could probably smash the mirror with this."
+msgstr "Этим вполне можно разбить зеркало."
+
+msgid "Break the mirror?"
+msgstr "Разбить зеркало?"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "No"
+msgstr "Нет"
+
+msgid "You prepare to break the mirror..."
+msgstr "Вы готовитесь разбить зеркало..."
+
+msgid "But you notice there's a door handle on it."
+msgstr "Как вдруг замечаете на нём дверную ручку."
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "Похоже, дверь не заперта."
+
+msgid "I don't do barter."
+msgstr "Я не занимаюсь обменами."
+
+msgid "N-n-no thank you."
+msgstr "Н-н-нет, спасибо."
+
+msgid "I don't need it."
+msgstr "Мне это не нужно."
+
+msgid "You may give it to someone who does."
+msgstr "Советую отдать это кому-то, кто в этом нуждается."
+
+msgid "Is this OK? I'm sorry, it's the only thing I could find..."
+msgstr "Это подойдёт? Прости, я больше ничего не нашла..."
+
+msgid "W-Wow!! T-t-this is amazing...!!!"
+msgstr "О-ого!! П-п-потрясающе!!"
+
+msgid "Thank you s-s-s-so much!"
+msgstr "Большущее с-с-с-спасибо!"
+
+msgid "...You're... welcome...?"
+msgstr "...Всегда... пожалуйста?.."
+
+msgid "(To each their own, I suppose)"
+msgstr "(Похоже, каждому своё)"
+
+msgid "A bucket full of bones and other terrible-smelling organic garbage."
+msgstr "Ведро с костями и прочим органическим мусором со скверным запахом."
+
+msgid "A cable runs through here."
+msgstr "Здесь проходит провод."
+
+msgid "The cable runs into the woods, against the cliff."
+msgstr "Провод уходит в лес, к утёсу."
+
+msgid "The cable runs into the woods."
+msgstr "Провод уходит в лес."
+
+msgid "A campfire."
+msgstr "Лагерный костёр."
+
+msgid "There's no fire, so right now it's just a camp."
+msgstr "Без огня это просто лагерь."
+
+msgid "A camp."
+msgstr "Лагерь."
+
+msgid "The fire is on. It seems to produce heat too."
+msgstr "Огонь горит. Похоже, он даже источает тепло."
+
+msgid "A crow standing on a stump."
+msgstr "Ворона, сидящая на пне."
+
+msgid "They're everywhere, huh?"
+msgstr "Они повсюду, что ли?"
+
+msgid "Now is not the time for that."
+msgstr "Сейчас не время для этого."
+
+msgid "Small mushrooms surround a patch of dead grass."
+msgstr "Маленькие грибы окружают участок мертвой травы."
+
+msgid "W-what..."
+msgstr "Ч-что?.."
+
+msgid "What happened? It was so sudden..."
+msgstr "Что случилось? Это было внезапно..."
+
+msgid "Am I trapped inside of something?"
+msgstr "Я что, в ловушке?"
+
+msgid "I can barely move..."
+msgstr "Я почти не могу двигаться..."
+
+msgid "Ugh... it's all soggy and... squishy..."
+msgstr "Грах... тут всё такое склизкое... и мокрое..."
+
+msgctxt "events.Ch1_Forest_Center.misc_fairyring_death.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "This is suffocating... I don't like closed spaces..."
+msgstr "Я задыхаюсь... ненавижу закрытые пространства..."
+
+msgid "Aahh... I hate this... I'm going to be sick...!"
+msgstr "А-а... я не могу... меня сейчас вырвет!.."
+
+msgid "Wait... calm down."
+msgstr "Стоп... без паники."
+
+msgid "I can move my arms, somewhat."
+msgstr "Руки у меня более-менее свободно двигаются."
+
+msgid "Think."
+msgstr "Думай."
+
+msgid "Let's see... do I have anything that could help me?"
+msgstr "Так-с... что может мне помочь?"
+
+msgid "Maybe something sharp..."
+msgstr "Что-нибудь острое..."
+
+msgid "Oh, scissors...!"
+msgstr "Точно, ножницы!.."
+
+msgid "Sorry, but I don't feel like being eaten today."
+msgstr "Простите, я не в настроении сегодня умирать."
+
+msgid "I can cross off \"being digested alive\" from my to-do list."
+msgstr "В моём списке не было пункта \"Быть переваренной заживо\"."
+
+msgid "Good thing I had those scissors... ugh..."
+msgstr "Повезло, что у меня были с собой эти ножницы... фух..."
+
+msgid "Now... where am I?"
+msgstr "Итак... где я?"
+
+msgid "It's no good... I can't do anything..."
+msgstr "Это нехорошо... я ничего не могу поделать..."
+
+msgid "Am I going to die... inside this thing?"
+msgstr "И что, я теперь умру внутри этой штуковины?"
+
+msgid "Nobody will even find my body..."
+msgstr "Никто не найдёт моё тело..."
+
+msgid "Sigh... what a pointless way to go."
+msgstr "*Вздох*... какая же бессмысленная кончина."
+
+msgid "What is this smell... it's making me want to puke..."
+msgstr "И этот запах... рвота подступает к горлу..."
+
+msgid "My legs... are also itching..."
+msgstr "А ноги... как же они чешутся..."
+
+msgid "Wait, could it be...?"
+msgstr "Стоп, неужели?.."
+
+msgid "Oh god... is this thing digesting me!?"
+msgstr "О господи... оно меня переваривает?!"
+
+msgid "Nononono.... I don't want to die like that!!!"
+msgstr "Нет-нет-нет... я не хочу так умирать!!!"
+
+msgid "I tried kicking around and fighting it as much as I could."
+msgstr "Я изо всех сил пыталась бороться, использовала руки и ноги."
+
+msgid "But soon enough, my skin started burning, confirming my fears."
+msgstr "Но вскоре моя кожа начала обжигаться, а мои страхи подтвердились."
+
+msgid "The more I squirmed, the more the digestive juices got all over me."
+msgstr "Чем больше я брыкалась, тем больше желудочного сока на меня выливалось."
+
+msgid "The more I screamed, the more the gas burned my nose and throat from inside."
+msgstr "Чем больше я кричала, тем больше эти газы обжигали мой нос и горло."
+
+msgid "It seems that the moment I stepped into that circle, my fate had been sealed."
+msgstr "Похоже, в тот самый момент, когда я ступила в тот круг, моя судьба была предрешена."
+
+msgid "A lamppost that's missing its lamp."
+msgstr "Фонарный столб без фонаря."
+
+msgid "Now it's just a post."
+msgstr "Теперь это просто столб."
+
+msgid "A post."
+msgstr "Столб."
+
+msgid "A wooden log."
+msgstr "Деревянная колода."
+
+msgid "This is not the time to sit around."
+msgstr "Сейчас не время рассиживаться."
+
+msgid "A big mirror is embedded in the tree trunk."
+msgstr "В ствол дерева встроено крупное зеркало."
+
+msgid "A door handle can be seen."
+msgstr "В нём можно заметить дверную ручку."
+
+msgid "Your reflection stares anxiously back at you."
+msgstr "Ваше отражение беспокойно смотрит на вас в ответ."
+
+msgid "On a closer inspection, there's a door handle on the mirror."
+msgstr "Если внимательно присмотреться, на зеркале видна дверная ручка."
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "Похоже, дверь не заперта."
+
+msgid "Check behind the mirror?"
+msgstr "Проверить, что таится за зеркалом?"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "The tree... is hollow...?"
+msgstr "Это дерево... полое?.."
+
+msgid "Has anything changed now that I threw all those fish in?"
+msgstr "Я сбросила вниз столько рыбы, но изменилось ли хоть что-нибудь?"
+
+msgid "I can't see the bottom, but it's really deep."
+msgstr "Я не вижу дна, там слишком глубоко."
+
+msgid "Why is the inside of the tree like this?"
+msgstr "Что же случилось с внутренностями дерева?"
+
+msgid "Doesn't seem like it."
+msgstr "Непохоже."
+
+msgid "The roots of a massive tree. There's blue mushrooms everywhere."
+msgstr "Корни массивного дерева. Вокруг них кругом растут синие грибы."
+
+msgid "It reads: \"STOP! Do not walk inside the fairy ring.\""
+msgstr "Надпись гласит: \"СТОЯТЬ! Не входите в круг фей.\""
+
+msgid "\"But if you do, please ask them to take their business elsewhere.\""
+msgstr "\"Но коль уж зайдёте, попросите их, пожалуйста, заниматься своими делами в другом месте.\""
+
+msgid ""
+"South-West: Sculptor's House.\n"
+"West: Red's Treehouse."
+msgstr ""
+"На юго-западе: Дом скульптора.\n"
+"На западе: Лесной домик Рэда."
+
+msgid ""
+"South: Train Station.\n"
+"East: Locked Site."
+msgstr ""
+"На юге: Ж/Д станция.\n"
+"На востоке: Закрытая зона."
+
+msgid "The sign says \"Alba's Shop\""
+msgstr "Надпись гласит: \"Лавка Альбы\""
+
+msgid "A curtain covers the stand."
+msgstr "Занавеска закрывает прилавок."
+
+msgid "Peek behind curtain?"
+msgstr "Заглянуть за занавеску?"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "No"
+msgstr "Нет"
+
+msgid "There's some trays aligned for display, but there's nothing on them."
+msgstr "Там стоят уложенные в ряд подносы, но на них ничего нет."
+
+msgid "You decided to save your curiosity for later."
+msgstr "Вы решаете на время успокоить свой интерес."
+
+msgid "A stand lined up with fish of various sizes."
+msgstr "Прилавок, на котором в ряд уложены рыбы разного размера."
+
+msgid "The shop is closed for today."
+msgstr "Магазин на сегодня закрыт."
+
+msgid "A massive crater that you caused."
+msgstr "Массивный кратер, причина которого - вы."
+
+msgid "I don't think there's anything this way that will help Kozmo..."
+msgstr "Я не думаю, что там найдётся что-то, что поможет Козмо..."
+
+msgid "I need to get this to Kozmo as soon as possible..."
+msgstr "Нужно как можно скорее принести это Козмо..."
+
+msgid "Continue down this path?"
+msgstr "Пройти дальше?"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "No"
+msgstr "Нет"

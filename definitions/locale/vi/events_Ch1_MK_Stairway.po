@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You discarded the extra eye.)"
+msgstr "(Bạn đã bỏ con mắt dư đi.)"
+
+msgid "Enter the painting?"
+msgstr "Bước vào bức tranh chứ?"
+
+msgid "Yes"
+msgstr "Bước vào"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "A large painting. It seems to be missing both eyes."
+msgstr "Cái bức tranh lớn. Hình như bị thiếu mất cả hai con mắt."
+
+msgid "A spooky painting. It seems to be missing an eye."
+msgstr "Cái bức tranh ma mị. Hình như bị thiếu mất một con mắt."
+
+msgid "One eye is plenty."
+msgstr "Một mắt là nhiều dữ rồi."
+
+msgid "..."
+msgstr "..."

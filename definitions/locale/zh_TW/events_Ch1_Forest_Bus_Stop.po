@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(The street is clearly looping. There's little point in running around like this.)"
+msgstr "(道路顯然在循環。繞著跑沒什麼意義。)"
+
+msgid "A bus stop sign."
+msgstr "公車站牌。"
+
+msgid "The schedule is empty. It's likely that there's no next bus coming."
+msgstr "時刻表是空的。顯然沒有下一班公車。"
+
+msgid "A lamppost that makes this feel like a safe spot."
+msgstr "讓這裡充滿安全感的燈柱。"
+
+msgid "A crow standing on a rock."
+msgstr "站在石頭上的烏鴉。"
+
+msgid "It doesn't seem bothered by my presence."
+msgstr "看起來牠不被我的存在所動。"
+
+msgid "A trash can. It's overflowing with emptiness."
+msgstr "垃圾桶。裝滿了空虛。"

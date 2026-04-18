@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Unsealed golden letters scattered across the floor."
+msgstr "Nhiều lá thư màu vàng đã mở niêm đang rải rác khắp sàn."
+
+msgid "They seem to be rituals with various titles."
+msgstr "Có vẻ đều là quy trình nghi thức với các nhan đề khác nhau."
+
+msgid "\"The Mirror Ritual\""
+msgstr "\"Nghi thức Gương\""
+
+msgid "\"The Ritual of the Well\""
+msgstr "\"Nghi thức Giếng\""
+
+msgid "\"The Bus Ritual\""
+msgstr "\"Nghi thức Xe buýt\""
+
+msgid "\"The Three-Room Ritual\""
+msgstr "\"Nghi thức Ba căn phòng\""
+
+msgid "This is the one I did..."
+msgstr "Cái này là cái mình làm đây mà..."
+
+msgid "These all come in golden letters... do they all work?"
+msgstr "Cái nào cũng là thư màu vàng... tất cả đều thực hiện được chăng?"
+
+msgid "I should look into this when I get home."
+msgstr "Để về nhà rồi tìm hiểu xem."
+
+msgid "It's too dark to see anything on the other side."
+msgstr "Tối quá bên phía kia chả thấy gì."
+
+msgid "You think you can leave?"
+msgstr "Mày nghĩ mày ra khỏi đây được á?"
+
+msgid "Now that you can prove that these rituals work, you have no way of going back to tell anyone."
+msgstr "Giờ chứng minh được nghi thức là thật rồi, mày không có cách nào quay về nhắn cho ai được đâu."
+
+msgid "The knowledge will die with you."
+msgstr "Kiến thức đấy sẽ chết cùng với mày."
+
+msgid "That's... that's a lie, right?"
+msgstr "Nói láo... mày nói láo, có phải không?"
+
+msgid "You're just trying to scare me."
+msgstr "Mày chỉ muốn hù dọa tao thôi."
+
+msgid "The door is stuck. It won't open."
+msgstr "Cửa bị kẹt không mở được."

@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "On"
+msgstr "Увімкнуто"
+
+msgid "Off"
+msgstr "Вимкнуто"
+
+msgid "Auto"
+msgstr "Автоматично"
+
+msgid "Next"
+msgstr "Далі"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Apply"
+msgstr "Застосувати"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Loading..."
+msgstr "Завантаження..."
+
+msgid "Key"
+msgstr "Клавіша"
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Axis"
+msgstr "Вісь"
+
+msgid "Keyboard"
+msgstr "Клавіатура"
+
+msgid "Controller"
+msgstr "Геймпад"
+
+msgid "New Game"
+msgstr "Нова гра"
+
+msgid "Continue"
+msgstr "Продовжити"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Itch.io Page"
+msgstr "Сторінка на Itch.io"
+
+msgid "Translator Page"
+msgstr "Сторінка перекладача"
+
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Save Game"
+msgstr "Зберегти гру"
+
+msgid "SLOT {0}"
+msgstr "СЛОТ {0}"
+
+msgid "<EMPTY>"
+msgstr "<ПУСТО>"
+
+msgid "CORRUPTED"
+msgstr "ПОШКОДЖЕНО"
+
+msgid "OBSOLETE"
+msgstr "НЕДОСТУПНО"
+
+msgid "Unknown Location"
+msgstr "Невідоме місце"
+
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "Ви впевнені, що хочете перезаписати цей файл збереження?"
+
+msgid "Load"
+msgstr "Завантажити"
+
+msgid "Load Game"
+msgstr "Завантажити гру"
+
+msgid "Quit"
+msgstr "Вийти"
+
+msgid "Debug Room"
+msgstr "Кімната ігроладу"
+
+msgid "Settings"
+msgstr "Налаштування"
+
+msgid "Inventory"
+msgstr "Інвентар"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Objectives"
+msgstr "Цілі"
+
+msgid "(There are no objectives)"
+msgstr "(Цілей немає)"
+
+msgid "Main Menu"
+msgstr "Головне меню"
+
+msgid "Log"
+msgstr "Журнал"
+
+msgid "Extras"
+msgstr "Додатково"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Credits"
+msgstr "Автори"
+
+msgid "{0} Select {1} Back"
+msgstr "{0} Вибрати {1} Назад"
+
+msgid "Go to Debug Room"
+msgstr "Перейти до кімнати ігроладу"
+
+msgid "Quit to Title Screen"
+msgstr "Вийти до головного меню"
+
+msgid "Quit to Desktop"
+msgstr "Вийти на робочий стіл"
+
+msgid "Are you sure you want to quit? Unsaved progress will be lost."
+msgstr "Ви впевнені, що хочете вийти? Незбережений прогрес буде втрачено."
+
+msgid "Game Paused!"
+msgstr "Гру призупинено!"
+
+msgid "{0}{1} Select {2} Confirm"
+msgstr "{0}{1} Вибрати {2} Підтвердити"
+
+msgid "Coins: {0}"
+msgstr "Монети: {0}"
+
+msgid "Up"
+msgstr "Вгору"
+
+msgid "Down"
+msgstr "Вниз"
+
+msgid "Left"
+msgstr "Ліворуч"
+
+msgid "Right"
+msgstr "Праворуч"
+
+msgid "Action/OK"
+msgstr "Дія/ОК"
+
+msgid "Run"
+msgstr "Бігти"
+
+msgid "Special"
+msgstr "Особлива дія"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Battery Saver Mode"
+msgstr "Режим економії заряду"
+
+msgid "Brightness"
+msgstr "Яскравість"
+
+msgid "Contrast"
+msgstr "Контрастність"
+
+msgid "FPS Limit"
+msgstr "Обмеження FPS"
+
+msgid "Unlocked"
+msgstr "Розблоковано"
+
+msgid "V-Sync"
+msgstr "Верт. синхронізація"
+
+msgid "G-Sync"
+msgstr "G-Sync"
+
+msgid "Comp.V-Sync"
+msgstr "Комп. V-Sync"
+
+msgid "Full Screen"
+msgstr "На весь екран"
+
+msgid "Internal Resolution"
+msgstr "Внутр. роздільна здатність"
+
+msgid "Gamma"
+msgstr "Гама"
+
+msgid "Renderer"
+msgstr "Рендер"
+
+msgid "OpenGL ES 2.x"
+msgstr "OpenGL ES 2.x"
+
+msgid "OpenGL ES 3.x"
+msgstr "OpenGL ES 3.x"
+
+msgid "Resolution"
+msgstr "Роздільна здатність"
+
+msgid "Window Size"
+msgstr "Розмір вікна"
+
+msgid "Saturation"
+msgstr "Насиченість"
+
+msgid "General Volume"
+msgstr "Загальна гучність"
+
+msgid "BGM Volume"
+msgstr "Гучність музики"
+
+msgid "SFX Volume"
+msgstr "Гучність звукових ефектів"
+
+msgid "Interface Volume"
+msgstr "Гучність інтерфейсу"
+
+msgid "Text Scrolling Volume"
+msgstr "Гучність прокручування тексту"
+
+msgid "Mute All Audio"
+msgstr "Вимкнути весь звук"
+
+msgid "Hide Mouse Cursor"
+msgstr "Сховати курсор миші"
+
+msgid "Objective Notifications"
+msgstr "Сповіщення про цілі"
+
+msgid "Sound Settings"
+msgstr "Налаштування звуку"
+
+msgid "Screen Settings"
+msgstr "Налаштування екрану"
+
+msgid "Control Settings"
+msgstr "Налаштування керування"
+
+msgid "Invalid custom controls: All actions need to be assigned!"
+msgstr "Неправильні користувацькі налаштування: Усі дії мають бути призначені!"
+
+msgid "Game Settings"
+msgstr "Налаштування гри"
+
+msgid "Profile"
+msgstr "Профіль"
+
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+msgid "Classic"
+msgstr "Класичний"
+
+msgid "WASD"
+msgstr "WASD"
+
+msgid "Azerty Classic"
+msgstr "Azerty Classic"
+
+msgid "Azerty WASD"
+msgstr "Azerty WASD"
+
+msgid "Dvorak Classic"
+msgstr "Дворжак (Класич.)"
+
+msgid "Dvorak WASD"
+msgstr "Дворжак (WASD)"
+
+msgid "Xbox"
+msgstr "Xbox"
+
+msgid "DualShock 4"
+msgstr "DualShock 4"
+
+msgid "DualShock 4 (JP)"
+msgstr "DualShock 4 (ЯП)"
+
+msgid "Switch Pro"
+msgstr "Switch Pro"
+
+msgid "Generic"
+msgstr "Загальний"
+
+msgid "Custom"
+msgstr "Свій"
+
+msgid "Press a key to assign to {0}..."
+msgstr "Яку клавішу прив'язати до дії {0}..."
+
+msgid "Press a button to assign to {0}..."
+msgstr "Яку кнопку прив'язати до дії {0}..."
+
+msgid "Auto Switch"
+msgstr "Автоперемикання"
+
+msgid "Controller Deadzone"
+msgstr "Мертва зона контролера"
+
+msgid "Advanced Settings"
+msgstr "Розширені налаштування"
+
+msgid "Revert Settings to Default"
+msgstr "Скинути налаштування до стандартних"
+
+msgid "Not recommended"
+msgstr "Не рекомендується"
+
+msgid "Restart required"
+msgstr "Потрібен перезапуск"
+
+msgid "Current: {0}"
+msgstr "Наразі: {0}"
+
+msgid "Hold to Fast Forward"
+msgstr "Утримувати кнопку для пропуску діалогів"
+
+msgid "Show Skip Option"
+msgstr "Давати можливість пропусків"
+
+msgid "Language Settings"
+msgstr "Налаштування мови"
+
+msgid "Select Language"
+msgstr "Вибрати мову"
+
+msgid "Unofficial Translations"
+msgstr "Неофіційні переклади"
+
+msgid "More..."
+msgstr "Більше..."
+
+msgid ""
+"Attention!\n"
+"\n"
+"You're about to view unofficial translations. These translations are\n"
+"not developed by Leef 6010 and we take no responsibility for their accuracy.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"Увага!\n"
+"\n"
+"Ви збираєтесь продивитись список неофіційних перекладів. Ці переклади\n"
+"не розробляються студією Leef 6010, і ми не беремо відповідальність за їхню точність.\n"
+"Продовжити?"
+
+msgid "Objectives Updated!"
+msgstr "Цілі оновлено!"
+
+msgid "(Done)"
+msgstr "(Готово)"
+
+msgid "{0} Give Up {1} Reset"
+msgstr "{0} Здатися {1} Скинути"
+
+msgid "{0} Slow"
+msgstr "{0} Повільно"
+
+msgid "{0} Next"
+msgstr "{0} Далі"
+
+msgid "{0} Okay"
+msgstr "{0} Добре"
+
+msgid "Obtained {0} {1}"
+msgstr "Отримано предмет: {0} {1}"
+
+msgid "Designed By"
+msgstr "Розроблено"
+
+msgid "Art"
+msgstr "Дизайн"
+
+msgid "Programming"
+msgstr "Код"
+
+msgid "Playtesting"
+msgstr "Тестери"
+
+msgid "Fonts"
+msgstr "Шрифти"
+
+msgid "UI Design"
+msgstr "Дизайн інтерфейсу"
+
+msgid "Additional UI Design"
+msgstr "Додатковий дизайн інтерфейсу"
+
+msgid "Paper Lily Logo"
+msgstr "Логотип Paper Lily"
+
+msgid "Paper Lily OST"
+msgstr "Муз. супроводження Paper Lily"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "Additional Music"
+msgstr "Додаткова музика"
+
+msgid "SFX"
+msgstr "Звукові ефекти"
+
+msgid "Additional Shaders & Special Effects"
+msgstr "Додаткові шейдери та спецефекти"
+
+msgid "Japanese Communications"
+msgstr "Зв'язок з громадськістю в Японії"
+
+msgid "Korean Communications"
+msgstr "Зв'язок з громадськістю в Кореї"
+
+msgid "Additional Assets"
+msgstr "Додаткові ресурси"
+
+msgid "Special Thanks"
+msgstr "Особлива подяка"
+
+msgid "Created By"
+msgstr "Автори"
+
+msgid "Made Using"
+msgstr "Створено за допомогою"
+
+msgid "Godot Engine"
+msgstr "Godot Engine"
+
+msgid "Thank You for Playing!"
+msgstr "Дякуємо за гру!"
+
+msgid "You Died"
+msgstr "Ви загинули"
+
+msgid "Retry"
+msgstr "Спробувати знову"
+
+msgid "Give Up"
+msgstr "Здатися"

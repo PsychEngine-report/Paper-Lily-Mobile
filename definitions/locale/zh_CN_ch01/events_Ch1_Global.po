@@ -1,0 +1,4333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Global.ch1_death_mk_pt1.choice"
+msgid "Try Again?"
+msgstr "要重试吗？"
+
+msgctxt "events.Global.ch1_death_mk_pt1.choice.Try Again?"
+msgid "Retry"
+msgstr "重试"
+
+msgctxt "events.Global.ch1_death_mk_pt1.choice.Try Again?"
+msgid "Skip"
+msgstr "跳过"
+
+msgctxt "events.Global.ch1_death_mk_pt1.choice.Try Again?"
+msgid "Give Up"
+msgstr "放弃"
+
+msgctxt "events.Global.ch1_death_mk_pt2.choice"
+msgid "Try Again?"
+msgstr "要重试吗？"
+
+msgctxt "events.Global.ch1_death_mk_pt2.choice.Try Again?"
+msgid "Retry"
+msgstr "重试"
+
+msgctxt "events.Global.ch1_death_mk_pt2.choice.Try Again?"
+msgid "Skip"
+msgstr "跳过"
+
+msgctxt "events.Global.ch1_death_mk_pt2.choice.Try Again?"
+msgid "Give Up"
+msgstr "放弃"
+
+msgctxt "events.Global.ch1_death_mk_pt3.choice"
+msgid "Try Again?"
+msgstr "要重试吗？"
+
+msgctxt "events.Global.ch1_death_mk_pt3.choice.Try Again?"
+msgid "Retry"
+msgstr "重试"
+
+msgctxt "events.Global.ch1_death_mk_pt3.choice.Try Again?"
+msgid "Skip"
+msgstr "跳过"
+
+msgctxt "events.Global.ch1_death_mk_pt3.choice.Try Again?"
+msgid "Give Up"
+msgstr "放弃"
+
+msgid "Well... this is it."
+msgstr "嗯...都结束了。"
+
+msgid "So uh... see you on the other side?"
+msgstr "所以，呃...另一头见？"
+
+msgctxt "events.Global.ch1_ending_1_1.dlg.sai"
+msgid "Yeah."
+msgstr "嗯。"
+
+msgctxt "events.Global.ch1_ending_1_1.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "See ya."
+msgstr "回头见。"
+
+msgid "Ha! That's way too big on you."
+msgstr "哈！这个对你来说有点大了。"
+
+msgid "It's... cozy, I suppose."
+msgstr "还挺...舒服的，我感觉。"
+
+msgid "(I wonder who wore this.)"
+msgstr "（不知道这是给谁穿的。）"
+
+msgctxt "events.Global.ch1_ending_1_10.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "H-Hey! What's wrong!?"
+msgstr "嘿—嘿！怎么了！？"
+
+msgid "Wake up!"
+msgstr "醒醒！"
+
+msgid "What the hell!?"
+msgstr "什么鬼！？"
+
+msgid "Hey, wake up! Hey!"
+msgstr "嘿，醒醒！嘿！"
+
+msgctxt "events.Global.ch1_ending_1_10.dlg.sai"
+msgid ".........."
+msgstr ".........."
+
+msgid "Damn it."
+msgstr "该死。"
+
+msgid "Dead End 1-10 - Sensory Overload"
+msgstr "死亡结局 1-10 - 感知过载"
+
+msgid "Um... What was that?"
+msgstr "呃... 怎么了？"
+
+msgid "It sounded like splashing water..."
+msgstr "听起来像是落水声..."
+
+msgid "But that's impossible... I thought we drained the water?"
+msgstr "但这不可能啊...我以为我们已经把水排干了？"
+
+msgid "Could it be that the lower levels are still flooded?"
+msgstr "可能更低一些的楼层还被水淹着？"
+
+msgid "Could the B4F be flooded?"
+msgstr "可能地下4层还被水淹着？"
+
+msgid "Hey, you don't think we could just press the button and go back up, right?"
+msgstr "嘿，要不我们就试试看能不能按按钮上去吧？"
+
+msgctxt "events.Global.ch1_ending_1_11.dlg.lacie"
+msgid "No."
+msgstr "不行。"
+
+msgctxt "events.Global.ch1_ending_1_11.dlg.sai"
+msgid "Sooo..."
+msgstr "那..."
+
+msgid "This doesn't bode well."
+msgstr "这可不是什么好兆头。"
+
+msgid "No shit, it doesn't bode at all!"
+msgstr "妈的，哪来的什么好兆头！"
+
+msgid "It's fine, elevators always have an emergency exit."
+msgstr "没关系，电梯都有紧急出口的。"
+
+msgid "Somewhere."
+msgstr "在某个地方。"
+
+msgid "What now?"
+msgstr "现在怎么办？"
+
+msgid "I'm not sure... do you see anything?"
+msgstr "我不知道...你有看到什么东西吗？"
+
+msgid "Like what?"
+msgstr "哪种东西？"
+
+msgid "Like... an exit? Something that could be opened?"
+msgstr "像是...出口？某些可以打开的东西？"
+
+msgctxt "events.Global.ch1_ending_1_11.dlg.sai"
+msgid "Hmmm..."
+msgstr "嗯......"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "Then... we might actually die here."
+msgstr "那...我们可能真的要死在这里了。"
+
+msgid "Hey... don't say things like that..."
+msgstr "嘿...别那么说..."
+
+msgid "Let me think for a second."
+msgstr "让我再思考一下。"
+
+msgctxt "events.Global.ch1_ending_1_11.dlg.sai"
+msgid "Okay."
+msgstr "好的。"
+
+msgid "Any ideas yet?"
+msgstr "有想法了吗？"
+
+msgid "It's possible that there's an exit on the ceiling."
+msgstr "天花板上可能有一个出口。"
+
+msgid "But we can't reach it yet..."
+msgstr "但是我们目前够不到..."
+
+msgid "If we wait until the elevator fills up with water, maybe we can float up and open it."
+msgstr "如果我们等水灌到电梯里，我们也许就能浮起来，然后把它打开。"
+
+msgid "That's smart!"
+msgstr "你真聪明！"
+
+msgctxt "events.Global.ch1_ending_1_11.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "So we just wait?"
+msgstr "所以我们等着就好了？"
+
+msgid "That's the idea."
+msgstr "是这样的。"
+
+msgid "Man... it's cold..."
+msgstr "天啊...好冷..."
+
+msgctxt "events.Global.ch1_ending_1_11.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Can you check the ceiling now?"
+msgstr "你可以去看看天花板了吗？"
+
+msgid "Some of the panels should come off."
+msgstr "某些板子应该可以弄下来。"
+
+msgid "Roger."
+msgstr "收到。"
+
+msgid "No dice."
+msgstr "没戏了。"
+
+msgid "...What?"
+msgstr "...什么？"
+
+msgid "They won't even budge."
+msgstr "它们连动都动不了。"
+
+msgid "...Are you sure?"
+msgstr "...你确定吗？"
+
+msgid "Yeah, I punched them as hard as I could."
+msgstr "嗯，我都尽全力往上打了。"
+
+msgctxt "events.Global.ch1_ending_1_11.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "So... what's next?"
+msgstr "所以...接下来呢？"
+
+msgid "...There's nothing next, is there..."
+msgstr "...应该没有接下来了..."
+
+msgid "At that point, my mind went blank."
+msgstr "此时，我的大脑一片空白。"
+
+msgid "The fear of actually dying suddenly took over me."
+msgstr "对死亡的真正恐惧猛地占据了我的内心。"
+
+msgid "And drowning... was probably the worst way to go."
+msgstr "而溺死...可能是最糟糕的结局。"
+
+msgid "What happened after that..."
+msgstr "对于之后发生了什么..."
+
+msgid "It's best forgotten."
+msgstr "最好还是忘掉吧。"
+
+msgid "Dead End 1-11 - Deep Sea Misadventure"
+msgstr "死亡结局 1-11 - 深海奇遇"
+
+msgid "Dead End 1-12 - What's At Stake"
+msgstr "死亡结局 1-12 - 利害攸关"
+
+msgid "Was that toy always there?"
+msgstr "这只玩具之前在那里吗？"
+
+msgid "What is it, a bear or something?"
+msgstr "那是什么，玩具熊吗？"
+
+msgid "It's a rabbit."
+msgstr "那是兔子吧。"
+
+msgid "...Or that's what I think it's trying to be."
+msgstr "...或者说，它试着要做着兔子的样子。"
+
+msgid "It's an abomination."
+msgstr "这是异形吧。"
+
+msgid "It's got no legs!"
+msgstr "它没有腿诶！"
+
+msgid "Hey...um..."
+msgstr "嘿...呃..."
+
+msgid "...And it's all mismatched!"
+msgstr "...而且这个还不配套！"
+
+msgid "I don't think you should touch-"
+msgstr "我觉得你不应该碰—"
+
+msgid "There you are! Finish cleanin' yet?"
+msgstr "你在这儿呀！清扫结束了吗？"
+
+msgid "The hell you got in your mouth?"
+msgstr "你嘴里的是啥玩意儿？"
+
+msgid "Spit it out!"
+msgstr "吐出来！"
+
+msgid "Don't make me say it twice."
+msgstr "别让我说第二次。"
+
+msgid "Good girl!"
+msgstr "好姑娘！"
+
+msgid "Ugh... the hell is this thing?"
+msgstr "呃...这是什么玩意儿？"
+
+msgid "Can't even tell anymore, you always make such a mess out of your food."
+msgstr "现在也看不出来是什么了，你总是把食物弄得一团糟。"
+
+msgid "I can't eat this crap, you can have it back."
+msgstr "我不能吃这些垃圾，还是还给你吧。"
+
+msgid "But hurry up, or I'm leaving without you!"
+msgstr "快点跟上哦，不然我就一个人走了！"
+
+msgid "Hell, this place still gives me the creeps."
+msgstr "天呐，这个地方还是让我毛骨悚然。"
+
+msgid "Dead End 1-13 - Stuffed Animal"
+msgstr "死亡结局 1-13 - 毛绒动物"
+
+msgid "I hope the reversal works..."
+msgstr "希望这个逆转仪式有用..."
+
+msgid "Please work... please work..."
+msgstr "一定要有用啊... 一定要有用啊..."
+
+msgid "Please work..."
+msgstr "一定要有用啊..."
+
+msgctxt "events.Global.ch1_ending_1_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Global.ch1_ending_1_2.dlg.lacie"
+msgid "...!?"
+msgstr "...！？"
+
+msgid "I feel like I'm hearing things..."
+msgstr "我感觉我听到什么东西了..."
+
+msgid "...! H-Hiro...?!"
+msgstr "...！希—是希罗吗...？！"
+
+msgid "Dead End 1-2 - Salt is for Cooking"
+msgstr "死亡结局 1-2 - 盐是做饭用的"
+
+msgid "I kept walking endlessly through the black space in my mind."
+msgstr "我在我脑内的黑色空间不停地行走。"
+
+msgid "I wasn't worried. I've been here dozens of times."
+msgstr "我并不担心。我已经来过这里很多次了。"
+
+msgid "This is just a dream. I always wake up."
+msgstr "这只是一场梦，我会醒来的。"
+
+msgctxt "events.Global.ch1_ending_1_3.dlg.lacie"
+msgid "So I kept walking."
+msgstr "于是我继续行走。"
+
+msgid "(It's been a while since I started walking.)"
+msgstr "（距离我开始行走已经有一会儿了。）"
+
+msgid "(I have no way of keeping track of time though...)"
+msgstr "（但我没办法记录时间...）"
+
+msgid "(But even if I don't manage to find the way back...)"
+msgstr "（即使我找不到回去的路...）"
+
+msgid "Something in the real world will wake me up, right?"
+msgstr "现实世界也会有东西把我叫醒的，对吧？"
+
+msgid "I looked down at my hands. But I couldn't see them. I couldn't see anything in any direction."
+msgstr "我低头看着自己的双手。但我看不见它们。我看不到任何方向的东西。"
+
+msgctxt "events.Global.ch1_ending_1_3.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(How long has it been?)"
+msgstr "（已经过去多久了？）"
+
+msgid "I've been walking for such a long time..."
+msgstr "已经走了很长一段时间了..."
+
+msgid "(I haven't gotten hungry or thirsty. I'm not sleepy and my legs aren't even tired.)"
+msgstr "（我既不饿也不渴。不仅不困，腿也不累。）"
+
+msgid "But the sensory deprivation... is really starting to get to me."
+msgstr "但是感官剥夺...真的开始让我受不了了。"
+
+msgid "But I wasn't going to get anywhere unless I moved."
+msgstr "但是，如果我不移动的话，我哪儿也去不了。"
+
+msgid "I decided to stop walking for a while."
+msgstr "我决定停下一会儿。"
+
+msgid "It just seemed pointless."
+msgstr "这似乎毫无意义。"
+
+msgid "It was like an invisible treadmill, as far as the eye could see."
+msgstr "这就像一个无形的跑步机。"
+
+msgid "Except that the eye couldn't see anything."
+msgstr "除了我的眼睛什么也看不到以外。"
+
+msgid "Ahh... will someone wake me up already?"
+msgstr "啊...谁能把我叫醒吗？"
+
+msgid "This is pointless..."
+msgstr "这没有意义..."
+
+msgid "But standing still was even more pointless."
+msgstr "但是站在原地更加没有意义。"
+
+msgid "...This... I can't deal with this anymore... I want to wake up!"
+msgstr "...这一切...我没办法再忍受了...我想醒来！"
+
+msgid "What kind of torture is this? There's no sounds, no colors, no smell...!"
+msgstr "这究竟是何种折磨？没有听觉，没有视觉，没有嗅觉...！"
+
+msgid "Even if I pinch myself... I can't feel pain either..."
+msgstr "就算我掐自己...我也感受不到疼痛..."
+
+msgid "I'm going"
+msgstr "我"
+
+msgid "${br:1}${sp:8}to go"
+msgstr "${br:1}${sp:8}要"
+
+msgid "${br:2}${sp:16}insane anyways"
+msgstr "${br:2}${sp:16}疯了"
+
+msgid "...so I kept walking."
+msgstr "...于是我继续行走。"
+
+msgid "HELP!!! HEEEELP!!!"
+msgstr "救命！！！救命！！！"
+
+msgid "SOMEONE GET ME OUT OF HERE! WAKE ME UP!!!"
+msgstr "来人把我救出去吧！把我叫醒吧！！！"
+
+msgid "I DON'T WANT TO STAY HERE FOREVER!!!"
+msgstr "我不想永远待在这里啊！！！"
+
+msgid "PLEASE! I'D RATHER DIE!!!"
+msgstr "求你了！我宁愿去死啊！！！"
+
+msgid "I can't... stand it anymore...!"
+msgstr "我真的...受不了了...！"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+msgstr "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+
+msgid "...An exit?"
+msgstr "...这是出口吗？"
+
+msgid "Crap, it woke up."
+msgstr "天呐，它醒了。"
+
+msgctxt "events.Global.ch1_ending_1_4.dlg.chara1"
+msgid "..."
+msgstr "..."
+
+msgid "Hurry, knock it out or something!"
+msgstr "快点，把它敲晕或者怎样！"
+
+msgid "(!!... Wh-what happened...)"
+msgstr "（！！...怎—怎么了...）"
+
+msgid "(My chest...)"
+msgstr "（我的胸...）"
+
+msgid "You idiot, you hit it too hard."
+msgstr "你个笨蛋，你打太重了。"
+
+msgctxt "events.Global.ch1_ending_1_4.dlg.chara1"
+msgid "....."
+msgstr "....."
+
+msgid "I know it's alive, but there's a hole in it now!"
+msgstr "我知道它还活着，但是它身上现在有个洞了！"
+
+msgid "(Hole...? What...?)"
+msgstr "（洞...？什么...？）"
+
+msgid "(I need to...)"
+msgstr "（我必须要...）"
+
+msgid "Scream"
+msgstr "尖叫"
+
+msgid "Do not"
+msgstr "什么也不做"
+
+msgid "H-he... *cough*"
+msgstr "嗬—嗬... *咳*"
+
+msgid "You try to scream, but your voice isn't coming out. Your lungs might be damaged."
+msgstr "你试图尖叫，但是你的声音出不来。你的肺可能受伤了。"
+
+msgid "(It hurts...)"
+msgstr "（好痛...）"
+
+msgid "If it dies before extraction, the boss will get mad at us."
+msgstr "要是它在提取之前死掉了，老板会对我们发飙的。"
+
+msgctxt "events.Global.ch1_ending_1_4.dlg.chara1"
+msgid ".........."
+msgstr ".........."
+
+msgid "You're right, he might just kill us off. Shit, crap."
+msgstr "你说得对，他可能会直接杀了咱们。真是操了。"
+
+msgid "Lets just bring it quickly."
+msgstr "我们快把它带走吧。"
+
+msgid "Fine, I'll do it."
+msgstr "好吧，我来吧。"
+
+msgid "Ugh... it's dripping all over. This is so annoying."
+msgstr "呃...滴得到处都是。真烦人啊。"
+
+msgid "Why is it bleeding? I thought we were clear on this."
+msgstr "为什么它在流血？我以为我们已经说得很清楚了。"
+
+msgid "I'm really sorry, it was awake. The driver must have messed up, and..."
+msgstr "我真的很抱歉，它醒了过来。肯定司机是搞砸了，还有..."
+
+msgid "The driver didn't make this hole."
+msgstr "这个洞可不是司机弄的。"
+
+msgid "Sorry, we didn't want it to run, so..."
+msgstr "抱歉，我们不想它跑走，所以..."
+
+msgid "Enough. With so few subjects as of late, you can't be snacking on them. I'll be reporting this to Glen."
+msgstr "够了。在现在这种实验体稀少的情况下，你可不能乱来。我要去给格伦打报告了。"
+
+msgid "Gaah... what luck..."
+msgstr "唉...真倒霉..."
+
+msgid "Really now? \"It's young so it's probably fine?\""
+msgstr "你真是这么想的？“因为它年轻，所以大概没问题？”"
+
+msgid "That's especially why you can't mess with it."
+msgstr "就是因为这个，你才不能乱弄它。"
+
+msgid "(Voices...)"
+msgstr "（有声音...）"
+
+msgctxt "events.Global.ch1_ending_1_4.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Turn it over."
+msgstr "翻过来。"
+
+msgid "At least the hands are fine."
+msgstr "至少手还是好的。"
+
+msgid "Hand me the tools."
+msgstr "把工具递给我。"
+
+msgid "Right away."
+msgstr "给。"
+
+msgid "Good... It's still breathing."
+msgstr "还好...它还在呼吸。"
+
+msgid "(Is that... a doctor...?)"
+msgstr "（这是...一名医生吗...？）"
+
+msgid "(What's... going on...?)"
+msgstr "（发生...什么事情了...？）"
+
+msgid "Let's get this over with."
+msgstr "让我们快点结束吧。"
+
+msgid "Dead End 1-4 - Carried Away"
+msgstr "死亡结局 1-4 - 得意忘形"
+
+msgctxt "events.Global.ch1_ending_1_5.dlg.lacie"
+msgid "Hm..."
+msgstr "唔..."
+
+msgid "Should I really eat this?"
+msgstr "我真的要吃这个吗？"
+
+msgid "I didn't get to have my flan earlier today..."
+msgstr "今天早些时候，我没能得到我的果馅饼..."
+
+msgid "I didn't get to have my macarons earlier today..."
+msgstr "今天早些时候，我没能得到我的马卡龙..."
+
+msgid "I didn't get to have my eclair earlier today..."
+msgstr "今天早些时候，我没能得到我的闪电泡芙..."
+
+msgid "And mom's leftovers were kind of stale..."
+msgstr "而且妈妈留的剩菜有点变质了..."
+
+msgid "So I'm not that hungry, but... maybe I should make sure to keep my energy up."
+msgstr "尽管我还不是很饿，但是...也许我应该补充一下能量。"
+
+msgctxt "events.Global.ch1_ending_1_5.dlg.lacie"
+msgid "Okay."
+msgstr "嗯。"
+
+msgid "As I thought, these are just classic potato chips."
+msgstr "就跟我想的一样，这些就只是普通的薯片。"
+
+msgid "That's good, I guess."
+msgstr "还不错吧，我感觉。"
+
+msgctxt "events.Global.ch1_ending_1_5.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Global.ch1_ending_1_5.dlg.lacie"
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "The list of ingredients is nonsense."
+msgstr "这个配料表没道理吧。"
+
+msgid "What did I just eat?"
+msgstr "我刚刚到底吃了什么啊？"
+
+msgid "\"Attention: Will promptly put you to sleep. May occasionally cause hallucinations and headache.\""
+msgstr "“注意：这会迅速让你入睡。偶发幻觉和头痛症状。”"
+
+msgid "(...This is bad!)"
+msgstr "（...糟了！）"
+
+msgid "(If I'm going to fall asleep, I need to find somewhere safe!)"
+msgstr "（如果我会睡着的话，我得找个安全的地方！）"
+
+msgid "(Uhm...)"
+msgstr "（嗯...）"
+
+msgid "(Oh no...)"
+msgstr "（哦不...）"
+
+msgid "(I feel really dizzy...)"
+msgstr "（我感觉头好晕...）"
+
+msgid "(This isn't good...)"
+msgstr "（这下糟了...）"
+
+msgid "That was the most peaceful sleep I had ever had."
+msgstr "这是我睡过的最安稳的一觉。"
+
+msgid "For the longest time, I've been having nightmares where I wake up in that dark place filled with bad memories."
+msgstr "很长一段时间以来，我都被噩梦所困扰，梦到自己在那个充满糟糕回忆的黑暗的地方醒来。"
+
+msgid "Even though I'm used to it by now, it gets really tiring."
+msgstr "虽然我已经习惯了，但还是会觉得很累。"
+
+msgid "I often wake up feeling like I didn't get much sleep at all."
+msgstr "我经常睡了跟没睡一样。"
+
+msgid "But this time, I didn't dream of anything."
+msgstr "但是这次，我什么也没梦到。"
+
+msgid "What's that sound?"
+msgstr "那是什么声音？"
+
+msgid "!?"
+msgstr "！？"
+
+msgid "It hurts..."
+msgstr "好疼..."
+
+msgid "What's happening!?"
+msgstr "发生什么了！？"
+
+msgid "(N-no...)"
+msgstr "（不—不...）"
+
+msgid "(Is this a hallucination?!)"
+msgstr "（这是幻觉吗？！）"
+
+msgid "*Pant...pant*"
+msgstr "*喘气...喘气*"
+
+msgid "(No... the pain... is too much...)"
+msgstr "（不...这也...太痛了...）"
+
+msgid "(This is... real...)"
+msgstr "（这是...真的...）"
+
+msgid "(I....can't...move...)"
+msgstr "（我...动不了了...）"
+
+msgid "H-h...."
+msgstr "救——救...."
+
+msgid "H-...H-hel..p...."
+msgstr "救—...救—救命......"
+
+msgid "*Cough*"
+msgstr "*咳*"
+
+msgid "(I can't... breathe...)"
+msgstr "（我不能...呼吸了...）"
+
+msgid "(It hurts.....)"
+msgstr "（好痛......）"
+
+msgid "(Please.....)"
+msgstr "（求你了......）"
+
+msgid "(I don't..... want... to be awake...)"
+msgstr "（我.....不想...醒来...）"
+
+msgid "(It..... hurts.....)"
+msgstr "（好.....痛.....）"
+
+msgid "Dead End 1-5 - Become Snack"
+msgstr "死亡结局 1-5 - 成为零食"
+
+msgid "Dead End 1-6 - Ground Swallow Me Up"
+msgstr "死亡结局 1-6 - 大地将我吞没"
+
+msgid "It's..."
+msgstr "这..."
+
+msgid "...perfection."
+msgstr "...真是完美。"
+
+msgid "So avant-garde."
+msgstr "太前卫了。"
+
+msgid "Truly timeless."
+msgstr "真正的永不过时。"
+
+msgid "...Should I reopen the gallery after all?"
+msgstr "...我是不是应该重新开放画廊了？"
+
+msgid "Dead End 1-7 - Mortal Immortalized"
+msgstr "死亡结局 1-7 - 永恒不朽"
+
+msgid "Dead End 1-8 - Part of Your World"
+msgstr "死亡结局 1-8 - 你世界的一部分"
+
+msgid "W-what?"
+msgstr "什——什么？"
+
+msgid "...How could this happen? It wasn't that long..."
+msgstr "...怎么会这样？不久之前还..."
+
+msgid "Is this... is this really him?"
+msgstr "这...这真的是他吗？"
+
+msgid "Maybe I should get out of here, it's probably dangerous."
+msgstr "也许我应该赶快离开这里，这里可能很危险。"
+
+msgid "What's that?"
+msgstr "那是什么？"
+
+msgid "Th-this is...!"
+msgstr "这—这是...！"
+
+msgid "Dead End 1-9 - Doubt"
+msgstr "死亡结局 1-9 - 犹疑"
+
+msgid "I feel like I didn't accomplish anything..."
+msgstr "我感觉自己还什么也没做成..."
+
+msgid "I hope that this door actually takes me home, at the very least."
+msgstr "至少，我希望这扇门真的能带我回家。"
+
+msgid "As I was crossing the door, I couldn't help but feel like something was wrong."
+msgstr "当我穿过这扇门时，我不禁觉得有些不对劲。"
+
+msgid "Am I making the right choice?"
+msgstr "我做出的是正确的选择吗？"
+
+msgctxt "events.Global.ch1_ending_fake_exit.dlg.narrator"
+msgid "No..."
+msgstr "不..."
+
+msgid "It's not time yet."
+msgstr "还不是时候。"
+
+msgid "This place... again."
+msgstr "又是...这个地方。"
+
+msgid "I guess I really did fall asleep...?"
+msgstr "我想，我已经睡着了...？"
+
+msgid "(Sometimes I wake up here after falling asleep.)"
+msgstr "（我睡着之后，有时会在这个地方醒来。）"
+
+msgid "(I have this dream a lot...)"
+msgstr "（我做了很多次这个梦...）"
+
+msgid "(...But it seems I can't leave until I see it through to the end.)"
+msgstr "（...但是，看来在我走到尽头之前，是无法离开的。）"
+
+msgid "Wha- Again?"
+msgstr "什么—又来？"
+
+msgid "This is ridiculous, I was just here a few minutes ago."
+msgstr "太荒唐了，几分钟前我才来过一次。"
+
+msgid "I need to get this over with quickly, so I can get off the bus."
+msgstr "我需要赶紧过完这场梦，这样我就能抓紧下车了。"
+
+msgid "...Huh? Did I pass out?"
+msgstr "...嗯？我昏过去了吗？"
+
+msgid "That's not good..."
+msgstr "这不太好..."
+
+msgid "My head hurts..."
+msgstr "我的头好疼..."
+
+msgid "Wasn't I going down some stairs? I hope I didn't fall and break my neck."
+msgstr "刚才我不是在下楼梯吗？我希望我没摔到我的脖子。"
+
+msgid "That would be a terrible ending..."
+msgstr "那样就太恐怖了..."
+
+msgid "Well... I'm really screwed now."
+msgstr "好吧...现在我真的完蛋了。"
+
+msgid "Even if I wake up from here... what can I even do?"
+msgstr "就算我在这里醒过来...我还能做什么呢？"
+
+msgid "(Let's see...)"
+msgstr "（让我想想...）"
+
+msgid "(A monster just put me in a cage and will probably eat me... or something.)"
+msgstr "（一个怪物刚刚把我抓到了一个笼子里去，而且可能会吃了我...之类的。）"
+
+msgid "(Even so, it's not like I can stay here. This place is useless.)"
+msgstr "（即便如此，我也不能待在这里。这个地方完全没用。）"
+
+msgid "(Let's just find the exit and see what happens.)"
+msgstr "（让我们去找出口，看看会发生什么吧。）"
+
+msgid "I- I don't feel so good..."
+msgstr "我—我感觉不太好..."
+
+msgid "...What happened?"
+msgstr "...发生什么事了？"
+
+msgid "Ah... looks like I got the knife somehow."
+msgstr "啊...看起来我不知怎么地拿到刀了。"
+
+msgid "I finished setting up the ritual."
+msgstr "我已经把仪式布置好了。"
+
+msgctxt "events.Global.ch1_event_brotherbeforesleep.dlg.hiro"
+msgid "I see."
+msgstr "好的。"
+
+msgctxt "events.Global.ch1_event_brotherbeforesleep.dlg.hiro"
+msgid "Um..."
+msgstr "呃..."
+
+msgctxt "events.Global.ch1_event_brotherbeforesleep.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "Is there really nothing I can do to make you change your mind about doing this ritual?"
+msgstr "难道我真的没有办法，改变你去做这个仪式的想法了吗？"
+
+msgid "Hiro..."
+msgstr "希罗..."
+
+msgid "I know! I know. I know I said I'd stop but..."
+msgstr "我知道！我知道。我知道我说过我不会再讲了，但是..."
+
+msgctxt "events.Global.ch1_event_brotherbeforesleep.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'm just worried."
+msgstr "我就是很担心。"
+
+msgid "I'll be fine, and..."
+msgstr "我会没事的，还有..."
+
+msgid "...I'll see you tomorrow."
+msgstr "...我们明天还会再见的。"
+
+msgctxt "events.Global.ch1_event_brotherbeforesleep.dlg.hiro"
+msgid "..."
+msgstr "..."
+
+msgid "...Alright."
+msgstr "...好吧。"
+
+msgid "So... I wanted to ask again."
+msgstr "所以...我想再问问。"
+
+msgid "Just in case, would you mind not being in the house tonight?"
+msgstr "以防万一，你介意今晚不在家里待着吗？"
+
+msgid "Understood."
+msgstr "明白了。"
+
+msgid "I don't think anything bad would happen, but just in case?"
+msgstr "虽然我觉得不会有坏事发生，但是只是以防万一？"
+
+msgid "Got it. Don't worry, I made some plans so I'll be out late tonight."
+msgstr "知道了。别担心，我已经做了一些计划，所以我今晚会出去到很晚。"
+
+msgid "Okay. Just don't be here before 12:30."
+msgstr "好。12:30之前都别进来哦。"
+
+msgid "Don't worry so much! 12:31, on the dot."
+msgstr "别那么担心嘛！12:31，准时到。"
+
+msgid "Really though. Take care of yourself, make sure you get back in one piece."
+msgstr "不过说真的。要保护好你自己，回来的时候一定要是完完整整的啊。"
+
+msgid "I mean it, be safe."
+msgstr "我的意思是，注意安全。"
+
+msgctxt "events.Global.ch1_event_brotherbeforesleep.dlg.lacie"
+msgid "Okay."
+msgstr "好的。"
+
+msgid "(Ah... it figures. I can't say goodbye to him properly after that. Oh well...)"
+msgstr "（啊...这下好了。我没办法好好跟他说再见了。哎...）"
+
+msgid "(Why did I have to say I'll see him tomorrow...)"
+msgstr "（为什么我要跟他说，我们明天还会再见的...）"
+
+msgid "(It's Hiro.)"
+msgstr "（是希罗。）"
+
+msgid "(I wonder what he's reading.)"
+msgstr "（我想知道他在看什么。）"
+
+msgid "(I probably shouldn't bother him...)"
+msgstr "（我最好不要打扰到他...）"
+
+msgid "(He's always so nice to me, but I'm sure he needs a break sometimes...)"
+msgstr "（他一直对我很好，但是我确信他有时候也需要好好休息...）"
+
+msgctxt "events.Global.ch1_event_brotherbench.dlg.hiro"
+msgid "..."
+msgstr "..."
+
+msgid "I have a stalker."
+msgstr "有人在偷窥哦。"
+
+msgid "Ah, no, I was just passing through."
+msgstr "啊，不是的，我只是路过哦。"
+
+msgid "Sit, sit!"
+msgstr "来，坐会儿吧！"
+
+msgid "Um... okay."
+msgstr "呣...好吧。"
+
+msgid "Listen to this:"
+msgstr "来听听这个："
+
+msgid ""
+"One for sorrow,\n"
+"Two for mirth"
+msgstr ""
+"一只代表悲伤，\n"
+"两只代表喜悦"
+
+msgid ""
+"Three for a funeral,\n"
+"Four for birth"
+msgstr ""
+"三只代表葬礼，\n"
+"四只代表新生"
+
+msgid ""
+"Five for heaven,\n"
+"Six for hell"
+msgstr ""
+"五只代表天堂，\n"
+"六只代表地狱"
+
+msgid "Seven for the devil, his own self."
+msgstr "七只代表恶魔，他自己本身。"
+
+msgid "Spooky huh?"
+msgstr "吓人吧？"
+
+msgid "Do you know what it is?"
+msgstr "你知道这是什么吗？"
+
+msgid "A poem...?"
+msgstr "一首诗...？"
+
+msgid "Yeah, about counting magpies."
+msgstr "对，是关于数喜鹊的。"
+
+msgid "They're kind of like crows, but cuter."
+msgstr "它们有点像乌鸦，但是更可爱一点。"
+
+msgctxt "events.Global.ch1_event_brotherbench.dlg.lacie"
+msgid "Huh."
+msgstr "啊。"
+
+msgid "Supposedly the number of magpies that you see determines your fate."
+msgstr "据说看到的喜鹊的数量决定了你的命运。"
+
+msgid "But there's so many variations to the rhyme..."
+msgstr "但是这首童谣的版本实在太多了..."
+
+msgid "How can you properly predict your fate?"
+msgstr "你要怎样才能准确预测你的命运呢？"
+
+msgid "I'm not sure I believe in fate."
+msgstr "我不确定我是否相信命运。"
+
+msgid "It can be nice to believe in something."
+msgstr "信点什么也挺好的。"
+
+msgid "Hmm... I believe in..."
+msgstr "呣...那我相信..."
+
+msgctxt "events.Global.ch1_event_brotherbench.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Flan."
+msgstr "果馅饼。"
+
+msgid "Macarons."
+msgstr "马卡龙。"
+
+msgid "Chocolate eclairs."
+msgstr "巧克力味闪电泡芙。"
+
+msgid "I thought you would say something like that."
+msgstr "我就知道你会说这种东西。"
+
+msgid "I believe in..."
+msgstr "而我相信..."
+
+msgid "...Lacie!"
+msgstr "...莱西！"
+
+msgid "I believe you can achieve your dreams!"
+msgstr "我相信你能实现你的梦想！"
+
+msgid "Then I'll try to believe, too."
+msgstr "那我也试着相信一下吧。"
+
+msgid "Don't hesitate to talk to me if you want."
+msgstr "如果想和我谈话的话，不要犹豫哦。"
+
+msgid "You never bother me, okay?"
+msgstr "你还从来没烦到过我，对吧？"
+
+msgctxt "events.Global.ch1_event_brotherbench.dlg.lacie"
+msgid "Okay."
+msgstr "好的。"
+
+msgid "(Hiro... you're too cheesy.)"
+msgstr "（希罗...你也太肉麻了。）"
+
+msgid "(...but thanks.)"
+msgstr "（...但是谢谢了。）"
+
+msgid "What is that book anyway?"
+msgstr "那本书里有什么？"
+
+msgid "Legends and nursery rhymes, that sort of thing."
+msgstr "神话传说和儿歌童谣之类的东西。"
+
+msgid "I got it at the book store down the street."
+msgstr "我从路边的书店买到的。"
+
+msgid "Is it any good?"
+msgstr "里面有好东西吗？"
+
+msgid "Sure! You might enjoy them. They're not all creepy."
+msgstr "当然啦！你或许会喜欢它们。它们不全是恐怖的。"
+
+msgid "There's a legend that says the heart of a witch can grant any wish!"
+msgstr "这里有一个神话说，女巫的心脏可以实现任何愿望！"
+
+msgid "Hmm... Sounds like there must be a catch."
+msgstr "呣...听起来肯定会有一场追逐啊。"
+
+msgid "Maybe. I haven't finished it yet."
+msgstr "或许吧。我还没看完呢。"
+
+msgid "You don't usually read fiction."
+msgstr "你平时不怎么看小说吧。"
+
+msgid "Ahh guilty!"
+msgstr "啊，真是罪过啊！"
+
+msgid "I'm too impatient with long stories. I like skipping to the end to see what happens."
+msgstr "我对长篇故事太没有耐心了。我喜欢跳到结尾看看到底发生了什么。"
+
+msgid "Doesn't that spoil the fun?"
+msgstr "这样不就把乐趣毁掉了吗？"
+
+msgid "Well Lace, you might like solving puzzles and mysteries before they get revealed..."
+msgstr "好吧，小莱，你可能会喜欢在谜题揭晓之前解开它们..."
+
+msgid "But I like it when the answers are served neatly on a platter."
+msgstr "但我喜欢答案整整齐齐地摆在盘子里。"
+
+msgid "With extra cheese."
+msgstr "再加点额外的奶酪。"
+
+msgid "Yes, I'm aware of the cheese."
+msgstr "嗯，我看出来你的奶酪（浮夸）了。"
+
+msgid "How's the ritual going?"
+msgstr "仪式做的怎么样了？"
+
+msgid "It's... going."
+msgstr "就...正在推进。"
+
+msgid "Are you nervous? Do you think it'll work?"
+msgstr "你紧张吗？你觉得那会有用吗？"
+
+msgid "Kind of..."
+msgstr "可能吧..."
+
+msgid "If it worked... it wouldn't be the strangest thing that's happened to me."
+msgstr "如果这成功了...这就会是我身上发生过的最奇怪的事了。"
+
+msgid "You're right about that..."
+msgstr "你说得没错..."
+
+msgid "Oh hey, remember mother left some food in the fridge."
+msgstr "哦，嘿，记得母亲给你留了点吃的在冰箱里。"
+
+msgid "Don't eat it cold though, you always eat things cold!"
+msgstr "不要冷的直接吃，你一直都直接吃冷的！"
+
+msgid "See, that's why you're so small. You don't get proper nutrition!"
+msgstr "你看，这就是为什么你这么小。你得不到足够的营养！"
+
+msgid "First, I already ate it."
+msgstr "首先，我已经吃了。"
+
+msgid "Second, I am not small."
+msgstr "其次，我不小。"
+
+msgid "I am not small."
+msgstr "我不小。"
+
+msgid "You're TINY!"
+msgstr "你是超小！"
+
+msgid "Be safe out there Lace."
+msgstr "在外面要注意安全，小莱。"
+
+msgid "Always put your safety first before anything else."
+msgstr "始终把安全放在第一位。"
+
+msgid "Mhmm, you've said this 30 times already."
+msgstr "呃，你已经说了有30遍了吧。"
+
+msgid "Only 30?"
+msgstr "只有30遍吗？"
+
+msgid "Hiro seems focused on his book."
+msgstr "希罗似乎很专注于他的书。"
+
+msgid "(You can't seem to say goodbye to him...)"
+msgstr "（你看起来没法和他说再见了...）"
+
+msgid "By the way..."
+msgstr "顺带一提..."
+
+msgid "I think I'll go straight to my room..."
+msgstr "我觉得我应该直接去房间了..."
+
+msgid "Lacie!!!"
+msgstr "莱西！！！"
+
+msgid "Hiro...!"
+msgstr "希罗...！"
+
+msgid "You scared me..."
+msgstr "你吓到我了..."
+
+msgctxt "events.Global.ch1_event_brothertalk.dlg.hiro"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Global.ch1_event_brothertalk.dlg.lacie"
+msgid "What?"
+msgstr "怎么了？"
+
+msgid "Did you go out?"
+msgstr "你出去了？"
+
+msgid "I did... Just for a little bit."
+msgstr "嗯，我出去了...一小会儿。"
+
+msgid "Seriously?"
+msgstr "认真的吗？"
+
+msgid "Yeah, I grabbed-"
+msgstr "对，我买了—"
+
+msgid "Woooaah you went OUTSIDE!?"
+msgstr "喔喔喔哇，你出去外面了！？"
+
+msgid "Into the world??"
+msgstr "融入到世界里了？？"
+
+msgid "That's incredible! I'm so proud!"
+msgstr "不可思议！我真为你骄傲！"
+
+msgid "A week ago you weren't even opening the front door!"
+msgstr "一周之前，你连前门都不会打开的！"
+
+msgid "She finally went outside! The tides are shifting! History is being made!"
+msgstr "她终于出去外面了！这是潮汐的更替！这是历史的创造！"
+
+msgid "Next you'll be going to the market, then back to school..."
+msgstr "接下来你就会去到集市上，然后回到学校里..."
+
+msgid "You'll make so many friends, it's gonna be amazing!!"
+msgstr "你会交很多朋友，一定会变得很棒的！！"
+
+msgid "I really... think you're exaggerating..."
+msgstr "我真的觉得...你太夸张了..."
+
+msgid "No waaay! You've been cooped up for so long!"
+msgstr "没有啦！你已经宅了这么久了！"
+
+msgid "It hasn't been that long..."
+msgstr "还没有那么久啦..."
+
+msgid "Now that you've mastered that, we can go for an ice cream."
+msgstr "既然你已经知道怎么出门了，那我们可以就去买冰淇淋了。"
+
+msgid "Together!"
+msgstr "一起去吧！"
+
+msgid "No way... It didn't actually go that well today..."
+msgstr "没门...其实我今天过的不是很好..."
+
+msgid "I messed up my order... and... I left really fast."
+msgstr "我把我的订单搞砸了...还有...我很快就走了。"
+
+msgid "Then I'll order for you!"
+msgstr "那我给你下单！"
+
+msgid "I'll do it until you can order on your own. It will get better!"
+msgstr "在你自己会下单前，我帮你来。会好起来的！"
+
+msgid "It won't... unless I fix the root cause of the problem."
+msgstr "不会的...除非我能解决这个问题的根本原因。"
+
+msgid "You mean... you're still doing the ritual?"
+msgstr "你是说...你还在做仪式吗？"
+
+msgctxt "events.Global.ch1_event_brothertalk.dlg.lacie"
+msgid "Yes."
+msgstr "是的。"
+
+msgid "I see..."
+msgstr "嗯..."
+
+msgid "Well, I won't object anymore, just be wise."
+msgstr "好吧，我就不掺和了，你就放聪明点吧。"
+
+msgid "I'll be outside if you need me."
+msgstr "需要我的话，就来外面吧。"
+
+msgid "In any case... this ritual is a bust. I need to clean up now."
+msgstr "总之...仪式已经搞砸了。我现在要去清理了。"
+
+msgid "The consequences for leaving things mid-ritual can be pretty dire, or so I read."
+msgstr "我读到说，在仪式中途离开的后果可能很严重。"
+
+msgid "I left the instructions to undo the ritual at the PC."
+msgstr "我把撤销教程留在电脑上了。"
+
+msgid "This should be far enough... It doesn't look like they will chase me."
+msgstr "这应该已经够远了...它看起来不像会追我的样子。"
+
+msgid "This... isn't the kind of place I expected."
+msgstr "这...不是我想的那种地方。"
+
+msgid "Another stop?"
+msgstr "又有一个站点？"
+
+msgctxt "events.Global.ch1_event_busgetoff.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I made it to a forest... now what...?"
+msgstr "我到了一个森林里...现在该怎么办...？"
+
+msgid "I think... I messed up. The bus wasn't there..."
+msgstr "我觉得...我搞砸了。巴士不在这里..."
+
+msgid "Did I take too long? Or was it the phone call?"
+msgstr "是我花了太长时间吗？还是因为那通电话的原因？"
+
+msgid "I guess I'll try again, some other day."
+msgstr "我想我还是改天再试吧。"
+
+msgid "(You hear the bus take off.)"
+msgstr "（你听到巴士开走的声音。）"
+
+msgid "I couldn't do it."
+msgstr "我做不到。"
+
+msgid "The bus was right there but..."
+msgstr "巴士已经到这了，但是..."
+
+msgid "Getting on a strange bus that takes me to my death isn't as easy as it seems."
+msgstr "乘上一辆将我带向死亡的诡异巴士，并没有想象中的那么容易。"
+
+msgid "I'll... prepare myself mentally and try again, some other day."
+msgstr "我会...做好思想准备工作的，改日再试吧。"
+
+msgid "I'll be back soon... maybe."
+msgstr "我很快就会回来的...大概。"
+
+msgid "(Once I get in... there will be no turning back.)"
+msgstr "（一旦我上去...就没有回头的办法了。）"
+
+msgid "I'll just... drop the rune into this box?"
+msgstr "我只要...把符文石丢在这个盒子里就可以？"
+
+msgid "Looks like there's no one here..."
+msgstr "看起来这里没有其他人..."
+
+msgid "This spot is good."
+msgstr "这个位置不错。"
+
+msgid "And so, we're off... to who knows where."
+msgstr "所以，我们出发了...前往谁也不清楚的地方。"
+
+msgid "What would my parents think right now?"
+msgstr "我的父母现在会怎么想？"
+
+msgid "Their daughter is on a bus headed straight towards certain death."
+msgstr "他们的女儿一头栽进了死亡的直通车上。"
+
+msgctxt "events.Global.ch1_event_busride.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It's hard to say this but... they would be happier without me."
+msgstr "虽然很难说出口，但是...他们没有我的话，会更幸福吧。"
+
+msgid "...Even if I die on this trip, life will be better for them... and Hiro."
+msgstr "...即使我在这场旅途中死去，他们的生活会变得更好...希罗也是。"
+
+msgid "Doing this ritual was the right choice."
+msgstr "做这场仪式是正确的选择。"
+
+msgid "Whether I make it or fail... whether the Lacie everyone knows disappears or a different Lacie makes it home..."
+msgstr "不管我成功还是失败...不管是大家熟知的莱西消失了，还是一个不一样的莱西回家了..."
+
+msgid "...everyone wins."
+msgstr "...每个人都是赢家。"
+
+msgid "In my mind, I went through everything I knew about this ritual."
+msgstr "我在脑海中回想了我所知的，关于这个仪式的一切。"
+
+msgid "Then, I remembered the words from a forum post."
+msgstr "于是，我想起来论坛贴子里的一段话。"
+
+msgid "\"You must get off the bus before the end of the line.\""
+msgstr "“你必须得在巴士到达终点站之前下来。”"
+
+msgid "The letter said that the bus would simply take me to my destination - but that person was very insistent on not letting that happen."
+msgstr "信上说，巴士会直接把我送到目的地——但那个人却坚持不让这件事发生。"
+
+msgid "\"Seriously, you have to get off no matter what!\""
+msgstr "“很认真的说，无法发生什么你都得下来！”"
+
+msgid "The user that posted it has a big reputation in that forum, so their words probably had some merit to them."
+msgstr "发帖的用户在那个论坛名气很大，所以他的话可能有一定的道理。"
+
+msgid "But... won't I be breaking the rules if I do that...?"
+msgstr "但是...这样不就打破仪式的规则了吗...？"
+
+msgid "Also, what if the bus never stops? I can't just jump out the window, right?"
+msgstr "还有，万一巴士一直不停呢？我总不能从窗户跳下去，对吧？"
+
+msgid "As I played with my thoughts, my consciousness started to fade away, and soon I was fully asleep."
+msgstr "当我不停思考着的时候，我的意识逐渐开始消失，很快我就完全进入了梦乡。"
+
+msgid "How did it get here so fast?"
+msgstr "它怎么来的这么快？"
+
+msgid "The bus is not there... Did it already leave?"
+msgstr "巴士不在那里...它是已经离开了吗？"
+
+msgid "Or did it never come?"
+msgstr "还是说根本没来呢？"
+
+msgid "Does this mean this ritual is no good either?"
+msgstr "这是否意味着这个仪式没用呢？"
+
+msgid "...This is bad..."
+msgstr "...太糟糕了..."
+
+msgid "E-eh...? The bus is starting to move...!"
+msgstr "呃—呃...？巴士开始动了...！"
+
+msgid "I should have gotten off..."
+msgstr "我本来应该下去的..."
+
+msgid "With no way to stop the bus, I just sat back down in my spot."
+msgstr "已经没办法叫停巴士了，我还是坐回我的座位吧。"
+
+msgid "After a while, I fell back asleep."
+msgstr "过了一会儿，我回到了睡眠之中。"
+
+msgid "Was there something about this bus that made people sleepy?"
+msgstr "这辆巴士是不是有什么问题？能让人昏昏欲睡的？"
+
+msgid "A few minutes later, I woke up at the black place again..."
+msgstr "几分钟后，我再次从黑色的空间醒来..."
+
+msgid "So I went through the whole thing one more time..."
+msgstr "所以我又重新经历了这一切..."
+
+msgid "And through the closet at last."
+msgstr "在结束时进到衣柜当中。"
+
+msgid "Finally, I was ready to wake up again."
+msgstr "最后，我终于准备好再次醒来。"
+
+msgid "There's no one here anymore..."
+msgstr "这里又没人了..."
+
+msgctxt "events.Global.ch1_event_buswakeup.dlg.lacie"
+msgid "...!"
+msgstr "...！"
+
+msgid "(What is this thing...?)"
+msgstr "（这是什么...？）"
+
+msgid "(Wait... the bus stopped... I need to get off!)"
+msgstr "（等等...巴士停了...我要下车！）"
+
+msgid "(There's no point in changing right now.)"
+msgstr "（现在换衣服没有意义。）"
+
+msgid "Ah... it feels good to change into lighter clothes."
+msgstr "啊...换上亮色的衣服感觉真好啊。"
+
+msgid "Sadly, I can't stay like this. It makes me feel lazy and I have things to do."
+msgstr "悲伤的是，我不能一直穿成这样。这让我感觉懒懒的，我还有事情要做呢。"
+
+msgid "A dead primal."
+msgstr "一只死掉的原初恶魔。"
+
+msgid "(It doesn't make sense to go back this way.)"
+msgstr "（从这里回去是没有意义的。）"
+
+msgid "(Let's go find that door instead.)"
+msgstr "（我们去找那扇门吧。）"
+
+msgid "Not this way."
+msgstr "不是这边。"
+
+msgctxt "events.Global.ch1_event_facility_dungeon_sai.dlg.sai"
+msgid "Wait."
+msgstr "慢着。"
+
+msgid "These two doors only open from the outside, so..."
+msgstr "这两扇门只能从外面打开，所以..."
+
+msgid "I'll stay here and hold it open for you."
+msgstr "我会待着这里为你把门开着。"
+
+msgctxt "events.Global.ch1_event_facility_dungeon_sai.dlg.lacie"
+msgid "Alright."
+msgstr "好吧。"
+
+msgid "You're not gonna try to leave me again, are you?"
+msgstr "你不会再次尝试把我丢下的，对吧？"
+
+msgid "No... I give up on that."
+msgstr "不...我已经放弃这么做了。"
+
+msgid "Great!"
+msgstr "太好了！"
+
+msgid "(...Where am I?)"
+msgstr "（...我在哪？）"
+
+msgid "(Is this a prison cell?)"
+msgstr "（这是监狱牢房吗？）"
+
+msgid "(I need to find a way out.)"
+msgstr "（我要找到出去的路。）"
+
+msgid "Uuu... I was really hoping this pipe would lead me outside..."
+msgstr "唔...真希望这条管道能把我引向外界..."
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.aoi"
+msgid "...?"
+msgstr "...？"
+
+msgid "What's with all these fish...?"
+msgstr "这些鱼是怎么回事...？"
+
+msgid "And... where is this?"
+msgstr "还有...这是哪里？"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "And also... what is this? It's not like the other holes we jumped into..."
+msgstr "以及还有...这是什么？它不像我们跳进去的其他的洞......"
+
+msgid "Is this... another fairy ring? Inside the fairy ring?"
+msgstr "这是...另一个仙女环吗？在仙女环内部？"
+
+msgid "Something's not right... Why does it look like a mouth?"
+msgstr "事情好像不对...为什么它看起来有张嘴？"
+
+msgid "A mouth...? Wait a second..."
+msgstr "有张嘴...？等等..."
+
+msgid "Do I know something about this?"
+msgstr "我是不是知道些什么？"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "总之，你知道仙女环是怎么逐渐扩大并覆盖更多区域的吗？"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "我听说它们一旦吃饱了，就会张开大嘴，吞下地表的一切！"
+
+msgid "Once they eat enough... they open up..."
+msgstr "一旦它们吃够了...它们就会开启..."
+
+msgid "I think I heard that if they eat too much, they kinda open up to swallow whatever's above..."
+msgstr "我听说它们如果吃得太多的话，它们就会张嘴吞掉上面的一切..."
+
+msgid "So what if I just... feed it more...?"
+msgstr "所以如果我...给它多喂一点会怎样...？"
+
+msgid "Okay, it's decided!"
+msgstr "好的，我决定了！"
+
+msgid "Let's go Aoi, Lacie's counting on you!"
+msgstr "小青，行动起来，莱西就靠你了！"
+
+msgid "I should start with those, probably."
+msgstr "我应该先用这些东西，大概。"
+
+msgid "That's all the fish..."
+msgstr "那就是所有的鱼了..."
+
+msgid "What else... am I carrying anything that I can feed to it?"
+msgstr "还有别的吗...我随身带着的东西可以喂给它吗？"
+
+msgid "My ${item:ch1.forest_harmless_snack_2}..."
+msgstr "我的${item:ch1.forest_harmless_snack_2}..."
+
+msgid "It's okay, it was poisonous anyway."
+msgstr "好吧，虽然它有毒。"
+
+msgid "The ${item:ch1.aoi_sewingkit}..."
+msgstr "${item:ch1.aoi_sewingkit}..."
+
+msgid "I stole it from work..."
+msgstr "我从工作的地方偷来的..."
+
+msgid "Wendy will kill me."
+msgstr "温迪会杀了我的。"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.aoi"
+msgid "...."
+msgstr "...."
+
+msgid "Wendy will kill me... or I'll die here... being digested."
+msgstr "温迪会杀了我的...不然的话，我就会在这里...被消化而死。"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.aoi"
+msgid "Okay."
+msgstr "好吧。"
+
+msgid "A ${item:ch1.aoi_cabbage}."
+msgstr "一个${item:ch1.aoi_cabbage}。"
+
+msgid "I have no way of chopping it open anyway."
+msgstr "反正我也没办法把它劈开。"
+
+msgid "A ${item:ch1.forest_fish}."
+msgstr "一条${item:ch1.forest_fish}。"
+
+msgid "It cost me my whole allowance..."
+msgstr "我已经倾家荡产了..."
+
+msgid "Goodbye, stinky fish."
+msgstr "再见了，臭鱼。"
+
+msgid "I bet you tasted nice."
+msgstr "我赌你一定很好吃。"
+
+msgid "...That's all I have..."
+msgstr "...这是我所有的东西了..."
+
+msgid "...!!"
+msgstr "...！！"
+
+msgid "Did... did I do it!?"
+msgstr "成...成功了吗！？"
+
+msgid "Wait, this is really dangerous!!"
+msgstr "等一下，很危险！！"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "What's happening..?"
+msgstr "怎么了..？"
+
+msgid "Everything started falling apart."
+msgstr "一切都开始分崩离析。"
+
+msgid "I managed to take cover in the bathtub for a while until the earthquake stopped."
+msgstr "我试图在浴缸里躲着，直到这场地震结束。"
+
+msgid "When I opened my eyes, the walls and ceiling had all fallen apart."
+msgstr "当我睁开眼时，墙壁和天花板都已经坍塌。"
+
+msgid "I could only see rubble and tree roots above me, and... a light."
+msgstr "我只能看到上方的瓦砾和树根，还有...一道光。"
+
+msgid "What in god's name..."
+msgstr "以神之名..."
+
+msgid "WHAT THE HELL!?"
+msgstr "什么鬼啊！？"
+
+msgid "GAH!"
+msgstr "呀！"
+
+msgid "Aoi!"
+msgstr "小青！"
+
+msgid "LACIE!"
+msgstr "莱西！"
+
+msgid "THE TREE..!!"
+msgstr "这棵树..！！"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.aoi"
+msgid "...!"
+msgstr "...！"
+
+msgid "What the hell did you do?!"
+msgstr "你他妈干了什么？！"
+
+msgid "...Uhh..!"
+msgstr "...呃...！"
+
+msgid "...Um...!"
+msgstr "...唔...！"
+
+msgid "We were trapped..."
+msgstr "我们被困..."
+
+msgid "We were trapped inside the fairy ring!"
+msgstr "我们被困在了仙女环里！"
+
+msgid "It was the only way to get out!"
+msgstr "这是出来的唯一方法了！"
+
+msgid "THE FAIRY RING HAS A SIGNPOST."
+msgstr "仙女环那里有个牌子。"
+
+msgid "IT LITERALLY SAYS \"DO NOT STEP INSIDE\" or something."
+msgstr "上面清清楚楚地写着“不要踏进去”之类的东西。"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.milion"
+msgid "Alba."
+msgstr "阿尔巴。"
+
+msgid "I know.. I..."
+msgstr "我知道..我..."
+
+msgid "But..!"
+msgstr "但是..！"
+
+msgid "Your fish is what saved us!!"
+msgstr "你的鱼救了我们！！"
+
+msgid "My... fish?"
+msgstr "我的...鱼？"
+
+msgid "Yeah! There was another ring..."
+msgstr "对！那有另一个仙女环..."
+
+msgid "So I threw the fish inside, and...!"
+msgstr "所以我把所有鱼都扔进去了，然后...！"
+
+msgid "You trashed... my fish?"
+msgstr "你把我的鱼都...浪费了？"
+
+msgid "...I'm sorry! It was only one!"
+msgstr "...我很抱歉！这是唯一的办法了！"
+
+msgid "And like... a bunch more... that I found on the floor down there."
+msgstr "那有...一大堆...我从下面那里的地板上找到的。"
+
+msgid "...But those were probably someone else's fish..."
+msgstr "...但这些可能是别人的鱼..."
+
+msgid "...Actually..."
+msgstr "...其实..."
+
+msgid "Nothing, never mind."
+msgstr "没啥，别在意。"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.alba"
+msgid "..."
+msgstr "..."
+
+msgid "Milion, I know."
+msgstr "米利昂，我知道。"
+
+msgid "I'm fine."
+msgstr "我还好。"
+
+msgid "And who the hell are you anyway?"
+msgstr "但是你他妈又是什么人？"
+
+msgid "You smell like a human."
+msgstr "你闻起来像人类。"
+
+msgid "I'm surprised I didn't notice it before."
+msgstr "我很惊讶我之前没有发现。"
+
+msgid "Hmm... it's faint... but it's there."
+msgstr "嗯...很微弱...但是确实有。"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "No, she's my coworker!"
+msgstr "不，她是我的工友！"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.lacie"
+msgid "...!?"
+msgstr "...！？"
+
+msgid "Coworker?"
+msgstr "工友？"
+
+msgid "Yeah yeah."
+msgstr "对，对。"
+
+msgid "With... um..."
+msgstr "跟...呃..."
+
+msgid "Wendy."
+msgstr "温迪一起的。"
+
+msgid "If you're hiding a human, I'll kill the both of you."
+msgstr "如果你在包庇人类的话，我会把你们两个都杀了的。"
+
+msgid "W-we deal with humans sometimes... that's probably the smell you feel."
+msgstr "我—我们有时候会跟人类交易...可能这就是你闻到的气味。"
+
+msgctxt "events.Global.ch1_event_fairyring_escape.dlg.milion"
+msgid "Hm..."
+msgstr "呃..."
+
+msgid "You're lying. You think I'm stupid?"
+msgstr "你在撒谎，你觉得我是傻子吗？"
+
+msgid "(But... if they're telling the truth and I kill them...)"
+msgstr "（但是...如果它们讲的是真的，然后我杀了它们的话...）"
+
+msgid "(Wendy will literally cook me alive.)"
+msgstr "（温迪真的会把我活活烤熟的。）"
+
+msgid "Look, I'll close my eyes to this."
+msgstr "好吧，那我睁一眼闭一只眼吧。"
+
+msgid "But get out of the forest. Both of you!"
+msgstr "但是给我滚出森林吧。你们俩都是！"
+
+msgid "Seriously."
+msgstr "我认真的。"
+
+msgid "Look at this shit."
+msgstr "看看你们干的好事。"
+
+msgid "What...?"
+msgstr "什么...？"
+
+msgid "I really shouldn't look into the mirror at night, should I..."
+msgstr "我真的不应该在晚上照镜子的，对吧..."
+
+msgid "I'm carrying too many things around..."
+msgstr "我身上带了太多东西了..."
+
+msgid "(You got rid of some items.)"
+msgstr "（你扔掉了一些东西。）"
+
+msgid "Sorry, give me a second..."
+msgstr "抱歉，给我一点时间..."
+
+msgid "Do you think you can handle this?"
+msgstr "你觉得你能行吗？"
+
+msgid "Easy peasy."
+msgstr "轻轻松松。"
+
+msgctxt "events.Global.ch1_event_mk_after_fight.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Where am I...?"
+msgstr "我在哪...？"
+
+msgid "There's a piece of paper on the floor."
+msgstr "地板上有一张纸。"
+
+msgid "It's titled [color=#CD5C5C]SIXTH BLESSING[/color]."
+msgstr "标题是[color=#CD5C5C]第六件祝福[/color]。"
+
+msgid "Do you want to read it?"
+msgstr "你想要阅读吗？"
+
+msgctxt "events.Global.ch1_event_mk_after_fight.choice.Do you want to read it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Global.ch1_event_mk_after_fight.choice.Do you want to read it?"
+msgid "No"
+msgstr "否"
+
+msgid "You took everything from me..."
+msgstr "你夺走了我的一切..."
+
+msgid "...I never wanted your blessings...."
+msgstr "...我从未乞求你的祝福...."
+
+msgid "For all the horrors you caused me, and for daring to set foot into MY WORLD-"
+msgstr "因你给我带来的恐惧，因你胆敢踏入我的世界—"
+
+msgid "I WILL END YOU!"
+msgstr "我会了结你！"
+
+msgid "AAAAHH GET OUT"
+msgstr "啊啊啊啊滚出去"
+
+msgid "GETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUT"
+msgstr "滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去滚出去"
+
+msgid "The [color=#90EE90]first[/color] blessing..."
+msgstr "第[color=#90EE90]一[/color]件祝福..."
+
+msgid "\"What I [color=#CD5C5C]saw[/color] in the [color=#CD5C5C]mirror[/color] was uglier than I had hoped.\""
+msgstr "“我在[color=#CD5C5C]镜子[/color]里[color=#CD5C5C]看[/color]到的，比我想象的还要丑陋。”"
+
+msgid "The [color=#90EE90]second[/color] blessing..."
+msgstr "第[color=#90EE90]二[/color]件祝福..."
+
+msgid "\"You always said you wanted to try [color=#CD5C5C]watercolor![/color] I believe in you!\""
+msgstr "“你一直说你想试试[color=#CD5C5C]水彩画！[/color]我相信你！”"
+
+msgid "The [color=#90EE90]third[/color] blessing..."
+msgstr "第[color=#90EE90]三[/color]件祝福..."
+
+msgid "\"[color=#CD5C5C]Water[/color] provides the best healing.\""
+msgstr "“[color=#CD5C5C]水[/color]是最好的良药。”"
+
+msgid "The [color=#90EE90]fourth[/color] blessing..."
+msgstr "第[color=#90EE90]四[/color]件祝福..."
+
+msgid "\"Y-you... what did you do to his [color=#CD5C5C]leg[/color]?!?\""
+msgstr "“你—你...你对他的[color=#CD5C5C]腿[/color]做了什么？！？”"
+
+msgid "The [color=#90EE90]fifth[/color] blessing..."
+msgstr "第[color=#90EE90]五[/color]件祝福..."
+
+msgid "\"There are so many things a knife can [color=#CD5C5C]cut[/color] through.\""
+msgstr "“一把刀能[color=#CD5C5C]切[/color]开的东西太多了。”"
+
+msgid "I was tied up in front of the whole village, where Iris' father gave a speech."
+msgstr "我在全村人面前被绑了起来，艾瑞丝的父亲在此发表讲话。"
+
+msgid "It was about bringing forth a new era, about cleansing impurities."
+msgstr "这是为了带来一个新的时代，是为了净化不净之物。"
+
+msgid "About living in peace."
+msgstr "为了和平生活。"
+
+msgid "Peace..."
+msgstr "和平..."
+
+msgid "I thought I already lived in peace."
+msgstr "我以为我已经生活在和平之中。"
+
+msgid "I thought I could keep living in peace next to..."
+msgstr "我以为我可以继续依靠在..."
+
+msgid "...Iris."
+msgstr "...艾瑞丝身边。"
+
+msgid "Was she in that crowd too?"
+msgstr "她也在人群之中吗？"
+
+msgid "Was she watching?"
+msgstr "她也在看着吗？"
+
+msgid "Would she cry for me?"
+msgstr "她会为我而哭吗？"
+
+msgid "It didn't matter anymore."
+msgstr "但这不再重要。"
+
+msgid "I was only a sacrificial pawn in this bigger story."
+msgstr "在这个宏大叙事中，我只是一个牺牲品。"
+
+msgid "How did mother feel, standing here?"
+msgstr "母亲如果在这里，她会有何感想？"
+
+msgid "Was she relieved to finally be rid of all of this injustice?"
+msgstr "终于摆脱了不公的指控，她是不是如释重负呢？"
+
+msgid "To finally start being at peace?"
+msgstr "终于能够心平气和呢？"
+
+msgid "It didn't matter."
+msgstr "这不重要。"
+
+msgid "Mother and father were dead."
+msgstr "母亲和父亲都已经死了。"
+
+msgid "And now, this will be over for me too."
+msgstr "现在，我也要迎来终结。"
+
+msgid "The monster standing before me finished his speech."
+msgstr "站在我身前的怪物完成了演讲。"
+
+msgid "The crowd was cheering. They seemed to agree with his preach."
+msgstr "群众在鼓掌。他们似乎都同意他的宣讲。"
+
+msgid "He lit the firewood, and the heat was slowly embracing me."
+msgstr "他点燃火堆，热气慢慢地拥抱住我。"
+
+msgid "For a moment, it almost felt comforting."
+msgstr "有那么一瞬间，我甚至感到舒适。"
+
+msgid "But that moment was brief."
+msgstr "但那一刻很短暂。"
+
+msgid "When the fire reached my legs, the pain became unbearable."
+msgstr "当火焰爬上我的大腿，痛苦变得不再能够忍受。"
+
+msgid "The crowd's cheers were slowly drowned out by my own screams."
+msgstr "人群的欢呼声慢慢地被我的尖叫声淹没。"
+
+msgid "Curse this."
+msgstr "真该死。"
+
+msgid "Curse this!"
+msgstr "真该死！"
+
+msgid "It hurts!"
+msgstr "真疼啊！"
+
+msgid "Why must I suffer?!"
+msgstr "为什么我必须受苦？！"
+
+msgid "This isn't fair!"
+msgstr "这不公平！"
+
+msgid "Why won't anyone help me?!"
+msgstr "为什么没人帮我？！"
+
+msgid "It hurts so much..."
+msgstr "真的很痛啊..."
+
+msgid "I hate them..."
+msgstr "我讨厌他们..."
+
+msgid "I hate them."
+msgstr "我讨厌他们。"
+
+msgid "How could they cheer for this?!"
+msgstr "他们怎能为此欢呼？！"
+
+msgid "How could they be so cruel?!"
+msgstr "他们怎能如此残忍？！"
+
+msgid "I wish they were all dead."
+msgstr "我希望他们全都死掉。"
+
+msgid "I wish they would all suffer."
+msgstr "我希望他们都能受苦。"
+
+msgid "I heard it once in a dream before."
+msgstr "我曾在梦中听到过。"
+
+msgid "[color=#90EE90]\"Six blessings form a curse.\"[/color]"
+msgstr "[color=#90EE90]“六福成咒。”[/color]"
+
+msgid "Was I cursed?"
+msgstr "我是被诅咒了吗？"
+
+msgid "Because... at that moment..."
+msgstr "因为...在那一刻..."
+
+msgid "I received my [color=#CD5C5C]sixth blessing[/color]."
+msgstr "我得到了我的[color=#CD5C5C]第六件祝福[/color]。"
+
+msgid "The fire spread incredibly fast, in all directions."
+msgstr "火以惊人的速度从四面八方袭来。"
+
+msgid "And the flames that had reached my thighs died out."
+msgstr "然后，我大腿上的火焰熄灭了。"
+
+msgid "Instead, the fire spread all around me."
+msgstr "取而代之的是，火焰蔓延到了我的四周。"
+
+msgid "Everyone was screaming, terrified."
+msgstr "所有人都在尖叫，在恐惧。"
+
+msgid "Everyone was burning."
+msgstr "所有人都在燃烧。"
+
+msgid "What happened? Where's Iris!?"
+msgstr "怎么回事？艾瑞丝在哪！？"
+
+msgid "I used the knife she gave me to untie myself. It cut easily."
+msgstr "我用她给我的小刀为自己解绑。很轻松就切断了。"
+
+msgid "I tried walking but I couldn't even stand."
+msgstr "我试图前进，但我甚至站不起来。"
+
+msgid "My legs hurt... They hurt so bad..."
+msgstr "我的腿伤了...伤的很深..."
+
+msgid "I looked around but only saw fire."
+msgstr "我环顾四周，却只看到了火光。"
+
+msgid "People were trying to run but there was no escape."
+msgstr "人们试图逃跑，但却无处可逃。"
+
+msgid "The floor, the houses... Everything was on fire."
+msgstr "地面，房屋...一切都在燃烧。"
+
+msgid "The whole village was covered in a thick smoke."
+msgstr "整个村庄都被浓烟笼盖。"
+
+msgid "The only place the fire didn't reach was the ground I stood on."
+msgstr "唯一没有火焰的地方，就是我的脚下。"
+
+msgid "I can't move... But I need to make sure Iris is okay."
+msgstr "我动不了...但是我必须确保艾瑞丝没事。"
+
+msgctxt "events.Global.ch1_event_mk_blessing_6.dlg.mk"
+msgid "Huh?"
+msgstr "啊？"
+
+msgid "Make sure Iris is okay..?"
+msgstr "确保艾瑞丝没事..？"
+
+msgid "Why should I..."
+msgstr "为什么我要..."
+
+msgid "It's all going to hell anyway."
+msgstr "反正都要下地狱了。"
+
+msgid "I sat on the floor holding the knife."
+msgstr "我坐在地面上，举着一把刀。"
+
+msgid "My miracle..."
+msgstr "我的奇迹..."
+
+msgid "Is this what came of my miracle?"
+msgstr "这就是我的奇迹吗？"
+
+msgid "I never asked for this."
+msgstr "我从未乞求过。"
+
+msgid "All of this misfortune... It all started after I got my eyesight back."
+msgstr "所有的这些不幸...都从我取回视力那一刻开始。"
+
+msgid "What are these eyes?"
+msgstr "这双眼睛算什么？"
+
+msgid "I don't recognize them."
+msgstr "我不认得它们。"
+
+msgid "I don't want them."
+msgstr "我不想要它们。"
+
+msgid "I never wanted them. Not like this."
+msgstr "我从未想要过它们。绝非如此。"
+
+msgid "YOU CAN HAVE THEM BACK!!"
+msgstr "你可以把它们要回去了！！"
+
+msgid "DO YOU HEAR ME?!"
+msgstr "你听到了吗？！"
+
+msgid "These are not... my eyes!"
+msgstr "这双眼睛...不是我的！"
+
+msgid "I stabbed and stabbed. I was determined to remove them."
+msgstr "我刺了一遍又一遍。我决定摘掉它们。"
+
+msgid "After all, if I removed them, things could go back to normal."
+msgstr "毕竟，只要摘掉它们，一切都会恢复正常。"
+
+msgid "I could do my chores as usual."
+msgstr "我可以像平常一样做家务。"
+
+msgid "I could care for mother."
+msgstr "我可以照顾我的母亲。"
+
+msgid "I could spend my days with Iris..."
+msgstr "我可以整天和艾瑞丝在一起..."
+
+msgid "It felt so good. It felt so relieving."
+msgstr "那感觉太好了。那感觉如此舒畅。"
+
+msgid "I stabbed until I stopped seeing."
+msgstr "我刺到我失明为止。"
+
+msgid "Until I stopped worrying."
+msgstr "我不再担心为止。"
+
+msgid "Until I stopped feeling."
+msgstr "我失去感觉为止。"
+
+msgid "Until I stopped moving."
+msgstr "直到我无法动弹为止。"
+
+msgid "I think in my final moments, I laughed."
+msgstr "我觉得这是我最后的时光了，我笑了。"
+
+msgid "I laughed at how my life turned out."
+msgstr "我笑我的人生最终如此。"
+
+msgctxt "events.Global.ch1_event_mk_blessing_6.dlg.narrator"
+msgid "Six blessings form a curse."
+msgstr "六福成咒。"
+
+msgctxt "events.Global.ch1_event_mk_blessing_6.dlg.narrator"
+msgid "Yes..."
+msgstr "没错..."
+
+msgid "Because \"cursed\" is the only way I can describe this pathetic life."
+msgstr "因为我只能用“被诅咒”来形容我可悲的生活。"
+
+msgid "I'm out of my cage...?"
+msgstr "我逃出我的笼子了...？"
+
+msgid "(He's still trapped though...)"
+msgstr "（他还被困在里面...）"
+
+msgid "...Oh? All my items are gone...?"
+msgstr "...哦？我的东西都不见了...？"
+
+msgid "Without that doorknob... I can't go back home!"
+msgstr "没有那个门把的话...我就回不了家了！"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "幻象现在应该要被打破了，对吧？"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "太坏了，我刚开始喜欢这个地方呢。"
+
+msgid "Fire..."
+msgstr "火..."
+
+msgid "Lilith... again..."
+msgstr "莉莉丝...又是你..."
+
+msgid "How? But how? How?"
+msgstr "怎么会呢？但是怎么会呢？怎么会呢？"
+
+msgid "....No no no no......."
+msgstr "....不，不，不，不......."
+
+msgid "No more."
+msgstr "别再来了。"
+
+msgid "DIE."
+msgstr "去死吧。"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "Hang on a sec."
+msgstr "先等一下。"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Over here."
+msgstr "来这里。"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "...?"
+msgstr "...？"
+
+msgid "This place is strange."
+msgstr "这个地方好奇怪啊。"
+
+msgid "What tipped you off? The hallway filled with creepy faces?"
+msgstr "为什么这么认为？走廊里那些恐怖的脸吗？"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "No..."
+msgstr "不..."
+
+msgid "No?!"
+msgstr "不？！"
+
+msgid "I mean... yes, but..."
+msgstr "我是说...好吧，但..."
+
+msgid "Don't you feel like this place is strangely cozy?"
+msgstr "你不觉得这个地方很有种诡异的舒适感吗？"
+
+msgid "It's almost like it's decorated with care."
+msgstr "就像是被精心装饰过的。"
+
+msgid "NOW it's cozy."
+msgstr "现在，就很舒适了。"
+
+msgid "What are you doing?"
+msgstr "你在做什么？"
+
+msgid "We can probably relax here for a while."
+msgstr "我们可以在这里休息一会儿。"
+
+msgid "It feels like a bad idea to relax in someone else's home."
+msgstr "感觉在别人家休息不是个好主意。"
+
+msgid "If we're quiet enough, they'll never know."
+msgstr "如果我们足够安静，它们就不会知道啦。"
+
+msgid "Besides, aren't you tired?"
+msgstr "另外，你不也觉得有点累吗？"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "Yes..."
+msgstr "没错..."
+
+msgid "We deserve a break anyway."
+msgstr "无论如何，我们都应该休息一下。"
+
+msgid "You're right that this place has a \"creepy but cute\" vibe to it."
+msgstr "你说得对，这个地方有一种“毛骨悚然却又可爱”的感觉。"
+
+msgid "The fireplace is... cute."
+msgstr "这个壁炉...很可爱。"
+
+msgid "The fire is nice."
+msgstr "这团火也不错。"
+
+msgid "That's a weird thing to say."
+msgstr "这么说怪怪的。"
+
+msgid "Are you into burning things?"
+msgstr "难道你很喜欢烧东西吗？"
+
+msgid "What? No!"
+msgstr "什么？怎么可能！"
+
+msgid "I just meant that it feels peaceful here."
+msgstr "我只是感觉这里很平静。"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.sai"
+msgid "Yeah."
+msgstr "嗯。"
+
+msgid "I'm not very good at conversations."
+msgstr "我不擅长交流。"
+
+msgid "You're fine."
+msgstr "还好吧。"
+
+msgid "So, what's got you doing deadly rituals?"
+msgstr "所以说，是什么驱使你做这些要命的仪式的？"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "Huh?"
+msgstr "啊？"
+
+msgid "Well, normally people who come here either have nothing to lose in their life anymore..."
+msgstr "通常来说，来这里的人要么已经一无所有......"
+
+msgid "..or they're just plain dumb and reckless."
+msgstr "..要不就是单纯的傻蛋和怪胎。"
+
+msgid "Which one are you?"
+msgstr "你是哪一种？"
+
+msgid "Dumb, probably."
+msgstr "傻蛋吧，大概。"
+
+msgid "Hmm."
+msgstr "呣。"
+
+msgid "So? What's your deal?"
+msgstr "所以？你想怎么办？"
+
+msgid "You don't have to tell me if you don't wanna."
+msgstr "不想的话可以不用告诉我。"
+
+msgid "...but I'll just annoy you until you do."
+msgstr "...但是我会试着烦你，烦到你说为止。"
+
+msgid "Or until you ditch me."
+msgstr "或者你丢下。"
+
+msgid "It doesn't make sense to \"ditch\" you yet."
+msgstr "没有任何意义吧，现在“丢下”你。"
+
+msgid "\"Yet.\""
+msgstr "“现在。”"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "Alright."
+msgstr "好吧。"
+
+msgid "Alright?"
+msgstr "好吧？"
+
+msgid "I suppose I can tell you.... but it's going to get long."
+msgstr "我觉得我可以跟你讲...但是会有点长。"
+
+msgid "I have nothing better to do."
+msgstr "我没有其他更好的事情能做了。"
+
+msgid "How should I put this..."
+msgstr "要怎么起头呢..."
+
+msgid "...There's something very wrong with me."
+msgstr "...我有些不对劲。"
+
+msgid "But... it sounds ridiculous when I say it out loud."
+msgstr "但是...大声说出来的话真的很可笑。"
+
+msgid "I'm all ears."
+msgstr "我洗耳恭听。"
+
+msgid "It's possible I may be... possessed."
+msgstr "我觉得我可能...中邪了。"
+
+msgid "No... I'm definitely either possessed or cursed."
+msgstr "不...我肯定不是中邪或者被诅咒之类的。"
+
+msgid "It's been like this since I was little."
+msgstr "我从小到大都是这样。"
+
+msgid "Back then, I used to think I have a black cloud that just follows me everywhere."
+msgstr "那时，我想我有一只乌云跟着我到处走。"
+
+msgid "It makes people run away from me, it makes them hate me."
+msgstr "它会让人们远离我，让人们憎恨我。"
+
+msgid "They always have this terrifying look when they look at me..."
+msgstr "他们看着我时，总是露出可怕的表情..."
+
+msgid "Sometimes it turns into hatred, or anger."
+msgstr "有时会变成仇恨或者愤怒。"
+
+msgid "With animals it's even worse."
+msgstr "跟小动物就更糟了。"
+
+msgid "Dogs will bark at me, and I can't even get close enough to pet a cat..."
+msgstr "狗会对着我狂吠，我甚至做不到靠近摸猫这种事..."
+
+msgid "Or, today, I tried buying something at the store - and failed horribly."
+msgstr "又或者说，今天，我试着在店里买点东西—却惨遭失败。"
+
+msgid "I hate that I can't even do something as simple as that."
+msgstr "我恨我自己，连这么简单的事情也做不好。"
+
+msgid "It's like... just being around me makes people tense and aggressive."
+msgstr "就是说...只要待在我身边，人们就会变得紧张和咄咄逼人。"
+
+msgid "But.. I know for a fact that it wasn't always like this."
+msgstr "但..我知道事实并非如此。"
+
+msgid "I have memories of my childhood where things were fine."
+msgstr "我还有童年时，一切都还好时的记忆。"
+
+msgid "Something must have changed at some point."
+msgstr "肯定是在某个时刻发生了一件事情，改变了一切。"
+
+msgid "And then, everyone suddenly started acting differently with me."
+msgstr "在那之后，大家突然开始对我另眼相看。"
+
+msgid "For a really long time, I thought it was my fault."
+msgstr "很长的一段时间里，我以为那是我的问题。"
+
+msgid "I thought that maybe I'm just broken, and different."
+msgstr "我觉得我可能只是坏掉了，不一样了。"
+
+msgid "I thought I did something wrong... I thought people had a reason to hate me so much."
+msgstr "我以为我做错了某件事...我以为人们有如此憎恨我的理由。"
+
+msgid "I know better now... but that doesn't change how it feels."
+msgstr "我现在知道的更多了...但是这改变不了我的感觉。"
+
+msgid "This... thing inside me... whatever it is..."
+msgstr "我体内的...不知何物...无论它是什么..."
+
+msgid "It's isolating me from everyone."
+msgstr "它让我与所有人都隔离开来。"
+
+msgid "Even my parents hate being around me."
+msgstr "甚至我的父母都讨厌在我身边。"
+
+msgid "They leave the house for weeks at a time, and make excuses if I ask to come along."
+msgstr "他们一离开家就是几个星期，如果我要求一起去，他们就会找借口推脱。"
+
+msgid "My brother is the only one who's there for me every time."
+msgstr "我哥哥是唯一一个每次都能陪在我身边的人。"
+
+msgid "And I know how hard it is for him."
+msgstr "我知道这对他有多难。"
+
+msgid "But somehow he never falters."
+msgstr "不知何故，他从未动摇过。"
+
+msgid "Without him I..."
+msgstr "如果没有他的话，我..."
+
+msgid "I've been trying to get better for so long..."
+msgstr "我已经努力了很久..."
+
+msgid "So this ritual is... well... it's my last hope."
+msgstr "所以说这个仪式是...嗯...是我最后的希望。"
+
+msgid "If I fail to find answers, then I'll probably give up..."
+msgstr "如果我找不到答案的话，那么我可能就会放弃..."
+
+msgid "...on everything."
+msgstr "...一切。"
+
+msgid "I can't bear to live like this anymore."
+msgstr "我再也无法忍受这样的生活了。"
+
+msgid "Still... you should know about this."
+msgstr "不过......有件事你应该知道。"
+
+msgid "You've been around me, don't you feel it?"
+msgstr "你在我身边，你没感觉到吗？"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.sai"
+msgid "Huh."
+msgstr "啊。"
+
+msgid "Let me see..."
+msgstr "让我看看..."
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "...!"
+msgstr "...！"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.sai"
+msgid "Hmmm..."
+msgstr "嗯......"
+
+msgid "Yeah, you're right. You've got this weird ominous aura. Feels dangerous."
+msgstr "嗯，你说得对。你有一种奇怪的不祥气息。感觉很危险。"
+
+msgid "Doesn't bother me."
+msgstr "但还不至于干扰到我。"
+
+msgid "Really?"
+msgstr "真的吗？"
+
+msgid "Nah. I guess I've felt worse."
+msgstr "啊不。我好像感觉有点不妙了。"
+
+msgid "That doesn't make any sense. There must be something wrong with you."
+msgstr "这样不好吧。你肯定是有点问题。"
+
+msgid "(Is this person... not human?)"
+msgstr "（这个人...不是人类吗？）"
+
+msgid "Hah! Says the possessed girl!"
+msgstr "哈！被中邪的女孩子说了！"
+
+msgid "Rune said possessions aren't a thing, so it might be a curse."
+msgstr "符文说没有中邪这种东西，所以这可能是诅咒。"
+
+msgid "But you don't buy it? So, what, you came here to get exorcised?"
+msgstr "但是你又不买账？所以说，你是来驱魔的吗？"
+
+msgid "I've tried that already..."
+msgstr "我已经试过了..."
+
+msgid "I wouldn't have come here unless I exhausted my possibilities beforehand."
+msgstr "如果不是彻底没戏，我是不会来这里的。"
+
+msgid "Smart."
+msgstr "有道理。"
+
+msgid "No dice then?"
+msgstr "所以说解决了吗？"
+
+msgid "Nothing."
+msgstr "没有。"
+
+msgid "That sucks. Have you tried throwing table salt at yourself?"
+msgstr "那可太糟了。你有试过往你自己身上撒食用盐吗？"
+
+msgid "I hear it wards off demons. It might get rid of your curse too."
+msgstr "我听说它能驱散恶魔。也许也能帮你驱散诅咒哦。"
+
+msgid "Very funny."
+msgstr "很好笑吧。"
+
+msgid "You seem to know quite a lot about this place and the rituals."
+msgstr "你看起来对这个地方和仪式很了解啊。"
+
+msgid "Ah, yeah. I did a lot of these rituals to kill time."
+msgstr "啊，对。我做了很多仪式来消磨时间。"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.sai"
+msgid "What?"
+msgstr "怎么了？"
+
+msgid "I'm surprised you're not dead yet."
+msgstr "我很惊讶你还没有死。"
+
+msgid "You know what they say, idiots don't die!"
+msgstr "你知道别人怎么说的吗，傻子是不会死的！"
+
+msgid "I don't think anybody says that."
+msgstr "我觉得没人这么说过。"
+
+msgid "Hahaha, maybe you could start saying it then."
+msgstr "哈哈哈，那你就可以开始这么讲啦。"
+
+msgid "So, is your curse the reason you're trying to find the lighthouse?"
+msgstr "所以，诅咒就是你去寻找灯塔的原因吗？"
+
+msgid "Yes... I was told there's someone there who can help guide me."
+msgstr "是的...我被告知那里有人能够指引我。"
+
+msgid "Do you hear that?"
+msgstr "你听到那个声音了吗？"
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "Yes."
+msgstr "嗯。"
+
+msgid "Guests..?"
+msgstr "有客人..？"
+
+msgid "But... Not invited..."
+msgstr "但是...没被邀请..."
+
+msgctxt "events.Global.ch1_event_mk_first_enter.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "I'm.....confused....."
+msgstr "我很.....不解....."
+
+msgid "Uh-oh."
+msgstr "啊—哦。"
+
+msgid "Fire?!"
+msgstr "火？！"
+
+msgid "FIRE!"
+msgstr "火！"
+
+msgid "MAKE IT STOP!"
+msgstr "停下来！"
+
+msgid "Hm..?.... A smell......"
+msgstr "嗯..？....这个气味......"
+
+msgid "...Lilith?...No...."
+msgstr "...莉莉丝？...不...."
+
+msgid "....No...No..."
+msgstr "....不...不..."
+
+msgid "Nonononononono"
+msgstr "不不不不不不"
+
+msgid "...Not you again..."
+msgstr "...不会又是你吧..."
+
+msgid "....?"
+msgstr "....？"
+
+msgid "GET OUT"
+msgstr "滚出去"
+
+msgid "GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT"
+msgstr "滚出去 滚出去 滚出去 滚出去 滚出去 滚出去 滚出去"
+
+msgid "Wh-..."
+msgstr "什—..."
+
+msgid "GET OUT."
+msgstr "滚出去。"
+
+msgid "How... Why can't you just go away..."
+msgstr "怎会如此...为什么你就不能离开..."
+
+msgid "Every time I try to be at peace..."
+msgstr "每次我试图平静下来..."
+
+msgid "YOU RUIN EVERYTHING!!!"
+msgstr "你就毁了一切！！！"
+
+msgid "You inspect the object closely..."
+msgstr "你近距离观察了这个物体..."
+
+msgid "As you look into it, the mirror regains its colors."
+msgstr "当你看向手镜时，手镜恢复了色彩。"
+
+msgid "Welcome back."
+msgstr "欢迎回来。"
+
+msgctxt "events.Global.ch1_event_mk_victory.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "How long have I been out?"
+msgstr "我昏迷多久了？"
+
+msgid "14 minutes."
+msgstr "14分钟。"
+
+msgid "That's creepy, you shouldn't watch people sleep."
+msgstr "太可怕了，你不应该看着别人睡觉的。"
+
+msgid "I actually looked around first! I swear!"
+msgstr "我其实先去周围看了一圈的！我发誓！"
+
+msgid "The door is right down this hall, see?"
+msgstr "那扇门就在大厅的右侧，好吗？"
+
+msgid "...I see."
+msgstr "...好的。"
+
+msgid "You were pretty crazy back there, y'know?"
+msgstr "你刚才在那儿真是太厉害了，你知道吗？"
+
+msgid "You must be really good at dodging knives."
+msgstr "你真的很擅长躲刀子。"
+
+msgid "Thanks."
+msgstr "谢谢。"
+
+msgid "You sure you're not a demon yourself?"
+msgstr "你确定你自己不是恶魔吗？"
+
+msgctxt "events.Global.ch1_event_mk_victory.dlg.lacie"
+msgid "No."
+msgstr "不是。"
+
+msgid "It was just a joke, you know...?"
+msgstr "我就开个玩笑，你懂的...？"
+
+msgid "I dunno what just happened..."
+msgstr "我不知道刚才怎么了..."
+
+msgid "...but you basically got rid of that demon and freed us right?"
+msgstr "...但你摆脱了那个恶魔，让我们重获自由了，对吗？"
+
+msgctxt "events.Global.ch1_event_mk_victory.dlg.lacie"
+msgid "Yes."
+msgstr "是的。"
+
+msgid "How?"
+msgstr "怎么做到的？"
+
+msgid "It wasn't that hard. Maybe she had bad aim."
+msgstr "没那么困难啦。可能她瞄的不准吧。"
+
+msgid "Huh... so humble..."
+msgstr "啊...太有点谦虚了吧..."
+
+msgid "But next time don't leave me locked in a cage."
+msgstr "但是下次别把我丢在那个笼子里了。"
+
+msgid "I could've died, you know!?"
+msgstr "我可能会死的，你知道吗！？"
+
+msgid "My bad."
+msgstr "是我不好。"
+
+msgid "So, is it a dead end?"
+msgstr "所以说，这里是个死胡同咯？"
+
+msgid "Yep."
+msgstr "没错。"
+
+msgctxt "events.Global.ch1_event_mk_victory.dlg.lacie"
+msgid "I see."
+msgstr "嗯。"
+
+msgid "Just as Rune said..."
+msgstr "就跟符文说的一样..."
+
+msgid "You sound disappointed."
+msgstr "你听起来很失望。"
+
+msgid "Don't tell me you're up for more near death experiences."
+msgstr "别告诉我，你还想体验在死亡边缘试探的感觉。"
+
+msgid "I just... haven't solved anything yet."
+msgstr "我就是...什么事都还没解决。"
+
+msgid "I didn't find Red, I didn't even find the lighthouse."
+msgstr "我没找到瑞德，我甚至都没找到灯塔。"
+
+msgid "All of the things I set out to do..."
+msgstr "所以我打算做的事情还都没有做到..."
+
+msgctxt "events.Global.ch1_event_mk_victory.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "You've got time."
+msgstr "你还有时间。"
+
+msgid "You're not dead yet."
+msgstr "你还没死呢。"
+
+msgid "That has to count for something, right?"
+msgstr "这也算做了点事情了，对吧？"
+
+msgid "I guess there's no helping it."
+msgstr "我想这也是没办法的事情吧。"
+
+msgid "MAKE IT STOP."
+msgstr "让 它 停 下 来。"
+
+msgid "SHUT HIM UP."
+msgstr "闭 上 他 的 嘴。"
+
+msgid "I can't. I tried everything."
+msgstr "我做不到。我什么都试过了。"
+
+msgid "USELESS!"
+msgstr "废物！"
+
+msgid "AAH I SWEAR I'M GONNA LOSE IT!"
+msgstr "啊啊啊，我感觉我要疯了！"
+
+msgid "Oh good, someone else came."
+msgstr "哦，太好了，有人来了。"
+
+msgid "Hey blondie, take this stupid piece of shit and throw it in the lake or something."
+msgstr "嘿，美女，请带着这个小垃圾，把它扔到河里去之类的。"
+
+msgid "Squash it. Strangle it. Eat it. I don't care what you do."
+msgstr "压扁它。掐死它。吃掉它。随便怎么做都行。"
+
+msgid "Uh... what?"
+msgstr "呃...什么？"
+
+msgid "Our baby brother here has been crying nonstop for the past few days."
+msgstr "我们的小弟弟已经在这里不停地哭了好几天了。"
+
+msgid "Brother?"
+msgstr "弟弟？"
+
+msgid "In the terrarium."
+msgstr "在生态箱里。"
+
+msgctxt "events.Global.ch1_event_moths.dlg.ch1_terrarium"
+msgid "..."
+msgstr "..."
+
+msgid "You're all moths?"
+msgstr "你们不都是飞蛾吗？"
+
+msgid "We won't be for long because this obnoxious brat is going to make me kill myself."
+msgstr "这小鬼烦到我想自杀，那时候我就不是了。"
+
+msgid "UGH WILL YOU AT LEAST SHUT THE HELL UP WHILE I'M TALKING!?"
+msgstr "啊，我讲话的时候，你他妈的能不能闭一下嘴！？"
+
+msgid "(Is he even saying anything?)"
+msgstr "（他有在说什么吗？）"
+
+msgid "Would you be so kind as to kill it for us?"
+msgstr "你能好心点帮我们把它杀了吗？"
+
+msgid "Me? Kill the caterpillar?"
+msgstr "我？杀了这只毛虫？"
+
+msgid "Yes-"
+msgstr "对—"
+
+msgid "YES."
+msgstr "没错。"
+
+msgid "Why don't you do it?"
+msgstr "为什么你们不自己做呢？"
+
+msgid "If we kill one of our kind, a curse is planted on us."
+msgstr "如果我们杀死了自己种族的人，诅咒就会植入我们。"
+
+msgid "Please kill him for us. We're willing to reward you with this doorknob."
+msgstr "请你为我们将他杀死吧。我们会用这个门把奖励你的。"
+
+msgid "(A doorknob...)"
+msgstr "（门把...）"
+
+msgid "Why won't he just stop, I'm exhausted."
+msgstr "为什么他就是不停下，我要累死了。"
+
+msgctxt "events.Global.ch1_event_moths.dlg.lacie"
+msgid "Um..."
+msgstr "呃..."
+
+msgid "(Should I kill the caterpillar?)"
+msgstr "（我应该杀掉毛虫吗？）"
+
+msgid "I'll take care of it."
+msgstr "我会照顾它的。"
+
+msgid "I'm leaving."
+msgstr "我要走了。"
+
+msgid "I'm going to... be somewhere else."
+msgstr "我要...去别的地方了。"
+
+msgid "You're LEAVING?!"
+msgstr "你要走了？！"
+
+msgid "I-"
+msgstr "我—"
+
+msgid "Useless."
+msgstr "真没用。"
+
+msgid "I can dispose of her."
+msgstr "我可以处理掉她。"
+
+msgctxt "events.Global.ch1_event_moths.dlg.lacie"
+msgid "Wait."
+msgstr "慢着。"
+
+msgid "I'm just going to grab something."
+msgstr "我就是去找点东西。"
+
+msgid "...Then I'll be back."
+msgstr "...然后就会回来的。"
+
+msgid "(I might still need that doorknob...)"
+msgstr "（我可能还是需要那个门把...）"
+
+msgid "Oh. Getting a tool for killing this bugger? I'll allow it."
+msgstr "哦。你是说去找杀这只虫子的工具吗？那我同意。"
+
+msgid "Go on."
+msgstr "去吧。"
+
+msgctxt "events.Global.ch1_event_moths.dlg.lacie"
+msgid "Okay."
+msgstr "好的。"
+
+msgid "There's no reason to kill it anymore..."
+msgstr "我已经没有杀它的理由了..."
+
+msgid "(They're not picking up...)"
+msgstr "（他们没有接...）"
+
+msgid "Hi hi, who's this?"
+msgstr "你好，你好，哪位呀？"
+
+msgid "Hello mom."
+msgstr "你好啊，妈。"
+
+msgid "Ah... Lacie, what is it?"
+msgstr "啊...莱西啊，怎么了？"
+
+msgid "I was just calling to check on you."
+msgstr "我就打电话来看看你。"
+
+msgid "We're very busy. Do you need anything?"
+msgstr "我们很忙呢。你有什么事情吗？"
+
+msgctxt "events.Global.ch1_event_phone_mother.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Global.ch1_event_phone_mother.dlg.lacie"
+msgid "No."
+msgstr "没有。"
+
+msgid "Then, I'll call you some other time."
+msgstr "那么，之后我再打给你吧。"
+
+msgctxt "events.Global.ch1_event_phone_mother.dlg.lacie"
+msgid "Okay."
+msgstr "好的。"
+
+msgid "Hello?"
+msgstr "喂？"
+
+msgctxt "events.Global.ch1_event_phone_neighbor.dlg.unknown"
+msgid "..."
+msgstr "..."
+
+msgid "...Hello?"
+msgstr "...喂？"
+
+msgid "Oh... it's you."
+msgstr "哦...是你啊。"
+
+msgid "...Is your mother around?"
+msgstr "...你妈妈在吗？"
+
+msgid "She isn't. Would you like to leave a message?"
+msgstr "她不在。要我帮你捎句话吗？"
+
+msgid "Uh... no. That's alright. Bye."
+msgstr "呃...不用。就这样吧。再见。"
+
+msgid "...Bye."
+msgstr "...再见。"
+
+msgid "(The neighbors still have a hard time talking to me...)"
+msgstr "（邻居们跟我讲话的时候还是很不自在...）"
+
+msgid "You hear some strange noises on the other side of the line..."
+msgstr "你听见电话的另一端传来奇怪的噪音..."
+
+msgid "What will you say?"
+msgstr "你要怎么说？"
+
+msgid "\"Where is my bus?\""
+msgstr "“我的巴士在哪里？”"
+
+msgid "\"I need a bus.\""
+msgstr "“我需要一辆巴士。”"
+
+msgid "\"My bus is late.\""
+msgstr "“我的巴士迟到了。”"
+
+msgid "Don't say anything"
+msgstr "什么也不说"
+
+msgid "..........already there.........."
+msgstr "..........已经到了.........."
+
+msgctxt "events.Global.ch1_event_phone_ritual.dlg.narrator"
+msgid "....."
+msgstr "....."
+
+msgid "There is no response."
+msgstr "没有回应。"
+
+msgid "[color=#90EE90]Rainbow potions will increase your endurance permanently.[/color]"
+msgstr "[color=#90EE90]彩虹药水会永久增强你的耐久力。[/color]"
+
+msgid "[color=#90EE90]It is recommended to drink them as soon as possible.[/color]"
+msgstr "[color=#90EE90]推荐尽快饮用。[/color]"
+
+msgid "I'm too nervous to do anything else anyways..."
+msgstr "我已经紧张到没法再做任何事情了..."
+
+msgid "Then again, I'm not sure I can actually fall asleep."
+msgstr "还有，我也不确定我能不能真的睡着。"
+
+msgid "I'll just lie down and close my eyes..."
+msgstr "我只要躺下，然后闭上眼睛就好..."
+
+msgid "Aahh... finally!"
+msgstr "啊...终于啊！"
+
+msgid "Ughh... why is life on such a high difficulty setting..."
+msgstr "哎...为什么我的人生开的是高难模式..."
+
+msgid "Maybe I'll just nap this day away."
+msgstr "今天就打个盹过去吧。"
+
+msgid "Nonono what am I saying? I have things to do."
+msgstr "不不不，我在说什么？我还有事情要做呢。"
+
+msgid "...Especially after today's experience..."
+msgstr "...特别是在经历了今天的事情后..."
+
+msgid "It's clear that there's no other way to move forward."
+msgstr "很显然，我已经没有其他办法了。"
+
+msgid "Sigh..."
+msgstr "哎..."
+
+msgid "Alright, let's not waste time."
+msgstr "好吧，不要浪费时间了。"
+
+msgid "This letter... is the real deal isn't it?"
+msgstr "这封信...真是场豪赌啊，不是么？"
+
+msgid "Just holding it makes me nervous."
+msgstr "仅仅是拿着它，都让我感到紧张。"
+
+msgid "I still can't believe it actually arrived..."
+msgstr "我还是不敢相信它真的寄到了..."
+
+msgid "On the forums, some people waited for months and it never came."
+msgstr "论坛上的一些人等了好几个月，也没等到信。"
+
+msgid "But for me, it only took a day..."
+msgstr "但是我，只用了一天..."
+
+msgid "This isn't my first ritual but..."
+msgstr "虽然这不是我经历的第一场仪式，但..."
+
+msgid "It's my first time getting intentionally spirited away."
+msgstr "这是我第一次感觉，自己是被人刻意赶走的。"
+
+msgid "Anyways... I need to tie a red thing to the phone, paint some symbol at the front door, then go to sleep."
+msgstr "总之...我只要往电话上系一条红色的东西，在前门上画一个符号，然后去睡觉。"
+
+msgid "Sounds simple enough."
+msgstr "听上去很简单。"
+
+msgid "For the phone, I could use a ribbon, or a thread, or anything similar that's red."
+msgstr "电话的话，我可以用丝带，或者丝线，或者其他类似的红色的东西。"
+
+msgid "For the front door... a marker? Or do I need to use real paint?"
+msgstr "前门的话...马克笔？难道我要用真的颜料吗？"
+
+msgid "And... I need to finish it all before the sun sets."
+msgstr "以及...我要在日落之前全部完成。"
+
+msgid "Maybe it won't be that simple after all."
+msgstr "好像又没那么简单。"
+
+msgid "I'm so sick of this dream."
+msgstr "我已经受够这场梦了。"
+
+msgid "It's time, right?"
+msgstr "时候到了，对吧？"
+
+msgid "Anyways... Once I'm ready to go, I just need to call that number."
+msgstr "总之...一旦准备好离开，我只要去拨打那个号码就可以。"
+
+msgid "This thing is pretty slow, huh?"
+msgstr "这玩意真的很慢，不是吗？"
+
+msgctxt "events.Global.ch1_event_sai_elevator.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What do you think we'll find down there?"
+msgstr "你觉得我们能在下面找到什么呢？"
+
+msgid "I don't know..."
+msgstr "我不知道..."
+
+msgid "I'd say it's not smart to go even deeper..."
+msgstr "我想说，继续往深处走并不明智..."
+
+msgid "But what do I know."
+msgstr "但是我也不知道啊。"
+
+msgid "It's not like we have a choice."
+msgstr "我们也没有别的选择了。"
+
+msgid "And coming here in the first place wasn't smart already so..."
+msgstr "而且一开始来这个地方就已经很不明智了..."
+
+msgid "Oww..."
+msgstr "喔..."
+
+msgid "(There's someone there!)"
+msgstr "（那里有人！）"
+
+msgid "(Wait... I have something for this situation!)"
+msgstr "（等等...我有东西可以应对这种情况！）"
+
+msgctxt "events.Global.ch1_event_sai_meet.dlg.sai"
+msgid "....."
+msgstr "....."
+
+msgctxt "events.Global.ch1_event_sai_meet.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Did you just throw salt in my face?"
+msgstr "你刚刚是往我脸上撒了盐吗？"
+
+msgid "Y-yes."
+msgstr "没—没错。"
+
+msgid "Uh... why?"
+msgstr "呃...为什么呢？"
+
+msgid "I thought you were a demon."
+msgstr "我以为你是恶魔。"
+
+msgid "And, if I was a demon, you think table salt would have stopped me?"
+msgstr "那么，如果我是恶魔，你觉得食用盐能够阻止我吗？"
+
+msgctxt "events.Global.ch1_event_sai_meet.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I- ...I didn't have any holy salt."
+msgstr "我—...我没有圣盐。"
+
+msgid "That's ridiculous. Salt has no effect."
+msgstr "真是荒唐。盐没用的啦。"
+
+msgid "I read it somewhere..."
+msgstr "可我在哪里读到过..."
+
+msgid "This is the funniest shit that happened all week."
+msgstr "这是这周发生过的最好笑的蠢事了。"
+
+msgid "Sorry, sorry!"
+msgstr "抱歉，抱歉！"
+
+msgid "I'm Sai."
+msgstr "我叫赛伊。"
+
+msgctxt "events.Global.ch1_event_sai_meet.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "What brings you to a place like this?"
+msgstr "什么风把你吹到这来了？"
+
+msgid "Oh! I see I see."
+msgstr "哦！我知道了，我知道了。"
+
+msgid "Wow, really?"
+msgstr "哇，真的吗？"
+
+msgid "Who are you talking to... I didn't say anything."
+msgstr "你在跟谁讲话...我还什么也没说呢。"
+
+msgid "I know, it's a joke."
+msgstr "我知道，就开个玩笑。"
+
+msgid "Just... filling the silence."
+msgstr "就...活跃气氛罢了。"
+
+msgid "You're not really talkative huh?"
+msgstr "你不是很健谈，对吧？"
+
+msgid "No... not really."
+msgstr "是...是的。"
+
+msgid "W-wha-"
+msgstr "什—什么——"
+
+msgid "Wait! You're just leaving?"
+msgstr "慢着！你要走了吗？"
+
+msgctxt "events.Global.ch1_event_sai_meet.dlg.lacie"
+msgid "Yes."
+msgstr "是的。"
+
+msgid "That's not where the exit is."
+msgstr "出口不在这边。"
+
+msgid "Why don't we-"
+msgstr "为什么我们不—"
+
+msgid "On second thought, that direction's good, go go go!"
+msgstr "仔细一想，那个方向也可以，走吧走吧走吧！"
+
+msgid "You don't want to run into that thing."
+msgstr "你不会想撞上那玩意的。"
+
+msgid "Better hide here."
+msgstr "最好躲到里面去。"
+
+msgid "(This place looks worse than just staying out there ...!)"
+msgstr "（这个地方看起来比刚才外面还糟糕...！）"
+
+msgid "Holy crap, this room is worse than just staying in the hallway."
+msgstr "我去，呆着这里还不如去外面那个走廊呢。"
+
+msgid "You dropped something."
+msgstr "你掉了什么东西。"
+
+msgctxt "events.Global.ch1_event_sai_todolist_1.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "To-do list before you... die?"
+msgstr "待办清单...于死之前？"
+
+msgid "Please give it back."
+msgstr "还给我。"
+
+msgid "You didn't complete it."
+msgstr "你没完成啊。"
+
+msgid "I know."
+msgstr "我知道。"
+
+msgid "Why do you... erm..."
+msgstr "为什么你... 呃..."
+
+msgid "I mean, that list looks pretty depressing."
+msgstr "我是说，这张清单看起来很抑郁啊。"
+
+msgid "I'm aware."
+msgstr "我发现了。"
+
+msgid "Do you wanna talk about it?"
+msgstr "想谈谈吗？"
+
+msgctxt "events.Global.ch1_event_sai_todolist_1.dlg.lacie"
+msgid "No."
+msgstr "不想。"
+
+msgid "Got it."
+msgstr "行。"
+
+msgid "A garden with a single door in the middle..."
+msgstr "中间有着一扇门的花园..."
+
+msgid "This is it."
+msgstr "就是这里了。"
+
+msgid "I just need to make a lily and place it in the vase, right?"
+msgstr "我只要做一朵百合放进花瓶里就可以了，对吧？"
+
+msgid "Hey um..."
+msgstr "嘿，呃..."
+
+msgid "Before that..."
+msgstr "在那之前..."
+
+msgid "...I wanted to talk to you about something."
+msgstr "...我想跟你谈件事情。"
+
+msgctxt "events.Global.ch1_event_sai_todolist_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It's about that list."
+msgstr "就是关于那个清单。"
+
+msgid "What list?"
+msgstr "什么清单？"
+
+msgid "Your to-do list? ...Before you die?"
+msgstr "你的，待办清单？...于死之前？"
+
+msgid "Oh... that."
+msgstr "哦...那个。"
+
+msgid "I was thinking about it."
+msgstr "我之前在想这个。"
+
+msgctxt "events.Global.ch1_event_sai_todolist_2.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "Why don't you make a new list?"
+msgstr "为什么你不做一张新的清单呢？"
+
+msgid "Instead of a list of things to do before you die..."
+msgstr "比起一张在死之前要做的清单..."
+
+msgid "Why don't you make a list of things to do once you get fixed?"
+msgstr "为什么不做一张，一切都好起来以后的待办清单呢？"
+
+msgid "Starting with treating me to that flan you like."
+msgstr "从请我吃你喜欢的果馅饼开始。"
+
+msgid "Starting with treating me to some macarons?"
+msgstr "从请我吃马克龙开始？"
+
+msgid "Starting with treating me to an eclair maybe?"
+msgstr "从请我吃一个闪电泡芙之类的开始？"
+
+msgid "That way you'll have something to look forward to."
+msgstr "这样你就有前进的动力了。"
+
+msgid "I'm not sure what to say in a situation like this."
+msgstr "我不知道这种情形下该讲什么话。"
+
+msgid "You don't need to say anything."
+msgstr "你什么也不用讲。"
+
+msgid "I just think it would suck if you gave up."
+msgstr "我只是觉得，如果你放弃的话，那就糟透了。"
+
+msgid "Why?"
+msgstr "为什么？"
+
+msgid "Why!?"
+msgstr "为什么！？"
+
+msgid "Well, because... I don't know."
+msgstr "好吧，因为...我不知道。"
+
+msgid "Today was fun."
+msgstr "今天过得很开心。"
+
+msgid "Fun...?"
+msgstr "开心...？"
+
+msgid "Yeah! Everything was really exciting, don't you think?"
+msgstr "对！一切都让人激动不已，你是不是也这么觉得？"
+
+msgid "We almost died..."
+msgstr "我们都差点死了..."
+
+msgid "Yeah!"
+msgstr "对！"
+
+msgid "...A lot."
+msgstr "...好几次呢。"
+
+msgid "Yeah, but, we made it, didn't we?"
+msgstr "对，但是，我们成功了，不是吗？"
+
+msgid "I guess that's true."
+msgstr "确实也是。"
+
+msgid "Anyways, let's hurry. It's not good to stay in this room for too long."
+msgstr "总之，快点吧。在这个房间待太久可不好。"
+
+msgid "I left the browser open on some forums..."
+msgstr "我离开的时候，浏览器上挂着论坛..."
+
+msgid "Check out the forums?"
+msgstr "要看看论坛吗？"
+
+msgctxt "events.Global.ch1_forums.choice.Check out the forums?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Global.ch1_forums.choice.Check out the forums?"
+msgid "No"
+msgstr "否"
+
+msgid "\"Devil's Eye Forums\""
+msgstr "“恶魔之眼论坛”"
+
+msgid "\"how 2 get letter??\" - 2 months ago"
+msgstr "“怎么拿信？？” - 2个月前"
+
+msgid "\"Breaking the Rules?\" - 7 months ago"
+msgstr "“想打破规则？” - 7个月前"
+
+msgid "\"Whats with the weird ads\" - 11 months ago"
+msgstr "“这些诡异的广告是闹哪样” - 11个月前"
+
+msgid "\"Tips on bus ritual\" - 11 months ago"
+msgstr "“关于巴士仪式的提示” - 11个月前"
+
+msgid "\"Where does the bus go\" - 2 years ago"
+msgstr "“巴士会开到哪里” - 2年前"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"i wanna try a ritual but idk how to get the letter. help?"
+msgstr ""
+"[color=green]给我信谢谢1， 2个月前[/color]\n"
+"我想试试仪式，但是我不知道怎么拿信。帮帮？"
+
+msgid ""
+"[color=green]helpfulM0D, 2 months ago[/color]\n"
+"Read the sticky, you need to send a letter with just your name in it. If you're chosen you'll get a golden envelope at some point."
+msgstr ""
+"[color=green]热心管理猿， 2个月前[/color]\n"
+"看置顶，你要送一份只写着你名字的信。如果你被选上了，之后的某个时刻，你就会得到一封金色信封。"
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"i dont get it, is it like my full name? nothing else?? whats the address i mail it to"
+msgstr ""
+"[color=green]给我信谢谢1， 2个月前[/color]\n"
+"没搞懂，写我的全名吗？别的都不用？？邮寄地址呢"
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"also does it need a stamp"
+msgstr ""
+"[color=green]给我信谢谢1， 2个月前[/color]\n"
+"还有，要不要邮票"
+
+msgid ""
+"[color=green]letterpls1, 29 days ago[/color]\n"
+"nobody's helping me, you all suck"
+msgstr ""
+"[color=green]给我信谢谢1， 29天前[/color]\n"
+"没人帮我，你们都烂透了"
+
+msgid ""
+"[color=green]helpfulM0D, 29 days ago[/color]\n"
+"Again, the information you need is in the sticky. Read the rules next time, there's a search button for a reason."
+msgstr ""
+"[color=green]热心管理猿，29天前[/color]\n"
+"再说一遍，你要的信息都在置顶里。下次先看论坛守则，搜索按钮不是白给你的。"
+
+msgid "[color=red]***POST HAS BEEN LOCKED***[/color]"
+msgstr "[color=red]***帖子已锁定***[/color]"
+
+msgid ""
+"[color=green]xXOccultfanXx, 7 months ago[/color]\n"
+"your wrong. If smt is in the ritual rules, you gotta respect it or else your toast."
+msgstr ""
+"[color=green]xX神秘学爱好者Xx，7个月前[/color]\n"
+"那尼门就错了。如果仪式规则写了，那你就要尊重它，不然你就死定了。"
+
+msgid ""
+"[color=green]Kasaju_86, 7 months ago[/color]\n"
+"Have you ever even DONE a ritual?? I'm offering legitimate advice from people who actually survived them."
+msgstr ""
+"[color=green]Kasaju_86，7个月前[/color]\n"
+"你到底有没有做过仪式？？我提供的都是那些真正的幸存者的合理建议。"
+
+msgid "Please stop spreading misinformation, you're risking people's lives. Also it's \"you're\", are you five?"
+msgstr "请停止传播虚假信息，你这是在害人命。还有，“你们”，你是五岁连字都不会打？"
+
+msgid ""
+"[color=green]xXOccultfanXx, 7 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] just bc you've been on this website for longer, doesn't mean you gotta be an entitled a**. Some of us are just trying to have fun here."
+msgstr ""
+"[color=green]xX神秘学爱好者Xx，7个月前[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] 别以为你在这个网站呆的久，你就可以**代表别人了。我们有些人只是想在这里找点乐子。"
+
+msgid ""
+"[color=green]Kasaju_86, 7 months ago[/color]\n"
+"You're right. I don't know why I bothered. Have fun with your ritual~~~!"
+msgstr ""
+"[color=green]Kasaju_86，7个月前[/color]\n"
+"你说得对。我都不知道我为什么要生气。祝你仪式愉快~~~！"
+
+msgid "People are always bickering on forums."
+msgstr "人们总是在论坛上吵架。"
+
+msgid ""
+"[color=green]pklurkerx, 11 months ago[/color]\n"
+"Any tips for the bus ritual? I started it the other day but I couldn't go through with it. After I finished the preps it felt too real. Still wanna try at some point tho!"
+msgstr ""
+"[color=green]pklurkerx，11个月前[/color]\n"
+"有任何关于巴士仪式的提示吗？我前几天尝试了一下但没做完。在完成了准备步骤之后，我感觉很真。虽然我还打算再试试！"
+
+msgid ""
+"[color=green]Tomas_B, 11 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] might have some ideas."
+msgstr ""
+"[color=green]托马斯_B，11个月前[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u]可能有些说法。"
+
+msgid ""
+"[color=green]pklurkerx, 11 months ago[/color]\n"
+"Thx!"
+msgstr ""
+"[color=green]pklurkerx，11个月前[/color]\n"
+"谢谢！"
+
+msgid ""
+"[color=green]Kasaju_86, 10 months ago[/color]\n"
+"[u][color=teal]@pklurkerx[/color][/u] if you're unsure about going through with a ritual, it might be best to pass on it."
+msgstr ""
+"[color=green]Kasaju_86，10个月前[/color]\n"
+"[u][color=teal]@pklurkerx[/color][/u]如果你不确定要进行仪式的话，最好就让这事过去吧。"
+
+msgid "However curiosity is a powerful enemy, so I'll say this: Get off the bus before the end of the line, no matter what."
+msgstr "当然啊，好奇心是最大的敌人，我就说一句话：无论如何都要在巴士到达终点站之前下来。"
+
+msgid ""
+"[color=green]Tomas_B, 10 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] whats at the end of the line? O,O"
+msgstr ""
+"[color=green]托马斯_B，10个月前[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u]终点站有什么东西吗？O,O"
+
+msgid ""
+"[color=green]Kasaju_86, 10 months ago[/color]\n"
+"Who can say."
+msgstr ""
+"[color=green]Kasaju_86，10个月前[/color]\n"
+"谁知道呢。"
+
+msgid ""
+"[color=green]pklurkerx, 10 months ago[/color]\n"
+"Thx [u][color=teal]@Kasaju_86[/color][/u]! Actually someone dared me to try a ritual so I wanted to show them I can, but I'll think about it. Better safe than sorry."
+msgstr ""
+"[color=green]pklurkerx，10个月前[/color]\n"
+"谢谢[u][color=teal]@Kasaju_86[/color][/u]！其实是有人赌我不敢尝试仪式，所以我想证明自己可以，但是我会好好想想的。安全总比遗憾好。"
+
+msgid ""
+"[color=green]ShibaShiba, 2 years ago[/color]\n"
+"Has anyone ever tried the bus ritual? Where does it take you? Is it safe?"
+msgstr ""
+"[color=green]柴柴，2年前[/color]\n"
+"有人试过巴士仪式了吗？它会把你带到哪里去？它安全吗？"
+
+msgid ""
+"[color=green]heartshapedfish3, 2 years ago[/color]\n"
+"to your deathbed"
+msgstr ""
+"[color=green]心形鱼3，2年前[/color]\n"
+"带你去死"
+
+msgid ""
+"[color=green]_Headphoneboy69, 2 years ago[/color]\n"
+"If you're looking for safe rituals, you're in the wrong place."
+msgstr ""
+"[color=green]_耳机男孩69，2年前[/color]\n"
+"如果你在找安全的仪式的话，你来错地方了。"
+
+msgid ""
+"[color=green]ShibaShiba, 2 years ago[/color]\n"
+"Okay I think I'll just try it, yolo lol"
+msgstr ""
+"[color=green]柴柴，2年前[/color]\n"
+"好吧，那我就试试吧，要及时行乐哈哈哈"
+
+msgid ""
+"[color=green]catsuwu, 2 years ago[/color]\n"
+"Good luck! Let us know how it goes!"
+msgstr ""
+"[color=green]catsuwu，2年前[/color]\n"
+"祝你好运！插个眼先！"
+
+msgid ""
+"[color=green]catsuwu, 1 year ago[/color]\n"
+"[u][color=teal]@ShibaShiba[/color][/u] Any update?"
+msgstr ""
+"[color=green]catsuwu，1年前[/color]\n"
+"[u][color=teal]@柴柴[/color][/u] 有更新吗？"
+
+msgid ""
+"[color=green]heartshapedfish3, 1 year ago[/color]\n"
+"ded prolly lol"
+msgstr ""
+"[color=green]心形鱼3，1年前[/color]\n"
+"可能寄了吧哈哈哈"
+
+msgid ""
+"[color=green]catsuwu, 1 year ago[/color]\n"
+"[u][color=teal]@heartshapedfish3[/color][/u] don't be so insensitive, probably just an inactive account."
+msgstr ""
+"[color=green]catsuwu，1年前[/color]\n"
+"[u][color=teal]@心形鱼3[/color][/u] 少来，可能只是不用这个号了。"
+
+msgid ""
+"[color=green]heartshapedfish3, 1 year ago[/color]\n"
+"inactive cuz ded lol"
+msgstr ""
+"[color=green]心形鱼3，1年前[/color]\n"
+"因为寄了所以不用了哈哈哈"
+
+msgid ""
+"[color=green]Tomas_B, 1 year ago[/color]\n"
+"does anyone know whats the deal with the ads at the top of the forum o,o? there's doorknobs for sale? what's next? washing machines!?"
+msgstr ""
+"[color=green]托马斯_B，1年前[/color]\n"
+"有人知道论坛顶上那些广告是咋回事吗o,o？还有卖门把的？接下来呢？卖洗衣机！？"
+
+msgid ""
+"[color=green]Shaaaaawn, 1 year ago[/color]\n"
+"I also wanna know tbh. That ad has been up for a while, someone must be making the big bucks off broken doors lmao"
+msgstr ""
+"[color=green]肖肖肖肖恩，1年前[/color]\n"
+"我也想知道。那个广告挂了很久了，有人肯定靠砸门赚了波大的吧，笑死"
+
+msgid ""
+"[color=green]helpfulM0D, 11 months ago[/color]\n"
+"While the admins have not shared with us the sources of the ads, please remember that the site is free - ads are a necessary evil for it stay afloat."
+msgstr ""
+"[color=green]热心管理猿，11个月前[/color]\n"
+"虽然管理员没有向我们透露广告的来源，但请记住，网站是公益性质的 —— 广告是维护网站的必要之恶。"
+
+msgid ""
+"[color=green]Shaaaaawn, 11 months ago[/color]\n"
+"Fair bro you make a good point... I think i'll buy a new doorknob for my bedroom to support the site"
+msgstr ""
+"[color=green]肖肖肖肖恩，11个月前[/color]\n"
+"老哥你说得对...在考虑给我卧室买个门把赞助一下网站"
+
+msgid ""
+"[color=green]Tomas_B, 11 months ago[/color]\n"
+"[u][color=teal]@helpfulM0D[/color][/u] ok sorry if my question was out of place. im happy to have this site even if its funded by Big Doorknob haha >_>"
+msgstr ""
+"[color=green]托马斯_B，11个月前[/color]\n"
+"[u][color=teal]@热心管理猿[/color][/u] 好吧，对不起，我的问题有点不合适。不过就算是大门把手赞助的网站我也用得很开心哈哈>_>"
+
+msgid "That's where I ordered my ${item:ch1.doorknob_return}."
+msgstr "我就是在这里订购的${item:ch1.doorknob_return}。"
+
+msgid "That's where I ordered the ${item:ch1.doorknob_return} which I left by the window."
+msgstr "我就是在这里订购的${item:ch1.doorknob_return}，现在放在窗户旁边。"
+
+msgid "Supposedly I can use it to return home after doing the ritual."
+msgstr "据说在做完仪式之后，我可以用它回家。"
+
+msgid "It's most likely a scam but..."
+msgstr "听起来有点像诈骗，但是..."
+
+msgid "...if it's to placate Hiro, even a scam will do."
+msgstr "...如果能安慰到希罗的话，诈骗也没关系。"
+
+msgid "You've made a terrible mistake. Please try again."
+msgstr "你犯了一个严重的错误。请再试一次。"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "End Game"
+msgstr "结束游戏"
+
+msgid "The first item in a to-do list is always the hardest one to cross off."
+msgstr "待办清单上的第一项总是最难划掉的。"
+
+msgid "If we could just get one item done, the rest would surely follow. We just need to start."
+msgstr "如果我们能把第一件事做完，剩下的就能顺水推舟。只要我们行动起来。"
+
+msgid "That's why some people find the easiest item first, and start from there."
+msgstr "这就是为何人们会先找最简单的事情，从那里开始。"
+
+msgid "It gives them a better chance at getting something done."
+msgstr "这样，他们就更有机会完成一些事情。"
+
+msgid "This is because setting things in motion is difficult."
+msgstr "这是因为让事情起步很难。"
+
+msgid "Choosing to do homework is difficult. Choosing to clean your room is difficult. Choosing to get out of bed is difficult."
+msgstr "选择去做作业很难。选择打扫房间很难。选择上床睡觉很难。"
+
+msgid "Change is uncomfortable. It's always easier to leave things the way they are. To let the flow carry you."
+msgstr "改变会带来不适。顺其自然总是更容易一些。随波逐流亦是如此。"
+
+msgid "Until you reach a point where doing nothing does more damage than doing anything."
+msgstr "直到什么都不做，比什么都做，造成的后果更严重。"
+
+msgid "When this happens, change is no longer a choice. It's a consequence."
+msgstr "当这种情况发生时，改变就不是一个可选项。而是必选项。"
+
+msgid "Is that also a choice? The choice to do nothing?"
+msgstr "这也算一个选择吗？选择什么都不做？"
+
+msgid "...For now, I'll focus on getting the first item on the list done."
+msgstr "...现在，我要集中精力完成清单上的第一项。"
+
+msgid "All I need to do is choose..."
+msgstr "我所要做的就是选择..."
+
+msgid "Coffee"
+msgstr "咖啡"
+
+msgid "Green Tea"
+msgstr "绿茶"
+
+msgid "Strawberry Milkshake"
+msgstr "草莓奶昔"
+
+msgid "...and also..."
+msgstr "...还有..."
+
+msgid "Flan"
+msgstr "果馅饼"
+
+msgid "Macarons"
+msgstr "马卡龙"
+
+msgid "Chocolate Eclair"
+msgstr "巧克力味闪电泡芙"
+
+msgctxt "events.Global.ch1_intro.dlg.lacie"
+msgid "${var:ch1.temp_cafe_order_string}..."
+msgstr "${var:ch1.temp_cafe_order_string}..."
+
+msgid "${var:ch1.temp_cafe_order_string}....."
+msgstr "${var:ch1.temp_cafe_order_string}....."
+
+msgctxt "events.Global.ch1_intro.dlg.lacie"
+msgid "Okay."
+msgstr "好的。"
+
+msgid "I got this."
+msgstr "我记住了。"
+
+msgid "${var:ch1.temp_cafe_order_string}."
+msgstr "${var:ch1.temp_cafe_order_string}。"
+
+msgid "Could I get-"
+msgstr "请问我能点—"
+
+msgid "Oh, h-hello."
+msgstr "哦，你—你好。"
+
+msgid "(What the... this girl startled the soul out of me...)"
+msgstr "（我的天...这个女生快把我的魂吓出来了...）"
+
+msgid "(Her whole vibe is... really unsettling.)"
+msgstr "（她整体的感觉就是...令人非常不安。）"
+
+msgid "(Let's get this over with quickly.)"
+msgstr "（让我们快点结束这一切吧。）"
+
+msgid "Um... hello?"
+msgstr "呃...你好？"
+
+msgid "Could I-"
+msgstr "请问我能—"
+
+msgid "What can I get you?"
+msgstr "您需要什么？"
+
+msgid "${var:ch1.temp_cafe_order_string}?"
+msgstr "${var:ch1.temp_cafe_order_string}？"
+
+msgid "A flan, with anything on top?"
+msgstr "一块果馅饼，上面不用加什么东西吗？"
+
+msgid "Um... just one of those on display."
+msgstr "呃...显示屏上面的那种就可以。"
+
+msgid "Those are just for display. Not for sale."
+msgstr "那个只是展示用的。不是卖的。"
+
+msgid "Then... just a flan."
+msgstr "那...就一块果馅饼吧。"
+
+msgid "You need to tell me if you want it with anything..."
+msgstr "你得告诉我你想要什么样的..."
+
+msgid "Just the flan. Regular."
+msgstr "就是果馅饼。一般的那种。"
+
+msgid "...One \"regular\" flan then..."
+msgstr "...一块“一般”的果馅饼，是吧..."
+
+msgid "...Yes, regular."
+msgstr "...对，一般的。"
+
+msgid "Macarons? What kind? How many?"
+msgstr "马卡龙？要哪种？要多少？"
+
+msgid "Uh... the pink ones?"
+msgstr "呃...粉色的那种？"
+
+msgid "That can be strawberry, or raspberry, or cotton candy."
+msgstr "那可以是草莓味，覆盆子味，或者棉花糖味。"
+
+msgid "...Maybe one of each?"
+msgstr "...那每种都来一个？"
+
+msgid "The minimum is 6."
+msgstr "最少是6个。"
+
+msgid "...Okay."
+msgstr "...好吧。"
+
+msgid "So two of each."
+msgstr "那每种两个吧。"
+
+msgid "...Two of each, yes."
+msgstr "...每种两个，好。"
+
+msgid "An eclair? What kind?"
+msgstr "一个闪电泡芙？要哪种？"
+
+msgid "Chocolate, please."
+msgstr "巧克力味的，谢谢。"
+
+msgid "There are no chocolate eclairs left."
+msgstr "没有剩的巧克力味闪电泡芙了。"
+
+msgctxt "events.Global.ch1_intro.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Hazelnut is pretty much the same thing."
+msgstr "榛子味跟这个差不多。"
+
+msgid "...That one, then."
+msgstr "...那就来一个吧。"
+
+msgid "Just one?"
+msgstr "就一个？"
+
+msgid "...Yeah. One hazelnut eclair."
+msgstr "...对。一个榛子味闪电泡芙。"
+
+msgctxt "events.Global.ch1_intro.dlg.ch1_cashier"
+msgid "Alright."
+msgstr "好吧。"
+
+msgid "...And a coffee."
+msgstr "...还有一杯咖啡。"
+
+msgid "What kind of coffee?"
+msgstr "哪种咖啡？"
+
+msgid "Just coffee?"
+msgstr "就是咖啡啊？"
+
+msgid "Black, latte, with milk...?"
+msgstr "黑咖，拿铁，还有加牛奶的...？"
+
+msgid "With whipped cream?"
+msgstr "要加生奶油吗？"
+
+msgid "Also what size?"
+msgstr "还有，要多大杯？"
+
+msgid "...And a tea, please."
+msgstr "...还有一杯茶，谢谢。"
+
+msgid "Tea, or bubble tea?"
+msgstr "茶，还是珍珠奶茶？"
+
+msgid "(What's bubble tea...?)"
+msgstr "（珍珠奶茶是什么...？）"
+
+msgid "Tea, I think."
+msgstr "就茶吧，我想。"
+
+msgid "What kind? Black, purple, oolong...?"
+msgstr "要哪种？红茶，紫茶，乌龙茶...？"
+
+msgid "(Which was it...? It was none of those...!)"
+msgstr "（都是啥...？不是这些...！）"
+
+msgid "...Maybe bubble tea then?"
+msgstr "...那就珍珠奶茶好了？"
+
+msgid "You still need to choose a flavor."
+msgstr "你还是得选一种口味。"
+
+msgid "...Have you even looked at the menu?"
+msgstr "...你看过菜单了吗？"
+
+msgid "...And the milkshake."
+msgstr "...还有一杯奶昔。"
+
+msgid "What flavor?"
+msgstr "什么味的？"
+
+msgid "Um... strawberry please."
+msgstr "呃...草莓味的，谢谢。"
+
+msgid "We're out of strawberries. We'll go with concentrate, okay?"
+msgstr "我们没有草莓了。那就浓缩的了，可以吗？"
+
+msgid "...W-wait... concentrate?"
+msgstr "...等—等下...浓缩？"
+
+msgid "Unless you wanna choose something else."
+msgstr "除非你想选别的。"
+
+msgid "Another fruit...?"
+msgstr "别的水果呢...？"
+
+msgid "(What fruits are there...? I should have thought of this in advance...!)"
+msgstr "（有哪些水果...？我应该提前想好的...！）"
+
+msgid "I don't have all day, you know."
+msgstr "我没那么多时间，你知道吧。"
+
+msgid "...Um... Actually, just a bottle of water... please."
+msgstr "...呃...其实，一瓶水就可以了...谢谢。"
+
+msgid "...A bottle of water and a flan...?"
+msgstr "...一瓶水和一块果馅饼...？"
+
+msgid "...A water and six macarons?"
+msgstr "...水和六块马卡龙？"
+
+msgid "...A bottle of water and a single eclair?"
+msgstr "...一瓶水和一个闪电泡芙？"
+
+msgctxt "events.Global.ch1_intro.dlg.lacie"
+msgid "Yes."
+msgstr "嗯。"
+
+msgid "Have a seat, I'll bring it for you."
+msgstr "找位置坐下吧，我给你送过去。"
+
+msgid "(...that was embarrassing.)"
+msgstr "（...好尴尬啊。）"
+
+msgid "(I scared the cashier and couldn't even get what I wanted...)"
+msgstr "（我把收银员吓到了，而且还没得到我想要的...）"
+
+msgid "(I can't even do this much?)"
+msgstr "（我连这都做不好吗？）"
+
+msgid "What is it? Did you notice that girl too?"
+msgstr "怎么？你也注意到那个女孩了吗？"
+
+msgid "Is it just me or does she seem strange to you?"
+msgstr "应该不止我感觉她很奇怪吧？"
+
+msgid "I was just about to say the same thing."
+msgstr "我刚想说呢。"
+
+msgid "She gives off creepy vibes..."
+msgstr "她给人一种恐怖的感觉..."
+
+msgid "(This again...? Just ignore them...)"
+msgstr "（又来了...？无视她们好了...）"
+
+msgid "Do you wanna move?"
+msgstr "你想换位置吗？"
+
+msgid "I'd feel impolite switching tables now, but..."
+msgstr "虽然换桌有点不礼貌，但是..."
+
+msgid "Yeah, let's go."
+msgstr "嗯，走吧。"
+
+msgid "Go go, before she curses us or something!"
+msgstr "走，走，在我们被她诅咒或者怎样之前！"
+
+msgid "(Lacie... relax.)"
+msgstr "（莱西...放轻松。）"
+
+msgid "(It's just two girls. You can put up with it.)"
+msgstr "（就只是两个女孩子。你可以忍受的。）"
+
+msgid "That girl.. isn't she the daughter of the family who lives on the next block?"
+msgstr "那个女孩...她不是住在隔壁街区那户人家的女儿吗？"
+
+msgid "Oh my goodness. You're right."
+msgstr "我的天。你是对的。"
+
+msgid "Man... Just being around her gives me the chills."
+msgstr "天呐...待在她身边都让我打寒颤。"
+
+msgid "What is it about her, I wonder?"
+msgstr "我想问问，她怎么了？"
+
+msgid "Whatever! She's a freak."
+msgstr "谁知道！她是个疯子。"
+
+msgid "Mommy can we leave? That lady..."
+msgstr "妈咪，我们能走了吗？那位小姐姐..."
+
+msgid "Shh! Don't look in her direction. Finish your food and we'll go."
+msgstr "嘘！不要看她那个方向。吃完你的东西我们就走。"
+
+msgid "I don't want it anymore, I wanna go..."
+msgstr "我不想吃了，我想走..."
+
+msgid "I've met her brother though, he was in one of my classes."
+msgstr "我见过她的哥哥，他是我们班里的。"
+
+msgid "She's nothing like him."
+msgstr "她可一点也不像他。"
+
+msgid "Mommy she's scary..."
+msgstr "妈咪，她好吓人..."
+
+msgid "I pity the poor people who have to share a classroom with her."
+msgstr "我为那些不得不和她共用一间教室的人感到可怜。"
+
+msgid "Imagine what her family must feel having a daughter with such a reputation."
+msgstr "想想看，她的家人有这样一个声名狼藉的女儿，心里会是什么滋味。"
+
+msgid "Oh man... and after what happened..."
+msgstr "我的天呐...在那发生之后..."
+
+msgid "Sucks to have a broken family. They don't deserve that."
+msgstr "破碎的家庭关系是很糟糕的。他们不应该遭受这样的待遇。"
+
+msgid "It's probably her fault, don't you think?"
+msgstr "可能都是她的错，你是不是也这么想？"
+
+msgid "(Ah... I couldn't even get what I paid for...)"
+msgstr "（啊...这下我连我花钱买的也得不到了...）"
+
+msgid "Sigh... that was terrible."
+msgstr "哎...太糟糕了。"
+
+msgid "I knew it was a bad idea to go out."
+msgstr "我就知道出去是个坏主意。"
+
+msgid "At least that's out of the way."
+msgstr "至少这已经不碍事了。"
+
+msgid "I need to lie down for a minute..."
+msgstr "我必须要去躺一会儿..."
+
+msgid "...Looks like we got a visitor, though."
+msgstr "...看起来有客人来了。"
+
+msgid "That's enough, I think."
+msgstr "我想应该已经够了。"
+
+msgid "Hmmm... even if I catch one, I don't have anywhere to put it."
+msgstr "呣...就算我抓到了一只，我也没地方放。"
+
+msgid "That should do it."
+msgstr "应该够用了。"
+
+msgctxt "events.Global.ch1_item_forest_lockedsite_letter.dlg.narrator"
+msgid "The note reads:"
+msgstr "字条上写着："
+
+msgid "\"For Marzie,"
+msgstr "“致马尔齐，"
+
+msgid "You found my note!"
+msgstr "你找到了我的笔记！"
+
+msgid "I looked everywhere, but there doesn't seem to be any other path to head North other than this one (not that I know of at least.)"
+msgstr "我找遍了所有地方，但是除了这条路，似乎就没有其他通往北边的路了（至少据我所知）。"
+
+msgid "They locked it because of the primal attacks, things were getting out of hand."
+msgstr "因为原初恶魔的袭击，他们将那里锁起来了，事态不妙啊。"
+
+msgid "Please be careful when crossing it!"
+msgstr "在穿过那里时一定要小心！"
+
+msgid "Luckily for you, I got my hands on the keys and hid them around this area."
+msgstr "幸运的是，我拿到了钥匙，并把它们藏在了这附近。"
+
+msgid "The first one should be taped to the back of a nearby tree. The tree's color is all wrong, so you can easily find it."
+msgstr "第一把应该贴在附近一棵树的背面。树的颜色格格不入，所以你很容易就能找到它。"
+
+msgid "The second one is in front of the weird sculptor's house. There's a row of flowers but one of them is actually a cactus!"
+msgstr "第二把是在奇怪的雕塑家的房子前面。那里有一排花，但其中有一朵其实是仙人掌！"
+
+msgid "The last one is under a fake rug near the red docks. Just turn left when you see the sign. It's a bit hidden, but I believe in you!"
+msgstr "最后一个在红色码头附近的假地皮下面。看到标牌后左转就能找到。虽然有点难找，但我相信你！"
+
+msgid "See you on the other side!\""
+msgstr "另一头见！”"
+
+msgctxt "events.Global.ch1_item_forest_lockedsite_note_1.dlg.narrator"
+msgid "The note reads:"
+msgstr "字条上写着："
+
+msgid "\"Ta-daaa!"
+msgstr "“嗒—哒！"
+
+msgid "Only real professional tree huggers would be able to find this key."
+msgstr "只有专业的树木拥抱师才能找到这把钥匙。"
+
+msgid "As expected from my best assistant treasure hunter scout!"
+msgstr "不愧是来自我们最棒的寻宝猎人童子军协会的一员！"
+
+msgid "(PS: We should think of a better name for ourselves.)"
+msgstr "（PS：我觉得我们应该给自己取个更好的名字。）"
+
+msgid "(\"Assistant treasure hunter scout\" might be a bit too long.)\""
+msgstr "（“寻宝猎人童子军协会”可能有点太长了。）”"
+
+msgctxt "events.Global.ch1_item_forest_lockedsite_note_2.dlg.narrator"
+msgid "The note reads:"
+msgstr "字条上写着："
+
+msgid "\"You got it!"
+msgstr "“你找到了！"
+
+msgid "Luckily the creepy sculptor man never comes out, so he'll never know about this hiding spot."
+msgstr "幸运的是，那个可怕的雕塑家从来没有出来过，所以他永远也不会知道这个藏宝地。"
+
+msgid "If you're extra brave, I also hid some coins inside his place!\""
+msgstr "如果你特别勇敢的话，我还在他家里藏了很多硬币哦！”"
+
+msgctxt "events.Global.ch1_item_forest_lockedsite_note_3.dlg.narrator"
+msgid "The note reads:"
+msgstr "字条上写着："
+
+msgid "\"What do you think?"
+msgstr "“你怎么想呢？"
+
+msgid "I think this is my best hiding spot yet!"
+msgstr "我觉得这是我目前最好的藏宝地了！"
+
+msgid "No one would search for something in plain sight!\""
+msgstr "没有人会在平地之下寻找东西吧！”"
+
+msgctxt "events.Global.ch1_item_forest_lockedsite_note_4.dlg.narrator"
+msgid "The note reads:"
+msgstr "字条上写着："
+
+msgid "\"Marzie! One last thing: This place is a maze."
+msgstr "“马尔齐！最后一件事：这个地方是个迷宫。"
+
+msgid "I left some flower petals on the ground to mark the way."
+msgstr "我在地上扔了些花瓣来标路。"
+
+msgid "I stole them from the sculptor man hehehe"
+msgstr "我从雕塑家那里偷的哈哈哈"
+
+msgid "Anyway, follow them and you'll reach the exit in no time!"
+msgstr "总之，跟着它们走，你就到很快到达出口啦！"
+
+msgid "P.S.: Walk slowly and listen in to your surroundings!\""
+msgstr "P.S.：走慢点，听听周围的声音！”"
+
+msgid "I'm not hungry right now."
+msgstr "我现在还不饿。"
+
+msgid "No... no way."
+msgstr "不...不行。"
+
+msgid "You're not doing that."
+msgstr "你不能这么做。"
+
+msgid "The sketchbook is full of unsettling sketches."
+msgstr "绘图本上画满了令人不安的画。"
+
+msgid "You take a look at the sketchbook."
+msgstr "你翻了翻绘图本。"
+
+msgid "It's full of unsettling sketches."
+msgstr "上面画满了令人不安的画。"
+
+msgid "She's still pretty talented though."
+msgstr "虽然说她还是很有天赋的。"
+
+msgid "(What to do with the knife?)"
+msgstr "（要用刀怎么做？）"
+
+msgid "Cut myself"
+msgstr "割伤自己"
+
+msgid "Ask Sai to cut himself"
+msgstr "请赛伊割伤他自己"
+
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgid "Do you mind...?"
+msgstr "你介意吗...？"
+
+msgid "Oh."
+msgstr "哦。"
+
+msgid "Sure!"
+msgstr "没问题！"
+
+msgid "(Why did he not hesitate at all?!)"
+msgstr "（为什么他都不犹豫一下？！）"
+
+msgid "You don't want to mix them."
+msgstr "你不想它们混在一起。"
+
+msgid "I don't want to mix them..."
+msgstr "我不想把它们混在一起..."
+
+msgid "You can make even more colors if you mix them."
+msgstr "你把它们混在一起的话，可以调出更多颜色。"
+
+msgid "I know that."
+msgstr "这我知道。"
+
+msgid "You have enough of that color."
+msgstr "这种颜色已经够多了。"
+
+msgid "(Instructions on how to make a paper lily.)"
+msgstr "（折纸百合的教程。）"
+
+msgid "(You don't need to memorize them.)"
+msgstr "（你不需要记住它们。）"
+
+msgid "\"Stone Curse - Lifting ritual\""
+msgstr "“石咒 — 驱除仪式”"
+
+msgid "Gather cursed tree bark, ink mushrooms, and an artist's inspiration."
+msgstr "收集被诅咒的树皮，墨色蘑菇，还有一朵艺术家的灵感。"
+
+msgid "Create solvent (chemistry set needed)."
+msgstr "制作溶剂（需要一套化学装置）。"
+
+msgid "Pour solvent on cursed object."
+msgstr "将试剂泼在被诅咒的物体上。"
+
+msgid "The code for the keypad behind the mirror in Red's house."
+msgstr "瑞德屋子里，镜子后面的密码锁的密码。"
+
+msgid "It reads: \"${var:persistent.ch1_red_passage_code}\""
+msgstr "上面写着：“${var:persistent.ch1_red_passage_code}”"
+
+msgid "It's the bus ritual instructions."
+msgstr "这是巴士仪式的教程。"
+
+msgid "It details how to summon a bus which picks you up at night."
+msgstr "详细介绍了如何在夜间召唤巴士将你带走。"
+
+msgid "Read the full ritual rules?"
+msgstr "要阅读完整的仪式规则吗？"
+
+msgctxt "events.Global.ch1_item_ritual_letter.choice.Read the full ritual rules?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Global.ch1_item_ritual_letter.choice.Read the full ritual rules?"
+msgid "No"
+msgstr "否"
+
+msgid "You must play alone."
+msgstr "你必须一个人进行"
+
+msgid "Requirements:"
+msgstr "所需材料："
+
+msgid ""
+"- An indoor location\n"
+"- A landline phone\n"
+"- A red thread"
+msgstr ""
+"- 一个室内环境\n"
+"- 一台固定电话\n"
+"- 一根红线"
+
+msgid ""
+"- Red paint\n"
+"- A rune\n"
+"- A clock"
+msgstr ""
+"- 红色颜料\n"
+"- 一颗符文石\n"
+"- 一个闹钟"
+
+msgid "Preparations:"
+msgstr "前期准备："
+
+msgid "Complete the preparations before the sun has set."
+msgstr "在日落前完成准备工作。"
+
+msgid "Tie a red thread to the phone cord."
+msgstr "在电话线上系一条红线。"
+
+msgid "Using the red paint, draw the following symbol on the exit door of your chosen location. The door must lead outside."
+msgstr "用红色颜料，在你所选地点的出口门上画出所示符号。门必须通往外界。"
+
+msgid "Set the alarm clock to midnight."
+msgstr "将闹钟设置到午夜。"
+
+msgid "Instructions:"
+msgstr "仪式步骤："
+
+msgid "Go to sleep."
+msgstr "睡觉。"
+
+msgid "When the alarm clock rings, get up and dial the following number on the phone: 999281#0"
+msgstr "当闹钟响起，起床拨打如下号码：999281#0"
+
+msgid "When the line connects, say the following words: \"My bus is late\"."
+msgstr "当电话接通，说出如下语句：“我的巴士迟到了”。"
+
+msgid "Board the bus before it leaves."
+msgstr "在巴士离开之前登上。"
+
+msgid "Place the rune inside the bus ticket machine."
+msgstr "在巴士售票器处投入符文石。"
+
+msgid "Remember:"
+msgstr "注意事项："
+
+msgid "Do NOT bring any weapons with you."
+msgstr "禁止携带任何武器。"
+
+msgid "The phone may no longer look the same at night. Remember the placement of the numbers."
+msgstr "电话在夜间看起来可能会有所不同。记住号码的位置。"
+
+msgid "It's locked."
+msgstr "锁住了。"
+
+msgid "A lamppost."
+msgstr "一盏路灯。"
+
+msgid "It doesn't seem to be working."
+msgstr "看起来没用。"
+
+msgid "You can see the neighbor's house from here."
+msgstr "从这里可以看见邻居的房子。"
+
+msgid "Let's try to avoid eye contact with them if possible."
+msgstr "试着尽量避免与他们的眼神交流吧。"
+
+msgid "There seems to be someone staring at you from the other house..."
+msgstr "似乎有人在另一栋房子里盯着你..."
+
+msgid "I'm back~"
+msgstr "我回来啦~"
+
+msgid "Hope you haven't been giving away products for free again!"
+msgstr "希望你没有再把商品免费送出去！"
+
+msgid "How's things back here little Kat? Any sales?"
+msgstr "小凯特，这里怎样啦？有卖出去吗？"
+
+msgid "...What's going on in here?! This isn't a daycare!"
+msgstr "...这是怎么回事？！这里可不是托管所！"
+
+msgid "...You've been giving our merchandise away for free again, haven't you?"
+msgstr "...你又把我们的商品送出去了，是不是？"
+
+msgid "Man... what the hell am I gonna do with you?"
+msgstr "天呐...我到底要拿你怎样才好？"
+
+msgid "You feel somewhat stronger now."
+msgstr "你感觉自己现在强壮了一些。"
+
+msgid "You feel quite a bit stronger now."
+msgstr "你感觉自己现在强壮了很多。"

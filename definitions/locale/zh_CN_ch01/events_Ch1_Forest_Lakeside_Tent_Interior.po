@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Please hurry, or my sister will kill us both."
+msgstr "请快一点，不然我姐姐会把我们都杀掉的。"
+
+msgid "Here or outside is fine."
+msgstr "里面或者外面都可以。"
+
+msgid "We really appreciate it."
+msgstr "我们真的很感激。"
+
+msgid "Hurry the hell up already!"
+msgstr "快点儿啊！"
+
+msgid "What are you doing?"
+msgstr "你在做什么呢？"
+
+msgid "Don't babysit him, KILL HIM!"
+msgstr "别照顾他了，杀了他！"
+
+msgid "Oh my god. The silence. It's so damn good."
+msgstr "我的天呐。安静了。太他妈棒了。"
+
+msgid "Here you go, you earned it."
+msgstr "给你，这是你应得的。"
+
+msgid "Not sure why you'd want this though."
+msgstr "虽然说不知道为什么你要这个。"
+
+msgid "Thanks."
+msgstr "谢谢。"
+
+msgid "Thank the cursed heavens it's gone."
+msgstr "感谢被诅咒的上天，它已经消失了。"
+
+msgid "Alright, I guess I'll just..."
+msgstr "好吧，我猜我只要..."
+
+msgid "Yes, kill it. Do it."
+msgstr "对，杀了它。去吧。"
+
+msgid "Quickly."
+msgstr "快点吧。"
+
+msgid "HUZZAH!!!!!"
+msgstr "乌拉！！！！！"
+
+msgid "Finally."
+msgstr "终于。"
+
+msgid "Dead dead dead!"
+msgstr "死咯死咯死咯！"
+
+msgid "You'll kill him???"
+msgstr "你会杀他的对吧？？？"
+
+msgid "I guess so."
+msgstr "我猜，会吧。"
+
+msgid "THANK THE HEAVENS."
+msgstr "感谢上天。"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.ch1_terrarium"
+msgid "..."
+msgstr "..."
+
+msgid "You shut the hell up. You're dead meat, jerk."
+msgstr "你给我闭嘴。你死定了，混蛋。"
+
+msgid "Farewell, little brother. It has been a displeasure."
+msgstr "永别了，小弟弟。很遗憾。"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(What now...?)"
+msgstr "（现在怎么办...？）"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Kill it here"
+msgstr "把它杀死"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Do not"
+msgstr "不要"
+
+msgid "Why're you carrying a bucket?"
+msgstr "为什么你带着一个桶？"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_bucket_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(To be honest, I'm not so sure myself.)"
+msgstr "（说真的，我也不知道。）"
+
+msgid "(Um...)"
+msgstr "（呃...）"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Kill it here"
+msgstr "把它杀死"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Do not"
+msgstr "不要"
+
+msgid "What's taking so long?!"
+msgstr "怎么这么慢？！"
+
+msgid "...Damn. That was pretty metal."
+msgstr "...该死。真是一股子金属味。"
+
+msgid "It stinks though."
+msgstr "而且很臭。"
+
+msgid "No take backs!"
+msgstr "不接受退货！"
+
+msgid "Dang."
+msgstr "哎。"
+
+msgid "Huh... he's a lot quieter when he's with you."
+msgstr "啊...他跟着你的时候安静多了。"
+
+msgid "Maybe he's anticipating his demise!?"
+msgstr "也许他在期待着自己的死亡！？"
+
+msgid "Oh man, can't wait!!!"
+msgstr "天呐老兄，等不及了啊！！！"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I don't need to see him anymore."
+msgstr "我再也不用见到他了。"
+
+msgid "Not ALIVE, at least."
+msgstr "至少不用活着见到。"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_boy.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "你知道这个会把我带到哪去吗？"
+
+msgid "No. We found that lying around when we were setting up camp."
+msgstr "不知道。我们在扎营时发现了这个东西。"
+
+msgid "I see..."
+msgstr "好吧..."
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_girl.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "你知道这个会把我带到哪去吗？"
+
+msgid "No idea."
+msgstr "不知道。"
+
+msgid "Please, we already gave you the doorknob."
+msgstr "拜托，我们已经给你门把了。"
+
+msgid "What more do you want?"
+msgstr "你还想要干什么？"
+
+msgid "Oh god..."
+msgstr "天呐..."
+
+msgid "Please stop, I seriously can't stand that."
+msgstr "请停下来，我真的受不了了。"
+
+msgid "Get that shit away from me."
+msgstr "把那玩意儿拿开。"
+
+msgid "Hate that crap."
+msgstr "我讨厌这种垃圾。"
+
+msgid "Alright alright geez!"
+msgstr "好吧好吧，天呐！"
+
+msgid "Just take the stupid doorknob and leave!"
+msgstr "带着你那愚蠢的门把走吧！"
+
+msgid "That smells putrid..."
+msgstr "闻起来真臭..."
+
+msgid "I guess I get to keep him...?"
+msgstr "我想我可以把他留下...？"
+
+msgid "No thanks, I don't care for stones."
+msgstr "不用了，谢谢，我不想照顾石头。"
+
+msgid "The heck would I need that for?"
+msgstr "我他妈要这个有什么用？"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "To give to Rune..?"
+msgstr "把它交给符文..？"
+
+msgid "Who the heck is Rune?"
+msgstr "符文他妈是谁？"
+
+msgid "What in the world are you doing!?"
+msgstr "你到底在干什么？"
+
+msgid "Maybe she's deranged."
+msgstr "也许她精神错乱了。"
+
+msgid "You said to kill it."
+msgstr "你们说要杀了它啊。"
+
+msgid "Yeah, so do it already!"
+msgstr "对啊，所以去做啊！"
+
+msgid "(Hmmm...)"
+msgstr "（嗯......）"
+
+msgid "(I guess salt doesn't work on moths.)"
+msgstr "（我猜盐对蛾子可能没有用吧。）"
+
+msgid "What. The. FUCK."
+msgstr "我。嘞个。去。"
+
+msgid "...Oh man..."
+msgstr "...哦，老兄..."
+
+msgid "A fireplace."
+msgstr "营火。"
+
+msgid "(There's no smoke...?)"
+msgstr "（没有烟...？）"
+
+msgid "Take ${item:ch1.forest_caterpillar}?"
+msgstr "要带走${item:ch1.forest_caterpillar}吗？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"

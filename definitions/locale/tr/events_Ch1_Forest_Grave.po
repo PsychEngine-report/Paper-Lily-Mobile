@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You left a flower.)"
+msgstr "(Bir çiçek bıraktın.)"
+
+msgid "Some building blocks."
+msgstr "Bazı binalar engel oluyor."
+
+msgid "A sand bucket."
+msgstr "Bir kum kovası."
+
+msgid "A stack of playing cards. They look handmade."
+msgstr "Bir oyun kartları yığını. El yapımı görünüyorlar."
+
+msgid "A gravestone lies here. You can't make out the name on it."
+msgstr "Burda bir mezar taşı duruyor. Üzerinde yazan ismi çıkartamıyorsun."
+
+msgid "There's a neatly written note taped to the back of the gravestone."
+msgstr "Mezar taşının arkasında bantlanmış okunur bir şekilde yazılmış bir not var."
+
+msgid "Read it?"
+msgstr "Onu oku？"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "It's been 5 years since your passing."
+msgstr "Sen öldüğünden beri 5 yıl geçmiş."
+
+msgid "I often wonder if things would have been different, had I been with you."
+msgstr "Çoğu zaman merak ediyorum eğer seninle birlikte olsaydım, işler farklı mı olurdu?"
+
+msgid "Would I have been able to protect you?"
+msgstr "Seni koruyabilir miydim?"
+
+msgid "Would I have died in your place?"
+msgstr "Senin yerinde olsaydım ölür müydüm?"
+
+msgid "I would have gladly accepted that resolution."
+msgstr "Bu kararı memnuniyetle kabul ederdim."
+
+msgid "I wish I was strong and brave enough to fight for you."
+msgstr "Keşke senin için savaşacak kadar güçlü ve cesur olsaydım."
+
+msgid "But vengeance won't bring you back."
+msgstr "Ama intikam seni geri getirmicek."
+
+msgid "I can only continue to warn everyone, and hope the locked site doesn't take another victim."
+msgstr "Sadece herkesi uyarmaya devam edebilirim ve kapalı alanın başka bir kurban almamasını umabilirim."
+
+msgid "It's been quiet in the forest for the past few years."
+msgstr "Geçen bir kaç yıldır orman sessiz."
+
+msgid "But I know you always hated quiet."
+msgstr "Ama biliyorum ki sen sessizlikten her zaman nefret ettin."
+
+msgid "Please rest well."
+msgstr "Lütfen huzurla uyu."
+
+msgid "I'll visit you again soon."
+msgstr "Seni yakında tekrar ziyaret ediceğim."
+
+msgid "- Marzie"
+msgstr "-Marzie"
+
+msgid "A vase with fresh cut flowers."
+msgstr "Taze kesme çiçeklerle dolu bir vazo."

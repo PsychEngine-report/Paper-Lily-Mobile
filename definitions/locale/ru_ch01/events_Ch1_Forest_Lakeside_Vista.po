@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a paddle here."
+msgstr "Здесь есть весло."
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "Взять предмет: ${item:ch1.forest_paddles}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "The pier ends here."
+msgstr "Пирс заканчивается здесь."
+
+msgid "Some purple flowers."
+msgstr "Фиолетовые цветочки."
+
+msgid "They're growing abundantly between these rocks."
+msgstr "Они в изобилии растут между этими камнями."
+
+msgid "Take some ${item:ch1.lakeside_petals_purple}?"
+msgstr "Взять предмет: ${item:ch1.lakeside_petals_purple}?"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_purple}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_purple}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A large structure looms over the lake in the distance."
+msgstr "Вдалеке возвышается огромное строение."
+
+msgid "What is that place..?"
+msgstr "Что это за место?.."
+
+msgid "..."
+msgstr "..."
+
+msgid "Hmm... I can't see the lighthouse from here."
+msgstr "Хм-м... Отсюда мне не видно маяк."
+
+msgid "It might be beyond those trees."
+msgstr "Он может быть вон за теми деревьями."
+
+msgid "Oh well."
+msgstr "Ну и ладно."

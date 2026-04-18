@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "Quarto do Hiro."
+
+msgid "..."
+msgstr "..."
+
+msgid "I'd rather not go in without permission..."
+msgstr "Prefiro não entrar sem permissão..."
+
+msgid "You shouldn't go in."
+msgstr "Você não deveria entrar."
+
+msgid "You won't go in."
+msgstr "Você não vai entrar."
+
+msgid "Some books and magazines."
+msgstr "Alguns livros e revistas."
+
+msgid "No reading space would be complete without decorative books."
+msgstr "Nenhum espaço de leitura estaria completo sem livros decorativos."
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "É uma espécie de decoração. Você realmente não sabe."
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "É uma pintura, semelhante à que está lá embaixo."
+
+msgid "A painting."
+msgstr "Uma pintura."
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "É uma pintura idêntica à da esquerda."
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "É uma pintura idêntica à da direita."
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "Fotos das férias de inverno. Você não está em nenhuma delas."
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "Uma planta bonita. Os brotos não são comestíveis."
+
+msgid "A plant."
+msgstr "Uma planta."
+
+msgid "Some old family pictures."
+msgstr "Algumas fotos antigas de família."
+
+msgid "The backyard can be seen from here."
+msgstr "O quintal pode ser visto daqui."
+
+msgid "Something is written on the door:"
+msgstr "Algo está escrito na porta:"
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "“O que é esse quarto? Você passou muito tempo lá."
+
+msgid "Always finding new places to hide away from the world."
+msgstr "Sempre encontrando novos lugares para se esconder do mundo."
+
+msgid "Did you ever stop hiding?\""
+msgstr "Você já parou de se esconder?\""

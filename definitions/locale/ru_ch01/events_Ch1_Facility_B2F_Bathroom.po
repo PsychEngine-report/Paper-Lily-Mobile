@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Huh... A bathroom?)"
+msgstr "(Что... уборная?)"
+
+msgid "Um... excuse me."
+msgstr "Эм... прошу прощения."
+
+msgid "Could you wait outside?"
+msgstr "Подождёшь снаружи?"
+
+msgid "Wha-? Oh. Of course."
+msgstr "Чт-? А. Конечно."
+
+msgid "I- ...I guess I'll stay out there."
+msgstr "Я, это... буду стоять там."
+
+msgid "Scream if you need me."
+msgstr "Если что, кричи."
+
+msgid "...I won't."
+msgstr "...Не закричу."
+
+msgid "(Now I get to have some time away from that guy.)"
+msgstr "(Теперь можно хоть немного отдохнуть от этого парня.)"
+
+msgid "(Is it really safe to have him around?)"
+msgstr "(Рядом с ним хоть безопасно?)"
+
+msgid "(A bathroom?)"
+msgstr "(Уборная?)"
+
+msgid "(I hope that guy won't find me here.)"
+msgstr "(Надеюсь, этот парень меня тут не найдёт.)"
+
+msgid "(I don't really trust him... Hopefully he's not searching for me...)"
+msgstr "(Я ему пока не доверяю... надеюсь, он меня не ищет...)"
+
+msgid "(Hiro would tell me to have a bit of faith in others, but...)"
+msgstr "(Хиро бы попросил меня больше верить в окружающих, но...)"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I wonder if I could ask Hiro.)"
+msgstr "(Может, всё же стоит спросить Хиро.)"
+
+msgid "(Is it even possible to call from here?)"
+msgstr "(Отсюда вообще реально куда-то дозвониться?)"
+
+msgid "(I still have no signal... but... that didn't matter last time.)"
+msgstr "(Сигнала по-прежнему нет... но в прошлый раз это не имело значения.)"
+
+msgid "Oh... I'm out of battery."
+msgstr "Ой... батарея села."
+
+msgid "That's not good... I suppose using it as a flashlight killed it."
+msgstr "Нехорошо... наверное, фонарик её разрядил."
+
+msgid "...Oh well."
+msgstr "...Ну ладно."
+
+msgid "I'll give it a try."
+msgstr "Попробуем."
+
+msgid "Lace!"
+msgstr "Лэйси!"
+
+msgid "Oh good..."
+msgstr "Господи..."
+
+msgid "Thank goodness I can reach you, Hiro..."
+msgstr "Хиро, слава богу, я смогла до тебя дозвониться..."
+
+msgid "Are you alright!?"
+msgstr "Ты в порядке?!"
+
+msgid "What happened!?"
+msgstr "Что случилось?!"
+
+msgid "Are you safe!?"
+msgstr "Ты в безопасности?!"
+
+msgid "Yes, I'm okay."
+msgstr "Да, всё нормально."
+
+msgid "(Though I did fall down the stairs and wake up in some sort of dungeon...)"
+msgstr "(Хоть я и потеряла сознание и очнулась в этом подземелье...)"
+
+msgid "(and there's a strange guy following me everywhere...)"
+msgstr "(...а ещё за мной по пятам ходит какой-то парень...)"
+
+msgid "(...and there was a strange guy following me everywhere...)"
+msgstr "(...а ещё за мной по пятам ходил какой-то парень...)"
+
+msgid "(...and Rune said there's no way out.)"
+msgstr "(...и Рун сказал, что отсюда нет выхода.)"
+
+msgid "Everything is okay, don't worry."
+msgstr "Да, всё пучком, не переживай."
+
+msgid "Thank god."
+msgstr "Слава богу."
+
+msgid "Is everything alright? Why are you whispering?"
+msgstr "Всё нормально? Почему ты говоришь шёпотом?"
+
+msgid "Because there's someone right outside, and..."
+msgstr "Потому что за дверью кое-кто стоит, и..."
+
+msgid "Because someone might be looking for me."
+msgstr "Потому что кое-кто может меня искать."
+
+msgid "An enemy!?"
+msgstr "Враг?!"
+
+msgid "No, well... he says he's not."
+msgstr "Нет, он... Он сказал, что он не враг."
+
+msgid "And now he's following me around."
+msgstr "А сейчас ходит за мной как хвостик."
+
+msgid "You made a friend!?"
+msgstr "Ты завела себе друга?!"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "No."
+msgstr "Нет."
+
+msgid "I don't really trust him."
+msgstr "Я ему не особо доверяю."
+
+msgid "But maybe it's better to have company! He might be willing to tag along and help!"
+msgstr "Но его компания может пойти на пользу! Вдруг он захочет пойти с тобой и помочь?"
+
+msgid "But... that's why it's strange."
+msgstr "Вот это и странно."
+
+msgid "Why is he willing to tag along?"
+msgstr "Почему он хочет пойти со мной?"
+
+msgid "...You know how people act around me, Hiro..."
+msgstr "...Хиро, ты же знаешь, как люди ведут себя вокруг меня..."
+
+msgid "And he's just acting...like nothing is wrong with me."
+msgstr "А он... делает вид, будто со мной всё нормально."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.hiro"
+msgid "Hmmm..."
+msgstr "Хм..."
+
+msgid "You sound conflicted."
+msgstr "Ты кажешься растерянной."
+
+msgid "Well... I don't really care, I just..."
+msgstr "Ну... мне, по большому счёту, всё равно, но..."
+
+msgid "He's just shady."
+msgstr "Он какой-то мутный тип."
+
+msgid "Well, tell you what. It's your choice."
+msgstr "Скажу тебе так - решай сама."
+
+msgid "You can have him tag along and see how it plays out..."
+msgstr "Можешь пойти с ним и посмотреть, как всё развернётся..."
+
+msgid "...or you can ditch him."
+msgstr "...а можешь его кинуть."
+
+msgid "No, well... he said he's not."
+msgstr "Нет, он... Он сказал, что он не враг."
+
+msgid "But... it doesn't matter. I already got rid of him."
+msgstr "Но... неважно. Я уже от него избавилась."
+
+msgid "Well, I can't condone murder but..."
+msgstr "Что ж, я обычно не пытаюсь оправдывать убийство, но..."
+
+msgid "No! Not like that! Hiro!"
+msgstr "Нет! Хиро, всё совсем не так!"
+
+msgid "He's still somewhere around... I just slipped away for a bit."
+msgstr "Он до сих пор тут ходит... я просто ненадолго скрылась от него."
+
+msgid "Well, tell you what."
+msgstr "Что ж, скажу так..."
+
+msgid "Next time he finds you, you could try locking him up somewhere."
+msgstr "Когда он найдёт тебя, постарайся его где-то закрыть."
+
+msgid "Huh... it's not like you to suggest something like that."
+msgstr "Ого... это будто не ты сказал."
+
+msgid "Well, I personally think you should have a bit of faith in him! But it's up to you."
+msgstr "Что ж, лично мне кажется, что ты должна в него хоть капельку поверить! Но ты решай сама."
+
+msgid "Well, I personally think you could go back and apologize."
+msgstr "Что ж, лично мне кажется, что ты должна вернуться и извиниться перед ним."
+
+msgid "Nothing wrong with making a friend, right? Still, it's up to you."
+msgstr "Завести друга - дело не зазорное, согласна? И всё же решай сама."
+
+msgid "(Yeah... that's more like it.)"
+msgstr "(Да, вот так-то лучше.)"
+
+msgid "I should go."
+msgstr "Мне пора идти."
+
+msgid "Be careful, Lace."
+msgstr "Ты аккуратно там, Лэйси."
+
+msgid "Get back home safely."
+msgstr "Возвращайся домой в целости и сохранности."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "Yeah."
+msgstr "Ага."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "I can't believe I'm entertaining this idea."
+msgstr "Не верю, что даю этой идее шанс."
+
+msgid "This is the stupidest thing I've ever done."
+msgstr "Ничего тупее в своей жизни не делала."
+
+msgid "Just a few more trips!"
+msgstr "Ещё несколько заходов!"
+
+msgid "This'll work, you'll see."
+msgstr "Всё получится, вот увидишь."
+
+msgid "There's no way."
+msgstr "Ни за что не поверю."
+
+msgid "At least this is a good workout."
+msgstr "Ну хоть мускулами поработаешь."
+
+msgid "(I'm not fit enough for this...)"
+msgstr "(Я для такого не в форме...)"
+
+msgid "Sigh... What makes you think the drain isn't connected to the water we're removing..."
+msgstr "*Вздох*... Почему ты так уверен, что мы не сливаем воду туда же, откуда её берём?"
+
+msgid "Hm... I don't know."
+msgstr "Хм... не знаю."
+
+msgid "Well, too late to consider that now."
+msgstr "Ну ладно, уже поздно думать."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(What possessed me to agree to this?)"
+msgstr "(Какой бес в меня вселился, чтобы я на это согласилась?)"
+
+msgid "We're really bonding over this, don't you think?"
+msgstr "Я прям чувствую, как из-за этого крепнет наша дружба, а ты?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "One Eternity Later..."
+msgstr "Одну вечность спустя..."
+
+msgid "You actually did it."
+msgstr "У вас и впрямь получилось."
+
+msgid "Congratulations!"
+msgstr "Поздравляю!"
+
+msgid "This is nothing. Just wait until you hear my other ideas."
+msgstr "Это ещё цветочки. Я пока не рассказывал тебе о других моих идеях."
+
+msgid "I very much look forward to it!"
+msgstr "Я с превеликим нетерпением жду их реализации!"
+
+msgid "Will she be okay?"
+msgstr "А с ней всё будет хорошо?"
+
+msgid "She'll be fine."
+msgstr "Да, она в порядке."
+
+msgid "See? She's still breathing."
+msgstr "Видишь? Ещё дышит."
+
+msgid "Um... will you be okay?"
+msgstr "Эм... а с тобой всё будет хорошо?"
+
+msgid "Nice! You're sturdy, aren't you?"
+msgstr "Супер! Ты прям силачка!"
+
+msgid "You ready to go?"
+msgstr "Готова идти?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "Yeah."
+msgstr "Ага."
+
+msgid "A mop. It looks like it's never been used."
+msgstr "Швабра. Такое чувство, будто ей никогда не пользовались."
+
+msgid "Everything here has been gathering dust for a really long time."
+msgstr "Тут на всём уже довольно давно собирается пыль."
+
+msgid "There's something on this shelf."
+msgstr "На полке что-то лежит."
+
+msgid "There's nothing else of use."
+msgstr "Здесь нет больше ничего полезного."
+
+msgid "A rusted sink."
+msgstr "Ржавая раковина."
+
+msgid "A bathroom stall. It's occupied."
+msgstr "Туалетная кабинка. Она занята."
+
+msgid "Try to open it anyways?"
+msgstr "Всё равно открыть?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Something shiny can be seen at the bottom of the toilet bowl."
+msgstr "На дне унитаза можно увидеть что-то блестящее."
+
+msgid "Fish it out?"
+msgstr "Выудить блестяшку?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A small hand towel."
+msgstr "Небольшое полотенце для рук."
+
+msgid "That took a million years."
+msgstr "Я тут вечность жду."
+
+msgid "Were you talking to someone in there?"
+msgstr "Ты с кем-то разговаривала?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "No."
+msgstr "Нет."
+
+msgid "(Did he overhear anything...?)"
+msgstr "(Он что-то услышал?..)"
+
+msgid "It kinda sounded like it."
+msgstr "А звучало так, будто да."
+
+msgid "I wasn't."
+msgstr "Нет, не разговаривала."
+
+msgid "Oh."
+msgstr "А."
+
+msgid "It's cool, I talk to myself sometimes too."
+msgstr "Всё окей, я тоже порой говорю сам с собой."
+
+msgid "Like having a little narrator, right?"
+msgstr "Как будто на фоне говорит рассказчик, согласна?"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Find anything cool?"
+msgstr "Нашла что-то крутое?"
+
+msgid "Nope."
+msgstr "Не-а."
+
+msgid "...Where did you get that?"
+msgstr "...Где ты это нашёл?"
+
+msgid "The lollipop? I had 'em with me."
+msgstr "Леденец? Я их с собой ношу."
+
+msgid "Want some?"
+msgstr "Ты будешь?"
+
+msgid "I don't accept candy from strangers."
+msgstr "Я не принимаю конфет от незнакомцев."
+
+msgid "(Sai joined your party.)"
+msgstr "(Сай присоединяется к отряду.)"

@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There are colored thread rolls inside."
+msgstr "这里面有彩色的线卷。"
+
+msgid "The red thread may be useful."
+msgstr "这条红线可能有用。"
+
+msgid "Take ${item:ch1.thread}?"
+msgstr "要取走${item:ch1.thread}吗？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "No"
+msgstr "否"
+
+msgid "My parents' bed."
+msgstr "父母的床。"
+
+msgid "A bookshelf with complicated books."
+msgstr "书架上摆放着繁杂的书籍。"
+
+msgid "Black... Black... No red markers here."
+msgstr "黑的...黑的...这里没有红色马克笔。"
+
+msgid "Maybe in my room?"
+msgstr "可能在我的房间里？"
+
+msgid "Maybe downstairs?"
+msgstr "可能在楼下？"
+
+msgid "A classic alarm clock."
+msgstr "一个经典的闹钟。"
+
+msgid "Father doesn't trust the alarm app."
+msgstr "父亲不信任闹钟软件。"
+
+msgid "A computer chair."
+msgstr "一张电脑椅。"
+
+msgid "A computer chair. Yours is better."
+msgstr "一张电脑椅。你的那张比这个更好。"
+
+msgid "An older computer."
+msgstr "一台比较老的电脑。"
+
+msgid "It's mostly for spreadsheets, so you can't game on it."
+msgstr "它主要是用来做表格的，所以你没法在上面玩游戏。"
+
+msgid "A plant."
+msgstr "一株植物。"
+
+msgid "A plant. We have several like this one."
+msgstr "一株植物。我们有好几株这样的植物。"
+
+msgid "A sewing kit."
+msgstr "针线包。"
+
+msgid "A shelf with nothing of interest."
+msgstr "一个架子，上面没有任何感兴趣的东西。"
+
+msgid "The wardrobe. It doesn't close well anymore."
+msgstr "衣柜。已经关不紧了。"
+
+msgid "Something is written on the door:"
+msgstr "门上写着什么东西："
+
+msgid "\"The wardrobe is stuffy, isn't it? You almost can't breathe in there."
+msgstr "“衣柜里很挤，对不对？你在里面几乎无法呼吸。"
+
+msgid "You almost stopped breathing. Take a deep breath, Lacie.\""
+msgstr "你几乎停止了呼吸。深呼吸，莱西。”"
+
+msgid "Open it?"
+msgstr "要打开吗？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "No"
+msgstr "否"
+
+msgid "A cold breeze blows from inside."
+msgstr "一阵冷风从里面吹了出来。"
+
+msgid "There's a few clothes inside."
+msgstr "里面有几件衣服。"

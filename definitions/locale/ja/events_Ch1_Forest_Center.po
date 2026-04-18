@@ -1,0 +1,1479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Welcome."
+msgstr "いらっしゃい。"
+
+msgid "5 coins each."
+msgstr "1匹5コイン。"
+
+msgid "Buy a fish?"
+msgstr "魚を買う？"
+
+msgid "Buy"
+msgstr "買う"
+
+msgid "Buy all"
+msgstr "全部買う"
+
+msgid "Talk"
+msgstr "話す"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.choice.Buy a fish?"
+msgid "Never mind"
+msgstr "やめておく"
+
+msgctxt "events.Ch1_Forest_Center.chr_alba.dlg.narrator"
+msgid "You don't have enough coins."
+msgstr "コインが足りない。"
+
+msgid "(She looks intimidating...)"
+msgstr "(怖そうな見た目……)"
+
+msgid "What're you staring at?"
+msgstr "何見てんだよ？"
+
+msgid "You heard me. 5 coins each, no haggling."
+msgstr "聞こえただろ。1匹5コイン、値切りは無しだ。"
+
+msgid "Or, you could buy all my fish for 10 coins. It's a pretty good deal and I get to take the rest of the day off."
+msgstr "もしくは、10コイン出せば全部買える。そりゃもうお買い得だし、アタシは店じまいにできる。"
+
+msgid "(What kind of deal is that...?)"
+msgstr "(そんな売り方ある……？)"
+
+msgid "I'll take one."
+msgstr "1つ買う。"
+
+msgid "I'll take all of them."
+msgstr "全部買う。"
+
+msgid "I don't even have 5 coins."
+msgstr "5コインすら持ってない。"
+
+msgid "No thanks"
+msgstr "いらない"
+
+msgid "Does that sound like my problem? 5 coins each, no exceptions."
+msgstr "それがどうした？　1匹5コイン、例外は無しだ。"
+
+msgid "Ready to buy?"
+msgstr "買う気になったか？"
+
+msgid "What will I use the fish for?"
+msgstr "買った魚は何に使えばいいの？"
+
+msgid "What do I care?"
+msgstr "私が知るかよ？"
+
+msgid "Will you at least grill it?"
+msgstr "せめて焼いてくれない？"
+
+msgid "Do I look like a buffet?! Scram."
+msgstr "アタシの店が立ち食い屋台に見えるかよ!?　失せな。"
+
+msgid "Where can I find more coins?"
+msgstr "コインはどこで見つかるの？"
+
+msgid "Sorry...! Please forget about it."
+msgstr "ごめんなさい……！　忘れて。"
+
+msgid "She doesn't seem like she wants to talk."
+msgstr "彼女は話したくなさそうだ。"
+
+msgid "Welcome~"
+msgstr "らっしゃっせ～"
+
+msgid "We're out of stock for today, so come back again soon."
+msgstr "今日は品切れでね。また後で来な。"
+
+msgid "Business is booming. Today was a good day."
+msgstr "店は絶好調だ。今日は良い日だった。"
+
+msgid "You should have rotted down there."
+msgstr "おまえもあそこで腐り果ててりゃよかったんだ。"
+
+msgid "Just like my fish."
+msgstr "アタシの魚みたいに。"
+
+msgid "Alba is counting the money she earned today."
+msgstr "アルバは今日稼いだお金を数えている。"
+
+msgid "Aoi."
+msgstr "アオイ。"
+
+msgid "Lacie!! Thank you!"
+msgstr "レイシー!! ありがとう！"
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(I was going to say that...)"
+msgstr "(私が言おうと思ってたのに……)"
+
+msgid "Thanks to your idea, we managed to get out!!"
+msgstr "レイシーのアイデアのおかげで出られたよ！"
+
+msgid "Ah, No... thank you."
+msgstr "あぁ、いや……私こそありがとう。"
+
+msgid "Um... also... with the fish lady..."
+msgstr "その……それと……あの魚のひとのことだけど……"
+
+msgid "I mean... um..."
+msgstr "えっと……その……"
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "……"
+
+msgid "You're nice."
+msgstr "アオイは優しいんだね。"
+
+msgctxt "events.Ch1_Forest_Center.chr_aoi.dlg.aoi"
+msgid "...!"
+msgstr "……！"
+
+msgid "Heheh I'm glad I met you Lacie!"
+msgstr "えへへ、僕、レイシーと会えてよかったよ！"
+
+msgid "And I'm glad you had those amazing scissors!"
+msgstr "それに、レイシーがあのすごいハサミを持っててよかった！"
+
+msgid "They really saved us both."
+msgstr "あれのおかげで、僕たちふたりとも助かったんだもん。"
+
+msgid "I hope I'll be able to have such cool scissors some day too!"
+msgstr "僕もいつか、あんなかっこいいハサミが欲しいな！"
+
+msgid "Oh... yeah."
+msgstr "そう……じゃあ。"
+
+msgid "You can keep them."
+msgstr "アオイにあげる。"
+
+msgid "WHAAAT?!"
+msgstr "ええええ!?"
+
+msgid "But Lacie, what if you need them!"
+msgstr "でもレイシー、必要になったらどうするの！"
+
+msgid "I'll be fine."
+msgstr "私は大丈夫。"
+
+msgid "Wow!!"
+msgstr "わぁ!!"
+
+msgid "Thank you so much!"
+msgstr "本当にありがとう！"
+
+msgid "This is the best gift anyone's ever given me!"
+msgstr "今までもらった中で最高のプレゼントだよ！"
+
+msgid "What will you do now?"
+msgstr "これからどうするの？"
+
+msgid "Well... I'm... looking for something. Some answers, I guess."
+msgstr "えっと……その……何かを探す。たぶん、答えを。"
+
+msgid "For now, I need to go through the locked site."
+msgstr "差し当たりは、封鎖区域を抜けないといけない。"
+
+msgid "Ohh!"
+msgstr "おおー！"
+
+msgid "Be careful in there."
+msgstr "気をつけてね。"
+
+msgid "I have a tip! Always hide in the bushes!"
+msgstr "コツがあるんだ！　いつも茂みに隠れること！"
+
+msgid "Thank you."
+msgstr "ありがとう。"
+
+msgid "Are you leaving?"
+msgstr "行くの？"
+
+msgid "Oh, yeah, back to work for me heheh."
+msgstr "ああ、うん、仕事に戻らないとね、えへへ。"
+
+msgid "I've had enough adventures..."
+msgstr "もう十分冒険したから……"
+
+msgid "Is that good?"
+msgstr "仕事は楽しい？"
+
+msgid "I'm not looking forward to it..."
+msgstr "楽しみではないかな……"
+
+msgid "But.. it's where I live, so..."
+msgstr "でも……あそこが僕の住まいだから、うん……"
+
+msgid "Maybe we'll meet again?"
+msgstr "また会えるかな？"
+
+msgid "Yeah."
+msgstr "うん。"
+
+msgid "(That would be nice.)"
+msgstr "(そうなったら良いな。)"
+
+msgid "This isn't goodbye, okay!?"
+msgstr "これでお別れじゃないからね、いい!?"
+
+msgid "Oh, okay."
+msgstr "う、うん。"
+
+msgid "Then..."
+msgstr "じゃあ……"
+
+msgid "See you later!"
+msgstr "またね！"
+
+msgid "See you."
+msgstr "またね。"
+
+msgid "(I feel like I should have said more... Why am I so bad with words?)"
+msgstr "(もっと何か言えばよかった……なんでこんなに話すのが下手なんだろう？)"
+
+msgid "(Sigh... I just have to make sure to say it next time we meet.)"
+msgstr "(はぁ……次会ったときは絶対言おう。)"
+
+msgid "Mee-mee-mee-"
+msgstr "は――は――は――"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "...?"
+msgstr "……？"
+
+msgid "Mee-meet!"
+msgstr "は――はじめ！"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Uh...N-N-Nice to... meet..."
+msgstr "う……は――は――はじめ……まして……"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "..."
+msgstr "……"
+
+msgid "A-a-apologies. I-I-I'm not very good at speaking under pressure."
+msgstr "す――す――すみません。き――き――緊張すると、あまりうまく話せなくて。"
+
+msgid "(He's worse than me...)"
+msgstr "(私より重症だ……)"
+
+msgid "Kozmo."
+msgstr "コズモ。"
+
+msgid "...What?"
+msgstr "……え？"
+
+msgid "Oh... Y-y-you didn't ask for my name."
+msgstr "あ……な――な――名前を訊いたんじゃなかったんですね。"
+
+msgid "Yeah... I didn't."
+msgstr "うん……訊いてない。"
+
+msgid "Th-This interaction is not enjoyable."
+msgstr "こ――この会話は楽しくないですね。"
+
+msgid "It's nice to meet you, Kozmo."
+msgstr "はじめまして、コズモ。あなたと会えて嬉しい。"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "……！"
+
+msgid "L-l-likewise, ...erm...?"
+msgstr "こ――こ――こちらこそ……その……？"
+
+msgid "Your-your..your-"
+msgstr "あ――あ……あ――"
+
+msgid "Your name is...?"
+msgstr "あなたの名前は……？"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.dlg.lacie"
+msgid "Oh."
+msgstr "あぁ。"
+
+msgid "It's um... It's not important."
+msgstr "それは、その……別にいいでしょ。"
+
+msgid "O-oh... okay..."
+msgstr "そ――そ……そうですか……"
+
+msgid "So..."
+msgstr "それで……"
+
+msgid "Why are you so bad at speaking?"
+msgstr "どうしてそんなに話すのが下手なの？"
+
+msgid "What are you doing here?"
+msgstr "ここで何をしてるの？"
+
+msgid "(Knock on his head)"
+msgstr "(頭をこづく)"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.So..."
+msgid "Never mind"
+msgstr "何でもない"
+
+msgid "Y-y-y-you think I'm bad at speaking...?"
+msgstr "わ――わ――わ――私、話すのが下手ですか……？"
+
+msgid "Well... you said it yourself, did you not?"
+msgstr "いや……さっき自分でそう言ってなかった？"
+
+msgid "Oh... w-well..."
+msgstr "あぁ……で――ですね……"
+
+msgid "Th-Th-The truth is..."
+msgstr "じ――じ――実は……"
+
+msgid "I-I-I've been told I sometimes....."
+msgstr "よ――よ――よく言われるんです、私、ときどき……"
+
+msgid "S-s-stutter...!"
+msgstr "ど――ど――どもるって……！"
+
+msgid "Oh. I'm sorry to hear that."
+msgstr "それはつらいね。"
+
+msgid "D-d-d-do you think I stutter?!?"
+msgstr "わ――わ――わ――私、どもってると思いますか?!?"
+
+msgid "(Do I think Kozmo stutters...?)"
+msgstr "(コズモはどもってると思う……？)"
+
+msgid "It's not my place to say."
+msgstr "私には何とも。"
+
+msgid "Yes, it's very obvious."
+msgstr "うん、明らかにそう。"
+
+msgid "O-oh... That's okay."
+msgstr "そ――そうですか……いえ、いいんです。"
+
+msgid "M-m-maybe I've improved, and it's not so noticeable!"
+msgstr "ひょ――ひょ――ひょっとしたら、改善して、それほど目立たなくなったのかも！"
+
+msgid "Maybe."
+msgstr "かもね。"
+
+msgid "O-oh dear......"
+msgstr "そ――そんな………"
+
+msgid "Do you live here?"
+msgstr "コズモはここに住んでるの？"
+
+msgid "N-no.. Not many of us live in the forest."
+msgstr "い――いえ……森に住んでいる妖魔はあまりいません。"
+
+msgid "I-it's too distant, you see..."
+msgstr "な――なにしろ、遠すぎますから……"
+
+msgid "Too distant to... what, exactly?"
+msgstr "遠すぎるって……どこに？"
+
+msgid "T-t-the city, mainly."
+msgstr "ま――ま――街にです、主に。"
+
+msgid "How do you get to the city from here?"
+msgstr "ここから街にはどうやって行くの？"
+
+msgid "Is-is-is-is this a quiz?"
+msgstr "そ――そ――そ――それはクイズですか？"
+
+msgid "No, I..."
+msgstr "いや、私は……"
+
+msgid "We-well... It's... um... y-y-you can... you can take the bus... o-o-or the train..."
+msgstr "そ――そうですね……えっと……その……バ――バ――バスや……で――で――電車で行けます……"
+
+msgid "Don't you know this though?"
+msgstr "でも、そんなことご存じでしょう？"
+
+msgid "Come to think of it, where are you from?"
+msgstr "そういえば、君はどこから来たんだ？"
+
+msgid "I should be going."
+msgstr "もう行かないと。"
+
+msgid "A-a-a-a don't do that! It's fragile!"
+msgstr "あ――あ――あ――あ、やめてください！　壊れやすいんです！"
+
+msgid "S-s-s-s-stop...!!"
+msgstr "や――や――や――や――やめて……!!"
+
+msgid "Um... this isn't what I expected..."
+msgstr "う……これは予想してなかった……"
+
+msgid "Wh-wh-what have you done..!? Oh no, oh no, oh no."
+msgstr "な――な――なんてことを……!?　ああ、ああ、あああ。"
+
+msgid "Please help me!"
+msgstr "助けてください！"
+
+msgid "P-p-please find me a new head!"
+msgstr "あ――あ――新しい頭を探して！"
+
+msgid "A new head..?"
+msgstr "新しい頭……？"
+
+msgid "A-a-anything hollow can serve as one, please!"
+msgstr "な――な――中が空のものなら何でもいいですから、早く！"
+
+msgid "H-h-h-hurry!"
+msgstr "い――い――い――急いで！"
+
+msgid "If it all escapes I'll...I'll-"
+msgstr "全部出てしまったら、私……私――"
+
+msgid "Knock again?"
+msgstr "もう一度こづく？"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "Yes"
+msgstr "こづく"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo.choice.Knock again?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "A large amount of something leaks from Kozmo."
+msgstr "大量の何かがコズモから漏れ出している。"
+
+msgid "I should hurry."
+msgstr "急がないと。"
+
+msgid "Kozmo sways left and right."
+msgstr "コズモは左右に揺れている。"
+
+msgid "Kozmo is sporting a new head."
+msgstr "コズモは新しい頭を見せびらかしている。"
+
+msgid "P-p-p-p-p-please... give me a moment..."
+msgstr "す――す――す――す――す――少し……じ、時間をください……"
+
+msgid "Apologize?"
+msgstr "謝る？"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "Yes"
+msgstr "謝る"
+
+msgctxt "events.Ch1_Forest_Center.chr_kozmo_2.choice.Apologize?"
+msgid "No"
+msgstr "謝らない"
+
+msgid "I'm sorry if I was rude."
+msgstr "失礼だったならごめんなさい。"
+
+msgid "I'm not very good at... interacting with people either."
+msgstr "私も、その……人と関わるのがあまり得意じゃなくて。"
+
+msgid "I don't get much practice."
+msgstr "実践不足なの。"
+
+msgid "R-r-really?"
+msgstr "ほ――ほ――本当ですか？"
+
+msgid "Mhm..."
+msgstr "うん……"
+
+msgid "I think it's okay that you stutter."
+msgstr "それに、別にどもっても良いと思う。"
+
+msgid "At least you're still able to convey your feelings."
+msgstr "少なくとも、ちゃんと感情を伝えられてるし。"
+
+msgid "Thank you for reassuring me!"
+msgstr "ありがとうございます、元気が出ました！"
+
+msgid "(Phew...)"
+msgstr "(ふう……)"
+
+msgid "Kozmo's clothes remain here."
+msgstr "コズモの服だけが残っている。"
+
+msgid "Kozmo isn't here anymore."
+msgstr "コズモはもういない。"
+
+msgid "A pleasure."
+msgstr "はじめまして。"
+
+msgid "Huh?"
+msgstr "え？"
+
+msgid "You're not from around here."
+msgstr "この辺りの者ではないな。"
+
+msgid "How do you know?"
+msgstr "どうしてわかるの？"
+
+msgid "You wander around anxiously."
+msgstr "不安そうにうろうろしているからだ。"
+
+msgid "Oh..."
+msgstr "あぁ……"
+
+msgid "Sit if you wish... The fire is captivating."
+msgstr "座りたければ座るといい……この火は魅惑的だからな。"
+
+msgid "No... thank you."
+msgstr "いや……遠慮しとく。"
+
+msgid "What should I say?"
+msgstr "何て言おう？"
+
+msgid "\"Are you a bug?\""
+msgstr "「あなた、虫なの？」"
+
+msgid "\"Can you help me?\""
+msgstr "「手伝ってくれない？」"
+
+msgid "About the reward"
+msgstr "ご褒美について"
+
+msgid "You have wings."
+msgstr "羽があるね。"
+
+msgid "What of it?"
+msgstr "それが何か？"
+
+msgid "Are you a butterfly?"
+msgstr "あなた、蝶なの？"
+
+msgid "...Disgusting."
+msgstr "……不快だな。"
+
+msgctxt "events.Ch1_Forest_Center.chr_milion.dlg.lacie"
+msgid "Oh."
+msgstr "そう。"
+
+msgid "A-a-a moth is the correct term. It-it-it must be your first encounter with one."
+msgstr "た――た――正しくは、蛾ですよ。あ――あ――会うのは初めてでしょう。"
+
+msgid "Th-Th-Th-They say if you meet all 9 moths you'll get a reward."
+msgstr "う――う――う――噂では、9匹の蛾すべてに会うと、ご褒美がもらえるんだとか。"
+
+msgid "Folklore is all it is. Why would anyone give you a reward?"
+msgstr "ただの言い伝えだ。なぜ褒美などやる必要がある？"
+
+msgid "So-so-sometimes, you get rewarded for hard work. I-I-I've already met f-f-four."
+msgstr "と――と――時には、苦労がご褒美で報われることもありますよ。わ――わ――私はもうよ――よ――4匹会いました。"
+
+msgid "What a fool. Nobody will reward you for a scavenger hunt. The world is not a playground."
+msgstr "ばかばかしい。たかが探し物遊びに褒美を出す者がどこにいる。この世は子供の遊び場じゃないんだ。"
+
+msgid "... Y-y-you're too grim, Milion."
+msgstr "……き――き――厳しすぎますよ、ミリオン。"
+
+msgid "Wh-what do you think, lady?"
+msgstr "あ――あなたはどう思いますか？"
+
+msgid "(What do I think...?)"
+msgstr "(私……？)"
+
+msgid "The world is really unfair"
+msgstr "世界は本当に不公平だ"
+
+msgid "Hard work pays off"
+msgstr "苦労は報われる"
+
+msgid "S-s-s-such pessimistic views..."
+msgstr "そ――そ――そんな悲観的な……"
+
+msgid "It's wise to be realistic."
+msgstr "現実的なのは賢明だ。"
+
+msgid "W-w-w-well said!"
+msgstr "そ――そ――そ――その通りです！"
+
+msgid "I envy your naivety."
+msgstr "その純朴さが羨ましいよ。"
+
+msgid "Just like this warm flame, your innocence too will soon be extinguished."
+msgstr "この暖かい炎のように、君の無垢な心もじきに消え去るだろう。"
+
+msgid "A moth, if you really care for such simplifications."
+msgstr "蛾だ、その手の単純化した名前が本気で気になるならだが。"
+
+msgid "I see..."
+msgstr "そう……"
+
+msgid "I have a question."
+msgstr "訊きたい事があるの。"
+
+msgid "Do you happen to know where I could lift a curse?"
+msgstr "呪いを解ける場所を知ってたりしない？"
+
+msgid "You must seek Red."
+msgstr "レッドを探すんだな。"
+
+msgid "Yeah... This isn't the first time I've heard that name."
+msgstr "うん……名前は聞いたことある。"
+
+msgid "Everyone has heard that name."
+msgstr "誰でも聞いたことはあるさ。"
+
+msgid "Red cures all sorts of ailments... For a hefty price."
+msgstr "レッドはどんな病でも治す……ひどい高値でな。"
+
+msgid "..?"
+msgstr "……？"
+
+msgid "That one doesn't do anything for free."
+msgstr "あいつは何でもタダではやらないんだ。"
+
+msgid "The moth is entranced by the fire pit."
+msgstr "蛾は焚き火にうっとりしている。"
+
+msgid "So after I find 8 more moths I'll get rewarded?"
+msgstr "じゃあ、蛾をあと8匹見つけたら、ご褒美がもらえるの？"
+
+msgid "As I stated, it's nothing but a myth."
+msgstr "言っただろう、ただの伝説だ。"
+
+msgid "So... What kind of reward would it be?"
+msgstr "で……どんなご褒美なの？"
+
+msgid "I'll discuss no further with you."
+msgstr "君とはもう議論しない。"
+
+msgid "Milion is ignoring you."
+msgstr "ミリオンは無視している。"
+
+msgid "This is quite amusing."
+msgstr "実に愉快だ。"
+
+msgctxt "events.Ch1_Forest_Center.chr_milion_post_tree.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "It's been a while since anything interesting happened around here."
+msgstr "この辺りで面白いことがあったのは久しぶりだよ。"
+
+msgid "Milion is smiling."
+msgstr "ミリオンは微笑んでいる。"
+
+msgid "(I've only been here for a little while and I already have a lead.)"
+msgstr "(ここに来てまだ少ししか経ってないのに、もう手がかりが手に入った。)"
+
+msgid "(I really didn't think this would be where I might find my answers...)"
+msgstr "(ここで答えが見つかるかもなんて、本当に思ってもみなかったけど……)"
+
+msgid "Finally..."
+msgstr "ついに……"
+
+msgid "A curse, huh?"
+msgstr "呪い、かぁ……？"
+
+msgid "It sounds probable, but how did it happen?"
+msgstr "ありそうな話だけど、でも、どうやって？"
+
+msgid "And who... or what, cursed me?"
+msgstr "そして、誰……もしくは何が、私に呪いをかけたの？"
+
+msgid "And why?"
+msgstr "それに、どうして？"
+
+msgid "There's too many questions."
+msgstr "わからないことが多すぎる。"
+
+msgid "(I wonder if I can call Hiro from here.)"
+msgstr "(ここからでもヒロに電話できるかな。)"
+
+msgid "(Looks like I have no reception... Should I try anyways?)"
+msgstr "(電波はないみたいだけど……とにかく試してみようか？)"
+
+msgid "(It works?!)"
+msgstr "(つながった!?)"
+
+msgid "LACIE?!"
+msgstr "レイシー!?"
+
+msgctxt "events.Ch1_Forest_Center.event_hiro_call.dlg.lacie"
+msgid "Hiro!"
+msgstr "ヒロ！"
+
+msgid "Are you okay? How are you calling me? Are you back? Did you find out-"
+msgstr "無事なの？　どうやって電話してるんだい？　戻ってきたのかい？　ひょっとしてもう――"
+
+msgid "Wait-"
+msgstr "いや――"
+
+msgid "ARE YOU HURT?! DO YOU NEED ME TO COME THERE? ARE YOU IN DANGER?"
+msgstr "ケガしてるの!?　そっちに行こうか!?　危険な状態なの!!?"
+
+msgid "I swear I'll get one of those letters and meet you in a jiffy! A jiffy!!-"
+msgstr "僕もあの手紙を手に入れて、今すぐそっちに行くよ！　今すぐ!!――"
+
+msgid "I'm fine."
+msgstr "大丈夫だよ。"
+
+msgid "Oh, thank goodness."
+msgstr "ああ、よかった。"
+
+msgid "It seems to be safe where I am right now, so I just.. tried calling you."
+msgstr "今いるところは安全そう。単に……試しにかけてみただけ。"
+
+msgid "...and it worked."
+msgstr "……そしたら、つながったの。"
+
+msgid "Huh... that doesn't make much sense."
+msgstr "ふうん……変な話だね。"
+
+msgid "It doesn't, does it..."
+msgstr "だよね……"
+
+msgid "Tell me everything, where are you?!"
+msgstr "何もかも聞かせて、今どこにいるの!?"
+
+msgid "I'm... in a forest."
+msgstr "今は……森。"
+
+msgid "A forest?! You didn't pack bug spray!"
+msgstr "森!?　虫よけスプレーもないのに！"
+
+msgid "There's more dangerous things here than bugs."
+msgstr "虫より危険なものがたくさんいるよ。"
+
+msgid "But don't worry, I've got it handled."
+msgstr "でも心配しないで、うまくやってるから。"
+
+msgid "I just need to find a light..."
+msgstr "あとは明かりさえあれば……"
+
+msgid "I just needed to find a light and..."
+msgstr "明かりが必要だったけど……"
+
+msgid "Lacie no! Lights ATTRACT bugs!"
+msgstr "レイシー駄目だよ！　明かりは虫を引き寄せちゃう！"
+
+msgid "Hiro, I don't care about tiny bugs."
+msgstr "ヒロ、小さな虫くらい平気だよ。"
+
+msgid "Just trying to lighten the mood~"
+msgstr "ちょっと空気を軽くしようと思ってね～"
+
+msgid "That's my job."
+msgstr "それが僕の仕事だから。"
+
+msgid "Mhm."
+msgstr "うん。"
+
+msgid "Don't use up all your battery now."
+msgstr "いま充電を使い切らないようにね。"
+
+msgid "Remember you can use the flashlight from your phone if you need a light."
+msgstr "明かりが必要なら、携帯のライトも使えるのを忘れないで。"
+
+msgid "That's true. How could I forget?"
+msgstr "確かに。何で忘れてたんだろう？"
+
+msgid "But it will use up my battery... I might not be able to call you again if that's the case."
+msgstr "でも、充電を使い切っちゃいそう……そうなったら、もう電話はかけられないかも。"
+
+msgid "It's up to you to decide if you need it."
+msgstr "どうするかはレイシー次第だよ。"
+
+msgid "Alright, I'll go now."
+msgstr "わかった、じゃあ切るね。"
+
+msgid "You've got this!"
+msgstr "レイシーならきっとできるよ！"
+
+msgid "Cellphone"
+msgstr "携帯電話"
+
+msgid "My personal phone. Hiro bought it for me. It may be used as a flashlight."
+msgstr "私の携帯。ヒロが買ってくれた。ライトとしても使える。"
+
+msgid "I-I-I wouldn't do that if I were you. Fairy demons are vile, the worst."
+msgstr "わ――わ――私ならやめておきますね。妖精は下劣で、妖魔の中でも最悪ですから。"
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(I was too late.)"
+msgstr "(遅かった。)"
+
+msgid "Um..."
+msgstr "その……"
+
+msgid "Is he..."
+msgstr "コズモは……"
+
+msgctxt "events.Ch1_Forest_Center.event_milion_react_kozmo_dead.dlg.milion"
+msgid "Hm?"
+msgstr "んん？"
+
+msgid "Shouldn't you know? You're the sole cause of that."
+msgstr "訊くまでもないだろう？　全て君が引き起こしたことだ。"
+
+msgid "....."
+msgstr "……"
+
+msgid "That tree... is massive..."
+msgstr "すごく大きな樹……"
+
+msgid "This probably marks the center of this place. Which means..."
+msgstr "これがこの場所の中心なのかも。つまり……"
+
+msgid "This is where the search really begins."
+msgstr "本当の探索はここから。"
+
+msgid "(She's not a bug...)"
+msgstr "(彼女は虫ではない……)"
+
+msgctxt "events.Ch1_Forest_Center.item_bugnet_on_milion.dlg.milion"
+msgid "...?"
+msgstr "……？"
+
+msgid "U-um... It's nothing..."
+msgstr "い――いや……何でもない……"
+
+msgid "(The bug net is not large enough.)"
+msgstr "(この虫捕り網では小さすぎる。)"
+
+msgid "This is..."
+msgstr "これは……"
+
+msgid "I know this craftsmanship."
+msgstr "この職人技は知っている。"
+
+msgid "I could recognize it anywhere."
+msgstr "どこで見てもわかる。"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "What do you mean?"
+msgstr "どういうこと？"
+
+msgid "It's nothing."
+msgstr "何でもない。"
+
+msgid "That didn't sound like nothing."
+msgstr "何でもなくなさそうだったけど。"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_blue_on_milion.dlg.milion"
+msgid "..."
+msgstr "……"
+
+msgid "The candle is already lit."
+msgstr "ロウソクはもう点いている。"
+
+msgid "A candle is not enough to light this campfire."
+msgstr "この焚き火を灯すにはロウソクでは足りない。"
+
+msgid "There's no fire here."
+msgstr "ここに火はない。"
+
+msgid "Is this a gift?"
+msgstr "これはプレゼントか？"
+
+msgctxt "events.Ch1_Forest_Center.item_candle_on_milion.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "No."
+msgstr "ううん。"
+
+msgid "Pity."
+msgstr "残念。"
+
+msgid "What do you want?"
+msgstr "何だよ？"
+
+msgid "Can I get a refund?"
+msgstr "返品できる？"
+
+msgid "Absolutely not."
+msgstr "無理に決まってるだろ。"
+
+msgid "That is one stinky fish."
+msgstr "臭い魚ですね。"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "Hm?"
+msgstr "んん？"
+
+msgid "You didn't stutter?"
+msgstr "今、どもってなかったよね？"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_kozmo.dlg.kozmo"
+msgid "...!"
+msgstr "……！"
+
+msgid "Is it a magic fish?!"
+msgstr "まさか、魔法の魚!?"
+
+msgid "Ah, you bought that from Alba's shop?"
+msgstr "あぁ、アルバの店で買ったのか？"
+
+msgid "Yes."
+msgstr "うん。"
+
+msgid "Alba's merchandise is always top tier."
+msgstr "アルバの商品はいつも一級だからな。"
+
+msgid "Lovely gal."
+msgstr "可愛い奴だ。"
+
+msgid "Flattery isn't going to get you anything, Milion."
+msgstr "おだてても何も出ないよ、ミリオン。"
+
+msgid "What a shame."
+msgstr "それは残念。"
+
+msgid "(I seem to be interrupting something...)"
+msgstr "(私はお邪魔みたい……)"
+
+msgid "This tree has had enough fish for today."
+msgstr "この樹は今日はもう十分魚を味わった。"
+
+msgid "You're not doing that again."
+msgstr "もう一度する必要はない。"
+
+msgid "You hold out the fish in front of the mirror, like you just caught it."
+msgstr "まるで自分が獲ったかのように、鏡の前で魚を掲げてみた。"
+
+msgid "You feel silly, so you stop."
+msgstr "バカらしくなったので、やめた。"
+
+msgid "Throw it down the hole?"
+msgstr "穴に投げ入れる？"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "Yes"
+msgstr "投げ入れる"
+
+msgctxt "events.Ch1_Forest_Center.item_fish_on_mirror.choice.Throw it down the hole?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "You listen for a while, but no impact sound can be heard this time."
+msgstr "しばらく耳を澄ましてみたが、今度はぶつかる音は聞こえなかった。"
+
+msgid "After six or so seconds, you hear the faint impact of the fish against something."
+msgstr "6秒ほど後、魚が何かにぶつかる音がかすかに聞こえた。"
+
+msgid "Throw all your fish into the hole?"
+msgstr "魚を全て穴に投げ入れる？"
+
+msgid "Throw all of them"
+msgstr "全部投げ入れる"
+
+msgid "Just throw one"
+msgstr "1匹だけにする"
+
+msgid "Don't"
+msgstr "投げ入れない"
+
+msgid "You throw each and every fish into the hole."
+msgstr "魚を1匹ずつ、全て穴に投げ込んだ。"
+
+msgid "Some of them make sounds when they hit the bottom, but many don't."
+msgstr "底に当たって音を立てたものもあったが、大半は音がしなかった。"
+
+msgid "After a while, you run out of fish."
+msgstr "しばらくして、魚はなくなった。"
+
+msgid "Your hands smell terrible, and you feel like you accomplished nothing."
+msgstr "手はひどい臭いで、何にもならなかったという徒労感だけがある。"
+
+msgid "No. You're not my type."
+msgstr "断る。タイプじゃない。"
+
+msgid "(You're not her type.)"
+msgstr "(タイプではないらしい。)"
+
+msgid "T-thanks! Y-you're a good person!"
+msgstr "あ――ありがとう！　い――いい人ですね！"
+
+msgid "Is this head OK?"
+msgstr "その頭、問題ない？"
+
+msgid "T-t-this is... pretty good..."
+msgstr "こ――こ――これ……すごくいいですよ……"
+
+msgid "Glad that's solved."
+msgstr "問題が解決したならよかった。"
+
+msgid "Ju-just wondering though... where exactly did you get this?"
+msgstr "で――でも、ひとつ疑問なのですが……これ、どこで手に入れたんです？"
+
+msgctxt "events.Ch1_Forest_Center.item_head_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I... I don't think the previous owner needs it anymore..."
+msgstr "も……もとの持ち主は、もう必要としてないと思う……"
+
+msgid "O-oh......."
+msgstr "そ――そうですか……"
+
+msgid ".........."
+msgstr "………"
+
+msgid "An empty lamp that fell from that post."
+msgstr "街灯から落ちた空のランプ。"
+
+msgid "Whatever was inside is gone."
+msgstr "中身はなくなってる。"
+
+msgid "Can I find a use for this?"
+msgstr "何かに使えるかな？"
+
+msgid "Take ${item:ch1.forest_lamp_empty}?"
+msgstr "${item:ch1.forest_lamp_empty} を取る？"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Forest_Center.item_lamp_get.choice.Take ${item:ch1.forest_lamp_empty}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "I can't reach up there."
+msgstr "あそこには手が届かない。"
+
+msgid "And even if I could, I can't see the point in fixing the lamp."
+msgstr "仮に届いても、私がここの街灯を直す意味はないと思う。"
+
+msgid "I still can't reach..."
+msgstr "やっぱり届かない……"
+
+msgid "Besides, it's not like a secret door will open just because I fixed this particular lamp."
+msgstr "それに、この街灯を直したところで、秘密のドアが開いたりするわけじゃないはず。"
+
+msgid "There's seriously no point in that."
+msgstr "そんなことをする意味は本当にない。"
+
+msgid "Fascinating creatures."
+msgstr "興味深い生き物だ。"
+
+msgid "Naturally emitting light can be a great asset to one's value."
+msgstr "自然に発光できるというのは、大きな価値になりうる。"
+
+msgctxt "events.Ch1_Forest_Center.item_light_full_on_milion.dlg.lacie"
+msgid "...?"
+msgstr "……？"
+
+msgid "Is this OK?"
+msgstr "これで大丈夫？"
+
+msgid "I-I-I guess it could be worse..."
+msgstr "ま――ま――まぁ、何とか……"
+
+msgid "Thank you! I didn't think you would come back!"
+msgstr "ありがとうございます！　もうお戻りになられないかと思ってました！"
+
+msgid "...It was my fault after all..."
+msgstr "……だって、私の責任だから……"
+
+msgid "You're welcome, I suppose."
+msgstr "とにかく、どういたしまして。"
+
+msgid "(Alba's eyes dart to your rune, so you quickly put it away.)"
+msgstr "(アルバの目がさっとルーンに向いたので、すぐにしまい直した。)"
+
+msgid "Ooh! I-I-I also have a rock just like that. I b-b-buried it to keep it safe."
+msgstr "おぉ！　わ――わ――私も、そんな石を持ってます。と――と――取られないように、埋めてあります。"
+
+msgid "Do you have nothing better to do than collecting rocks?"
+msgstr "石集めよりもっとやるべきことはないのか？"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Do you have nothing better to do than staring at a fire?"
+msgstr "あなたこそ、火を眺めてるよりやるべきことはないの？"
+
+msgctxt "events.Ch1_Forest_Center.item_runes_on_milion.dlg.milion"
+msgid "..."
+msgstr "……"
+
+msgid "You don't need that. My fish already taste great without it."
+msgstr "そんなの要らねえよ。アタシの魚はそのままで最高だ。"
+
+msgid "I-i-is that for me...?!"
+msgstr "こ――こ――これを、私に……!?"
+
+msgctxt "events.Ch1_Forest_Center.item_salt_on_kozmo.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "...No."
+msgstr "……ううん。"
+
+msgid "O-oh."
+msgstr "そ――そうですか。"
+
+msgid "Let's not provoke her."
+msgstr "あまり刺激しないでおこう。"
+
+msgid "Don't threaten me, kid."
+msgstr "脅すなよ、ガキ。"
+
+msgid "I will shred you."
+msgstr "細切れにするぞ。"
+
+msgctxt "events.Ch1_Forest_Center.item_scissors_on_alba.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I'd rather not go around cutting random cables."
+msgstr "手当たり次第にケーブルを切って回るのは良くないと思う。"
+
+msgid "P-p-please don't...! I'm fragile..."
+msgstr "や――や――やめてください……！　壊れやすいんです……"
+
+msgid "I would advise you not to challenge me."
+msgstr "私に喧嘩を売るのはお勧めしない。"
+
+msgid "There's no need to break it."
+msgstr "これを割る必要はない。"
+
+msgid "You could probably smash the mirror with this."
+msgstr "これで鏡を割れるかもしれない。"
+
+msgid "Break the mirror?"
+msgstr "鏡を割る？"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "Yes"
+msgstr "割る"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.choice.Break the mirror?"
+msgid "No"
+msgstr "割らない"
+
+msgid "You prepare to break the mirror..."
+msgstr "鏡を割ろうと身構えた……"
+
+msgid "But you notice there's a door handle on it."
+msgstr "そのとき、鏡にドアハンドルがついていることに気付いた。"
+
+msgctxt "events.Ch1_Forest_Center.item_smash_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "鍵はかかっていないようだ。"
+
+msgid "I don't do barter."
+msgstr "物々交換はやってない。"
+
+msgid "N-n-no thank you."
+msgstr "い――い――いりません。"
+
+msgid "I don't need it."
+msgstr "私には必要ない。"
+
+msgid "You may give it to someone who does."
+msgstr "必要としている者に渡すといい。"
+
+msgid "Is this OK? I'm sorry, it's the only thing I could find..."
+msgstr "これで大丈夫？　ごめん、これしか見つからなくて……"
+
+msgid "W-Wow!! T-t-this is amazing...!!!"
+msgstr "す――すごい!!　さ――さ――最高です……!!!"
+
+msgid "Thank you s-s-s-so much!"
+msgstr "あ――あ――ありがとうございます！"
+
+msgid "...You're... welcome...?"
+msgstr "……どう……いたしまして……？"
+
+msgid "(To each their own, I suppose)"
+msgstr "(好みはそれぞれ、か。)"
+
+msgid "A bucket full of bones and other terrible-smelling organic garbage."
+msgstr "骨やその他のひどい臭いの生ゴミが詰まったバケツ。"
+
+msgid "A cable runs through here."
+msgstr "ケーブルが通っている。"
+
+msgid "The cable runs into the woods, against the cliff."
+msgstr "ケーブルは崖沿いに木々の合間へ伸びている。"
+
+msgid "The cable runs into the woods."
+msgstr "ケーブルは木々の合間へ伸びている。"
+
+msgid "A campfire."
+msgstr "キャンプファイア。"
+
+msgid "There's no fire, so right now it's just a camp."
+msgstr "火がないから、今はただのキャンプ。"
+
+msgid "A camp."
+msgstr "キャンプ。"
+
+msgid "The fire is on. It seems to produce heat too."
+msgstr "火がついている。熱も発しているようだ。"
+
+msgid "A crow standing on a stump."
+msgstr "カラスが切り株の上に止まっている。"
+
+msgid "They're everywhere, huh?"
+msgstr "どこにでもいるね？"
+
+msgid "Now is not the time for that."
+msgstr "今はそんなことをしている場合ではない。"
+
+msgid "Small mushrooms surround a patch of dead grass."
+msgstr "小さなキノコが草の枯れた一画を囲んでいる。"
+
+msgid "W-what..."
+msgstr "え――な……"
+
+msgid "What happened? It was so sudden..."
+msgstr "何が起きたの？　いきなり前が……"
+
+msgid "Am I trapped inside of something?"
+msgstr "何かに閉じ込められてる？"
+
+msgid "I can barely move..."
+msgstr "ほとんど動けない……"
+
+msgid "Ugh... it's all soggy and... squishy..."
+msgstr "うぐ……そこらじゅう湿って、ぐにょぐにょしてる……"
+
+msgctxt "events.Ch1_Forest_Center.misc_fairyring_death.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "This is suffocating... I don't like closed spaces..."
+msgstr "息が詰まる……狭いところは嫌い……"
+
+msgid "Aahh... I hate this... I'm going to be sick...!"
+msgstr "あぁぁぁ……嫌だ……おかしくなりそう……！"
+
+msgid "Wait... calm down."
+msgstr "待って……落ち着こう。"
+
+msgid "I can move my arms, somewhat."
+msgstr "腕は何とか動くみたい。"
+
+msgid "Think."
+msgstr "考えないと。"
+
+msgid "Let's see... do I have anything that could help me?"
+msgstr "うーん……なにか役に立つものを持ってないかな？"
+
+msgid "Maybe something sharp..."
+msgstr "鋭いものとか……"
+
+msgid "Oh, scissors...!"
+msgstr "そうだ、ハサミ……！"
+
+msgid "Sorry, but I don't feel like being eaten today."
+msgstr "ごめんね、今日は食べられる気分じゃないの。"
+
+msgid "I can cross off \"being digested alive\" from my to-do list."
+msgstr "これでToDoリストの「生きたまま消化される」は完了にできる。"
+
+msgid "Good thing I had those scissors... ugh..."
+msgstr "ハサミがあってよかった……うぅ……"
+
+msgid "Now... where am I?"
+msgstr "さて……ここ、どこ？"
+
+msgid "It's no good... I can't do anything..."
+msgstr "ダメだ……何もできない……"
+
+msgid "Am I going to die... inside this thing?"
+msgstr "私……この中で死ぬの？"
+
+msgid "Nobody will even find my body..."
+msgstr "死体すら見つけてもらえない……"
+
+msgid "Sigh... what a pointless way to go."
+msgstr "はぁ……なんて無意味な死に方だろう。"
+
+msgid "What is this smell... it's making me want to puke..."
+msgstr "何この臭い……吐きそう……"
+
+msgid "My legs... are also itching..."
+msgstr "それに……足もむずむずする……"
+
+msgid "Wait, could it be...?"
+msgstr "待って、つまり……？"
+
+msgid "Oh god... is this thing digesting me!?"
+msgstr "まさか……消化されてる!?"
+
+msgid "Nononono.... I don't want to die like that!!!"
+msgstr "ダメダメダメ……そんな風には死にたくない!!!"
+
+msgid "I tried kicking around and fighting it as much as I could."
+msgstr "私は力の限り、蹴ったり暴れたりしてみた。"
+
+msgid "But soon enough, my skin started burning, confirming my fears."
+msgstr "でも、じきに皮膚が焼けはじめて、私の恐怖は確信に変わった。"
+
+msgid "The more I squirmed, the more the digestive juices got all over me."
+msgstr "身をよじればよじるほど、消化液が全身にかかっていった。"
+
+msgid "The more I screamed, the more the gas burned my nose and throat from inside."
+msgstr "叫べば叫ぶほど、ガスで鼻やのどが内側から焼けた。"
+
+msgid "It seems that the moment I stepped into that circle, my fate had been sealed."
+msgstr "あの円に踏み込んだ瞬間から、私の運命は決まっていたらしい。"
+
+msgid "A lamppost that's missing its lamp."
+msgstr "灯のない街灯。"
+
+msgid "Now it's just a post."
+msgstr "つまり、今はただの街。"
+
+msgid "A post."
+msgstr "街。"
+
+msgid "A wooden log."
+msgstr "丸太。"
+
+msgid "This is not the time to sit around."
+msgstr "今は座っている場合ではない。"
+
+msgid "A big mirror is embedded in the tree trunk."
+msgstr "大きな鏡が樹の幹に埋め込まれている。"
+
+msgid "A door handle can be seen."
+msgstr "ドアハンドルがあるのが見える。"
+
+msgid "Your reflection stares anxiously back at you."
+msgstr "鏡に映った自分が不安げに見つめ返してくる。"
+
+msgid "On a closer inspection, there's a door handle on the mirror."
+msgstr "よく見てみると、鏡にドアハンドルがある。"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.narrator"
+msgid "It doesn't seem to be locked."
+msgstr "鍵はかかっていないようだ。"
+
+msgid "Check behind the mirror?"
+msgstr "鏡の裏を見てみる？"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "Yes"
+msgstr "見てみる"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.choice.Check behind the mirror?"
+msgid "No"
+msgstr "やめておく"
+
+msgctxt "events.Ch1_Forest_Center.misc_mirror.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "The tree... is hollow...?"
+msgstr "あれ……空っぽ……？"
+
+msgid "Has anything changed now that I threw all those fish in?"
+msgstr "魚を全部投げ込んで、何か変化はあったかな？"
+
+msgid "I can't see the bottom, but it's really deep."
+msgstr "底は見えないけど、ものすごく深い。"
+
+msgid "Why is the inside of the tree like this?"
+msgstr "どうして樹の中がこんな風になってるんだろう？"
+
+msgid "Doesn't seem like it."
+msgstr "何も変わってなさそう。"
+
+msgid "The roots of a massive tree. There's blue mushrooms everywhere."
+msgstr "巨大な樹の根。一面に青いキノコが生えている。"
+
+msgid "It reads: \"STOP! Do not walk inside the fairy ring.\""
+msgstr "「ストップ！フェアリーリングの中に入らないで下さい。」"
+
+msgid "\"But if you do, please ask them to take their business elsewhere.\""
+msgstr "「ですがもし入ったら、よそでやってくれと伝えてください。」"
+
+msgid ""
+"South-West: Sculptor's House.\n"
+"West: Red's Treehouse."
+msgstr ""
+"南西: 彫刻家の家。\n"
+"西: レッドのツリーハウス。"
+
+msgid ""
+"South: Train Station.\n"
+"East: Locked Site."
+msgstr ""
+"南: 駅。\n"
+"東: 封鎖区域。"
+
+msgid "The sign says \"Alba's Shop\""
+msgstr "看板には「アルバの店」と書いてある。"
+
+msgid "A curtain covers the stand."
+msgstr "屋台はカーテンが閉まっている。"
+
+msgid "Peek behind curtain?"
+msgstr "カーテンの裏を覗く？"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "Yes"
+msgstr "覗く"
+
+msgctxt "events.Ch1_Forest_Center.misc_stand.choice.Peek behind curtain?"
+msgid "No"
+msgstr "覗かない"
+
+msgid "There's some trays aligned for display, but there's nothing on them."
+msgstr "いくつかのトレイが並べられているが、上には何も載っていない。"
+
+msgid "You decided to save your curiosity for later."
+msgstr "好奇心は後に取っておくことにした。"
+
+msgid "A stand lined up with fish of various sizes."
+msgstr "様々な大きさの魚が並んだ屋台。"
+
+msgid "The shop is closed for today."
+msgstr "今日はもう閉店だ。"
+
+msgid "A massive crater that you caused."
+msgstr "自分が引き起こした巨大なクレーター。"
+
+msgid "I don't think there's anything this way that will help Kozmo..."
+msgstr "こっちにはコズモを助ける方法はないと思う……"
+
+msgid "I need to get this to Kozmo as soon as possible..."
+msgstr "これを早くコズモに持って行かないと……"
+
+msgid "Continue down this path?"
+msgstr "このままこの道を進む？"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "Yes"
+msgstr "進む"
+
+msgctxt "events.Ch1_Forest_Center.move_back.choice.Continue down this path?"
+msgid "No"
+msgstr "進まない"

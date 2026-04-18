@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Alba"
+msgstr "阿爾巴"
+
+msgid "Annie"
+msgstr "安妮"
+
+msgid "Aoi"
+msgstr "葵"
+
+msgid "Mother?"
+msgstr "母親？"
+
+msgid "Bunny"
+msgstr "兔子"
+
+msgid "Cashier"
+msgstr "收銀員"
+
+msgid "Yellow Moth"
+msgstr "黃色的蛾"
+
+msgid "White Moth"
+msgstr "白色的蛾"
+
+msgid "Girl A"
+msgstr "女孩 A"
+
+msgid "Girl B"
+msgstr "女孩 B"
+
+msgid "Spider"
+msgstr "蜘蛛"
+
+msgid "Caterpillar"
+msgstr "毛毛蟲"
+
+msgid "Hiro"
+msgstr "廣人"
+
+msgid "???"
+msgstr "？？？"
+
+msgid "Kat"
+msgstr "凱特"
+
+msgid "Kett"
+msgstr "蓋特"
+
+msgid "Kozmo"
+msgstr "柯茲莫"
+
+msgid "Lacie"
+msgstr "萊西"
+
+msgid "Milion"
+msgstr "米里昂"
+
+msgid "Miss Knives"
+msgstr "刀子小姐"
+
+msgid "Saki"
+msgstr "沙紀"
+
+msgid "Juli"
+msgstr "由里"
+
+msgid "Kaya"
+msgstr "香耶"
+
+msgid "Rune"
+msgstr "符石"
+
+msgid "Sai"
+msgstr "賽伊"
+
+msgid "Shadow Girl"
+msgstr "影子女孩"

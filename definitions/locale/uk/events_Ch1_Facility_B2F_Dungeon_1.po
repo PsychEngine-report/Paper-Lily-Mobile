@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "...This door doesn't seem to open."
+msgstr "...Ці двері не відчиняються."
+
+msgid "So I AM trapped here after all, just not in that tiny cell."
+msgstr "Тобто я все ж у пастці, але не в тій тісній камері."
+
+msgid "I suppose that's less bad..."
+msgstr "Від цього трохи легше..."
+
+msgid "Alright, vent it is."
+msgstr "Добре, тоді скористаємось вентиляцією."
+
+msgid "Let's hope there's another way out."
+msgstr "Сподіваюсь, звідси є інший вихід."
+
+msgid "The door won't open."
+msgstr "Двері не відчиняються."
+
+msgid "Looks like human bones."
+msgstr "Схоже на людські кістки."
+
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open. Something seems to be holding it from the other side."
+msgstr "Двері не відчиняються. Схоже, щось утримує їх з іншого боку."
+
+msgid "\"Subject 66. Age: 38. Sex: Female. Status: Incapacitated. Extraction scheduled. Priority: Medium.\""
+msgstr "\"Суб'єкт 66. Вік: 38. Стать: жіноча. Статус: недієздатна. Заплановано вилучення. Пріоритет: середній.\""
+
+msgid "That's not me. Someone else must've been kept in here."
+msgstr "Це не я. Схоже, до мене тут когось утримували."
+
+msgid "It was just... open?"
+msgstr "Тут просто... відчинено?"
+
+msgid "\"Subject 41. Age: 53. Sex: Male. Status: Incapacitated. Extraction scheduled. Priority: Low.\""
+msgstr "\"Суб'єкт 41. Вік: 53. Стать: чоловіча. Статус: недієздатний. Заплановано вилучення. Пріоритет: низький.\""
+
+msgid "\"Subject 37. Age: 13. Sex: Male. Status: Incapacitated. Extraction on hold. Awaiting further results. Follow-up tests scheduled. Priority: High.\""
+msgstr "\"Суб'єкт 37. Вік: 13. Стать: чоловіча. Статус: недієздатний. Вилучення відкладено. Очікуються подальші тести. Пріоритет: високий.\""
+
+msgid "It doesn't open anymore. Something seems to be holding it from the other side."
+msgstr "Вони більше не відчиняються. Схоже, щось утримує їх з іншого боку."
+
+msgid "These are my things... most of it anyway."
+msgstr "Це мої речі... майже всі, принаймні."
+
+msgid "I hadn't even noticed I had lost them."
+msgstr "Я й не помітила, як втратила їх."
+
+msgid "Why are they here...?"
+msgstr "Що вони тут роблять?.."
+
+msgid "(You got your items back.)"
+msgstr "(Ви повернули свої речі.)"
+
+msgid "There's nothing else on the desk."
+msgstr "На столі більше нічого немає."
+
+msgid "The drawers are empty."
+msgstr "Шухлядки порожні."
+
+msgid "A huge hole."
+msgstr "Велика діра."
+
+msgid "I hope the floor is stable..."
+msgstr "Сподіваюсь, підлога витримає..."
+
+msgid "This vent is suspicious."
+msgstr "Підозріла вентиляція."
+
+msgid "Maybe I could escape through here?"
+msgstr "Чи вдасться втекти через неї?"
+
+msgid "It's almost like it's inviting me in."
+msgstr "Вона так і запрошує увійти до себе."
+
+msgid "It's too high to reach."
+msgstr "Занадто високо."
+
+msgid "Wait, there's something on the desk."
+msgstr "Стоп, на столі щось є."
+
+msgid "Climb the box and remove the vent cover?"
+msgstr "Залізти на коробку та зняти кришку вентиляції?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Crawl into the vents?"
+msgstr "Залізти у вентиляцію?"
+
+msgid "No... at that point, it would just be silly."
+msgstr "Ні... це вже буде придуркувато."
+
+msgid "That guy is waiting for me outside..."
+msgstr "Той хлопець ще на мене чекає..."
+
+msgid "If I go through here right now, it would take him a while to realize I left."
+msgstr "Якщо я зараз вийду, то він ще нескоро здогадається, що мене немає."
+
+msgid "I could get rid of him that way, I think."
+msgstr "Гадаю, таким чином вдасться його здихатись."
+
+msgid "Go through the vent and leave Sai behind?"
+msgstr "Пролізти у вентиляцію та залишити Сая?"
+
+msgid "No... that would probably be pretty rude."
+msgstr "Ні... це буде надто грубо."
+
+msgid "Having fun?"
+msgstr "Тобі весело?"
+
+msgid "...Yep, plenty."
+msgstr "...Так, дуже."
+
+msgid "Let's go then?"
+msgstr "Тоді рушаймо?"
+
+msgid "Safe!"
+msgstr "Я в безпеці!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Сай приєднується до групи.)"

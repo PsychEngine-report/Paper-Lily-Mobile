@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no boat."
+msgstr "Không có thuyền."
+
+msgid "Only red."
+msgstr "Chỉ có màu đỏ."
+
+msgid "A red rabbit."
+msgstr "Con thỏ màu đỏ."
+
+msgid "It's not breathing."
+msgstr "Nó không thở."
+
+msgid "The crow that was here is gone."
+msgstr "Con quạ chỗ này giờ đâu mất rồi."
+
+msgid "Wooden logs stick out from the bloody water."
+msgstr "Các cây cọc gỗ nhô lên khỏi mặt nước máu."
+
+msgid "A note is attached to the tree. It says:"
+msgstr "Tờ ghi được đính lên cái cây. Ghi là:"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVED MEAT\n"
+"HATED WATER\""
+msgstr ""
+"\"CON QUÁI VẬT\n"
+"${sp:1}TRƯỚC ĐÂY ƯA THỊT\n"
+"${sp:1}XƯA KIA GHÉT NƯỚC\""
+
+msgid "The way to the temple is sealed off."
+msgstr "Cái lối vào ngôi đền bị bịt kín rồi."
+
+msgid "Nothing but trees here."
+msgstr "Ở đây không có gì ngoài cây cối."
+
+msgid "The way back seems to be gone."
+msgstr "Đường quay về có vẻ biến mất rồi."
+
+msgid "This way is closed off by trees."
+msgstr "Đường này bị cây cối khép lại rồi."

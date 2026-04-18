@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Oh... I know where this is)."
+msgstr "(喔...我知道這是哪裡。)"
+
+msgid "This must be under that weird fella's house."
+msgstr "這裡一定是那怪傢伙的房子下面。"
+
+msgid "You know, the sculptor?"
+msgstr "妳知道的，雕塑家？"
+
+msgid "Yeah."
+msgstr "是啊。"
+
+msgid "I think artists are really impressive!"
+msgstr "我覺得藝術家很厲害！"
+
+msgid "(What's this..?)"
+msgstr "(這是什麼...？)"
+
+msgid "..."
+msgstr "..."
+
+msgid "Not really."
+msgstr "還好。"
+
+msgid "Oh, it's a cranky old artist."
+msgstr "喔，是個壞脾氣的老藝術家。"
+
+msgid "I've never spoken to him because he's in a bad mood when he's tired."
+msgstr "我從來沒有跟他說過話，因為他累的時候心情不好。"
+
+msgid "...And he's almost always tired."
+msgstr "...而他幾乎總是很累。"
+
+msgid "But I think artists are really impressive!"
+msgstr "但是我覺得藝術家很厲害！"
+
+msgid "Sculpting is really hard..."
+msgstr "雕塑真的很難..."
+
+msgid "Especially hands..."
+msgstr "尤其是手的部分..."
+
+msgid "I can't seem to get my hands right..."
+msgstr "我都沒辦法把手弄好..."
+
+msgid "(Oh, that explains...)"
+msgstr "(喔，原來如此...)"
+
+msgid "(Huh... the path is open now.)"
+msgstr "(嗯...道路開通了。)"
+
+msgid "We need to walk slowly... and uh... keep an eye out."
+msgstr "我們需要慢慢走...而且呃...要小心。"
+
+msgid "Keep an eye out for what?"
+msgstr "要小心什麼？"
+
+msgid "For... fairies."
+msgstr "小心...妖精。"
+
+msgid "Don't you know what this place is!?"
+msgstr "妳不知道這是什麼地方嗎！？"
+
+msgid "Lacie, don't you know what this place is!?"
+msgstr "萊西，妳不知道這是什麼地方嗎！？"
+
+msgid "...No, not really."
+msgstr "...不，不太知道。"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "This is the inside of a fairy ring!"
+msgstr "這裡是妖精環的內部！"
+
+msgid "Lacie, this is the inside of a fairy ring!"
+msgstr "萊西，這裡是妖精環的內部！"
+
+msgid "Um..."
+msgstr "嗯..."
+
+msgid "...The mushroom circle from outside?"
+msgstr "...是外面的蘑菇圈嗎？"
+
+msgid "Yep. That's a fairy ring."
+msgstr "是啊，那就是妖精環。"
+
+msgid "So this place is..."
+msgstr "所以這個地方是..."
+
+msgid "Underneath that circle?"
+msgstr "在那個圈圈之下？"
+
+msgid "Oh."
+msgstr "喔。"
+
+msgid "Can you tell me more?"
+msgstr "可以再多說一點嗎？"
+
+msgid "Let's see... I only know the things everyone talks about."
+msgstr "讓我想想...我只知道大家在談論的東西。"
+
+msgid "For one, fairies live in fairy rings, and they're really nasty."
+msgstr "其中之一，妖精住在妖精環裡，而且它們真的很噁心。"
+
+msgid "(Fairies...)"
+msgstr "(妖精...)"
+
+msgid "They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!"
+msgstr "它們也看起來很噁心，它們有著跟它們身體分離的蛋形頭，而且它們是白色的，而且它們牙齒很大！而且有些沒有眼睛！"
+
+msgid "But even without the fairies, winding up inside of a fairy ring is..."
+msgstr "但是就算沒有妖精，跑進妖精圈裡..."
+
+msgid "Well, they say you get stuck here for 7 years."
+msgstr "好吧，聽說會被困在這裡 7 年。"
+
+msgid "But nobody has ever escaped because they usually just die before that."
+msgstr "可是沒有人能夠逃離，因為他們通常在那之前就死了。"
+
+msgid "Oh god this is horrible, we're not gonna escape!"
+msgstr "天哪真是太糟了，我們沒辦法逃走！"
+
+msgid "Even if we somehow make it 7 years, that's only a myth!"
+msgstr "就算我們能夠待到 7 年，那也沒什麼根據！"
+
+msgid "Maybe it's meant to instill hope in the poor souls that end up here!"
+msgstr "也許這是為了來到這裡的可憐蟲一點希望！"
+
+msgid "LIKE US! THIS IS A DEAD END!!!"
+msgstr "就像我們！這是死路一條！！！"
+
+msgid "Aoi."
+msgstr "葵。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Cut it off."
+msgstr "停下來。(Cut it off.)"
+
+msgid "Sorry."
+msgstr "抱歉。"
+
+msgid "Are the fairies dangerous?"
+msgstr "妖精很危險嗎？"
+
+msgid "Yeah..."
+msgstr "是啊..."
+
+msgid "...But everything is dangerous."
+msgstr "...但是所有的東西都很危險。"
+
+msgid "The floor here is also slowly digesting us."
+msgstr "這裡的地板也在慢慢消化我們。"
+
+msgid "I guess you don't feel it because you have shoes, hehe..."
+msgstr "我猜妳沒有感覺是因為妳有鞋子，嘻嘻..."
+
+msgid "I only have socks, so it's already eating away at them..."
+msgstr "我只有襪子，所以我的腳已經被侵蝕了..."
+
+msgid "(Should I offer Aoi my shoes?)"
+msgstr "(我該把我的鞋子給葵嗎？)"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Would you like my shoes?"
+msgstr "你想要我的鞋子嗎？"
+
+msgid "Whaaat? You're offering me your own shoes?!?"
+msgstr "什麼？妳要給我妳自己的鞋子？！？"
+
+msgid "That's so nice of you!"
+msgstr "妳人真好！"
+
+msgid "That's so nice, Lacie!"
+msgstr "妳人真好，萊西！"
+
+msgid "But no, I'll be alright. I'll just remake my feet if they start being unusable."
+msgstr "但是不用，我會沒事的。我只要在我的腳開始無法使用的時候重做就好了。"
+
+msgid "It just burns but that's okay, I'm used to burns."
+msgstr "感覺像是灼傷，不過沒關係，我很習慣被灼傷。"
+
+msgid "...I'm used to burns..."
+msgstr "...我很習慣被灼傷..."
+
+msgid "Um... okay."
+msgstr "嗯...好吧。"
+
+msgid "(Best not...)"
+msgstr "(最好不要...)"
+
+msgid "(Who knows what this floor will do to my feet...)"
+msgstr "(不知道這地板會對我的腳有什麼影響...)"
+
+msgid "(This person is not human, so they will probably be fine.)"
+msgstr "(這個人不是人類，所以他應該會沒事。)"
+
+msgid "A large skeleton of an unknown creature."
+msgstr "未知生物的巨大骷髏。"
+
+msgid "Hm...?"
+msgstr "嗯...？"
+
+msgid "What died here...?"
+msgstr "是什麼死在這裡...？"
+
+msgid "Something big!"
+msgstr "很大的東西！"
+
+msgid "Oh!"
+msgstr "喔！"
+
+msgid "A dragon!"
+msgstr "一條龍！"
+
+msgid "(A dragon...!?)"
+msgstr "(一條龍...！？)"
+
+msgid "Was I right?!"
+msgstr "我說得對嗎？！"
+
+msgid "Huh? How should I know?"
+msgstr "蛤？我怎麼知道？"
+
+msgid "Aw..."
+msgstr "噢..."
+
+msgid "A large skeleton of a dragon."
+msgstr "一條龍的巨大骷髏。"
+
+msgid "(Do dragons really exist in this place...?)"
+msgstr "(龍真的存在在這個地方嗎...？)"
+
+msgid "Isn't it so cool that humans have dragons in their world?"
+msgstr "人類的世界有龍不是很酷嗎？"
+
+msgid "I'd like dragons here too."
+msgstr "我也希望這裡有龍。"
+
+msgid "(Never mind.)"
+msgstr "(算了。)"
+
+msgid "A large skeleton of something other than a dragon."
+msgstr "不是龍的巨大骷髏。"
+
+msgid "We sure are walking a lot."
+msgstr "我們真的走了很多。"
+
+msgid "My feet don't hurt, or anything. Don't worry!"
+msgstr "我的腳不痛。別擔心！"
+
+msgid "I bet there's no way out..."
+msgstr "我猜這裡沒有出路..."
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "There's always a way."
+msgstr "總會有辦法的。"
+
+msgid "(Right...?)"
+msgstr "(對吧...？)"
+
+msgid "Whoa."
+msgstr "哇。"
+
+msgid "I like that!"
+msgstr "我喜歡！"
+
+msgid "The path ends here."
+msgstr "道路的盡頭在這裡。"
+
+msgid "Huh...? Is there really nowhere to go from here...?"
+msgstr "蛤...？真的沒辦法通往別的地方嗎...？"
+
+msgid "A large bone."
+msgstr "巨大的骨頭。"
+
+msgid "A broken street lamp."
+msgstr "壞掉的路燈。"
+
+msgid "Blue mushrooms are lining the floor."
+msgstr "地上長滿了藍色蘑菇。"
+
+msgid "A bunch of rubble."
+msgstr "一堆瓦礫。"
+
+msgid "A piece of a sculpture."
+msgstr "一塊雕塑。"
+
+msgid "A strangely-shaped pot."
+msgstr "形狀奇怪的罐子。"
+
+msgid "There's a large hole on the floor."
+msgstr "地上有個大洞。"
+
+msgid "(It's deep... and dark.)"
+msgstr "(很深...又很暗。)"
+
+msgid "It doesn't seem very smart to try going down there."
+msgstr "試著往下走不太理智。"
+
+msgid "I feel like there has to be a better option than going down this hole..."
+msgstr "感覺會有比從這個洞下去還好的選擇..."
+
+msgid "(We checked everywhere else but...)"
+msgstr "(我們到處都檢查過了，但是...)"
+
+msgid "(If I go down there... it will be impossible to come back up...)"
+msgstr "(如果我下去了...就不可能再回來上面...)"
+
+msgid "Go down the hole?"
+msgstr "走下洞裡嗎？"
+
+msgid "...Sigh, here we go."
+msgstr "...唉，走吧。"
+
+msgid "Wanna turn back?"
+msgstr "想要回頭嗎？"
+
+msgid "There's nowhere else to go, so we might as well explore whatever's down there."
+msgstr "沒有別的地方可以去了，所以我們最好看看下面有什麼。"
+
+msgid "Okay."
+msgstr "好吧。"
+
+msgid "Going deeper down to find an exit... this isn't very smart, is it?"
+msgstr "試著找到出口而往下深入...不是很理智，對吧？"

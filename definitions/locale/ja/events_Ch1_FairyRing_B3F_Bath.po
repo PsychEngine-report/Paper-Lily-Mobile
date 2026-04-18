@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's... a dead end?"
+msgstr "ここで……行き止まり？"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "What now?"
+msgstr "次はどうする？"
+
+msgid "We're gonna die here, aren't we?"
+msgstr "僕たち、ここで死ぬんでしょ？"
+
+msgid "I don't know."
+msgstr "わからない。"
+
+msgid "Oh god... I really hoped I wouldn't be right."
+msgstr "あぁ……本当に、僕の予想が外れてたらよかったのに。"
+
+msgid "I should have known. Of course it's a dead end."
+msgstr "そりゃそうだよね。もちろん、行き止まりに決まってる。"
+
+msgid "But I felt more confident walking around with you... so I thought..."
+msgstr "でも、君と歩いてると何だか心強くて……それで……"
+
+msgid "Please, let me think."
+msgstr "お願い、考えさせて。"
+
+msgid "(Think Lacie...)"
+msgstr "(考えろ、レイシー……)"
+
+msgid "(Is there really no way out..?)"
+msgstr "(本当に、ここから出る道はないの……？)"
+
+msgid "Can't we break the ground above us and just climb out?"
+msgstr "上の地面を突き破って、登って出られないかな？"
+
+msgid "How?"
+msgstr "どうやって？"
+
+msgid "Well...."
+msgstr "えっと……"
+
+msgid "...I don't know."
+msgstr "……わからない。"
+
+msgid "Sorry, that was stupid."
+msgstr "ごめん、バカな考えだった。"
+
+msgid "(Can I call someone?)"
+msgstr "(電話はつながるかな？)"
+
+msgid "(There's no signal though...)"
+msgstr "(電波は入ってないけど……)"
+
+msgid "(But... it worked before...)"
+msgstr "(でも……前もつながったし……)"
+
+msgid "(It doesn't work...)"
+msgstr "(ダメだ……)"
+
+msgid "Say..."
+msgstr "あのさ……"
+
+msgid "...?"
+msgstr "……？"
+
+msgid "Will you tell me your name? Since we might be dying anyway..."
+msgstr "名前を教えてくれない？　どうせ、このまま死ぬかもしれないんだし……"
+
+msgid "It's Lacie."
+msgstr "レイシー。"
+
+msgid "Oh... that's such a nice name."
+msgstr "そっか……いい名前だね。"
+
+msgid "...Thanks."
+msgstr "……ありがとう。"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "..."
+msgstr "……"
+
+msgid "After that, we stayed in silence for a few minutes."
+msgstr "それから、私たちは数分間黙っていた。"
+
+msgid "I tried thinking of options at first, but quickly ran out of alternatives."
+msgstr "初めは私もできることを考えようとしたけど、すぐに選択肢が尽きてしまった。"
+
+msgid "Maybe there really was no way out this time."
+msgstr "もしかすると、今回こそ本当に道はないのかもしれない。"
+
+msgid "Through all of this, Aoi was awfully quiet."
+msgstr "その間ずっと、アオイはやけに静かだった。"
+
+msgid "Um... hey."
+msgstr "ねえ……ちょっと。"
+
+msgid "Mhm..?"
+msgstr "うん……？"
+
+msgid "Don't panic. It won't solve anything."
+msgstr "パニックにならないで。何の解決にもならないから。"
+
+msgid "What makes you think I'm panicking?"
+msgstr "どうして僕がパニックだって思うの？"
+
+msgid "You're melting."
+msgstr "溶けてるから。"
+
+msgid "O-Oh right..."
+msgstr "あ――そ、そうだね……"
+
+msgid "No panic... no panic..."
+msgstr "パニクるな……パニクるな……"
+
+msgid "Wait... you're melting."
+msgstr "待って……溶けてる。"
+
+msgid "YES, I KNOW!"
+msgstr "わかってるよ！"
+
+msgid "I can't stop!!!"
+msgstr "止められないんだ！"
+
+msgid "No, Aoi!"
+msgstr "違うの、アオイ！"
+
+msgid "I have an idea."
+msgstr "思いついたことがあるの。"
+
+msgid "Huh!?"
+msgstr "えぇ!?"
+
+msgid "There's a drain."
+msgstr "排水口があるでしょ。"
+
+msgid "...AND!?"
+msgstr "……で!?"
+
+msgid "Where do you think it leads?"
+msgstr "どこに通じてると思う？"
+
+msgid "You want me..."
+msgstr "まさか……"
+
+msgid "You want me to go through the drain!?"
+msgstr "まさか、僕にこの排水口に入れって言うの!?"
+
+msgid "Even if I do... you can't come with me."
+msgstr "仮にそうしても……君はついて来れないよ。"
+
+msgid "...Yeah."
+msgstr "……うん。"
+
+msgid "I-I got it, don't worry! If this leads anywhere, I'll find a way to get you out!"
+msgstr "わ――わかった、心配しないで！　もしどこかにつながってたら、どうにかして君を助け出す方法を見つけるから！"
+
+msgid "Just stay put!"
+msgstr "それまでここにいて！"
+
+msgid "Really?"
+msgstr "ほんとに？"
+
+msgid "YEAH!"
+msgstr "うん！"
+
+msgid "Well, let's hope there's a way."
+msgstr "じゃあ、道があることを祈ろう。"
+
+msgid "There's gotta be a way!"
+msgstr "絶対あるよ！"
+
+msgid "Okay... well... Here goes."
+msgstr "よし……じゃあ……行くよ。"
+
+msgid "(Was that a good idea...?)"
+msgstr "(これでよかったのかな……？)"
+
+msgid "How long has it been..."
+msgstr "あれからどれくらい経ったんだろう……"
+
+msgid "Did I seriously just trust a demon with my life?"
+msgstr "妖魔に命を預けるなんて、私、正気だったのかな？"
+
+msgid "Did I seriously just trust a spirit with my life?"
+msgstr "精霊に命を預けるなんて、私、正気だったのかな？"
+
+msgid "Aoi might not even come back."
+msgstr "アオイは戻ってすら来ないかも。"
+
+msgid "Wait, Aoi could have died for all I know..."
+msgstr "いや、ひょっとしたら死んでるかも……"
+
+msgid "What did I do..."
+msgstr "何てことしちゃったんだろう……"
+
+msgid "Did I seriously just send Aoi down the drain to die..."
+msgstr "私、本気でアオイを軽々しく排水口に送り込んで、死なせちゃったの……？"
+
+msgid "I should have said goodbye to Hiro when I had the chance..."
+msgstr "言う機会があるうちに、ヒロにさよならを言っておけばよかった……"
+
+msgid "It felt like days have gone by."
+msgstr "もう何日も経った気がする。"
+
+msgid "I don't know exactly how long it's been."
+msgstr "正確な時間はわからない。"
+
+msgid "But my phone battery died a long time ago..."
+msgstr "でも、携帯の電池はずいぶん前に切れた……"
+
+msgid "...And I fell asleep for a while too."
+msgstr "……それに、しばらく眠りもした。"
+
+msgid "Despite this... I don't feel hungry or thirsty..."
+msgstr "それなのに……お腹も空かないし、のども乾かない……"
+
+msgid "I don't have hope that Aoi will come back anymore."
+msgstr "アオイが戻ってくることはもう期待してない。"
+
+msgid "I don't think anyone will come."
+msgstr "もう、誰も来ないと思う。"
+
+msgid "I can't believe it... I threw in everything I had..."
+msgstr "信じられない……持ってるものを全部投げ込んだのに……"
+
+msgid "I even threw in the fish that was here, I have nothing else I can use..."
+msgstr "ここにあった魚も全部投げ込んじゃったし、もう何も残ってない……"
+
+msgid "Is there really nothing I can feed this thing...? Is there nothing I can do to save Lacie?"
+msgstr "本当にもう食べさせられるものはないの……？　レイシーを助けられる方法は？"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "There's always a way..."
+msgstr "いつも道はある……"
+
+msgid "Think... think..."
+msgstr "考えろ……考えるんだ……"
+
+msgid "Oh... oh god..."
+msgstr "あぁ……神様……"
+
+msgid "A bath tub."
+msgstr "バスタブ。"
+
+msgid "Why is there a bathtub in a place like this?"
+msgstr "どうしてこんなところにバスタブが？"
+
+msgid "Maybe the faeries take baths here?"
+msgstr "妖精もお風呂に入るのかな？"
+
+msgid "At least it's not full of blood or something."
+msgstr "少なくとも、血で満たされたりはしてない。"

@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a can of red paint here."
+msgstr "這裡有一桶紅色顏料。"
+
+msgid "Take ${item:ch1.paint}?"
+msgstr "拿走 ${item:ch1.paint} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "It's already done."
+msgstr "已經完成了。"
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(妳在入口撒上鹽巴。)"
+
+msgid "Some boxes containing holiday decorations."
+msgstr "裝著節日裝飾品的箱子。"
+
+msgid "Some boxes that may or may not be empty."
+msgstr "一些不知道是不是空的箱子。"
+
+msgid "A large pile of boxes."
+msgstr "一大堆箱子。"
+
+msgid "An empty bucket. Not a trash can."
+msgstr "空桶子。不是垃圾桶。"
+
+msgid "An empty bucket."
+msgstr "空桶子。"
+
+msgid "A chair that's sometimes used to reach high places."
+msgstr "椅子，偶爾會用來搆到高處。"
+
+msgid "A large cupboard. There's quite a bit of space inside."
+msgstr "大櫥櫃。裡面空間滿大的。"
+
+msgid "The garage door. It leads outside."
+msgstr "車庫門。通往外面。"
+
+msgid "It opens with a remote control. My parents probably took it in the car with them."
+msgstr "要使用遙控器開啟。我的爸媽大概把它帶在車上了。"
+
+msgid "An old lamp. It's not plugged in."
+msgstr "一盞舊燈。沒有插電。"
+
+msgid "A shelf unit filled with various tools, paint, and old manuals."
+msgstr "擺滿了各種工具、顏料和舊手冊的架子。"
+
+msgid "There's nothing of use here."
+msgstr "沒有什麼有用的東西了。"
+
+msgid "A shoe rack with no shoes."
+msgstr "沒有鞋子的鞋架。"
+
+msgid "A shoe rack."
+msgstr "鞋架。"
+
+msgid "An empty trash can. Not a bucket."
+msgstr "空垃圾桶。不是桶子。"
+
+msgid "An empty trash can."
+msgstr "空垃圾桶。"
+
+msgid "An umbrella basket."
+msgstr "雨傘籃。"
+
+msgid "There was a discount for buying two of them."
+msgstr "之前買兩件有優惠。"

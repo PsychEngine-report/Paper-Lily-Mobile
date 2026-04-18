@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I think I'll just do it later."
+msgstr "Sanırım bunu daha sonra yapacağım."
+
+msgid "That was easy."
+msgstr "Kolaydı."
+
+msgid "This isn't the right classroom for that."
+msgstr "Burası bunun için doğru sınıf değil."
+
+msgid "The path is already drawn."
+msgstr "Yol zaten çizilmiş."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Henüz değil. Öncelikle ihtiyacım olan her şeye sahip olduğumdan emin olmayı tercih ederim."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Henüz değil. Önce sınıfları hazırlamayı bitirmek istiyorum."
+
+msgid "There's some chalk here."
+msgstr "Burada biraz tebeşir var."
+
+msgctxt "events.Prologue_Classroom_1.item_chalk_get.choice"
+msgid "Take it?"
+msgstr "Alacak mısın?"
+
+msgctxt "events.Prologue_Classroom_1.item_chalk_get.choice.Take it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Classroom_1.item_chalk_get.choice.Take it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "Başımın şu anda olduğundan daha fazla belaya girmesini istemem."
+
+msgid "This is my desk. I keep all kinds of cool stuff here."
+msgstr "Bu benim masam. Burada her türlü havalı şeyi saklıyorum"
+
+msgid "This might be useful."
+msgstr "Bu kullanışlı olabilir."
+
+msgid "Take Dusty Hairpin?"
+msgstr "Tozlu Saç Tokasını al"
+
+msgctxt "events.Prologue_Classroom_1.item_hairpin_get.choice.Take Dusty Hairpin?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Classroom_1.item_hairpin_get.choice.Take Dusty Hairpin?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's nothing else of use for today."
+msgstr "Bugün için burada işe yarar başka bir şey yok"
+
+msgid "My desk. I don't need anything from it right now."
+msgstr "Masam. Şu anda masamdan bir şeye ihtiyacım yok."
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "Okulu yakmak ritüelin bir parçası değil."
+
+msgid "There's a pair of scissors here."
+msgstr "Burada bir makas var."
+
+msgid "Take Scissors?"
+msgstr "Makası alacak mısın?"
+
+msgctxt "events.Prologue_Classroom_1.item_scissors.choice.Take Scissors?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Classroom_1.item_scissors.choice.Take Scissors?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "It's already done."
+msgstr "Çoktan yapıldı."
+
+msgid "This isn't the time for that."
+msgstr "Bunun zamanı değil."
+
+msgid "Return scissors?"
+msgstr "Makası geri bırak?"
+
+msgctxt "events.Prologue_Classroom_1.item_scissors_on_shelf.choice.Return scissors?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Classroom_1.item_scissors_on_shelf.choice.Return scissors?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Some geometry books."
+msgstr "Bazı geometri kitapları."
+
+msgid "A clean chalkboard."
+msgstr "Temiz bir kara tahta."
+
+msgid "A wooden desk."
+msgstr "Bir ahşap masa."
+
+msgid "A paper slip with rules for students."
+msgstr "Öğrenciler için kuralların yer aldığı bir kağıt parçası."
+
+msgid "There's no time for rules right now."
+msgstr "Şu anda kurallara ayıracak zaman yok."
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Bazı sınıf katılım sayfaları ve programları."
+
+msgid "A happy green plant."
+msgstr "Mutlu yeşil bir bitki."
+
+msgid "The plant is no longer happy."
+msgstr "Bitki artık mutlu değil."
+
+msgid "The teacher's podium."
+msgstr "Öğretmen kürsüsü."
+
+msgid "Some boring textbooks."
+msgstr "Bazı sıkıcı ders kitapları."
+
+msgid "Some very thick, school-related books."
+msgstr "Bazı çok kalın okulla ilgili kitaplar."
+
+msgid "Some books and... chalk."
+msgstr "Biraz kitap ve... tebeşir."
+
+msgctxt "events.Prologue_Classroom_1.misc_shelf2b.choice"
+msgid "Take it?"
+msgstr "Alacak mısın?"
+
+msgctxt "events.Prologue_Classroom_1.misc_shelf2b.choice.Take it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Classroom_1.misc_shelf2b.choice.Take it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's nothing else of use."
+msgstr "Başka işe yarar bir şey yok."
+
+msgid "A simple trash can. Its contents look trashy."
+msgstr "Basit bir çöp kutusu. Beş para etmez gibi görünüyor."
+
+msgctxt "events.Prologue_Classroom_1.misc_window1.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Perdeler kapalı kalmalı."
+
+msgctxt "events.Prologue_Classroom_1.misc_window2.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Perdeler kapalı kalmalı."
+
+msgctxt "events.Prologue_Classroom_1.misc_window3.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "Perdeler kapalı kalmalı."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Bu sınıftaki sıraları şimdi sıralamalı mıyım?"
+
+msgctxt "events.Prologue_Classroom_1.move_enter.choice.Should I sort the desks in this classroom now?"
+msgid "Yes"
+msgstr "Evet"
+
+msgid "Not yet"
+msgstr "Daha değil"
+
+msgid "This should be easy."
+msgstr "Bu kolay olmalı."

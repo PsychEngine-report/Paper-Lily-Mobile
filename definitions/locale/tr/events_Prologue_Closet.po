@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Çoktan kilidi açıldı"
+
+msgid "The box contains various empty notebooks, textbooks and... chalk."
+msgstr "Kutu çeşitli boş defterler, ders kitapları ve... tebeşir... içeriyor."
+
+msgid "Take chalk?"
+msgstr "Tebeşiri al？"
+
+msgctxt "events.Prologue_Closet.event_check_boxes2.choice.Take chalk?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Closet.event_check_boxes2.choice.Take chalk?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's nothing else of interest"
+msgstr "İlgilenebileceğiniz başka bir şey yok."
+
+msgid "There's some dusty documents that catch your eye."
+msgstr "Bazı tozlu belgeler ilgini çekti."
+
+msgid "Read them?"
+msgstr "Onları oku？"
+
+msgctxt "events.Prologue_Closet.event_read_letter.choice.Read them?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Closet.event_read_letter.choice.Read them?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "..."
+msgstr "..."
+
+msgid "It's a... lawsuit?"
+msgstr "Bir... dava？"
+
+msgid "What's that doing in a place like this?"
+msgstr "Böyle bir yerde ne işi var？"
+
+msgid "I heard about that from my dad."
+msgstr "Babamdan bunun hakkında duymuştum."
+
+msgid "Supposedly someone sued the school because of their daughter's disappearance."
+msgstr "Büyük ihtimalle biri kızının kaybolmasından okulu dava etmiştir."
+
+msgid "Oh, the 2nd year girl?"
+msgstr "Oh, 2. sınıf bir kız"
+
+msgid "I heard something happened, but I didn't know the school was involved."
+msgstr "Bir şeyler olduğunu duymuştum, ama okulun dahil olduğunu bilmiyordum. "
+
+msgid "I don't know either."
+msgstr "Ben de bilmiyorum."
+
+msgid "But she was last seen at school, so her family was convinced that something happened here and it was covered up."
+msgstr "Ancak, son görüldüğü yer okuldu, bu yüzden ailesi burada bir şeylerin olduğuna ve üstünün örtüldüğüne inandı."
+
+msgid "There's definitely an odd history of disappearances in this town."
+msgstr "Bu kasabada kesinlikle garip kaybolma vakaları var."
+
+msgid "When I graduate, I'm out of here."
+msgstr "mezun olduğumda, buradan çekip gideceğim."
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Saç tokası bu kilide sığmıyor."
+
+msgid "The key fits!"
+msgstr "Anahtar uyuyor!"
+
+msgid "The boxes are already open."
+msgstr "Kutular çoktan açılmış."
+
+msgid "Boxes filled with rags and other cleaning supplies."
+msgstr "Kutular temizlik eşyaları ve bezlerle dolu."
+
+msgid "A sealed box."
+msgstr "Mühürlenmiş kutu."
+
+msgid "Some boxes filled with random objects."
+msgstr "Bazı kutular rastgele eşyalarla dolu."
+
+msgid "This is the lost and found box!"
+msgstr "Bu kaybolan eşyalar kutusu!"
+
+msgid "Really?"
+msgstr "Gerçekten mi?"
+
+msgid "Look, I found my old shoe."
+msgstr "Bak, eski ayakkabımı buldum."
+
+msgid "A shoe...?"
+msgstr "Bir ayakkabı...?"
+
+msgid "I lost it years ago."
+msgstr "Yıllar önce kaybettim."
+
+msgid "How do you lose one shoe?"
+msgstr "Bir tane ayakkabıyı nasıl kaybettin?"
+
+msgid "It just disappeared."
+msgstr "Sadece kayboldu."
+
+msgid "Oh! My lighter!"
+msgstr "Ah! Çakmağım!"
+
+msgid "Don't you already have a lighter?"
+msgstr "Zaten bir çakmağın yok mu."
+
+msgid "This is my old one."
+msgstr "Bu eskisi."
+
+msgid "You lost a lighter in the school?"
+msgstr "Okulda bir çakmak mı kaybettin? "
+
+msgid "No, they confiscated it."
+msgstr "Hayır, onu ellerinden aldılar."
+
+msgid "Figures. Lighters can be dangerous."
+msgstr "Figürler, çakmaklar sorun olabilir."
+
+msgid "Only in the wrong hands."
+msgstr "Sadece yanlış ellerde."
+
+msgid "And yours aren't?"
+msgstr "Ve senin değil mi?？"
+
+msgid "You shouldn't bring lighters to school..."
+msgstr "Okula çakmak getirmemelisin..."
+
+msgid "There's nothing else of interest."
+msgstr "Başka ilgi çekici bir şey yok."
+
+msgid "Some used brooms."
+msgstr "Bazı kullanılmış süpürgeler."
+
+msgid "A calendar and information sheet for the cleaning staff."
+msgstr "Temizlik ekibi için bir iş ajendası"
+
+msgid "A cleaning cart."
+msgstr "Temizlik arabası."
+
+msgid "It could use some cleaning."
+msgstr "Temizliğe ihtiyacı var gibi görünüyor."
+
+msgid "A dusty lamp. The light bulb is missing."
+msgstr "Tozlu bir lamba. Ampul ise kayıp."
+
+msgid "Well that's ominous."
+msgstr "Bu biraz karamsar."
+
+msgid "A little darkness won't hurt anybody."
+msgstr "Biraz karanlıktan zarar gelmez."
+
+msgid "...Probably."
+msgstr "...Muhtemelen."
+
+msgid "It doesn't work."
+msgstr "Çalışmıyor."
+
+msgid "A large locker that could probably fit a person."
+msgstr "Bir insanın sığabileceği kadar büyük bir dolap."
+
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgid "Lots of cleaning supplies. It smells weird."
+msgstr "Çok fazla temizlik malzemesi. Garip kokuyor."
+
+msgid "Lots of school supplies."
+msgstr "Fazlaca okul malzemesi."
+
+msgid "Books and paints line the shelves."
+msgstr "Kitaplar ve boyalar, rafları süslüyor."
+
+msgid "There's a small key on one of the shelves."
+msgstr "Rafların birinde küçük bir anahtar var"
+
+msgid "Take it?"
+msgstr "Al?"
+
+msgctxt "events.Prologue_Closet.misc_shelf3.choice.Take it?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Closet.misc_shelf3.choice.Take it?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A trash can, even in a place like this."
+msgstr "Bir çöp kutusu, böyle bir yerde bile."
+
+msgid "Why would there be a trash can in a supply closet?"
+msgstr "Neden malzeme dolabında bir çöp kutusu var?"
+
+msgid "Maybe it's a spare?"
+msgstr "Belki de yedek olabilir?"
+
+msgid "It's... so dark."
+msgstr "Bu... çok karanlık."
+
+msgid "Come on Ponytail, don't chicken out on me now."
+msgstr "Hadi at kuyruğu, şimdi benden çekinme. "
+
+msgid "Don't call me that."
+msgstr "Bana bir daha öyle seslenme."
+
+msgid "You have a ponytail, don't you?"
+msgstr "At kuyruğun var ama?"
+
+msgid "I have a name too."
+msgstr "İsmim de var"

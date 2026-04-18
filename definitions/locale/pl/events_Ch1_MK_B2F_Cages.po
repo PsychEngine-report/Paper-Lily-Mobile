@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "O, super, to mi się przyda do zabicia czasu."
+
+msgid "You got a crayon too?"
+msgstr "Masz może jakieś kredki?"
+
+msgid "It's not for you."
+msgstr "To nie dla ciebie."
+
+msgid "What!?"
+msgstr "Co!?"
+
+msgid "You about to start cleaning in here?"
+msgstr "Zamierzasz tu sprzątać?"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "Po jaką cholerę wymachujesz tą stopą!?"
+
+msgid "Did you cut it..?"
+msgstr "Odcięłaś ją…?"
+
+msgid "..."
+msgstr "..."
+
+msgid "I had to."
+msgstr "Musiałam."
+
+msgid "Mhmmm..."
+msgstr "Mhmmm..."
+
+msgid "It's true."
+msgstr "Mówię prawdę."
+
+msgid "Yeah..."
+msgstr "Ta…"
+
+msgid "It's a jar."
+msgstr "To słoik."
+
+msgid "Yes."
+msgstr "Tak."
+
+msgid "It's empty."
+msgstr "Jest pusty."
+
+msgid "...Yes."
+msgstr "…Tak."
+
+msgid "Why are you showing it to me?"
+msgstr "Czemu mi go pokazujesz?"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "Po prostu chciałam zobaczyć, czy masz jakieś bystre uwagi."
+
+msgid "It seems you don't."
+msgstr "Ewidentnie nie masz."
+
+msgid "H-Hey!"
+msgstr "H-Hej!"
+
+msgid "The key fits!"
+msgstr "Klucz pasuje!"
+
+msgid "Thanks!"
+msgstr "Dzięki!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai dołączył do twojej drużyny.)"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "Klatka nie ma dziurki do klucza."
+
+msgid "The key does not fit."
+msgstr "Klucz nie pasuje."
+
+msgid "Um... could you..."
+msgstr "Eee… czy mógłbyś…"
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "Co? Nawet mnie nie uwolniłaś, a chcesz, żebym się pociął?"
+
+msgid "Is this how you make friends?"
+msgstr "Czy to tak poznajesz przyjaciół?"
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "(Żart ci się nie udał… ja nie poznaję przyjaciół.)"
+
+msgid "That's not gonna cut through this cage."
+msgstr "To nie przetnie prętów tej klatki."
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "Czy aby na pewno nie jesteś piromanką?"
+
+msgid "I won't judge, really."
+msgstr "Nie osądzam."
+
+msgid "...I'm not."
+msgstr "…Nie jestem."
+
+msgid "I found this, but I don't know how to use it."
+msgstr "Znalazłam to, ale nie wiem jak go użyć."
+
+msgid "Can you pick your own lock or something?"
+msgstr "Czy możesz sobie sam otworzyć zamek od klatki?"
+
+msgid "Sure can!"
+msgstr "Jasne!"
+
+msgid "I still look pretty good, all things considered."
+msgstr "Dalej wyglądam dobrze, tak ogólnie mówiąc."
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "Więc miałaś czas bawić się farbami, ale uwolnić mnie to już nie?"
+
+msgid "Correct."
+msgstr "Dokładnie."
+
+msgid "A large cage."
+msgstr "Duża klatka."
+
+msgid "A large cage hangs from the ceiling."
+msgstr "Duża klatka zwisająca z sufitu."
+
+msgid "A small cage housing a crow."
+msgstr "Mała klatka z wroną."
+
+msgid "How cruel, locking up a bird like this."
+msgstr "Jak można tak zamknąć ptaka…"
+
+msgid "...Or is it just a regular pet?"
+msgstr "…a może to tylko zwierzę domowe?"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "(Nie wydaje się, żeby było jak uwolnić ptaka.)"
+
+msgid "The crow is dead."
+msgstr "Wrona nie żyje."
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "Cholera. Ta od noży musiała tu być."
+
+msgid "How do you know?"
+msgstr "Skąd wiesz?"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "Cóż, o ile mi wiadomo, ptaki tak same z siebie nie wybuchają."
+
+msgid "A small cage. It's empty."
+msgstr "Mała klatka. Jest pusta."
+
+msgid "The cage you were trapped in."
+msgstr "Klatka, w której byłaś uwięziona."
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "Jest zamknięta, więc nie możesz wejść do środka."
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "Muszę uważać, żeby tam przez przypadek nie wrócić."
+
+msgid "So how'd you... get out?"
+msgstr "Więc, jak ty… wyszłaś?"
+
+msgid "I'm not sure."
+msgstr "Nie jestem pewna."
+
+msgid "You were here, didn't you see it?"
+msgstr "Przecież tu siedzisz, nie widziałeś tego?"
+
+msgid "I wasn't paying attention."
+msgstr "Nie zwróciłem uwagi."
+
+msgid "Good job getting out of that."
+msgstr "Gratulacje, tak w ogóle."
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "Nie widziałem co zrobiłaś, ale musisz być zajebista w przenikaniu przez grube pręty z metalu."
+
+msgid "Thanks."
+msgstr "Dzięki."
+
+msgid "Looks like you're in a bind yourself."
+msgstr "Wygląda na to, że ciebie też uwięziła."
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "(Gdyby był demonem, mógłby się bez trudu wydostać… nie?)"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "(A może po prostu wszystko mu jedno…?)"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "Słuchaj, raczej nie powinno cię tu być."
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "Jeśli pani Potworna usłyszała ten twój hałas i przyjdzie tu zajrzeć, będziesz miała kłopoty, nie sądzisz?"
+
+msgid "Hmm... you're right."
+msgstr "Hmm… racja."
+
+msgid "Well, see you."
+msgstr "Cóż, to na razie."
+
+msgid "Where are you going?"
+msgstr "Gdzie ty idziesz?"
+
+msgid "I'm going to look around a bit."
+msgstr "Rozejrzeć się trochę."
+
+msgid "...and...?"
+msgstr "...i...?"
+
+msgid "I should try to find an exit too."
+msgstr "Postaram się też odszukać wyjście."
+
+msgid "...And nothing else...?"
+msgstr "…I to wszystko…?"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Are you serious? Get me out of here!"
+msgstr "Poważnie? Wyciągnij mnie stąd!"
+
+msgid "Ah, of course."
+msgstr "Ach, no oczywiście."
+
+msgid "Sure, I'll try."
+msgstr "Jasne, spróbuję."
+
+msgid "...Alright."
+msgstr "…Dobra."
+
+msgid "I lost all my items..."
+msgstr "Straciłam wszystkie moje rzeczy…"
+
+msgid "Do you still have your belongings?"
+msgstr "Czy masz może swoje?"
+
+msgid "My stuff? It's all gone."
+msgstr "Moje rzeczy? Przepadły."
+
+msgid "I guess the demon lady took it."
+msgstr "Pewnie ta paniusia je zabrała."
+
+msgid "I see..."
+msgstr "Aha…"
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "(Niedobrze. Nie mam jak wrócić do domu bez moich rzeczy.)"
+
+msgid "You're back."
+msgstr "Wróciłaś."
+
+msgid "Any clues?"
+msgstr "Jakieś tropy?"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "Rozmawiałam z pająkiem."
+
+msgid "You spoke to a spider...?"
+msgstr "Rozmawiałaś z pająkiem…?"
+
+msgid "And did the spider speak back?"
+msgstr "A czy on rozmawiał z tobą?"
+
+msgid "Ok, that's kinda intriguing."
+msgstr "Okej, to jest intrygujące."
+
+msgid "He told me what to do to get out of here."
+msgstr "Powiedział mi co mam zrobić, żeby się stąd wydostać."
+
+msgid "Really?"
+msgstr "Poważnie?"
+
+msgid "Yes. I'll take care of it."
+msgstr "Tak. Już się tym zajmuję."
+
+msgid "Aaaalright."
+msgstr "Ooooookej."
+
+msgid "I'll just... be here."
+msgstr "To ja… będę tu czekał."
+
+msgid "Well, see you later."
+msgstr "Do zobaczenia."
+
+msgid "Got it."
+msgstr "Jasne."
+
+msgid "If you want a lollipop I have more."
+msgstr "Jak chcesz lizaka, to mam ich jeszcze sporo."
+
+msgid "No thank you."
+msgstr "Podziękuję."
+
+msgid "Be careful out there."
+msgstr "Uważaj na siebie."
+
+msgid "The cage Sai was in."
+msgstr "Klatka, w której był Sai."
+
+msgid "Sai isn't here anymore."
+msgstr "Saia już tu nie ma."
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "Hej, hej… czy ty tak po prostu idziesz…?"
+
+msgid "Wait."
+msgstr "Czekaj."
+
+msgid "Hm?"
+msgstr "Hm?"
+
+msgid "What did you try to buy?"
+msgstr "Co próbowałaś kupić?"
+
+msgid "...What?"
+msgstr "...Co?"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "Mówiłaś, że próbowałaś dzisiaj coś kupić w sklepie."
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "…Czemu teraz mnie o to pytasz?"
+
+msgid "Just curious."
+msgstr "Tylko z ciekawości."
+
+msgid "...It was just a flan."
+msgstr "…Tylko budyń."
+
+msgid "...It was just some macarons."
+msgstr "…Tylko makaroniki."
+
+msgid "...It was just a chocolate eclair."
+msgstr "…Tylko eklerka czekoladowa."
+
+msgid "Huh."
+msgstr "Hm."
+
+msgid "So you like flan?"
+msgstr "Czyli lubisz budynie?"
+
+msgid "So you like macarons?"
+msgstr "Czyli lubisz makaroniki?"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "Czyli lubisz eklerki? Czy tylko czekoladowe?"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "Czy to naprawdę pora na tą dyskusję?"
+
+msgid "When else? I'm bored now, not later."
+msgstr "Kiedy indziej? Nudzę się teraz, nie póżniej."
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "To wcale nie tak, że mam rzeczy do obmyślania."
+
+msgid "...I'm leaving."
+msgstr "…Wychodzę."
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "Czekaj! Proszę, powiedz mi chociaż jak ci na imię, i dam ci spokój!"
+
+msgid "...Sigh."
+msgstr "...Ech."
+
+msgid "It's Lacie."
+msgstr "Nazywam się Lacie."
+
+msgid "Will that be all?"
+msgstr "Czy to wszystko?"
+
+msgid "Yeah!"
+msgstr "Tak!"
+
+msgid "I'll be going then."
+msgstr "To już się zbieram."
+
+msgid "Good luck, try not to get killed."
+msgstr "Powodzenia. Nie daj się zabić."
+
+msgid "...Mhm."
+msgstr "...Mhm."
+
+msgid "I'm not sure where I am right now..."
+msgstr "Nie mam pewności, gdzie jestem…"
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "Ale muszę jedynie znaleźć wyjście, nie natykając się na tego potwora."
+
+msgid "...Or should I help that guy first?"
+msgstr "…Czy może powinnam najpierw pomóc temu kolesiowi?"
+
+msgid "Um, so..."
+msgstr "Eee, więc…"
+
+msgid "The knives lady was here."
+msgstr "Ta od noży tu była."
+
+msgid "She pulverized that bird."
+msgstr "Zmiażdzyła tego ptaka."
+
+msgid "It was crazy, I thought I was toast."
+msgstr "To było pojebane. Już myślałem, że po mnie."
+
+msgid "Where did she go after?"
+msgstr "Wiesz dokąd poszła?"
+
+msgid "No clue."
+msgstr "Nie mam pojęcia."

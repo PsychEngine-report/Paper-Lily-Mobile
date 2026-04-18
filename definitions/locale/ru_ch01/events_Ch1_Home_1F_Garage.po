@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a can of red paint here."
+msgstr "Здесь хранится красная краска."
+
+msgid "Take ${item:ch1.paint}?"
+msgstr "Взять предмет: ${item:ch1.paint}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "It's already done."
+msgstr "Тут всё сделано."
+
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Вы посыпали соль на выход.)"
+
+msgid "Some boxes containing holiday decorations."
+msgstr "Коробки с праздничными украшениями."
+
+msgid "Some boxes that may or may not be empty."
+msgstr "Какие-то коробки пустые, какие-то нет."
+
+msgid "A large pile of boxes."
+msgstr "Большая куча коробок."
+
+msgid "An empty bucket. Not a trash can."
+msgstr "Пустое ведро. Не урна."
+
+msgid "An empty bucket."
+msgstr "Пустое ведро."
+
+msgid "A chair that's sometimes used to reach high places."
+msgstr "Стул, которым пользуются, когда нужно достать куда-то высоко."
+
+msgid "A large cupboard. There's quite a bit of space inside."
+msgstr "Большой шкафчик. В нём вполне себе просторно."
+
+msgid "The garage door. It leads outside."
+msgstr "Дверь гаража. Она ведёт наружу."
+
+msgid "It opens with a remote control. My parents probably took it in the car with them."
+msgstr "Её можно открыть пультом. Мои родители, наверное, взяли его с собой в машину."
+
+msgid "An old lamp. It's not plugged in."
+msgstr "Старая лампа. Не подключена к розетке."
+
+msgid "A shelf unit filled with various tools, paint, and old manuals."
+msgstr "Шкаф с различными инструментами, краской и старыми руководствами к использованию техники."
+
+msgid "There's nothing of use here."
+msgstr "Здесь нет ничего полезного."
+
+msgid "A shoe rack with no shoes."
+msgstr "Обувная полочка без обуви."
+
+msgid "A shoe rack."
+msgstr "Обувная полочка."
+
+msgid "An empty trash can. Not a bucket."
+msgstr "Пустая мусорная урна. Не ведро."
+
+msgid "An empty trash can."
+msgstr "Пустая урна."
+
+msgid "An umbrella basket."
+msgstr "Корзинка с зонтиками."
+
+msgid "There was a discount for buying two of them."
+msgstr "Когда-то на два зонтика в чеке давали скидку."

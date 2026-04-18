@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wait... you made me climb over all those boxes for nothing?"
+msgstr "Ơ kìa... thế thì em cho tôi leo qua hết mấy cái thùng đó để chơi không thôi hả?"
+
+msgid "It wasn't for nothing. Exercise is good for you."
+msgstr "Không phải để chơi không thôi đâu anh. Tập thể dục cho khỏe người mà."
+
+msgid "Huuuh?! I can't believe this..."
+msgstr "Hởỏở?! Không thể tin nổi..."
+
+msgid "Man... it's really stuffy in there. I don't wanna do that again."
+msgstr "Ôi trời... đi trong cái này ngộp không chịu được. Không muốn làm thế lần nữa đâu."
+
+msgid "It doesn't look like we can reach it to go back anyway."
+msgstr "Mà dầu sao thì có vẻ cũng chẳng thể nào với lên được mà quay trở lại rồi."
+
+msgid "What?!"
+msgstr "Gì?!"
+
+msgid "We're stuck?!"
+msgstr "Vậy là kẹt rồi hả?!"
+
+msgid "There's a door right there."
+msgstr "Ngay kia có cánh cửa mà."
+
+msgid "Sheesh... why are all the vents exits so high up..."
+msgstr "Xì... tại sao lỗ thông gió cái nào cũng ở cao thế..."
+
+msgid "If you're going to make them traversable, at least put them at a reasonable height."
+msgstr "Nếu người ta đã tính làm cho người chui vào được rồi, ít nhất bố trí ở độ cao vừa phải chứ."
+
+msgid "A bookshelf with very few remaining books."
+msgstr "Cái giá sách có vô cùng ít sách còn lại."
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice"
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "All of the pages are blank."
+msgstr "Trang nào cũng trắng trơn."
+
+msgid "A bookshelf with very few remaining books. All of their pages are blank."
+msgstr "Cái giá sách có vô cùng ít sách còn lại. Trang nào trang nấy đều trắng trơn."
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_6.dlg.narrator"
+msgid "An empty bookshelf."
+msgstr "Cái giá sách trống không."
+
+msgid "...Actually, there's a key at the very back."
+msgstr "...Thực ra, ở ngay trong cùng có cái chìa khóa."
+
+msgid "A purple book."
+msgstr "Cái cuốn sách màu tía."
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice"
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_7.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "All of its pages are blank, but you can see a faint outline of some letters."
+msgstr "Trang nào cũng trắng trơn, nhưng bạn thấy được đường nét lờ mờ của vài chữ cái."
+
+msgid "(Have all of these books been erased... somehow?)"
+msgstr "(Tất cả mấy cuốn sách này đều đã bị tẩy xóa rồi... hay là sao?)"
+
+msgid "Someone didn't want to leave any traces here."
+msgstr "Có đứa nào không muốn để lại bất kì dấu vết nào ở đây rồi."
+
+msgid "I agree."
+msgstr "Đồng tình."
+
+msgctxt "events.Ch1_Facility_B2F_Archives.misc_bookcase_empty.dlg.narrator"
+msgid "An empty bookshelf."
+msgstr "Cái giá sách trống không."
+
+msgid "There's a hole on the floor."
+msgstr "Dưới sàn có cái hố."
+
+msgid "Going down there is out of the question."
+msgstr "Đi xuống đó thì miễn."
+
+msgid "Crawl inside?"
+msgstr "Bò vào bên trong chứ?"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.move_vent.choice.Crawl inside?"
+msgid "Yes"
+msgstr "Bò vào"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.move_vent.choice.Crawl inside?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "It's not a good idea to go in there without a way out."
+msgstr "Không còn đường ra mà đi vào trong đó là không có hay đâu."
+
+msgid "A ventilation shaft."
+msgstr "Cái hầm thông gió."
+
+msgid "The cover is screwed in."
+msgstr "Nắp được siết vít rồi."
+
+msgid "Hmm..."
+msgstr "Hừm..."
+
+msgid "Ah. I spot a shiny over there."
+msgstr "A. Tôi nhìn thấy có cái sáng bóng chỗ bên kia."
+
+msgid "A... \"shiny\"?"
+msgstr "Cái... \"sáng bóng\" á?"
+
+msgid "You know... a useful item."
+msgstr "Thì... cái đồ mà được việc ấy."
+
+msgid "How do you know it will be useful..."
+msgstr "Sao em biết là nó dùng được việc..."
+
+msgid "Might need to push some boxes around to get it though."
+msgstr "Có khi cần đẩy vài cái thùng qua lại mới đi qua lấy được."
+
+msgid "Arrange the boxes?"
+msgstr "Sắp đặt lại thùng chứ?"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.on_enter_puzzle.choice.Arrange the boxes?"
+msgid "Yes"
+msgstr "Sắp đặt"
+
+msgctxt "events.Ch1_Facility_B2F_Archives.on_enter_puzzle.choice.Arrange the boxes?"
+msgid "No"
+msgstr "Thôi"

@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A little cactus."
+msgstr "Küçük bir kaktüs."
+
+msgid "An empty flower vase."
+msgstr "Boş bir çiçek vazosu."
+
+msgid "Pink flowers in a vase."
+msgstr "Bir vazonun içerisinde pembe çiçekler."
+
+msgid "I could use these flowers..."
+msgstr "Çiçekleri Kullanabilirim.."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Çiçekleri bitkiye getir?"
+
+msgctxt "events.Ch1_MK_Bathroom.misc_flowers.choice.Bring the flowers to the plant?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Bathroom.misc_flowers.choice.Bring the flowers to the plant?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "\"Thank you.\""
+msgstr "\"Teşekkür ederim.\""
+
+msgid "A shelf. Nothing of interest."
+msgstr "Bir raf. İlgi çekici bir şey yok."
+
+msgid "A bathtub filled with a black liquid."
+msgstr "Siyah mı siyah bir sıvı ile dolu... bir küvet."
+
+msgid "It's so big... you could fit like... four of me in there."
+msgstr "Çok büyük... oraya benden... nerdeyse 4 tane sığar."
+
+msgid "Check if there's anything useful inside?"
+msgstr "Kullanışlı birşey var mı diye kontrol edecek misin?"
+
+msgctxt "events.Ch1_MK_Bathroom.misc_tub.choice.Check if there's anything useful inside?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_Bathroom.misc_tub.choice.Check if there's anything useful inside?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A beautiful night sky."
+msgstr "Gökyüzünün karanlık güzelliği."
+
+msgid "Three moons... ?"
+msgstr "Üç tane ay...?"

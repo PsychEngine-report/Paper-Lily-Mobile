@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's happening?"
+msgstr "怎麼回事？"
+
+msgid "What in the world happened here...?"
+msgstr "這裡到底發生了什麼事...？"
+
+msgid "It's too large to fit in there."
+msgstr "大到沒辦法插入。"
+
+msgid "Some pieces of old wood."
+msgstr "一些舊木頭。"
+
+msgid "They're too old to be useful."
+msgstr "它們舊到不能用。"
+
+msgid "The floor in the shrine is unstable."
+msgstr "神殿的地板不穩定。"
+
+msgid "There's a note here. It says:"
+msgstr "有張字條寫著："
+
+msgid "\"The pipes get clogged sometimes."
+msgstr "\"水管有的時候會被卡住。"
+
+msgid "If that happens, just add:"
+msgstr "如果發生的話，只要加入："
+
+msgid "-Some pink petals"
+msgstr "- 一些粉紅花瓣"
+
+msgid "-Some purple petals"
+msgstr "- 一些紫色花瓣"
+
+msgid "-Some white petals"
+msgstr "- 一些白色花瓣"
+
+msgid "-A bit of black algae"
+msgstr "- 一些黑色藻類"
+
+msgid "-A bit of green algae"
+msgstr "- 一些綠色藻類"
+
+msgid "-A bit of blue algae"
+msgstr "- 一些藍色藻類"
+
+msgid "And that's it. Make sure you get the colors right, the little keeper is delicate.\""
+msgstr "這樣就好了。確保顏色正確，小守護者很纖細的。\""
+
+msgid "A shrine of some sorts."
+msgstr "某種神殿。"
+
+msgid "There's a bowl with a goldfish in it."
+msgstr "碗裡面有隻金魚。"
+
+msgid "Take the fish?"
+msgstr "拿走金魚嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "A window with a view of the water."
+msgstr "可以看到水的窗戶。"

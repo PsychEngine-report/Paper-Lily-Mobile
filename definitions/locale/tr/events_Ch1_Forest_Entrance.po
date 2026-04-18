@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no need to mess with it anymore."
+msgstr "Bununla uğraşmaya gerek yok."
+
+msgid "Ah... I see how it is."
+msgstr "Ah... şimdi nasıl olduğunu anladım."
+
+msgid "I really dislike this kind of puzzle though..."
+msgstr "Yine de bu tarz yapbozları sevmem..."
+
+msgid "Hm..."
+msgstr "Hm..."
+
+msgid "Is that a button behind the lamppost?"
+msgstr "Sokak direğinin arkasında bir düğme mi var?"
+
+msgid "Ah... I kind of expected them to reset..."
+msgstr "Ah... Onları ayarlaması türden..."
+
+msgid "Geez... what was I thinking?"
+msgstr "Aayyyy... Ne düşünüyodum ki?"
+
+msgid "The cable has already been severed."
+msgstr "Kablo çoktan bölünmüş."
+
+msgid "The cable has been cut."
+msgstr "Kablo kesilmiş."
+
+msgid "A cable runs from the lamp to the bushes."
+msgstr "Kablo lambadan çalılara kadar uzanıyor."
+
+msgid "A heavy-looking metal gate."
+msgstr "Ağır görünümlü metal bir geçit."
+
+msgid "Is this the Daylight Gate?"
+msgstr "Bu Gün Işığı Geçidi mi?"
+
+msgid "What does it have to do with daylight?"
+msgstr "Bunun gün ışığıyla ne alakası var?"
+
+msgid "There's a plaque next to it that reads:"
+msgstr "Yanında ki plakette şu yazıyor:"
+
+msgid "A gate blocks your path."
+msgstr "Yolunu kapatan bir geçit."
+
+msgid ""
+"\"Daylight Gate\"\n"
+"\"(At daytime, the gate opens and the lamps turn off.)\""
+msgstr ""
+"\"Gün Işığı Geçidi\"\n"
+"\"(Gündüz zamanı, geçit açılır ve lambalar söner.)\""
+
+msgid "Day...? I don't even know what time it is..."
+msgstr "Gündüz mü...?　Saat kaç onu bile bilmiyorum..."
+
+msgid "Is there any way I can get this open without waiting?"
+msgstr "Bunu beklemeden açmanın bir yolu var mı?"
+
+msgid "A street lamp."
+msgstr "Bir sokak lambası."

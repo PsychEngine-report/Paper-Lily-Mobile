@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You left a flower.)"
+msgstr "(Zostawiłaś kwiatek.)"
+
+msgid "Some building blocks."
+msgstr "Kilka zabawkowych klocków."
+
+msgid "A sand bucket."
+msgstr "Wiaderko piaskowe."
+
+msgid "A stack of playing cards. They look handmade."
+msgstr "Stos kart do gry. Wyglądają na ręcznie robione."
+
+msgid "A gravestone lies here. You can't make out the name on it."
+msgstr "Tu jest nagrobek. Nie widać na nim nazwiska."
+
+msgid "There's a neatly written note taped to the back of the gravestone."
+msgstr "Z tyłu nagrobka znajduje się starannie napisana notatka."
+
+msgid "Read it?"
+msgstr "Przeczytać?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "It's been 5 years since your passing."
+msgstr "Minęło już 5 lat od Twojej śmierci."
+
+msgid "I often wonder if things would have been different, had I been with you."
+msgstr "Często zastanawiam się, czy wszystko potoczyłoby się inaczej, gdybym była przy Tobie."
+
+msgid "Would I have been able to protect you?"
+msgstr "Czy byłabym w stanie Cię ochronić?"
+
+msgid "Would I have died in your place?"
+msgstr "Czy umarłabym zamiast Ciebie?"
+
+msgid "I would have gladly accepted that resolution."
+msgstr "Chętnie zaakceptowałabym taki obrót spraw."
+
+msgid "I wish I was strong and brave enough to fight for you."
+msgstr "Chciałabym być na tyle silna i odważna, by o Ciebie walczyć."
+
+msgid "But vengeance won't bring you back."
+msgstr "Ale zemsta nie przywróci Ci życia."
+
+msgid "I can only continue to warn everyone, and hope the locked site doesn't take another victim."
+msgstr "Mogę jedynie dalej ostrzegać wszystkich i mieć nadzieję, że mroczny las nie pochłonie kolejnej ofiary."
+
+msgid "It's been quiet in the forest for the past few years."
+msgstr "Przez ostatnie kilka lat w lesie panowała cisza."
+
+msgid "But I know you always hated quiet."
+msgstr "Ale wiem, że zawsze nienawidziłaś ciszy."
+
+msgid "Please rest well."
+msgstr "Proszę, spoczywaj w pokoju."
+
+msgid "I'll visit you again soon."
+msgstr "Wkrótce znów się spotkamy."
+
+msgid "- Marzie"
+msgstr "- Marzie"
+
+msgid "A vase with fresh cut flowers."
+msgstr "Wazon ze świeżo ściętymi kwiatami."

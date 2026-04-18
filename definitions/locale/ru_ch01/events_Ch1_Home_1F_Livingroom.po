@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "Здесь лежит пара новых белых кроссовок с красными шнурками."
+
+msgid "The shoelaces could be useful."
+msgstr "Шнурки могут пригодится."
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "Взять ${item:ch1.shoelaces}?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "It's already done."
+msgstr "Дело сделано."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Вы посыпали соль на выход.)"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "It's already done."
+msgstr "Дело сделано."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "(Вы посыпали соль на выход.)"
+
+msgid "Something is written here:"
+msgstr "Здесь что-то написано:"
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "\"Когда ты в последний раз здесь ела? Ты уже забыла?\""
+
+msgid "A bookshelf with random decorative books."
+msgstr "Книжный шкаф, украшенный самыми разными книгами."
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "Также тут лежат аккуратно уложенные офисные принадлежности."
+
+msgid "Red marker. Perfect."
+msgstr "Красный маркер. Идеально."
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "Взять предмет: ${item:ch1.marker}?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "Крупный диван. Хиро часто тут засыпает."
+
+msgid "A small couch that used to be your favorite."
+msgstr "Небольшое кресло, которое некогда было вашим любимым."
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "Наверху шкафа стоят коробка и растение."
+
+msgid "A large cupboard that could fit a person."
+msgstr "Большой шкафчик, в который можно вместить человека."
+
+msgid "Some decorative plates."
+msgstr "Декоративные тарелки."
+
+msgid "A painting of a sleeping cat."
+msgstr "Картина с дремлющим котом."
+
+msgid "A painting of..."
+msgstr "Картина с..."
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "Чего? Разве этот кот не дремал?"
+
+msgid "A painting of a cat stares you down."
+msgstr "Картина с котом взирает на вас сверху."
+
+msgid "Some bills."
+msgstr "Различные счета."
+
+msgid "Some pictures of places around the world."
+msgstr "Фотографии мест со всего света."
+
+msgid "Mother and father go on trips a lot..."
+msgstr "Мама с папой часто вместе путешествуют..."
+
+msgid "I don't even know where they are right now."
+msgstr "Я даже не знаю, где они сейчас."
+
+msgid "A tall plant."
+msgstr "Высокое растение."
+
+msgid "A pretty plant."
+msgstr "Красивое растение."
+
+msgid "A pink plant."
+msgstr "Розовое растение."
+
+msgid "The TV remote."
+msgstr "Пульт от телека."
+
+msgid "Turn the TV on?"
+msgstr "Включить его?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Turn the TV off?"
+msgstr "Выключить телевизор?"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A shelf containing mainly glassware."
+msgstr "Сервант по большей мере со стеклянной утварью."
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "Если на кого-то упадёт, будет худо."
+
+msgid "Some books on gardening."
+msgstr "Книги по садоводству."
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "Обувная полочка с обувью разных цветов."
+
+msgid "Slippers to change into."
+msgstr "Домашние тапочки."
+
+msgid "The footprints come from under the table..."
+msgstr "Из-под стола выходят чьи-то следы..."
+
+msgid "But there's nothing there."
+msgstr "Но там никого нет."
+
+msgid "The family dining table."
+msgstr "Обеденный стол семьи."
+
+msgid "We don't eat here as much anymore."
+msgstr "Мы уже не так часто здесь едим."
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "Кофейный столик. Растения порой мешают обзору."
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "Следы ведут наружу. И выглядят они явно не как человеческие..."
+
+msgid "A TV."
+msgstr "Телевизор."
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "Это програма про автомобили... или трейлер новой игры?"
+
+msgid "Just animal videos, I guess."
+msgstr "Только видео про животных, получается."
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "\"Дайте им хлеба и котиков\", прямо как в той поговорке."
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "Недавно я начала смотреть одно аниме про девочек-волшебниц."
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "В сети говорят, что там начнётся чернуха... но я пока ничего такого не видела."
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "Слишком уж тревожно... лучше его выключить."
+
+msgid "..."
+msgstr "..."
+
+msgid "An umbrella basket."
+msgstr "Корзинка с зонтами."
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "Корзинка с зонтами. Её по неосторожности часто можно задеть ногой."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_backyard.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "На сегодня мне хватит улицы."
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_exit.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "На сегодня мне хватит улицы."
+
+msgid "This is the laundry room."
+msgstr "Это прачечная."
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "Никогда не понимала, зачем вообще закрывать дома двери."
+
+msgid "Maybe Hiro has the key..."
+msgstr "Может, у Хиро есть ключ..."
+
+msgid "...but I don't need anything from there."
+msgstr "...Хотя мне оттуда ничего не нужно."
+
+msgid "The laundry room. It's locked."
+msgstr "Прачечная. Она закрыта."

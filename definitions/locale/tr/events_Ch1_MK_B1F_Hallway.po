@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Psst..."
+msgstr "Psst..."
+
+msgid "Over here."
+msgstr "Buraya."
+
+msgid "Oh. A human."
+msgstr "Ah. Bir insan."
+
+msgid "I see."
+msgstr "Görüyorum."
+
+msgid "Strange."
+msgstr "Garip."
+
+msgid "How did you make it all the way here?"
+msgstr "Bu kadar yolu gelmeyi nasıl başardın?"
+
+msgid "Um..."
+msgstr "Um..."
+
+msgid "Well, no matter."
+msgstr "Peki, fark etmez."
+
+msgid "This isn't ideal but..."
+msgstr "Doğru olan bu değil ama..."
+
+msgid "...It'll do, I suppose."
+msgstr "...İşe yarayacak, sanırım."
+
+msgid "Who are you?"
+msgstr "Sen kimsin?"
+
+msgid "I do not have a name."
+msgstr "Bir ismim yok."
+
+msgid "(What was that..?)"
+msgstr "(Bu da neydi...?)"
+
+msgid "Miss Knives is roaming around."
+msgstr "Bayan Knives etrafta dolaşıyor."
+
+msgid "Miss Knives..."
+msgstr "Bayan Knives.."
+
+msgid "I think I met her."
+msgstr "Sanırım onunla karşılaştım."
+
+msgid "Yes, I saw that."
+msgstr "Evet onu anladım."
+
+msgid "You really brought out the \"crazy\" in her."
+msgstr "Gerçekten onun içindeki \"deliyi\" ortaya çıkartıyorsun."
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I didn't exactly do anything...)"
+msgstr "(Gerçekten bir şey yapmadım...)"
+
+msgid "I need to find a way out of this place."
+msgstr "Burdan çıkmanın bir yolunu bulmam gerek."
+
+msgid "I'm looking for a cursed door."
+msgstr "Lanetli bir kapı arıyorum."
+
+msgid "Of course."
+msgstr "Tabiki."
+
+msgid "We have a common goal."
+msgstr "Ortak bir hedefimiz var."
+
+msgid "To avoid you wandering aimlessly until you get killed..."
+msgstr "Öldürülene kadar amaçsızca dolaşmanı önlemek için..."
+
+msgid "...I'll help you."
+msgstr "...sana yardım edeceğim."
+
+msgid "Alright."
+msgstr "Tamam"
+
+msgid "So..."
+msgstr "O zaman..."
+
+msgid "Why don't you have a name?"
+msgstr "Neden bir ismin yok?"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.choice.O zaman..."
+msgid "How do I get out of here?"
+msgstr "Nasıl buradan çıkabilirim?"
+
+msgid "My items are gone"
+msgstr "Eşyalarım gitti."
+
+msgid "You don't have a name?"
+msgstr "İsmin yok mu?"
+
+msgid "I wasn't given one."
+msgstr "Bana bir isim verilmedi."
+
+msgid "But when you live a solitary life, you don't need a name."
+msgstr "Fakat yanlız bir yaşamın varken isime ihtiyacın olmaz."
+
+msgid "You're free to call me what you wish."
+msgstr "Bana istediğin gibi seslenmekte özgürsün."
+
+msgid "You humans seem to want to name everything."
+msgstr "Siz insanlar her şeye isim vermek istiyosunuz."
+
+msgid "I'll call you Spider."
+msgstr "Sana Örümcek diyeceğim."
+
+msgid "That's a terrible name."
+msgstr "Bu korkunç bir isim."
+
+msgid "Do you call other humans \"Human\"?"
+msgstr "Diğer insanlara \"İnsan\" diye mi sesleniyosun?"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.event_meet_spidey.dlg.lacie"
+msgid "How do I get out of here?"
+msgstr "Buradan nasıl çıkacağım?"
+
+msgid "There are several strange objects scattered around this place."
+msgstr "Burada dağılmış birsürü garip obje var."
+
+msgid "After you find them, you'll need to figure out how to unseal them."
+msgstr "Onları bulduktan sonra,onların mühürlerini açmanın bir yolunu bulmalısın."
+
+msgid "How will I know what I'm looking for?"
+msgstr "Aradığım şeyi nasıl biliceğim?"
+
+msgid "You'll know it when you see it."
+msgstr "Onu gördüğünde, bileceksin."
+
+msgid "...Okay."
+msgstr "...Tamam."
+
+msgid "By the way..."
+msgstr "Bu arada..."
+
+msgid "I came in here with a lot of things but... they're all gone."
+msgstr "Ben buraya bir sürü şeyle geldim ama... hepsi gitti."
+
+msgid "If I don't get them back..."
+msgstr "Eğer onları geri alamazsam..."
+
+msgid "Don't worry. You'll have them if you get out of here."
+msgstr "Endişelenme. Eğer burdan çıkarsan, onları tekrar geri kazanacaksın."
+
+msgid "I hear her coming."
+msgstr "Onun gelişini duyuyorum."
+
+msgid "You need to hide."
+msgstr "Saklanman gerek."
+
+msgid "Huh?"
+msgstr "Ne?"
+
+msgid "Go, now!"
+msgstr "Şimdi, git!"
+
+msgid "Oh..."
+msgstr "Oh..."
+
+msgid "The door is gone.."
+msgstr "Kapı gitmiş..."
+
+msgid "The door has no keyhole."
+msgstr "Kapının anahtar deliği yok."
+
+msgid "Looks like a guest book. It has no signatures."
+msgstr "Misafir listesine benziyor.İçinde imzalar yok."
+
+msgid "A large couch."
+msgstr "Geniş bir kanepe"
+
+msgid "An empty flower vase."
+msgstr "Boş bir çiçek vazosu."
+
+msgid "Purple flowers in a vase."
+msgstr "Vazonun içinde mor çiçekler."
+
+msgid "I could use these flowers..."
+msgstr "Bu çiçekleri kullanabilirdim..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Çiçekleri bitkiye getir?"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_flowers.choice.Çiçekleri bitkiye getir?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_flowers.choice.Çiçekleri bitkiye getir?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "\"Thank you.\""
+msgstr "\"Teşekkürler.\""
+
+msgid "A coat hanger."
+msgstr "Bir askılık."
+
+msgid "I'm keeping mine on."
+msgstr "Benimki üstümde kalsın."
+
+msgid "A floor lamp."
+msgstr "Bir yer lambası."
+
+msgid "A portrait of a person with tentacles for a head."
+msgstr "Kafa yerine dokunaçları olan bir kişinin portresi."
+
+msgid "A portrait of a girl with very long nails."
+msgstr "Uzun tırnaklı bir kızın portresi."
+
+msgid "A portrait of a person with horns."
+msgstr "Boynuzlu birinin portresi."
+
+msgid "A portrait of a person with a flower pot for a head."
+msgstr "Kafa yerine saksılık olan birinin portresi."
+
+msgid "They must smell really nice."
+msgstr "Gerçekten güzel kokuyor olmalılar."
+
+msgid "A portrait of a person with a butterfly on their face."
+msgstr "Kafası yerene kelebek olan birinin portleri. "
+
+msgid "Is the butterfly a part of their face? Or just resting on it?"
+msgstr "Kelebek yüzlerinin bir parçası mı? Yoksa sadece üzerinde duruyor mu?"
+
+
+msgid "A portrait of a person with one eye."
+msgstr "Tek gözlü birinin portresi."
+
+msgid "A portrait of a person with blood running down their face."
+msgstr "Yüzünden kan akan birinin portresi."
+
+msgid "Can they see properly?"
+msgstr "Düzgünce görebiliyorlar mı ki?"
+
+msgid "A portrait of a person with flowers for eyes."
+msgstr "Gözleri yerine çiçekler olan birinin portresi."
+
+msgid "A portrait of several characters with big eyes."
+msgstr "Birçok büyük gözlü karakterin olduğu bir portre."
+
+msgid "A portrait of a person with an octopus plush for a head."
+msgstr "Kafası ahtapot peluş olan bir kişinin portresi."
+
+msgid "A portrait of a scary lady. There's a grinning person above it."
+msgstr "Ürkütücü bir hanımefendinin bir portresi. Üzerinde sırıtan bir kişi var."
+
+msgid "Both look unsettling..."
+msgstr "İkisi de rahatsız edici gözüküyor..."
+
+msgid "A painting that's mostly just blue."
+msgstr "Çoğunlukla sadece mavi olan bir tablo."
+
+msgid "Touch it?"
+msgstr "Tabloya dokun?"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_painting_blue.choice.Tabloya dokun?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_painting_blue.choice.Tabloya dokun?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A bunch of blue powder sticks to your finger."
+msgstr "Bir tutam mavi pudra eline bulaştı."
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Yanınızda taşıyacak bir şeyiniz olduğu sürece, kazıyarak çıkarıp daha fazlasını toplamak kolay olmalı."
+
+msgid "(You wipe it off.)"
+msgstr "(Temizledin.)"
+
+msgid "Creepy portraits adorn the walls."
+msgstr "Ürkütücü portreler duvarı süslemiş."
+
+msgid "A broken pot where Spider was."
+msgstr "Örümceğin olduğu yerde kırık bir çömlek."
+
+msgid "There's something here..."
+msgstr "Burada bir şey var.."
+
+msgid "Take ${item:ch1.rainbow_potion_tmp}?"
+msgstr "${item:ch1.rainbow_potion_tmp} al?"
+
+msgctxt "events.Ch1_MK_B1F_Hallway.misc_pot.choice.Al ${item:ch1.rainbow_potion_tmp}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgid "A vase with a single flower."
+msgstr "İçinde tek çiçek olan bir vazo."
+
+msgid "There's nothing here."
+msgstr "Burada bir şey yok."
+
+msgid "It's no use... It's just a wall now."
+msgstr "Faydası yok... artık bu sadece bir duvar."
+
+msgid "You can hear someone crying inside."
+msgstr "İçinde birinin ağladığını duyabiliyorsun."
+
+msgid "You can hear someone singing on the other side."
+msgstr "Diğer tarafında birinin şarkı söylediğini duyabiliyorsun."

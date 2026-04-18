@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(If I pass through there, that guy might see me...)"
+msgstr "(Ако мина оттам, този човек може да ме види…)"
+
+msgid "(Um...)"
+msgstr "(Ам…)"
+
+msgid "(Did I adopt a stray?)"
+msgstr "(Нима съм осиновила бездомник?)"
+
+msgid "Are you following me?"
+msgstr "Следиш ли ме?"
+
+msgid "Yep."
+msgstr "М - да."
+
+msgid "We stand a better chance together, right?"
+msgstr "Заедно имаме по-голям шанс, нали?"
+
+msgid "Don't worry, I won't be dead weight."
+msgstr "Не се бой, няма да бъда мъртва тежест."
+
+msgid "Well, unless I'm actually dead..."
+msgstr "Е, освен ако не съм наистина мъртъв…"
+
+msgid "But then you can just leave me there."
+msgstr "Но тогава можеш просто да ме оставиш там."
+
+msgid "..."
+msgstr "…"
+
+msgid "Look, you can just pretend I'm not here if you want."
+msgstr "Виж, можеш просто да се преструваш че не съм тук, ако желаеш."
+
+msgid "See?"
+msgstr "Виждаш ли?"
+
+msgid "(That guy might still be waiting for me...)"
+msgstr "(Този човек може би все още ме чака…)"
+
+msgid "(Should I just return to where he is?)"
+msgstr "(Да се върна ли където е той?)"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "*Sigh*"
+msgstr "\"Въздишане\""
+
+msgid "Uhm..."
+msgstr "Ъмм…"
+
+msgid "Huh? Oh... what's up?"
+msgstr "Хм? О… какво става?"
+
+msgid "There was nothing important in there, let's go."
+msgstr "Там нямаше нищо важно, да вървим."
+
+msgid "Wait, how did you-"
+msgstr "Задръж, ти как-"
+
+msgid "Hurry up."
+msgstr "Побързай."
+
+msgid "A gate. It's locked."
+msgstr "Порта. Заключена е."
+
+msgid "A gate. There's probably no point in closing it."
+msgstr "Порта. Вероятно няма смисъл в затварянето й."
+
+msgid "The grate you kicked out of the way earlier."
+msgstr "Решетката, която избутахте от пътя по-рано."
+
+msgid "It's too high to reach."
+msgstr "Твърде високо е, за да го достигна."
+
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](Саи напусна вашата дружина.)[/color]"

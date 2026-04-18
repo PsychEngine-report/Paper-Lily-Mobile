@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "Bunları yanımda taşımak istemiyorum..."
+
+msgid "(Discarded ingredients)."
+msgstr "(Atılan malzemeler)."
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "Bunu yapmak için hala tüm malzemelere sahip değilim..."
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "\"Sanatçının İlhamı\"nı özlüyorum..."
+
+msgid "Could it be Kett's flowers?"
+msgstr "Kett'in çiçekleri olabilir mi?"
+
+msgid "What in the world is that?"
+msgstr "Bu da ne böyle?"
+
+msgid "(You don't know what to do with this...)"
+msgstr "(Bununla ne yapacağınızı bilmiyorsunuz...)"
+
+msgid "You can't cut through that with scissors."
+msgstr "Bunu makasla kesemezsin."
+
+msgid "Some books about cursed trees."
+msgstr "Lanetli ağaçlarla ilgili bazı kitaplar."
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice"
+msgid "Read a passage?"
+msgstr "Bir kısmını oku?"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "\"Lanetli ağaçların genellikle küçük boyutlarına rağmen köklerini 60 metreye kadar uzatmak gibi kendine özgü bir alışkanlıkları var."
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "Kökleri yeraltında daha da derinlere uzanıyor. Durmadan önce ne kadar uzağa ulaşabilecekleri bilinmiyor.\""
+
+msgid "Four small blue butterflies on display."
+msgstr "Sergilenen dört küçük mavi kelebek."
+
+msgid "They're somewhat mesmerizing."
+msgstr "Biraz büyüleyiciler."
+
+msgid "A large blue butterfly on display."
+msgstr "Sergilenen büyük mavi bir kelebek."
+
+msgid "It's kind of mesmerizing..."
+msgstr "Bir çeşit büyüleyici..."
+
+msgid "A small blue butterfly on display."
+msgstr "Sergilenen küçük mavi bir kelebek."
+
+msgid "It's not as mesmerizing."
+msgstr "O kadar büyüleyici değil."
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "Maddeleri karıştırmak için basit bir kimya seti."
+
+msgid "Some bottles and other containers."
+msgstr "Bazı şişeler ve diğer kaplar."
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "Her türlü materyal üzerine kapsamlı araştırmalarla dolu bir kitap."
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "Çekmecelerde ayrıca bir AC adaptörü de var."
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "${item:ch1.forest_adapter} alınsın mı?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Some notes on curse removal rituals."
+msgstr "Lanet kaldırma ritüelleri üzerine bazı notlar."
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "${item:ch1.red_notes} alınsın mı?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "(Bunu herhangi bir şey için kullanabilir miyim...?)"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "Bazı notlarını çaldığın boş bir masa."
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "Kırmızı bir bebek. Her iki gözü de renkli."
+
+msgid "I know this."
+msgstr "Bunu biliyorum."
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "Dileklerinize ulaşmanıza yardımcı olan bir oyuncak bebek."
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "Bir dilek tuttuğunuzda bir gözünüzü boyarsınız ve oyuncak bebek bu dileğinizin gerçekleşmesine yardımcı olur."
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "Karşılığında hedefinize ulaştığınızda diğer gözünü boyarsınız..."
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "...esasında bebeğe minnettarlık olarak görüşünü geri vermek."
+
+msgid "..."
+msgstr "..."
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "Hiro bu tür şeyler hakkında çok şey okuyor."
+
+msgid "I wonder what this person's wish was."
+msgstr "Bu kişinin dileğinin ne olduğunu merak ediyorum."
+
+msgid "Some books about butterflies."
+msgstr "Kelebekler hakkında bazı kitaplar."
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice"
+msgid "Read a passage?"
+msgstr "Bir kısmını oku?"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "\"Kaldırılan her lanet için mavi bir kelebek belirir."
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "Lanetli ağaçların çekiciliğine kapılırlar ve gövdeye girerek zamanla onu tamamen oyuk hale getirirler."
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "Bu davranışın neden gerçekleştiği bilinmiyor.\""
+
+msgid "A furnace."
+msgstr "Bir fırın."
+
+msgid "Inside is a... thing."
+msgstr "İçinde... bir şey var."
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "Bu... sanat mı? Bir çeşit heykelin karkasına benziyor."
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "Belki Kozmo'nun işine yarayabilir ama o bu yüzden benden nefret edebilir."
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "${item:ch1.red_pot} alınsın mı?"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "Lanetlerin kaldırılmasıyla ilgili bazı eksik notlar."
+
+msgid "I don't really understand any of this."
+msgstr "Gerçekten bunların hiçbirini anlamıyorum."
+
+msgid "A small plant."
+msgstr "Küçük bir bitki."
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "Yapraklar bir yay ile bağlanmış gibi görünüyor."
+
+msgid "A plant that looks like a bow."
+msgstr "Yay gibi görünen bir bitki."
+
+msgid "Some purple mushrooms are growing here."
+msgstr "Burada bazı mor mantarlar büyüyor."
+
+msgid "Some black mushrooms are growing here."
+msgstr "Burada bazı siyah mantarlar büyüyor."
+
+msgid "Some pink plants are growing here."
+msgstr "Burada bazı pembe bitkiler büyüyor."
+
+msgid "The carpet here seems suspicious."
+msgstr "Buradaki halı şüpheli görünüyor."
+
+msgid "Take a closer look?"
+msgstr "Daha yakından bak?"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "Bir merdiven var ama giriş asma kilitle kilitli."
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "Bahçe malzemeleri rafa serili."
+
+msgid "A tree filled with blue butterflies."
+msgstr "Mavi kelebeklerle dolu bir ağaç."
+
+msgid "Thin vertical windows."
+msgstr "İnce dikey pencereler."

@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A storage compartment filled with various types of food."
+msgstr "Отделение за съхранение, пълно с различни видове храна."
+
+msgid "There's a key in there as well."
+msgstr "В него има и ключ."
+
+msgid "A large cauldron."
+msgstr "Голям казан."
+
+msgid "Is this where she cooks children?"
+msgstr "Тук ли сготвя децата?"
+
+msgid "It wouldn't surprise me, after the day I've had."
+msgstr "Няма да ме изненада, след деня който имах."
+
+msgid "It looks like some sort of stew."
+msgstr "Прилича на някаква яхния."
+
+msgid "It's cold and it doesn't seem to have been looked after in a long time."
+msgstr "Студено е и изглежда, че не са се грижили за нея от дълго време."
+
+msgid "There's a black thing sticking out from the stew."
+msgstr "От яхнията стърчи черно нещо."
+
+msgid "Take it with you?"
+msgstr "Вземете го със себе си?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "...It seems to be part of something bigger."
+msgstr "Изглежда е част от нещо по-голямо."
+
+msgid "You can't take all of it."
+msgstr "Не можете да го вземете всичкото."
+
+msgid "There's nothing else of interest."
+msgstr "Нищо друго не представлява интерес."
+
+msgid "Stir it up?"
+msgstr "Разбъркайте го?"
+
+msgid "A kitchen counter."
+msgstr "Кухненски плот."
+
+msgid "A cutting board."
+msgstr "Дъска за рязане."
+
+msgid "Nothing on the shelves above looks useful."
+msgstr "Нищо по рафтовете горе не изглежда полезно."
+
+msgid "A cookie jar."
+msgstr "Бурканче за бисквитки."
+
+msgid "There's something inside that doesn't belong."
+msgstr "В него има нещо, което не му принадлежи."
+
+msgid "Take it?"
+msgstr "Вземи го?"
+
+msgid "Maybe I could feed this to the plant..."
+msgstr "Може би бих могла да го дам на растението…"
+
+msgid "Bring the cookies to the plant?"
+msgstr "Занесете бисквитките на растението?"
+
+msgid "The plant rejects the cookies..."
+msgstr "Растението отхвърля бисквитките…"
+
+msgid "Whoa neat! Can I have one?"
+msgstr "Уау, страхотно! Мога ли да си взема едно?"
+
+msgid "There was an eyeball in there."
+msgstr "В него имаше очна ябълка."
+
+msgid "Ah. So, no cookie?"
+msgstr "А-а. Значи, няма бисквитка?"
+
+msgid "There's an eyeball in there."
+msgstr "Там има очна ябълка."
+
+msgid "Well, not the eyeball, I meant the cookie."
+msgstr "Е, не очната ябълка, имах предвид бисквитката."
+
+msgid "..."
+msgstr "…"
+
+msgid "I don't think you should eat that."
+msgstr "Не смятам че трябва да ядеш това."
+
+msgid "Bummer."
+msgstr "Жалко."
+
+msgid "A green frog."
+msgstr "Зелена жаба."
+
+msgid "Is that a frog?"
+msgstr "Това жаба ли е?"
+
+msgid "Is it alive?"
+msgstr "Жива ли е?"
+
+msgid "Yes."
+msgstr "Да."
+
+msgid "Maybe the knives lady will cook it."
+msgstr "Може би дамата с ножовете ще я сготви."
+
+msgid "An empty, frog-less spot on the shelf."
+msgstr "Празно място на рафта, без жаби."
+
+msgid "Bring the frog to the plant?"
+msgstr "Поднеси жабата на растението?"
+
+msgid "\"Thank you.\""
+msgstr "\"Благодаря ти.\""

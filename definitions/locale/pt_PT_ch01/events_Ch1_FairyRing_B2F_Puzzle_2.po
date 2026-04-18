@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Can we do this?"
+msgstr "Será que conseguimos?"
+
+msgid "Yes, I think so."
+msgstr "Sim, penso que sim."
+
+msgid "At least we haven't seen the bodies of the fairies around..."
+msgstr "Pelo menos não vimos os corpos das fadas por aí..."
+
+msgid "A fairy head, or something."
+msgstr "Uma cabeça de fada, ou algo do género."
+
+msgid "It has both nostrils and a mouth..."
+msgstr "Tem duas narinas e uma boca..."
+
+msgid "It has both eyes and a mouth..."
+msgstr "Tem dois olhos e uma boca..."
+
+msgid "This one has nostrils AND a mouth."
+msgstr "Esta tem narinas E uma boca."
+
+msgid "This one has both eyes AND a mouth."
+msgstr "Esta tem olhos E uma boca."
+
+msgid "Does it mean it can see both in front and to the sides?"
+msgstr "Quer dizer que consegue para a frente e para os lados?"

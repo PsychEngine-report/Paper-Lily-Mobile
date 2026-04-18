@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It doesn't seem to be doing anything."
+msgstr "Parece que não está a fazer nada."
+
+msgid "The other tickets contain the same image."
+msgstr "Os outros bilhetes têm a mesma imagem."
+
+msgid "You take a number from the ticket dispenser."
+msgstr "Tiras um número do distribuidor de bilhetes."
+
+msgid "A potted plant sits dangerously in the middle of the tracks."
+msgstr "Um vaso de plantas, perigosamente no meio dos carris."
+
+msgid "The tracks end here."
+msgstr "Os carris terminam aqui."
+
+msgid "I'm not giving up just yet... I know I can solve this."
+msgstr "Não vou desistir já... Sei que consigo resolver isto."
+
+msgid "The tickets from the dispenser probably contain a hint."
+msgstr "Os bilhetes do distribuidor provavelmente devem ter uma pista."

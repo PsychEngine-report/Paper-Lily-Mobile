@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"This is a demo.\n"
+"It might not properly represent the quality of the final product."
+msgstr ""
+"Esta é uma Demonstração.\n"
+"Ela pode não representar adequadamente a qualidade do produto final."
+
+msgid ""
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr "Este jogo pode conter luzes e efeitos intermitentes bem como representações de violência e linguagem forte."
+
+msgid "Video Creators and Streamers"
+msgstr "Criadores e streamers de vídeo"
+
+msgid "Commenters and Reviewers"
+msgstr "Comentaristas e revisores"
+
+msgid "Our Families and Friends"
+msgstr "Nossas famílias e amigos"
+
+msgid "Additional Thanks"
+msgstr "Agradecimentos Adicionais"
+
+msgid "To our fans for waiting patiently"
+msgstr "Aos nossos fãs por esperarem pacientemente"
+
+msgid "To Kaiyo's mom and dad for their unwavering support"
+msgstr "À mãe e ao pai de Kaiyo pelo apoio inabalável"
+
+msgid "To those who sent an encouraging email"
+msgstr "Para aqueles que enviaram um e-mail encorajador"
+
+msgid "And to You!"
+msgstr "E para você!"
+
+msgid "Thank you for playing..."
+msgstr "Obrigado por jogar..."
+
+msgid "See you in Chapter 2!"
+msgstr "Vejo você no Capítulo 2!"
+
+msgid "Miss Knives Original Design"
+msgstr "Senhorita Knives Design Original"
+
+msgid "Miss Knives Contest Winners"
+msgstr "Vencedores do concurso Senhorita Knives"
+
+msgid "Cabbage Masters"
+msgstr "Cabbage Masters"
+
+msgid ""
+"Note from the devs:\n"
+"Congratulations for getting this far in the Paper Lily story!\n"
+"Thank you so much for your support and enthusiasm for this little world we created. Please don't hesitate to leave a review if you have the time, it helps immensely.\n"
+"\n"
+"We're still only two idiots making this game, so if you want to support future development please consider purchasing the supporter pack!"
+msgstr ""
+"Nota dos desenvolvedores:\n"
+"Parabéns por chegar tão longe na história da Paper Lily!\n"
+"Muito obrigado pelo seu apoio e entusiasmo por este pequeno mundo que criamos. Por favor, não hesite em deixar um comentário se tiver tempo, isso ajuda imensamente.\n"
+"\n"
+"Ainda somos apenas dois idiotas fazendo este jogo, então se você quiser apoiar o desenvolvimento futuro, considere comprar o pacote de apoiador!"
+
+msgid "True End 1-1 - Against All Odds"
+msgstr "Verdadeiro final 1-1 - Contra todas as probabilidades"
+
+msgid "Change into uniform"
+msgstr "Mude para o uniforme"
+
+msgid "Change into indoor clothes"
+msgstr "Mude pra a roupa de casa"
+
+msgid "Don't change"
+msgstr "Não mude"
+
+msgid "Things to do"
+msgstr "Coisas para fazer"
+
+msgid "(before I die)"
+msgstr "(antes de eu morrer)"
+
+msgid "- Go out"
+msgstr "- Sair"
+
+msgid "- Eat the meal mom left me"
+msgstr "- Comer minha janta"
+
+msgid "- Fill up the bird feeder"
+msgstr "- Encher o comedouro"
+
+msgid "- Feed my Tamaghost"
+msgstr "- Alimentar o meu Tamghost"
+
+msgid "- Say goodbye to Hiro"
+msgstr "- Me despedir do Hiro"
+
+msgid "A coffee and a flan"
+msgstr "Um café e um pudim"
+
+msgid "A coffee and macarons"
+msgstr "Um café e macarons"
+
+msgid "A coffee and an eclair"
+msgstr "Um café e uma bomba de chocolate"
+
+msgid "A tea and a flan"
+msgstr "Um chá e um pudim"
+
+msgid "A tea and macarons"
+msgstr "Um chá e macarons"
+
+msgid "A tea and an eclair"
+msgstr "Um chá e uma bomba de chocolate"
+
+msgid "A milkshake and a flan"
+msgstr "Um milkshake e um pudim"
+
+msgid "A milkshake and macarons"
+msgstr "Um milkshake e macarons"
+
+msgid "A milkshake and an eclair"
+msgstr "Um milkshake e uma bomba de chocolate"
+
+msgid "???"
+msgstr "???"
+
+msgid "Girl A"
+msgstr "Garota A"
+
+msgid "Girl B"
+msgstr "Garota B"
+
+msgid "Man"
+msgstr "Homem"
+
+msgid "Lady"
+msgstr "Senhora"
+
+msgid "Child"
+msgstr "Criança"
+
+msgid "Mother"
+msgstr "Mãe"
+
+msgid "Student"
+msgstr "Estudante"
+
+msgid "Bully"
+msgstr "Valentão"
+
+msgid "Everyone"
+msgstr "Todo mundo"
+
+msgid "Father"
+msgstr "Pai"
+
+msgid "Neighbor"
+msgstr "Vizinho"
+
+msgid "Long-Faced Monster"
+msgstr "Monstro de cara comprida"
+
+msgid "One-Eyed Monster"
+msgstr "Monstro Caolho"
+
+msgid "Doctor?"
+msgstr "Doutor?"
+
+msgid "Voice 1"
+msgstr "Voz 1"
+
+msgid "Voice 2"
+msgstr "Voz 2"
+
+msgid "Voice 3"
+msgstr "Voz 3"
+
+msgid "Prisoner"
+msgstr "Prisioneiro"
+
+msgid "Miss Knives (Young)"
+msgstr "Senhorita Knives (Jovem)"
+
+msgid "Iris"
+msgstr "Iris"
+
+msgid "Boy 1"
+msgstr "Garoto 1"
+
+msgid "Boy 2"
+msgstr "Garoto 2"
+
+msgid "Boy 3"
+msgstr "Garoto 3"

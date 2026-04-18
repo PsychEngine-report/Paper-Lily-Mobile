@@ -1,0 +1,1114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You're done."
+msgstr "集め終わったか。"
+
+msgid "Good work."
+msgstr "よくやった。"
+
+msgid "What now?"
+msgstr "それで？"
+
+msgid "Now, all of these objects need to be burned in the correct order."
+msgstr "次は、それを全て正しい順番で燃やす必要がある。"
+
+msgid "What's the order?"
+msgstr "順番って？"
+
+msgid "That's for you to figure out. The hands over there might provide a clue."
+msgstr "それは自分で解き明かしてくれ。そこにある手の絵がヒントをくれるかもしれない。"
+
+msgid "I see..."
+msgstr "そう……"
+
+msgid "Make sure you have a way to light the fireplace as well."
+msgstr "あとは、暖炉に火をつける方法も忘れずに用意しておくことだ。"
+
+msgid "Oh, that's true..."
+msgstr "ああ、確かに……"
+
+msgid "(Are there any places I haven't checked yet...?)"
+msgstr "(まだ調べてない場所なんてあったかな……？)"
+
+msgid "Lastly... this whole thing tends to culminate with candles going out."
+msgstr "最後に……すべてはロウソクが消えるときに頂点を迎える。"
+
+msgid "Therefore, if you see any candles, put them out."
+msgstr "だから、ロウソクを見たら吹き消すように。"
+
+msgid "Understood."
+msgstr "わかった。"
+
+msgid "One more thing."
+msgstr "もうひとつ。"
+
+msgid "I couldn't help but notice how weak you look."
+msgstr "君はどう見ても弱そうだ。"
+
+msgid "The challenges ahead might be beyond your capabilities."
+msgstr "待ち受ける困難は、君の能力を超えているかもしれない。"
+
+msgid "There's an object inside my old hiding spot that can help with that."
+msgstr "私がもともと隠れていた場所に、君の役に立ちそうなものがある。"
+
+msgid "Spider is just dangling there."
+msgstr "スパイダーはただぶら下がっている。"
+
+msgid "Psst..."
+msgstr "シーッ……"
+
+msgid "Over here."
+msgstr "こっちだ。"
+
+msgid "Here. On the wall."
+msgstr "ここだ。壁の上。"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Spider...?"
+msgstr "スパイダー……？"
+
+msgid "Yes."
+msgstr "そうだ。"
+
+msgid "Is that really you?"
+msgstr "本当にスパイダーなの？"
+
+msgid "Huh... you really meant it when you said you talked to a spider."
+msgstr "へぇ……クモと話したってのは本当だったのか。"
+
+msgid "He looked different last time, but it's still basically a spider."
+msgstr "前回とは見た目が違うけど、クモなのは同じ。"
+
+msgid "Oh. There's two of you now."
+msgstr "おや。2人になったのか。"
+
+msgid "Well, no matter."
+msgstr "まあいい。"
+
+msgid "You look... different."
+msgstr "何だか……変わったね。"
+
+msgid "...But I can't quite put my finger on it."
+msgstr "……どこがかはわからないけど。"
+
+msgid "I don't appreciate your humor."
+msgstr "面白くないぞ。"
+
+msgid "Miss Knives discovered my hiding spot."
+msgstr "ミス・ナイヴズに隠れ場所を見つけられてな。"
+
+msgid "She's not fond of my presence."
+msgstr "私がいるのがお気に召さないらしい。"
+
+msgid "So she turned me into... this."
+msgstr "それで……こんな姿に変えられたわけだ。"
+
+msgid "It's pathetic."
+msgstr "情けない姿だよ。"
+
+msgid "Damn, she must have crazy powers."
+msgstr "へぇ、あいつ、とんでもないパワーを持ってるんだな。"
+
+msgid "Is she really that powerful?"
+msgstr "ミス・ナイヴズはそんなに強力なの？"
+
+msgid "Not quite."
+msgstr "そういうわけではない。"
+
+msgid "You both must have had some time to look around this place by now."
+msgstr "2人とも、もう多少はこの場所を見て回っただろう。"
+
+msgid "You must have had some time to look around this place by now."
+msgstr "もう多少はこの場所を見て回っただろう。"
+
+msgid "Did you figure out anything strange?"
+msgstr "何か奇妙な点に気がつかなかったか？"
+
+msgid "You mean aside from... everything?"
+msgstr "その……何もかもは別にしてか？"
+
+msgid "Kind of a tall order, pal."
+msgstr "ちょっと難しい注文だぜ。"
+
+msgid "...Well..."
+msgstr "……えっと……"
+
+msgid "The location of this house is strange."
+msgstr "家がある場所がおかしい。"
+
+msgid "The walls are filled with creepy paintings."
+msgstr "壁が不気味な絵で埋め尽くされてる。"
+
+msgid "It's all very purple, I guess."
+msgstr "紫色ばっかりな気がする。"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.ch1_spider"
+msgid "..."
+msgstr "……"
+
+msgid "...Maybe humans are just slow."
+msgstr "……人間は馬鹿なのかもしれないな。"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.sai"
+msgid "..."
+msgstr "……"
+
+msgid "None of what you're seeing is real."
+msgstr "ここで見えているものはどれも現実ではない。"
+
+msgid "Huh?"
+msgstr "は？"
+
+msgctxt "events.Ch1_MK_Wisteria.event_spider.dlg.lacie"
+msgid "What?"
+msgstr "え？"
+
+msgid "Miss Knives is a strange case."
+msgstr "ミス・ナイヴズは変わった事例だ。"
+
+msgid "She created this place out of her own desires."
+msgstr "ここは彼女の願望から生み出された。"
+
+msgid "But the house doesn't actually exist."
+msgstr "しかし、この家が実在しているわけではない。"
+
+msgid "Convenient."
+msgstr "都合のいいこった。"
+
+msgid "So then... it's an illusion?"
+msgstr "つまり……幻ってこと？"
+
+msgid "To an extent, yes."
+msgstr "ある程度は、そうだ。"
+
+msgid "That's also why I look like this."
+msgstr "だからこそ、私もこんな姿になっている。"
+
+msgid "Miss Knives only sees what she wants to see."
+msgstr "ミス・ナイヴズは自分の見たいものしか見ないんだ。"
+
+msgid "So she sees you as... a little spider on the wall?"
+msgstr "つまり……あなたは、壁にいる小さなクモと見なされてるってこと？"
+
+msgid "It would seem so."
+msgstr "そのようだな。"
+
+msgid "I see."
+msgstr "そう。"
+
+msgid "Then... to escape..."
+msgstr "じゃあ……出るためには……"
+
+msgid "You have to break the illusion."
+msgstr "幻を壊さねばならない。"
+
+msgid "Remind her who she is."
+msgstr "ミズ・ナイヴズに自分が誰かを思い出させるんだ。"
+
+msgid "Or rather... who she isn't."
+msgstr "あるいは……誰でないかを。"
+
+msgid "That's where those objects you need to collect come into play."
+msgstr "そこで、君が集める物体が役に立ってくる。"
+
+msgid "They seem to have some sort of connection to her memories."
+msgstr "どれも彼女の記憶と何らかのつながりがあるらしい。"
+
+msgid "Once you find and unseal them all, come back and see me."
+msgstr "全て見つけて封印を解いたら、私の所に戻ってきたまえ。"
+
+msgid "If you need help with the burning order..."
+msgstr "燃やす順番のヒントが欲しいなら……"
+
+msgid "The painting with the hands might provide you with a hint."
+msgstr "手の描かれた絵がヒントをくれるかもしれない。"
+
+msgid "That seems to be already unsealed."
+msgstr "もう封印が解かれているようだな。"
+
+msgid "You don't need to do anything else with it."
+msgstr "それ以上何もする必要はない。"
+
+msgid "(The hands reject the item... it needs to be unsealed first.)"
+msgstr "(手がアイテムを拒んでいる……先に封印を解く必要があるようだ。)"
+
+msgid "My mother got worse one day."
+msgstr "ある日、お母さんの容態が悪化した。"
+
+msgid "Father thinks she might die."
+msgstr "お父さんは、死ぬかもしれないと考えていた。"
+
+msgid "I don't want mom to die."
+msgstr "私は、お母さんに死んでほしくなかった。"
+
+msgid "I brought her a cold compress to lower the fever."
+msgstr "熱を下げようと、濡らした布を持って行った。"
+
+msgid "Mother always said that water provides the best healing."
+msgstr ""
+"お母さんはいつも、水がいちばん具合が良くなると\n"
+"言っていた。"
+
+msgid "That night, I said a prayer to try to help her."
+msgstr "その夜、私はお母さんを助けたくて祈った。"
+
+msgid "I wished for her to get better, and I wished for our family to go back to normal, at least."
+msgstr ""
+"お母さんがよくなるように、そして家族が\n"
+"せめて普通に戻るように。"
+
+msgid "The [color=#90EE90]third blessing[/color] came as a surprise to everyone in the village."
+msgstr "[color=#90EE90]第3の恵み[/color]は村のみんなにとって驚きだった。"
+
+msgid "The morning after my prayer, my mother was out of bed, and cooking."
+msgstr "私が祈った翌朝、お母さんはベッドを出て料理をしていた。"
+
+msgid "She said she felt much better, she even had strength to go to the market."
+msgstr ""
+"とても具合が良くなったと言って、市場に行く\n"
+"元気さえあった。"
+
+msgid "You see? The cold compress did the job!"
+msgstr "ほらね？　あの濡らした布が効いたのよ！"
+
+msgid "Clean water is the purest thing we have."
+msgstr "きれいな水こそ、私たちの持っているいちばん澄んだものだから。"
+
+msgid "Are you sure you should be out of bed?"
+msgstr "本当にベッドから出て大丈夫なの？"
+
+msgid "This is the best I've felt in years."
+msgstr "ここ何年かで一番元気よ。"
+
+msgid "But... the doctor said..."
+msgstr "でも……お医者さんは……"
+
+msgid "I'm sure he was just wrong."
+msgstr "きっと間違ってたのよ。"
+
+msgid "You know, medicine isn't always entirely accurate."
+msgstr "お医者さんだって、いつも完全に正しいわけじゃないの。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_compress_on_holder.dlg.mk"
+msgid "..."
+msgstr "……"
+
+msgid "No more than two days later, some adults knocked at the door."
+msgstr "それからたった2日後、何人かの大人が家を訪れた。"
+
+msgid "They took my mother. They called her a witch."
+msgstr "その人たちはお母さんを連れて行った。魔女だと言って。"
+
+msgid "They claimed she used her powers to get cured of a deadly illness."
+msgstr "魔女の力を使って、死に至る病を治したのだ、と。"
+
+msgid "They said the village needs to be cleansed, and that witch hunts were important for this."
+msgstr "村は清められねばならず、そのためには魔女狩りが重要なのだと言っていた。"
+
+msgid "The next day, my mother was burned at the stake."
+msgstr "次の日、お母さんは柱で火あぶりにされた。"
+
+msgid "Everyone watched, and everyone cheered, as she died slowly, for a sin she did not commit."
+msgstr "犯してもいない罪でお母さんがじわじわと死んでいくのを、誰もが眺めて、歓声をあげていた。"
+
+msgid "This was the first time I wished that I couldn't see anymore."
+msgstr "そのとき初めて、目が見えなくなればいいのにと思った。"
+
+msgid "Have you somehow missed the large painting that's lacking eyes?"
+msgstr "目のない大きな絵に気づいていないのか？"
+
+msgid "The [color=#90EE90]fourth blessing[/color] was something I would never wish for."
+msgstr "[color=#90EE90]第4の恵み[/color]は、願っていないものだった。"
+
+msgid "Give it back!"
+msgstr "返して！"
+
+msgid "How'd you get your hands on such an expensive-looking sketchbook, huh?"
+msgstr "なんでこんな高そうなスケッチブック持ってんだ？"
+
+msgid "Let's see..."
+msgstr "どれどれ……"
+
+msgid "Stop! Just give it to me!"
+msgstr "やめて！　早く返して！"
+
+msgid "What the heck is this?"
+msgstr "何だよこれ？"
+
+msgid "They flipped through the pages of my sketchbook, and their faces got an awful ghostly white."
+msgstr ""
+"スケッチブックのページをぱらぱらとめくるうちに、少年\n"
+"たちの顔は幽霊みたいな恐ろしい真っ白になっていった。"
+
+msgid "Is she a witch?"
+msgstr "こいつ魔女か？"
+
+msgid "What are those?"
+msgstr "何なんだよこれ？"
+
+msgid "I didn't draw that!"
+msgstr "私が描いたんじゃないの！"
+
+msgid "Hey, I didn't know you were a witch."
+msgstr "おい、おまえが魔女だなんて知らなかったよ。"
+
+msgid "I'm not!!!"
+msgstr "違う!!!"
+
+msgid "Pages and pages of creepy drawings."
+msgstr "何ページも何ページも、こんな不気味な絵を描いて。"
+
+msgid "What is this? Some kind of curse casting shit?"
+msgstr "何だよこれ？　何かの呪いか？"
+
+msgid "I didn't make them! I don't know where they came from!"
+msgstr "私じゃないの！　どこから出てきたのか、私にもわからないの！"
+
+msgid "It's the truth. Why didn't they believe me?"
+msgstr "本当だった。どうして信じてくれなかったんだろう？"
+
+msgid "STOP! WHAT ARE YOU DOING?!?"
+msgstr "やめて！　何するの?!?"
+
+msgid "You're just a filthy witch!"
+msgstr "この汚らわしい魔女め！"
+
+msgid "I'm reporting you, you won't be needing this!"
+msgstr "通報してやる、こんなのいらないだろ！"
+
+msgid "PLEASE DON'T BREAK IT!"
+msgstr "お願い、壊さないで！"
+
+msgid "You don't even need all of these colors."
+msgstr "この色だっていらないだろ。"
+
+msgid "Nothing but black."
+msgstr "黒だけじゃないか。"
+
+msgid "You were never supposed to see anything but darkness anyway."
+msgstr "どのみち、おまえは暗闇しか見えない運命だったんだよ。"
+
+msgid "Blind freak."
+msgstr "盲目のバケモノ。"
+
+msgid "Please stop... Give them back..."
+msgstr "やめて……返して……"
+
+msgid "Aww.. poor little crybaby."
+msgstr "あーあ……かわいそうな泣き虫ちゃん。"
+
+msgid "I'm gonna report you."
+msgstr "ちゃんと通報してやるからな。"
+
+msgid "Father will be so proud, I caught my own witch."
+msgstr "父さんもきっと誇りに思ってくれるぞ、自分で魔女を捕まえたなんて。"
+
+msgid "I'm not a witch..."
+msgstr "魔女じゃない……"
+
+msgid "I swear I'm not..."
+msgstr "本当に違うの……"
+
+msgid "No! Don't!!!! Please!!!"
+msgstr "ダメ！　やめて!!!!　お願い!!!"
+
+msgid "(Stop, please stop...)"
+msgstr "(やめて、お願い……)"
+
+msgid "(Please stop...)"
+msgstr "(お願いだから……)"
+
+msgid "(What did I do to you...?)"
+msgstr "(私が何をしたの……？)"
+
+msgid "(Please stop.......)"
+msgstr "(やめて……)"
+
+msgid "I hate them. I hate my life. Why is this happening to me?"
+msgstr "あの子達が憎い。人生が憎い。どうしてこんな目に遭うの？"
+
+msgid "Soon enough, the boy dropped the sketchbook."
+msgstr "そのとき、その子がスケッチブックを取り落とした。"
+
+msgid "My eyes were focused on the crumpled pages of my sketchbook hitting the ground, so I didn't see it until someone screamed."
+msgstr "私の目はぐしゃぐしゃのスケッチブックが地面に落ちるのに釘付けで、叫び声がするまでそれに気づかなかった。"
+
+msgid "...!?"
+msgstr "……!?"
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHH!!!!"
+msgstr "ああああああああああああああああああああああああああああ!!!!"
+
+msgid "The boy's right leg twisted almost 360 degrees, as if it was some form of nightmarish witchcraft."
+msgstr ""
+"悪夢じみた魔術みたいに、その子の右脚がほとんど360度\n"
+"ねじれていた。"
+
+msgid "Then it twisted again."
+msgstr "それから、もう一回転。"
+
+msgid "Something broke in his leg, and he fell down, writhing in pain."
+msgstr "脚の中で何かが壊れて、その子は倒れ、痛みにもだえた。"
+
+msgid "I couldn't understand what I was seeing."
+msgstr "私には自分の見ている光景が理解できなかった。"
+
+msgid "Y-you... what did you do to his leg?!?"
+msgstr "お――おまえ……こいつの脚に何したんだよ?!?"
+
+msgid "N-Nothing I didn't even touch him..."
+msgstr "な――なにも、触ってもない……"
+
+msgid "AAAAAAAAGGGHHHH! IT HURTS!!!!"
+msgstr "ぐあああああああああ！　痛え!!!!"
+
+msgid "Call someone! We need help! HELP!!!"
+msgstr "誰か呼べ！　助けて！　助けてくれ!!!"
+
+msgid "YOU'RE A WITCH!! YOU'RE A WITCH!!!"
+msgstr "魔女だ!!　この魔女!!!"
+
+msgid "I WILL DESTROY YOU!!!! YOU'LL BE BURNED!!!!"
+msgstr "ぶっ殺してやる!!!!　火あぶりにされろ!!!!"
+
+msgid "................."
+msgstr "……………"
+
+msgid "BURN IN HELL!!!"
+msgstr "地獄で焼かれろ!!!"
+
+msgid "The adults came and took him away."
+msgstr "大人が来て、その子を連れて行った。"
+
+msgid "When I finally lifted my gaze from the dirt below my fingers, Iris was standing in front of me."
+msgstr "ようやく自分の指の下の地面から視線を上げると、目の前にアイリスが立っていた。"
+
+msgid "My heart sank... Did she see what happened?"
+msgstr "心が沈んだ……見られてしまったのだろうか？"
+
+msgid "...A-Are you alright...?"
+msgstr "……だ――大丈夫……？"
+
+msgctxt "events.Ch1_MK_Wisteria.item_foot_on_holder.dlg.mk"
+msgid "............"
+msgstr "…………"
+
+msgid "I-I... You didn't do that to his leg, right?"
+msgstr "わ――私……あの脚、あなたがやったんじゃないよね？"
+
+msgid "No! Of course I didn't!"
+msgstr "違う！　そんなわけないでしょ！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_foot_on_holder.dlg.chara1"
+msgid "..."
+msgstr "……"
+
+msgid "O-Okay."
+msgstr "わ――わかった。"
+
+msgid "...I... Why are you here?"
+msgstr "……ど……どうしてここに？"
+
+msgid "Um... I came because... my parents said..."
+msgstr "その……あのね……お父さんとお母さんに言われたの……"
+
+msgid "...That I'm not allowed to see you anymore."
+msgstr "……もうあなたと会っちゃいけないって。"
+
+msgid "Take ${item:ch1.mk_jar} x3?"
+msgstr "${item:ch1.mk_jar} ×3 を取る？"
+
+msgctxt "events.Ch1_MK_Wisteria.item_jars_get.choice.Take ${item:ch1.mk_jar} x3?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_MK_Wisteria.item_jars_get.choice.Take ${item:ch1.mk_jar} x3?"
+msgid "No"
+msgstr "取らない"
+
+msgid "You may use that on the canvas over there."
+msgstr "それを向こうのキャンバスに使うといい。"
+
+msgid "That's the right idea, I think."
+msgstr "その方向性でいいはずだ。"
+
+msgid "What should I be doing with these?"
+msgstr "これをどうすればいいと思う？"
+
+msgid "They're probably related to that canvas over there."
+msgstr "たぶん、向こうのキャンバスと関係があるだろう。"
+
+msgid "Maybe you use them to make paint."
+msgstr "絵の具を作るのに使えるかもしれない。"
+
+msgid "That's the key to the bedroom."
+msgstr "寝室への鍵だな。"
+
+msgid "Oh... I don't need this anymore."
+msgstr "あぁ……じゃあもう要らないや。"
+
+msgid "That's a key to the cages."
+msgstr "檻の鍵だな。"
+
+msgid "I see you don't need it anymore."
+msgstr "もう不要そうだ。"
+
+msgid "I can take that off your hands."
+msgstr "私がもらっておこう。"
+
+msgid "Oh... I see."
+msgstr "あぁ……なるほど。"
+
+msgid "That's the key to this room."
+msgstr "この部屋への鍵だな。"
+
+msgid "I shall get rid of it, given that you already made it in."
+msgstr "もう入っていることだし、私が捨てておこう。"
+
+msgid "After the incident with that boy's leg, the authorities knocked at our door again."
+msgstr "あの脚の事件のあと、村の偉い人たちがまた家に来た。"
+
+msgid "\"Your daughter is a witch\" they said to my father."
+msgstr "「おまえの娘は魔女だ」と、彼らは父に告げた。"
+
+msgid "They talked about how I hurt that boy, how my mother healed from a fatal illness, how my eyesight came back."
+msgstr "彼らは私があの子を痛めつけたこと、お母さんが不治の病から治ったこと、私の視力が戻ったことをあげた。"
+
+msgid "They told us both me and my father are accused of witchcraft."
+msgstr "私も父も、魔術の罪で訴えられているのだという。"
+
+msgid "T-That's nonsense! What are you talking about??"
+msgstr "ば――ばかげてる！　いったい何の話だ??"
+
+msgid "The whole family needs to be cleansed."
+msgstr "一族全員が清められねばならない。"
+
+msgid "Your daughter will be tried for witchcraft, and due to your ties to her, you will be as well."
+msgstr "おまえの娘は魔術の罪で裁判にかけられる。縁者であるおまえもだ。"
+
+msgid "H-Hold on... Wait... You've got it all wrong. She's not my daughter."
+msgstr "ま――待て……落ち着け……何もかも誤解だ。あいつは俺の娘じゃない。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "..."
+msgstr "……"
+
+msgid "I merely found her on the streets, she does not share my blood."
+msgstr "道で拾ったんだ、血は繋がってない。"
+
+msgid "(...Father...)"
+msgstr "(……お父さん……)"
+
+msgid "Take him."
+msgstr "連れて行け。"
+
+msgid "N-NO NO! PLEASE! I HAVE NOTHING TO DO WITH THIS!"
+msgstr "や――やめろ駄目だ！　頼む！　俺は何も関係ないんだ！"
+
+msgid "When the men walked in the house, my father ran towards the back door."
+msgstr "彼らが家の中に入ってくると、父は裏口へ走った。"
+
+msgid "He was frantically bumping into the furniture to reach it."
+msgstr "裏口にたどり着こうと、家具にぶつかりながら狂ったように走る。"
+
+msgid "Find the girl."
+msgstr "娘を探せ。"
+
+msgid "And burn his body."
+msgstr "この死体は燃やしておけ。"
+
+msgid "Burn the whole house, it's cursed."
+msgstr "家ごと燃やすんだ、呪われているからな。"
+
+msgid "My father's blood ran down the hallway like a small river stream."
+msgstr "父の血が、小川のように廊下を流れていく。"
+
+msgid "It seeped into the cracks of the broken floorboards."
+msgstr "流れはひび割れた床の隙間に染み込んで、消えていった。"
+
+msgid "This is all that boy's fault."
+msgstr "全部あの男の子のせいだ。"
+
+msgid "The prison cell was cold, and dark."
+msgstr "牢屋は冷たくて、暗かった。"
+
+msgid "There was nobody else there with me, except for the occasional rat."
+msgstr "時々来るネズミ以外、ここには誰もいない。"
+
+msgid "People always said rats are dirty and dangerous."
+msgstr "皆いつも、ネズミは汚くて危険だと言っていた。"
+
+msgid "But at that moment, I appreciated the company."
+msgstr "けれどその時は、一緒にいてくれるだけで嬉しかった。"
+
+msgid "The adults told me my execution will be the following morning."
+msgstr "私の処刑は明日の朝だと言われた。"
+
+msgid "They said I will be burned in order to purify the village."
+msgstr "村を浄化するため、火あぶりにされるのだという。"
+
+msgid "What does that even mean? Purify the village..."
+msgstr "一体どういう意味なんだろう？　村を浄化する……"
+
+msgid "I was alone with my thoughts for what felt like hours before someone came by."
+msgstr "何時間とも思える間、私はひとりで考えていた。それから、誰かが来た。"
+
+msgid "Hey..."
+msgstr "ねえ……"
+
+msgid "Iris...?"
+msgstr "アイリス……？"
+
+msgid "(Will I get out of here...??)"
+msgstr "(ここから出られるの……??)"
+
+msgid "Um... listen... I'm so sorry...!"
+msgstr "その……聞いて……ごめんなさい……！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "...?"
+msgstr "……？"
+
+msgid "I-... I told my dad about everything..."
+msgstr "私――……私が、パパに全部話したの……"
+
+msgid "What...?"
+msgstr "え……？"
+
+msgid "(...No way...)"
+msgstr "(……そんなはずない……)"
+
+msgid "I... I thought if you might really be a witch, he could protect you...."
+msgstr "も……もし本当に魔女だったとしても、きっとパパがあなたを守ってくれると思って……"
+
+msgid "B-Because he knew we were friends!"
+msgstr "だ――だって、私たちが友達なのは、パパも知ってたから！"
+
+msgid "I'm sorry... I did this...!"
+msgstr "ごめんなさい……私のせいなの……！"
+
+msgid "I didn't know he would kill your dad... and... and you..."
+msgstr "パパがあなたのお父さんと……あなたを……殺す気だなんて思わなかったの……"
+
+msgid "Please..."
+msgstr "お願い……"
+
+msgid "Please take this knife..."
+msgstr "お願い、このナイフを受け取って……"
+
+msgid "P-please... please use it... before they kill you."
+msgstr "お――お願い……これを使って……殺される前に。"
+
+msgid "You'll be better off if you end it this way...!"
+msgstr "これで終わらせるほうがいいでしょ……！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "............"
+msgstr "…………"
+
+msgid "What's happening?"
+msgstr "何が起きてるの？"
+
+msgid "Why would she tell me something like this?"
+msgstr "どうしてそんなことを言うの？"
+
+msgid "What's going on?"
+msgstr "一体どうなってるの？"
+
+msgid "I-I love you and... father said burning is slow and painful...!!"
+msgstr "あ――あなたのことは大好きなの……パパが、火あぶりはじわじわ苦しむって……!!"
+
+msgid "You're better off doing it this way..!"
+msgstr "こっちのほうがいいんだよ……！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_holder.dlg.mk"
+msgid "....."
+msgstr "……"
+
+msgid "You're asking me to kill myself..?"
+msgstr "自殺しろって言ってるの……？"
+
+msgid "Y-Yes... because... I still care about you...!"
+msgstr "そ――そう……だって私……まだ、あなたのことが大事だから……！"
+
+msgid "Is this what you call... care?"
+msgstr "大事……これが……？"
+
+msgid "I didn't know that my vision would get blurry if I cry."
+msgstr "泣くと視界がぼやけることを、私はそのとき初めて知った。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "これをどうにかしたいんだけど。"
+
+msgid "Ah, this is a knife."
+msgstr "ああ、ナイフだな。"
+
+msgid "You might have to draw some blood to unseal it."
+msgstr "少し血を吸わせれば封印が解けるかもしれない。"
+
+msgid "Are you brave enough to cut yourself?"
+msgstr "自分を切る勇気はあるか？"
+
+msgid "Why should I cut myself?"
+msgstr "なんで自……"
+
+msgid "I don't see who else you could cut."
+msgstr "他に切れる相手が見当たらないからだ。"
+
+msgid "I could cut you instead."
+msgstr "スパイダーを切ってもいいんだよ。"
+
+msgid "You'll never aim properly."
+msgstr "狙いがつけられないだろう。"
+
+msgid "Your aim is terrible."
+msgstr "狙うのが下手にもほどがあるぞ。"
+
+msgid "Perhaps there are advantages to being small after all."
+msgstr "ひょっとすると、小さい体にもやはり利点はあるのかもしれないな。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_knife_on_spider.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "You're not skilled enough for that."
+msgstr "そうするには技術が足りない。"
+
+msgid "(The hands reject the item... they're scared of it.)"
+msgstr "(手がアイテムを拒んでいる……怯えているようだ。)"
+
+msgid "That should serve you well in lighting the fireplace."
+msgstr "暖炉に火をつけるのに役立ちそうだな。"
+
+msgid "My life is below average."
+msgstr "私の人生は人並み以下だった。"
+
+msgid "I've been blind since I was a baby, so my parents thought of abandoning me."
+msgstr "赤ん坊のときから盲目で、両親は私を捨てることも考えた。"
+
+msgid "\"A blind child cannot help the family\" they said. \"Especially not a girl.\""
+msgstr "「目の見えない子供は家族の役に立たない」のだという。　「特に、女は。」"
+
+msgid "But my mother says they loved me so much that they wanted to give me a chance."
+msgstr "けれど、お母さんが言うには、ふたりとも私のことが大好きだったから、チャンスをあげたいと思ったのだそうだ。"
+
+msgid "Right now, I manage just fine."
+msgstr "今、私は普通にやっていけている。"
+
+msgid "I do my chores, I go to the market, I help with the vegetable garden."
+msgstr "家事をこなし、買い物に行き、菜園の手伝いもしている。"
+
+msgid "Mother is sick, so she's always in bed."
+msgstr "お母さんは病気で、いつもベッドにいる。"
+
+msgid "The doctor says she might be like this for the rest of her life."
+msgstr "お医者さんが言うには、この先ずっとそのままかもしれないらしい。"
+
+msgid "Every day, I go meet my friend at the riverbank."
+msgstr "毎日、私は友達に会いに川辺に行く。"
+
+msgid "Iris is always talking excitedly about everything you could find outside of the village."
+msgstr "アイリスはいつも、村の外で見られる色んなものについて熱心に話してくれる。"
+
+msgid "She makes the world sound so bright."
+msgstr "アイリスといると、世界が本当に輝いて聞こえる。"
+
+msgid "We made a deal, that when we turn 14, we'll run away together, and travel to mountains and seas."
+msgstr "私たちは約束した。14歳になったら一緒に抜け出して、山や海を旅するって。"
+
+msgid "But I was actually fine with a simple life. The bare minimum was enough, as long as I had Iris."
+msgstr "でも実は、私は素朴な生活でかまわなかった。アイリスさえいれば、最小限で事足りた。"
+
+msgid "If there's one thing I wanted..."
+msgstr "望むことがあったとすれば……"
+
+msgid "It was just to be able to see her."
+msgstr "アイリスの姿を見ることだった。"
+
+msgid "The [color=#90EE90]first blessing[/color] changed the course of my life."
+msgstr "[color=#90EE90]第1の恵み[/color]は私の人生の軌道を変えた。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_mirror_on_holder.dlg.mk"
+msgid "..."
+msgstr "……"
+
+msgid "........."
+msgstr "……"
+
+msgid "I couldn't calm my breathing."
+msgstr "弾む息が抑えられなかった。"
+
+msgid "I woke up one morning and I could see."
+msgstr "ある朝起きると、私は目が見えるようになっていた。"
+
+msgid "I saw shapes, and colors, and my parents."
+msgstr "形が、色が、お母さんとお父さんが見えた。"
+
+msgid "I saw the broken dining table."
+msgstr "壊れたダイニングテーブルが見えた。"
+
+msgid "I saw the weeds in the vegetable garden."
+msgstr "菜園の雑草が見えた。"
+
+msgid "I saw the chipped cup that I drank from."
+msgstr "今使っている欠けたカップが見えた。"
+
+msgid "I saw my wrinkled clothes."
+msgstr "自分のしわだらけの服が見えた。"
+
+msgid "Despite not having much, they were the most beautiful things I laid my eyes on."
+msgstr "大したものはなかったけれど、私が見た中で一番美しいものたちだった。"
+
+msgid "I couldn't say the same about my reflection."
+msgstr "鏡に映った自分の姿は、そうとは言えなかった。"
+
+msgid "(Have I always looked like this?)"
+msgstr "(私、ずっとこんなふうだったの？)"
+
+msgid "(Were my eyes always so... bland?)"
+msgstr "(私の目はずっと、こんなに……つまらなかったの？)"
+
+msgid "(Was my hair always so... dull?)"
+msgstr "(私の髪はずっと、こんなに……くすんでたの？)"
+
+msgid "My parents gradually grew distant."
+msgstr "両親はしだいによそよそしくなっていった。"
+
+msgid "People in the village stared at me, and whispered behind my back."
+msgstr "村の人たちは私をじろじろ見て、影でささやき合うようになった。"
+
+msgid "Why did they seem scared of me?"
+msgstr "どうして皆、私に怯えてるみたいに見えるんだろう？"
+
+msgid "Iris said she's a little nervous around me, but she was really happy that I got my eyesight."
+msgstr "アイリスも、私といるとちょっと落ち着かない、とは言ったけど、目が見えるようになったことを本当に喜んでくれた。"
+
+msgid "She called it a miracle."
+msgstr "これは奇跡だよ、と言ってくれた。"
+
+msgid "My parents started avoiding me."
+msgstr "両親は私を避けはじめた。"
+
+msgid "When I spoke to them, they always tried to brush me away."
+msgstr "話しかけても、いつもさっさと追い払おうとされた。"
+
+msgid "The only times their tired eyes met mine, I only saw hatred in them."
+msgstr ""
+"ふたりの疲れた目が私の目と合った時でさえ、\n"
+"そこには憎しみしか見えなかった。"
+
+msgid "Did they always look at me this way?"
+msgstr "いつもこんなふうに私を見ていたの？"
+
+msgctxt "events.Ch1_MK_Wisteria.item_mirror_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "これをどうにかしたいんだけど。"
+
+msgid "Hmmm..."
+msgstr "ふーむ……"
+
+msgid "Have you tried simply looking at it?"
+msgstr "ちゃんと見てみたか？"
+
+msgid "(The hands reject the item... it is irrelevant to them.)"
+msgstr "(手がアイテムを拒んでいる……無関係なアイテムのようだ。)"
+
+msgid "With your masterpiece complete, the canvas turns into a sketchbook."
+msgstr "最高傑作が完成すると、キャンバスはスケッチブックに変わった。"
+
+msgid "The pigment doesn't stick on its own..."
+msgstr "顔料だけでは付かない……"
+
+msgid "You soak the rag in the pool..."
+msgstr "布を水槽にひたした……"
+
+msgid "It's already wet enough."
+msgstr "もう十分湿っている。"
+
+msgctxt "events.Ch1_MK_Wisteria.item_rag_on_spider.dlg.lacie"
+msgid "I need help with this."
+msgstr "これをどうにかしたいんだけど。"
+
+msgid "A dry piece of cloth?"
+msgstr "乾いた布か？"
+
+msgid "Try moisturizing it."
+msgstr "濡らしてみるといい。"
+
+msgid "The [color=#90EE90]second blessing[/color] came as a gift."
+msgstr "[color=#90EE90]第2の恵み[/color]は贈り物として訪れた。"
+
+msgid "I always met Iris out by the river, and we sat and talked for hours."
+msgstr ""
+"アイリスと会うのはいつも川辺で、ふたりで座って\n"
+"何時間でも話した。"
+
+msgid "She told me all about the things I couldn't see."
+msgstr ""
+"私が見られないもののことを、\n"
+"アイリスは何もかも話してくれた。"
+
+msgid "But it was different now."
+msgstr "でも今は違った。"
+
+msgid "She spoke with such happiness and excitement."
+msgstr "彼女は幸せと興奮をいっぱいに込めて話していた。"
+
+msgid "I couldn't take my eyes off of her."
+msgstr "私は彼女から目が離せなかった。"
+
+msgid "So to celebrate this miracle..."
+msgstr "それで、この奇跡をお祝いするために……"
+
+msgid "I got you something!"
+msgstr "渡したいものがあるの！"
+
+msgctxt "events.Ch1_MK_Wisteria.item_sketchbook_on_holder.dlg.mk"
+msgid "What?"
+msgstr "え？"
+
+msgid "For me?"
+msgstr "私に？"
+
+msgid "Of course! Your eyes work now! It's amazing! We have to celebrate!"
+msgstr "もちろん！　目が見えるようになったんでしょ！　すごいことだよ！　お祝いしないと！"
+
+msgid "So... I stole this from my family..."
+msgstr "だから……家族のだけど、こっそり持ってきちゃった……"
+
+msgid "But shh!"
+msgstr "でも、シーッだよ！"
+
+msgid "Don't tell!"
+msgstr "誰にも言わないでね！"
+
+msgid "Wha-.."
+msgstr "な――"
+
+msgid "Iris! A sketchbook and paints are... so expensive...!"
+msgstr "アイリス！　スケッチブックと絵の具なんて……そんな高いもの……！"
+
+msgid "H-How...? Why...?"
+msgstr "ど――どうやって……？　どうして……？"
+
+msgid "You always said you wanted to paint! I believe in you!"
+msgstr "いつも、絵を描いてみたいって言ってたでしょ！　それを信じたの！"
+
+msgid "I'm so excited to see what you'll come up with!"
+msgstr "どんな絵を思いつくのか、見るのが待ちきれないよ！"
+
+msgid "I couldn't believe it! My very own sketchbook and watercolors!"
+msgstr ""
+"信じられない！　自分だけのスケッチブックと\n"
+"水彩絵の具なんて！"
+
+msgid "There were so many things I could paint!"
+msgstr "描けるものはたくさんあった！"
+
+msgid "Mother was always bedridden, so I made a habit of showing her my paintings."
+msgstr "お母さんはいつもベッドにいたから、私はそこに絵を見せに行くようになった。"
+
+msgid "I started with trees and objects."
+msgstr "まずは木や物から描きはじめた。"
+
+msgid "But I took a liking to portraits of people."
+msgstr "でも、人を描くほうが気に入った。"
+
+msgid "They all have such distinct, beautiful faces."
+msgstr "皆それぞれ違う、美しい顔を持っていた。"
+
+msgid "After only 2 days, I had already made 8 portraits!"
+msgstr "たった2日で、私はもう8枚も肖像画を描き上げていた！"
+
+msgid "But when I flipped to the next page... a different kind of portrait filled the brown paper."
+msgstr "でも、ページをめくると……違う種類の肖像画が、茶色の紙を埋め尽くしていた。"
+
+msgid "It was all painted in black, and it was twisted and scary."
+msgstr "どれも黒一色で、不気味で、ねじれていた。"
+
+msgid "I hadn't painted this..."
+msgstr "私はこんなもの描いてない……"
+
+msgid "I didn't even know who this person- or... creature, was."
+msgstr "描かれているのが誰――いや……何なのかすら、私にはわからなかった。"
+
+msgid "Every morning after that, I found new distorted portraits in the pages, but I never remembered painting them."
+msgstr "それから毎朝、新たな歪んだ肖像画が現れたけれど、どれも描いた記憶はなかった。"
+
+msgid "A bookshelf full of coloring books, and other children's books."
+msgstr "塗り絵の本や、その他の子供向けの本が並んだ本棚。"
+
+msgid "A bookshelf full of books about painting."
+msgstr "絵に関する本が並んだ本棚。"
+
+msgid "One of them stands out. Read a passage?"
+msgstr "そのうちの一冊が目を惹いた。一節を読む？"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_bookshelf_2.choice.One of them stands out. Read a passage?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_bookshelf_2.choice.One of them stands out. Read a passage?"
+msgid "No"
+msgstr "読まない"
+
+msgid "\"Should a merchant not be available in your region, it is always possible to create your own paint by mixing pigments with water.\""
+msgstr "「近隣に画材店がない場合でも、顔料を水と混ぜることで、絵の具を自作することができます。」"
+
+msgid "There's something covered with a drape."
+msgstr "何かが布で覆われている。"
+
+msgid "Remove the drape?"
+msgstr "覆いを取る？"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Remove the drape?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Remove the drape?"
+msgid "No"
+msgstr "取らない"
+
+msgid "Looks like a flat, black square."
+msgstr "平らな、黒い四角のようだ。"
+
+msgid "Take it with you?"
+msgstr "持って行く？"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Take it with you?"
+msgid "Yes"
+msgstr "持って行く"
+
+msgctxt "events.Ch1_MK_Wisteria.misc_canvas.choice.Take it with you?"
+msgid "No"
+msgstr "持って行かない"
+
+msgid "...It's too large and heavy to carry around."
+msgstr "……持って歩くには、大きすぎるし重すぎる。"
+
+msgid "A crow stands at the edge of the pool."
+msgstr "カラスが水槽の縁に止まっている。"
+
+msgid "A painting with two protruding hands expecting something."
+msgstr "何かを待ち受けるように手を差し出した両手の絵。"
+
+msgid "Looks like I can place something on these hands..."
+msgstr "手の上に何か置けるみたい……"
+
+msgid "A small pool. The water looks clean."
+msgstr "小さな水槽。水は澄んで見える。"

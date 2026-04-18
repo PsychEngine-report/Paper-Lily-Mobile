@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no need to mess with it anymore."
+msgstr "沒有必要再亂動了。"
+
+msgid "Ah... I see how it is."
+msgstr "啊...我懂了。"
+
+msgid "I really dislike this kind of puzzle though..."
+msgstr "我真的很討厭這種謎題..."
+
+msgid "Hm..."
+msgstr "嗯..."
+
+msgid "Is that a button behind the lamppost?"
+msgstr "燈柱後面是個按鈕嗎？"
+
+msgid "Ah... I kind of expected them to reset..."
+msgstr "啊...我原本期待會被重置..."
+
+msgid "Geez... what was I thinking?"
+msgstr "老天...我在想什麼？"
+
+msgid "The cable has already been severed."
+msgstr "電線已經被切斷了。"
+
+msgid "The cable has been cut."
+msgstr "電線已經被剪開了。"
+
+msgid "A cable runs from the lamp to the bushes."
+msgstr "電線從燈延伸到草叢。"
+
+msgid "A heavy-looking metal gate."
+msgstr "看起來很厚重的鐵門。"
+
+msgid "Is this the Daylight Gate?"
+msgstr "這就是日光大門嗎？"
+
+msgid "What does it have to do with daylight?"
+msgstr "這跟日光有什麼關係？"
+
+msgid "There's a plaque next to it that reads:"
+msgstr "旁邊有個牌子寫著："
+
+msgid "A gate blocks your path."
+msgstr "一扇門阻擋了你的去路。"
+
+msgid ""
+"\"Daylight Gate\"\n"
+"\"(At daytime, the gate opens and the lamps turn off.)\""
+msgstr ""
+"\"日光大門\"\n"
+"\"(於白日，大門會打開而燈會關閉。)\""
+
+msgid "Day...? I don't even know what time it is..."
+msgstr "白日...？我連現在是什麼時候都不知道..."
+
+msgid "Is there any way I can get this open without waiting?"
+msgstr "有辦法可以不用等待就把大門打開嗎？"
+
+msgid "A street lamp."
+msgstr "路燈。"

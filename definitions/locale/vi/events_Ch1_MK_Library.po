@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgid "You don't know how to use it..."
+msgstr "Bạn không biết cách dùng thế nào..."
+
+msgctxt "events.Ch1_MK_Library.misc_bookpile_large.dlg.narrator"
+msgid "A pile of books."
+msgstr "Cái chồng sách."
+
+msgid "A pile of books, taller than you."
+msgstr "Cái chồng sách, cao hơn bạn."
+
+msgctxt "events.Ch1_MK_Library.misc_bookpile_massive.dlg.narrator"
+msgid "A pile of books."
+msgstr "Cái chồng sách."
+
+msgid "A massive pile of books. If they fell on you, it would hurt."
+msgstr "Cái chồng sách đồ sộ. Nó mà đổ xuống chắc đau."
+
+msgctxt "events.Ch1_MK_Library.misc_bookpile_small.dlg.narrator"
+msgid "A pile of books."
+msgstr "Cái chồng sách."
+
+msgid "A pile of books, shorter than you."
+msgstr "Cái chồng sách, thấp hơn bạn."
+
+msgid "A bookshelf housing hundreds of books."
+msgstr "Cái giá sách mang hàng trăm cuốn sách."
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_3.dlg.narrator"
+msgid "One of them stands out."
+msgstr "Một cuốn trong đó nổi bật."
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_3.choice"
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_3.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_3.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "I don't think you should be testing on her anymore."
+msgstr "Tao nghĩ mày đừng có nên thử nghiệm cô ta nữa."
+
+msgid "Her powers hold potential, I wish to entertain this idea a little longer."
+msgstr "Sức mạnh cô ta nắm giữ tiềm năng, tao mong mỏi được ấp ủ cái ý tưởng này lâu thêm tí nữa."
+
+msgid "She's incapable of any sort of coherent thought."
+msgstr "Cô ta chẳng có khả năng tư duy mạch lạc thế nào hết."
+
+msgid "We're just wasting souls on her."
+msgstr "Chúng ta chỉ đang phí phạm linh hồn với cô ta mà thôi."
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_5.dlg.narrator"
+msgid "One of them stands out."
+msgstr "Một cuốn trong đó nổi bật."
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_5.choice"
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_5.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_5.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_5.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "I don't know why I've decided to talk to you."
+msgstr "Tao không biết tại sao tao lại quyết định nói chuyện với mày đây."
+
+msgid "Maybe it's because you look really pitiful."
+msgstr "Có khi là vì mày trông rất là đáng thương."
+
+msgid "You're so worthless that no matter what tests they put you through, you fail them all."
+msgstr "Mày vô dụng đến nỗi bất luận phép thử nào người ta cho mày qua, mày đều thất bại hết."
+
+msgid "If I had just left you alone that day. You wouldn't be wasting all of our time."
+msgstr "Nếu mà vào cái ngày đó mà tao cứ bỏ mày một mình. Mày sẽ không tốn hết cả thời gian chúng ta rồi."
+
+msgid "You wouldn't be wasting your own time here."
+msgstr "Mày sẽ không tốn hết cả chính thời gian của mày ở đây rồi."
+
+msgid "Tomorrow, Glen will discontinue your tests."
+msgstr "Ngày mai, Glen sẽ đình chỉ mấy thử nghiệm của mày."
+
+msgid "You better thank me. I'm the one who told him to."
+msgstr "Mày cám ơn tao đi thì hơn. Chính tao bảo thằng đó đình chỉ đấy."
+
+msgid "I'm just sick of seeing you."
+msgstr "Tao ngấy nhìn mày lắm rồi."
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_6.dlg.narrator"
+msgid "One of them stands out."
+msgstr "Một cuốn trong đó nổi bật."
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_6.choice"
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_6.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_6.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "The 36th experiment has failed as well."
+msgstr "Thử nghiệm thứ 36 cũng lại thất bại rồi."
+
+msgid "I'm TELLING YOU, she's practically just a used tissue."
+msgstr "Tao BẢO MÀY ĐÓ, cô ta khác gì cái khăn giấy xài rồi đâu."
+
+msgid "Useless, USELESS demon. WE'RE WASTING OUR TIME!"
+msgstr "Vô tích sự, con quỷ VÔ TÍCH SỰ. CHÚNG TA PHÍ PHẠM THỜI GIAN QUÁ RỒI!"
+
+msgid "Calm down. I can't work when you're so noisy."
+msgstr "Bình tĩnh đi. Om sòm thế tao làm việc sao được."
+
+msgid "Go play with your other dolls."
+msgstr "Đi chơi với mấy con búp-bê khác của mày đi."
+
+msgid "Maybe I WILL."
+msgstr "Có khi TAO CHƠI đấy."
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_8.dlg.narrator"
+msgid "One of them stands out."
+msgstr "Một cuốn trong đó nổi bật."
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_8.choice"
+msgid "Read a passage?"
+msgstr "Đọc một đoạn chứ?"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_8.choice.Read a passage?"
+msgid "Yes"
+msgstr "Đọc"
+
+msgctxt "events.Ch1_MK_Library.misc_bookshelf_8.choice.Read a passage?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "Are you upset?"
+msgstr "Mày bực à?"
+
+msgid "No, of course not."
+msgstr "Đâu, tất nhiên không."
+
+msgid "You look like you're deep in thought."
+msgstr "Mày trông như đang đắm chìm suy tư nhỉ."
+
+msgid "You are the one who did this to her, after all."
+msgstr "Xét cho cùng chính mày là kẻ làm vậy với cô ta mà."
+
+msgid "Glen, back off."
+msgstr "Glen, mày lùi lại."
+
+msgid "Heh."
+msgstr "Hề."
+
+msgid "If I'm correct, you're getting yourself into a messy situation."
+msgstr "Nếu tao đúng thì mày đang lún vào cái thế bùng nhùng đấy."
+
+msgid "I'll be fine."
+msgstr "Tao sẽ không sao."
+
+msgid "A large couch."
+msgstr "Cái đi-văng lớn."
+
+msgid "Maybe we should take a rest."
+msgstr "Có khi ta nên ngồi nghỉ tí."
+
+msgid "You just rested."
+msgstr "Anh vừa mới nghỉ ngơi.."
+
+msgid "In the cage."
+msgstr "trong cái lồng rồi."
+
+msgid "That wasn't rest, it was uncomfortable!"
+msgstr "Cái đó sao gọi là nghỉ ngơi, khó chịu đi được ấy!"
+
+msgctxt "events.Ch1_MK_Library.misc_couch.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "There's something inside the lamp."
+msgstr "Bên trong cái đèn có cái gì đó."
+
+msgid "Reach for it?"
+msgstr "Với lấy nó chứ?"
+
+msgctxt "events.Ch1_MK_Library.misc_goldeneye.choice.Reach for it?"
+msgid "Yes"
+msgstr "Với lấy"
+
+msgctxt "events.Ch1_MK_Library.misc_goldeneye.choice.Reach for it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's a eyeball inside the lamp, but you no longer need it."
+msgstr "Bên trong cái đèn có cái cầu mắt, nhưng bạn không còn cần nó nữa."
+
+msgid "A reading table."
+msgstr "Cái bàn đọc."

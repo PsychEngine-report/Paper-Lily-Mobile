@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "${item:ch1.bucket_full} を空にする？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "Yes"
+msgstr "する"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full}?"
+msgid "No"
+msgstr "しない"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "${item:ch1.bucket_full_holy} を空にする？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "Yes"
+msgstr "する"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_already_full.choice.Empty the ${item:ch1.bucket_full_holy}?"
+msgid "No"
+msgstr "しない"
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "${item:ch1.bucket} を満たす？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "満たす"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.item_bucket_on_water.choice.Fill up the ${item:ch1.bucket}?"
+msgid "No"
+msgstr "満たさない"
+
+msgid "What to do?"
+msgstr "どうしよう？"
+
+msgid "Kill it here"
+msgstr "ここで殺す"
+
+msgid "Release it around this area"
+msgstr "この辺りで放す"
+
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgid "The crow shows no interest in it."
+msgstr "カラスは何の興味も示さない。"
+
+msgid "Nobody seems to want you, little one."
+msgstr "誰もあなたを求めてないみたい。"
+
+msgid "It refuses to leave the terrarium."
+msgstr "イモムシは飼育箱から出たがらない。"
+
+msgid "He must not like lavender very much..."
+msgstr "ラベンダーはあまり好きじゃないんだね……"
+
+msgid "(Looks like it couldn't swim after all.)"
+msgstr "(やはり泳げなかったようだ。)"
+
+msgid "(You can't place an incomplete doorknob...)"
+msgstr "(未完成のドアノブを挿すことはできない……)"
+
+msgid "Lavender flowers are growing all over this place."
+msgstr "一面にラベンダーが咲いている。"
+
+msgid "Pretty..."
+msgstr "きれい……"
+
+msgid "Take ${item:ch1.forest_lavender}?"
+msgstr "${item:ch1.forest_lavender} を摘む？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "Yes"
+msgstr "摘む"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.misc_lavender.choice.Take ${item:ch1.forest_lavender}?"
+msgid "No"
+msgstr "摘まない"
+
+msgid "A crow standing on a log."
+msgstr "丸太の上にカラスが止まっている。"
+
+msgid "It's completely unfazed by the rain..."
+msgstr "雨にも全然動じてない……"
+
+msgid "A wooden log."
+msgstr "丸太。"
+
+msgid "I came from this direction. There's no reason to go back now."
+msgstr "私はこっちから来た。今は戻る理由はない。"
+
+msgid "You can't see the other side of the lake from here."
+msgstr "ここからは湖の対岸は見えない。"
+
+msgid "A small pond."
+msgstr "小さな池。"
+
+msgid "The caterpillar has moved on. You should too."
+msgstr "イモムシは進んでいった。自分も進まないといけない。"
+
+msgid "A door with two doorknobs."
+msgstr "2つのドアノブがついたドア。"
+
+msgid "Take a closer look?"
+msgstr "詳しく見てみる？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "Yes"
+msgstr "見てみる"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.move_door.choice.Take a closer look?"
+msgid "No"
+msgstr "やめておく"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_facility.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "もう帰還のドアノブを挿した。他の場所には行くべきじゃない。"
+
+msgid "A stairway?"
+msgstr "階段？"
+
+msgid "It's so dark... I can't see anything..."
+msgstr "真っ暗で……何も見えない……"
+
+msgid "Agh... my head..."
+msgstr "あぐ……頭が……"
+
+msgid "What's going on...?"
+msgstr "何が起きてるの……？"
+
+msgid "This doorknob won't even turn."
+msgstr "ドアノブは回りもしない。"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_grave.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "もう帰還のドアノブを挿した。他の場所には行くべきじゃない。"
+
+msgid "Hmm..."
+msgstr "うーん……"
+
+msgid "A strange door with two doorknobs... and empty slots to place more."
+msgstr "不思議なドアにドアノブが2つと……追加で挿せる穴がいくつか。"
+
+msgid "Amazing... my ${item:ch1.doorknob_return} fits right in. It wasn't a scam after all..."
+msgstr "すごい……${item:ch1.doorknob_return}がぴったりはまる。偽物じゃなかったんだ……"
+
+msgid "Still... I'm not ready to go home yet, but I'm glad to have found this door."
+msgstr "とはいえ……まだ家に帰る時じゃないけど、でもこのドアが見つかってよかった。"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_library.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "もう帰還のドアノブを挿した。他の場所には行くべきじゃない。"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_moths.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "もう帰還のドアノブを挿した。他の場所には行くべきじゃない。"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_shop.dlg.lacie"
+msgid "I placed my return doorknob. I shouldn't go anywhere else."
+msgstr "もう帰還のドアノブを挿した。他の場所には行くべきじゃない。"
+
+msgid "An empty slot."
+msgstr "何も挿さっていない穴。"
+
+msgid "Place a doorknob?"
+msgstr "ドアノブを挿す？"
+
+msgid "Gray Doorknob"
+msgstr "灰色のドアノブ"
+
+msgid "Doorknob With Eye"
+msgstr "目のドアノブ"
+
+msgid "White Doorknob"
+msgstr "白いドアノブ"
+
+msgid "Doorknob With Flower"
+msgstr "花のドアノブ"
+
+msgid "Return Doorknob"
+msgstr "帰還のドアノブ"
+
+msgid "Do not"
+msgstr "挿さない"
+
+msgid "Is it really time to go home...?"
+msgstr "本当に、ここで帰るべきなのかな……？"
+
+msgid "Are you sure that you want to place this doorknob?"
+msgstr "本当にこのドアノブを挿す？"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "Yes"
+msgstr "挿す"
+
+msgctxt "events.Ch1_Forest_Lakeside_North.pnc_door_slot.choice.Are you sure that you want to place this doorknob?"
+msgid "No"
+msgstr "挿さない"

@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I just need to open my locker, and then the closet to end this."
+msgstr "Eu só preciso abrir meu armário e depois o armário para acabar com isso."
+
+msgid "My locker is..."
+msgstr "Meu armário é..."
+
+msgid "It's pretty obvious, isn't it?"
+msgstr "É bastante óbvio, não é?"
+
+msgid "This isn't your locker."
+msgstr "Este não é o seu armário."
+
+msgid "A locker."
+msgstr "Um armário."
+
+msgid "Huh? What's that red thing? It's the first time I see it."
+msgstr "Huh? O que é aquela coisa vermelha? É a primeira vez que vejo isso."
+
+msgid "There's nothing else to see here."
+msgstr "Não há mais nada para ver aqui."
+
+msgid "..."
+msgstr "..."
+
+msgid "Trash fills your locker."
+msgstr "O lixo enche seu armário."
+
+msgid "What a mess."
+msgstr "Que bagunça."
+
+msgid "\"Welcome back, Lacie."
+msgstr "“Bem-vinda de volta, Lacie."
+
+msgid "We've missed you at school."
+msgstr "Sentimos sua falta na escola."
+
+msgid "You'll have a lot to catch up on, so your classmates organized the reading material for you."
+msgstr "Você terá muito o que colocar em dia, então seus colegas organizaram o material de leitura para você."
+
+msgid "You can find it in your locker."
+msgstr "Você pode encontrá-lo em seu armário."
+
+msgid "Please be sure to look over everything carefully."
+msgstr "Por favor, certifique-se de examinar tudo com cuidado."
+
+msgid "You wouldn't want to fail the year.\""
+msgstr "Você não gostaria de falhar no ano.\""
+
+msgid "...sigh."
+msgstr "...argh."
+
+msgid "...Blah blah blah."
+msgstr "...Blah blah blah."
+
+msgid "It's always the same text."
+msgstr "É sempre o mesmo texto."
+
+msgid "The note will be back in this spot next time, even if I crumple it."
+msgstr "A nota estará de volta neste lugar na próxima vez, mesmo que eu a amasse."
+
+msgid "Peace and quiet."
+msgstr "Paz e tranquilidade."
+
+msgid "Nah, it's better like this."
+msgstr "Não, é melhor assim."
+
+msgid "...Heh... never gets old."
+msgstr "...Heh... nunca envelhece."
+
+msgid "Pick up ${item:global.reditem_1}?"
+msgstr "Pegar o ${item:global.reditem_1}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "It's the exit."
+msgstr "É a saída."
+
+msgid "It doesn't open until I check the locker..."
+msgstr "Ela não abre até que eu verifique o armário..."
+
+msgid "Blindingly white light is all you can see."
+msgstr "A luz branca ofuscante é tudo o que você pode ver."
+
+msgid "Students, laughing at you."
+msgstr "Alunos, rindo de você."
+
+msgid "...I hate them."
+msgstr "...eu os odeio."
+
+msgid "The passageway has closed behind you."
+msgstr "A passagem se fechou atrás de você."

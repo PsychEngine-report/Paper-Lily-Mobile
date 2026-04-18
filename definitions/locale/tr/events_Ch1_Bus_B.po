@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A creature with a huge mouth."
+msgstr "Kocaman ağızlı bir yaratık."
+
+msgid "hhhhaaaaaa....."
+msgstr "aaaaaaağğğğğğğ..."
+
+msgid "(It might be best to keep my distance...)"
+msgstr "(En iyisi mesafemi korumak...)"
+
+msgid "A scary-looking monster."
+msgstr "Korkunç görünümlü bir canavar."
+
+msgid "It's looking at me..."
+msgstr "Bana bakıyor..."
+
+msgid "A person holding what seems like a lamp with fish inside."
+msgstr "Bir kişi içinde balık olan lamba gibi görünen bir şey taşıyor."
+
+msgid "A hooded young man is lying down here."
+msgstr "Kapüşonlu genç adam burda uzanıyor."
+
+msgid "Pardon me..."
+msgstr "Afedersin..."
+
+msgctxt "events.Ch1_Bus_B.chr_sai.dlg.unknown"
+msgid "..."
+msgstr "..."
+
+msgid "I need some help."
+msgstr "Yardıma ihtiyacım var."
+
+msgctxt "events.Ch1_Bus_B.chr_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Yeah, I wouldn't talk to me either."
+msgstr "Evet, Ben de benimle ile konuşmazdım."
+
+msgid "Sigh..."
+msgstr "neyysee..."
+
+msgid "An odd green man."
+msgstr "Garip yeşil bir adam."
+
+msgctxt "events.Ch1_Bus_B.chr_sleepy.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "zzzzz"
+msgstr "zzzzz"
+
+msgid "Uh... excuse me?"
+msgstr "Ah... afedersin?"
+
+msgid "zzzzzZZZZZ"
+msgstr "zzzzzZZZZZ"
+
+msgid "Looks like he's trying to sleep..."
+msgstr "Öyle görünüyor ki uyumaya çalışıyor..."
+
+msgid "Some purple blobs with ...faces?"
+msgstr "Yüzleri olan... bazı mor lekeler mi？"
+
+msgid "If I push them together, will they disappear?"
+msgstr "Eğer onları birlikte itersem, yok olurlar mı?"
+
+msgid "The bus driver must be behind these curtains."
+msgstr "otobüs şöförü perdelerin arkasında olmalı."
+
+msgid "Take a look behind the curtains?"
+msgstr "Perdelerin arkasına bakar mıydın ?"
+
+msgctxt "events.Ch1_Bus_B.misc_curtain.choice.Perdelerin arkasına bak?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Bus_B.misc_curtain.choice.Perdelerin arkasına bak?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Some colorful goop is dripping from the ceiling."
+msgstr "Biraz renkli yapışkan madde tavandan akıyor."
+
+msgid "An empty seat."
+msgstr "Boş bir koltuk."
+
+msgid "My seat. I didn't forget anything."
+msgstr "Benim koltuğum.Hiçbir şeyi unutmadım."
+
+msgid "Should I sit back down?"
+msgstr "Acaba tekrar otursam mı?"
+
+msgctxt "events.Ch1_Bus_B.misc_seat_3.choice. Tekrar oturmalı mıyım?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Bus_B.misc_seat_3.choice.Tekrar oturmalı mıyım?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A list of rules for the bus."
+msgstr "Otobüs kurallarının bir listesi"
+
+msgctxt "events.Ch1_Bus_B.misc_sign.dlg.lacie"
+msgid "\"No eating on the bus.\""
+msgstr "\"Otobüste yemek yenilmez\""
+
+msgid "Seems pretty reasonable."
+msgstr "Epey mantıklı gözüküyor."
+
+msgctxt "events.Ch1_Bus_B.misc_sign.dlg.narrator"
+msgid "\"No eating on the bus.\""
+msgstr "\"Otobüste yemek yenilmez.\""
+
+msgid "The ticketing machine."
+msgstr "Bilet makinesi."
+
+msgid "You can see the bus stop and some trees out the window."
+msgstr "Otobüs durağını ve pencerenin dışındaki bazı ağaçları görebiliyosun."
+
+msgid "...She actually got off?"
+msgstr "...O cidden otobüsten indi mi?"
+
+msgid "...Huh."
+msgstr "... Hah"

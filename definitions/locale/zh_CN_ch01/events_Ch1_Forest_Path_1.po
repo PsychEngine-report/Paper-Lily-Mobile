@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The path looks like it should continue here, but it doesn't."
+msgstr "道路看起来本应在此处延续，但事实并非如此。"
+
+msgid "There's a sign that says [color=#8080FF]\"Daylight Gate\"[/color]. It points straight ahead."
+msgstr "路牌上写着[color=#8080FF]“曙光大门”[/color]。笔直地指向前方。"
+
+msgid "The sign says [color=#8080FF]\"Daylight Gate\"[/color]."
+msgstr "路牌上写着[color=#8080FF]“曙光大门”[/color]。"
+
+msgid "It's pointing towards the trees."
+msgstr "它指向了树林里。"
+
+msgid "It seems to be a bit loose. You could rotate it to match the other one..."
+msgstr "它看起来松了。你可以把它旋转到和其他路牌对应的方向..."
+
+msgid "Let's do it"
+msgstr "行动起来"
+
+msgid "Not my job"
+msgstr "不关我事"
+
+msgid "It seems to be pointing in the correct direction now."
+msgstr "它现在看起来指向了正确的方向。"
+
+msgid "There's nothing here."
+msgstr "这里什么也没有。"
+
+msgid "(Hmm... Could it be that the sign is pointing in the wrong direction?)"
+msgstr "（嗯...也许那个路牌指的方向有问题？）"

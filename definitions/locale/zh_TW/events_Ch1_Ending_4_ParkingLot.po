@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What seems like a trash bag."
+msgstr "看起來像是垃圾袋。"
+
+msgid "It has dust all over."
+msgstr "滿是灰塵。"
+
+msgid "A wooden crate."
+msgstr "木箱。"
+
+msgid "A bus. It doesn't seem to have been used in a long time."
+msgstr "公車。看起來很久沒有使用了。"
+
+msgid "There's another bus stacked on top of it."
+msgstr "有另一台公車疊在上面。"
+
+msgid "A broken bus is stacked on top of it."
+msgstr "壞掉的公車疊在最上面。"
+
+msgid "A keypad."
+msgstr "數字鍵盤。"
+
+msgid "It doesn't seem to be working."
+msgstr "看起來沒有作用。"
+
+msgid "Touch some buttons?"
+msgstr "碰一些按鈕嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "The keypad does not respond in any way."
+msgstr "數字鍵盤沒有任何反應。"
+
+msgid "Looks like a mailbox."
+msgstr "看起來像是郵箱。"
+
+msgid "There's no mail right now."
+msgstr "沒有郵件。"
+
+msgid "A small light. It changes colors every few seconds."
+msgstr "微光。每隔幾秒會變換顏色。"
+
+msgid "Strange street signs fill the walls."
+msgstr "奇怪的交通標誌填滿了牆壁。"
+
+msgid "A garage door."
+msgstr "車庫門。"
+
+msgid "Can I get this open somehow?"
+msgstr "我有辦法打開它嗎？"

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The silhouette of a large clock is reflected here."
+msgstr "這裡映照著一座大鐘的輪廓。"
+
+msgid "A large window shaped like a clock towers above you."
+msgstr "一扇形狀像鐘的大窗戶聳立在你的上方。"
+
+msgid "The time is set to 12:00."
+msgstr "時間設定在 12:00。"
+
+msgid "There you are!"
+msgstr "妳在這啊！"
+
+msgid "How'd you get in there?"
+msgstr "妳怎麼進去的？"
+
+msgid "I got zapped, like there's something keeping me out."
+msgstr "我被擊退，就像是有東西在阻止我進去。"
+
+msgid "Really?"
+msgstr "真的嗎？"
+
+msgid "You didn't even notice me gone!?"
+msgstr "妳根本沒注意到我不見了！？"
+
+msgid "...."
+msgstr "...."
+
+msgid "No."
+msgstr "沒有。"
+
+msgid "Cold..."
+msgstr "真冷酷..."
+
+msgid "So what was in there anyway?"
+msgstr "所以裡面有什麼？"
+
+msgid "Anything fun?"
+msgstr "有什麼好玩的嗎？"
+
+msgid "Yes, very fun."
+msgstr "是啊，很好玩。"
+
+msgid "What? Really??"
+msgstr "什麼？真的嗎？？"
+
+msgid "What was it?"
+msgstr "是什麼？"
+
+msgid "I can't tell you."
+msgstr "我不能告訴你。"
+
+msgid "Huh?!"
+msgstr "蛤？！"
+
+msgid "Why not??"
+msgstr "為什麼不能？？"
+
+msgid "Because it's more fun that way."
+msgstr "因為這樣比較好玩。"
+
+msgid "No way, don't do me dirty like this!"
+msgstr "怎麼可能，不要這樣對我！"
+
+msgid "..."
+msgstr "..."
+
+msgid "(It's strange though. Why wasn't he able to enter?)"
+msgstr "(真是奇怪。為什麼他沒辦法進去？)"

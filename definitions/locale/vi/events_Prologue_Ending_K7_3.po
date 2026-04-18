@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It could be dangerous to topple these boxes over."
+msgstr "Làm đổ núi thùng này thì nguy hiểm đấy."
+
+msgid "A large pile of boxes that goes all the way to the ceiling."
+msgstr "Đống thùng chất cao lên đến tận trần nhà."
+
+msgid "This room feels different..."
+msgstr "Phòng này cảm thấy khang khác..."
+
+msgid "Is it safe...?"
+msgstr "An toàn không...?"
+
+msgid "Ah, there you are."
+msgstr "À, các ngươi đây rồi."
+
+msgid "Who are you...? What is this place?"
+msgstr "Mày là ai...? Đây rốt cuộc là đâu?"
+
+msgid "Straight to the point I see."
+msgstr "Quả là không thích vòng vo nhỉ."
+
+msgid "Well, this isn't quite your world."
+msgstr "Thì, đây không hẳn là thế giới của các ngươi."
+
+msgid "...What?"
+msgstr "...Là sao?"
+
+msgid "Let's not get into it. You're doing a ritual, correct?"
+msgstr "Khoan bàn sâu chuyện đó đã. Các ngươi đang làm nghi thức, phải không?"
+
+msgctxt "events.Prologue_Ending_K7_3.misc_ending.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "Stop, and go home."
+msgstr "Ngừng lại, rồi đi về nhà đi."
+
+msgid "All of you. I mean it."
+msgstr "Toàn bộ các ngươi luôn. Không phải nói chơi đâu."
+
+msgid "Excuse me...?"
+msgstr "Này nhá...?"
+
+msgid "Kat, if you keep doing what you're doing, things won't end well."
+msgstr "Kat, nếu cứ mà tiếp tục thế này, kết cục sẽ chẳng tốt đẹp đâu."
+
+msgid "Do you know this person, Kat?"
+msgstr "Nè Kat, mày quen đứa này à?"
+
+msgid "Not at all."
+msgstr "Không, làm gì quen."
+
+msgid "They seem to know you, though."
+msgstr "Nhưng mà nó có vẻ lại biết mày đó."
+
+msgid "What is it with everyone warning me lately?"
+msgstr "Tại sao gần đây đứa nào đứa nấy đều cảnh báo tao vậy?"
+
+msgid "I need some answers."
+msgstr "Trả lời tao cái."
+
+msgid "So far, you haven't-"
+msgstr "Nãy giờ mày cứ–"
+
+msgid "Stop! Don't cross that line."
+msgstr "Đứng lại! Chớ có bước qua lằn đó."
+
+msgctxt "events.Prologue_Ending_K7_3.misc_ending.dlg.hoodie"
+msgid "..."
+msgstr "..."
+
+msgid "Sigh..."
+msgstr "Hầy..."
+
+msgid "If you haven't realized by now, the ritual works."
+msgstr "Nếu ngươi vẫn còn chưa nhận ra thì nghi thức thành công rồi đấy."
+
+msgid "It will take you somewhere you'll never return from."
+msgstr "Và nó sẽ dắt ngươi đi đến cái nơi mà không đời nào có thể thoát khỏi."
+
+msgid "If it works then... I should definitely finish it."
+msgstr "Nếu gọi là thành công rồi... thì tao càng phải làm cho đến cùng."
+
+msgid "Kat, what are you saying...?"
+msgstr "Kat, mày nói gì thế...?"
+
+msgid "Sorry, but I can't listen to this person. I have my reasons for doing this."
+msgstr "Xin lỗi, nhưng mà tao không thể nghe lời của tên này được. Tao có lý do bắt buộc phải làm."
+
+msgid "I don't know how much you value what you have right now but..."
+msgstr "Ta không biết ngươi trân trọng những gì bây giờ ngươi có đến nhường nào..."
+
+msgid "If you continue down this path, you'll lose everything."
+msgstr "Nhưng nếu tiếp tục con đường này, ngươi sẽ mất hết tất cả."
+
+msgid "Everything you hold dear, and everything you don't."
+msgstr "Mọi thứ mà ngươi trân quý, và cả mọi thứ mà ngươi phớt lờ."
+
+msgid "Your questions will not receive any satisfying answers..."
+msgstr "Những khúc mắc của ngươi sẽ không có được câu trả lời trọn vẹn nào..."
+
+msgid "And everything you know about the world will turn meaningless."
+msgstr "Và mọi thứ ngươi biết về thế giới này sẽ trở nên công cốc hết."
+
+msgid "Those three."
+msgstr "3 người kia."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Are you willing to sacrifice their lives for your so-called \"reasons\"?"
+msgstr "Ngươi có sẵn lòng hy sinh tính mạng của chúng vì cái thứ gọi là \"lý do\" đó không?"
+
+msgid "Lives...?"
+msgstr "Tính mạng sao...?"
+
+msgid "Furthermore, your own life."
+msgstr "Và còn cả tính mạng của bản thân ngươi nữa."
+
+msgid "Are you willing to die for the answers you're seeking?"
+msgstr "Ngươi có sẵn lòng bỏ mạng vì câu trả lời mà ngươi đang tìm kiếm không?"
+
+msgid "Let's go back, Kat."
+msgstr "Quay về thôi Kat ơi."
+
+msgid "I want to leave..."
+msgstr "Tao cũng muốn về..."
+
+msgid "I don't believe you. Why don't you just give me my answers yourself then? Spare me the trip."
+msgstr "Không tin. Sao mày không cho tao câu trả lời cho rồi đi? Bớt tốn công tao."
+
+msgid "I thought so."
+msgstr "Tao tưởng thế nào."
+
+msgid "I've said what I needed to."
+msgstr "Ta đã nói những gì cần nói rồi."
+
+msgid "Why? Who are you?"
+msgstr "Thế là sao? Mày là ai hả?"
+
+msgid "Just someone who has seen too many humans die."
+msgstr "Ta chỉ là kẻ đã trông thấy quá nhiều người phải chết mà thôi."
+
+msgid "It would sadden me to add you four to the pile."
+msgstr "Tăng thêm 4 người các ngươi vào thì làm ta buồn lòng lắm."
+
+msgid "Go home, Kat."
+msgstr "Đi về đi Kat."
+
+msgid "Can't you feel it in the air here? You're all in danger."
+msgstr "Ngươi không cảm thấy bầu không khí ở đây sao? Các ngươi giờ đều đang gặp nguy đấy."
+
+msgid "Kat, please, this feels too dangerous..."
+msgstr "Kat ơi, xin đấy, nguy hiểm lắm đó..."
+
+msgid "Kat, let's just go."
+msgstr "Kat, đi về đi thôi."
+
+msgid "Yeah, let's get out of here. I didn't sign up for this."
+msgstr "Đúng đó, đi ra chỗ này đi. Tao theo không phải để làm trò này."
+
+msgid "Kat, we don't want something bad to happen to you."
+msgstr "Kat ơi, bọn tao không thích có chuyện không hay xảy ra với mày đâu mà."
+
+msgid "Fine, let's go."
+msgstr "Được rồi, đi về."
+
+msgid "Are you by any chance the same person from my dream earlier today?"
+msgstr "Mày có khi nào cũng chính là người trong giấc mơ tao ban nãy?"
+
+msgid "A dream...?"
+msgstr "Giấc mơ ư...?"
+
+msgid "It must have been your subconscious warning you as well."
+msgstr "Đấy nhất định là tiềm thức cũng đang cảnh báo cho ngươi đó."
+
+msgid "...I see."
+msgstr "...Thì ra là thế nhể."
+
+msgid "(Oh.)"
+msgstr "(À phải.)"
+
+msgid "(Should I give this person the blueprints I found...?)"
+msgstr "(Có nên đưa cho người này bản thiết kế mình thấy hay chăng...?)"
+
+msgid "Yes"
+msgstr "Đưa"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "By the way..."
+msgstr "Mà này..."
+
+msgid "I found these weird blueprints a few minutes ago."
+msgstr "Mới nãy, tao có thấy bản thiết kế kì lạ này."
+
+msgid "Just take them."
+msgstr "Hãy nhận lấy đi."
+
+msgid "Otherwise I might change my mind."
+msgstr "Bằng không có khi tao đổi ý bây giờ."
+
+msgid "Huh... this is..."
+msgstr "Hử... đây là..."
+
+msgid "Thank you."
+msgstr "Cảm ơn ngươi."
+
+msgid "You're doing the right thing, Kat. Your father would be glad."
+msgstr "Ngươi làm điều đúng đắn rồi Kat ạ. Ba của ngươi nhất định sẽ mừng lắm."
+
+msgid "It's okay to accept the life you're left with. Don't destroy it."
+msgstr "Đón nhận lấy cuộc sống được để lại cho ngươi thì tốt mà. Đừng có phá bỏ nó."
+
+msgid "...I guess."
+msgstr "...Có lẽ vậy."
+
+msgid "Kat!!!"
+msgstr "Kat!!!"
+
+msgid "Go already. You can't be here."
+msgstr "Đi nhanh đi. Đừng có mà ở lại đây."
+
+msgid "If what you said is true..."
+msgstr "Nếu điều mày nói đấy là sự thật..."
+
+msgid "Then thanks."
+msgstr "Thì vô cùng cảm ơn."
+
+msgid "I'll pass on the ritual."
+msgstr "Tao sẽ dừng lại nghi thức..."
+
+msgid "For tonight."
+msgstr "...cho tối nay."
+
+msgid "That's good enough."
+msgstr "Chỉ thế thôi cũng đủ rồi."
+
+msgid "A large pile of trash cans. They all seem to be empty."
+msgstr "Núi thùng rác khổng lồ. Cái nào cũng có vẻ trống không hết."

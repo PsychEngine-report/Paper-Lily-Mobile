@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Remove the red string?"
+msgstr "赤い紐を外す？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.event_remove_ribbon.choice.Remove the red string?"
+msgid "Yes"
+msgstr "外す"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.event_remove_ribbon.choice.Remove the red string?"
+msgid "No"
+msgstr "外さない"
+
+msgid "This is the cable I need to tie a red string to."
+msgstr "このケーブルに赤い紐を結び付けないといけない。"
+
+msgid "This is the cable you should tie a red string to."
+msgstr "このケーブルに赤い紐を結び付けないといけない。"
+
+msgid "Some bird food."
+msgstr "鳥のエサ。"
+
+msgid "Take ${item:ch1.bird_food}?"
+msgstr "${item:ch1.bird_food} を取る？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.item_birdfood_get.choice.Take ${item:ch1.bird_food}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.item_birdfood_get.choice.Take ${item:ch1.bird_food}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "Is a bunny rabbit knot fine...?"
+msgstr "蝶結びで大丈夫かな……？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_counter.dlg.narrator"
+msgid "Nothing of interest."
+msgstr "特に興味を惹くものはない。"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_counter_2.dlg.narrator"
+msgid "Nothing of interest."
+msgstr "特に興味を惹くものはない。"
+
+msgid "Drawers filled with miscellaneous items unfit for a kitchen."
+msgstr "キッチンにはそぐわない雑多な品々が詰まった引き出し。"
+
+msgid "A landline phone."
+msgstr "固定電話。"
+
+msgid "Dial a number?"
+msgstr "電話をかける？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_cupboard2.choice.Dial a number?"
+msgid "Yes"
+msgstr "かける"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_cupboard2.choice.Dial a number?"
+msgid "No"
+msgstr "かけない"
+
+msgid "A red string can be seen hanging from its cord."
+msgstr "コードから赤い紐が垂れ下がっている。"
+
+msgid "The phone is ringing. Pick up?"
+msgstr "電話が鳴っている。取る？"
+
+msgid "Pick up the phone"
+msgstr "電話を取る"
+
+msgid "Ignore it"
+msgstr "無視する"
+
+msgid "Looks like I just missed it..."
+msgstr "取りそこねたみたい……"
+
+msgid "A large cupboard. There's nothing inside."
+msgstr "大きな戸棚。中には何もない。"
+
+msgid "A rice cooker."
+msgstr "炊飯器。"
+
+msgid "Various kitchen tools are stored in the drawers underneath."
+msgstr "下の引き出しには様々なキッチン用品が入っている。"
+
+msgid "Cutlery is stored in this drawer."
+msgstr "この引き出しには食器類が入っている。"
+
+msgid "Checking the contents of the fridge calms you down."
+msgstr "冷蔵庫の中身を確認していると落ち着いてきた。"
+
+msgid "Do you want to have the leftovers mother left for you?"
+msgstr "母親が残していってくれた残り物を食べる？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_fridge.choice.Do you want to have the leftovers mother left for you?"
+msgid "Yes"
+msgstr "食べる"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_fridge.choice.Do you want to have the leftovers mother left for you?"
+msgid "No"
+msgstr "食べない"
+
+msgid "...for a last meal, it kind of sucked."
+msgstr "……最期の食事としては、ちょっと最悪かな。"
+
+msgid "Nothing new has materialized since the last time you checked."
+msgstr "前に確認して以来、新しいものは出現していない。"
+
+msgid "There's no time for snacks right now."
+msgstr "今は間食を取っている場合ではない。"
+
+msgid "A bowl full of fresh fruit."
+msgstr "新鮮な果物が盛られたボウル。"
+
+msgid "The microwave emanates an aura of familiarity."
+msgstr "慣れ親しんだ雰囲気を発している電子レンジ。"
+
+msgid "A microwave oven."
+msgstr "電子レンジ。"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.dlg.narrator"
+msgid "A note from your mother."
+msgstr "母親からのメモ。"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice"
+msgid "Read it?"
+msgstr "メモを読む？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice.Read it?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_note.choice.Read it?"
+msgid "No"
+msgstr "読まない"
+
+msgid "\"Your dad and I will be back on Monday."
+msgstr "「パパとママは月曜日には帰ります。"
+
+msgid "There's food in the fridge, make sure to heat it up."
+msgstr "冷蔵庫に食事があるから、温めて食べてね。"
+
+msgid "Call us at (195)-224#1 if there's any problem."
+msgstr "何かあったら(195)-224#1に電話すること。"
+
+msgid "- Mom\""
+msgstr "― ママより」"
+
+msgid "The letter is gone."
+msgstr "手紙はなくなっている。"
+
+msgid "Didyousee?Didyouseeit?Yousawit.Youpretendedyoudidnt.Yousawit.Didyoupretend?Whydidyoupretend?Yousawallofit."
+msgstr "見た?見た?見たでしょ.見てない振りした.見たでしょ.見てない振り?何で?全部見たでしょ."
+
+msgid "Butyouforgotsomething.Doyouknowwhatyouforgot?Youforgotsomethingthere.Backthen.Don'tworry.Itookcareofit.Shetookcareofit.Shetakescareofiteverytime."
+msgstr "でも何か忘れてる.何忘れたか知ってる?あそこで何かを忘れた.あのとき.心配しないで.私がどうにかしたから.彼女がどうにかしたから.いつも彼女がどうにかするから."
+
+msgid "A note from someone."
+msgstr "誰かからのメモ。"
+
+msgid "\"_____ Ritual. What you'll need: Candles, a knife, a chunk of meat, a hiding place, an accomplice, a victim..."
+msgstr "「_____の儀式。必要なもの: ロウソク、ナイフ、肉塊、隠れ場所、共犯者、被害者……"
+
+msgid "Wait... was that really how it went?\""
+msgstr "待てよ……本当にそうだったっけ？」"
+
+msgid "The oven. You hardly ever use it."
+msgstr "オーブン。自分はほとんど使わない。"
+
+msgid "A tall, green plant."
+msgstr "背の高い観葉植物。"
+
+msgid "A very clean sink."
+msgstr "とてもきれいなシンク。"
+
+msgid "Turn on the tap?"
+msgstr "蛇口を開ける？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn on the tap?"
+msgid "Yes"
+msgstr "開ける"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn on the tap?"
+msgid "No"
+msgstr "開けない"
+
+msgid "Turn off the tap?"
+msgstr "蛇口を閉める？"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn off the tap?"
+msgid "Yes"
+msgstr "閉める"
+
+msgctxt "events.Ch1_Home_1F_Kitchen.misc_sink.choice.Turn off the tap?"
+msgid "No"
+msgstr "閉めない"
+
+msgid "A dining table. You sometimes eat here."
+msgstr "ダイニングテーブル。時々ここで食事をする。"
+
+msgid "A toaster."
+msgstr "トースター。"
+
+msgid "A trash can with nothing but the memory of bad kitchen smells."
+msgstr "キッチンの悪臭の記憶だけが残ったゴミ箱。"

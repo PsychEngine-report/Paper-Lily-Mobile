@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.chr_mom.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "一把刀，莱西。"
+
+msgid "A knife."
+msgstr "一把刀。"
+
+msgid "Off you go."
+msgstr "你可以走了。"
+
+msgid "Hm...?"
+msgstr "唔...？"
+
+msgid "Lacie, there you are."
+msgstr "莱西，你来了。"
+
+msgid "I called you several times, didn't you hear me?"
+msgstr "我叫你好几次了，你没听到吗？"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I need you to go get me a _____."
+msgstr "我要去帮我拿一把_____。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "A... what?"
+msgstr "一把...什么？"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "一把刀，莱西。"
+
+msgid "Oh."
+msgstr "哦。"
+
+msgid "It shouldn't be too hard to find. It's in the closet in the garage."
+msgstr "不会很难找的。就在车库的壁橱里。"
+
+msgid "...Okay."
+msgstr "...好吧。"
+
+msgid "Well done. Off you go."
+msgstr "做的好。你可以走了。"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.item_knife_on_mom.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A kitchen counter. Mother seems to be preparing something."
+msgstr "厨台。母亲看起来在准备什么。"
+
+msgid "There's nothing on the counter."
+msgstr "厨台上没有任何东西。"
+
+msgid "None of this can be used."
+msgstr "无法使用。"
+
+msgid "The surfaces are completely flat, and there are no handles."
+msgstr "水槽的表面完全平整，而且没有龙头把手。"
+
+msgid "It only looks like a kitchen on the surface..."
+msgstr "这里只是表面上看起来像厨房而已..."
+
+msgid "Pick up ${item:global.reditem_2}?"
+msgstr "要捡起${item:global.reditem_2}吗？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "An empty dining table."
+msgstr "一张空餐桌。"
+
+msgid "The passageway has closed behind you."
+msgstr "你身后的通道已经关上了。"
+
+msgid "It's locked."
+msgstr "锁住了。"

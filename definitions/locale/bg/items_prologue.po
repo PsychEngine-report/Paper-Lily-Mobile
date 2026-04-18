@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "White Flower"
+msgstr "Бяло Цвете"
+
+msgid "A white flower I found on the grass. It appears to be a lily... I think."
+msgstr "Бяло цвете, което намерих на тревата. Изглежда, че е лилия... Мисля."
+
+msgid "Wet White Flower"
+msgstr "Мокро Бяло Цвете"
+
+msgid "A white flower I took from a vase. It's probably a Lily."
+msgstr "Бяло цвете, което взех от една ваза. Вероятно е лилия."
+
+msgid "Ritual Notes"
+msgstr "Ритуални записки"
+
+msgid "I put everything I need to remember here."
+msgstr "Слагам тук всичко, което трябва да запомня."
+
+msgid "Ritual Notes (Drawing)"
+msgstr "Ритуални записки (Рисунка)"
+
+msgid "This is how it looks in my head."
+msgstr "Така изглежда в главата ми."
+
+msgid "Candles"
+msgstr "Свещи"
+
+msgid "A bunch of candles. I need these for the ritual."
+msgstr "Група свещи. Трябват ми за ритуала."
+
+msgid "Chalk"
+msgstr "Тебешир"
+
+msgid "A piece of chalk. I can draw various things with it."
+msgstr "парче тебешир. Мога да нарисувам различни неща с него."
+
+msgid "Curtains"
+msgstr "Завеси"
+
+msgid "Red blackout curtains used to block as much light as possible."
+msgstr "Черно-бели завеси служещи да спрат повечето светлина."
+
+msgid "Lighter"
+msgstr "Запалка"
+
+msgid "My personal lighter. I don't smoke, but I enjoy watching things burn."
+msgstr "Личната ми запалка. Не пуша, но се наслаждавам как нещата горят."
+
+msgid "Old Lighter"
+msgstr "Стара запалка"
+
+msgid "An old lighter I had lost a long time ago. It doesn't seem to work anymore."
+msgstr "Остаряла запалка, която имам от много дълго време. Изглежда вече не работи."
+
+msgid "Scissors"
+msgstr "Ножици"
+
+msgid "A regular pair of scissors. Not pointy enough to stab people with."
+msgstr "Стандартен набор ножици. Не са достатъчно остри за да намушкат човек."
+
+msgid "Girl's Hair"
+msgstr "Коса от момиче"
+
+msgid "A tuft of hair I cut from the girl with brown hair."
+msgstr "Кучур коса, която отрязох от момичето с кафява коса."
+
+msgid "A tuft of hair I cut from the girl with black hair."
+msgstr "Кичур коса от чернокосото момиче."
+
+msgid "A tuft of hair I cut from the girl with dark brown hair."
+msgstr "кичур коса от момиче с тъмно-кафеникава коса."
+
+msgid "My Hair"
+msgstr "Моята коса"
+
+msgid "A bit of hair I cut from myself. Looking at it makes me sad."
+msgstr "Малко коса която отразях от себе си. Гледайки го се натежавам."
+
+msgid "Protective Rune"
+msgstr "Защитна руна"
+
+msgid "A rune with some ancient symbol engraved."
+msgstr "руна с някакъв античен символ на нея."
+
+msgid "Student's Notebook"
+msgstr "Студентски бележник"
+
+msgid "A red notebook, probably forgotten by a student. The color and design are not my style."
+msgstr "червен бележник, вероятно забравен от ученик. Цветът и дизайнът не са в мой стил."
+
+msgid "Theater Club Key"
+msgstr "Клубен ключ за театър"
+
+msgid "The key to open the theater club room."
+msgstr "Използва се за отваряне на клубната стая."
+
+msgid "Dusty Hairpin"
+msgstr "Фиба за коса"
+
+msgid "My trusty hairpin! I have a feeling this could come in handy."
+msgstr "Моята вярна фиба! Имам чувството че може да се окаже полезна."
+
+msgid "Fairly Normal-Looking Key"
+msgstr "Нормално изглеждаш ключ"
+
+msgid "A key I found on a long hallway."
+msgstr "ключ който намерих в дългия коридор."
+
+msgid "Lettuce"
+msgstr "Маруля"
+
+msgid "You're not supposed to have this in your inventory."
+msgstr "Това не бива да го имам в моят инвентар."
+
+msgid "Small Key"
+msgstr "Малък ключ"
+
+msgid "A small key, probably for a locker."
+msgstr "Малък ключ, вероятно за шкафче."
+
+msgid "Strange Blueprints"
+msgstr "Странен техн. чертеж"
+
+msgid "Blueprints for an unknown device. You can't make heads or tails out of it."
+msgstr "Чертеж-план за неизвестно устройство. Не можете да се ориентирате в ситуацията."

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wow."
+msgstr "Òa."
+
+msgid "Is this a meeting room or something...?"
+msgstr "Đây là phòng họp à? Hay là gì...?"
+
+msgid "What do you think they held meetings about?"
+msgstr "Người ta họp ở đây theo em là về cái gì?"
+
+msgid "Wait..."
+msgstr "Khoan..."
+
+msgid "Who do you think held meetings?"
+msgstr "Em nghĩ xem những ai mà tổ chức họp?"
+
+msgid "Looks like a room where you plot world domination."
+msgstr "Phòng này trông như nơi mà người ta âm mưu thống trị thế giới ấy."
+
+msgid "Think those windows lead anywhere?"
+msgstr "Nghĩ mấy cái cửa số đó dẫn đi đâu không?"
+
+msgid "..."
+msgstr "..."
+
+msgid "You okay?"
+msgstr "Không sao chứ em?"
+
+msgid "Yes. I just have this persistent headache following me around."
+msgstr "Ừ. Chỉ là tôi cứ bị cái đau đầu nó dai dẳng nãy giờ rồi."
+
+msgid "Oh. That sucks."
+msgstr "Ồ. Khổ nhỉ."
+
+msgid "A chair. It's nailed to the ground."
+msgstr "Cái ghế. Nó bị ghìm chặt xuống đất."
+
+msgid "There's some sort of clothing hanging from the chair. You can't see very well."
+msgstr "Trên tay ghế có vắt cái đồ mặc gì đó. Bạn không nhìn được rõ lắm."
+
+msgid "There's a coat hanging from the chair."
+msgstr "Trên tay ghế có cái áo choàng."
+
+msgid "Put it on"
+msgstr "Khoác nó lên"
+
+msgid "Check the pockets"
+msgstr "Kiểm tra mấy túi áo"
+
+msgid "Don't touch it"
+msgstr "Không đụng vào"
+
+msgid "There's a note in one of the pockets:"
+msgstr "Trong một cái túi áo có tờ ghi là:"
+
+msgid "${img:stamp_council} MEETING 221 NOTES"
+msgstr "${img:stamp_council} BIÊN BẢN CUỘC HỌP 221"
+
+msgid "\"...members are growing increasingly restless....\""
+msgstr "\"...các thành viên đang không ngừng ngày càng gia tăng...\""
+
+msgid "\"...expressing disapproval for Lilith...\""
+msgstr "\"...bày tỏ bất tán thành với Lilith...\""
+
+msgid "\"...might be planning to oust her...\""
+msgstr "\"...có khi sẽ tính khai trừ cô ta...\""
+
+msgid "\"...could get ugly really fast...\""
+msgstr "\"...sẽ có thể chuyển biến xấu rất là nhanh...\""
+
+msgid "A round table."
+msgstr "Cái bàn tròn."
+
+msgid "(It almost looks like... an eye?)"
+msgstr "(Này trông cứ như... con mắt ấy?)"
+
+msgid "There's a valve handle on the desk."
+msgstr "Trên bàn có cái cái tay quay van."
+
+msgid "Take ${item:ch1.facility_handle_pentagon}?"
+msgstr "Lấy ${item:ch1.facility_handle_pentagon} chứ?"
+
+msgid "Yes"
+msgstr "Lấy"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "A bright, imposing window."
+msgstr "Cái cửa sổ sáng, nguy nga."

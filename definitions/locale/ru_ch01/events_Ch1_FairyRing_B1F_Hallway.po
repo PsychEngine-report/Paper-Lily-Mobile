@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Oh... I know where this is)."
+msgstr "(О... а я знаю, где мы.)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "This must be under that weird fella's house."
+msgstr "Походу, мы под домом того чудика."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi"
+msgid "You know, the sculptor?"
+msgstr "Как его... скульптора?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "Yeah."
+msgstr "Ну да."
+
+msgid "I think artists are really impressive!"
+msgstr "А я восхищаюсь творцами!"
+
+msgid "(What's this..?)"
+msgstr "(Что это такое?..)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Not really."
+msgstr "Может быть."
+
+msgid "Oh, it's a cranky old artist."
+msgstr "Ну, он такой, старенький и с тараканами в голове."
+
+msgid "I've never spoken to him because he's in a bad mood when he's tired."
+msgstr "Я с ним никогда не общалась, потому что он очень злой, когда хочет спать."
+
+msgid "...And he's almost always tired."
+msgstr "...А он почти всегда хочет спать."
+
+msgid "But I think artists are really impressive!"
+msgstr "Но лично меня восхищают творцы!"
+
+msgid "Sculpting is really hard..."
+msgstr "Вырезать скульптуры - это не так-то просто..."
+
+msgid "Especially hands..."
+msgstr "А руки - так вообще..."
+
+msgid "I can't seem to get my hands right..."
+msgstr "У меня они никогда не получались..."
+
+msgid "(Oh, that explains...)"
+msgstr "(О, теперь всё ясно...)"
+
+msgid "(Huh... the path is open now.)"
+msgstr "(Хм... проход открыт.)"
+
+msgid "We need to walk slowly... and uh... keep an eye out."
+msgstr "Нам стоит идти медленно и... поглядывать по сторонам."
+
+msgid "Keep an eye out for what?"
+msgstr "А от кого мы прячемся?"
+
+msgid "For... fairies."
+msgstr "От... фей."
+
+msgid "Don't you know what this place is!?"
+msgstr "Ты что, не знаешь, что это за место?!"
+
+msgid "Lacie, don't you know what this place is!?"
+msgstr "Лэйси, ты что, не знаешь, что это за место?!"
+
+msgid "...No, not really."
+msgstr "...Да не особо."
+
+msgid "...!"
+msgstr "!.."
+
+msgid "This is the inside of a fairy ring!"
+msgstr "Мы внутри круга фей!"
+
+msgid "Lacie, this is the inside of a fairy ring!"
+msgstr "Лэйси, мы внутри круга фей!"
+
+msgid "Um..."
+msgstr "Эм..."
+
+msgid "...The mushroom circle from outside?"
+msgstr "...Ты про грибной круг на поверхности?"
+
+msgid "Yep. That's a fairy ring."
+msgstr "Да, это и есть круг фей."
+
+msgid "So this place is..."
+msgstr "Значит, мы..."
+
+msgid "Underneath that circle?"
+msgstr "Прямо под этим кругом?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "Yeah."
+msgstr "Ну да."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "Oh."
+msgstr "Оу."
+
+msgid "Can you tell me more?"
+msgstr "Что ещё ты можешь рассказать?"
+
+msgid "Let's see... I only know the things everyone talks about."
+msgstr "Посмотрим... я знаю только то, что все уже знают."
+
+msgid "For one, fairies live in fairy rings, and they're really nasty."
+msgstr "Во-первых, феи живут в кругах фей, и они гнусные ребята."
+
+msgid "(Fairies...)"
+msgstr "(Феи...)"
+
+msgid "They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!"
+msgstr "И выглядят они скверно: белая голова, похожая на яйцо, большие зубы... Тело так вообще отдельно бродит! А у некоторых на голове нет глаз!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "But even without the fairies, winding up inside of a fairy ring is..."
+msgstr "Но даже если не учитывать фей, то этот круг..."
+
+msgid "Well, they say you get stuck here for 7 years."
+msgstr "Говорят, что тут нужно просидеть семь лет."
+
+msgid "But nobody has ever escaped because they usually just die before that."
+msgstr "Но так отсюда ещё никто не выбирался, потому что все умирают намного раньше."
+
+msgid "Oh god this is horrible, we're not gonna escape!"
+msgstr "Господи, какой ужас, нам не уйти отсюда!"
+
+msgid "Even if we somehow make it 7 years, that's only a myth!"
+msgstr "Даже если мы тут все семь лет продержимся, это не больше чем легенда!"
+
+msgid "Maybe it's meant to instill hope in the poor souls that end up here!"
+msgstr "Может, она просто должна вселять надежду в потерянных ребят!"
+
+msgid "LIKE US! THIS IS A DEAD END!!!"
+msgstr "ВРОДЕ НАС С ТОБОЙ! ЭТО ТУПИК!!!"
+
+msgid "Aoi."
+msgstr "Аой."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Cut it off."
+msgstr "Не режь уши."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "Sorry."
+msgstr "Прости."
+
+msgid "Are the fairies dangerous?"
+msgstr "Феи опасные?"
+
+msgid "Yeah..."
+msgstr "Ну да..."
+
+msgid "...But everything is dangerous."
+msgstr "...Но тут всё опасное."
+
+msgid "The floor here is also slowly digesting us."
+msgstr "Даже пол нас медленно переваривает."
+
+msgid "I guess you don't feel it because you have shoes, hehe..."
+msgstr "Ты, наверное, этого не чувствуешь, потому что на тебе обувь, хе-хе..."
+
+msgid "I only have socks, so it's already eating away at them..."
+msgstr "Я всего лишь в носках, и их уже разъедает..."
+
+msgid "(Should I offer Aoi my shoes?)"
+msgstr "(Предложить Аой мою обувь?)"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)"
+msgid "No"
+msgstr "Нет"
+
+msgid "Would you like my shoes?"
+msgstr "Наденешь мою обувь?"
+
+msgid "Whaaat? You're offering me your own shoes?!?"
+msgstr "Что-о-о? Хочешь предложить мне свою обувь?"
+
+msgid "That's so nice of you!"
+msgstr "Это такой хороший жест!"
+
+msgid "That's so nice, Lacie!"
+msgstr "Лэйси, это так мило с твоей стороны!"
+
+msgid "But no, I'll be alright. I'll just remake my feet if they start being unusable."
+msgstr "Но нет, я переживу. Если мои ноги откажут, я просто их переделаю."
+
+msgid "It just burns but that's okay, I'm used to burns."
+msgstr "Мои ноги просто немного горят, а я привыкла обжигаться."
+
+msgid "...I'm used to burns..."
+msgstr "...Я привыкла обжигаться..."
+
+msgid "Um... okay."
+msgstr "Эм... ладно."
+
+msgid "(Best not...)"
+msgstr "(Лучше не надо...)"
+
+msgid "(Who knows what this floor will do to my feet...)"
+msgstr "(Кто знает, что этот пол сделает с моими ногами?..)"
+
+msgid "(This person is not human, so they will probably be fine.)"
+msgstr "(Она не человек, так что с ней всё будет нормально.)"
+
+msgid "A large skeleton of an unknown creature."
+msgstr "Скелет какого-то большого существа."
+
+msgid "Hm...?"
+msgstr "Хм?.."
+
+msgid "What died here...?"
+msgstr "Что могло тут погибнуть?.."
+
+msgid "Something big!"
+msgstr "Что-то крупное!"
+
+msgid "Oh!"
+msgstr "О!"
+
+msgid "A dragon!"
+msgstr "Дракон!"
+
+msgid "(A dragon...!?)"
+msgstr "(Дракон?!)"
+
+msgid "Was I right?!"
+msgstr "Я права?!"
+
+msgid "Huh? How should I know?"
+msgstr "А? А мне откуда знать?"
+
+msgid "Aw..."
+msgstr "Ну блин..."
+
+msgid "A large skeleton of a dragon."
+msgstr "Скелет большого дракона."
+
+msgid "(Do dragons really exist in this place...?)"
+msgstr "(Неужели драконы тут живут?..)"
+
+msgid "Isn't it so cool that humans have dragons in their world?"
+msgstr "Вот в мире людей есть драконы, это же круто!"
+
+msgid "I'd like dragons here too."
+msgstr "Вот бы они и у нас водились."
+
+msgid "(Never mind.)"
+msgstr "(Ладно, забыли.)"
+
+msgid "A large skeleton of something other than a dragon."
+msgstr "Скелет большого не дракона."
+
+msgid "We sure are walking a lot."
+msgstr "А мы немало ходим."
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "My feet don't hurt, or anything. Don't worry!"
+msgstr "Но у меня не болят ноги! Не бойся!"
+
+msgid "I bet there's no way out..."
+msgstr "Я уверена, что отсюда должен быть выход..."
+
+msgid "Hmm..."
+msgstr "Хм..."
+
+msgid "There's always a way."
+msgstr "Выход есть всегда."
+
+msgid "(Right...?)"
+msgstr "(Правильно?..)"
+
+msgid "Whoa."
+msgstr "Ого."
+
+msgid "I like that!"
+msgstr "А мне даже нравится!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "The path ends here."
+msgstr "Здесь путь обрывается."
+
+msgid "Huh...? Is there really nowhere to go from here...?"
+msgstr "Что?.. Неужели отсюда нельзя никуда прийти?"
+
+msgid "A large bone."
+msgstr "Крупная кость."
+
+msgid "A broken street lamp."
+msgstr "Разбитый фонарь."
+
+msgid "Blue mushrooms are lining the floor."
+msgstr "Здесь рядами растут синие грибы."
+
+msgid "A bunch of rubble."
+msgstr "Груда обломков."
+
+msgid "A piece of a sculpture."
+msgstr "Кусок скульптуры."
+
+msgid "A strangely-shaped pot."
+msgstr "Горшок странной формы."
+
+msgid "There's a large hole on the floor."
+msgstr "Здесь расположена большая дыра."
+
+msgid "(It's deep... and dark.)"
+msgstr "(Там глубоко... и темно.)"
+
+msgid "It doesn't seem very smart to try going down there."
+msgstr "Спрыгивать вниз - не самая умная затея."
+
+msgid "I feel like there has to be a better option than going down this hole..."
+msgstr "Мне кажется, можно сначала проверить другие места..."
+
+msgid "(We checked everywhere else but...)"
+msgstr "(Мы проверили всё, что только можно, но...)"
+
+msgid "(If I go down there... it will be impossible to come back up...)"
+msgstr "(Если я спущусь туда... то уж никак не смогу вернуться наверх...)"
+
+msgid "Go down the hole?"
+msgstr "Спуститься вниз?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?"
+msgid "No"
+msgstr "Нет"
+
+msgid "...Sigh, here we go."
+msgstr "...*Вздох*, ладно, поехали."
+
+msgid "Wanna turn back?"
+msgstr "Может, пойдём назад?"
+
+msgid "There's nowhere else to go, so we might as well explore whatever's down there."
+msgstr "Нам больше некуда пойти, так почему бы не посмотреть, что там внизу?"
+
+msgid "Okay."
+msgstr "Ладно."
+
+msgid "Going deeper down to find an exit... this isn't very smart, is it?"
+msgstr "Спускаться глубже, чтобы найти выход... звучит не очень разумно..."

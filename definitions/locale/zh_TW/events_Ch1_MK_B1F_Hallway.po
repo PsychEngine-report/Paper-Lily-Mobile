@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Psst..."
+msgstr "嘿..."
+
+msgid "Over here."
+msgstr "在這裡。"
+
+msgid "Oh. A human."
+msgstr "喔，一個人類。"
+
+msgid "I see."
+msgstr "我明白了。"
+
+msgid "Strange."
+msgstr "真奇怪。"
+
+msgid "How did you make it all the way here?"
+msgstr "妳是怎麼一路走到這裡的？"
+
+msgid "Um..."
+msgstr "嗯..."
+
+msgid "Well, no matter."
+msgstr "好吧，沒差。"
+
+msgid "This isn't ideal but..."
+msgstr "這並不理想，但是..."
+
+msgid "...It'll do, I suppose."
+msgstr "...我想，這樣就行了。"
+
+msgid "Who are you?"
+msgstr "你是誰？"
+
+msgid "I do not have a name."
+msgstr "我沒有名字。"
+
+msgid "(What was that..?)"
+msgstr "(那是什麼...？)"
+
+msgid "Miss Knives is roaming around."
+msgstr "刀子小姐在附近遊蕩。"
+
+msgid "Miss Knives..."
+msgstr "刀子小姐..."
+
+msgid "I think I met her."
+msgstr "我想我遇過她了。"
+
+msgid "Yes, I saw that."
+msgstr "是啊，看得出來。"
+
+msgid "You really brought out the \"crazy\" in her."
+msgstr "妳真的把她\"瘋狂\"的一面帶出來了。"
+
+msgid "..."
+msgstr "..."
+
+msgid "(I didn't exactly do anything...)"
+msgstr "(我沒有做什麼...)"
+
+msgid "I need to find a way out of this place."
+msgstr "我需要想辦法離開這裡。"
+
+msgid "I'm looking for a cursed door."
+msgstr "我在找一扇被詛咒的門。"
+
+msgid "Of course."
+msgstr "當然。"
+
+msgid "We have a common goal."
+msgstr "我們有共同的目標。"
+
+msgid "To avoid you wandering aimlessly until you get killed..."
+msgstr "為了避免妳毫無目的的走動，直到被殺掉..."
+
+msgid "...I'll help you."
+msgstr "...我會幫妳。"
+
+msgid "Alright."
+msgstr "好吧。"
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "Why don't you have a name?"
+msgstr "為什麼你沒有名字？"
+
+msgid "How do I get out of here?"
+msgstr "我要怎麼逃離這裡？"
+
+msgid "My items are gone"
+msgstr "我的東西都不見了"
+
+msgid "You don't have a name?"
+msgstr "你沒有名字？"
+
+msgid "I wasn't given one."
+msgstr "我沒有得到一個。"
+
+msgid "But when you live a solitary life, you don't need a name."
+msgstr "但是當你過著獨居生活，是不需要名字的。"
+
+msgid "You're free to call me what you wish."
+msgstr "妳想怎麼叫我都可以。"
+
+msgid "You humans seem to want to name everything."
+msgstr "你們人類似乎想要為所有事物命名。"
+
+msgid "I'll call you Spider."
+msgstr "我叫你蜘蛛好了。"
+
+msgid "That's a terrible name."
+msgstr "真是個糟糕的名字。"
+
+msgid "Do you call other humans \"Human\"?"
+msgstr "妳會叫其他人類\"人類\"嗎？"
+
+msgid "There are several strange objects scattered around this place."
+msgstr "有很多奇怪的物品四散在此處。"
+
+msgid "After you find them, you'll need to figure out how to unseal them."
+msgstr "在妳找到它們之後，妳必須弄清楚如何解除它們的封印。"
+
+msgid "How will I know what I'm looking for?"
+msgstr "我該怎麼知道我要找什麼？"
+
+msgid "You'll know it when you see it."
+msgstr "妳看到的時候就會知道。"
+
+msgid "...Okay."
+msgstr "...好吧。"
+
+msgid "By the way..."
+msgstr "順帶一提..."
+
+msgid "I came in here with a lot of things but... they're all gone."
+msgstr "我來到這裡的時候帶了很多東西，但是...它們都不見了。"
+
+msgid "If I don't get them back..."
+msgstr "如果我拿不回它們..."
+
+msgid "Don't worry. You'll have them if you get out of here."
+msgstr "別擔心。當妳逃離這裡的話就能拿回它們。"
+
+msgid "I hear her coming."
+msgstr "我聽到她過來了。"
+
+msgid "You need to hide."
+msgstr "妳必須躲起來。"
+
+msgid "Huh?"
+msgstr "蛤？"
+
+msgid "Go, now!"
+msgstr "快走！"
+
+msgid "Oh..."
+msgstr "喔..."
+
+msgid "The door is gone.."
+msgstr "門消失了..."
+
+msgid "The door has no keyhole."
+msgstr "這門沒有鑰匙孔。"
+
+msgid "Looks like a guest book. It has no signatures."
+msgstr "看起來像一本訪客簽到簿。上面沒有簽名。"
+
+msgid "A large couch."
+msgstr "一張大沙發。"
+
+msgid "An empty flower vase."
+msgstr "空的花瓶。"
+
+msgid "Purple flowers in a vase."
+msgstr "紫色花朵在花瓶裡。"
+
+msgid "I could use these flowers..."
+msgstr "我可以用到這些花朵..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "把花朵拿給植物嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "\"Thank you.\""
+msgstr "\"謝謝妳。\""
+
+msgid "A coat hanger."
+msgstr "掛衣架。"
+
+msgid "I'm keeping mine on."
+msgstr "我要繼續穿著我的。"
+
+msgid "A floor lamp."
+msgstr "一盞落地燈。"
+
+msgid "A portrait of a person with tentacles for a head."
+msgstr "一張以觸手為頭的人的肖像。"
+
+msgid "A portrait of a girl with very long nails."
+msgstr "一張有著非常長的指甲的女孩的肖像。"
+
+msgid "A portrait of a person with horns."
+msgstr "一張長著角的人的肖像。"
+
+msgid "A portrait of a person with a flower pot for a head."
+msgstr "一張以花盆為頭的人的肖像。"
+
+msgid "They must smell really nice."
+msgstr "它們一定聞起來很香。"
+
+msgid "A portrait of a person with a butterfly on their face."
+msgstr "一張蝴蝶在臉上的人的肖像。"
+
+msgid "Is the butterfly a part of their face? Or just resting on it?"
+msgstr "這蝴蝶是臉的一部份嗎？還是只是在上面休息？"
+
+msgid "A portrait of a person with one eye."
+msgstr "一張有著一隻眼睛的人的肖像。"
+
+msgid "A portrait of a person with blood running down their face."
+msgstr "一張血從臉上流下的人的肖像。"
+
+msgid "Can they see properly?"
+msgstr "他看得清楚嗎？"
+
+msgid "A portrait of a person with flowers for eyes."
+msgstr "一張以花朵為眼的人的肖像。"
+
+msgid "A portrait of several characters with big eyes."
+msgstr "一張有著多個大眼睛人物的肖像。"
+
+msgid "A portrait of a person with an octopus plush for a head."
+msgstr "一張以章魚肢為頭的人的肖像。"
+
+msgid "A portrait of a scary lady. There's a grinning person above it."
+msgstr "一張可怕女士的肖像。上面有個咧嘴笑的人。"
+
+msgid "Both look unsettling..."
+msgstr "兩位都看起來讓人不安..."
+
+msgid "A painting that's mostly just blue."
+msgstr "一幅大部分都是藍色的畫。"
+
+msgid "Touch it?"
+msgstr "碰觸它嗎？"
+
+msgid "A bunch of blue powder sticks to your finger."
+msgstr "一堆藍色粉末黏在妳手指上。"
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "應該很容易刮掉並蒐集更多，只要妳有東西可以裝著它。"
+
+msgid "(You wipe it off.)"
+msgstr "(妳把它擦掉。)"
+
+msgid "Creepy portraits adorn the walls."
+msgstr "詭異的肖像畫裝飾著牆面。"
+
+msgid "A broken pot where Spider was."
+msgstr "蜘蛛之前所在的破花盆。"
+
+msgid "There's something here..."
+msgstr "這裡有東西..."
+
+msgid "Take ${item:ch1.rainbow_potion_tmp}?"
+msgstr "拿走 ${item:ch1.rainbow_potion_tmp} 嗎？"
+
+msgid "A vase with a single flower."
+msgstr "有著一朵花的花瓶。"
+
+msgid "There's nothing here."
+msgstr "這裡沒有東西。"
+
+msgid "It's no use... It's just a wall now."
+msgstr "沒有用...現在只是一面牆。"
+
+msgid "You can hear someone crying inside."
+msgstr "妳聽到裡面有人在哭泣。"
+
+msgid "You can hear someone singing on the other side."
+msgstr "妳聽到另一側有人在唱歌。"

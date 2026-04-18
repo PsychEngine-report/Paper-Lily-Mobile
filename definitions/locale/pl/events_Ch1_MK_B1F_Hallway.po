@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Psst..."
+msgstr "Psst..."
+
+msgid "Over here."
+msgstr "Tutaj."
+
+msgid "Oh. A human."
+msgstr "Och. Hmm... człowiek."
+
+msgid "I see."
+msgstr "Cóż..."
+
+msgid "Strange."
+msgstr "To niebywałe."
+
+msgid "How did you make it all the way here?"
+msgstr "Jak udało ci się tu dotrzeć?"
+
+msgid "Um..."
+msgstr "Yyy..."
+
+msgid "Well, no matter."
+msgstr "To bez większego znaczenia."
+
+msgid "This isn't ideal but..."
+msgstr "Może i nie jest to najlepszy obrót spraw, ale..."
+
+msgid "...It'll do, I suppose."
+msgstr "...i tak lepsze to, niż nic."
+
+msgid "Who are you?"
+msgstr "Kim jesteś?"
+
+msgid "I do not have a name."
+msgstr "Nie mam imienia."
+
+msgid "(What was that..?)"
+msgstr "(Co to było…?)"
+
+msgid "Miss Knives is roaming around."
+msgstr "Miss Knives się krząta gdzieś w pobliżu."
+
+msgid "Miss Knives..."
+msgstr "Miss Knives..."
+
+msgid "I think I met her."
+msgstr "Chyba już ją spotkałam."
+
+msgid "Yes, I saw that."
+msgstr "Tak, miałem szansę się temu przyjrzeć."
+
+msgid "You really brought out the \"crazy\" in her."
+msgstr "I naprawdę udało ci się ją doprowadzić do szału."
+
+msgid "..."
+msgstr "..."
+
+msgid "(I didn't exactly do anything...)"
+msgstr "(Przecież nic takiego nie zrobiłam...)"
+
+msgid "I need to find a way out of this place."
+msgstr "Muszę się stąd wydostać."
+
+msgid "I'm looking for a cursed door."
+msgstr "Próbuję odnaleźć przeklęte drzwi."
+
+msgid "Of course."
+msgstr "Oczywiście."
+
+msgid "We have a common goal."
+msgstr "Mamy wspólny cel."
+
+msgid "To avoid you wandering aimlessly until you get killed..."
+msgstr "Abyś nie pałętała się tak bez celu, aż cię ktoś nie zabije..."
+
+msgid "...I'll help you."
+msgstr "...postaram się ci pomóc."
+
+msgid "Alright."
+msgstr "Zgoda."
+
+msgid "So..."
+msgstr "A więc..."
+
+msgid "Why don't you have a name?"
+msgstr "Dlaczego nie masz imienia?"
+
+msgid "How do I get out of here?"
+msgstr "Jak mogę się stąd wydostać?"
+
+msgid "My items are gone"
+msgstr "Wszystkie moje przedmioty zniknęły"
+
+msgid "You don't have a name?"
+msgstr "Nie masz imienia?"
+
+msgid "I wasn't given one."
+msgstr "Żadnego mi nie nadano."
+
+msgid "But when you live a solitary life, you don't need a name."
+msgstr "Ale gdy prowadzisz samotny tryb życia, imię nie jest ci do niczego potrzebne."
+
+msgid "You're free to call me what you wish."
+msgstr "Możesz się do mnie zwracać jak tylko zechcesz."
+
+msgid "You humans seem to want to name everything."
+msgstr "Wam, ludziom, wyraźnie potrzeba jakiejś nazwy dla wszystkiego."
+
+msgid "I'll call you Spider."
+msgstr "Nazwę cię Pająkiem."
+
+msgid "That's a terrible name."
+msgstr "Paskudne imię."
+
+msgid "Do you call other humans \"Human\"?"
+msgstr "Czy innych ludzi nazywasz \"Człowiek\"?"
+
+msgid "There are several strange objects scattered around this place."
+msgstr "W tym miejscu poukrywanych jest kilka dziwnych przedmiotów."
+
+msgid "After you find them, you'll need to figure out how to unseal them."
+msgstr "Jak je odszukasz, będziesz musiała znaleźć sposób, by je odpieczętować."
+
+msgid "How will I know what I'm looking for?"
+msgstr "Skąd będę wiedziała, czego mam szukać?"
+
+msgid "You'll know it when you see it."
+msgstr "Rozpoznasz je na pierwszy rzut oka."
+
+msgid "...Okay."
+msgstr "...Okej."
+
+msgid "By the way..."
+msgstr "Tak w ogóle..."
+
+msgid "I came in here with a lot of things but... they're all gone."
+msgstr "Miałam wcześniej przy sobie całe mnóstwo rzeczy, ale... wszystkie przepadły."
+
+msgid "If I don't get them back..."
+msgstr "Jeśli nie uda mi się ich odzyskać..."
+
+msgid "Don't worry. You'll have them if you get out of here."
+msgstr "Nie przejmuj się. Dostaniesz je wszystkie z powrotem, jak ci się już uda stąd uciec."
+
+msgid "I hear her coming."
+msgstr "Słyszę ją. Zbliża się."
+
+msgid "You need to hide."
+msgstr "Musisz się schować."
+
+msgid "Huh?"
+msgstr "Co?"
+
+msgid "Go, now!"
+msgstr "Uciekaj, ale już!"
+
+msgid "Oh..."
+msgstr "Och..."
+
+msgid "The door is gone.."
+msgstr "Drzwi zniknęły bez śladu..."
+
+msgid "The door has no keyhole."
+msgstr "Te drzwi nie mają dziurki na klucz."
+
+msgid "Looks like a guest book. It has no signatures."
+msgstr "Wygląda to na książkę meldunkową. Jest pusta."
+
+msgid "A large couch."
+msgstr "Duża sofa."
+
+msgid "An empty flower vase."
+msgstr "Pusty wazon."
+
+msgid "Purple flowers in a vase."
+msgstr "Wazon z fioletowymi kwiatami."
+
+msgid "I could use these flowers..."
+msgstr "Mogłabym ich użyć..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Przynieść kwiaty roślinie?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "\"Thank you.\""
+msgstr "\"Dziękuję.\""
+
+msgid "A coat hanger."
+msgstr "Wieszak na kurtki i płaszcze."
+
+msgid "I'm keeping mine on."
+msgstr "Nie chcę zdejmować mojej."
+
+msgid "A floor lamp."
+msgstr "Lampa stojąca."
+
+msgid "A portrait of a person with tentacles for a head."
+msgstr "Portret przedstawiający człowieka z mackami zamiast głowy."
+
+msgid "A portrait of a girl with very long nails."
+msgstr "Portret przedstawiający dziewczynę z bardzo długimi paznokciami."
+
+msgid "A portrait of a person with horns."
+msgstr "Portret przedstawiający osobę z pokaźnymi rogami."
+
+msgid "A portrait of a person with a flower pot for a head."
+msgstr "Portret przedstawiający człowieka-doniczkę z kwiatami."
+
+msgid "They must smell really nice."
+msgstr "Te kwiaty na pewno ładnie pachną."
+
+msgid "A portrait of a person with a butterfly on their face."
+msgstr "Portret przedstawiający osobę z motylem na twarzy."
+
+msgid "Is the butterfly a part of their face? Or just resting on it?"
+msgstr "Ten motyl jest częścią twarzy? Czy tylko na niej siedzi?"
+
+msgid "A portrait of a person with one eye."
+msgstr "Portret przedstawiający osobę z jednym okiem."
+
+msgid "A portrait of a person with blood running down their face."
+msgstr "Portret przedstawiający osobę, której twarz zalewa krew."
+
+msgid "Can they see properly?"
+msgstr "Czy cokolwiek w ten sposób widać?"
+
+msgid "A portrait of a person with flowers for eyes."
+msgstr "Portret przedstawiający człowieka z kwiatami zamiast oczu."
+
+msgid "A portrait of several characters with big eyes."
+msgstr "Portret przedstawiający grupę wielkookich postaci."
+
+msgid "A portrait of a person with an octopus plush for a head."
+msgstr "Portret przedstawiający człowieka z ośmiornicą zamiast głowy."
+
+msgid "A portrait of a scary lady. There's a grinning person above it."
+msgstr "Portret przedstawiający kobietę. Tuż nad nią, ktoś szczerzy zęby w uśmiechu."
+
+msgid "Both look unsettling..."
+msgstr "Obydwoje wyglądają strasznie..."
+
+msgid "A painting that's mostly just blue."
+msgstr "Obraz, na którym dominuje barwa głębokiego błękitu."
+
+msgid "Touch it?"
+msgstr "Czy chcesz go dotknąć?"
+
+msgid "A bunch of blue powder sticks to your finger."
+msgstr "Odrobina niebieskiego pyłu przykleiła ci się do palca."
+
+msgid "It should be easy to scrap off and collect more, as long as you have something to carry it with."
+msgstr "Można by go bez większego problemu zdrapać więcej i zabrać, jeśli masz go gdzie wsypać."
+
+msgid "(You wipe it off.)"
+msgstr "(Został on starty.)"
+
+msgid "Creepy portraits adorn the walls."
+msgstr "Niepokojące obrazy są porozwieszane na ścianach."
+
+msgid "A broken pot where Spider was."
+msgstr "Roztrzaskana donica, w której wcześniej siedział Pająk."
+
+msgid "There's something here..."
+msgstr "Coś tutaj leży..."
+
+msgid "Take ${item:ch1.rainbow_potion_tmp}?"
+msgstr "Wziąć ${item:ch1.rainbow_potion_tmp}?"
+
+msgid "A vase with a single flower."
+msgstr "Wazon z jednym kwiatkiem."
+
+msgid "There's nothing here."
+msgstr "Niczego tu nie ma."
+
+msgid "It's no use... It's just a wall now."
+msgstr "To na nic… Teraz jest tu solidna ściana."
+
+msgid "You can hear someone crying inside."
+msgstr "Ze środka dochodzą odgłosy czyjegoś szlochania."
+
+msgid "You can hear someone singing on the other side."
+msgstr "Jesteś w stanie usłyszeć, jak po drugiej stronie ktoś śpiewa."

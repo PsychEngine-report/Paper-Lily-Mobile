@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Um... okay..."
+msgstr "嗯...好吧..."
+
+msgid "A realistic sculpture of a man with a candle for a head."
+msgstr "一尊有着蜡烛头的逼真人物雕塑。"
+
+msgid "(What should I do?)"
+msgstr "（我该做什么？）"
+
+msgid "Touch it"
+msgstr "触碰它"
+
+msgid "Take the candle"
+msgstr "拿走蜡烛"
+
+msgid "Blow out the candle"
+msgstr "吹灭蜡烛"
+
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgid "The statue feels like stone, just as you would expect."
+msgstr "雕像摸起来就像石头，跟你预期的一样。"
+
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+msgctxt "events.Ch1_Artist_3F.misc_candleman.choice.Are you sure?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_3F.misc_candleman.choice.Are you sure?"
+msgid "No"
+msgstr "否"
+
+msgid "Leftovers of what was once a sculpture."
+msgstr "残骸，曾是雕塑。"
+
+msgid "The candle man is gone."
+msgstr "蜡烛人走了。"
+
+msgid "It's hard to tell what it says from this side."
+msgstr "从这边很难看清楚上面写的是什么。"
+
+msgid "It reads: \"Exhibit closed indefinitely. If you have complaints, please direct them back to where they came from.\""
+msgstr "上面写道：\"画廊无限期关闭。 如果您有任何投诉意见，请将其捎给意见本人。\""
+
+msgid "The sculpture is either broken or unfinished. You can't really tell."
+msgstr "这尊雕像要么是坏了，要么是没完成。你说不准。"
+
+msgid "A tall vase."
+msgstr "一个高大的花瓶。"
+
+msgid "Reach inside?"
+msgstr "要伸手进去吗？"
+
+msgctxt "events.Ch1_Artist_3F.misc_vase.choice.Reach inside?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Artist_3F.misc_vase.choice.Reach inside?"
+msgid "No"
+msgstr "否"
+
+msgid "..."
+msgstr "..."
+
+msgid "...tired..."
+msgstr "...累..."
+
+msgid "...so....tired...."
+msgstr "...好...累..."

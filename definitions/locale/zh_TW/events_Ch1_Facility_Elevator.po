@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A floor indicator."
+msgstr "樓層標示。"
+
+msgid "The elevator has no power, so the indicator lights are off."
+msgstr "電梯沒有電，所以標示燈是暗的。"
+
+msgid "Where to?"
+msgstr "去哪裡？"
+
+msgid "B1F"
+msgstr "B1F"
+
+msgid "B2F"
+msgstr "B2F"
+
+msgid "B3F"
+msgstr "B3F"
+
+msgid "B4F"
+msgstr "B4F"
+
+msgid "Never mind"
+msgstr "算了"
+
+msgid "Nothing happens."
+msgstr "什麼事也沒發生。"
+
+msgid "The button is not responding."
+msgstr "按鈕沒有反應。"
+
+msgid "An emblem that looks like an eye of some sort."
+msgstr "看起來像是眼睛的標誌。"
+
+msgid "The doors are stuck..."
+msgstr "門被卡住了..."

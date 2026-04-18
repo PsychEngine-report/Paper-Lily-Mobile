@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This locker has no keyhole."
+msgstr "Tủ đồ này không có lỗ khóa."
+
+msgid "They're already open, so there's nothing to cut."
+msgstr "Thùng mở cả rồi, không có cái gì để cắt."
+
+msgid "Boxes filled to the brim with cleaning products."
+msgstr "Mấy cái thùng đầy ắp dụng cụ quét dọn."
+
+msgid "It's packed with white chalk and nothing else."
+msgstr "Nhồi chật cứng trong thùng toàn là phấn viết màu trắng mà thôi."
+
+msgid "This must be like... a year's supply."
+msgstr "Thế này hẳn là... phần cho cả năm luôn ấy."
+
+msgctxt "events.Prologue_Ending_K7_1.misc_boxes2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "They're packed too tightly, I can't pull any out."
+msgstr "Bị nhồi chặt cứng ngắc, chả lôi cái gì ra được."
+
+msgid "Some boxes filled with left shoes and lighters."
+msgstr "Vài cái thùng chứa đầy giày trái và bật lửa."
+
+msgid "Some brand new brooms."
+msgstr "Vài cây chổi mới tinh."
+
+msgid "A calendar... probably."
+msgstr "Bộ lịch... chắc thế."
+
+msgid "There are no dates or month names in it."
+msgstr "Mà chả thấy đề ngày lẫn ghi tháng gì."
+
+msgid "A cleaning cart."
+msgstr "Xe quét dọn."
+
+msgid "It's sparkling clean."
+msgstr "Là đồ mới cáu."
+
+msgid "A lamp. There's no light bulb nor a slot to place one."
+msgstr "Cái đèn. Không có cả bóng đèn lẫn chỗ gắn bóng đèn."
+
+msgid "A large locker. It's sealed shut."
+msgstr "Tủ đồ lớn. Đang bị khóa cứng."
+
+msgid "A trash can. You can't see the bottom."
+msgstr "Thùng rác. Không thấy được đáy."
+
+msgid "That's... weird."
+msgstr "Sao... kì ta?"
+
+msgid "What is?"
+msgstr "Gì kì?"
+
+msgid "The existence of this room... makes no sense."
+msgstr "Sự tồn tại của căn phòng này... rất phi lý."
+
+msgid "What do you mean?"
+msgstr "Ý mày là sao?"
+
+msgid "Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside."
+msgstr "Xét về hình dáng ngôi trường thì không thể có căn phòng nào ở đây được. Chứ mà nhìn từ ngoài thì căn phòng sẽ trông như đang lơ lửng trên không."
+
+msgid "Interesting..."
+msgstr "Thú vị đấy..."
+
+msgid "But... we didn't even finish the ritual! What's happening?"
+msgstr "Ơ mà... nghi thức đã xong đâu! Rốt cuộc là sao đây?"
+
+msgid "I don't know..."
+msgstr "Chịu..."
+
+msgid "Isn't it exciting!?"
+msgstr "Mà không thấy háo hức à!?"
+
+msgctxt "events.Prologue_Ending_K7_1.move_enter.dlg.prologue_girl1"
+msgid "..."
+msgstr "..."
+
+msgid "Let's keep going."
+msgstr "Tiến lên phía trước thôi."

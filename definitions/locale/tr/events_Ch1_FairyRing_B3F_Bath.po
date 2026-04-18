@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's... a dead end?"
+msgstr "Bu bir...çıkmaz sokak?"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What now?"
+msgstr "Şimdi ne olacak?"
+
+msgid "We're gonna die here, aren't we?"
+msgstr "Burada öleceğiz, değil mi?"
+
+msgid "I don't know."
+msgstr "Bilmiyorum."
+
+msgid "Oh god... I really hoped I wouldn't be right."
+msgstr "Tanrım... cidden yanıldığımı umuyorum."
+
+msgid "I should have known. Of course it's a dead end."
+msgstr "Bilmeliydim. Tabii ki de çıkmaz sokak."
+
+msgid "But I felt more confident walking around with you... so I thought..."
+msgstr "Ama etrafta senin ile yürürken daha özgüvenli hissettim... ben sandım ki..."
+
+msgid "Please, let me think."
+msgstr "Lütfen, düşünmeme izin ver."
+
+msgid "(Think Lacie...)"
+msgstr "(Düşün Lacie...)"
+
+msgid "(Is there really no way out..?)"
+msgstr "(Cidden bir çıkış yolu yok mu...?)"
+
+msgid "Can't we break the ground above us and just climb out?"
+msgstr "Üstümüzdeki yeri kırıp tırmanamaz mıyız?"
+
+msgid "How?"
+msgstr "Nasıl?"
+
+msgid "Well...."
+msgstr "Şey...."
+
+msgid "...I don't know."
+msgstr "...bilmiyorum."
+
+msgid "Sorry, that was stupid."
+msgstr "Üzgünüm, bu aptalcaydı."
+
+msgid "(Can I call someone?)"
+msgstr "(Birini arayabilir miyim?)"
+
+msgid "(There's no signal though...)"
+msgstr "(Gerçi sinyal yok...)"
+
+msgid "(But... it worked before...)"
+msgstr "(Ama...daha önce işe yaradı...)"
+
+msgid "(It doesn't work...)"
+msgstr 	"(İşe yaramıyor...)"
+
+msgid "Say..."
+msgstr "Hey..."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Will you tell me your name? Since we might be dying anyway..."
+msgstr "Bana ismini söyler misin? Her şekilde ölebileceğimize göre..."
+
+msgid "It's Lacie."
+msgstr "Adım Lacie."
+
+msgid "Oh... that's such a nice name."
+msgstr "Oh...bu çok güzel bir isim."
+
+msgid "...Thanks."
+msgstr "...Teşekkürler."
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "After that, we stayed in silence for a few minutes."
+msgstr "Ondan sonra, birkaç dakika boyunca sessiz kaldık."
+
+msgid "I tried thinking of options at first, but quickly ran out of alternatives."
+msgstr "İlk başta seçenekler düşünmeyi denedim,ama hızlıca alternatiflerim tükendi."
+
+msgid "Maybe there really was no way out this time."
+msgstr "Belki de bu sefer cidden bir çıkış yolu yoktur."
+
+msgid "Through all of this, Aoi was awfully quiet."
+msgstr "Bunların hepsi boyunca, Aoi fazlasıyla sessizdi."
+
+msgid "Um... hey."
+msgstr "Um...hey."
+
+msgid "Mhm..?"
+msgstr "Mhm...?"
+
+msgid "Don't panic. It won't solve anything."
+msgstr "Panik yapma. Bu hiçbir şeyi çözmez."
+
+msgid "What makes you think I'm panicking?"
+msgstr "Sana paniklediğimi düşündüren nedir?"
+
+msgid "You're melting."
+msgstr "Eriyorsun."
+
+msgid "O-Oh right..."
+msgstr "O-Oh doğru..."
+
+msgid "No panic... no panic..."
+msgstr "Panik yok... panik yok ..."
+
+msgid "Wait... you're melting."
+msgstr "Bekle... sen eriyorsun."
+
+msgid "YES, I KNOW!"
+msgstr "EVET, BİLİYORUM!"
+
+msgid "I can't stop!!!"
+msgstr "Duramıyorum!!!"
+
+msgid "No, Aoi!"
+msgstr "Hayır, Aoi!"
+
+msgid "I have an idea."
+msgstr "Bir fikrim var."
+
+msgid "Huh!?"
+msgstr "Huh!?"
+
+msgid "There's a drain."
+msgstr "Bir boru var."
+
+msgid "...AND!?"
+msgstr "...VE!?"
+
+msgid "Where do you think it leads?"
+msgstr "Nereye gittiğini düşünüyorsun?"
+
+msgid "You want me..."
+msgstr "Sen benim..."
+
+msgid "You want me to go through the drain!?"
+msgstr "Sen benim o pis su borusundan geçmemi mi istiyorsun!?"
+
+msgid "Even if I do... you can't come with me."
+msgstr "Öyle olsa bile...benimle gelemezsin."
+
+msgid "...Yeah."
+msgstr "...Evet."
+
+msgid "I-I got it, don't worry! If this leads anywhere, I'll find a way to get you out!"
+msgstr "A-anladım, endişelenme! Eğer bir yere çıkıyorsa, seni çıkaratacak bir yol bulacağım!"
+
+msgid "Just stay put!"
+msgstr "Sadece sabit kal!"
+
+msgid "Really?"
+msgstr "Gerçekten mi?"
+
+msgid "YEAH!"
+msgstr "EVET!"
+
+msgid "Well, let's hope there's a way."
+msgstr "Pekala, umalım ki bir yol olsun."
+
+msgid "There's gotta be a way!"
+msgstr "Bir yol olmak zorunda!"
+
+msgid "Okay... well... Here goes."
+msgstr "Tamam...peki...başlıyorum."
+
+msgid "(Was that a good idea...?)"
+msgstr "(İyi bir fikir miydi...?)"
+
+msgid "How long has it been..."
+msgstr "Ne kadar oldu..."
+
+msgid "Did I seriously just trust a demon with my life?"
+msgstr "Az önce cidden hayatımı bir iblise mi emanet ettim?"
+
+msgid "Did I seriously just trust a spirit with my life?"
+msgstr "Az önce cidden hayatımı bir ruha mı emanet ettim?"
+
+msgid "Aoi might not even come back."
+msgstr "Aoi geri gelmeyebilir bile."
+
+msgid "Wait, Aoi could have died for all I know..."
+msgstr "Bekle, Aoi ölmüş bile olabilir..."
+
+msgid "What did I do..."
+msgstr "Ben ne yaptım..."
+
+msgid "Did I seriously just send Aoi down the drain to die..."
+msgstr "Cidden Aoi'yi o borudan ölümüne mi gönderdim...?"
+
+msgid "I should have said goodbye to Hiro when I had the chance..."
+msgstr "Şansım varken Hiro'ya veda etmeliydim..."
+
+msgid "It felt like days have gone by."
+msgstr "Günler geçmiş gibi hissettirdi."
+
+msgid "I don't know exactly how long it's been."
+msgstr "Kesin olarak ne kadar olduğunu bilmiyorum..."
+
+msgid "But my phone battery died a long time ago..."
+msgstr "Ama telefon şarjım biteli çok oluyor..."
+
+msgid "...And I fell asleep for a while too."
+msgstr "...Ve bende bir süre uyuyakaldım."
+
+msgid "Despite this... I don't feel hungry or thirsty..."
+msgstr "Buna rağmen... aç veya susamış hissetmiyorum..."
+
+msgid "I don't have hope that Aoi will come back anymore."
+msgstr "Aoi'nin geri döneceğine dair bir umudum yok artık."
+
+msgid "I don't think anyone will come."
+msgstr "Herhangi birinin geleceğini düşünmüyorum."
+
+msgid "I can't believe it... I threw in everything I had..."
+msgstr "Buna inanamıyorum...sahip olduğum her şeyi attım..."
+
+msgid "I even threw in the fish that was here, I have nothing else I can use..."
+msgstr "Burada olan balığı bile attım, kullanabileceğim başka hiçbir şey yok..."
+
+msgid "Is there really nothing I can feed this thing...? Is there nothing I can do to save Lacie?"
+msgstr "Bu şeyi beslemek için yapabileceğim hiçbir şey yok mu cidden...? Lacie yi kurtarmak için yapabileceğim hiçbir şey yok mu?"
+
+msgctxt "events.Ch1_FairyRing_B3F_Bath.event_end.dlg.aoi"
+msgid "There's always a way..."
+msgstr "Her zaman bir yol vardır..."
+
+msgid "Think... think..."
+msgstr "Düşün...düşün..."
+
+msgid "Oh... oh god..."
+msgstr "Oh...oh Tanrım..."
+
+msgid "A bath tub."
+msgstr "Bir küvet."
+
+msgid "Why is there a bathtub in a place like this?"
+msgstr "Neden böyle bir yerde küvet var ki?"
+
+msgid "Maybe the faeries take baths here?"
+msgstr "Belki de periler burada banyo ediyordur?"
+
+msgid "At least it's not full of blood or something."
+msgstr "En azından kan veya başka bir şey ile dolu değil."

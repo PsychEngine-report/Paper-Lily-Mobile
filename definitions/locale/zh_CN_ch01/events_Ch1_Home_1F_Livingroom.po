@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a pair of white shoes with red shoelaces."
+msgstr "这里有一双白色的鞋，鞋带是红色的。"
+
+msgid "The shoelaces could be useful."
+msgstr "这个鞋带可能有用。"
+
+msgid "Take ${item:ch1.shoelaces}?"
+msgstr "要取走${item:ch1.shoelaces}吗？"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "It's already done."
+msgstr "已经完成了。"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "（你把盐洒在了入口处。）"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "It's already done."
+msgstr "已经完成了。"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator"
+msgid "(You scattered salt on the entrance.)"
+msgstr "（你把盐洒在了入口处。）"
+
+msgid "Something is written here:"
+msgstr "这里写着什么东西："
+
+msgid "\"When was the last time you ate here? Have you forgotten?\""
+msgstr "“上次你在这里吃东西是什么时候？你忘了吗？”"
+
+msgid "A bookshelf with random decorative books."
+msgstr "一个书架，上面随意摆放着一些装饰性书籍。"
+
+msgid "There's also a few neatly-aligned office supplies."
+msgstr "这里还有一些放得整整齐齐的办公用品。"
+
+msgid "Red marker. Perfect."
+msgstr "红色马克笔。太棒了。"
+
+msgid "Take ${item:ch1.marker}?"
+msgstr "要取走${item:ch1.marker}吗？"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?"
+msgid "No"
+msgstr "否"
+
+msgid "A large sofa. Hiro often falls asleep here."
+msgstr "巨大的沙发。希罗经常在这上面睡着。"
+
+msgid "A small couch that used to be your favorite."
+msgstr "这曾是你最喜欢的小沙发。"
+
+msgid "A box and a plant sit on top of the cupboard."
+msgstr "柜子顶上放着一个盒子和一盆植物。"
+
+msgid "A large cupboard that could fit a person."
+msgstr "一个可以容纳一个人的大柜子。"
+
+msgid "Some decorative plates."
+msgstr "一些装饰性的盘子。"
+
+msgid "A painting of a sleeping cat."
+msgstr "一幅睡着的猫咪画像。"
+
+msgid "A painting of..."
+msgstr "一幅..."
+
+msgid "Huh? Wasn't this cat sleeping...?"
+msgstr "诶？这只猫之前不是在睡觉吗...？"
+
+msgid "A painting of a cat stares you down."
+msgstr "一幅盯着你看的猫咪画像。"
+
+msgid "Some bills."
+msgstr "一些账单。"
+
+msgid "Some pictures of places around the world."
+msgstr "一些世界各地的照片。"
+
+msgid "Mother and father go on trips a lot..."
+msgstr "妈妈和爸爸经常出去旅行..."
+
+msgid "I don't even know where they are right now."
+msgstr "我甚至都不知道他们现在在哪。"
+
+msgid "A tall plant."
+msgstr "一株很高的植物。"
+
+msgid "A pretty plant."
+msgstr "一株很漂亮的植物。"
+
+msgid "A pink plant."
+msgstr "一株粉色的植物。"
+
+msgid "The TV remote."
+msgstr "电视遥控器。"
+
+msgid "Turn the TV on?"
+msgstr "要打开电视吗？"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?"
+msgid "No"
+msgstr "否"
+
+msgid "Turn the TV off?"
+msgstr "要关闭电视吗？"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?"
+msgid "No"
+msgstr "否"
+
+msgid "A shelf containing mainly glassware."
+msgstr "一个架子，摆放着的主要是玻璃器皿。"
+
+msgid "It would definitely hurt if this fell on top of somebody."
+msgstr "如果这东西倒在别人身上的话，肯定会很疼。"
+
+msgid "Some books on gardening."
+msgstr "一些园艺书籍。"
+
+msgid "A shoe rack, full of shoes of various colors."
+msgstr "一个鞋架，上面摆满了各种颜色的鞋子。"
+
+msgid "Slippers to change into."
+msgstr "可供更换的拖鞋。"
+
+msgid "The footprints come from under the table..."
+msgstr "这些脚印来自桌子底下..."
+
+msgid "But there's nothing there."
+msgstr "但是那里什么也没有。"
+
+msgid "The family dining table."
+msgstr "家庭餐桌。"
+
+msgid "We don't eat here as much anymore."
+msgstr "我们已经很少在这里吃饭了。"
+
+msgid "A coffee table. The plants get in the way sometimes."
+msgstr "一张茶几。这些植物有时会很碍事。"
+
+msgid "Footprints leading outside. They don't look like normal feet..."
+msgstr "脚印通向外面。它们看起来不像正常的脚..."
+
+msgid "A TV."
+msgstr "一台电视。"
+
+msgid "It's a program about cars... Or is it a trailer for a video game?"
+msgstr "这是关于汽车的节目...还是说这其实是一个游戏的预告片？"
+
+msgid "Just animal videos, I guess."
+msgstr "只是动物视频吧，我猜。"
+
+msgid "\"Give them bread and cats and they will never revolt.\""
+msgstr "\"只需要给他们面包和猫咪，他们就永远不会造反啦。\""
+
+msgid "There's an anime about magical girls I recently started watching."
+msgstr "我最近开始看一部关于魔法少女的动画片了。"
+
+msgid "People on the net say it gets dark... but I haven't seen anything bad so far."
+msgstr "网上有人说后面会黑化... 但到目前为止我觉得还算正常。"
+
+msgid "This is unsettling... Let's turn it off."
+msgstr "这个让人很不安...把它关掉吧。"
+
+msgid "..."
+msgstr "..."
+
+msgid "An umbrella basket."
+msgstr "一个伞篮。"
+
+msgid "An umbrella basket. It often gets kicked around by accident."
+msgstr "一个伞篮。它经常被不小心踢来踢去。"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_backyard.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "我已经在外面呆够了。"
+
+msgctxt "events.Ch1_Home_1F_Livingroom.move_exit.dlg.lacie"
+msgid "I've been outside enough for now."
+msgstr "我已经在外面呆够了。"
+
+msgid "This is the laundry room."
+msgstr "这里是洗衣房。"
+
+msgid "I'll never understand why doors around the house need to be locked."
+msgstr "我一直想不明白，为什么家里的门都要上锁。"
+
+msgid "Maybe Hiro has the key..."
+msgstr "可能希罗有钥匙..."
+
+msgid "...but I don't need anything from there."
+msgstr "...但是我不需要里面的东西。"
+
+msgid "The laundry room. It's locked."
+msgstr "洗衣房。锁住了。"

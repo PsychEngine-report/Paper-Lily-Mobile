@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It seems to like the white tree."
+msgstr "Изглежда, че му харесва бялото дърво."
+
+msgid "Take ${item:ch1.doorknob_grave}?"
+msgstr "Вземи ${item:ch1.doorknob_grave}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Fallen white leaves surround the tree."
+msgstr "Паднали бели листа обграждат дървото."
+
+msgid "Take some ${item:ch1.lakeside_petals_white}?"
+msgstr "Вземи малко ${item:ch1.lakeside_petals_white}?"
+
+msgid "A wooden log."
+msgstr "Дървен дънер."
+
+msgid "It's too short to use as a bridge."
+msgstr "Твърде късо е, за да използвам като мост."
+
+msgid "I could use this to cross the river..."
+msgstr "Мога да използвам това за да прекося реката…"
+
+msgid "Push it into the water?"
+msgstr "Бутнете го във водата?"
+
+msgid "Something's weird about this spot, but you don't know what it is."
+msgstr "Нещо странно има на това място, но не знаеш какво е то."
+
+msgid "It's just trees... right?"
+msgstr "Просто дървета… нали?"
+
+msgid "The passage is camouflaged."
+msgstr "Проходът е замаскиран."
+
+msgid "There's no way to open it from this side."
+msgstr "От тази страна няма никакъв начин да се отвори."
+
+msgid "A beautiful tree with white leaves."
+msgstr "Красиво дърво с бели листа."
+
+msgid "It's too far to jump."
+msgstr "Твърде далеч е за скок."
+
+msgid "The river fades into obscurity."
+msgstr "Реката изчезва в неизвестност."
+
+msgid "White leaves cover the ground."
+msgstr "Бели листа покриват земята."

@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Um... okay..."
+msgstr "Ừm... ô kê..."
+
+msgid "A realistic sculpture of a man with a candle for a head."
+msgstr "Bức điêu khắc tả thực người đàn ông có cây nến làm thành cái đầu."
+
+msgid "(What should I do?)"
+msgstr "(Mình nên làm gì đây?)"
+
+msgid "Touch it"
+msgstr "Chạm vào nó"
+
+msgid "Take the candle"
+msgstr "Lấy cây nến"
+
+msgid "Blow out the candle"
+msgstr "Thổi tắt cây nến"
+
+msgid "Do nothing"
+msgstr "Không làm gì cả"
+
+msgid "The statue feels like stone, just as you would expect."
+msgstr "Bức tượng thấy giống như đá, đúng như bạn trông đợi."
+
+msgid "Are you sure?"
+msgstr "Bạn chắc chứ?"
+
+msgctxt "events.Ch1_Artist_3F.misc_candleman.choice.Are you sure?"
+msgid "Yes"
+msgstr "Chắc"
+
+msgctxt "events.Ch1_Artist_3F.misc_candleman.choice.Are you sure?"
+msgid "No"
+msgstr "Không"
+
+msgid "Leftovers of what was once a sculpture."
+msgstr "Thứ còn lại của cái từng là bức điêu khắc."
+
+msgid "The candle man is gone."
+msgstr "Ông người nến đi mất rồi."
+
+msgid "It's hard to tell what it says from this side."
+msgstr "Nhìn từ phía này khó mà biết được nó ghi gì."
+
+msgid "It reads: \"Exhibit closed indefinitely. If you have complaints, please direct them back to where they came from.\""
+msgstr "Ghi là: \"Triển lãm đóng cửa vô thời hạn. Nếu quý vị có phàn nàn, xin hãy gửi trả lại về nơi xuất phát.\""
+
+msgid "The sculpture is either broken or unfinished. You can't really tell."
+msgstr "Bức điêu khắc đây hoặc là bị vỡ hoặc là chưa hoàn thành. Bạn chẳng biết nổi."
+
+msgid "A tall vase."
+msgstr "Chiếc bình cao."
+
+msgid "Reach inside?"
+msgstr "Thò vào trong chứ?"
+
+msgctxt "events.Ch1_Artist_3F.misc_vase.choice.Reach inside?"
+msgid "Yes"
+msgstr "Thò vào"
+
+msgctxt "events.Ch1_Artist_3F.misc_vase.choice.Reach inside?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "..."
+msgstr "..."
+
+msgid "...tired..."
+msgstr "...mệt..."
+
+msgid "...so....tired...."
+msgstr "...mệt....quá...."

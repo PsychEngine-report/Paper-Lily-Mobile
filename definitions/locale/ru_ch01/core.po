@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "On"
+msgstr "Включено"
+
+msgid "Off"
+msgstr "Выключено"
+
+msgid "Auto"
+msgstr "Автоматически"
+
+msgid "Next"
+msgstr "Далее"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgctxt "system.common.cancel"
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Key"
+msgstr "Клавиша"
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Axis"
+msgstr "Ось"
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "Controller"
+msgstr "Клавиатура"
+
+msgid "New Game"
+msgstr "Новая игра"
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid "Website"
+msgstr "Веб-сайт"
+
+msgid "Itch.io Page"
+msgstr "Страничка на Itch.io"
+
+msgid "Translator Page"
+msgstr "Страничка переводчика"
+
+msgid "Kickstarter"
+msgstr "Страничка на Kickstarter"
+
+msgid "Save"
+msgstr "Сохраниться"
+
+msgid "Save Game"
+msgstr "Сохранить игру"
+
+msgid "SLOT {0}"
+msgstr "СЛОТ СОХРАНЕНИЯ {0}"
+
+msgid "<EMPTY>"
+msgstr "<ПУСТО>"
+
+msgid "CORRUPTED"
+msgstr "ПОВРЕЖДЕНО"
+
+msgid "OBSOLETE"
+msgstr "НЕДОСТУПНО"
+
+msgid "Unknown Location"
+msgstr "Неизвестное место"
+
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "Вы уверены, что хотите перезаписать это сохранение?"
+
+msgid "Load"
+msgstr "Загрузить"
+
+msgid "Load Game"
+msgstr "Загрузить"
+
+msgid "Quit"
+msgstr "Выйти"
+
+msgid "Debug Room"
+msgstr "Комната отладки"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Inventory"
+msgstr "Инвентарь"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Objectives"
+msgstr "Задания"
+
+msgid "(There are no objectives)"
+msgstr "(Нет заданий)"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Log"
+msgstr "Журнал"
+
+msgid "Extras"
+msgstr "Дополнительно"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Credits"
+msgstr "Авторы"
+
+msgid "{0} Select {1} Back"
+msgstr "{0} Выбрать {1} Назад"
+
+msgid "Go to Debug Room"
+msgstr "Отправиться в комнату отладки"
+
+msgid "Quit to Title Screen"
+msgstr "Выйти в главное меню"
+
+msgid "Quit to Desktop"
+msgstr "Выйти на рабочий стол"
+
+msgid "Are you sure you want to quit? Unsaved progress will be lost."
+msgstr "Вы уверены, что хотите выйти? Несохранённый прогресс будет утерян."
+
+msgid "Game Paused!"
+msgstr "Игра остановлена!"
+
+msgid "{0}{1} Select {2} Confirm"
+msgstr "{0}{1} Выбрать {2} Подтвердить"
+
+msgid "Coins: {0}"
+msgstr "Монеты: {0}"
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid "Down"
+msgstr "Вниз"
+
+msgid "Left"
+msgstr "Влево"
+
+msgid "Right"
+msgstr "Вправо"
+
+msgid "Action/OK"
+msgstr "Действие/ОК"
+
+msgctxt "system.actions.cancel"
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Run"
+msgstr "Бежать"
+
+msgid "Special"
+msgstr "Особое действие"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Battery Saver Mode"
+msgstr "Энергосберегающий режим"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "Contrast"
+msgstr "Контраст"
+
+msgid "FPS Limit"
+msgstr "Лимит FPS"
+
+msgid "Unlocked"
+msgstr "Без ограничений"
+
+msgid "V-Sync"
+msgstr "Вертикальная синхронизация"
+
+msgid "G-Sync"
+msgstr "G-Sync"
+
+msgid "Comp.V-Sync"
+msgstr "Монитор"
+
+msgid "Full Screen"
+msgstr "Полноэкранный режим"
+
+msgid "Internal Resolution"
+msgstr "Внутр. разрешение"
+
+msgid "Gamma"
+msgstr "Гамма"
+
+msgid "Renderer"
+msgstr "Рендер"
+
+msgid "OpenGL ES 2.x"
+msgstr "OpenGL ES 2.x"
+
+msgid "OpenGL ES 3.x"
+msgstr "OpenGL ES 3.x"
+
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgid "Window Size"
+msgstr "Размер окна"
+
+msgid "Saturation"
+msgstr "Насыщенность"
+
+msgid "General Volume"
+msgstr "Общий звук"
+
+msgid "BGM Volume"
+msgstr "Громкость музыки"
+
+msgid "SFX Volume"
+msgstr "Громкость эффектов"
+
+msgid "Interface Volume"
+msgstr "Громкость интерфейса"
+
+msgid "Text Scrolling Volume"
+msgstr "Громкость появления текста"
+
+msgid "Mute All Audio"
+msgstr "Выключить весь звук"
+
+msgid "Hide Mouse Cursor"
+msgstr "Скрыть курсор"
+
+msgid "Objective Notifications"
+msgstr "Уведомлять об обновлениях заданий"
+
+msgid "Sound Settings"
+msgstr "Звук"
+
+msgid "Screen Settings"
+msgstr "Экран"
+
+msgid "Control Settings"
+msgstr "Управление"
+
+msgid "Invalid custom controls: All actions need to be assigned!"
+msgstr "Ошибка: Все действия должны быть назначены!"
+
+msgid "Game Settings"
+msgstr "Игра"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+msgid "Classic"
+msgstr "Классическое"
+
+msgid "WASD"
+msgstr "WASD"
+
+msgid "Azerty Classic"
+msgstr "Раскладка Azerty"
+
+msgid "Azerty WASD"
+msgstr "Раскладка Azerty WASD"
+
+msgid "Dvorak Classic"
+msgstr "Раскладка Дворжака"
+
+msgid "Dvorak WASD"
+msgstr "Раскладка WASD Дворжака"
+
+msgid "Xbox"
+msgstr "Геймпад Xbox"
+
+msgid "DualShock 4"
+msgstr "DualShock 4"
+
+msgid "DualShock 4 (JP)"
+msgstr "DualShock 4 (Японское)"
+
+msgid "Switch Pro"
+msgstr "Switch Pro"
+
+msgid "Generic"
+msgstr "Обычный геймпад"
+
+msgid "Custom"
+msgstr "Собственное"
+
+msgid "Press a key to assign to {0}..."
+msgstr "Какую клавишу назначить на {0}:"
+
+msgid "Press a button to assign to {0}..."
+msgstr "Какую кнопку назначить на {0}:"
+
+msgid "Auto Switch"
+msgstr "Автопереключение"
+
+msgid "Controller Deadzone"
+msgstr "Мёртвая зона контроллера"
+
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+msgid "Revert Settings to Default"
+msgstr "Сбросить настройки"
+
+msgid "Not recommended"
+msgstr "Не рекомендуется"
+
+msgid "Restart required"
+msgstr "Необходим перезапуск"
+
+msgid "Current: {0}"
+msgstr "Сейчас: {0}"
+
+msgid "Hold to Fast Forward"
+msgstr "Пропускать диалоги удержанием кнопки"
+
+msgid "Show Skip Option"
+msgstr "Показывать возможность пропуска"
+
+msgid "Language Settings"
+msgstr "Язык"
+
+msgid "Select Language"
+msgstr "Выберите язык"
+
+msgid "Unofficial Translations"
+msgstr "Неофициальные переводы"
+
+msgid "More..."
+msgstr "Ещё..."
+
+msgid ""
+"Attention!\n"
+"\n"
+"You're about to view unofficial translations. These translations are\n"
+"not developed by Leef 6010 and we take no responsibility for their accuracy.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"Внимание!\n"
+"\n"
+"Вы собираетесь просмотреть неофициальные переводы. Эти переводы\n"
+"не разработаны Leef 6010, и мы не несем ответственности за их точность.\n"
+"\n"
+"Продолжить?"
+
+msgid "Objectives Updated!"
+msgstr "Задания обновлены!"
+
+msgid "(Done)"
+msgstr "(Готово)"
+
+msgid "{0} Give Up {1} Reset"
+msgstr "{0} Сдаться {1} Начать сначала"
+
+msgid "{0} Slow"
+msgstr "{0} Медленно"
+
+msgid "{0} Next"
+msgstr "{0} Далее"
+
+msgid "{0} Okay"
+msgstr "{0} Понятно"
+
+msgid "Obtained {0} {1}"
+msgstr "Получен предмет: {0} {1}"
+
+msgid "Designed By"
+msgstr "История"
+
+msgid "Art"
+msgstr "Арт-дизайн"
+
+msgid "Programming"
+msgstr "Программирование"
+
+msgid "Playtesting"
+msgstr "Тестировщики"
+
+msgid "Fonts"
+msgstr "Шрифты"
+
+msgid "UI Design"
+msgstr "Дизайн интерфейса"
+
+msgid "Additional UI Design"
+msgstr "Доп. дизайн интерфейса"
+
+msgid "Paper Lily Logo"
+msgstr "Логотип \"Paper Lily\""
+
+msgid "Paper Lily OST"
+msgstr "Саундтрек \"Paper Lily\""
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Additional Music"
+msgstr "Дополнительная музыка"
+
+msgid "SFX"
+msgstr "Звуковые эффекты"
+
+msgid "Additional Shaders & Special Effects"
+msgstr "Дополнительные шейдеры и спецэффекты"
+
+msgid "Japanese Communications"
+msgstr "Связь с общественностью в Японии"
+
+msgid "Korean Communications"
+msgstr "Связь с общественностью в Корее"
+
+msgid "Additional Assets"
+msgstr "Дополнительные ассеты"
+
+msgid "Special Thanks"
+msgstr "Особая благодарность"
+
+msgid "Created By"
+msgstr "Авторы"
+
+msgid "Made Using"
+msgstr "Сделано с помощью"
+
+msgid "Godot Engine"
+msgstr "Движка \"Godot Engine\""
+
+msgid "Thank You for Playing!"
+msgstr "Спасибо за игру!"
+
+msgid "You Died"
+msgstr "Вы погибли"
+
+msgid "Retry"
+msgstr "Попробовать снова"
+
+msgid "Give Up"
+msgstr "Сдаться"

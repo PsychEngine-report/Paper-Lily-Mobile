@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "Essa ilusão deveria se desfazer agora, não deveria?"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "Que pena, eu estava começando a gostar deste lugar."
+
+msgid "..."
+msgstr "..."
+
+msgid "That's probably not good..."
+msgstr "Provavelmente isso não é bom..."
+
+msgid "Did you see that? The painting opened its eyes!"
+msgstr "Você viu aquilo? A pintura abriu os olhos!"
+
+msgid "Um... did you burn the things in the right order?"
+msgstr "Hum... você queimou as coisas na ordem certa?"
+
+msgid "I... think... so?"
+msgstr "Eu... acho.... que sim?"
+
+msgid "Did I do something wrong...?"
+msgstr "Fiz algo de errado...?"
+
+msgid "Was the illusion supposed to LITERALLY break apart?"
+msgstr "A ilusão deveria LITERALMENTE se desfazer?"
+
+msgid "I don't know...!"
+msgstr "Não sei...!"
+
+msgid "Maybe we should leave..."
+msgstr "Talvez devêssemos ir embora..."
+
+msgid "Oh crap, the doors are gone!"
+msgstr "Droga, as portas sumiram!"
+
+msgid "What do I do...? I need to get out of here!"
+msgstr "O que eu faço...? Eu preciso sair daqui!"
+
+msgid "Hey, be careful."
+msgstr "Ei, tenha cuidado."
+
+msgid "....."
+msgstr "....."
+
+msgid "(My foot... it hurts...!)"
+msgstr "(Meu pé... está doendo...!)"
+
+msgid "(Where are we...?)"
+msgstr "(Onde estamos...?)"
+
+msgid "We need to find a way out..."
+msgstr "Precisamos encontrar uma saída..."
+
+msgid "Yeahh.... WELL..."
+msgstr "Certo... BEM..."
+
+msgid "About that..."
+msgstr "Sobre isso..."
+
+msgid "I..."
+msgstr "Eu..."
+
+msgid "...might have landed on something hard."
+msgstr "...posso ter caído em algo duro."
+
+msgid "Doesn't look great."
+msgstr "Não parece bom."
+
+msgid "...W-what do we do...?"
+msgstr "...O-o que faremos...?"
+
+msgid "If you can still move, go on ahead."
+msgstr "Se você ainda consegue se mover, vá em frente."
+
+msgid "I need a moment."
+msgstr "Eu preciso de um momento."
+
+msgid "O-okay..."
+msgstr "Tudo bem..."
+
+msgid "Uh... hey..."
+msgstr "Uh... ei..."
+
+msgid "You'll uh.... You'll come back, right?"
+msgstr "Você vai, uh... Você vai voltar, certo?"
+
+msgid "Yes."
+msgstr "Sim."
+
+msgid "Thanks."
+msgstr "Obrigado."
+
+msgid "(Where am I...?)"
+msgstr "(Onde estou...?)"
+
+msgid "I need to find a way out..."
+msgstr "Preciso encontrar uma saída..."
+
+msgid "This item is yet to be unsealed."
+msgstr "Este item ainda não foi aberto."
+
+msgid "The fire needs to be lit first."
+msgstr "O fogo precisa ser aceso primeiro."
+
+msgid "Light the fireplace?"
+msgstr "Acender a lareira?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "I don't have all 5 items ready to burn yet..."
+msgstr "Ainda não tenho todos os 5 itens prontos para queimar..."
+
+msgid "If I light this on, I'll just lure that lady here for no reason."
+msgstr "Se eu acender isso, vou atrair aquela senhora aqui sem motivo."
+
+msgid "(What should I burn first?)"
+msgstr "(O que devo queimar primeiro?)"
+
+msgid "The knife"
+msgstr "A faca"
+
+msgid "The foot"
+msgstr "O pé"
+
+msgid "The sketchbook"
+msgstr "O caderno de desenho"
+
+msgid "The mirror"
+msgstr "O espelho"
+
+msgid "The cold compress"
+msgstr "A compressa fria"
+
+msgid "(What should I burn next?)"
+msgstr "(O que devo queimar a seguir?)"
+
+msgid "And finally... the knife."
+msgstr "E finalmente... a faca."
+
+msgid "And finally... the foot."
+msgstr "E finalmente... o pé."
+
+msgid "And finally... the sketchbook."
+msgstr "E finalmente... o caderno de desenho."
+
+msgid "And finally... the mirror."
+msgstr "E finalmente... o espelho."
+
+msgid "And finally... the cold compress."
+msgstr "E por fim... a compressa fria."
+
+msgid "Take ${item:ch1.lockpick}?"
+msgstr "Pegar a ${item:ch1.lockpick}?"
+
+msgid "You pour some liquid onto the rag..."
+msgstr "Você derrama um pouco de líquido no pano..."
+
+msgid "It's already wet enough."
+msgstr "Já está bastante molhado."
+
+msgid "\"Alcohol tastes just like water.\""
+msgstr "\"O álcool tem gosto de água.\""
+
+msgid "\"Thank you.\""
+msgstr "\"Obrigada.\""
+
+msgid "(You watered the plant.)"
+msgstr "(Você regou a planta.)"
+
+msgid "(You pour water into the empty pot...)"
+msgstr "(Você coloca água na panela vazia...)"
+
+msgid "(...but nothing happens.)"
+msgstr "(...mas nada acontece.)"
+
+msgid "Various useless trinkets are displayed on these shelves."
+msgstr "Várias bugigangas inúteis estão expostas nessas prateleiras."
+
+msgid "A teapot, full of some liquid. Seems to be water."
+msgstr "Um bule cheio de líquido. Parece ser água."
+
+msgid "I could use this..."
+msgstr "Eu poderia usar isso..."
+
+msgid "Bring water to the plant?"
+msgstr "Levar água para a planta?"
+
+msgid "A fireplace."
+msgstr "Uma lareira."
+
+msgid "There's no fire, so it's just... a place."
+msgstr "Não tem fogo, então é apenas... uma leira."
+
+msgid "Haha, good one!"
+msgstr "Essa piada só faz sentido em inglês!"
+
+msgid "A place."
+msgstr "Uma lareira."
+
+msgid "An old gramophone."
+msgstr "Um gramofone antigo."
+
+msgid "What to do?"
+msgstr "O que fazer?"
+
+msgid "Play music"
+msgstr "Tocar música"
+
+msgid "Stop the music"
+msgstr "Pare a música"
+
+msgid "Do nothing"
+msgstr "Fazer nada"
+
+msgid "A floor lamp."
+msgstr "Uma luminária de chão."
+
+msgid "A rotary phone."
+msgstr "Um telefone rotativo."
+
+msgid "It's old... but there's a certain charm to it."
+msgstr "É antigo... mas tem um certo charme."
+
+msgid "There's no dial tone."
+msgstr "Não há tom de discagem."
+
+msgid "A tall plant."
+msgstr "Uma planta alta."
+
+msgid "A tall, pretty plant."
+msgstr "Uma planta alta e bonita."
+
+msgid "An empty flower vase."
+msgstr "Um vaso de flores vazio."
+
+msgid "Purple flowers in a vase."
+msgstr "Flores roxas em um vaso."
+
+msgid "I could use these flowers..."
+msgstr "Eu poderia usar essas flores..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "Trazer as flores para a planta?"
+
+msgid "It's dead."
+msgstr "Está morta."
+
+msgid "A plant with a tag attached. It says:"
+msgstr "Uma planta com uma etiqueta anexada. Diz:"
+
+msgid "\"It was good while it lasted.\""
+msgstr "\"Foi bom enquanto durou.\""
+
+msgid "\"Requires medium light."
+msgstr "\"Requer luz média."
+
+msgid "For enrichment, provide music.\""
+msgstr "Para enriquecimento, forneça música.\""
+
+msgid "\"Requires dim light."
+msgstr "\"Requer pouca luz."
+
+msgid "Feed it once a day to avoid irritability. Appropriate diet includes meat of various kinds.\""
+msgstr "Alimente-a uma vez por dia para evitar irritabilidade. A dieta apropriada inclui carne de vários tipos.”"
+
+msgid "\"Requires medium light. Provide alcohol twice daily to keep its leaves moist."
+msgstr "“Requer luz média. Forneça álcool duas vezes ao dia para manter as folhas úmidas."
+
+msgid "Water is a valid substitute, as it can't tell the difference.\""
+msgstr "A água é um substituto válido, pois não consegue perceber a diferença.\""
+
+msgid "The pot has been destroyed."
+msgstr "O pote foi destruído."
+
+msgid "An empty pot."
+msgstr "Um pote vazio."
+
+msgid "For enrichment, give it a flower crown once a month.\""
+msgstr "Para enriquecimento, dê-lhe uma coroa de flores uma vez por mês.\""
+
+msgid "A warning sign."
+msgstr "Um sinal de alerta."
+
+msgid "It doesn't say what the warning is for."
+msgstr "Não diz para que serve o aviso."

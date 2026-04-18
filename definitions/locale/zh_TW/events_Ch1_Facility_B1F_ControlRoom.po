@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "嗯...？沒有作用...？"
+
+msgid "Those two thingies look burnt."
+msgstr "那兩個東東看起來燒焦了。"
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "啊，有兩根融斷的保險絲。難怪。"
+
+msgid "Let's throw this damaged fuse away."
+msgstr "把壞掉的保險絲丟掉吧。"
+
+msgid "Why? Just use it as a zero or something."
+msgstr "為什麼？把它當暫存器之類的不就好了。"
+
+msgid "No... that's really not how fuses work."
+msgstr "不...保險絲不是這樣運作的。"
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "壞掉的保險絲沒辦法組成迴路。"
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "我懂了...所以如果把它拿掉就會是暫存器？"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "不...就不是...這樣也沒辦法組成迴路。你沒辦法產生一個暫存器。"
+
+msgid "Just... leave this to me, okay?"
+msgstr "就...交給我，好嗎？"
+
+msgid "Roger!"
+msgstr "收到！"
+
+msgid "You hear something unlocking in the distance."
+msgstr "妳聽到了遠處有東西解鎖了。"
+
+msgid "What? I didn't hear anything."
+msgstr "什麼？我什麼都沒聽到。"
+
+msgid "...You're breaking my immersion."
+msgstr "...你破壞了我的沉浸感。"
+
+msgid "What in the world was that?"
+msgstr "那到底是什麼東西？"
+
+msgid "Can't say I didn't warn you."
+msgstr "我警告過妳了。"
+
+msgid "Wait."
+msgstr "等等。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "把這一個拿出來可能會是個非常壞的主意。"
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "我之前看到像這樣的門。我覺得我們不會想打開。"
+
+msgid "I see..."
+msgstr "我明白了..."
+
+msgid "(Maybe there's a better way?)"
+msgstr "(也許有更好的辦法？)"
+
+msgid "Do you think the elevator works now?"
+msgstr "妳覺得電梯現在可以運作了嗎？"
+
+msgid "Ah, that's satisfying."
+msgstr "啊，真舒服。"
+
+msgid "Good job!"
+msgstr "做得好！"
+
+msgid "That sounded pretty big."
+msgstr "聽起來很巨大。"
+
+msgid "Let's check the water level."
+msgstr "來檢查一下水位。"
+
+msgid "There's already a handle there."
+msgstr "已經有手柄了。"
+
+msgid "You try to fit the handle in the slot..."
+msgstr "妳試著把手柄置入插槽中..."
+
+msgid "But it doesn't fit."
+msgstr "可是不合。"
+
+msgid "The lights... ah... not nice."
+msgstr "燈光...啊...糟糕了。"
+
+msgid "Why doesn't this work?"
+msgstr "為什麼沒有作用？"
+
+msgid "We probably need to fill all four slots."
+msgstr "我們大概需要插滿四個插槽。"
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "否則裡面的東西不會接觸。"
+
+msgid "Right, contact."
+msgstr "是啊，接觸。"
+
+msgid "You place the handle in the slot."
+msgstr "妳把手柄置入插槽。"
+
+msgid "The handle fits!"
+msgstr "手柄插上了！"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "當然了，菱形只是旋轉過的方形。"
+
+msgid "Yep."
+msgstr "沒錯。"
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "妳在做什麼？這些形狀不合。"
+
+msgid "...Huh."
+msgstr "...蛤。"
+
+msgid "Are you switching them around...?"
+msgstr "妳在調換它們嗎...？"
+
+msgid "I'm just trying things."
+msgstr "我只是在試東西。"
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "沉重的桶子。沒辦法移動。"
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "有個閥門手柄和一把鑰匙在桶子上。"
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "拿走 ${item:ch1.facility_handle_square} 和 ${item:ch1.facility_key_archives} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Some sort of machine."
+msgstr "某種機器。"
+
+msgid "It's whirring loudly."
+msgstr "它的聲響很大。"
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "巨大的置物櫃。妳大概可以塞在裡面。"
+
+msgid "There's something in here..."
+msgstr "裡面有東西..."
+
+msgid "There's nothing else of use."
+msgstr "沒有什麼有用的東西了。"
+
+msgid "A large machine attached to some pipes."
+msgstr "連接著一些管路的巨大機器。"
+
+msgid "There's a note here:"
+msgstr "有個字條在這裡："
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "\"緊急情況使用 - 排水與填水系統"
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "為了使排水系統正常運作，保險絲必須先安裝在正確的位置。"
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "轉動總共 4 個閥門手柄，就能啟動填水。"
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "這是不可逆的，所以不要不通知就-\""
+
+msgid "...The rest of the note is torn off."
+msgstr "...剩下的紙條被撕掉了。"
+
+msgid "Looks like an electrical panel."
+msgstr "看起來像是電子面板。"
+
+msgid "Take a closer look?"
+msgstr "仔細觀察嗎？"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "用來放置閥門轉盤的插槽。凹陷處是方形的。"
+
+msgid "Turn it?"
+msgstr "轉動嗎？"
+
+msgid "Turn the wheel"
+msgstr "轉動轉盤"
+
+msgid "Remove the wheel"
+msgstr "移除轉盤"
+
+msgid "Do nothing"
+msgstr "什麼也不做"
+
+msgid "The wheel won't turn."
+msgstr "轉盤轉不動。"
+
+msgid "It won't turn anymore."
+msgstr "已經轉不動了。"
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "用來放置閥門轉盤的插槽。凹陷處是五邊形的。"
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "用來放置閥門轉盤的插槽。凹陷處是星形的。"
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "用來放置閥門轉盤的插槽。凹陷處是菱形的。"
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "看起來像是我們剛剛看到的巨大大門..."
+
+msgid "Doors?"
+msgstr "門？"
+
+msgid "This is probably an elevator."
+msgstr "這應該是電梯。"
+
+msgid "Lights."
+msgstr "光線。"
+
+msgid "Water?"
+msgstr "水？"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "看起來可以放入保險絲的空槽。"
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "(看來我需要重新排列保險絲來對上顯示器。)"
+
+msgid "An empty fuse slot."
+msgstr "空保險絲槽。"
+
+msgid "Place a fuse?"
+msgstr "放入保險絲？"
+
+msgid "Place fuse no.5"
+msgstr "放入保險絲 5 號"
+
+msgid "Place fuse no.10"
+msgstr "放入保險絲 10 號"
+
+msgid "Place fuse no.15"
+msgstr "放入保險絲 15 號"
+
+msgid "Place fuse no.20"
+msgstr "放入保險絲 20 號"
+
+msgid "Place fuse no.25"
+msgstr "放入保險絲 25 號"
+
+msgid "Place fuse no.40"
+msgstr "放入保險絲 40 號"
+
+msgid "Do not"
+msgstr "不要"
+
+msgid "It's a spider!"
+msgstr "是蜘蛛！"
+
+msgid "I see that."
+msgstr "我看到了。"
+
+msgid "Are you scared of spiders?"
+msgstr "妳會怕蜘蛛嗎？"
+
+msgid "Not really."
+msgstr "還好。"
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "所以呢，如果妳在房子裡看到蜘蛛妳就把它*留在*裡面嗎？！"
+
+msgid "That's crazy."
+msgstr "真是瘋了。"
+
+msgid "What else should I be doing?"
+msgstr "不然我該做什麼？"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "不知道欸，大部分的人會一腳把牠踩死之類的。"
+
+msgid "Why?"
+msgstr "為什麼？"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "不知道，牠們會到處亂爬。牠們很恐怖。"
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "為什麼牠要為了不是自己的過錯而死？"
+
+msgid "..."
+msgstr "..."
+
+msgid "That's fair."
+msgstr "有道理。"
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "讓妳知道，我不殺蜘蛛的。"
+
+msgid "I see."
+msgstr "我明白了。"
+
+msgid "I used to, but now I just put them outside."
+msgstr "我之前會，但是我現在只會放生牠們。"
+
+msgid "Great."
+msgstr "很好。"
+
+msgid "A spider hangs from here."
+msgstr "有隻蜘蛛掛在這裡。"
+
+msgid "A spider sits here."
+msgstr "有隻蜘蛛坐在這裡。"
+
+msgid "Take out the fuse?"
+msgstr "取出保險絲嗎？"

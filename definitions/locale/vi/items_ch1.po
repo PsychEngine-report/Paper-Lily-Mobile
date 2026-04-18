@@ -1,0 +1,744 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Cellphone"
+msgstr "Điện thoại di động"
+
+msgid "My personal phone. Hiro bought it for me."
+msgstr "Điện thoại cá nhân của mình. Được anh Hiro mua cho."
+
+msgctxt "items.name.ch1.todolist"
+msgid "To-Do List"
+msgstr "Danh sách Việc cần làm"
+
+msgctxt "items.desc.ch1.todolist"
+msgid "A list of things I want to do before I die."
+msgstr "Danh sách những việc mình muốn làm trước khi chết."
+
+msgctxt "items.name.ch1.todolist_hidden"
+msgid "To-Do List"
+msgstr "Danh sách Việc cần làm"
+
+msgctxt "items.desc.ch1.todolist_hidden"
+msgid "A list of things I want to do before I die."
+msgstr "Danh sách những việc mình muốn làm trước khi chết."
+
+msgid "Red Ribbon"
+msgstr "Ruy-băng Đỏ"
+
+msgid "A soft and silky red ribbon."
+msgstr "Dải ruy-băng đỏ mềm và mịn."
+
+msgid "Red Thread"
+msgstr "Chỉ Đỏ"
+
+msgid "Some red thread from mother's sewing kit. The color matches my scarf."
+msgstr "Vài sợi chỉ đỏ từ bộ kim chỉ của mẹ. Màu trùng với màu khăn choàng của mình."
+
+msgid "Red Shoelaces"
+msgstr "Dây giày Đỏ"
+
+msgid "From the shoe rack. Does something like this count?"
+msgstr "Lấy từ giá để giày dép. Thứ như thế này có tính không?"
+
+msgid "Red Paint"
+msgstr "Sơn Đỏ"
+
+msgid "A can of red paint. It's dusty."
+msgstr "Lon sơn đỏ. Bụi bặm."
+
+msgid "Bird Food"
+msgstr "Thức ăn Cho chim"
+
+msgid "All-Natural Non-GMO Certified Organic Bird Food. It's as expensive as it sounds."
+msgstr "Thức Ăn Hữu Cơ Có Chứng Nhận Non-GMO Hoàn Toàn Tự Nhiên Cho Chim. Nghe tên là biết đắt tiền rồi."
+
+msgid "Red Marker"
+msgstr "Bút dạ Đỏ"
+
+msgid "A non-erasable alcohol-based red marker."
+msgstr "Bút dạ cồn mực đỏ không xóa được."
+
+msgid "Lipstick"
+msgstr "Son môi"
+
+msgid "Some red lipstick from mother's makeup set. It says \"Crimson Passion\"."
+msgstr "Thỏi son môi đỏ gì đó từ bộ trang điểm của mẹ. Có đề \"Crimson Passion\"."
+
+msgctxt "items.name.ch1.ritual_instructions"
+msgid "Ritual Letter"
+msgstr "Lá thư Nghi thức"
+
+msgctxt "items.desc.ch1.ritual_instructions"
+msgid "The ritual instructions I received."
+msgstr "Quy trình nghi thức mình nhận được."
+
+msgctxt "items.name.ch1.ritual_instructions_hidden"
+msgid "Ritual Letter"
+msgstr "Lá thư Nghi thức"
+
+msgctxt "items.desc.ch1.ritual_instructions_hidden"
+msgid "The ritual instructions I received."
+msgstr "Quy trình nghi thức mình nhận được."
+
+msgid "Table Salt"
+msgstr "Muối Tinh"
+
+msgid "\"For cooking and baking\". Salt can supposedly ward off spirits and such."
+msgstr "\"Dùng cho việc nấu và nướng\". Muối được cho là có thể xua đuổi tà ma."
+
+msgid "Notebook"
+msgstr "Vở"
+
+msgid "I keep my personal notes and papers I find here."
+msgstr "Mình bỏ ghi chép cá nhân với giấy tờ tìm được vào đây."
+
+msgctxt "items.name.ch1.rune_jara"
+msgid "Rune"
+msgstr "Rune"
+
+msgid "A rune stone I bought from a shady online merchant."
+msgstr "Cục rune mình mua từ một tay buôn mờ ám trên mạng."
+
+msgctxt "items.name.ch1.rune_uruz"
+msgid "Rune"
+msgstr "Rune"
+
+msgctxt "items.desc.ch1.rune_uruz"
+msgid "A rune stone I found."
+msgstr "Cục rune mình tìm thấy."
+
+msgctxt "items.name.ch1.rune_ansuz"
+msgid "Rune"
+msgstr "Rune"
+
+msgctxt "items.desc.ch1.rune_ansuz"
+msgid "A rune stone I found."
+msgstr "Cục rune mình tìm thấy."
+
+msgctxt "items.name.ch1.rune_raidho"
+msgid "Rune"
+msgstr "Rune"
+
+msgctxt "items.desc.ch1.rune_raidho"
+msgid "A rune stone I found."
+msgstr "Cục rune mình tìm thấy."
+
+msgctxt "items.name.ch1.rune_algiz"
+msgid "Rune"
+msgstr "Rune"
+
+msgctxt "items.desc.ch1.rune_algiz"
+msgid "A rune stone I found."
+msgstr "Cục rune mình tìm thấy."
+
+msgid "Blue Sign"
+msgstr "Biển Xanh lam"
+
+msgid "It says \"Daylight Gate\"."
+msgstr "Nó đề là \"Cổng Bạch Nhật\"."
+
+msgid "Pack of Chips"
+msgstr "Gói Bim bim"
+
+msgid "Looks like regular potato chips. The brand is literally called \"Harmless Snack\"."
+msgstr "Trông như bim bim khoai tây thông thường. Nhãn hiệu nó ghi hẳn luôn là \"Snack Vô hại\"."
+
+msgid "Chocolate Bar"
+msgstr "Thanh Sô-cô-la"
+
+msgid "Looks like a bar of chocolate. The brand is literally called \"Harmless Snack\"."
+msgstr "Trông như thanh sô-cô-la. Nhãn hiệu nó ghi hẳn luôn là \"Snack Vô hại\"."
+
+msgid "Bug Net"
+msgstr "Vợt Bọ"
+
+msgid "A bug net Rune gave me. I don't know what I'll do with it."
+msgstr "Chiếc vợt bọ Rune đưa cho. Mình không biết làm cái gì với nó đây."
+
+msgid "Empty Lamp"
+msgstr "Đèn Rỗng"
+
+msgid "The case of a street lamp. It has nothing inside."
+msgstr "Hộp của chiếc đèn đường. Bên trong không có gì."
+
+msgid "Lamp with Fireflies"
+msgstr "Đèn đựng Đom đóm"
+
+msgid "A street lamp full of fireflies."
+msgstr "Cái đèn đường đựng đầy đom đóm."
+
+msgid "Empty Jar"
+msgstr "Hũ Rỗng"
+
+msgid "A jar with nothing inside."
+msgstr "Chiếc hũ bên trong không có gì."
+
+msgid "Jar of Fireflies"
+msgstr "Hũ Đom đóm"
+
+msgid "A jar full of fireflies."
+msgstr "Chiếc cũ đựng đầy đom đóm."
+
+msgid "Bolt Cutter"
+msgstr "Kìm Cộng Lực"
+
+msgid "A bolt cutter Rune gave me. Looks strong."
+msgstr "Chiếc kìm cộng lực Rune đưa cho mình. Trông có vẻ mạnh."
+
+msgid "Fish"
+msgstr "Cá"
+
+msgid "A fish thing I purchased from a merchant. I don't think I should eat this."
+msgstr "Con cá mình mua từ một tay buôn. Thấy không nên ăn nó."
+
+msgid "Jar of Slugs"
+msgstr "Hũ Sên"
+
+msgid "A jar of slugs. Heavy."
+msgstr "Cái hũ đựng sên. Nặng."
+
+msgid "Stone Curse Notes"
+msgstr "Ghi chép về Lời nguyền Đá"
+
+msgid "Notes explaining a ritual to remove a \"Stone Curse\"."
+msgstr "Ghi chép giải thích về nghi thức phá bỏ \"Lời nguyền Đá\"."
+
+msgid "Artistic Pot"
+msgstr "Chậu Nghệ thuật"
+
+msgid "A pot I found. Hopefully it works as a new head for Kozmo."
+msgstr "Cái chậu mình tìm thấy. Mong là dùng làm đầu mới cho Kozmo được."
+
+msgid "Stone Curse Cure"
+msgstr "Thuốc trị Nguyền Đá"
+
+msgid "A sort of potion I made. It should cure a simple stone curse."
+msgstr "Loại ma dược mình điều chế ra. Nó sẽ chữa được lời nguyền đá đơn giản."
+
+msgid "Weird Sculpture"
+msgstr "Bức chạm Kì cục"
+
+msgid "A thing I found. I'm almost a bit ashamed of having to give this to Kozmo."
+msgstr "Cái \"thứ\" mà mình tìm thấy. Phải đưa cái này cho Kozmo thì cảm thấy hơi ngường ngượng."
+
+msgid "Teapot-Shaped Head"
+msgstr "Đầu Hình Ấm trà"
+
+msgid "It came off the sculptor. It's empty inside."
+msgstr "Nó rớt ra khỏi ông điêu khắc gia. Bên trong trống không."
+
+msgid "Artist's Flower"
+msgstr "Hoa của Nghệ sĩ"
+
+msgid "It came off the sculptor. It smells good."
+msgstr "Nó rơi ra từ ông điêu khắc gia. Mùi dễ chịu."
+
+msgid "Cursed Tree Bark"
+msgstr "Vỏ Cây Bị nguyền"
+
+msgid "A piece I tore off a tree. Allegedly cursed."
+msgstr "Cái vỏ mình xé ra từ cái cây. Được cho là bị nguyền."
+
+msgid "Ink Mushrooms"
+msgstr "Nấm Mực"
+
+msgid "Black mushrooms."
+msgstr "Nấm màu đen."
+
+msgid "Lit Candle"
+msgstr "Nến Được thắp"
+
+msgctxt "items.desc.ch1.candleman_candle"
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "Cây nến mình lấy từ bức tượng tại nhà của ông điêu khắc gia."
+
+msgid "Unlit Candle"
+msgstr "Nến Không được thắp"
+
+msgctxt "items.desc.ch1.candleman_candle_unlit"
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "Cây nến mình lấy từ bức tượng tại nhà của ông điêu khắc gia."
+
+msgid "Blue Candle"
+msgstr "Nến Màu lam"
+
+msgid "A candle that the candle person gave to me."
+msgstr "Cây nên mà ông người nến đưa cho mình."
+
+msgid "AC Adapter"
+msgstr "AC Adapter"
+
+msgid "A power plug adapter. It converts a 3-prong plug for a 2-prong socket."
+msgstr "Cái phích cắm nắn điện. Chuyển đổi phích 3 chấu để cắm được vào ổ 2 chấu."
+
+msgid "Scissors"
+msgstr "Kéo"
+
+msgid "A pair of scissors. Pointy!"
+msgstr "Cây kéo. Nhọn!"
+
+msgid "Padlock Key"
+msgstr "Chìa cho khóa móc"
+
+msgid "A key that should open the gate with the warning sign."
+msgstr "Chiếc chìa khóa sẽ mở được cánh cổng có cái biển cảnh báo."
+
+msgid "Caterpillar"
+msgstr "Sâu"
+
+msgid "The moths asked me to get rid of him for a reward."
+msgstr "Tụi ngài nhờ mình tống khứ nó đi, đổi lại sẽ được đền đáp."
+
+msgid "Treasure Hunter's Letter"
+msgstr "Thư của Thợ săn Kho báu"
+
+msgid "A letter I found under a statue."
+msgstr "Bức thư mình tìm thấy dưới bức tượng."
+
+msgid "Treasure Hunter's Note 1"
+msgstr "Tờ ghi 1 của Thợ săn Kho báu"
+
+msgctxt "items.desc.ch1.hunter_note_1"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Cái tờ ghi mình tìm thấy. Nó nói về Khu Bị khóa."
+
+msgid "Treasure Hunter's Note 2"
+msgstr "Tờ ghi 2 của Thợ săn Kho báu"
+
+msgctxt "items.desc.ch1.hunter_note_2"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Cái tờ ghi mình tìm thấy. Nó nói về Khu Bị khóa."
+
+msgid "Treasure Hunter's Note 3"
+msgstr "Tờ ghi 3 của Thợ săn Kho báu"
+
+msgctxt "items.desc.ch1.hunter_note_3"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Cái tờ ghi mình tìm thấy. Nó nói về Khu Bị khóa."
+
+msgid "Treasure Hunter's Note 4"
+msgstr "Tờ ghi 4 của Thợ săn Kho báu"
+
+msgctxt "items.desc.ch1.hunter_note_4"
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Cái tờ ghi mình tìm thấy. Nó nói về Khu Bị khóa."
+
+msgid "Secret Passage Code"
+msgstr "Mật mã Lối đi Bí mật"
+
+msgid "Contains the code to open the secret passage under Red's house."
+msgstr "Có ghi cái mật mã để mở cái lối đi bí mật bên dưới ngôi nhà của Red."
+
+msgid "Boat Paddle"
+msgstr "Mái chèo"
+
+msgid "Perfect for rowing a boat."
+msgstr "Lý tưởng cho việc chèo thuyền."
+
+msgid "Injured Bunny"
+msgstr "Thỏ con Bị thương"
+
+msgid "It couldn't run away, so now it's in my inventory. Looks like it has a broken leg."
+msgstr "Nó không thể chạy đi nổi, nên giờ nó ở trong kho đồ của mình. Trông nó như bị gãy chân."
+
+msgid "Lavender Flower"
+msgstr "Hoa Oải hương"
+
+msgid "Smells like laundry."
+msgstr "Ngửi như mùi giặt vậy."
+
+msgid "Goldfish"
+msgstr "Cá vàng"
+
+msgid "Dead Goldfish"
+msgstr "Cá vàng Chết"
+
+msgid "Might have been better off where it was."
+msgstr "Có khi cứ ở cái chỗ vốn dĩ thì tốt hơn rồi."
+
+msgid "Black Algae"
+msgstr "Tảo Đen"
+
+msgctxt "items.desc.ch1.lakeside_algae_black"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Vài cọng tảo mình câu được từ đáy hồ."
+
+msgid "Blue Algae"
+msgstr "Tảo Lam"
+
+msgctxt "items.desc.ch1.lakeside_algae_blue"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Vài cọng tảo mình câu được từ đáy hồ."
+
+msgid "Green Algae"
+msgstr "Tảo Lục"
+
+msgctxt "items.desc.ch1.lakeside_algae_green"
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Vài cọng tảo mình câu được từ đáy hồ."
+
+msgid "Pink Petals"
+msgstr "Cánh hoa Màu hồng"
+
+msgctxt "items.desc.ch1.lakeside_petals_pink"
+msgid "Some flower petals I found."
+msgstr "Vài cái cánh hoa mình nhặt được."
+
+msgid "Purple Petals"
+msgstr "Cánh hoa Màu tía"
+
+msgctxt "items.desc.ch1.lakeside_petals_purple"
+msgid "Some flower petals I found."
+msgstr "Vài cái cánh hoa mình nhặt được."
+
+msgid "White Petals"
+msgstr "Cánh hoa Màu trắng"
+
+msgctxt "items.desc.ch1.lakeside_petals_white"
+msgid "Some flower petals I found."
+msgstr "Vài cái cánh hoa mình nhặt được."
+
+msgid "Handle (Square)"
+msgstr "Tay quay (Vuông)"
+
+msgid "A purple handle for a valve mechanism. The protrusion is square-shaped."
+msgstr "Cái tay quay màu tía cho cái cơ cấu van. Phần lồi ra có hình vuông."
+
+msgid "Handle (Pentagon)"
+msgstr "Tay quay (Ngũ giác)"
+
+msgid "A red handle for a valve mechanism. The protrusion is pentagon-shaped."
+msgstr "Cái tay quay màu đỏ cho cái cơ cấu van. Phần lồi ra có hình ngũ giác."
+
+msgid "Handle (Star)"
+msgstr "Tay quay (Ngôi sao)"
+
+msgid "A yellow handle for a valve mechanism. The protrusion is shaped like a 5-point star."
+msgstr "Cái tay quay màu vàng cho cái cơ cấu van. Phần lồi ra có hình như ngôi sao năm cánh."
+
+msgid "Handle (Diamond)"
+msgstr "Tay quay (Thoi)"
+
+msgid "A white handle for a valve mechanism. The protrusion is diamond-shaped."
+msgstr "Cáy tay quay màu trắng cho cái cơ cấu van. Phần lồi ra có hình thoi."
+
+msgid "Fuse (5)"
+msgstr "Cầu chì (5)"
+
+msgid "Fuse (10)"
+msgstr "Cầu chì (10)"
+
+msgid "Fuse (15)"
+msgstr "Cầu chì (15)"
+
+msgid "Fuse (20)"
+msgstr "Cầu chì (20)"
+
+msgid "Fuse (25)"
+msgstr "Cầu chì (25)"
+
+msgid "Fuse (40)"
+msgstr "Cầu chì (40)"
+
+msgid "_____"
+msgstr "_____"
+
+msgid "It's sharp."
+msgstr "Nó sắc."
+
+msgid "Iron Key"
+msgstr "Chìa Sắt"
+
+msgid "A fairly large metallic key."
+msgstr "Chiếc chìa kim loại khá là to."
+
+msgid "Copper Key"
+msgstr "Chìa Đồng"
+
+msgid "A regular key. It probably opens a door somewhere."
+msgstr "Chiếc chìa thông thường. Hẳn là mở cánh cửa nào đâu đó."
+
+msgid "Bucket"
+msgstr "Xô"
+
+msgid "A metallic bucket. It can transport various liquid substances."
+msgstr "Cái xô bằng kim loại. Có thể vận chuyển đủ loại chất lỏng."
+
+msgid "Bucket of Water"
+msgstr "Xô có Nước"
+
+msgid "A bucket full of water. It's heavy."
+msgstr "Cái xô đầy nước. Nó nặng."
+
+msgid "Bucket of Special Water"
+msgstr "Xô có Nước đặc biệt"
+
+msgid "A bucket full of water. It comes from a special faucet in the forest."
+msgstr "Cái xô đầy nước. Hứng từ cái vòi nước đặc biệt trong rừng."
+
+msgid "Flat Screwdriver"
+msgstr "Tua-vít Dẹt"
+
+msgid "A simple screwdriver."
+msgstr "Chiếc tua-vít đơn giản."
+
+msgid "Coin"
+msgstr "Tiền xu"
+
+msgid "A coin that's not quite like the ones back home."
+msgstr "Đồng xu trông không giống mấy đồng ở nhà lắm."
+
+msgid "Return Doorknob"
+msgstr "Núm cửa Trở về"
+
+msgid "Apparently, this is my ticket back home. I purchased it online."
+msgstr "Hình như đây là chiếc vé về nhà của mình. Mua được trên mạng."
+
+msgid "Doorknob With Flower"
+msgstr "Núm của Có Hoa"
+
+msgid "A doorknob. I found this lying around."
+msgstr "Cái núm cửa. Nằm lung tung mình nhặt được."
+
+msgctxt "items.name.ch1.doorknob_library_fragment"
+msgid "Doorknob Fragment"
+msgstr "Mảnh vụn Núm cửa"
+
+msgctxt "items.desc.ch1.doorknob_library_fragment"
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "Các mảnh vỡ của cái núm cửa. Bản thân mình không có khả năng gắn chúng lại được."
+
+msgid "Gray Doorknob"
+msgstr "Núm cửa Màu xám"
+
+msgid "A doorknob. It has the same symbol as my letter."
+msgstr "Cái núm cửa. Nó có cùng biểu tượng với cái từ lá thư của mình."
+
+msgid "White Doorknob"
+msgstr "Núm cửa Màu trắng"
+
+msgid "A doorknob. It looks like a white lily."
+msgstr "Cái núm cửa. Trông giống như bông hoa bách hợp."
+
+msgid "Doorknob With Eye"
+msgstr "Núm cửa Có Mắt"
+
+msgid "A doorknob I got from the moths. Can probably be used at that door with the slots."
+msgstr "Cái núm cửa mình có từ tụi ngài. Chắc hẳn có thể dùng được trên cánh cửa có lỗ gắn đó."
+
+msgctxt "items.name.ch1.doorknob_lighthouse_fragment"
+msgid "Doorknob Fragment"
+msgstr "Mảnh vụn Núm cửa"
+
+msgctxt "items.desc.ch1.doorknob_lighthouse_fragment"
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "Các mảnh vỡ của cái núm cửa. Bản thân mình không có khả năng gắn chúng lại được."
+
+msgid "Paper Lily Folding Steps"
+msgstr "Cách Gấp Bách hợp Giấy"
+
+msgid "Instructions detailing how to fold a piece of paper to look like a lily flower."
+msgstr "Hướng dẫn chi tiết các bước gấp tờ giấy cho thành giống như hoa bách hợp."
+
+msgid "Facility Map"
+msgstr "Bản đồ Khu Cơ sở"
+
+msgid "A map of the facility, drawn by someone."
+msgstr "Tấm bản đồ khu cơ sở, do ai đó vẽ."
+
+msgid "Black Knife"
+msgstr "Dao Đen"
+
+msgid "A fully black knife. It's still very sharp."
+msgstr "Con dao màu đen hoàn toàn. Vẫn còn rất sắc."
+
+msgid "Knife"
+msgstr "Dao"
+
+msgid "A knife."
+msgstr "Con dao."
+
+msgid "Human Foot"
+msgstr "Chân Người"
+
+msgid "A foot that used to belong to someone."
+msgstr "Cái chân từng thuộc về ai đó."
+
+msgid "Sketchbook"
+msgstr "Vở phác thảo"
+
+msgid "A sketchbook full of colors you splattered all over it."
+msgstr "Tập vở phác thảo đầy màu sắc mà bạn làm bắn tung tóe lên."
+
+msgctxt "items.name.ch1.mk_hand_mirror"
+msgid "Black Object"
+msgstr "Vật thể Đen"
+
+msgid "An unknown circular object that's fully black. Feels like wood and glass."
+msgstr "Cái vật thể tròn tròn chưa rõ mà có màu đen thui. Sờ thấy giống như gỗ với kính."
+
+msgid "Hand Mirror"
+msgstr "Gương Cầm tay"
+
+msgid "A wooden hand mirror."
+msgstr "Chiếc gương cầm tay bằng gỗ."
+
+msgctxt "items.name.ch1.mk_compress"
+msgid "Black Object"
+msgstr "Vật thể Đen"
+
+msgid "An unknown object that's fully black. Feels like a piece of fabric."
+msgstr "Cái vật thể tròn tròn chưa rõ mà có màu đen thui. Sờ thấy giống như mảnh vải."
+
+msgid "Cold Compress"
+msgstr "Khăn chườm Lạnh"
+
+msgid "A wet rag."
+msgstr "Rẻo vải ướt."
+
+msgid "Eyeball"
+msgstr "Tròng Mắt"
+
+msgid "An eyeball. The owner seems to have had golden eyes."
+msgstr "Cái nhãn cầu. Chủ của nó có vẻ đã có đôi mắt màu vàng kim."
+
+msgid "Small Key"
+msgstr "Chìa Nhỏ"
+
+msgid "A small key. Looks like it could belong to a padlock or something similar."
+msgstr "Chiếc chìa nhỏ. Trông như có thể thuộc về ổ khóa móc hay cái gì đó tương tự."
+
+msgctxt "items.name.ch1.mk_bedroom_key"
+msgid "Key"
+msgstr "Chìa khóa"
+
+msgctxt "items.desc.ch1.mk_bedroom_key"
+msgid "A key for something."
+msgstr "Chiếc chìa khóa cho cái gì đó."
+
+msgctxt "items.name.ch1.mk_key_wisteria"
+msgid "Key"
+msgstr "Chìa khóa"
+
+msgctxt "items.desc.ch1.mk_key_wisteria"
+msgid "A key for something."
+msgstr "Chiếc chìa khóa cho cái gì đó."
+
+msgid "Glass Jar"
+msgstr "Hũ Thủy tinh"
+
+msgid "A small glass jar. I found 3 of them."
+msgstr "Cái hũ thủy tinh nhỏ. Mình tìm ra 3 cái."
+
+msgid "Jar of Water"
+msgstr "Hũ Nước"
+
+msgid "A small glass jar full of water."
+msgstr "Cái hũ thủy tinh nhỏ đựng đầy nước."
+
+msgid "Jar of Red Pigment"
+msgstr "Hũ Sắc tố Đỏ"
+
+msgid "A small glass jar with red pigment. Needs water."
+msgstr "Cái hũ thủy tinh nhỏ chứa bột màu đỏ. Cần pha nước."
+
+msgid "Jar of Yellow Pigment"
+msgstr "Hũ Sắc tố Vàng"
+
+msgid "A small glass jar with yellow pigment. Needs water."
+msgstr "Cái hũ thủy tinh nhỏ chứa bột màu vàng. Cần pha nước."
+
+msgid "Jar of Blue Pigment"
+msgstr "Hũ Sắc tố Lam"
+
+msgid "A small glass jar with blue pigment. Needs water."
+msgstr "Cái hũ thủy tinh nhỏ chứa bột màu lam. Cần pha nước."
+
+msgid "Jar of Red Paint"
+msgstr "Hũ Màu vẽ Đỏ"
+
+msgid "A small glass jar with red paint."
+msgstr "Cái hũ thủy tinh nhỏ chứa màu vẽ đỏ."
+
+msgid "Jar of Yellow Paint"
+msgstr "Hũ Màu vẽ Vàng"
+
+msgid "A small glass jar with yellow paint."
+msgstr "Cái hũ thủy tinh nhỏ chứa màu vẽ vàng."
+
+msgid "Jar of Blue Paint"
+msgstr "Hũ Màu vẽ Lam"
+
+msgid "A small glass jar with blue paint."
+msgstr "Cái hũ thủy tinh nhỏ chứa màu vẽ lam."
+
+msgid "Lighter"
+msgstr "Bật lửa"
+
+msgid "A lighter."
+msgstr "Chiếc bật lửa."
+
+msgid "Lock Pick"
+msgstr "Đồ Cạy khóa"
+
+msgid "A lock pick. I don't know how to use this..."
+msgstr "Cái dụng cụ để cạy khóa. Mình không biết cách dùng..."
+
+msgid "Rainbow Potion"
+msgstr "Vồng Ma Dược"
+
+msgid "A strange potion. I wonder what it does..."
+msgstr "Hũ ma dược kì lạ. Không biết tác dụng của nó là gì đây..."
+
+msgid "Temp. Rainbow Potion"
+msgstr "Vồng Ma Dược (Tạm)"
+
+msgid "A strange potion that Spider directed me to. It has a shorter duration than the original one."
+msgstr "Hũ ma dược kì lạ mà Nhền Nhện bảo mình lấy. Có thời gian hiệu lực ngắn hơn loại gốc."
+
+msgid "Lily"
+msgstr "Hoa Bách hợp"
+
+msgid "A lily. I'm supposed to bring it home with me."
+msgstr "Bông hoa bách hợp. Mình sẽ phải mang nó theo mình về nhà."
+
+msgid "Flower"
+msgstr "Hoa"
+
+msgid "Sewing Kit"
+msgstr "Bộ kim chỉ"
+
+msgid "Cabbage"
+msgstr "Cải bắp"
+
+msgid "Red Item I"
+msgstr "Món đồ Đỏ I"
+
+msgctxt "items.desc.global.reditem_1"
+msgid "A red item. I can't tell what it is."
+msgstr "Món đồ màu đỏ. Mình không biết nổi là cái gì."
+
+msgid "Red Item II"
+msgstr "Món đồ Đỏ II"
+
+msgctxt "items.desc.global.reditem_2"
+msgid "A red item. I can't tell what it is."
+msgstr "Món đồ màu đỏ. Mình không biết nổi là cái gì."
+
+msgid "Red Item III"
+msgstr "Món đồ Đỏ III"
+
+msgctxt "items.desc.global.reditem_3"
+msgid "A red item. I can't tell what it is."
+msgstr "Món đồ màu đỏ. Mình không biết nổi là cái gì."

@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "These flowers seem to belong here... but..."
+msgstr "這些花朵看起來屬於這裡...但是..."
+
+msgid "It would serve no purpose to plant them."
+msgstr "種植它們沒有意義。"
+
+msgid "That would be terrible."
+msgstr "那真是糟糕。"
+
+msgid "A large pile of rubble."
+msgstr "一大堆的瓦礫。"
+
+msgid "What is this material? Clay?"
+msgstr "這是什麼材料？黏土嗎？"
+
+msgid "There's nothing else of interest."
+msgstr "沒什麼特別的東西了。"
+
+msgid "Seems like someone has dug here recently."
+msgstr "看起來有人最近在這裡挖東西。"
+
+msgid "Check it out?"
+msgstr "一探究竟嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "A set of colorful flowers."
+msgstr "一組多彩的花朵。"
+
+msgid "A cactus among a set of colorful flowers."
+msgstr "在一組多彩的花朵之中的仙人掌。"
+
+msgid "There seems to be something hidden inside the pot."
+msgstr "看起來有東西藏在花盆裡。"
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "拿走 ${item:ch1.forest_lockedsite_key} 嗎？"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(妳不需要鑰匙，所以它被拋棄了。)"
+
+msgid "There's also a note under the pot."
+msgstr "花盆底下還有張紙條。"
+
+msgid "An artistic pot."
+msgstr "很有藝術感的罐子。"
+
+msgid "This could work for Kozmo."
+msgstr "這可以給柯茲莫使用。"
+
+msgid "Take ${item:ch1.forest_pot}?"
+msgstr "拿走 ${item:ch1.forest_pot} 嗎？"
+
+msgid "A strange looking... vase? In the shape of a... hand?"
+msgstr "看起來很奇怪的...花瓶？形狀像是...一隻手？"
+
+msgid "A pile of rubble."
+msgstr "一堆瓦礫。"

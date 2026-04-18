@@ -1,0 +1,19 @@
+{
+	"Locale": "ru",
+	"Name": "Русский - by DEsut",
+	"Credit": "Translated by Ivan \"DEsut\" Velychko",
+	"Website": "",
+	"Path": "ru_ch01",
+	"Disclaimer": true,
+	"UseContext": true,
+	"ResourceRemaps": {
+		"res://resources/font/ch1_cg_todolist.tres": "res://translation-resources/ru_ch01/ch1_cg_todolist.tres",
+		"res://resources/font/ch1_cg_todolist_subtitle.tres": "res://translation-resources/ru_ch01/ch1_cg_todolist_subtitle.tres",
+		"res://assets/img/cg/ch1/facility_map_1.png": "res://translation-resources/ru_ch01/facility_map_1.png",
+		"res://assets/img/cg/ch1/facility_map_2.png": "res://translation-resources/ru_ch01/facility_map_2.png"
+	},
+	"Compatibility": [
+		"Lacie Engine",
+		"Paper Lily Chapter 1"
+	]
+}

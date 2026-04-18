@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It could be dangerous to topple these boxes over."
+msgstr "この箱の山を倒すのは危険だ。"
+
+msgid "A large pile of boxes that goes all the way to the ceiling."
+msgstr "箱が天井まで積み上がっている。"
+
+msgid "This room feels different..."
+msgstr "この部屋は雰囲気が違うわね……"
+
+msgid "Is it safe...?"
+msgstr "安全なの……？"
+
+msgid "Ah, there you are."
+msgstr "ああ、来たか。"
+
+msgid "Who are you...? What is this place?"
+msgstr "あなたは……？　ここは一体何なの？"
+
+msgid "Straight to the point I see."
+msgstr "単刀直入だね。"
+
+msgid "Well, this isn't quite your world."
+msgstr "ここは、あなた達の世界では必ずしもない。"
+
+msgid "...What?"
+msgstr "……どういうこと？"
+
+msgid "Let's not get into it. You're doing a ritual, correct?"
+msgstr "深入りはやめよう。あなた達は儀式をしてる、そうだよね？"
+
+msgctxt "events.Prologue_Ending_K7_3.misc_ending.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "Stop, and go home."
+msgstr "儀式をやめて、家に帰りなさい。"
+
+msgid "All of you. I mean it."
+msgstr "全員。冗談じゃなく。"
+
+msgid "Excuse me...?"
+msgstr "何言ってるの……？"
+
+msgid "Kat, if you keep doing what you're doing, things won't end well."
+msgstr "キャット、このまま続けたら、良くない結末になる。"
+
+msgid "Do you know this person, Kat?"
+msgstr "ねぇキャット、あなたの知り合い？"
+
+msgid "Not at all."
+msgstr "いえ、全く知らないわ。"
+
+msgid "They seem to know you, though."
+msgstr "でも、向こうはあなたを知ってるみたいよ。"
+
+msgid "What is it with everyone warning me lately?"
+msgstr "どうして最近どいつもこいつも私に警告してくるわけ？"
+
+msgid "I need some answers."
+msgstr "答えなさい。"
+
+msgid "So far, you haven't-"
+msgstr "あなたはまだ――"
+
+msgid "Stop! Don't cross that line."
+msgstr "ストップ！　その線を超えないで。"
+
+msgctxt "events.Prologue_Ending_K7_3.misc_ending.dlg.hoodie"
+msgid "..."
+msgstr "……"
+
+msgid "Sigh..."
+msgstr "はぁ……"
+
+msgid "If you haven't realized by now, the ritual works."
+msgstr "まだ気づいてないようなら言うけど、儀式は成功する。"
+
+msgid "It will take you somewhere you'll never return from."
+msgstr "そしてあなたは、二度と帰ってこれない場所へ連れていかれる。"
+
+msgid "If it works then... I should definitely finish it."
+msgstr "成功するっていうなら……なおさら、絶対に最後までやるっきゃないわ。"
+
+msgid "Kat, what are you saying...?"
+msgstr "キャット、何言ってるの……？"
+
+msgid "Sorry, but I can't listen to this person. I have my reasons for doing this."
+msgstr "ごめん、でもこの人の言うことは聞けないわ。私には、やらなきゃいけない理由があるの。"
+
+msgid "I don't know how much you value what you have right now but..."
+msgstr "あなたが今の状況をどのくらい大事にしてるかは知らないけれど……"
+
+msgid "If you continue down this path, you'll lose everything."
+msgstr "この道を歩み続ければ、あなたは全てを失う。"
+
+msgid "Everything you hold dear, and everything you don't."
+msgstr "あなたが大切にしているものも、そうでないものも。"
+
+msgid "Your questions will not receive any satisfying answers..."
+msgstr "あなたの疑問には、満足のいく答えが得られないかもしれない……"
+
+msgid "And everything you know about the world will turn meaningless."
+msgstr "そして、あなたがこの世界について知っていることは、全て無意味になる。"
+
+msgid "Those three."
+msgstr "そこの3人。"
+
+msgid "...?"
+msgstr "……？"
+
+msgid "Are you willing to sacrifice their lives for your so-called \"reasons\"?"
+msgstr "あなたの「理由」とやらのために、あの子たちの命を犠牲にしてもいいの？"
+
+msgid "Lives...?"
+msgstr "命……？"
+
+msgid "Furthermore, your own life."
+msgstr "そして、あなた自身の命も。"
+
+msgid "Are you willing to die for the answers you're seeking?"
+msgstr "探している答えのために、あなたは命を落としてもいいの？"
+
+msgid "Let's go back, Kat."
+msgstr "引き返しましょう、キャット。"
+
+msgid "I want to leave..."
+msgstr "私も帰りたい……"
+
+msgid "I don't believe you. Why don't you just give me my answers yourself then? Spare me the trip."
+msgstr "信じないわ。なら、あなたが今ここで答えをくれてもいいでしょ？　手間を省いてよ。"
+
+msgid "I thought so."
+msgstr "だと思った。"
+
+msgid "I've said what I needed to."
+msgstr "言うべきことはもう言った。"
+
+msgid "Why? Who are you?"
+msgstr "どうして？　あなたは誰なの？"
+
+msgid "Just someone who has seen too many humans die."
+msgstr "私はただ、あまりに沢山の人の死を見てきただけ。"
+
+msgid "It would sadden me to add you four to the pile."
+msgstr "あなた達4人がそれに加わるのは、胸が痛い。"
+
+msgid "Go home, Kat."
+msgstr "帰りなさい、キャット。"
+
+msgid "Can't you feel it in the air here? You're all in danger."
+msgstr "ここの雰囲気からもわからない？　あなた達は今、全員危険にさらされてるの。"
+
+msgid "Kat, please, this feels too dangerous..."
+msgstr "キャット、お願い、危険すぎるよ……"
+
+msgid "Kat, let's just go."
+msgstr "キャット、いいから帰りましょう。"
+
+msgid "Yeah, let's get out of here. I didn't sign up for this."
+msgstr "そうよ、ここを出ましょう。こんな話は聞いてないわ。"
+
+msgid "Kat, we don't want something bad to happen to you."
+msgstr "キャットにひどい事が起こるのは、私たちも嫌だよ。"
+
+msgid "Fine, let's go."
+msgstr "いいわ、帰りましょう。"
+
+msgid "Are you by any chance the same person from my dream earlier today?"
+msgstr "あなたもしかして、今日の夢に出てきたのと同じ人？"
+
+msgid "A dream...?"
+msgstr "夢……？"
+
+msgid "It must have been your subconscious warning you as well."
+msgstr "それはきっと、あなたの無意識も、あなたに警告してたんだと思う。"
+
+msgid "...I see."
+msgstr "……なるほどね。"
+
+msgid "(Oh.)"
+msgstr "(そうだ。)"
+
+msgid "(Should I give this person the blueprints I found...?)"
+msgstr "(見つけた青写真をこの人に渡したほうがいいかな……？)"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "By the way..."
+msgstr "ところで……"
+
+msgid "I found these weird blueprints a few minutes ago."
+msgstr "ついさっき、この変な青写真を見つけたの。"
+
+msgid "Just take them."
+msgstr "受け取って。"
+
+msgid "Otherwise I might change my mind."
+msgstr "さもないと、気が変わっちゃうかも。"
+
+msgid "Huh... this is..."
+msgstr "へえ……これは……"
+
+msgid "Thank you."
+msgstr "ありがとう。"
+
+msgid "You're doing the right thing, Kat. Your father would be glad."
+msgstr "キャット、あなたは正しい事をしてる。お父さんもきっと喜ぶよ。"
+
+msgid "It's okay to accept the life you're left with. Don't destroy it."
+msgstr "遺された人生を受け入れても良いんだよ。壊したりしないようにね。"
+
+msgid "...I guess."
+msgstr "……でしょうね。"
+
+msgid "Kat!!!"
+msgstr "キャット！！！"
+
+msgid "Go already. You can't be here."
+msgstr "さっさと行って。ここにいちゃ駄目。"
+
+msgid "If what you said is true..."
+msgstr "あなたの言ったことが本当なら……"
+
+msgid "Then thanks."
+msgstr "どうもありがとう。"
+
+msgid "I'll pass on the ritual."
+msgstr "儀式はやめておくわ。"
+
+msgid "For tonight."
+msgstr "今晩のところは。"
+
+msgid "That's good enough."
+msgstr "それだけでも充分。"
+
+msgid "A large pile of trash cans. They all seem to be empty."
+msgstr "ゴミ箱の大きな山。どれも空のようだ。"

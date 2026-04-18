@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.chr_mom.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "Lấy dao đó con."
+
+msgid "A knife."
+msgstr "Lấy dao."
+
+msgid "Off you go."
+msgstr "Con đi đi."
+
+msgid "Hm...?"
+msgstr "Hửm...?"
+
+msgid "Lacie, there you are."
+msgstr "Lacie, con đây rồi."
+
+msgid "I called you several times, didn't you hear me?"
+msgstr "Mẹ gọi con mấy lần mà con không nghe thấy à?"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I need you to go get me a _____."
+msgstr "Con đi lấy cái _____ cho mẹ với."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "A... what?"
+msgstr "Cái... gì ạ?"
+
+msgctxt "events.Ch1_BlackPass_Kitchen.event_cutscene.dlg.ch1_blackpass_mom"
+msgid "A knife, Lacie."
+msgstr "Lấy dao, con ơi."
+
+msgid "Oh."
+msgstr "Ồ."
+
+msgid "It shouldn't be too hard to find. It's in the closet in the garage."
+msgstr "Chắc kiếm không khó đâu. Ở trong tủ quần áo trong ga-ra ấy."
+
+msgid "...Okay."
+msgstr "...Dạ."
+
+msgid "Well done. Off you go."
+msgstr "Tốt lắm con. Giờ con đi đi."
+
+msgctxt "events.Ch1_BlackPass_Kitchen.item_knife_on_mom.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A kitchen counter. Mother seems to be preparing something."
+msgstr "Cái quầy bếp. Mẹ hình như đang sửa soạn gì đó."
+
+msgid "There's nothing on the counter."
+msgstr "Trên quầy không có cái gì hết."
+
+msgid "None of this can be used."
+msgstr "Trong này không dùng được cái gì cả."
+
+msgid "The surfaces are completely flat, and there are no handles."
+msgstr "Bề mặt thì hoàn toàn phẳng lì, với chẳng có tay cầm."
+
+msgid "It only looks like a kitchen on the surface..."
+msgstr "Nó chỉ trông giống phòng bếp ở bề mặt thôi..."
+
+msgid "Pick up ${item:global.reditem_2}?"
+msgstr "Nhặt ${item:global.reditem_2} lên chứ?"
+
+msgid "Yes"
+msgstr "Nhặt lên"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "An empty dining table."
+msgstr "Cái bàn ăn trống trơn."
+
+msgid "The passageway has closed behind you."
+msgstr "Lối đi đằng sau bạn đóng lại rồi."
+
+msgid "It's locked."
+msgstr "Bị khóa rồi."

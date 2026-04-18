@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What's this supposed to be? Do you guys sleep here?"
+msgstr "何でこんなものがあるの？　あなたたちここで寝てるわけ？"
+
+msgid "Obviously not."
+msgstr "そんなわけないじゃない。"
+
+msgid "I can't believe this, are you five years old?"
+msgstr "信じられない、あんた5歳児？"
+
+msgid "Isn't it interesting how electronics work?"
+msgstr "電気の働きって興味深くない？"
+
+msgid "But they DON'T work! Not anymore!"
+msgstr "でも働かなくなっちゃったじゃない！　今はもう！"
+
+msgid "I think you're wasting your breath..."
+msgstr "構うだけ無駄だと思うわよ……"
+
+msgid ""
+"\"Roses are red\n"
+"Violets are probably violet\""
+msgstr ""
+"「バラは赤く\n"
+"スミレはたぶんスミレ色で」"
+
+msgid ""
+"\"My love for you sparkles\n"
+"Like the glow of a diamond\""
+msgstr ""
+"「あなたへの愛はきらめく\n"
+"ダイヤの輝きのように」"
+
+msgid ""
+"\"I watch you every day\n"
+"I watch you every night\""
+msgstr ""
+"「毎日あなたを見てる\n"
+"毎晩あなたを見てる」"
+
+msgid "\"I watch you\""
+msgstr "「あなたを見てる」"
+
+msgid "\"I watch you I watch you I watch you I watch you I watch you I watch you\""
+msgstr "「あなたを見てるあなたを見てるあなたを見てるあなたを見てるあなたを見てるあなたを見てる」"
+
+msgid "The other side of the paper is filled with black scribbles."
+msgstr "裏側は乱雑に黒く塗りつぶされている。"
+
+msgid "That... doesn't sound right."
+msgstr "変な……手紙ね。"
+
+msgid "Is... everyone in your club okay?"
+msgstr "あなたの部の人……大丈夫？"
+
+msgid "Right now, I'm not sure..."
+msgstr "今は、自信が持てないわ……"
+
+msgid "I'd rather people didn't find out I was here."
+msgstr "私がここにいた証拠は残さないほうがいい。"
+
+msgid "Please don't mess up this room..."
+msgstr "頼むからこの部屋を荒らさないで……"
+
+msgid "A pile of neatly folded drapes."
+msgstr "きれいにたたまれたカーテンが積まれている。"
+
+msgid "Take them?"
+msgstr "持っていく？"
+
+msgctxt "events.Prologue_Club_Theater.item_curtains_get.choice.Take them?"
+msgid "Yes"
+msgstr "持っていく"
+
+msgctxt "events.Prologue_Club_Theater.item_curtains_get.choice.Take them?"
+msgid "No"
+msgstr "持っていかない"
+
+msgid "This could be useful."
+msgstr "これは使えるかも。"
+
+msgid "You don't need this anymore."
+msgstr "これ以上は必要ない。"
+
+msgid "Those poor boxes probably don't deserve it."
+msgstr "この箱は燃やすには忍びない。"
+
+msgid "Oh how I wish..."
+msgstr "ああ、そうできれば……"
+
+msgctxt "events.Prologue_Club_Theater.item_lighter_on_rack_clothes.dlg.prologue_girl1"
+msgid "..."
+msgstr "……"
+
+msgid "Alright, let's see..."
+msgstr "さて、どれどれ……"
+
+msgid "There's a ton of useless objects in the boxes and..... a letter."
+msgstr "大量の役に立たないものと……手紙。"
+
+msgid "Read it?"
+msgstr "読む？"
+
+msgctxt "events.Prologue_Club_Theater.item_scissors_on_boxes_bottom.choice.Read it?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Prologue_Club_Theater.item_scissors_on_boxes_bottom.choice.Read it?"
+msgid "No"
+msgstr "読まない"
+
+msgid "They're already open."
+msgstr "もう開いている。"
+
+msgid "There's no point in brandishing your scissors at them. They're already open."
+msgstr "わざわざハサミを使う必要はない。もう開いている。"
+
+msgid "Some blankets are sprawled all over the floor."
+msgstr "毛布が数枚床に散らかっている。"
+
+msgid "They are too heavy to use as curtains."
+msgstr "カーテンに使うには重すぎるわね。"
+
+msgid "A large pile of cardboard boxes sealed with tape."
+msgstr "テープで封がされた段ボール箱の山。"
+
+msgid "There's nothing else of interest in them."
+msgstr "他に興味を引くものは入っていない。"
+
+msgid "Read the letter?"
+msgstr "手紙を読む？"
+
+msgctxt "events.Prologue_Club_Theater.misc_boxes_bottom.choice.Read the letter?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Prologue_Club_Theater.misc_boxes_bottom.choice.Read the letter?"
+msgid "No"
+msgstr "読まない"
+
+msgid "Some cardboard boxes full of neatly folded costumes."
+msgstr "きちんとたたまれた衣装が詰まった段ボール箱。"
+
+msgid "Chairs. No time to rest right now."
+msgstr "椅子。今は座って休んでいる暇はない。"
+
+msgid "A chalkboard. There's a smiley face drawn on it."
+msgstr "黒板。笑顔マークが描いてある。"
+
+msgid "A chalkboard. The letter F is written on it."
+msgstr "黒板。「F」と書いてある。"
+
+msgid "A chalkboard. I can't tell what's drawn on it."
+msgstr "黒板。何が描いてあるのかはわからない。"
+
+msgid "A chalkboard. There are stars drawn on it."
+msgstr "黒板。星が描いてある。"
+
+msgid "Did you draw this?"
+msgstr "あなたが描いたの？"
+
+msgid "Do I look like the only member of this club?"
+msgstr "演劇部の部員が私だけだと思う？"
+
+msgid "So... did you draw this?"
+msgstr "で……あなたが描いたの？"
+
+msgid "...Maybe I did."
+msgstr "……かもね。"
+
+msgid "A chalkboard. The word \"THIEF\" is written on it."
+msgstr "黒板。「THIEF(泥棒)」と書いてある。"
+
+msgctxt "events.Prologue_Club_Theater.misc_chalkboard.dlg.kat"
+msgid "..."
+msgstr "……"
+
+msgid "A chalkboard. There's... something drawn on it."
+msgstr "黒板。何というか……何かが描いてある。"
+
+msgid "Where did they find red chalk...?"
+msgstr "赤のチョークなんてどこにあったんだろ……？"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.dlg.narrator"
+msgid "A soft red curtain."
+msgstr "柔らかい赤のカーテン。"
+
+msgid "Draw curtain?"
+msgstr "カーテンを引く？"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice.Draw curtain?"
+msgid "Yes"
+msgstr "引く"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice.Draw curtain?"
+msgid "No"
+msgstr "引かない"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice"
+msgid "Take them out?"
+msgstr "カーテンを外す？"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice.Take them out?"
+msgid "Yes"
+msgstr "外す"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_left.choice.Take them out?"
+msgid "No"
+msgstr "外さない"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_right.dlg.narrator"
+msgid "A soft red curtain."
+msgstr "柔らかい赤のカーテン。"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_right.choice"
+msgid "Take them out?"
+msgstr "カーテンを外す？"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_right.choice.Take them out?"
+msgid "Yes"
+msgstr "外す"
+
+msgctxt "events.Prologue_Club_Theater.misc_curtain_right.choice.Take them out?"
+msgid "No"
+msgstr "外さない"
+
+msgid "There's some paint and brushes in the drawer."
+msgstr "引き出しには絵の具と絵筆が入っている。"
+
+msgid "There are various makeup kits and accessories in the drawer."
+msgstr "引き出しにはさまざまなメイク用品とアクセサリーが入っている。"
+
+msgid "It's not working."
+msgstr "点かない。"
+
+msgid "It's not working anymore."
+msgstr "もう点かない。"
+
+msgid "Several hand made costumes are hanging from the rack."
+msgstr "手作りの衣装がいくつかハンガーにかかっている。"
+
+msgid "Blegh, they have poor taste in clothes."
+msgstr "うぇー、服のセンスはお粗末ね。"
+
+msgid "You DO know these are for acting, right...?"
+msgstr "これは演劇用よ、わかってるでしょ……？"
+
+msgid "A rack with various hats and scarves."
+msgstr "さまざまな帽子やスカーフがかかったラック。"
+
+msgid "A table with a blank sheet of poster paper and some colored pencils."
+msgstr "まっさらなポスター用紙と色鉛筆が置かれた机。"
+
+msgid "Is this what you do here?"
+msgstr "これが普段の活動？"
+
+msgid "If it's a drawing club, maybe I'll join, too."
+msgstr "お絵描きクラブなら、私も入ろうかな。"
+
+msgid "Please don't."
+msgstr "お願いだからやめて。"
+
+msgid "There's really no incentive to check out the contents of the trash can."
+msgstr "ゴミ箱の中身を確認する理由はない。"

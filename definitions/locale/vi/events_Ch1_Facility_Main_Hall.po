@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "So..."
+msgstr "Thế..."
+
+msgid "What is this place?"
+msgstr "Nơi này là gì?"
+
+msgid "What do I do about the primals?"
+msgstr "Làm sao đối với bọn nguyên sơ đây?"
+
+msgid "How do you know Sai?"
+msgstr "Sao mà cậu quen biết Sai thế?"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune.choice.So..."
+msgid "Never mind"
+msgstr "Không có gì"
+
+msgid "What exactly is this place?"
+msgstr "Cái nơi này rốt cuộc là gì thế?"
+
+msgid "Dunno!"
+msgstr "Hổng biết!"
+
+msgid "Nobody's been here for hundreds of years though."
+msgstr "Đã hàng trăm năm không ai tại đây rồi cơ."
+
+msgid "Interesting."
+msgstr "Thú vị."
+
+msgid "There's... shadowy-looking demons roaming around this place."
+msgstr "Có... loài quỷ trông kiểu bóng đen đang lang thang loanh quanh nơi này."
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune.dlg.rune"
+msgid "Indeed!"
+msgstr "Quả vậy!"
+
+msgid "They are called primals."
+msgstr "Bọn nó được gọi là loài nguyên sơ."
+
+msgid "Best not to approach them."
+msgstr "Đừng lại gần bọn nó là tốt nhất."
+
+msgid "Told you so."
+msgstr "Bảo em rồi."
+
+msgid "You two said you've had several encounters with each other?"
+msgstr "Hai người có nói hai người đã gặp mặt nhau mấy lần rồi á?"
+
+msgid "I do a lot of rituals."
+msgstr "Tôi làm rất nhiều nghi thức."
+
+msgid "A lot of rituals?"
+msgstr "Rất nhiều nghi thức á?"
+
+msgid "And... you've survived?"
+msgstr "Rồi... anh còn sống đây?"
+
+msgid "You almost look disappointed."
+msgstr "Trông mặt em cứ như thấy thất vọng vậy."
+
+msgid "Rune bounces up and down."
+msgstr "Rune nhún nảy lên xuống."
+
+msgid "By the way..."
+msgstr "Nhân thể..."
+
+msgid "The way to go \"deeper\" seems to be flooded."
+msgstr "Cái đường để đi \"sâu hơn\" thấy là bị ngập mất rồi."
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_extra.dlg.rune"
+msgid "Indeed!"
+msgstr "Quả vậy!"
+
+msgid "Do I have to swim...?"
+msgstr "Tôi có phải bơi không...?"
+
+msgid "Do you? I wonder!"
+msgstr "Cậu tính thế sao? Tớ thắc mắc đấy!"
+
+msgid "Sigh..."
+msgstr "Haầy..."
+
+msgid "Miss Lacie!"
+msgstr "Tiểu thư Lacie!"
+
+msgid "Have you misplaced Mr. Sai?"
+msgstr "Cậu bỏ quên mất cậu Sai rồi à?"
+
+msgid "Uh..."
+msgstr "Ờ..."
+
+msgid "Something like that."
+msgstr "Kiểu kiểu như thế."
+
+msgid "How come?"
+msgstr "Sao lại thế?"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'm just more comfortable being alone."
+msgstr "Do tôi thấy ở một mình thì thoải mái hơn thôi."
+
+msgid "Ooh! I feel the same!"
+msgstr "Ồồ! Tớ cũng thấy thế!"
+
+msgid "Anyway..."
+msgstr "Mà..."
+
+msgid "How did I miss the lighthouse?"
+msgstr "Không biết sao tôi bỏ qua mất nhà hải đăng?"
+
+msgid "How will you get out of here?"
+msgstr "Cậu tính ra khỏi đây thế nào?"
+
+msgid "Tell me more about Sai."
+msgstr "Cho tôi biết thêm về Sai đi."
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.choice.Anyway..."
+msgid "Never mind"
+msgstr "Không có gì"
+
+msgid "So... I went north, but somehow I didn't come across the lighthouse."
+msgstr "Thì là... tôi có đi về phía bắc, nhưng không biết sao lại không có thấy được cái nhà hải đăng."
+
+msgid "Where did I go wrong?"
+msgstr "Tôi đi sai ở đâu ta?"
+
+msgid "Hmm..."
+msgstr "Hừm..."
+
+msgid "Did you reach the lake?"
+msgstr "Cậu có tới được chỗ cái hồ chưa?"
+
+msgid "Yes."
+msgstr "Rồi."
+
+msgid "Did you cross the lake?"
+msgstr "Cậu có đi qua hồ chưa?"
+
+msgid "Yes, I took a boat."
+msgstr "Có dùng thuyền chèo qua mà."
+
+msgid "You should have been able to spot it from there!"
+msgstr "Thế thì cậu phải thấy được ngay ở khúc đó rồi chứ!"
+
+msgid "Oh, I couldn't see much because of the fog, so I just tried to keep rowing in the same direction."
+msgstr "Ờ, khúc đó có sương mù nên tôi không thấy đường được mấy, thành ra cứ chèo thuyền mãi một hướng."
+
+msgid "I must have taken a wrong turn somewhere..."
+msgstr "Hẳn là ở chỗ nào đó đi nhầm rồi cũng nên..."
+
+msgid "That's too bad."
+msgstr "Tệ quá nhỉ."
+
+msgid "If this place is a dead end, how do you intend to leave?"
+msgstr "Nếu cái nơi này là đường cùng rồi thì cậu tính đi ra thế nào?"
+
+msgid "I will stick around here for a bit longer!"
+msgstr "Tớ sẽ nán lại đây thêm chút nữa!"
+
+msgid "But after that?"
+msgstr "Nhưng mà sau đó?"
+
+msgid "After that what?"
+msgstr "Sau đó gì cơ?"
+
+msgid "How do you plan to get out?"
+msgstr "Cậu tính đường ra khỏi đây làm sao?"
+
+msgid "I don't plan to get out for the moment! I will stick around for a bit longer!"
+msgstr "Trước mắt tớ không có kế hoạch ra khỏi đây! Tớ sẽ nán lại thêm chút nữa!"
+
+msgid "But..."
+msgstr "Nhưng mà..."
+
+msgid "Miss Lacie, I will stick around here for a bit longer!"
+msgstr "Tiểu thư Lacie à, tớ sẽ nán lại đây thêm chút nữa!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "I see..."
+msgstr "Thế á..."
+
+msgid "Do you know anything else about Sai? What kind of person is he?"
+msgstr "Cậu có biết gì nữa về cái anh Sai này không? Cái anh này là kiểu người ra sao?"
+
+msgid "Hmmm..."
+msgstr "Hừmm..."
+
+msgid "I don't know."
+msgstr "Tớ không biết."
+
+msgid "He never talks about himself."
+msgstr "Cậu ấy chẳng nói về bản thân bao giờ."
+
+msgid "And he never gives me runes."
+msgstr "Với chẳng cho tớ rune bao giờ nữa."
+
+msgid "Is he a demon?"
+msgstr "Có phải ảnh là quỷ không?"
+
+msgid "He's not!"
+msgstr "Không phải!"
+
+msgid "Oh... really?"
+msgstr "Ồ... thật hả?"
+
+msgid "Although there is something different about him."
+msgstr "Mặc dù cậu ấy thì cũng có gì đó khác biệt."
+
+msgid "Much like you, Miss Lacie, I couldn't tell right away that he's human."
+msgstr "Tớ nhìn không thể biết ngay cậu ấy là con người được, giống Tiểu thư Lacie vậy đó."
+
+msgid "Normally I can smell it from quite far!"
+msgstr "Bình thường từ xa tít tớ cũng ngửi được cơ!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.chr_rune_nosai.dlg.lacie"
+msgid "Oh."
+msgstr "Ồ."
+
+msgid "Strange."
+msgstr "Lạ nhỉ."
+
+msgid "The way forward is blocked by some sort of door."
+msgstr "Con đường đi tiếp bị cánh cửa gì đó chặn lại."
+
+msgid "This wasn't here before..."
+msgstr "Lúc trước ở đây đâu có..."
+
+msgid "(It's dead...?)"
+msgstr "(Nó chết rồi...?)"
+
+msgid "Good riddance."
+msgstr "Rảnh nợ."
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_ending_13_primals.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Another one..?"
+msgstr "Một con khác nữa...?"
+
+msgid "That makes two."
+msgstr "Thế là hai con rồi."
+
+msgid "(What killed it...?)"
+msgstr "(Cái gì giết tụi nó ta...?)"
+
+msgid "Are you sensing a pattern here or is it just me?"
+msgstr "Em có cảm nhận được cái quy luật gì đó ở đây rồi không hay có tôi thấy thế thôi ta?"
+
+msgid "(Really... what happened here?)"
+msgstr "(Thật à... cái gì đã xảy ra ở đây?)"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_ending_13_primals.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "Must be my imagination."
+msgstr "Chắc do tôi tưởng tượng ra."
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.rune"
+msgid "Ooh!"
+msgstr "Ồ!"
+
+msgid "Miss L-"
+msgstr "Tiểu thư L-"
+
+msgid "Shh!"
+msgstr "Suỵt!"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "I don't give my name to just anyone, Rune."
+msgstr "Không phải tôi cứ đụng ai là nói tên ra đâu Rune."
+
+msgid "Very wise!"
+msgstr "Rất sáng suốt!"
+
+msgid "What?!"
+msgstr "Hả?!"
+
+msgid "You told this goblin your name but not me?"
+msgstr "Em nói cho thằng goblin này tên em mà không nói cho tôi sao?"
+
+msgid "You're still suspicious."
+msgstr "Anh vẫn còn đáng nghi."
+
+msgid "Suspicious?"
+msgstr "Đáng nghi á?"
+
+msgid "What can I even do with your name? This is ridiculous."
+msgstr "Biết tên em thì tôi có làm được gì? Thế này đúng là nực cười."
+
+msgid "I read of a curse that can kill someone just by writing their name in a notebook."
+msgstr "Tôi đọc có cái lời nguyền có thể giết người chỉ bằng cách viết tên người ta vào vở thôi đấy."
+
+msgid "Is that the same place you read about the salt?"
+msgstr "Em cũng đọc cái trò văng muối từ chỗ đó luôn á?"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Hello Mr. Sai!"
+msgstr "Xin chào Quý ông Sai!"
+
+msgid "Yo."
+msgstr "Dzâu."
+
+msgid "Rune, you know him?"
+msgstr "Ủa Rune, cậu quen cái anh này hả?"
+
+msgid "Yes! Though my encounters with Mr. Sai are often brief, as he does not provide me with runes."
+msgstr "Ừ! Mà tớ gặp mặt Quý ông Sai thì thường ngắn gọn lắm, tại cậu ấy không cung cấp rune cho tớ."
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_facility.dlg.lacie"
+msgid "Oh."
+msgstr "Ồ."
+
+msgid "Give me a break man, it's not like those things are just lying around."
+msgstr "Bớt giỡn đi, cái thứ đó đâu phải cứ tự nhiên nằm lăn ra đất để mà lụm đâu."
+
+msgid "(I guess that's true...)"
+msgstr "(Quả vậy thật...)"
+
+msgid "(Well, I did find one...)"
+msgstr "(Cơ mà mình có kiếm được một cái...)"
+
+msgid "(They kind of are, though...)"
+msgstr "(Thấy cũng nằm lăn ra đất mấy cái mà...)"
+
+msgid "How did you get here?"
+msgstr "Cậu đến đây làm sao được thế?"
+
+msgid "I walked."
+msgstr "Tớ đi bộ."
+
+msgid "I see."
+msgstr "Hiểu rồi."
+
+msgid "Unfortunately, I'm still looking for the lighthouse."
+msgstr "Không hay là tôi vẫn còn tìm chưa ra cái nhà hải đăng."
+
+msgid "Ooh."
+msgstr "Ồ."
+
+msgid "The lighthouse isn't here! You must have taken a wrong turn somewhere."
+msgstr "Ở đây không có nhà hải đăng! Hẳn là cậu rẽ nhầm đường chỗ nào rồi."
+
+msgid "And there's no way to go back outside from here."
+msgstr "Và từ đây không có cách nào ra lại bên ngoài hết."
+
+msgid "What?"
+msgstr "Cái gì?"
+
+msgid "We're stuck here?"
+msgstr "Mình kẹt đây luôn?"
+
+msgid "Possibly. Some doorknobs are one-way only."
+msgstr "Khả năng là thế. Vài cái núm cửa chỉ đi một chiều thôi."
+
+msgid "Rune, do you have any idea where I could go from here to reach the lighthouse?"
+msgstr "Rune này, từ ngay đây mà đến được cái hải đăng thì cậu có ý tưởng gì không?"
+
+msgid "The only way forward is by going deeper down."
+msgstr "Đường duy nhất tiến lên là đi xuống sâu hơn."
+
+msgid "The stairs are right there, in fact!"
+msgstr "Thật ra là có cầu thang ngay kia kìa!"
+
+msgid "That looks like a dead end."
+msgstr "Trông như đường cụt rồi."
+
+msgid "Yes, death is highly probable at all times!"
+msgstr "Ừ, bất cứ lúc nào cái chết cũng vô cùng chắc hẳn!"
+
+msgid "But, I heard there's a cursed door down there somewhere."
+msgstr "Nhưng, tớ nghe nói đâu dưới đó có cái cánh cửa nguyền."
+
+msgid "If you're lucky, it might lead you somewhere!"
+msgstr "Nếu gặp may thì cánh cửa nó sẽ dẫn hai người đi đâu đấy!"
+
+msgid "Or if you're unlucky, it might not!"
+msgstr "Còn nếu rủi thì có khi là không được!"
+
+msgid "(Another cursed door huh...)"
+msgstr "(Lại cửa nguyền nữa hử...)"
+
+msgid "(If there's a cursed door, then maybe there's a way out of here.)"
+msgstr "(Nếu mà có cửa nguyền, vậy có khi là có đường ra khỏi đây.)"
+
+msgid "(Or at the very least, I could still go home if I'm stuck.)"
+msgstr "(Hoặc chí ít thì nếu bế tắc thì mình vẫn có thể về nhà được.)"
+
+msgid "(I have the doorknob, after all.)"
+msgstr "(Đằng nào mình cũng có cái núm cửa rồi mà.)"
+
+msgid "(That doorknob... When I got it in the mail, it came with instructions. Almost like a ritual.)"
+msgstr "(Cái núm cửa đây... Hồi khi mình có được từ cái lá thư thì có đi kèm hướng dẫn. Gần hệt nghi thức vậy.)"
+
+msgid "(It involved folding my ritual letter into an origami lily, and placing it in some vase.)"
+msgstr "(Các bước bao gồm gấp lá thư thành hoa bách hợp origami, rồi đặt vào trong cái lọ nào đó.)"
+
+msgid "(I thought it was a joke, but...)"
+msgstr "(Mình tưởng đó chỉ là đùa, nhưng mà...)"
+
+msgid "\"It's imperative that you learn how to fold it, if you don't, you'll regret it.\""
+msgstr "\"Bắt buộc phải học cách gấp, nếu mà không thuộc là hối hận không kịp nhé.\""
+
+msgid "(Anyways, I brought the folding instructions with me, just in case.)"
+msgstr "(Dù sao thì mình có mang hướng dẫn gấp đi theo để đề phòng rồi.)"
+
+msgid "Yo, you there? You're spacing out."
+msgstr "Dzâu, em ơi? Đang ngẩn ngơ kìa."
+
+msgid "Ah... yeah."
+msgstr "À... ừ."
+
+msgid "Good luck on your quest!"
+msgstr "Chúc mạo hiểm may mắn nhé!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.event_rune_give_rune.dlg.rune"
+msgid "Ooh!"
+msgstr "Ôồ!"
+
+msgid "I have just the thing for you!"
+msgstr "Tớ có ngay món này cho câu đây!"
+
+msgid "It's a map!"
+msgstr "Đó là bản đồ!"
+
+msgid "A map...?"
+msgstr "Bản đồ à...?"
+
+msgid "Let's see, here you go!"
+msgstr "Để coi, của cậu đây!"
+
+msgid "I love runes!"
+msgstr "Tớ yêu thích rune!"
+
+msgid "Yay! Today is my lucky day!"
+msgstr "Dzê! Hôm nay là ngày may mắn của tớ!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.sai"
+msgid "Oh."
+msgstr "Ô."
+
+msgid "Are we doing my idea?!"
+msgstr "Thế là làm theo ý tưởng tôi hể?!"
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Facility_Main_Hall.item_bucket_on_water.dlg.lacie"
+msgid "No."
+msgstr "Không."
+
+msgid "But it might work!"
+msgstr "Nhưng mà biết đâu được ấy!"
+
+msgid "We just have to pick up water from here and empty it somewhere."
+msgstr "Cứ múc nước đây rồi đổ nước đi chỗ nào đó thôi."
+
+msgid "And just repeat that a couple of times."
+msgstr "Rồi cứ lặp đi lặp lại mấy lần."
+
+msgid "Or, a lot of times."
+msgstr "Hoặc là rất nhiều lần."
+
+msgid "Right?"
+msgstr "Đúng không ta?"
+
+msgid "We just need, like..."
+msgstr "Thì chỉ cần, thì là đổ vào..."
+
+msgid "A bathtub or a sink or something."
+msgstr "Bồn tắm, bồn rửa mặt hay đại loại."
+
+msgid "Eventually, the water level will be lower."
+msgstr "Dần dà mực nước nó sẽ giảm xuống thôi."
+
+msgid "This is ridiculous."
+msgstr "Vớ va vớ vẩn."
+
+msgid "Here, I can carry that for you."
+msgstr "Đây, để tôi xách cho em."
+
+msgid "I can do it."
+msgstr "Tôi tự làm."
+
+msgid "Alriiight."
+msgstr "Đưượơc luôn."
+
+msgid "What are you doing?"
+msgstr "Các cậu đang làm gì thế?"
+
+msgid "Nothing."
+msgstr "Không có gì hết."
+
+msgid "We're lowering the water level."
+msgstr "Bọn này đang giảm mực nước."
+
+msgid "Oooh..."
+msgstr "Ồồồ..."
+
+msgid "This looks highly inefficient!"
+msgstr "Trông rất ư là thiếu hiệu quả!"
+
+msgid "Yeah, well, why don't you help then?"
+msgstr "Ừ, thế, cậu qua đây giúp với nào?"
+
+msgid "It'll go faster."
+msgstr "Để múc cho nhanh cái."
+
+msgid "That's okay!"
+msgstr "Không sao!"
+
+msgid "I'm satisfied over here."
+msgstr "Tớ bên đây là thỏa mãn rồi."
+
+msgid "Hey!"
+msgstr "Ê!"
+
+msgid "I think the water level already went down a bit!"
+msgstr "Tôi thấy mực nước đi xuống một tí rồi nha!"
+
+msgid "(It hasn't moved at all...)"
+msgstr "(Chả xuống tí nào hết...)"
+
+msgid "Oh, you can keep it!"
+msgstr "Ồ, cậu giữ nó cũng được!"
+
+msgid "Rune doesn't need it back."
+msgstr "Rune không cần nó lại."
+
+msgid "A cursed artifact from the depths, best left forgotten."
+msgstr "Món tạo vật bị nguyền rủa từ thâm uyên, tốt nhất hãy đi vào quên lãng."
+
+msgid "Please, I don't want to see this thing ever again."
+msgstr "Thôi xin, tôi không muốn thấy cái thứ này bao giờ nữa."
+
+msgid "It's a button. It probably controls the gate."
+msgstr "Này là cái nút bấm. Chắc hẳn là điều khiển cái cánh cổng."
+
+msgid "Press the button?"
+msgstr "Nhấn nút chứ?"
+
+msgid "Yes"
+msgstr "Nhấn"
+
+msgid "No"
+msgstr "Thôi"
+
+msgid "Nothing happens."
+msgstr "Không gì xảy ra hết."
+
+msgid "A large gate blocks your path."
+msgstr "Cánh cổng lớn chặn đường bạn."
+
+msgid "A crow standing on a white tree stump."
+msgstr "Con quạ đậu trên cái gốc đốn màu trắng."
+
+msgid "I can't tell if it's the same one... but I'm glad to see it."
+msgstr "Mình không biết nổi có phải cùng con quạ hay không... nhưng mà thấy được là mừng rồi."
+
+msgid "Are you friends with the crows?"
+msgstr "Em bạn bè với quạ hả?"
+
+msgid "Sorta. They appear here and there like save points."
+msgstr "Kiểu vậy. Bọn nó xuất hiện đó đây như điểm lưu game á."
+
+msgid "?????"
+msgstr "?????"
+
+msgid "The crow isn't here right now."
+msgstr "Bây giờ con qua không còn đây rồi."
+
+msgid "A tree that seems to be growing out of the concrete floor."
+msgstr "Cái cây dường như từ cái sàn bê-tông mọc lên."
+
+msgid "(Unusual place for a tree.)"
+msgstr "(Cây mọc chỗ này thì bất thường đó.)"
+
+msgid "The path forward is flooded."
+msgstr "Con đường đi tiếp bị ngập rồi."
+
+msgid "(Deeper down... do we have to go this way?)"
+msgstr "(Xuống sâu hơn... ta có cần phải đi đường này không?)"
+
+msgid "(That's impossible... does Rune expect us to swim?)"
+msgstr "(Không thể nào... Rune tính là hai ta bơi xuống á?)"
+
+msgid "Hear me out."
+msgstr "Nghe tôi này."
+
+msgid "What if we took all this water..."
+msgstr "Nếu mà mình lấy hết đống nước này..."
+
+msgid "And put it somewhere else?"
+msgstr "Rồi đưa qua đâu khác thì sao?"
+
+msgctxt "events.Ch1_Facility_Main_Hall.misc_water.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Do you have a screw loose?"
+msgstr "Đầu óc anh chập cheng hả?"
+
+msgid "Look, I know it sounds crazy!"
+msgstr "Ừ thì biết là nghe thấy điên rồi!"
+
+msgid "And we'd need a bucket..."
+msgstr "Và cần phải có xô mới được..."
+
+msgid "It's impossible."
+msgstr "Thế thì bất khả thi."
+
+msgid "And it would take a lot of trips..."
+msgstr "Và phải múc nhiều chuyến mới được..."
+
+msgid "I can't believe I'm hearing this."
+msgstr "Không thể tin được mình đứng nghe."
+
+msgid "(But maybe... we can lower the water level somehow?)"
+msgstr "(Nhưng mà có khi... bằng cách nào đó ta hạ được mực nước xuống?)"
+
+msgctxt "events.Ch1_Facility_Main_Hall.move_door_tl.dlg.narrator"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Ch1_Facility_Main_Hall.move_door_tr.dlg.narrator"
+msgid "It's locked."
+msgstr "Bị khóa rồi."

@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That doesn't seem like a good idea."
+msgstr "Essa não parece ser uma boa ideia."
+
+msgid "The hole is big enough."
+msgstr "O buraco é grande o bastante."
+
+msgid "There's no reason to go back."
+msgstr "Não tem motivo para retornar."
+
+msgid "There's no reason to do that."
+msgstr "Não tem motivo para fazer isso."
+
+msgid "There's a gate nearby!"
+msgstr "Tem um portão próximo!"
+
+msgid "There's quite a bit of blood in this spot."
+msgstr "Há bastante sangue nesse local."
+
+msgid "Someone's remains. You can't tell whether they're human or not."
+msgstr "Os restos de alguém. Você não sabe dizer se são restos humanos ou não."
+
+msgid "I'd rather not go back in there."
+msgstr "Eu preferiria não voltar lá."
+
+msgid "The grass is definitely greener on this side."
+msgstr "A grama definitivamente é mais verde desse lado."
+
+msgid "A fence blocks your path."
+msgstr "Uma cerca bloqueia seu caminho."
+
+msgid "Use ${item:ch1.forest_bolt_cutter}?"
+msgstr "Usar o ${item:ch1.forest_bolt_cutter}?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "A long fence."
+msgstr "Uma cerca longa."
+
+msgid "There's no way I'm going back in there."
+msgstr "De jeito nenhum eu vou voltar lá dentro."
+
+msgid "There's a note on the floor:"
+msgstr "Tem uma nota no chão:"
+
+msgid "The petal trail ends here."
+msgstr "A trilha de pétalas acaba aqui."
+
+msgid "They didn't make it to the exit..."
+msgstr "Eles não conseguiram chegar na saída..."

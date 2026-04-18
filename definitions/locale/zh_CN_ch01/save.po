@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Prologue: School"
+msgstr "序章：学校"
+
+msgid "Prologue: Occult Club"
+msgstr "序章：灵异社"
+
+msgid "Prologue: Hallway of Doors"
+msgstr "序章：门之长廊"
+
+msgid "Prologue: Into the Door"
+msgstr "序章：门的内部"
+
+msgid "Paper Lily: Chapter 1"
+msgstr "纸百合：第一章"
+
+msgid "Chapter 1: Home"
+msgstr "第一章：家"
+
+msgid "Chapter 1: Home (Night)"
+msgstr "第一章：家（夜晚）"
+
+msgid "Chapter 1: Bus Stop"
+msgstr "第一章：巴士站"
+
+msgid "Chapter 1: Forest"
+msgstr "第一章：森林"
+
+msgid "Chapter 1: Red's Treehouse"
+msgstr "第一章：瑞德的树屋"
+
+msgid "Chapter 1: Lakeside"
+msgstr "第一章：湖岸"
+
+msgid "Chapter 1: Lavender Area"
+msgstr "第一章：薰衣草区"
+
+msgid "Chapter 1: Facility"
+msgstr "第一章：设施"
+
+msgid "Chapter 1: Miss Knives' Home"
+msgstr "第一章：莉刃小姐的家"
+
+msgid "Paper Lily: Chapter 2"
+msgstr "纸百合：第二章"

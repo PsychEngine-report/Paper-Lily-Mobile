@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OH."
+msgstr "О."
+
+msgid "A child."
+msgstr "Дитя."
+
+msgid "A child is in my gallery. But my gallery is closed. So how can a child be in my gallery?"
+msgstr "Дитя в моей галерее. Но моя галерея ведь закрыта. Так каким образом дитя может быть в моей галерее?"
+
+msgid "Atrocious."
+msgstr "Мерзость."
+
+msgid "Smells like..."
+msgstr "Пахнет как..."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "GARBAGE."
+msgstr "ПОМОИ."
+
+msgid "What? That's not true..."
+msgstr "Что? Неправда..."
+
+msgid "Who is this child?"
+msgstr "Кто это дитя?"
+
+msgid "My name is Lacie."
+msgstr "Меня зовут Лэйси."
+
+msgid "(Wait... I shouldn't give out my name like that to demons!)"
+msgstr "(Постойте... не стоит так легкомысленно раскрывать демонам своё имя!)"
+
+msgid "Lacie..."
+msgstr "Лэйси..."
+
+msgid "(Did he figure out I'm human...?)"
+msgstr "(Он понял, что я человек?)"
+
+msgid "So..."
+msgstr "Итак..."
+
+msgid "What is your name?"
+msgstr "Как вас зовут?"
+
+msgid "What's under that drape?"
+msgstr "Что под тем покрывалом?"
+
+msgid "You seem better now."
+msgstr "Вам уже лучше."
+
+msgid "You're dropping a lot of flowers."
+msgstr "С вас падает много цветов."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.choice.So..."
+msgid "Never mind"
+msgstr "Ничего"
+
+msgid "Kett is what I am called."
+msgstr "Меня прозвали Кетт."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "Oh."
+msgstr "Вот как."
+
+msgid "And who are you?"
+msgstr "А вас?"
+
+msgid "I... already told you my name."
+msgstr "Я ведь уже говорила."
+
+msgid "(He forgot it...? Maybe that's a good thing.)"
+msgstr "(Он забыл моё имя? Может, оно и к лучшему.)"
+
+msgid "Please excuse me. I have no use for meaningless information in my mind."
+msgstr "Прошу меня простить. Бессмысленная информация моему разуму ни к чему."
+
+msgid "No... that's okay."
+msgstr "О. Я понимаю..."
+
+msgid "A commission."
+msgstr "Заказ."
+
+msgid "I have been stuck, blocked, uninspired, you could say."
+msgstr "Я топтался на месте, не мог думать, не находил вдохновения, можно даже сказать."
+
+msgid "FOR AGES."
+msgstr "И УЖЕ БОГ ЗНАЕТ СКОЛЬКО ВРЕМЕНИ."
+
+msgid "Everything I made..."
+msgstr "Все мои творения..."
+
+msgid "But now suddenly I feel..."
+msgstr "Но сейчас я внезапно понял, что я..."
+
+msgid "Awaken."
+msgstr "Пробудился."
+
+msgid "You seemed very um...crazy...a while ago."
+msgstr "Совсем недавно вы были будто... не в себе."
+
+msgid "Ah, sleep deprivation."
+msgstr "Ах, недосып."
+
+msgid "I feel that."
+msgstr "Понимаю."
+
+msgid "HOWEVER, AN ANGEL delivered salvation to me."
+msgstr "ОДНАКО, АНГЕЛАМИ мне было ниспослано спасенье!"
+
+msgid "I brought you that."
+msgstr "Это я вам принесла."
+
+msgid "IF I COULD FIND THIS ANGEL, well, they would be humbly welcomed into my gallery, for no fee."
+msgstr "НАЙДИ Я ЭТОГО АНГЕЛА, то с удовольствием бы пустил его в свою галерею, без платы."
+
+msgid "It was me."
+msgstr "Это всё я."
+
+msgid "BUT ALAS."
+msgstr "НО УВЫ И АХ."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "They are the fruit of my inspiration."
+msgstr "Это плоды моего вдохновения."
+
+msgid "I picked up some of your inspiration, I hope you don't mind."
+msgstr "Я взяла у вас немного вдохновения, ничего?"
+
+msgid "Your inspiration is all over the floor."
+msgstr "У вас вдохновение по полу разбросано."
+
+msgid "What is that commission about?"
+msgstr "А что за заказ?"
+
+msgid "I keep my business matters private."
+msgstr "Мои рабочие дела строго конфиденциальны."
+
+msgid "Can I commission you for a piece?"
+msgstr "Можно тоже у вас что-то заказать?"
+
+msgid "Of course. You may add your name to my waiting list."
+msgstr "Разумеется. Можете вписать своё имя в список ожидания."
+
+msgid "...Never mind then."
+msgstr "...Тогда не надо."
+
+msgid "Where is it?"
+msgstr "А где он?"
+
+msgid "On the wall."
+msgstr "На стене."
+
+msgid "Why don't you make anything colorful?"
+msgstr "Почему бы вам не сделать что-то цветастое?"
+
+msgid "Color....ful..?"
+msgstr "Цве...тастое?.."
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_extra.dlg.kett"
+msgid "..."
+msgstr "..."
+
+msgid "What ever do you mean?"
+msgstr "Что вы имеете в виду?"
+
+msgid "Well...all of your...art...is blue or grey."
+msgstr "Ну... всё ваше искусство... либо голубое, либо серое."
+
+msgid "Blue...? Grey...?"
+msgstr "Голубое?.. Серое?.."
+
+msgid "(He seems really perplexed.)"
+msgstr "(Он кажется не на шутку озадаченным.)"
+
+msgid "What did you smell on me earlier?"
+msgstr "Что вы почувствовали, когда ко мне принюхались?"
+
+msgid "I don't recall the event you're referring to."
+msgstr "Не припоминаю этого эпизода."
+
+msgid "Because you don't keep meaningless information in your mind?"
+msgstr "Потому что бессмысленная информация ни к чему вашему креативному разуму?"
+
+msgid "Yes, how did you know?"
+msgstr "Верно, откуда вы знаете?"
+
+msgid "Just a feeling."
+msgstr "Так, шестое чувство."
+
+msgid "Of course.. the patterns must match on each limb."
+msgstr "Само собой... узоры должны соответствовать друг другу на всех конечностях."
+
+msgid "But how shall I go about it...?"
+msgstr "Но как же к этому подступиться?"
+
+msgid "Kett seems to be concentrated."
+msgstr "Кетт, кажется, сконцентрирован."
+
+msgid "There's someone there. Grab their attention?"
+msgstr "Здесь кто-то есть. Привлечь его внимание?"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.dlg.kett"
+msgid "!!!"
+msgstr "!!!"
+
+msgid "He seems to be asleep."
+msgstr "Он, кажется, спит."
+
+msgid "I'd really rather not bother him..."
+msgstr "Я бы его сейчас не беспокоила..."
+
+msgid "This isn't the time for that."
+msgstr "Сейчас на это нет времени."
+
+msgid "This is from the lighthouse."
+msgstr "Это с маяка."
+
+msgid "Garbage."
+msgstr "Мусор."
+
+msgid "Huh? Really?"
+msgstr "Да вы что?"
+
+msgid "It sickens me."
+msgstr "Меня от этого воротит."
+
+msgid "Do you know where the lighthouse is?"
+msgstr "А вы знаете, где найти маяк?"
+
+msgid "Begone, child."
+msgstr "Прочь, дитя."
+
+msgid "...Guess not."
+msgstr "...Похоже, не знаете."
+
+msgid "This candle looks familiar to me. How curious."
+msgstr "Эта свеча мне знакома... как интересно."
+
+msgid "What is that garbage smell?"
+msgstr "Что это за вонь?"
+
+msgid "You may keep that. It is little more than garbage to me."
+msgstr "Можешь оставить себе. Для меня это не больше чем мусор."
+
+msgid "A rock. It's carving is skillful."
+msgstr "Камешек. С искуссно вырезьбленным символом."
+
+msgid "Could there be another artist out there...?"
+msgstr "Быть может, где-то есть ещё один созидатель?"
+
+msgctxt "events.Ch1_Artist_1F.item_runes_on_kett.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "No. Impossible."
+msgstr "Нет. Невозможно."
+
+msgctxt "events.Ch1_Artist_1F.item_snack_on_kett.dlg.kett"
+msgid "!!!"
+msgstr "!!!"
+
+msgid "(He ate it!?)"
+msgstr "(Он это съел?!)"
+
+msgid "This tool is not well suited for carving."
+msgstr "Таким резьбой не позанимаешься."
+
+msgid "This is one of those things that isn't very interesting when seen from behind."
+msgstr "Подобные предметы не вызывают никакого интереса, если смотреть сзади."
+
+msgid "Blue paint."
+msgstr "Синяя краска."
+
+msgid "A blank canvas. Paint something?"
+msgstr "Пустой холст. Нарисовать что-нибудь?"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "No"
+msgstr "Нет"
+
+msgid "What should I paint?"
+msgstr "Что мне нарисовать?"
+
+msgid "A blue butterfly"
+msgstr "Синюю бабочку"
+
+msgid "A self-portrait"
+msgstr "Саму себя"
+
+msgid "Hiro"
+msgstr "Хиро"
+
+msgid "A portrait of Kett"
+msgstr "Портрет Кетта"
+
+msgid "A ghost"
+msgstr "Призрака"
+
+msgid "A dinosaur"
+msgstr "Динозавра"
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.What should I paint?"
+msgid "Never mind"
+msgstr "Ничего"
+
+msgid "Show drawing here"
+msgstr "Показать картину здесь"
+
+msgid "It's the painting I made. Kett will probably trash it soon enough."
+msgstr "Это картина, которую я нарисовала. Скорее всего, Кетт её скоро увидит и выкинет."
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "Подобрать предмет: ${item:ch1.kett_flower}?"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "Подобрать предмет: ${item:ch1.kett_flower}?"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "Подобрать предмет: ${item:ch1.kett_flower}?"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A waiting list. It has over a hundred names on it."
+msgstr "Список очереди. На нём написаны сотни имён."
+
+msgid "...Never mind."
+msgstr "...Забудем об этом."
+
+msgid "A painting of some landscape."
+msgstr "Картина с пейзажем."
+
+msgid "There must be a huge sculpture hidden under this drape."
+msgstr "Под этой тканью должна скрываться массивная скульптура."
+
+msgid "Check under the drape?"
+msgstr "Заглянуть под ткань?"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "No"
+msgstr "Нет"
+
+msgid "It looks like an unfinished sculpture of a lady. She looks like she's made of porcelain."
+msgstr "Выглядит как незаконченная скульптура девушки. Она будто бы сделана из фарфора."
+
+msgid "There's a sculpture of a lady under this drape."
+msgstr "Под тканью находится скульптура девушки."
+
+msgid "A tall vase."
+msgstr "Высокая ваза."
+
+msgid "Reach inside?"
+msgstr "Засунуть туда руку?"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "No"
+msgstr "Нет"
+
+msgid "There's nothing inside."
+msgstr "Внутри ничего нет."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.narrator"
+msgid "A small art piece."
+msgstr "Небольшое произведение искусства."
+
+msgid "A weird thing."
+msgstr "Что-то странное."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "What... is this?"
+msgstr "Что...это?"
+
+msgid "A twisty pot."
+msgstr "Извилистый горшок."
+
+msgid "A broken pot."
+msgstr "Сломанный горшок."
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_5.dlg.narrator"
+msgid "A small art piece."
+msgstr "Небольшое произведение искусства."
+
+msgid "It looks like a dinosaur."
+msgstr "Выглядит как динозавр."
+
+msgid "A small dinosaur."
+msgstr "Маленький динозавр."

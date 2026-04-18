@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Remove the red string?"
+msgstr "移除紅線嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "This is the cable I need to tie a red string to."
+msgstr "這是我要綁上紅線的電話線。"
+
+msgid "This is the cable you should tie a red string to."
+msgstr "這是妳應該綁上紅線的電話線。"
+
+msgid "Some bird food."
+msgstr "一些鳥食。"
+
+msgid "Take ${item:ch1.bird_food}?"
+msgstr "拿走 ${item:ch1.bird_food} 嗎？"
+
+msgid "Is a bunny rabbit knot fine...?"
+msgstr "綁兔耳結可以嗎...？"
+
+msgid "Nothing of interest."
+msgstr "沒什麼特別的東西。"
+
+msgid "Drawers filled with miscellaneous items unfit for a kitchen."
+msgstr "抽屜裡裝著各式各樣不該放在廚房的東西。"
+
+msgid "A landline phone."
+msgstr "家用電話。"
+
+msgid "Dial a number?"
+msgstr "撥號嗎？"
+
+msgid "A red string can be seen hanging from its cord."
+msgstr "可以看到一條紅線掛在它的電話線上。"
+
+msgid "The phone is ringing. Pick up?"
+msgstr "電話響了。接起來嗎？"
+
+msgid "Pick up the phone"
+msgstr "接起電話"
+
+msgid "Ignore it"
+msgstr "無視"
+
+msgid "Looks like I just missed it..."
+msgstr "看來我沒接到..."
+
+msgid "A large cupboard. There's nothing inside."
+msgstr "大櫥櫃。裡面沒有東西。"
+
+msgid "A rice cooker."
+msgstr "一個電鍋。"
+
+msgid "Various kitchen tools are stored in the drawers underneath."
+msgstr "各種廚房用具存放在下面的抽屜。"
+
+msgid "Cutlery is stored in this drawer."
+msgstr "餐具存放在這個抽屜裡。"
+
+msgid "Checking the contents of the fridge calms you down."
+msgstr "檢查冰箱的內容物讓妳放鬆。"
+
+msgid "Do you want to have the leftovers mother left for you?"
+msgstr "妳要吃媽媽留下的剩菜嗎？"
+
+msgid "...for a last meal, it kind of sucked."
+msgstr "...作為最後一餐，有點糟糕。"
+
+msgid "Nothing new has materialized since the last time you checked."
+msgstr "離妳上次檢查之間沒有新的物體成形。"
+
+msgid "There's no time for snacks right now."
+msgstr "沒時間吃點心了。"
+
+msgid "A bowl full of fresh fruit."
+msgstr "裝滿新鮮水果的碗。"
+
+msgid "The microwave emanates an aura of familiarity."
+msgstr "微波爐散發出熟悉的氣息。"
+
+msgid "A microwave oven."
+msgstr "微波爐。"
+
+msgid "A note from your mother."
+msgstr "妳母親留下的紙條。"
+
+msgid "Read it?"
+msgstr "讀它嗎？"
+
+msgid "\"Your dad and I will be back on Monday."
+msgstr "\"妳爸和我週一會回來。"
+
+msgid "There's food in the fridge, make sure to heat it up."
+msgstr "冰箱裡有食物，記得要熱。"
+
+msgid "Call us at (195)-224#1 if there's any problem."
+msgstr "如果有什麼問題的話打到 (195)-224#1 給我們。"
+
+msgid "- Mom\""
+msgstr "- 媽\""
+
+msgid "The letter is gone."
+msgstr "信件消失了。"
+
+msgid "Didyousee?Didyouseeit?Yousawit.Youpretendedyoudidnt.Yousawit.Didyoupretend?Whydidyoupretend?Yousawallofit."
+msgstr "妳看到了嗎妳看到了嗎？妳看到了妳假裝妳沒有妳看到了。妳在裝嗎妳為什麼要假裝？妳都看到了。"
+
+msgid "Butyouforgotsomething.Doyouknowwhatyouforgot?Youforgotsomethingthere.Backthen.Don'tworry.Itookcareofit.Shetookcareofit.Shetakescareofiteverytime."
+msgstr "但是妳忘記了事情知道妳忘記了什麼嗎？妳忘了東西在那個時候不用擔心。我處理好了她處理好了她每次都會處理好。"
+
+msgid "A note from someone."
+msgstr "某人留下的紙條。"
+
+msgid "\"_____ Ritual. What you'll need: Candles, a knife, a chunk of meat, a hiding place, an accomplice, a victim..."
+msgstr "\"_____儀式。你會需要：蠟燭、一把刀、一塊肉、躲藏地點、一名共犯、一名受害者..."
+
+msgid "Wait... was that really how it went?\""
+msgstr "等等...事情真的是這樣嗎？\""
+
+msgid "The oven. You hardly ever use it."
+msgstr "烤箱。 你很少用它。"
+
+msgid "A tall, green plant."
+msgstr "高大、綠色的植物。"
+
+msgid "A very clean sink."
+msgstr "非常乾淨的水槽。"
+
+msgid "Turn on the tap?"
+msgstr "打開水龍頭嗎？"
+
+msgid "Turn off the tap?"
+msgstr "關閉水龍頭嗎？"
+
+msgid "A dining table. You sometimes eat here."
+msgstr "餐桌。妳有時候會在這裡吃東西。"
+
+msgid "A toaster."
+msgstr "烤吐司機。"
+
+msgid "A trash can with nothing but the memory of bad kitchen smells."
+msgstr "只裝著廚房臭味回憶的垃圾桶。"

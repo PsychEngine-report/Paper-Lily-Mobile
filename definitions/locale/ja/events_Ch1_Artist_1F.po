@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OH."
+msgstr "おお。"
+
+msgid "A child."
+msgstr "子供だ。"
+
+msgid "A child is in my gallery. But my gallery is closed. So how can a child be in my gallery?"
+msgstr "子供が私のギャラリーにいる。だがギャラリーは閉鎖中だ。ではなぜ子供がギャラリーにいる？"
+
+msgid "Atrocious."
+msgstr "ひどいな。"
+
+msgid "Smells like..."
+msgstr "この臭い、まるで……"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.kett"
+msgid "GARBAGE."
+msgstr "ゴミだ。"
+
+msgid "What? That's not true..."
+msgstr "えぇ？　そんなことない……"
+
+msgid "Who is this child?"
+msgstr "この子供は誰だ？"
+
+msgid "My name is Lacie."
+msgstr "私はレイシー。"
+
+msgid "(Wait... I shouldn't give out my name like that to demons!)"
+msgstr "(待って……こんなふうに妖魔に名前を明かしちゃダメだ！)"
+
+msgid "Lacie..."
+msgstr "レイシー……"
+
+msgid "(Did he figure out I'm human...?)"
+msgstr "(人間ってバレたかな……？)"
+
+msgid "So..."
+msgstr "それで……"
+
+msgid "What is your name?"
+msgstr "あなたの名前は？"
+
+msgid "What's under that drape?"
+msgstr "そこの覆いの下には何があるの？"
+
+msgid "You seem better now."
+msgstr "さっきより調子がよさそうだね。"
+
+msgid "You're dropping a lot of flowers."
+msgstr "花をたくさん落としてるけど。"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.choice.So..."
+msgid "Never mind"
+msgstr "何でもない"
+
+msgid "Kett is what I am called."
+msgstr "ケットと呼ばれている。"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "Oh."
+msgstr "そう。"
+
+msgid "And who are you?"
+msgstr "それでお前は？"
+
+msgid "I... already told you my name."
+msgstr "私は……もう言ったよ。"
+
+msgid "(He forgot it...? Maybe that's a good thing.)"
+msgstr "(忘れた……？　なら良かったかも。)"
+
+msgid "Please excuse me. I have no use for meaningless information in my mind."
+msgstr "すまないな。私の精神に無意味な情報は不要なのだ。"
+
+msgid "No... that's okay."
+msgstr "いや……大丈夫。"
+
+msgid "A commission."
+msgstr "依頼作品だ。"
+
+msgid "I have been stuck, blocked, uninspired, you could say."
+msgstr "私はいわば行き詰まり、引っかかり、ひらめきが湧かないでいた。"
+
+msgid "FOR AGES."
+msgstr "ずっとだ。"
+
+msgid "Everything I made..."
+msgstr "何を作っても……"
+
+msgid "But now suddenly I feel..."
+msgstr "だが今、急に……"
+
+msgid "Awaken."
+msgstr "目が覚めた。"
+
+msgid "You seemed very um...crazy...a while ago."
+msgstr "さっきは、その……相当……どうかしてたように見えたけど。"
+
+msgid "Ah, sleep deprivation."
+msgstr "ああ、睡眠不足だ。"
+
+msgid "I feel that."
+msgstr "だと思った。"
+
+msgid "HOWEVER, AN ANGEL delivered salvation to me."
+msgstr "だが、天使が私に救済をもたらしてくれた。"
+
+msgid "I brought you that."
+msgstr "もたらしたのは私だけど。"
+
+msgid "IF I COULD FIND THIS ANGEL, well, they would be humbly welcomed into my gallery, for no fee."
+msgstr "もしあの天使を見つけたら、そう、謹んで、無料で私のギャラリーに招待しよう。"
+
+msgid "It was me."
+msgstr "だから私だって。"
+
+msgid "BUT ALAS."
+msgstr "だが悲しいかな。"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_awake.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "They are the fruit of my inspiration."
+msgstr "これは私のひらめきの産物だ。"
+
+msgid "I picked up some of your inspiration, I hope you don't mind."
+msgstr "いくつかひらめきを拾っちゃったけど、気にしないよね。"
+
+msgid "Your inspiration is all over the floor."
+msgstr "ひらめき、床中に散らばってるよ。"
+
+msgid "What is that commission about?"
+msgstr "あの依頼作品は何がテーマなの？"
+
+msgid "I keep my business matters private."
+msgstr "仕事のことは口外しない主義だ。"
+
+msgid "Can I commission you for a piece?"
+msgstr "私も作品を依頼できる？"
+
+msgid "Of course. You may add your name to my waiting list."
+msgstr "もちろんだ。ウェイティングリストに名前を書いておくと良い。"
+
+msgid "...Never mind then."
+msgstr "……ならやめとく。"
+
+msgid "Where is it?"
+msgstr "どこにあるの？"
+
+msgid "On the wall."
+msgstr "壁だ。"
+
+msgid "Why don't you make anything colorful?"
+msgstr "どうして色鮮やかなものを作らないの？"
+
+msgid "Color....ful..?"
+msgstr "色……鮮やか……？"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_extra.dlg.kett"
+msgid "..."
+msgstr "……"
+
+msgid "What ever do you mean?"
+msgstr "一体どういう意味だ？"
+
+msgid "Well...all of your...art...is blue or grey."
+msgstr "その……あなたの……作品……は、どれも青か灰色でしょ。"
+
+msgid "Blue...? Grey...?"
+msgstr "青……？　灰色……？"
+
+msgid "(He seems really perplexed.)"
+msgstr "(本気で混乱してるみたい。)"
+
+msgid "What did you smell on me earlier?"
+msgstr "さっき私から臭いがするって言ってたのは？"
+
+msgid "I don't recall the event you're referring to."
+msgstr "そんなことは記憶にないな。"
+
+msgid "Because you don't keep meaningless information in your mind?"
+msgstr "不要な情報は精神にとどめておかないから？"
+
+msgid "Yes, how did you know?"
+msgstr "そうだ。なぜ知っている？"
+
+msgid "Just a feeling."
+msgstr "ただの勘。"
+
+msgid "Of course.. the patterns must match on each limb."
+msgstr "無論……それぞれの手足で模様は調和しなくてはならない。"
+
+msgid "But how shall I go about it...?"
+msgstr "だが、そのためにはどうすればいい……？"
+
+msgid "Kett seems to be concentrated."
+msgstr "ケットは集中しているようだ。"
+
+msgid "There's someone there. Grab their attention?"
+msgstr "誰かいる。注意を引く？"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "Yes"
+msgstr "引く"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.choice.There's someone there. Grab their attention?"
+msgid "No"
+msgstr "引かない"
+
+msgctxt "events.Ch1_Artist_1F.chr_kett_sleep.dlg.kett"
+msgid "!!!"
+msgstr "!!!"
+
+msgid "He seems to be asleep."
+msgstr "眠っているようだ。"
+
+msgid "I'd really rather not bother him..."
+msgstr "絶対起こさない方がよさそう……"
+
+msgid "This isn't the time for that."
+msgstr "今はそんなことをしている場合ではない。"
+
+msgid "This is from the lighthouse."
+msgstr "灯台のものだな。"
+
+msgid "Garbage."
+msgstr "ゴミだ。"
+
+msgid "Huh? Really?"
+msgstr "え？ 本当に？"
+
+msgid "It sickens me."
+msgstr "気分が悪くなる。"
+
+msgid "Do you know where the lighthouse is?"
+msgstr "灯台の場所を知ってる？"
+
+msgid "Begone, child."
+msgstr "失せろ、子供。"
+
+msgid "...Guess not."
+msgstr "……知らないみたいだね。"
+
+msgid "This candle looks familiar to me. How curious."
+msgstr "このロウソクには見覚えがあるな。不思議なことだ。"
+
+msgid "What is that garbage smell?"
+msgstr "このゴミのような臭いは何だ？"
+
+msgid "You may keep that. It is little more than garbage to me."
+msgstr "持って行ってかまわん。私にとってはゴミと大差ない。"
+
+msgid "A rock. It's carving is skillful."
+msgstr "石だな。巧みな彫り具合だ。"
+
+msgid "Could there be another artist out there...?"
+msgstr "まさか、私以外の芸術家か……？"
+
+msgctxt "events.Ch1_Artist_1F.item_runes_on_kett.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "No. Impossible."
+msgstr "いや。ありえんな。"
+
+msgctxt "events.Ch1_Artist_1F.item_snack_on_kett.dlg.kett"
+msgid "!!!"
+msgstr "!!!"
+
+msgid "(He ate it!?)"
+msgstr "(食べた!?)"
+
+msgid "This tool is not well suited for carving."
+msgstr "この道具は彫刻には向かないな。"
+
+msgid "This is one of those things that isn't very interesting when seen from behind."
+msgstr "うしろから見るとあまり面白くないもののひとつ。"
+
+msgid "Blue paint."
+msgstr "青いペンキ。"
+
+msgid "A blank canvas. Paint something?"
+msgstr ""
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "Yes"
+msgstr ""
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.A blank canvas. Paint something?"
+msgid "No"
+msgstr ""
+
+msgid "What should I paint?"
+msgstr ""
+
+msgid "A blue butterfly"
+msgstr ""
+
+msgid "A self-portrait"
+msgstr ""
+
+msgid "Hiro"
+msgstr ""
+
+msgid "A portrait of Kett"
+msgstr ""
+
+msgid "A ghost"
+msgstr ""
+
+msgid "A dinosaur"
+msgstr ""
+
+msgctxt "events.Ch1_Artist_1F.misc_canvas_front.choice.What should I paint?"
+msgid "Never mind"
+msgstr ""
+
+msgid "Show drawing here"
+msgstr ""
+
+msgid "It's the painting I made. Kett will probably trash it soon enough."
+msgstr ""
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "${item:ch1.kett_flower} を拾う？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "拾う"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_green.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "拾わない"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "${item:ch1.kett_flower} を拾う？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "拾う"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_red.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "拾わない"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice"
+msgid "Pick up ${item:ch1.kett_flower}?"
+msgstr "${item:ch1.kett_flower} を拾う？"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "Yes"
+msgstr "拾う"
+
+msgctxt "events.Ch1_Artist_1F.misc_flower_yellow.choice.Pick up ${item:ch1.kett_flower}?"
+msgid "No"
+msgstr "拾わない"
+
+msgid "A waiting list. It has over a hundred names on it."
+msgstr "ウェイティングリスト。100以上の名前が並んでいる。"
+
+msgid "...Never mind."
+msgstr "……やめとく。"
+
+msgid "A painting of some landscape."
+msgstr "風景画。"
+
+msgid "There must be a huge sculpture hidden under this drape."
+msgstr "この覆いの下には、巨大な彫刻が隠れているはずだ。"
+
+msgid "Check under the drape?"
+msgstr "覆いの下を見る？"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "Yes"
+msgstr "見る"
+
+msgctxt "events.Ch1_Artist_1F.misc_sculpture.choice.Check under the drape?"
+msgid "No"
+msgstr "見ない"
+
+msgid "It looks like an unfinished sculpture of a lady. She looks like she's made of porcelain."
+msgstr "未完成の女性像のようだ。女性は磁器でできているように見える。"
+
+msgid "There's a sculpture of a lady under this drape."
+msgstr "この覆いの下には女性像がある。"
+
+msgid "A tall vase."
+msgstr "背の高い花瓶。"
+
+msgid "Reach inside?"
+msgstr "中を探ってみる？"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "Yes"
+msgstr "探ってみる"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_1.choice.Reach inside?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "There's nothing inside."
+msgstr "中には何もない。"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.narrator"
+msgid "A small art piece."
+msgstr "小さな芸術作品。"
+
+msgid "A weird thing."
+msgstr "奇妙なもの。"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_2.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "What... is this?"
+msgstr "何……これ？"
+
+msgid "A twisty pot."
+msgstr "ねじれた壺。"
+
+msgid "A broken pot."
+msgstr "壊れた壺。"
+
+msgctxt "events.Ch1_Artist_1F.misc_vase_5.dlg.narrator"
+msgid "A small art piece."
+msgstr "小さな芸術作品。"
+
+msgid "It looks like a dinosaur."
+msgstr "恐竜みたいに見える。"
+
+msgid "A small dinosaur."
+msgstr "小さな恐竜。"

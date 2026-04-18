@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Explore your surroundings"
+msgstr "Etrafını keşfe çık"
+
+msgid "I woke up in a strange garden. Where am I?"
+msgstr "Garip bir bahçede uyandım. Neredeyim ben?"
+
+msgid "Check your notes to refresh your memory"
+msgstr "Hafızanı tazelemek için notlarını kontrol et"
+
+msgid "I should go over my ritual notes to make sure I don't forget anything."
+msgstr "Ritüel notlarımı kontrol etmeliyim ki bir şey unutmayayım."
+
+msgid "Gather items for the ritual"
+msgstr "Ritüel için eşyaları topla"
+
+msgid "I should gather everything I'll need for the ritual first."
+msgstr "İlk önce ritüel için gerekli eşyaları toplamalıyım."
+
+msgid "Chalk"
+msgstr "Tebeşir"
+
+msgid "This is a school - surely I can find chalk here."
+msgstr "Burası bir okul - elbette burada tebeşir bulabilirim."
+
+msgid "Candles"
+msgstr "Mumlar"
+
+msgid "I brought some from home."
+msgstr "Evden biraz getirdim."
+
+msgid "A tuft of hair"
+msgstr "Bir tutam saç"
+
+msgid "It has to be human hair."
+msgstr "İnsan saçı olmalı."
+
+msgid "A rune"
+msgstr "Bir rün."
+
+msgid "My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there."
+msgstr "Arkadaşlarım rünlerin okült kulübünde tuttuklarını söylemişlerdi. Ritüelim için birine ihtiyacım var, yani gidip baksam iyi olur."
+
+msgid "Find a way to open the box with the runes"
+msgstr "Rünlerin olduğu kutuyu açmanın bir yolunu bul"
+
+msgid "I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick."
+msgstr "Okült kulübünde içinde rünler olan kutuyu buldum, ama bantla kapatılmış - keskin herhangi bir şey işe yarayacaktır."
+
+msgid "Sort the desks in all three classrooms"
+msgstr "Bütün 3 sınıftaki sıraları düzenle."
+
+msgid "According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms."
+msgstr "Ritüel talimatlarına göre, bütün üç sınıflardaki sıraları düzenlemem gerekiyor."
+
+msgid "Shut the curtains in all three classrooms"
+msgstr "Bütün üç sınıftaki perdeleri kapat"
+
+msgid "According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut."
+msgstr "Ritüel talimatlarına göre, üç sınıfıda olabildiğince karartmalıyım, yani perdeler kapalı olmalı."
+
+msgid "Find a curtain to replace the missing one in Classroom 3-B"
+msgstr "3-B sınıfındaki eksik perdenin yerine yenisini bul"
+
+msgid "I can't shut all the curtains if one of them is missing. I need to find something to cover that window."
+msgstr "Eğer birisi eksikse bütün perdeleri kapatamam. O camı kaplayacak bir şey bulmalıyım."
+
+msgid "Find a way into the Theater Club room"
+msgstr "Tiyatro kulübü odasına girmenin bir yolunu bul."
+
+msgid "I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in."
+msgstr "Tiyatro kulübü odasında perde bulabileceğime oldukça eminim, ancak kapısı kilitli. İçeri girmenin bir yolunu bulmalıyım."
+
+msgid "Retrieve the girl's notebook"
+msgstr "Kızın not defterini geri getir."
+
+msgid "One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it."
+msgstr Kızlardan biri not defterini 3-C sınıfında unutmuş. Eğer onu getirirsem bana Tiyatro Kulübünün odasının anahtarını verebilir. Bana defterin içine bakmamamı söyledi."
+
+msgid "Finalize ritual preparations"
+msgstr "Ritüelin hazırlıklarını tamamla"
+
+msgid "Finally, I need to set candles, and draw a path with chalk in all 3 classrooms."
+msgstr "Sonunda, mumları hazırlamalyım, ve tebeşirler 3 sınıfa da bir yol çizmeliyim."
+
+msgid "Draw a path with chalk in all 3 classrooms"
+msgstr "3 sınıfa tebeşirle bir yol çiz."
+
+msgid "I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it."
+msgstr "Tebeşirle 3 sınfı birbirine bağlayan bir yol çizmeliyim. Çizimlerim görselleştirmemde yardımcı olabilir."
+
+msgid "Set and light candles in the middle room"
+msgstr "Orta odada mumları yerleştir ve yak."
+
+msgid "I need to set and light the candles on top of all the desks in classroom 3-B."
+msgstr "3-B sınıfındaki masaların üzerine mumları yerleştirip yakmalıyım."
+
+msgid "Burn the hair tuft on a candle"
+msgstr "Mumun ateşinde bir tutam saç yak"
+
+msgid "Preparations are complete. Let's burn the hair tuft on a candle to start the ritual."
+msgstr "Hazırlıklar tamamlandı. Hadi saçı yakalım ve ritüele başlayalım."
+
+msgid "Explore the strange place"
+msgstr "Garip mekanı keşfet"
+
+msgid "I arrived at a mysterious location, let's take a look around!"
+msgstr "Garip bir yere geldim, hadi etrafa bakalım!"
+
+msgid "Escape this cursed place"
+msgstr "Bu lanetli yerden kaç"
+
+msgid "This isn't fun anymore. I need to find a way back!"
+msgstr "Bu artık eğlenceli değil. Buradan kurtulmanın bir yolunu bulmalıyım, HEMEN!"
+
+msgid "Go home"
+msgstr "Eve git"
+
+msgid "I'm going home. Maybe I'll finish the ritual some other time."
+msgstr "Eve gidiyorum. Belki ritüeli başka bir zaman bitiririm."
+
+msgid "Test your theory"
+msgstr "Teorini test et"
+
+msgid "If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case... right?"
+msgstr "Eğer gerçekten bir döngüye sıkıştıysam, o zaman yukarı ya da aşşağı gittiğimde X yerinde olacaktır. Ama öyle olamaz... değil mi?"

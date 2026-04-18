@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is not a good place to release it."
+msgstr "Това не е добро място за пускането му."
+
+msgid "There's nothing special behind the door."
+msgstr "Зад вратата няма нищо специално."
+
+msgid "The door frame is about 15 centimeters thick."
+msgstr "Рамката на вратата е с дебелина около 15 см."
+
+msgid "Alright then..."
+msgstr "Добре тогава…"
+
+msgid "First, to take the real lily from the vase..."
+msgstr "Първо, да извадим истинската лилия от вазата…"
+
+msgid "Now... to make a paper lily from my letter..."
+msgstr "И така… за да направя хартиена лилия от моето писмо…"
+
+msgid "And finally, to place it where the lily was."
+msgstr "И последно, да го поставя на мястото, където беше лилията."
+
+msgid "It seems like it worked."
+msgstr "Изглежда проработи."
+
+msgid "You don't seem very impressed."
+msgstr "Не изглеждаш много впечатлена."
+
+msgid "I suppose with everything that's happened so far, this is just another puzzle."
+msgstr "Предполагам, че с оглед на всичко, което се е случило досега, това е просто още един пъзел."
+
+msgid "A puzzle, huh..."
+msgstr "Пъзел, хм…"
+
+msgid "I guess it's time to go home..."
+msgstr "Май е време да си ходя у дома…"
+
+msgid "The paper lily is in place."
+msgstr "Хартиената лилия е на мястото си."
+
+msgid "(If I leave through here, the door might close...)"
+msgstr "(Ако си тръгна оттук, вратата може да се затвори…)"
+
+msgid "The door is open. A white light is coming through."
+msgstr "Вратата е отворена. Бяла светлина прозира през нея."
+
+msgid "Go through the door?"
+msgstr "Минете през вратата?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "The door is locked."
+msgstr "Вратата е заключена."

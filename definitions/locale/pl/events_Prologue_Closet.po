@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It's already unlocked."
+msgstr "Jest już otwarta."
+
+msgid "The box contains various empty notebooks, textbooks and... chalk."
+msgstr "Pudełko zawiera różne puste zeszyty, podręczniki i... kredę."
+
+msgid "Take chalk?"
+msgstr "Wziąć kredę?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "There's nothing else of interest."
+msgstr "Nie ma już nic ciekawego."
+
+msgid "There's some dusty documents that catch your eye."
+msgstr "W oczy rzucają się jakieś zakurzone dokumenty."
+
+msgid "Read them?"
+msgstr "Przeczytać je?"
+
+msgid "..."
+msgstr "... "
+
+msgid "It's a... lawsuit?"
+msgstr "To jest... pozew?"
+
+msgid "What's that doing in a place like this?"
+msgstr "Co to robi w takim miejscu jak to?"
+
+msgid "I heard about that from my dad."
+msgstr "Słyszałam o tym od mojego taty."
+
+msgid "Supposedly someone sued the school because of their daughter's disappearance."
+msgstr "Podobno ktoś pozwał szkołę z powodu zaginięcia córki."
+
+msgid "Oh, the 2nd year girl?"
+msgstr "Aha, dziewczyna z drugiego roku?"
+
+msgid "I heard something happened, but I didn't know the school was involved."
+msgstr "Słyszałam, że coś się stało, ale nie wiedziałam, że szkoła jest w to zamieszana."
+
+msgid "I don't know either."
+msgstr "Ja też nie wiedziałam."
+
+msgid "But she was last seen at school, so her family was convinced that something happened here and it was covered up."
+msgstr "Ale ostatni raz widziano ją w szkole, więc jej rodzina była przekonana, że coś się tu stało i zostało zatuszowane."
+
+msgid "There's definitely an odd history of disappearances in this town."
+msgstr "W tym mieście jest dziwna historia zaginięć."
+
+msgid "When I graduate, I'm out of here."
+msgstr "Kiedy skończę studia, wyjeżdżam stąd."
+
+msgid "The hairpin doesn't fit into this lock."
+msgstr "Spinka do włosów nie pasuje do tego zamka."
+
+msgid "The key fits!"
+msgstr "Klucz pasuje!"
+
+msgid "The boxes are already open."
+msgstr "Pudełka są już otwarte."
+
+msgid "Boxes filled with rags and other cleaning supplies."
+msgstr "Pudła wypełnione szmatami i innymi środkami czystości."
+
+msgid "A sealed box."
+msgstr "Zapieczętowane pudełko."
+
+msgid "Some boxes filled with random objects."
+msgstr "Kilka pudełek wypełnionych przypadkowymi przedmiotami."
+
+msgid "This is the lost and found box!"
+msgstr "To jest pudełko rzeczy znalezionych!"
+
+msgid "Really?"
+msgstr "Naprawdę?"
+
+msgid "Look, I found my old shoe."
+msgstr "Patrzcie, znalazłam swój stary but."
+
+msgid "A shoe...?"
+msgstr "But...?"
+
+msgid "I lost it years ago."
+msgstr "Zgubiłam go lata temu."
+
+msgid "How do you lose one shoe?"
+msgstr "Jak można zgubić jeden but?"
+
+msgid "It just disappeared."
+msgstr "Po prostu zniknął."
+
+msgid "Oh! My lighter!"
+msgstr "Och! Moja zapalniczka!"
+
+msgid "Don't you already have a lighter?"
+msgstr "Czy nie masz już zapalniczki?"
+
+msgid "This is my old one."
+msgstr "To jest moja stara."
+
+msgid "You lost a lighter in the school?"
+msgstr "Zgubiłaś zapalniczkę w szkole?"
+
+msgid "No, they confiscated it."
+msgstr "Nie, skonfiskowali ją."
+
+msgid "Figures. Lighters can be dangerous."
+msgstr "Nic zaskakującego. Zapalniczki mogą być niebezpieczne."
+
+msgid "Only in the wrong hands."
+msgstr "Tylko w nieodpowiednich rękach."
+
+msgid "And yours aren't?"
+msgstr "A twoje nie są?"
+
+msgid "You shouldn't bring lighters to school..."
+msgstr "Nie powinnaś przynosić zapalniczek do szkoły..."
+
+msgid "Some used brooms."
+msgstr "Parę zużytych mioteł."
+
+msgid "A calendar and information sheet for the cleaning staff."
+msgstr "Kalendarz i karta informacyjna dla personelu sprzątającego."
+
+msgid "A cleaning cart."
+msgstr "Wózek do sprzątania."
+
+msgid "It could use some cleaning."
+msgstr "Przydałoby się trochę czyszczenia."
+
+msgid "A dusty lamp. The light bulb is missing."
+msgstr "Zakurzona lampa. Brakuje w niej żarówki."
+
+msgid "Well that's ominous."
+msgstr "Cóż, to złowieszcze."
+
+msgid "A little darkness won't hurt anybody."
+msgstr "Odrobina ciemności nikomu nie zaszkodzi."
+
+msgid "...Probably."
+msgstr "...Prawdopodobnie."
+
+msgid "It doesn't work."
+msgstr "To nie działa."
+
+msgid "A large locker that could probably fit a person."
+msgstr "Duża szafka, w której prawdopodobnie zmieściłby się człowiek."
+
+msgid "It's locked."
+msgstr "Są zamknięte."
+
+msgid "Lots of cleaning supplies. It smells weird."
+msgstr "Dużo środków czystości. Mają dziwny zapach."
+
+msgid "Lots of school supplies."
+msgstr "Mnóstwo przyborów szkolnych."
+
+msgid "Books and paints line the shelves."
+msgstr "Na półkach leżą książki i farby."
+
+msgid "There's a small key on one of the shelves."
+msgstr "Na jednej z półek znajduje się mały klucz."
+
+msgid "Take it?"
+msgstr "Wziąć?"
+
+msgid "A trash can, even in a place like this."
+msgstr "Kosz na śmieci, nawet w takim miejscu jak to."
+
+msgid "Why would there be a trash can in a supply closet?"
+msgstr "Dlaczego w skrytce z zaopatrzeniem miałby być kosz na śmieci?"
+
+msgid "Maybe it's a spare?"
+msgstr "Może to zapasowy?"
+
+msgid "It's... so dark."
+msgstr "Jest... tak ciemno."
+
+msgid "Come on Ponytail, don't chicken out on me now."
+msgstr "No dalej Kucyku, nie stchórz mi teraz."
+
+msgid "Don't call me that."
+msgstr "Nie nazywaj mnie tak."
+
+msgid "You have a ponytail, don't you?"
+msgstr "Masz kucyka, prawda?"
+
+msgid "I have a name too."
+msgstr "Oprócz tego mam imię."

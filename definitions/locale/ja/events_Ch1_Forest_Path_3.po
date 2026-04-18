@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(You plugged in the cable using the adapter.)"
+msgstr "(アダプターを使ってケーブルを挿し込んだ。)"
+
+msgid "There's an electrical socket hiding behind the bush."
+msgstr "茂みの裏にコンセントが隠れていた。"
+
+msgid "The plug and the socket don't match, so you can't plug it in."
+msgstr "プラグとコンセントの形が合わないので、挿し込むことはできない。"
+
+msgid "I suppose I could try this adapter I found."
+msgstr "このアダプターが使えると思う。"
+
+msgid "Do I need an adapter? That's so weird."
+msgstr "アダプターが要るってこと？　変なの。"
+
+msgid "The campfire is plugged here."
+msgstr "焚き火のプラグはここに挿し込まれている。"
+
+msgid "The cable is plugged in."
+msgstr "ケーブルが挿し込まれている。"
+
+msgid "\"Red's Treehouse\""
+msgstr "「レッドのツリーハウス」"
+
+msgid "\"Treehouse\"... sheesh!"
+msgstr "「ツリーハウス」……どこが！"
+
+msgid "...?"
+msgstr "……？"
+
+msgid "The floor here is unusual..."
+msgstr "ここの地面、何か変……"
+
+msgid "There's a key hidden here."
+msgstr "鍵が隠されていた。"
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "${item:ch1.forest_lockedsite_key} を取る？"
+
+msgid "Yes"
+msgstr "取る"
+
+msgid "No"
+msgstr "取らない"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(この鍵は必要ないので、捨てた。)"
+
+msgid "There's a note as well."
+msgstr "メモもあった。"
+
+msgid "There's nothing else here."
+msgstr "他には何もない。"

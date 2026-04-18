@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "幻象现在应该要被打破了，对吧？"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "太坏了，我刚开始喜欢这个地方呢。"
+
+msgctxt "events.Ch1_MK_Livingroom.event_ending_12.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "That's probably not good..."
+msgstr "这可能不太好..."
+
+msgid "Did you see that? The painting opened its eyes!"
+msgstr "你看见那个了吗？画像开眼了！"
+
+msgid "Um... did you burn the things in the right order?"
+msgstr "呃...你把顺序烧对了吗？"
+
+msgid "I... think... so?"
+msgstr "我...觉得...是对的？"
+
+msgid "Did I do something wrong...?"
+msgstr "难道我做错了什么吗...？"
+
+msgid "Was the illusion supposed to LITERALLY break apart?"
+msgstr "幻象现在理应被打破了才对啊？"
+
+msgid "I don't know...!"
+msgstr "我不知道...！"
+
+msgid "Maybe we should leave..."
+msgstr "也许我们应该离开..."
+
+msgid "Oh crap, the doors are gone!"
+msgstr "该死，门不见了！"
+
+msgid "What do I do...? I need to get out of here!"
+msgstr "我该做什么...？我要从这里出去！"
+
+msgid "Hey, be careful."
+msgstr "嘿，小心点。"
+
+msgid "....."
+msgstr "....."
+
+msgctxt "events.Ch1_MK_Livingroom.event_ending_12.dlg.lacie"
+msgid "(My foot... it hurts...!)"
+msgstr "（我的脚...好痛...！）"
+
+msgid "(Where are we...?)"
+msgstr "（我们在哪里...？）"
+
+msgid "We need to find a way out..."
+msgstr "我们要找到出去的路..."
+
+msgid "Yeahh.... WELL..."
+msgstr "没错....但..."
+
+msgid "About that..."
+msgstr "关于那个..."
+
+msgid "I..."
+msgstr "我..."
+
+msgid "...might have landed on something hard."
+msgstr "...可能掉在什么坚硬的东西上了。"
+
+msgid "Doesn't look great."
+msgstr "看起来不妙啊。"
+
+msgid "...W-what do we do...?"
+msgstr "...我——我们要怎么办...？"
+
+msgid "If you can still move, go on ahead."
+msgstr "如果你还能动的话，前进吧。"
+
+msgid "I need a moment."
+msgstr "我要歇一下。"
+
+msgid "O-okay..."
+msgstr "好—好的..."
+
+msgid "Uh... hey..."
+msgstr "呃... 那个..."
+
+msgid "You'll uh.... You'll come back, right?"
+msgstr "你还会，呃... 你还会回来的，对吧？"
+
+msgid "Yes."
+msgstr "嗯。"
+
+msgid "Thanks."
+msgstr "谢谢你。"
+
+msgid "(Where am I...?)"
+msgstr "（我在哪里...？）"
+
+msgid "I need to find a way out..."
+msgstr "我需要找到出去的路..."
+
+msgid "This item is yet to be unsealed."
+msgstr "这件物品尚未解封。"
+
+msgid "The fire needs to be lit first."
+msgstr "必须先把火点起来。"
+
+msgid "Light the fireplace?"
+msgstr "要点燃壁炉吗？"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.Light the fireplace?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.Light the fireplace?"
+msgid "No"
+msgstr "否"
+
+msgid "I don't have all 5 items ready to burn yet..."
+msgstr "我还没找到所有的5个需要燃烧的物品..."
+
+msgid "If I light this on, I'll just lure that lady here for no reason."
+msgstr "如果我把这个点燃了，我很肯定那位女士会找过来的。"
+
+msgid "(What should I burn first?)"
+msgstr "（我应该先烧掉哪一个？）"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The knife"
+msgstr "小刀"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The foot"
+msgstr "人脚"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The sketchbook"
+msgstr "绘画本"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The mirror"
+msgstr "手镜"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn first?)"
+msgid "The cold compress"
+msgstr "冷敷布"
+
+msgid "(What should I burn next?)"
+msgstr "（接下来我该烧掉哪一个？）"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The knife"
+msgstr "小刀"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The foot"
+msgstr "人脚"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The sketchbook"
+msgstr "绘画本"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The mirror"
+msgstr "手镜"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lighter_on_fireplace.choice.(What should I burn next?)"
+msgid "The cold compress"
+msgstr "冷敷布"
+
+msgid "And finally... the knife."
+msgstr "最后是...小刀。"
+
+msgid "And finally... the foot."
+msgstr "最后是...人脚。"
+
+msgid "And finally... the sketchbook."
+msgstr "最后是...绘画本。"
+
+msgid "And finally... the mirror."
+msgstr "最后是...手镜。"
+
+msgid "And finally... the cold compress."
+msgstr "最后是...冷敷布。"
+
+msgid "Take ${item:ch1.lockpick}?"
+msgstr "要取走${item:ch1.lockpick}吗？"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lockpick_get.choice.Take ${item:ch1.lockpick}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Livingroom.item_lockpick_get.choice.Take ${item:ch1.lockpick}?"
+msgid "No"
+msgstr "否"
+
+msgid "You pour some liquid onto the rag..."
+msgstr "你把一些液体倒在抹布上..."
+
+msgid "It's already wet enough."
+msgstr "已经足够湿了。"
+
+msgid "\"Alcohol tastes just like water.\""
+msgstr "“酒精尝起来就跟水一样。”"
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plant4.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plant4.dlg.narrator"
+msgid "(You watered the plant.)"
+msgstr "（你为植物浇了水。）"
+
+msgid "(You pour water into the empty pot...)"
+msgstr "（你把水倒进了空盆里...）"
+
+msgid "(...but nothing happens.)"
+msgstr "（...但是无事发生。）"
+
+msgctxt "events.Ch1_MK_Livingroom.item_water_on_plants.dlg.narrator"
+msgid "(You watered the plant.)"
+msgstr "（你为植物浇了水。）"
+
+msgid "Various useless trinkets are displayed on these shelves."
+msgstr "这些架子上摆放着各种无用的小玩意儿。"
+
+msgid "A teapot, full of some liquid. Seems to be water."
+msgstr "一个茶壶，里面装满了液体。看起来似乎是水。"
+
+msgid "I could use this..."
+msgstr "我可以利用这个..."
+
+msgid "Bring water to the plant?"
+msgstr "要把水带给植物吗？"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.choice.Bring water to the plant?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.choice.Bring water to the plant?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_cart.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_fireplace.dlg.narrator"
+msgid "A fireplace."
+msgstr "壁炉。"
+
+msgid "There's no fire, so it's just... a place."
+msgstr "这里没有火，所以它就是个...壁。"
+
+msgid "Haha, good one!"
+msgstr "哈哈，好笑话！"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_fireplace.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "A place."
+msgstr "壁。"
+
+msgid "An old gramophone."
+msgstr "一台老式留声机。"
+
+msgid "What to do?"
+msgstr "要做什么呢？"
+
+msgid "Play music"
+msgstr "播放音乐"
+
+msgid "Stop the music"
+msgstr "关闭音乐"
+
+msgid "Do nothing"
+msgstr "什么也不做"
+
+msgid "A floor lamp."
+msgstr "一盏落地灯。"
+
+msgid "A rotary phone."
+msgstr "一台拨盘电话。"
+
+msgid "It's old... but there's a certain charm to it."
+msgstr "虽然老旧...但却有一种独特的魅力。"
+
+msgid "There's no dial tone."
+msgstr "没有拨号盘。"
+
+msgid "A tall plant."
+msgstr "一株很高的植物。"
+
+msgid "A tall, pretty plant."
+msgstr "一株又高又漂亮的植物。"
+
+msgid "An empty flower vase."
+msgstr "空花瓶。"
+
+msgid "Purple flowers in a vase."
+msgstr "花瓶里插着紫色的花。"
+
+msgid "I could use these flowers..."
+msgstr "我可以利用这些花..."
+
+msgid "Bring the flowers to the plant?"
+msgstr "要把花带给植物吗？"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.choice.Bring the flowers to the plant?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.choice.Bring the flowers to the plant?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant1.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "It's dead."
+msgstr "它死了。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "植物上挂着一个标签。上面写道："
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant2.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"
+
+msgid "\"It was good while it lasted.\""
+msgstr "“这种感觉很好，但也很短暂。”"
+
+msgid "\"Requires medium light."
+msgstr "“需要中等强度的光照。"
+
+msgid "For enrichment, provide music.\""
+msgstr "最好再提供一些音乐。”"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "It's dead."
+msgstr "它死了。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "植物上挂着一个标签。上面写道："
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant3.dlg.narrator"
+msgid "\"Requires dim light."
+msgstr "“需要昏暗的光照。"
+
+msgid "Feed it once a day to avoid irritability. Appropriate diet includes meat of various kinds.\""
+msgstr "记得每天喂食一次，以避免暴躁情绪。用食包括各种肉类。”"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "It's dead."
+msgstr "它死了。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "植物上挂着一个标签。上面写道："
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant4.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"
+
+msgid "\"Requires medium light. Provide alcohol twice daily to keep its leaves moist."
+msgstr "“需要中等强度的光照。每天提供两次酒精，以保持叶片湿润。"
+
+msgid "Water is a valid substitute, as it can't tell the difference.\""
+msgstr "水也是作为一种替代品，因为它分辨不出其中的差别。”"
+
+msgid "The pot has been destroyed."
+msgstr "盆罐已经被摧毁了。"
+
+msgid "An empty pot."
+msgstr "一个空的盆罐。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "It's dead."
+msgstr "它死了。"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "A plant with a tag attached. It says:"
+msgstr "植物上挂着一个标签。上面写道："
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "\"Thank you.\""
+msgstr "“谢谢你。”"
+
+msgctxt "events.Ch1_MK_Livingroom.misc_plant6.dlg.narrator"
+msgid "\"Requires dim light."
+msgstr "“需要昏暗的光照。"
+
+msgid "For enrichment, give it a flower crown once a month.\""
+msgstr "最好每个月给它带一次花冠。”"
+
+msgid "A warning sign."
+msgstr "一个警告标志。"
+
+msgid "It doesn't say what the warning is for."
+msgstr "它没说警告的是什么。"

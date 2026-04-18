@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "These flowers seem to belong here... but..."
+msgstr "Bu çiçekler buraya ait gibi görünüyor...fakat..."
+
+msgid "It would serve no purpose to plant them."
+msgstr "Onları dikmenin hiçbir anlamı yok."
+
+msgid "That would be terrible."
+msgstr "Bu korkunç olurdu."
+
+msgid "A large pile of rubble."
+msgstr "Büyük bir moloz yığını."
+
+msgid "What is this material? Clay?"
+msgstr "Neyden yapılmış bu？　Kilden mi？"
+
+msgid "There's nothing else of interest."
+msgstr "Başka ilginç bir şey yok."
+
+msgid "Seems like someone has dug here recently."
+msgstr "Yakın bir zamanda birisi burayı kazmışa benziyor."
+
+msgid "Check it out?"
+msgstr "Kontrol edecek misin?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowerbed.choice.Check it out?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowerbed.choice.Check it out?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A set of colorful flowers."
+msgstr "Bir grup rengarenk çiçek."
+
+msgid "A cactus among a set of colorful flowers."
+msgstr "Rengarenk çiçeklerin yanında duran bir kaktüs."
+
+msgid "There seems to be something hidden inside the pot."
+msgstr "Çömleğin altında saklanmış bır şey var."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "${item:ch1.forest_lockedsite_key} Alacak mısın?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowers_cactus.choice.Take ${item:ch1.forest_lockedsite_key}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Artist.misc_flowers_cactus.choice.Take ${item:ch1.forest_lockedsite_key}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Anahtara ihtiyacın olmadığı için atıldı.)"
+
+msgid "There's also a note under the pot."
+msgstr "Çömleğin altında bir not var."
+
+msgid "An artistic pot."
+msgstr "Sanatsal bir çömlek."
+
+msgid "This could work for Kozmo."
+msgstr "Bu Kozmo'nun işine yarayabilir."
+
+msgid "Take ${item:ch1.forest_pot}?"
+msgstr "${item:ch1.forest_pot} Saksıyı alacak mısın?"
+
+msgctxt "events.Ch1_Forest_Artist.misc_pot.choice.Take ${item:ch1.forest_pot}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Artist.misc_pot.choice.Take ${item:ch1.forest_pot}?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A strange looking... vase? In the shape of a... hand?"
+msgstr "Tuhaf görünümlü bir...vazo mu？　Hem de...el şeklinde mi?"
+
+msgid "A pile of rubble."
+msgstr "Moloz yığını."

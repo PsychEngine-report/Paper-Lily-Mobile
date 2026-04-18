@@ -1,0 +1,711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You made it!"
+msgstr "Conseguiste!"
+
+msgid "You must be really good at dodging spikes."
+msgstr "Deves ser bué boa a desviares-te de espinhos."
+
+msgid "Thank you."
+msgstr "Obrigada."
+
+msgid "(He seems friendly...)"
+msgstr "(Ele parece amigável…)"
+
+msgid "I'm surprised you're talking to me... this much."
+msgstr "Estou surpreendida que estejas a falar comigo… tanto assim."
+
+msgid "Talking is an important means of communication, no?"
+msgstr "Falar é um meio de comunicação importante, não é?"
+
+msgid "Well yes... but-"
+msgstr "Bem, é... mas-"
+
+msgid "You talk as well!"
+msgstr "Tu também falas!"
+
+msgid "I do."
+msgstr "Sim."
+
+msgid "But you're... What exactly are you?"
+msgstr "Mas és… O que é que tu és, exatamente?"
+
+msgid "My name is Rune and I like runes!"
+msgstr "O meu nome é Rune e eu gosto de runas!"
+
+msgid "Do you have any runes?"
+msgstr "Tens runas?"
+
+msgid "(Do I have any runes?)"
+msgstr "(Eu tenho runas?)"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Yes, I do."
+msgstr "Sim, tenho."
+
+msgid "Amazing! Please give them to me!"
+msgstr "Incrível! Por favor, dá-mas!"
+
+msgid "I don't."
+msgstr "Não tenho."
+
+msgid "Is that so."
+msgstr "Não?"
+
+msgid "Are you lying?"
+msgstr "Estás a mentir-me?"
+
+msgid "N-no... I don't have any runes."
+msgstr "N-não... Eu não tenho runas nenhumas."
+
+msgid "Interesting."
+msgstr "Interessante."
+
+msgid "Humans are quite peculiar."
+msgstr "Humanos são bastante peculiares."
+
+msgid "..."
+msgstr "..."
+
+msgid "Well...!"
+msgstr "Bem…!"
+
+msgid "That's terrible!"
+msgstr "Isso é terrível!"
+
+msgid "In the future, if you have any runes, please bring them to me!"
+msgstr "No futuro, se tiveres runas, por favor, trá-las pra mim!"
+
+msgid "I will give you trinkets in exchange!"
+msgstr "Eu dou-te tralha em troca!"
+
+msgid "Okay."
+msgstr "Ok."
+
+msgid "So... are you some kind of spirit?"
+msgstr "Então... és uma espécie de espírito?"
+
+msgid "Not exactly!"
+msgstr "Não exatamente!"
+
+msgid "We've gone by many names in the past."
+msgstr "No passado, usámos muitos nomes."
+
+msgid "But humans often refer to us as \"demons\"."
+msgstr "Mas os humanos referem-se a nós como \"demónios\" agora."
+
+msgid "What is your name?"
+msgstr "Como te chamas?"
+
+msgid "Lacie."
+msgstr "Lacie."
+
+msgid "Miss Lacie!"
+msgstr "Menina Lacie!"
+
+msgid "Rare to see a human around here! How exciting!"
+msgstr "É raro ver humanos por aqui! Que emocionante!"
+
+msgid "You ARE human, aren't you?"
+msgstr "Tu ÉS humana, não és?"
+
+msgid "Yes. You can tell?"
+msgstr "Sim. Dá para perceber?"
+
+msgid "A little bit."
+msgstr "Um bocadinho."
+
+msgid "A little bit?"
+msgstr "Um bocadinho?"
+
+msgid "Some of us may have the appearance of a human, but it's easy to tell the difference with a real one!"
+msgstr "Alguns de nós parecem seres humanos, mas é fácil distinguir os verdadeiros!"
+
+msgid "You however..."
+msgstr "Mas, tu..."
+
+msgid "...What about me?"
+msgstr "...Eu o quê?"
+
+msgid "Even though you're a human, you smell a bit like..."
+msgstr "Apesar de seres humana, cheiras a..."
+
+msgid "I can't speak of them, but... it's someone veeeery bad."
+msgstr "Não posso dizer quem, mas... é uma pessoa muuuuito má."
+
+msgid "Who is it?"
+msgstr "Quem?"
+
+msgid "It's 1000 years of bad luck to talk about it."
+msgstr "Vou ter 1000 anos de azar se falar dela."
+
+msgid "Please, I really need help."
+msgstr "Por favor, preciso mesmo de ajuda."
+
+msgid "Um..."
+msgstr "Hm..."
+
+msgid "I know... that there's something off about me."
+msgstr "Eu sei... que há algo de estranho comigo."
+
+msgid "I did this ritual to find out what it is... and how to fix it."
+msgstr "Fiz um ritual para descobrir o que era... e como o resolver."
+
+msgid "I see."
+msgstr "Entendi."
+
+msgid "For a moment I thought I might be possessed but..."
+msgstr "Até achei que podia estar possuída mas..."
+
+msgid "Ooh."
+msgstr "Ooh."
+
+msgid "Nonsense, possessions are an outdated concept."
+msgstr "Que disparate, possessões são um conceito ultrapassado."
+
+msgid "Then do you know what it could be?"
+msgstr "Então sabes o que poderá ser?"
+
+msgid "A curse!"
+msgstr "Uma maldição!"
+
+msgid "What?"
+msgstr "Hã?"
+
+msgid "99 percent of illnesses here are curses!"
+msgstr "99 por cento das doenças são maldições!"
+
+msgid "What's the other 1 percent?"
+msgstr "E o outro 1 por cento?"
+
+msgid "What a silly question, there is no 1 percent!"
+msgstr "Que pergunta disparatada, não existe 1 por cento!"
+
+msgid "...Oh..."
+msgstr "...Oh..."
+
+msgid "(So it's just 100 percent...?)"
+msgstr "(Então é 100 por cento...?)"
+
+msgid "Do you know how I can lift this curse?"
+msgstr "Sabes como posso acabar com esta maldição?"
+
+msgid "You should seek Red! Red lifts curses!"
+msgstr "Procura o Red! O Red cura maldições!"
+
+msgid "How can I find Red?"
+msgstr "Como posso encontrar o Red?"
+
+msgid "Incidentally, this is Red's treehouse."
+msgstr "Esta é a casa da árvore do Red."
+
+msgid "This? But there's nobody in there."
+msgstr "Esta? Mas não há ninguém lá dentro."
+
+msgid "Indeed, Red hasn't been in there for a long time."
+msgstr "Sim, há muito tempo que o Red não aparece."
+
+msgid "I see..."
+msgstr "Entendi..."
+
+msgid "Yeah, I saw the sign earlier."
+msgstr "Sim, já vi o sinal."
+
+msgid "I guess I should check it out."
+msgstr "Acho melhor ir dar uma olhada."
+
+msgid "Thank you, Rune."
+msgstr "Obrigada, Rune."
+
+msgid "You're welcome, Miss Lacie!"
+msgstr "Não tens de quê, menina Lacie!"
+
+msgid "Good luck, Miss Lacie!"
+msgstr "Boa sorte, menina Lacie!"
+
+msgid "Hello again Miss Lacie!"
+msgstr "Olá outra vez, menina Lacie!"
+
+msgid "Red wasn't there."
+msgstr "O Red não estava lá."
+
+msgid "Why didn't you tell me?"
+msgstr "Porque é que não me disseste?"
+
+msgid "You didn't ask."
+msgstr "Não me perguntaste."
+
+msgid "That's true, I suppose."
+msgstr "Isso é verdade, acho eu."
+
+msgid "Do you know of another way I could find Red?"
+msgstr "Sabes de outra forma de encontrar o Red?"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Would you like to share it with me?"
+msgstr "Queres dizer-ma?"
+
+msgid "Sure!"
+msgstr "Ok!"
+
+msgid "There's a lighthouse to the north of the big tree. Red goes there a lot!"
+msgstr "Há um farol a norte da árvore grande. O Red vai lá muitas vezes!"
+
+msgid "Have you seen the big tree? It's very large, you can't miss it."
+msgstr "Já viste a árvore grande? É bué grande, não dá para não a ver."
+
+msgid "Yes, I have."
+msgstr "Sim, vi."
+
+msgid "Well, you have to head north to reach the lighthouse, but it's quite a long walk."
+msgstr "Bem, tens de ir para norte para chegares ao farol, mas é uma caminhada bastante longa."
+
+msgid "It's right past the lake."
+msgstr "É mesmo a seguir ao lago."
+
+msgid "But... the only way to go north from here is to go through the locked site."
+msgstr "Mas... a única maneira de ir para norte a partir daqui é passar pelo sítio fechado."
+
+msgid "Locked site?"
+msgstr "Sítio fechado?"
+
+msgid "Near the big tree there's a locked gate. If you go through there you'll be at the lake in no time."
+msgstr "Há um portão fechado perto da árvore grande. Se passares por lá, vai chegar ao lago num instante."
+
+msgid "But it's quite dangerous in there."
+msgstr "Mas é bastante perigoso."
+
+msgid "And you'll need a light. Since it's also very dark."
+msgstr "E vais precisar de uma luz. Porque também é muito escuro."
+
+msgid "I see. Thank you for all of this information."
+msgstr "Estou a ver. Obrigada pela informação toda."
+
+msgid "I expected...\"demons\" such as yourself to be more hostile."
+msgstr "Esperava que… os \"demónios\" como tu fossem mais hostis."
+
+msgid "That is a fair expectation!"
+msgstr "Uma expetativa justa!"
+
+msgid "One that you should keep."
+msgstr "Uma que devias manter."
+
+msgid "If anyone finds out you're human, they will kill you instantly."
+msgstr "Se alguém descobre que és humana, matam-te num piscar de olhos."
+
+msgid "Take care!"
+msgstr "Cuida-te!"
+
+msgid "So..."
+msgstr "Então..."
+
+msgid "Why aren't you hostile?"
+msgstr "Porque é que não és hostil?"
+
+msgid "Why do you collect runes?"
+msgstr "Porque é que colecionas runas?"
+
+msgid "Red's treehouse?"
+msgstr "Casa da árvore do Red?"
+
+msgid "What will I find at the lighthouse?"
+msgstr "O que é que vou encontrar no farol?"
+
+msgid "What is inside the locked site?"
+msgstr "O que é que está dentro do sítio?"
+
+msgid "Never mind"
+msgstr "Deixa estar"
+
+msgid "How come you aren't hostile like other demons?"
+msgstr "Porque é que não és hostil, como os outros demónios?"
+
+msgid "I am simply well-fed."
+msgstr "Estou bem alimentado."
+
+msgid "As for runes, why do you collect them?"
+msgstr "Quanto às runas, porque é que as colecionas?"
+
+msgid "I like runes!"
+msgstr "Gosto de runas!"
+
+msgid "What are you doing with them?"
+msgstr "O que fazes com elas?"
+
+msgid "Liking them."
+msgstr "Gosto delas."
+
+msgid "Is that why your name is Rune?"
+msgstr "É por isso que te chamas Rune?"
+
+msgid "I might have had another name once, but I don't recall."
+msgstr "Posso ter tido outro nome, mas não me lembro."
+
+msgid "Why do you call this place \"Red's treehouse\"? This house is not in a tree."
+msgstr "Porque é que chamam a este sítio de \"casa da árvore do Red”? Não está numa árvore."
+
+msgid "But the house is MADE of tree."
+msgstr "Mas a casa é FEITA de árvore."
+
+msgid "Do you mean wood?"
+msgstr "Queres dizer madeira?"
+
+msgid "No...?"
+msgstr "Não...?"
+
+msgid "You are so odd, Miss Lacie!"
+msgstr "És tão estranha, menina Lacie!"
+
+msgid "Will I find Red at the lighthouse?"
+msgstr "Vou encontrar o Red no farol?"
+
+msgid "Maybe. Red often goes there."
+msgstr "Talvez. O Red vai lá muitas vezes."
+
+msgid "What if Red isn't there?"
+msgstr "E se o Red não lá estiver?"
+
+msgid "The lighthouse owner is a friend of Red's, he'll know how to guide you!"
+msgstr "O dono do farol é amigo do Red, ele vai saber guiar-te!"
+
+msgid "He will not eat you, don't worry!"
+msgstr "E não te vai comer, não te preocupes!"
+
+msgid "That's good."
+msgstr "Que bom."
+
+msgid "What's behind that fence? In the locked site?"
+msgstr "O que é que está por detrás da vedação? A do sítio fechado?"
+
+msgid "Mainly just forest and...a monster."
+msgstr "Só floresta e... um monstro."
+
+msgid "A monster???"
+msgstr "Um monstro???"
+
+msgid "It's okay, he won't kill you unless he sees you or hears you!"
+msgstr "Está tudo bem, ele não te vai matar a menos que te veja ou que te ouça!"
+
+msgid "It's very dark in there so you'll need a bit of light. If you hear him approaching, you should hide!"
+msgstr "Está muito escuro lá dentro, vais precisar de uma luz. Se o ouvires aproximar-se, esconde-te!"
+
+msgid "That doesn't sound safe. Is it really the only way to the lighthouse?"
+msgstr "Não me parece seguro. É mesmo o único caminho para o farol?"
+
+msgid "It's the only way I know of."
+msgstr "É o único que eu conheço."
+
+msgid "How did you cross the bridge to get all the way here?"
+msgstr "Como é que atravessaste a ponte para chegar aqui?"
+
+msgid "I walked."
+msgstr "Andei."
+
+msgid "But... You didn't set off any traps?"
+msgstr "Mas... não ativaste nenhuma armadilha?"
+
+msgid "I must have missed them."
+msgstr "Não as devo ter visto."
+
+msgid "Do you live here?"
+msgstr "Vives aqui?"
+
+msgid "Nope!"
+msgstr "Não!"
+
+msgid "I move around a lot."
+msgstr "Mudo-me muito."
+
+msgid "Why did you come here to Red's treehouse?"
+msgstr "Porque é que vieste à casa da árvore do Red?"
+
+msgid "I'm looking for more runes!"
+msgstr "Ando à procura de mais runas!"
+
+msgid "Rune is humming a tune."
+msgstr "O Rune está a cantarolar uma melodia."
+
+msgid "It sounds very off-key."
+msgstr "Muito desafinado."
+
+msgid "An empty box with a crow on top."
+msgstr "Uma caixa vazia com um corvo em cima dela."
+
+msgid "This one decided to stay."
+msgstr "Este decidiu ficar."
+
+msgid "This isn't the time for that."
+msgstr "Não é altura para isso."
+
+msgid "That was a close one."
+msgstr "Foi por pouco."
+
+msgid "You almost had it!"
+msgstr "Quase conseguias!"
+
+msgid "Will you be okay?"
+msgstr "Vais ficar bem?"
+
+msgid "Maybe not."
+msgstr "Talvez não."
+
+msgid "Ouch."
+msgstr "Ai."
+
+msgid "The trick is to not touch the spikes!"
+msgstr "O truque é não tocar nos picos!"
+
+msgid "Everyone dies there."
+msgstr "Toda a gente morre neles."
+
+msgid "Oh well."
+msgstr "Ah, entendi."
+
+msgid "Try Again?"
+msgstr "Tentar outra vez?"
+
+msgid "Retry"
+msgstr "Tentar"
+
+msgid "Skip"
+msgstr "Skipar"
+
+msgid "Give Up"
+msgstr "Desistir"
+
+msgid "What the... a trap?"
+msgstr "Mas o que... Uma armadilha?"
+
+msgid "That was dangerous... why are there traps here?"
+msgstr "Que perigoso... Porque é que há armadilhas aqui?"
+
+msgid "Ooh! An interesting character appears!"
+msgstr "Ooh! Apareceu uma personagem interessante!"
+
+msgid "(Someone's there?)"
+msgstr "(Está aí alguém?)"
+
+msgid "Nobody has come in a long time!"
+msgstr "Há muito tempo que ninguém cá vem!"
+
+msgid "I hope you can make it over here!"
+msgstr "Espero que consigas chegar aqui!"
+
+msgid "Almost there!"
+msgstr "Está quase!"
+
+msgid "Be careful not to die."
+msgstr "Cuidado para não morreres."
+
+msgid "How much longer is this path?"
+msgstr "Quanto tempo falta para este caminho acabar?"
+
+msgid "Only 'till you get here!"
+msgstr "É só até chegares!"
+
+msgid "Don't jump!"
+msgstr "Não saltes!"
+
+msgid "You have so much to live for..."
+msgstr "Tens tanto para viver..."
+
+msgid "...Eh?"
+msgstr "...Hm?"
+
+msgid "Oh! I wasn't..."
+msgstr "Ah! Eu não ia..."
+
+msgid "Be careful with the traps!"
+msgstr "Cuidado com as armadilhas!"
+
+msgid "There's more!?"
+msgstr "Há mais?!"
+
+msgid "Good luck!"
+msgstr "Boa sorte!"
+
+msgid "(I want to check out the house first...)"
+msgstr "(Quero ver a casa primeiro...)"
+
+msgid "Wow! Thank you! You can have something in return!"
+msgstr "Uau! Agradeço! Podes ficar com isto!"
+
+msgid "What am I supposed to do with this?"
+msgstr "O que é que é suposto eu fazer?"
+
+msgid "Dunno! Maybe it will come in handy."
+msgstr "Não sei! Talvez venha a ser útil."
+
+msgid "Yay! Another one!"
+msgstr "Ena! Mais uma!"
+
+msgid "Here's another trinket."
+msgstr "Aqui está mais tralha."
+
+msgid "Wow... this actually looks useful."
+msgstr "Uau... Isto até que parece útil."
+
+msgid "Wow! You're amazing! Thank you!"
+msgstr "Uau! És incrível! Agradeço muito!"
+
+msgid "I gotta say, you have terrible manners!"
+msgstr "Tens péssimos modos!"
+
+msgid "Uhm... I'm sorry."
+msgstr "Uhm… Desculpa."
+
+msgid "Ignoring me like that, after I cheered for you to get here and everything!"
+msgstr "Ignoras-me depois de eu ter-te encorajado para que chegasses e tudo!"
+
+msgid "(You didn't exactly help though...)"
+msgstr "(Mas não me ajudaste...)"
+
+msgid "I was just curious about the house here."
+msgstr "Só estava curiosa com a casa."
+
+msgid "Let's start over. What's your name?"
+msgstr "Vamos começar do início. Qual é o teu nome?"
+
+msgid "What should I do with this?"
+msgstr "O que faço com isto?"
+
+msgid "I'm not sure!"
+msgstr "Não sei!"
+
+msgid "Maybe you could cut things that need cutting."
+msgstr "Talvez possas cortar coisas que precisem de ser cortadas."
+
+msgid "Isn't it nice? It's a bug net. For catching bugs."
+msgstr "Não é giro? É uma rede de borboletas. Para apanhar borboletas."
+
+msgid "There are other kinds of nets, but this one is for catching bugs."
+msgstr "Existem muitas redes, mas esta serve para apanhar borboletas."
+
+msgid "This candle... is from the lighthouse!"
+msgstr "Esta vela... é do farol!"
+
+msgid "What? Really?"
+msgstr "O quê? A sério?"
+
+msgid "(Did I just miss my chance to get to the lighthouse faster...?)"
+msgstr "(Será que perdi a oportunidade de chegar ao farol mais depressa...?)"
+
+msgid "Do you collect doorknobs, Miss Lacie?"
+msgstr "Colecionas maçanetas, menina Lacie?"
+
+msgid "Personally I prefer runes, but to each their own!"
+msgstr "Pessoalmente, prefiro runas, mas cada um com a sua!"
+
+msgid "Alba sells nice fish!"
+msgstr "A Alba vende peixe bom!"
+
+msgid "She also gives me runes sometimes, in exchange for coins."
+msgstr "E também me dá runas em troca de moedas."
+
+msgid "She's a very nice person!"
+msgstr "É uma pessoa muito simpática!"
+
+msgid "How many coins does she charge you?"
+msgstr "Quantas moedas é que ela te cobra?"
+
+msgid "Usually about 40 coins."
+msgstr "Normalmente, umas 40 moedas."
+
+msgid "Rune, I think she might be ripping you off."
+msgstr "Rune, acho que ela te está a roubar."
+
+msgid "Not a chance! I really love runes!"
+msgstr "Não está! Eu gosto muito de runas!"
+
+msgid "An artist's inspiration!"
+msgstr "A inspiração do artista!"
+
+msgid "I heard it can be quite valuable."
+msgstr "Ouvi dizer que pode ser bué valiosa."
+
+msgid "Artist's Inspiration"
+msgstr "Inspiração do Artista"
+
+msgid "Apparently, that's the flower's name."
+msgstr "Pelos vistos, o nome da flor é esse."
+
+msgid "Oh, that would make a nice container for something!"
+msgstr "Oh, isso daria um belo recipiente para alguma coisa!"
+
+msgid "Like what?"
+msgstr "Como por exemplo?"
+
+msgid "I don't know."
+msgstr "Não sei."
+
+msgid "Did you put fireflies inside?"
+msgstr "Puseste pirilampos dentro?"
+
+msgid "Genius!"
+msgstr "Genial!"
+
+msgid "Pointy."
+msgstr "Pontiagudo."
+
+msgid "Pointy pointy."
+msgstr "Pontiagudo oontiagudo."
+
+msgid "Miss Lacie, that's a dangerous item!"
+msgstr "Menina Lacie, esse objeto é perigoso!"
+
+msgid "I never thought you'd try to poison me this fast."
+msgstr "Nunca pensei que me fosses tentar envenenar tão depressa."
+
+msgid "Sorry."
+msgstr "Desculpa."
+
+msgid "No thank you, I don't need to sleep!"
+msgstr "Não, obrigado. Não preciso de dormir!"
+
+msgid "A bag filled with... garbage, probably."
+msgstr "Um saco cheio de... lixo, provavelmente."
+
+msgid "It's tied too hard to check the contents."
+msgstr "Está fechado com força demais pra eu conseguir ver o que tem dentro."
+
+msgid "A box with some birds trapped inside."
+msgstr "Uma caixa com alguns pássaros presos dentro dela."
+
+msgid "Open the box?"
+msgstr "Abrir a caixa?"
+
+msgid "A strong lamp."
+msgstr "Uma lâmpada forte."
+
+msgid "A small window. You can't see anything, so it may be fake."
+msgstr "Uma janelinha. Não se consegue ver nada, talvez seja falsa."
+
+msgid "Thin vertical windows."
+msgstr "Janelas verticais e finas."
+
+msgid "I just got this far, let's take a look around."
+msgstr "Acabei de chegar aqui, quero dar uma vista de olhos."
+
+msgid "I haven't finished talking to Rune..."
+msgstr "Ainda não acabei de falar com o Rune..."
+
+msgid "(Seems like there's nobody here...)"
+msgstr "(Parece que não está cá ninguém...)"

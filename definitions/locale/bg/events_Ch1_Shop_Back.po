@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The little girl is swaying slowly."
+msgstr "Момиченцето се поклаща бавно."
+
+msgid "Hello."
+msgstr "Здравей."
+
+msgid "..."
+msgstr "…"
+
+msgid "Um.... What do you do here?"
+msgstr "Ъм… Какво правиш тук?"
+
+msgid "...!"
+msgstr "…!"
+
+msgid "Is she... giving me something?"
+msgstr "Тя да не би да… ми дава нещо?"
+
+msgid "Oh... Thank you."
+msgstr "Оу… Благодаря ти."
+
+msgid "I guess."
+msgstr "Предполагам."
+
+msgid "(The shadow girl happily takes the bunny off your hands.)"
+msgstr "(Момичето в сянка с радост взема зайчето от ръцете ви.)"
+
+msgid "(The shadow girl lovingly takes the caterpillar from you.)"
+msgstr "(Момичето в сянка с любов взема гъсеницата от вас.)"
+
+msgid "(The shadow girl happily accepts the fireflies.)"
+msgstr "(Момичето в сянка с радост приема светулките.)"
+
+msgid "(The shadow girl takes the fragment and looks up at you.)"
+msgstr "(Момичето в сянка взема фрагмента и ви поглежда.)"
+
+msgid "...? ...?"
+msgstr "…? …?"
+
+msgid "Oh... I don't have any more pieces than that one..."
+msgstr "Оу… нямам повече парчета от това…"
+
+msgid "... ..."
+msgstr "… …"
+
+msgid "(The shadow girl returns the fragment to you with a sad expression.)"
+msgstr "(Момичето в сянка ви връща фрагмента с тъжно изражение.)"
+
+msgid "(The shadow girl takes the fragments from you.)"
+msgstr "(Момичето в сянка взема фрагментите от вас.)"
+
+msgid "(After a few seconds, she returns them to you.)"
+msgstr "(След няколко секунди, тя ви ги връща.)"
+
+msgid "Oh... I'm still missing a piece, am I not...?"
+msgstr "Оу… все още ми липсва едно парче, не е ли така…?"
+
+msgid "Sorry for bothering you."
+msgstr "Съжалявам че те обезпокоих."
+
+msgid "(With some effort, she fits them together and returns them to you.)"
+msgstr "(С известно усилие тя ги сглобява и ви ги връща.)"
+
+msgid "Thank you, I appreciate it."
+msgstr "Благодаря ти. Оценявам го."
+
+msgid "Various colorful liquids and drinks are stored on the shelf."
+msgstr "На рафта се съхраняват различни цветни течности и напитки."
+
+msgid "Some papers with opening hours and upcoming shop discounts."
+msgstr "Някои документи съдържат информация за работното време и предстоящите намаления в магазините."
+
+msgid "There's a... shadow of a girl sitting on the other side of the desk."
+msgstr "Има… сянка на момиче, седящо от другата страна на бюрото."
+
+msgid "She doesn't seem much for conversation."
+msgstr "Не прилича много да е надъхана за разговор."
+
+msgid "\"CLOSED. DO NOT ENTER\" is marked on the sign."
+msgstr "\"ЗАТВОРЕНО. НЕ НАВЛИЗАЙ\" е маркирано на знака."
+
+msgid "The door is locked."
+msgstr "Вратата е заключена."

@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "What is this place?"
+msgstr "這是什麼地方？"
+
+msgid "What do I do about the primals?"
+msgstr "我該怎麼應付原始惡魔？"
+
+msgid "How do you know Sai?"
+msgstr "妳怎麼認識賽伊？"
+
+msgid "Never mind"
+msgstr "算了"
+
+msgid "What exactly is this place?"
+msgstr "這到底是什麼地方？"
+
+msgid "Dunno!"
+msgstr "不知道！"
+
+msgid "Nobody's been here for hundreds of years though."
+msgstr "這個地方已經上百年沒有人來過了。"
+
+msgid "Interesting."
+msgstr "真有趣。"
+
+msgid "There's... shadowy-looking demons roaming around this place."
+msgstr "那裡有...看起來像影子的惡魔在遊蕩。"
+
+msgid "Indeed!"
+msgstr "確實！"
+
+msgid "They are called primals."
+msgstr "它們是原始惡魔。"
+
+msgid "Best not to approach them."
+msgstr "最好不要接近它們。"
+
+msgid "Told you so."
+msgstr "告訴過你了。"
+
+msgid "You two said you've had several encounters with each other?"
+msgstr "你們兩個說過你們有過多次相遇？"
+
+msgid "I do a lot of rituals."
+msgstr "我進行過很多儀式。"
+
+msgid "A lot of rituals?"
+msgstr "很多儀式？"
+
+msgid "And... you've survived?"
+msgstr "而且...你存活下來了？"
+
+msgid "You almost look disappointed."
+msgstr "妳看起來有點失望。"
+
+msgid "Rune bounces up and down."
+msgstr "符石上下蹦跳。"
+
+msgid "By the way..."
+msgstr "順帶一提..."
+
+msgid "The way to go \"deeper\" seems to be flooded."
+msgstr "往\"下\"走的路似乎被淹沒了。"
+
+msgid "Do I have to swim...?"
+msgstr "我需要游泳嗎...？"
+
+msgid "Do you? I wonder!"
+msgstr "妳需要嗎？我也想知道！"
+
+msgid "Sigh..."
+msgstr "唉..."
+
+msgid "Miss Lacie!"
+msgstr "萊西小姐！"
+
+msgid "Have you misplaced Mr. Sai?"
+msgstr "你把賽伊先生放錯地方了嗎？"
+
+msgid "Uh..."
+msgstr "呃..."
+
+msgid "Something like that."
+msgstr "差不多是那樣。"
+
+msgid "How come?"
+msgstr "怎麼說？"
+
+msgid "..."
+msgstr "..."
+
+msgid "I'm just more comfortable being alone."
+msgstr "我獨自一人比較自在。"
+
+msgid "Ooh! I feel the same!"
+msgstr "喔喔！我也是！"
+
+msgid "Anyway..."
+msgstr "總之..."
+
+msgid "How did I miss the lighthouse?"
+msgstr "你是怎麼錯過燈塔的？"
+
+msgid "How will you get out of here?"
+msgstr "你會怎麼離開這裡？"
+
+msgid "Tell me more about Sai."
+msgstr "跟我多說說賽伊的事。"
+
+msgid "So... I went north, but somehow I didn't come across the lighthouse."
+msgstr "是這樣...我往北走，但是不知道為什麼我沒有看到燈塔。"
+
+msgid "Where did I go wrong?"
+msgstr "我是哪一步走錯了？"
+
+msgid "Hmm..."
+msgstr "嗯..."
+
+msgid "Did you reach the lake?"
+msgstr "你有到達湖邊嗎？"
+
+msgid "Yes."
+msgstr "有。"
+
+msgid "Did you cross the lake?"
+msgstr "你有跨越湖嗎？"
+
+msgid "Yes, I took a boat."
+msgstr "有，我搭了船。"
+
+msgid "You should have been able to spot it from there!"
+msgstr "妳應該可以在那裡看到燈塔！"
+
+msgid "Oh, I couldn't see much because of the fog, so I just tried to keep rowing in the same direction."
+msgstr "喔，因為有霧所以我看不到什麼東西，所以我一直朝同一個方向划。"
+
+msgid "I must have taken a wrong turn somewhere..."
+msgstr "我一定是在哪裡轉錯彎了..."
+
+msgid "That's too bad."
+msgstr "真是太糟了。"
+
+msgid "If this place is a dead end, how do you intend to leave?"
+msgstr "如果這裡是死路，你打算怎麼離開？"
+
+msgid "I will stick around here for a bit longer!"
+msgstr "我會在這裡多待一會兒！"
+
+msgid "But after that?"
+msgstr "但是之後呢？"
+
+msgid "After that what?"
+msgstr "之後什麼？"
+
+msgid "How do you plan to get out?"
+msgstr "你計畫怎麼出去？"
+
+msgid "I don't plan to get out for the moment! I will stick around for a bit longer!"
+msgstr "我現在沒有要計劃出去！我會在這裡多待一會兒！"
+
+msgid "But..."
+msgstr "可是..."
+
+msgid "Miss Lacie, I will stick around here for a bit longer!"
+msgstr "萊西小姐，我會在這裡多待一會兒！"
+
+msgid "I see..."
+msgstr "我明白了..."
+
+msgid "Do you know anything else about Sai? What kind of person is he?"
+msgstr "妳還知道關於賽伊的什麼嗎？他是個什麼樣的人？"
+
+msgid "Hmmm..."
+msgstr "嗯~~..."
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "He never talks about himself."
+msgstr "他從不談論自己。"
+
+msgid "And he never gives me runes."
+msgstr "而且他沒有給我任何符石。"
+
+msgid "Is he a demon?"
+msgstr "他是惡魔嗎？"
+
+msgid "He's not!"
+msgstr "他不是！"
+
+msgid "Oh... really?"
+msgstr "喔...真的嗎？"
+
+msgid "Although there is something different about him."
+msgstr "雖然他有點不一樣。"
+
+msgid "Much like you, Miss Lacie, I couldn't tell right away that he's human."
+msgstr "就像妳一樣，萊西小姐，我沒辦法馬上知道他是人類。"
+
+msgid "Normally I can smell it from quite far!"
+msgstr "通常我可以在滿遠的地方聞到！"
+
+msgid "Oh."
+msgstr "喔。"
+
+msgid "Strange."
+msgstr "真奇怪。"
+
+msgid "The way forward is blocked by some sort of door."
+msgstr "向前的道路被某種門阻擋了。"
+
+msgid "This wasn't here before..."
+msgstr "之前不在這裡的..."
+
+msgid "(It's dead...?)"
+msgstr "(它死了...？)"
+
+msgid "Good riddance."
+msgstr "終於擺脫了。"
+
+msgid "Another one..?"
+msgstr "另一個...？"
+
+msgid "That makes two."
+msgstr "這樣就有兩個了。"
+
+msgid "(What killed it...?)"
+msgstr "(是什麼殺了它...？)"
+
+msgid "Are you sensing a pattern here or is it just me?"
+msgstr "妳有沒有覺得這有規律還是只有我這麼想？"
+
+msgid "(Really... what happened here?)"
+msgstr "(真的...這裡發生了什麼事？)"
+
+msgid "Must be my imagination."
+msgstr "一定是我的想像。"
+
+msgid "Ooh!"
+msgstr "喔喔！"
+
+msgid "Miss L-"
+msgstr "萊-"
+
+msgid "Shh!"
+msgstr "噓！"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "I don't give my name to just anyone, Rune."
+msgstr "我不會隨便把名字告訴別人，符石。"
+
+msgid "Very wise!"
+msgstr "非常明智！"
+
+msgid "What?!"
+msgstr "什麼？！"
+
+msgid "You told this goblin your name but not me?"
+msgstr "你告訴了這哥布林妳的名字但是不告訴我？"
+
+msgid "You're still suspicious."
+msgstr "你還是很可疑。"
+
+msgid "Suspicious?"
+msgstr "可疑？"
+
+msgid "What can I even do with your name? This is ridiculous."
+msgstr "我能拿妳的名字做什麼？太離譜了。"
+
+msgid "I read of a curse that can kill someone just by writing their name in a notebook."
+msgstr "我讀到過一個詛咒，只要把名字寫在筆記本上就可以殺了他們。"
+
+msgid "Is that the same place you read about the salt?"
+msgstr "跟你讀到關於鹽巴的地方一樣嗎？"
+
+msgid "Hello Mr. Sai!"
+msgstr "哈囉賽伊先生！"
+
+msgid "Yo."
+msgstr "呦。"
+
+msgid "Rune, you know him?"
+msgstr "符石，你認識它嗎？"
+
+msgid "Yes! Though my encounters with Mr. Sai are often brief, as he does not provide me with runes."
+msgstr "是的！雖然我和賽伊先生的接觸通常很短暫，因為他不提供符石給我。"
+
+msgid "Give me a break man, it's not like those things are just lying around."
+msgstr "放過我吧，那些東西又不是滿地都是。"
+
+msgid "(I guess that's true...)"
+msgstr "(我想沒錯...)"
+
+msgid "(Well, I did find one...)"
+msgstr "(我是找到了一顆...)"
+
+msgid "(They kind of are, though...)"
+msgstr "(不過它們真的到處都是...)"
+
+msgid "How did you get here?"
+msgstr "你是怎麼到這裡的？"
+
+msgid "I walked."
+msgstr "我走來的。"
+
+msgid "I see."
+msgstr "我明白了。"
+
+msgid "Unfortunately, I'm still looking for the lighthouse."
+msgstr "不幸的是，我還在尋找燈塔。"
+
+msgid "Ooh."
+msgstr "喔~。"
+
+msgid "The lighthouse isn't here! You must have taken a wrong turn somewhere."
+msgstr "燈塔不在這裡！妳一定是在哪裡轉錯彎了。"
+
+msgid "And there's no way to go back outside from here."
+msgstr "而且這裡沒有路可以出去。"
+
+msgid "What?"
+msgstr "什麼？"
+
+msgid "We're stuck here?"
+msgstr "我們被困在這裡了？"
+
+msgid "Possibly. Some doorknobs are one-way only."
+msgstr "有可能。有些門把是單向的。"
+
+msgid "Rune, do you have any idea where I could go from here to reach the lighthouse?"
+msgstr "符石，你知道怎麼從這裡抵達燈塔嗎？"
+
+msgid "The only way forward is by going deeper down."
+msgstr "唯一向前的道路是往下深入。"
+
+msgid "The stairs are right there, in fact!"
+msgstr "事實上，樓梯就在那裡！"
+
+msgid "That looks like a dead end."
+msgstr "看起來是條死路。"
+
+msgid "Yes, death is highly probable at all times!"
+msgstr "是啊，死亡的可能性隨時都很高！"
+
+msgid "But, I heard there's a cursed door down there somewhere."
+msgstr "可是，聽說下面有扇被詛咒的門。"
+
+msgid "If you're lucky, it might lead you somewhere!"
+msgstr "如果妳幸運的話，它可能會帶你到某個地方！"
+
+msgid "Or if you're unlucky, it might not!"
+msgstr "或是如果妳不幸運的話，它不會！"
+
+msgid "(Another cursed door huh...)"
+msgstr "(另一扇被詛咒的門啊...)"
+
+msgid "(If there's a cursed door, then maybe there's a way out of here.)"
+msgstr "(如果有被詛咒的門，那們也許有路可以出去。)"
+
+msgid "(Or at the very least, I could still go home if I'm stuck.)"
+msgstr "(或是至少，我被困住的話還可以回家。)"
+
+msgid "(I have the doorknob, after all.)"
+msgstr "(畢竟我有門把。)"
+
+msgid "(That doorknob... When I got it in the mail, it came with instructions. Almost like a ritual.)"
+msgstr "(那顆門把...我收到的時候，附上了說明。幾乎像是個儀式。)"
+
+msgid "(It involved folding my ritual letter into an origami lily, and placing it in some vase.)"
+msgstr "(它包含了把我的儀式信件折成紙百合，然後放在花瓶裡。)"
+
+msgid "(I thought it was a joke, but...)"
+msgstr "(我以為是個玩笑，但是...)"
+
+msgid "\"It's imperative that you learn how to fold it, if you don't, you'll regret it.\""
+msgstr "\"你必須學會如何折它，如果沒有學會，你會後悔的。\""
+
+msgid "(Anyways, I brought the folding instructions with me, just in case.)"
+msgstr "(總之，我帶著折紙說明，以防萬一。)"
+
+msgid "Yo, you there? You're spacing out."
+msgstr "呦，妳在嗎？妳在放空。"
+
+msgid "Ah... yeah."
+msgstr "啊...是啊。"
+
+msgid "Good luck on your quest!"
+msgstr "祝妳好運！"
+
+msgid "I have just the thing for you!"
+msgstr "我剛好有妳需要的東西！"
+
+msgid "It's a map!"
+msgstr "是張地圖！"
+
+msgid "A map...?"
+msgstr "一張地圖...？"
+
+msgid "Let's see, here you go!"
+msgstr "讓我找找，拿去吧！"
+
+msgid "I love runes!"
+msgstr "我愛符石！"
+
+msgid "Yay! Today is my lucky day!"
+msgstr "耶！今天是我的幸運日！"
+
+msgid "Are we doing my idea?!"
+msgstr "要來執行我的點子嗎？！"
+
+msgid "No."
+msgstr "不要。"
+
+msgid "But it might work!"
+msgstr "但是可能會成功！"
+
+msgid "We just have to pick up water from here and empty it somewhere."
+msgstr "我們只需要從這裡舀起水然後倒在別的地方。"
+
+msgid "And just repeat that a couple of times."
+msgstr "然後只要重複幾次。"
+
+msgid "Or, a lot of times."
+msgstr "或是，很多次。"
+
+msgid "Right?"
+msgstr "對吧？"
+
+msgid "We just need, like..."
+msgstr "我們只需要，差不多..."
+
+msgid "A bathtub or a sink or something."
+msgstr "一個浴缸還是水槽還是什麼的。"
+
+msgid "Eventually, the water level will be lower."
+msgstr "最後，水位就會下降。"
+
+msgid "This is ridiculous."
+msgstr "太離譜了。"
+
+msgid "Here, I can carry that for you."
+msgstr "來吧，我來幫妳拿。"
+
+msgid "I can do it."
+msgstr "我可以辦到。"
+
+msgid "Alriiight."
+msgstr "好~~吧。"
+
+msgid "What are you doing?"
+msgstr "妳在做什麼？"
+
+msgid "Nothing."
+msgstr "沒什麼。"
+
+msgid "We're lowering the water level."
+msgstr "我們在降低水位。"
+
+msgid "Oooh..."
+msgstr "喔~~..."
+
+msgid "This looks highly inefficient!"
+msgstr "看起來非常沒有效率！"
+
+msgid "Yeah, well, why don't you help then?"
+msgstr "是啊，那麼你何不來幫我們？"
+
+msgid "It'll go faster."
+msgstr "這樣就可以更快。"
+
+msgid "That's okay!"
+msgstr "沒關係！"
+
+msgid "I'm satisfied over here."
+msgstr "我對現況很滿意。"
+
+msgid "Hey!"
+msgstr "嘿！"
+
+msgid "I think the water level already went down a bit!"
+msgstr "我感覺到水位已經下降一點了！"
+
+msgid "(It hasn't moved at all...)"
+msgstr "(它完全沒有動靜...)"
+
+msgid "Oh, you can keep it!"
+msgstr "喔，你可以留著它！"
+
+msgid "Rune doesn't need it back."
+msgstr "符石不需要。"
+
+msgid "A cursed artifact from the depths, best left forgotten."
+msgstr "來自深淵被詛咒的製品，最好把它忘了。"
+
+msgid "Please, I don't want to see this thing ever again."
+msgstr "拜託，我不想要再看到這東西了。"
+
+msgid "It's a button. It probably controls the gate."
+msgstr "這是個按鈕。大概是用來控制大門的。"
+
+msgid "Press the button?"
+msgstr "按下按鈕？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Nothing happens."
+msgstr "什麼事也沒發生。"
+
+msgid "A large gate blocks your path."
+msgstr "一扇大門阻擋了妳的去路。"
+
+msgid "A crow standing on a white tree stump."
+msgstr "一隻烏鴉站在白樹樁上。"
+
+msgid "I can't tell if it's the same one... but I'm glad to see it."
+msgstr "我不知道是不是同一隻...但是我很高興能看到牠。"
+
+msgid "Are you friends with the crows?"
+msgstr "妳跟烏鴉是朋友嗎？"
+
+msgid "Sorta. They appear here and there like save points."
+msgstr "算是。牠們就像是存檔點一樣出現在各處。"
+
+msgid "?????"
+msgstr "？？？？？？"
+
+msgid "The crow isn't here right now."
+msgstr "烏鴉現在不在這裡。"
+
+msgid "A tree that seems to be growing out of the concrete floor."
+msgstr "看起來像是長出了水泥地的樹。"
+
+msgid "(Unusual place for a tree.)"
+msgstr "(不常出現樹木的地方。)"
+
+msgid "The path forward is flooded."
+msgstr "向前的道路被淹沒了。"
+
+msgid "(Deeper down... do we have to go this way?)"
+msgstr "(往下深入...我們一定要往這個方向走嗎？)"
+
+msgid "(That's impossible... does Rune expect us to swim?)"
+msgstr "(不可能...符石是想要我們游泳嗎？)"
+
+msgid "Hear me out."
+msgstr "聽我說。"
+
+msgid "What if we took all this water..."
+msgstr "如果我們把所有的水..."
+
+msgid "And put it somewhere else?"
+msgstr "然後把它放到別的地方？"
+
+msgid "Do you have a screw loose?"
+msgstr "你腦袋有問題嗎？"
+
+msgid "Look, I know it sounds crazy!"
+msgstr "聽著，我知道這聽起來很瘋狂！"
+
+msgid "And we'd need a bucket..."
+msgstr "而且我們需要一個水桶..."
+
+msgid "It's impossible."
+msgstr "不可能。"
+
+msgid "And it would take a lot of trips..."
+msgstr "而且會需要做很多次..."
+
+msgid "I can't believe I'm hearing this."
+msgstr "我不敢相信我聽到了這主意。"
+
+msgid "(But maybe... we can lower the water level somehow?)"
+msgstr "(可是也許...我們可以用某種方式讓水位下降？)"
+
+msgid "It's locked."
+msgstr "被鎖住了。"

@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid ""
+"This is a demo.\n"
+"It might not properly represent the quality of the final product."
+msgstr ""
+"Це демо-версія гри.\n"
+"Вона може не відповідати якості кінцевого продукту."
+
+msgid ""
+"This game may contain flashing lights and effects,\n"
+"as well as depictions of violence and strong language."
+msgstr ""
+"Ця гра може містити спалахи світла та яскраві ефекти,\n"
+"а також зображення насильства та лайливі слова."
+
+msgid "Video Creators and Streamers"
+msgstr "Авторам відео та стрімерам"
+
+msgid "Commenters and Reviewers"
+msgstr "Тим, хто залишав коментарі або рецензії"
+
+msgid "Our Families and Friends"
+msgstr "Нашим сім'ям та друзям"
+
+msgid "Additional Thanks"
+msgstr "Особлива подяка"
+
+msgid "To our fans for waiting patiently"
+msgstr "Нашим фанатам за їхнє терпіння"
+
+msgid "To Kaiyo's mom and dad for their unwavering support"
+msgstr "Батькам Кайо за їхню нескінченну підтримку"
+
+msgid "To those who sent an encouraging email"
+msgstr "Тим, хто надсилав підбадьорливі листи"
+
+msgid "And to You!"
+msgstr "Та Вам!"
+
+msgid "Thank you for playing..."
+msgstr "Дякуємо за гру..."
+
+msgid "See you in Chapter 2!"
+msgstr "Побачимось у Другому Розділі!"
+
+msgid "Miss Knives Original Design"
+msgstr "Оригінальний дизайн Пані Ніж"
+
+msgid "Miss Knives Contest Winners"
+msgstr "Переможці в конкурсі картин для дому Пані Ніж"
+
+msgid "Cabbage Masters"
+msgstr "Майстри капусти"
+
+msgid ""
+"Note from the devs:\n"
+"Congratulations for getting this far in the Paper Lily story!\n"
+"Thank you so much for your support and enthusiasm for this little world we created. Please don't hesitate to leave a review if you have the time, it helps immensely.\n"
+"\n"
+"We're still only two idiots making this game, so if you want to support future development please consider purchasing the supporter pack!"
+msgstr ""
+"Записка від розробників:\n"
+"Вітаємо з тим, що ви так далеко зайшли в історії Paper Lily!\n"
+"Дякуємо за підтримку та ентузіазм, що ви проявили до нашого маленького світу. Якщо у вас є час, будь ласка, залиште рецензію, це нам дуже допоможе.\n"
+"\n"
+"Ми й досі лише двоє дурників, що розробляють цю гру, тому якщо ви хочете підтримати майбутню розробку, подумайте над тим, щоб придбати Набір Підтримки (Supporter Pack)"
+
+msgid "True End 1-1 - Against All Odds"
+msgstr "Істинний кінець 1-1 - Попри всі лиха"
+
+msgid "Change into uniform"
+msgstr "Переодягнутися у шкільну форму"
+
+msgid "Change into indoor clothes"
+msgstr "Переодягнутися в домашнє"
+
+msgid "Don't change"
+msgstr "Нічого не робити"
+
+msgid "Things to do"
+msgstr "Список справ"
+
+msgid "(before I die)"
+msgstr "(перед моєю смертю)"
+
+msgid "- Go out"
+msgstr "- Вийти на вулицю"
+
+msgid "- Eat the meal mom left me"
+msgstr "- З'їсти те, що залишила мама"
+
+msgid "- Fill up the bird feeder"
+msgstr "- Засипати корм в годівницю"
+
+msgid "- Feed my Tamaghost"
+msgstr "- Нагодувати Тамагоста"
+
+msgid "- Say goodbye to Hiro"
+msgstr "- Попрощатися з Хіро"
+
+msgid "A coffee and a flan"
+msgstr "Кава з фруктовим пирогом"
+
+msgid "A coffee and macarons"
+msgstr "Кава з макарунами"
+
+msgid "A coffee and an eclair"
+msgstr "Кава з еклером"
+
+msgid "A tea and a flan"
+msgstr "Чай з фруктовим пирогом"
+
+msgid "A tea and macarons"
+msgstr "Чай з макарунами"
+
+msgid "A tea and an eclair"
+msgstr "Чай з еклером"
+
+msgid "A milkshake and a flan"
+msgstr "Молочний коктейль з фруктовим пирогом"
+
+msgid "A milkshake and macarons"
+msgstr "Молочний коктейль з макарунами"
+
+msgid "A milkshake and an eclair"
+msgstr "Молочний коктейль з еклером"
+
+msgid "???"
+msgstr "???"
+
+msgid "Girl A"
+msgstr "Дівчина А"
+
+msgid "Girl B"
+msgstr "Дівчина Б"
+
+msgid "Man"
+msgstr "Чоловік"
+
+msgid "Lady"
+msgstr "Пані"
+
+msgid "Child"
+msgstr "Дитина"
+
+msgid "Mother"
+msgstr "Матір"
+
+msgid "Student"
+msgstr "Учень"
+
+msgid "Bully"
+msgstr "Забіяка"
+
+msgid "Everyone"
+msgstr "Усі"
+
+msgid "Father"
+msgstr "Батько"
+
+msgid "Neighbor"
+msgstr "Сусід"
+
+msgid "Long-Faced Monster"
+msgstr "Чудовисько з довгим обличчям"
+
+msgid "One-Eyed Monster"
+msgstr "Однооке чудовисько"
+
+msgid "Doctor?"
+msgstr "Доктор?"
+
+msgid "Voice 1"
+msgstr "Голос 1"
+
+msgid "Voice 2"
+msgstr "Голос 2"
+
+msgid "Voice 3"
+msgstr "Голос 3"
+
+msgid "Prisoner"
+msgstr "В'язень"
+
+msgid "Miss Knives (Young)"
+msgstr "Пані Ніж (юна)"
+
+msgid "Iris"
+msgstr "Іріс"
+
+msgid "Boy 1"
+msgstr "Хлопець 1"
+
+msgid "Boy 2"
+msgstr "Хлопець 2"
+
+msgid "Boy 3"
+msgstr "Хлопець 3"

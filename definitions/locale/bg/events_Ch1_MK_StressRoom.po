@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I think this doll has been stabbed enough times."
+msgstr "Мисля, че тази кукла е била пробождана достатъчно пъти."
+
+msgid "The lighter doesn't seem to work on it..."
+msgstr "Изглежда, че запалката не работи при него…"
+
+msgid "The burnt doll blocks your path."
+msgstr "Изгорялата кукла препречва пътя ви."
+
+msgid "Someone is tied to the stake, with black knives all over their body."
+msgstr "Някой е завързан за кол, а по тялото му има черни ножове."
+
+msgid "Pull out ${item:ch1.mk_knife}?"
+msgstr "Издърпайте ${item:ch1.mk_knife}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "When you pulled out a knife, the rest of them crumbled apart."
+msgstr "Когато извадихте ножа, останалите се разпаднаха на парчета."
+
+msgid "Someone is tied to the stake."
+msgstr "Някой е завързан за кол."

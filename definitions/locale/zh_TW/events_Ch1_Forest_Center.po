@@ -1,0 +1,1316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Welcome."
+msgstr "歡迎。"
+
+msgid "5 coins each."
+msgstr "每隻 5 枚硬幣。"
+
+msgid "Buy a fish?"
+msgstr "買一隻魚嗎？"
+
+msgid "Buy"
+msgstr "買"
+
+msgid "Buy all"
+msgstr "買下全部"
+
+msgid "Talk"
+msgstr "交談"
+
+msgid "Never mind"
+msgstr "算了"
+
+msgid "You don't have enough coins."
+msgstr "妳的硬幣不夠。"
+
+msgid "(She looks intimidating...)"
+msgstr "(她看起來很嚇人...)"
+
+msgid "What're you staring at?"
+msgstr "妳看什麼？"
+
+msgid "You heard me. 5 coins each, no haggling."
+msgstr "妳聽到了。每隻 5 枚硬幣，不接受殺價。"
+
+msgid "Or, you could buy all my fish for 10 coins. It's a pretty good deal and I get to take the rest of the day off."
+msgstr "或是，妳可以用 10 枚硬幣買下我全部的魚。這是一筆非常划算的交易，而且我接下來就可以休息了。"
+
+msgid "(What kind of deal is that...?)"
+msgstr "(這算是什麼交易...？)"
+
+msgid "I'll take one."
+msgstr "我要一隻。"
+
+msgid "I'll take all of them."
+msgstr "我要全部。"
+
+msgid "I don't even have 5 coins."
+msgstr "我連 5 枚硬幣都沒有。"
+
+msgid "No thanks"
+msgstr "不用了，謝謝"
+
+msgid "Does that sound like my problem? 5 coins each, no exceptions."
+msgstr "這是我的問題嗎？一隻 5 枚硬幣，沒有例外。"
+
+msgid "Ready to buy?"
+msgstr "準備好購買嗎？"
+
+msgid "What will I use the fish for?"
+msgstr "我能用這魚做什麼？"
+
+msgid "What do I care?"
+msgstr "我管妳要做什麼？"
+
+msgid "Will you at least grill it?"
+msgstr "妳可以至少烤一下嗎？"
+
+msgid "Do I look like a buffet?! Scram."
+msgstr "這裡看起來像是餐廳嗎？！滾。"
+
+msgid "Where can I find more coins?"
+msgstr "我可以去哪裡找到更多硬幣？"
+
+msgid "Sorry...! Please forget about it."
+msgstr "抱歉...！請當我沒說。"
+
+msgid "She doesn't seem like she wants to talk."
+msgstr "她看起來不太想說話。"
+
+msgid "Welcome~"
+msgstr "歡迎~"
+
+msgid "We're out of stock for today, so come back again soon."
+msgstr "我們今天已經沒貨了，請之後再回來。"
+
+msgid "Business is booming. Today was a good day."
+msgstr "生意興隆。今天真是個好日子。"
+
+msgid "You should have rotted down there."
+msgstr "妳應該在下面腐爛的。"
+
+msgid "Just like my fish."
+msgstr "就像我的魚。"
+
+msgid "Alba is counting the money she earned today."
+msgstr "阿爾巴在數她今天賺到的錢。"
+
+msgid "Aoi."
+msgstr "葵。"
+
+msgid "Lacie!! Thank you!"
+msgstr "萊西！！謝謝妳！"
+
+msgid "..."
+msgstr "..."
+
+msgid "(I was going to say that...)"
+msgstr "(是我要說的...)"
+
+msgid "Thanks to your idea, we managed to get out!!"
+msgstr "多虧妳的主意，我們逃出來了！！"
+
+msgid "Ah, No... thank you."
+msgstr "啊，不...謝謝妳。"
+
+msgid "Um... also... with the fish lady..."
+msgstr "嗯...還有...魚女士..."
+
+msgid "I mean... um..."
+msgstr "我的意思是...嗯..."
+
+msgid "You're nice."
+msgstr "你人很好。"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "Heheh I'm glad I met you Lacie!"
+msgstr "嘻嘻我很高興能遇到妳，萊西！"
+
+msgid "And I'm glad you had those amazing scissors!"
+msgstr "而且我很高興妳有那把厲害的剪刀！"
+
+msgid "They really saved us both."
+msgstr "它真的拯救了我們兩個。"
+
+msgid "I hope I'll be able to have such cool scissors some day too!"
+msgstr "希望我有一天也能有把這麼酷的剪刀！"
+
+msgid "Oh... yeah."
+msgstr "喔...是啊。"
+
+msgid "You can keep them."
+msgstr "你可以拿走它。"
+
+msgid "WHAAAT?!"
+msgstr "什麼？！"
+
+msgid "But Lacie, what if you need them!"
+msgstr "可是萊西，如果妳還需要它的話怎麼辦！"
+
+msgid "I'll be fine."
+msgstr "我會沒事的。"
+
+msgid "Wow!!"
+msgstr "哇！！"
+
+msgid "Thank you so much!"
+msgstr "太感謝妳了！"
+
+msgid "This is the best gift anyone's ever given me!"
+msgstr "這是我收過最棒的禮物了！"
+
+msgid "What will you do now?"
+msgstr "妳現在要做什麼？"
+
+msgid "Well... I'm... looking for something. Some answers, I guess."
+msgstr "那個...我...在找某個東西。一些答案，應該吧。"
+
+msgid "For now, I need to go through the locked site."
+msgstr "現在，我需要穿過封鎖區。"
+
+msgid "Ohh!"
+msgstr "喔喔！"
+
+msgid "Be careful in there."
+msgstr "在裡面要小心一點。"
+
+msgid "I have a tip! Always hide in the bushes!"
+msgstr "我有個秘訣！一定要躲在草叢裡！"
+
+msgid "Thank you."
+msgstr "謝謝你。"
+
+msgid "Are you leaving?"
+msgstr "你要離開了嗎？"
+
+msgid "Oh, yeah, back to work for me heheh."
+msgstr "喔，是啊，回去工作嘻嘻。"
+
+msgid "I've had enough adventures..."
+msgstr "我已經冒險夠了..."
+
+msgid "Is that good?"
+msgstr "這樣好嗎？"
+
+msgid "I'm not looking forward to it..."
+msgstr "我不會期待..."
+
+msgid "But.. it's where I live, so..."
+msgstr "可是...我住在這，所以..."
+
+msgid "Maybe we'll meet again?"
+msgstr "也許我們會再相遇？"
+
+msgid "Yeah."
+msgstr "是啊。"
+
+msgid "(That would be nice.)"
+msgstr "(那樣會不錯。)"
+
+msgid "This isn't goodbye, okay!?"
+msgstr "這不是道別，好嗎！？"
+
+msgid "Oh, okay."
+msgstr "喔，好的。"
+
+msgid "Then..."
+msgstr "那麼..."
+
+msgid "See you later!"
+msgstr "之後見！"
+
+msgid "See you."
+msgstr "再見。"
+
+msgid "(I feel like I should have said more... Why am I so bad with words?)"
+msgstr "(感覺我該說更多的...為什麼我這麼不會說話？)"
+
+msgid "(Sigh... I just have to make sure to say it next time we meet.)"
+msgstr "(唉...只能下次相遇的時候再說了。)"
+
+msgid "Mee-mee-mee-"
+msgstr "見-見-見-"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Mee-meet!"
+msgstr "見-見面！"
+
+msgid "Uh...N-N-Nice to... meet..."
+msgstr "呃...很-很-很高興...見到..."
+
+msgid "A-a-apologies. I-I-I'm not very good at speaking under pressure."
+msgstr "對-對-對不起。我-我-我不擅長在壓力下說話。"
+
+msgid "(He's worse than me...)"
+msgstr "(他比我還糟...)"
+
+msgid "Kozmo."
+msgstr "柯茲莫。"
+
+msgid "...What?"
+msgstr "...什麼？"
+
+msgid "Oh... Y-y-you didn't ask for my name."
+msgstr "喔...妳-妳-妳還沒問我的名字。"
+
+msgid "Yeah... I didn't."
+msgstr "是啊...我沒有。"
+
+msgid "Th-This interaction is not enjoyable."
+msgstr "這-這次交流不怎麼愉快。"
+
+msgid "It's nice to meet you, Kozmo."
+msgstr "很高興見到你，柯茲莫。"
+
+msgid "L-l-likewise, ...erm...?"
+msgstr "我-我-我也是，...嗯...？"
+
+msgid "Your-your..your-"
+msgstr "妳的-妳的...妳的-"
+
+msgid "Your name is...?"
+msgstr "妳的名字是...？"
+
+msgid "Oh."
+msgstr "喔。"
+
+msgid "It's um... It's not important."
+msgstr "這個嗯...這不重要。"
+
+msgid "O-oh... okay..."
+msgstr "喔-喔...好吧..."
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "Why are you so bad at speaking?"
+msgstr "為什麼你這麼不會說話？"
+
+msgid "What are you doing here?"
+msgstr "你在這裡做什麼？"
+
+msgid "(Knock on his head)"
+msgstr "(敲敲他的頭。)"
+
+msgid "Y-y-y-you think I'm bad at speaking...?"
+msgstr "妳-妳-妳覺得我不擅長說話嗎...？"
+
+msgid "Well... you said it yourself, did you not?"
+msgstr "那個...你自己都這麼說了，不是嗎？"
+
+msgid "Oh... w-well..."
+msgstr "喔...是-是啊..."
+
+msgid "Th-Th-The truth is..."
+msgstr "事-事-事實上..."
+
+msgid "I-I-I've been told I sometimes....."
+msgstr "有-有-有人告訴我我有的時候會......"
+
+msgid "S-s-stutter...!"
+msgstr "口-口-口吃...！"
+
+msgid "Oh. I'm sorry to hear that."
+msgstr "喔。我感到遺憾。"
+
+msgid "D-d-d-do you think I stutter?!?"
+msgstr "妳-妳-妳覺得我有口吃嗎？！？"
+
+msgid "(Do I think Kozmo stutters...?)"
+msgstr "(妳覺得柯茲莫有口吃嗎...？)"
+
+msgid "It's not my place to say."
+msgstr "不是我該決定的。"
+
+msgid "Yes, it's very obvious."
+msgstr "是，非常明顯。"
+
+msgid "O-oh... That's okay."
+msgstr "喔-喔...好吧。"
+
+msgid "M-m-maybe I've improved, and it's not so noticeable!"
+msgstr "也-也-也許我改善了，沒有那麼明顯了！"
+
+msgid "Maybe."
+msgstr "也許吧。"
+
+msgid "O-oh dear......"
+msgstr "喔-喔......"
+
+msgid "Do you live here?"
+msgstr "你住在這裡嗎？"
+
+msgid "N-no.. Not many of us live in the forest."
+msgstr "不-不...我們之中沒多少人住在森林裡。"
+
+msgid "I-it's too distant, you see..."
+msgstr "離的太遠了，你懂嗎..."
+
+msgid "Too distant to... what, exactly?"
+msgstr "離什麼...太遠？"
+
+msgid "T-t-the city, mainly."
+msgstr "主-主-主要是城市。"
+
+msgid "How do you get to the city from here?"
+msgstr "你是怎麼從城市過來這裡的？"
+
+msgid "Is-is-is-is this a quiz?"
+msgstr "這-這-這是什麼測驗嗎？"
+
+msgid "No, I..."
+msgstr "不，我..."
+
+msgid "We-well... It's... um... y-y-you can... you can take the bus... o-o-or the train..."
+msgstr "那-那個...就是...嗯...妳-妳-妳可以...妳可以搭公車...或-或-或是火車..."
+
+msgid "Don't you know this though?"
+msgstr "妳不知道嗎？"
+
+msgid "Come to think of it, where are you from?"
+msgstr "想到這，妳是從哪來的？"
+
+msgid "I should be going."
+msgstr "我該走了。"
+
+msgid "A-a-a-a don't do that! It's fragile!"
+msgstr "別-別-別這麼做！它很脆弱！"
+
+msgid "S-s-s-s-stop...!!"
+msgstr "快-快-快-快停止...！！"
+
+msgid "Um... this isn't what I expected..."
+msgstr "嗯...這不是我期待的狀況..."
+
+msgid "Wh-wh-what have you done..!? Oh no, oh no, oh no."
+msgstr "妳-妳-妳做了什麼...！？喔不，喔不，喔不。"
+
+msgid "Please help me!"
+msgstr "拜託幫幫我！"
+
+msgid "P-p-please find me a new head!"
+msgstr "幫-幫-幫我找一顆新頭！"
+
+msgid "A new head..?"
+msgstr "一顆新頭...？"
+
+msgid "A-a-anything hollow can serve as one, please!"
+msgstr "任-任-任何空洞的東西都可以，拜託！"
+
+msgid "H-h-h-hurry!"
+msgstr "快-快-快點！"
+
+msgid "If it all escapes I'll...I'll-"
+msgstr "如果全部都逃走了我就...我就-"
+
+msgid "Knock again?"
+msgstr "再敲一次嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "A large amount of something leaks from Kozmo."
+msgstr "一大堆某種物體從柯茲莫流出。"
+
+msgid "I should hurry."
+msgstr "我該快點。"
+
+msgid "Kozmo sways left and right."
+msgstr "柯茲莫左右搖晃。"
+
+msgid "Kozmo is sporting a new head."
+msgstr "柯茲莫有了一顆新頭。"
+
+msgid "P-p-p-p-p-please... give me a moment..."
+msgstr "請-請-請-請-請-請...給我一點時間..."
+
+msgid "Apologize?"
+msgstr "道歉？"
+
+msgid "I'm sorry if I was rude."
+msgstr "對不起我很粗魯。"
+
+msgid "I'm not very good at... interacting with people either."
+msgstr "我也不是很...擅長跟人交流。"
+
+msgid "I don't get much practice."
+msgstr "我沒什麼練習的機會。"
+
+msgid "R-r-really?"
+msgstr "真-真-真的嗎？"
+
+msgid "Mhm..."
+msgstr "嗯..."
+
+msgid "I think it's okay that you stutter."
+msgstr "我覺得你有口吃沒什麼關係。"
+
+msgid "At least you're still able to convey your feelings."
+msgstr "至少你還可以表達你的感受。"
+
+msgid "Thank you for reassuring me!"
+msgstr "謝謝妳安慰我！"
+
+msgid "(Phew...)"
+msgstr "(呼...)"
+
+msgid "Kozmo's clothes remain here."
+msgstr "柯茲莫的衣服留在這裡。"
+
+msgid "Kozmo isn't here anymore."
+msgstr "柯茲莫已經不在這裡了。"
+
+msgid "A pleasure."
+msgstr "我的榮幸。"
+
+msgid "Huh?"
+msgstr "蛤？"
+
+msgid "You're not from around here."
+msgstr "妳不是本地人。"
+
+msgid "How do you know?"
+msgstr "你怎麼知道的？"
+
+msgid "You wander around anxiously."
+msgstr "妳在這附近緊張地四處走動。"
+
+msgid "Oh..."
+msgstr "喔..."
+
+msgid "Sit if you wish... The fire is captivating."
+msgstr "坐下吧...這火很誘人。"
+
+msgid "No... thank you."
+msgstr "不用了...謝謝你。"
+
+msgid "What should I say?"
+msgstr "我該說什麼？"
+
+msgid "\"Are you a bug?\""
+msgstr "\"你是一隻蟲嗎？\""
+
+msgid "\"Can you help me?\""
+msgstr "\"你可以幫助我嗎？\""
+
+msgid "About the reward"
+msgstr "關於獎賞"
+
+msgid "You have wings."
+msgstr "你有翅膀。"
+
+msgid "What of it?"
+msgstr "所以呢？"
+
+msgid "Are you a butterfly?"
+msgstr "你是蝴蝶嗎？"
+
+msgid "...Disgusting."
+msgstr "...噁心。"
+
+msgid "A-a-a moth is the correct term. It-it-it must be your first encounter with one."
+msgstr "蛾-蛾-蛾才是正確的名稱。妳-妳-妳一定是第一次遇到。"
+
+msgid "Th-Th-Th-They say if you meet all 9 moths you'll get a reward."
+msgstr "他-他-他-他們說如果妳見到 9 隻蛾的話可以得到獎賞。"
+
+msgid "Folklore is all it is. Why would anyone give you a reward?"
+msgstr "只是鄉野傳說。為什麼有人要給你獎賞？"
+
+msgid "So-so-sometimes, you get rewarded for hard work. I-I-I've already met f-f-four."
+msgstr "有-有-有的時候，努力工作會得到獎賞。我-我-我已經遇到四隻了。"
+
+msgid "What a fool. Nobody will reward you for a scavenger hunt. The world is not a playground."
+msgstr "真是傻子。沒有人會獎勵你的尋寶遊戲。這個世界不是遊樂場。"
+
+msgid "... Y-y-you're too grim, Milion."
+msgstr "...你-你-你太嚴肅了，米里昂。"
+
+msgid "Wh-what do you think, lady?"
+msgstr "妳-妳怎麼想，小姐？"
+
+msgid "(What do I think...?)"
+msgstr "(我怎麼想...？)"
+
+msgid "The world is really unfair"
+msgstr "這個世界真的很不公平"
+
+msgid "Hard work pays off"
+msgstr "努力工作就會有收穫"
+
+msgid "S-s-s-such pessimistic views..."
+msgstr "真-真-真-真是悲觀的看法..."
+
+msgid "It's wise to be realistic."
+msgstr "現實一點比較明智。"
+
+msgid "W-w-w-well said!"
+msgstr "說-說-說-說得好！"
+
+msgid "I envy your naivety."
+msgstr "我對妳的天真感到羨慕。"
+
+msgid "Just like this warm flame, your innocence too will soon be extinguished."
+msgstr "就像這溫暖的火焰，妳的純真也即將被撲滅。"
+
+msgid "A moth, if you really care for such simplifications."
+msgstr "一隻蛾，如果你真的要簡化說法的話。"
+
+msgid "I see..."
+msgstr "我明白了..."
+
+msgid "I have a question."
+msgstr "我有個問題。"
+
+msgid "Do you happen to know where I could lift a curse?"
+msgstr "你知道我可以在哪裡解除詛咒嗎？"
+
+msgid "You must seek Red."
+msgstr "你必須找到瑞德。"
+
+msgid "Yeah... This isn't the first time I've heard that name."
+msgstr "是啊...這不是我第一次聽到這名字。"
+
+msgid "Everyone has heard that name."
+msgstr "每個人都聽過這名字。"
+
+msgid "Red cures all sorts of ailments... For a hefty price."
+msgstr "瑞德能夠治癒各種疾病...所費不貲。"
+
+msgid "..?"
+msgstr "..？"
+
+msgid "That one doesn't do anything for free."
+msgstr "那傢伙不會免費做事。"
+
+msgid "The moth is entranced by the fire pit."
+msgstr "蛾被火坑迷住了。"
+
+msgid "So after I find 8 more moths I'll get rewarded?"
+msgstr "所以我再找到 8 隻蛾就能得到獎賞嗎？"
+
+msgid "As I stated, it's nothing but a myth."
+msgstr "就像我說的，這只是個迷思。"
+
+msgid "So... What kind of reward would it be?"
+msgstr "所以...會是哪種獎賞？"
+
+msgid "I'll discuss no further with you."
+msgstr "我不會再和你討論了。"
+
+msgid "Milion is ignoring you."
+msgstr "米里昂無視妳。"
+
+msgid "This is quite amusing."
+msgstr "真是有趣。"
+
+msgid "It's been a while since anything interesting happened around here."
+msgstr "上次這附近發生有趣的事已經有段時間了。"
+
+msgid "Milion is smiling."
+msgstr "米里昂在微笑。"
+
+msgid "(I've only been here for a little while and I already have a lead.)"
+msgstr "(我只來到這裡一下下就已經有線索了。)"
+
+msgid "(I really didn't think this would be where I might find my answers...)"
+msgstr "(我真的以為這裡找不到我想要的答案...)"
+
+msgid "Finally..."
+msgstr "終於..."
+
+msgid "A curse, huh?"
+msgstr "詛咒嗎？"
+
+msgid "It sounds probable, but how did it happen?"
+msgstr "聽起來有可能，但是是怎麼發生的?"
+
+msgid "And who... or what, cursed me?"
+msgstr "又是誰...或是什麼，詛咒了我？"
+
+msgid "And why?"
+msgstr "又是為了什麼？"
+
+msgid "There's too many questions."
+msgstr "太多問題了。"
+
+msgid "(I wonder if I can call Hiro from here.)"
+msgstr "(不曉得我能不能從這裡打給廣人。)"
+
+msgid "(Looks like I have no reception... Should I try anyways?)"
+msgstr "(看來我沒有收訊...我該試試嗎？)"
+
+msgid "(It works?!)"
+msgstr "(成功了？！)"
+
+msgid "LACIE?!"
+msgstr "萊西？！"
+
+msgid "Hiro!"
+msgstr "廣人！"
+
+msgid "Are you okay? How are you calling me? Are you back? Did you find out-"
+msgstr "妳還好嗎？妳是怎麼打給我的？妳回來了嗎？妳找到了-"
+
+msgid "Wait-"
+msgstr "等等-"
+
+msgid "ARE YOU HURT?! DO YOU NEED ME TO COME THERE? ARE YOU IN DANGER?"
+msgstr "妳受傷了嗎？！妳要我過去嗎？妳有危險嗎？"
+
+msgid "I swear I'll get one of those letters and meet you in a jiffy! A jiffy!!-"
+msgstr "我發誓我會拿到那種信件然後馬上跟妳碰面！馬上！！-"
+
+msgid "I'm fine."
+msgstr "我很好。"
+
+msgid "Oh, thank goodness."
+msgstr "喔，謝天謝地。"
+
+msgid "It seems to be safe where I am right now, so I just.. tried calling you."
+msgstr "我所在的地方看來很安全，所以我才...試著打給你。"
+
+msgid "...and it worked."
+msgstr "...然後成功了。"
+
+msgid "Huh... that doesn't make much sense."
+msgstr "嗯...聽起來沒什麼道理。"
+
+msgid "It doesn't, does it..."
+msgstr "確實沒有，對吧..."
+
+msgid "Tell me everything, where are you?!"
+msgstr "告訴我所有的事，妳在哪裡？！"
+
+msgid "I'm... in a forest."
+msgstr "我...在一座森林。"
+
+msgid "A forest?! You didn't pack bug spray!"
+msgstr "森林？！妳沒有帶防蟲液！"
+
+msgid "There's more dangerous things here than bugs."
+msgstr "這裡有比蟲子更危險的東西。"
+
+msgid "But don't worry, I've got it handled."
+msgstr "但是不用擔心，我都處理好了。"
+
+msgid "I just need to find a light..."
+msgstr "我只要找到燈光..."
+
+msgid "I just needed to find a light and..."
+msgstr "我只要找到燈光然後..."
+
+msgid "Lacie no! Lights ATTRACT bugs!"
+msgstr "萊西不行！燈光會*吸引*蟲子！"
+
+msgid "Hiro, I don't care about tiny bugs."
+msgstr "廣人，我才不管小蟲子。"
+
+msgid "Just trying to lighten the mood~"
+msgstr "只是想緩和氣氛~"
+
+msgid "That's my job."
+msgstr "這是我的工作。"
+
+msgid "Mhm."
+msgstr "嗯。"
+
+msgid "Don't use up all your battery now."
+msgstr "別把妳的電池都用完了。"
+
+msgid "Remember you can use the flashlight from your phone if you need a light."
+msgstr "記得需要燈光的時候可以用妳手機的手電筒。"
+
+msgid "That's true. How could I forget?"
+msgstr "是啊。我怎麼忘了？"
+
+msgid "But it will use up my battery... I might not be able to call you again if that's the case."
+msgstr "但是這樣會用光我的電池...我可能會沒辦法再打給你。"
+
+msgid "It's up to you to decide if you need it."
+msgstr "需不需要由妳決定。"
+
+msgid "Alright, I'll go now."
+msgstr "好吧，我該走了。"
+
+msgid "You've got this!"
+msgstr "妳辦得到的！"
+
+msgid "Cellphone"
+msgstr "手機"
+
+msgid "My personal phone. Hiro bought it for me. It may be used as a flashlight."
+msgstr "我的個人手機。廣人買給我的。可以用來當手電筒。"
+
+msgid "I-I-I wouldn't do that if I were you. Fairy demons are vile, the worst."
+msgstr "是-是-是妳的話我就不會這麼做。妖精惡魔很惡劣又糟糕。"
+
+msgid "(I was too late.)"
+msgstr "(我太遲了。)"
+
+msgid "Um..."
+msgstr "嗯..."
+
+msgid "Is he..."
+msgstr "他已經..."
+
+msgid "Hm?"
+msgstr "嗯？"
+
+msgid "Shouldn't you know? You're the sole cause of that."
+msgstr "妳以為呢？就是妳造成的。"
+
+msgid "....."
+msgstr "....."
+
+msgid "That tree... is massive..."
+msgstr "這樹...好巨大..."
+
+msgid "This probably marks the center of this place. Which means..."
+msgstr "這應該標示了這地方的中心。代表了..."
+
+msgid "This is where the search really begins."
+msgstr "搜索從這裡才真正開始。"
+
+msgid "(She's not a bug...)"
+msgstr "(她不是蟲...)"
+
+msgid "U-um... It's nothing..."
+msgstr "嗯-嗯...沒什麼..."
+
+msgid "(The bug net is not large enough.)"
+msgstr "(捕蟲網不夠大。)"
+
+msgid "This is..."
+msgstr "這是..."
+
+msgid "I know this craftsmanship."
+msgstr "我認得這工法。"
+
+msgid "I could recognize it anywhere."
+msgstr "我到哪裡都認的出來。"
+
+msgid "What do you mean?"
+msgstr "什麼意思？"
+
+msgid "It's nothing."
+msgstr "沒什麼。"
+
+msgid "That didn't sound like nothing."
+msgstr "聽起來不像是沒什麼。"
+
+msgid "The candle is already lit."
+msgstr "蠟燭已經點燃了。"
+
+msgid "A candle is not enough to light this campfire."
+msgstr "蠟燭沒辦法點燃這營火。"
+
+msgid "There's no fire here."
+msgstr "這裡沒有火。"
+
+msgid "Is this a gift?"
+msgstr "這是禮物嗎？"
+
+msgid "No."
+msgstr "不是。"
+
+msgid "Pity."
+msgstr "可惜。"
+
+msgid "What do you want?"
+msgstr "你想要幹嘛？"
+
+msgid "Can I get a refund?"
+msgstr "我可以退貨嗎？"
+
+msgid "Absolutely not."
+msgstr "絕對不行。"
+
+msgid "That is one stinky fish."
+msgstr "這真是隻臭魚。"
+
+msgid "You didn't stutter?"
+msgstr "你沒有口吃？"
+
+msgid "Is it a magic fish?!"
+msgstr "這是有魔法的魚嗎？！"
+
+msgid "Ah, you bought that from Alba's shop?"
+msgstr "啊，妳從阿爾巴的店買來的嗎？"
+
+msgid "Yes."
+msgstr "是。"
+
+msgid "Alba's merchandise is always top tier."
+msgstr "阿爾巴的商品總是很頂級。"
+
+msgid "Lovely gal."
+msgstr "可愛的女孩。"
+
+msgid "Flattery isn't going to get you anything, Milion."
+msgstr "吹捧不會為你帶來任何好處的，米里昂。"
+
+msgid "What a shame."
+msgstr "真可惜。"
+
+msgid "(I seem to be interrupting something...)"
+msgstr "(看來我打斷了什麼...)"
+
+msgid "This tree has had enough fish for today."
+msgstr "這樹今天已經有足夠的魚了。"
+
+msgid "You're not doing that again."
+msgstr "妳不想再做一次。"
+
+msgid "You hold out the fish in front of the mirror, like you just caught it."
+msgstr "妳在鏡子前伸出魚，就像是妳剛抓到一樣。"
+
+msgid "You feel silly, so you stop."
+msgstr "妳感到很蠢，所以停下來了。"
+
+msgid "Throw it down the hole?"
+msgstr "把它丟下洞裡嗎？"
+
+msgid "You listen for a while, but no impact sound can be heard this time."
+msgstr "妳聽了一段時間，但是這次聽不到撞上東西的聲音。"
+
+msgid "After six or so seconds, you hear the faint impact of the fish against something."
+msgstr "經過了六秒左右，妳隱約聽到了魚撞上東西的聲音。"
+
+msgid "Throw all your fish into the hole?"
+msgstr "把所有的魚丟進洞裡嗎？"
+
+msgid "Throw all of them"
+msgstr "丟掉所有的魚"
+
+msgid "Just throw one"
+msgstr "只丟掉一隻"
+
+msgid "Don't"
+msgstr "不要"
+
+msgid "You throw each and every fish into the hole."
+msgstr "妳把所有的魚都丟進洞裡。"
+
+msgid "Some of them make sounds when they hit the bottom, but many don't."
+msgstr "有些在撞擊底部的時候發出聲音，但是很多沒有。"
+
+msgid "After a while, you run out of fish."
+msgstr "一段時間後，妳沒有魚了。"
+
+msgid "Your hands smell terrible, and you feel like you accomplished nothing."
+msgstr "妳的手聞起來很糟，而妳感到什麼也沒有達成。"
+
+msgid "No. You're not my type."
+msgstr "不。妳不是我喜歡的類型。"
+
+msgid "(You're not her type.)"
+msgstr "(妳不是她喜歡的類型。)"
+
+msgid "T-thanks! Y-you're a good person!"
+msgstr "謝-謝了！妳-妳是個好人！"
+
+msgid "Is this head OK?"
+msgstr "你的頭還好嗎？"
+
+msgid "T-t-this is... pretty good..."
+msgstr "這-這...很好..."
+
+msgid "Glad that's solved."
+msgstr "很高興問題解決了。"
+
+msgid "Ju-just wondering though... where exactly did you get this?"
+msgstr "我-我只是在想...妳究竟是在哪裡找到的？"
+
+msgid "I... I don't think the previous owner needs it anymore..."
+msgstr "我...我想之前的主人不再需要它了..."
+
+msgid "O-oh......."
+msgstr "喔-喔..."
+
+msgid ".........."
+msgstr ".........."
+
+msgid "An empty lamp that fell from that post."
+msgstr "從那根柱子上掉下來的一盞空燈。"
+
+msgid "Whatever was inside is gone."
+msgstr "裡面的東西不見了。"
+
+msgid "Can I find a use for this?"
+msgstr "我能找出這東西的用處嗎？"
+
+msgid "Take ${item:ch1.forest_lamp_empty}?"
+msgstr "拿走 ${item:ch1.forest_lamp_empty} 嗎？"
+
+msgid "I can't reach up there."
+msgstr "我搆不到上面。"
+
+msgid "And even if I could, I can't see the point in fixing the lamp."
+msgstr "就算我可以，把燈修好也沒什麼意義。"
+
+msgid "I still can't reach..."
+msgstr "我還是搆不到..."
+
+msgid "Besides, it's not like a secret door will open just because I fixed this particular lamp."
+msgstr "除此之外，把這燈修好也不會開啟什麼秘密的門。"
+
+msgid "There's seriously no point in that."
+msgstr "真的沒什麼必要這麼做。"
+
+msgid "Fascinating creatures."
+msgstr "迷人的生物。"
+
+msgid "Naturally emitting light can be a great asset to one's value."
+msgstr "自然發光會是很大的資產。"
+
+msgid "Is this OK?"
+msgstr "這還好嗎？"
+
+msgid "I-I-I guess it could be worse..."
+msgstr "可-可-可能會更糟..."
+
+msgid "Thank you! I didn't think you would come back!"
+msgstr "謝謝妳！沒想到妳會回來！"
+
+msgid "...It was my fault after all..."
+msgstr "...畢竟是我的錯..."
+
+msgid "You're welcome, I suppose."
+msgstr "不客氣，應該吧。"
+
+msgid "(Alba's eyes dart to your rune, so you quickly put it away.)"
+msgstr "(阿爾巴的眼神飄向妳的符石，所以妳趕快把它收起來。)"
+
+msgid "Ooh! I-I-I also have a rock just like that. I b-b-buried it to keep it safe."
+msgstr "喔喔！我-我-我也有一顆像這樣的石頭。為了確保安全我把-把-把它埋起來了。"
+
+msgid "Do you have nothing better to do than collecting rocks?"
+msgstr "你除了收集石頭以外沒有什麼事好做了嗎？"
+
+msgid "Do you have nothing better to do than staring at a fire?"
+msgstr "你除了盯著火焰以外沒有什麼事好做了嗎？"
+
+msgid "You don't need that. My fish already taste great without it."
+msgstr "妳不需要那個。我的魚已經很好吃了。"
+
+msgid "I-i-is that for me...?!"
+msgstr "這-這-這是給我的嗎...？！"
+
+msgid "...No."
+msgstr "...不是。"
+
+msgid "O-oh."
+msgstr "喔-喔。"
+
+msgid "Let's not provoke her."
+msgstr "還是別激怒她。"
+
+msgid "Don't threaten me, kid."
+msgstr "別威脅我，小子。"
+
+msgid "I will shred you."
+msgstr "我會把妳撕碎。"
+
+msgid "I'd rather not go around cutting random cables."
+msgstr "我不想要到處亂剪電線。"
+
+msgid "P-p-please don't...! I'm fragile..."
+msgstr "請-請-請不要...！我很脆弱..."
+
+msgid "I would advise you not to challenge me."
+msgstr "我建議妳不要挑戰我。"
+
+msgid "There's no need to break it."
+msgstr "沒有必要破壞它。"
+
+msgid "You could probably smash the mirror with this."
+msgstr "你應該可以用這個擊碎玻璃。"
+
+msgid "Break the mirror?"
+msgstr "打破玻璃？"
+
+msgid "You prepare to break the mirror..."
+msgstr "妳準備好要打破玻璃..."
+
+msgid "But you notice there's a door handle on it."
+msgstr "但是妳注意到上面有個門把。"
+
+msgid "It doesn't seem to be locked."
+msgstr "看起來沒有鎖住。"
+
+msgid "I don't do barter."
+msgstr "我不以物易物。"
+
+msgid "N-n-no thank you."
+msgstr "不-不-不用了謝謝。"
+
+msgid "I don't need it."
+msgstr "我不需要。"
+
+msgid "You may give it to someone who does."
+msgstr "你可以把它給需要的人。"
+
+msgid "Is this OK? I'm sorry, it's the only thing I could find..."
+msgstr "這樣可以嗎？我很抱歉，這是我唯一能找到的東西..."
+
+msgid "W-Wow!! T-t-this is amazing...!!!"
+msgstr "哇-哇！！這-這真是太棒了...！！！"
+
+msgid "Thank you s-s-s-so much!"
+msgstr "真是太-太-太-太感謝妳了！"
+
+msgid "...You're... welcome...?"
+msgstr "...不客氣...？"
+
+msgid "(To each their own, I suppose)"
+msgstr "(人各有志吧)"
+
+msgid "A bucket full of bones and other terrible-smelling organic garbage."
+msgstr "桶子，裝滿了骨頭和其他聞起來很糟的有機垃圾。"
+
+msgid "A cable runs through here."
+msgstr "電線通過了這裡。"
+
+msgid "The cable runs into the woods, against the cliff."
+msgstr "電線伸進樹木中，靠著懸崖。"
+
+msgid "The cable runs into the woods."
+msgstr "電線伸進樹木中。"
+
+msgid "A campfire."
+msgstr "營火。"
+
+msgid "There's no fire, so right now it's just a camp."
+msgstr "沒有火，所以現在只是營地。"
+
+msgid "A camp."
+msgstr "營地。"
+
+msgid "The fire is on. It seems to produce heat too."
+msgstr "火升起了。感覺也有在生熱。"
+
+msgid "A crow standing on a stump."
+msgstr "一隻烏鴉站在樹樁上。"
+
+msgid "They're everywhere, huh?"
+msgstr "牠們到處都是呢，對吧？"
+
+msgid "Now is not the time for that."
+msgstr "現在不是時候。"
+
+msgid "Small mushrooms surround a patch of dead grass."
+msgstr "小蘑菇環繞著一片枯草。"
+
+msgid "W-what..."
+msgstr "什-什麼..."
+
+msgid "What happened? It was so sudden..."
+msgstr "怎麼了？好突然..."
+
+msgid "Am I trapped inside of something?"
+msgstr "我被困在了什麼東西裡嗎？"
+
+msgid "I can barely move..."
+msgstr "我幾乎無法動彈..."
+
+msgid "Ugh... it's all soggy and... squishy..."
+msgstr "呃...好濕又...黏呼呼的..."
+
+msgid "This is suffocating... I don't like closed spaces..."
+msgstr "快不能呼吸了...我不喜歡封閉的空間..."
+
+msgid "Aahh... I hate this... I'm going to be sick...!"
+msgstr "啊...真討厭...我要吐了...！"
+
+msgid "Wait... calm down."
+msgstr "等等...冷靜點。"
+
+msgid "I can move my arms, somewhat."
+msgstr "我可以稍微移動我的手臂。"
+
+msgid "Think."
+msgstr "想啊。"
+
+msgid "Let's see... do I have anything that could help me?"
+msgstr "讓我想想...有任何能夠幫助我的東西嗎？"
+
+msgid "Maybe something sharp..."
+msgstr "也許是尖銳的東西..."
+
+msgid "Oh, scissors...!"
+msgstr "喔，剪刀...！"
+
+msgid "Sorry, but I don't feel like being eaten today."
+msgstr "抱歉，但是我不想今天被吃掉。"
+
+msgid "I can cross off \"being digested alive\" from my to-do list."
+msgstr "我可以把\"被活活消化\"從我的待辦清單劃掉了。"
+
+msgid "Good thing I had those scissors... ugh..."
+msgstr "還好我有剪刀...噁..."
+
+msgid "Now... where am I?"
+msgstr "那麼...我在哪！？"
+
+msgid "It's no good... I can't do anything..."
+msgstr "這可不好...我什麼都不能做..."
+
+msgid "Am I going to die... inside this thing?"
+msgstr "我會死嗎...死在這東西裡面？"
+
+msgid "Nobody will even find my body..."
+msgstr "沒有人會找到我的屍體..."
+
+msgid "Sigh... what a pointless way to go."
+msgstr "唉...真是毫無意義的死法。"
+
+msgid "What is this smell... it's making me want to puke..."
+msgstr "這是什麼味道...讓我好想吐..."
+
+msgid "My legs... are also itching..."
+msgstr "我的腿...也好癢..."
+
+msgid "Wait, could it be...?"
+msgstr "等等，這是...？"
+
+msgid "Oh god... is this thing digesting me!?"
+msgstr "天哪...這東西在消化我嗎！？"
+
+msgid "Nononono.... I don't want to die like that!!!"
+msgstr "不不不不...我不想要就這樣死掉！！！"
+
+msgid "I tried kicking around and fighting it as much as I could."
+msgstr "我試著踢腿並盡我所能地對抗它。"
+
+msgid "But soon enough, my skin started burning, confirming my fears."
+msgstr "但是很快的，我的皮膚開始燒灼，確認了我的恐懼。"
+
+msgid "The more I squirmed, the more the digestive juices got all over me."
+msgstr "我越移動，越多消化液灑到我身上。"
+
+msgid "The more I screamed, the more the gas burned my nose and throat from inside."
+msgstr "我越尖叫，更多氣體從我的體內燒灼鼻子和喉嚨。"
+
+msgid "It seems that the moment I stepped into that circle, my fate had been sealed."
+msgstr "看來在我踏進那圈圈的時候，我的命運就已經註定了。"
+
+msgid "A lamppost that's missing its lamp."
+msgstr "缺了燈的燈柱。"
+
+msgid "Now it's just a post."
+msgstr "現在只剩柱子。"
+
+msgid "A post."
+msgstr "柱子。"
+
+msgid "A wooden log."
+msgstr "木條。"
+
+msgid "This is not the time to sit around."
+msgstr "現在不是坐在這的時候。"
+
+msgid "A big mirror is embedded in the tree trunk."
+msgstr "一張大鏡子鑲嵌在樹幹上。"
+
+msgid "A door handle can be seen."
+msgstr "可以看到門把。"
+
+msgid "Your reflection stares anxiously back at you."
+msgstr "妳的倒影焦急地看著妳。"
+
+msgid "On a closer inspection, there's a door handle on the mirror."
+msgstr "仔細一看，鏡子上有個門把。"
+
+msgid "Check behind the mirror?"
+msgstr "檢查鏡子後方嗎？"
+
+msgid "The tree... is hollow...?"
+msgstr "這樹...是空洞的...？"
+
+msgid "Has anything changed now that I threw all those fish in?"
+msgstr "把那些魚都丟進去之後改變了什麼嗎？"
+
+msgid "I can't see the bottom, but it's really deep."
+msgstr "我看不到底，但是真的很深。"
+
+msgid "Why is the inside of the tree like this?"
+msgstr "為什麼樹的內部是這個樣子？"
+
+msgid "Doesn't seem like it."
+msgstr "看起來不是。"
+
+msgid "The roots of a massive tree. There's blue mushrooms everywhere."
+msgstr "巨樹的根部。到處都是藍蘑菇。"
+
+msgid "It reads: \"STOP! Do not walk inside the fairy ring.\""
+msgstr "寫著：\"停止！不要走進妖精環。\""
+
+msgid "\"But if you do, please ask them to take their business elsewhere.\""
+msgstr "\"但是如果你這麼做，請要求它們離開這裡。\""
+
+msgid ""
+"South-West: Sculptor's House.\n"
+"West: Red's Treehouse."
+msgstr ""
+"西南：雕塑家的房子。\n"
+"西：瑞德的樹屋。"
+
+msgid ""
+"South: Train Station.\n"
+"East: Locked Site."
+msgstr ""
+"南：火車站。\n"
+"東：封鎖區。"
+
+msgid "The sign says \"Alba's Shop\""
+msgstr "牌子寫著\"阿爾巴的店\""
+
+msgid "A curtain covers the stand."
+msgstr "簾幕蓋住了攤子。"
+
+msgid "Peek behind curtain?"
+msgstr "瞧瞧簾幕後方嗎？"
+
+msgid "There's some trays aligned for display, but there's nothing on them."
+msgstr "有些托盤整齊排列，但上面什麼都沒有。"
+
+msgid "You decided to save your curiosity for later."
+msgstr "妳決定把妳的好奇心留在之後再用。"
+
+msgid "A stand lined up with fish of various sizes."
+msgstr "攤子擺了各種大小的魚。"
+
+msgid "The shop is closed for today."
+msgstr "商店今天關門了。"
+
+msgid "A massive crater that you caused."
+msgstr "妳造成的巨大坑洞。"
+
+msgid "I don't think there's anything this way that will help Kozmo..."
+msgstr "我不認為往這個方向走有什麼東西能夠幫助柯茲莫..."
+
+msgid "I need to get this to Kozmo as soon as possible..."
+msgstr "我需要盡快把這拿給柯茲莫..."
+
+msgid "Continue down this path?"
+msgstr "繼續走下去嗎？"

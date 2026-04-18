@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This locker has no keyhole."
+msgstr "這個儲物櫃沒有鑰匙孔。"
+
+msgid "They're already open, so there's nothing to cut."
+msgstr "它們已經被打開了，所以沒有東西需要被割開。"
+
+msgid "Boxes filled to the brim with cleaning products."
+msgstr "裝滿了清潔用品的箱子。"
+
+msgid "It's packed with white chalk and nothing else."
+msgstr "除了白粉筆外沒有其他東西了。"
+
+msgid "This must be like... a year's supply."
+msgstr "看起來是...一年份的使用量。"
+
+msgid "..."
+msgstr "..."
+
+msgid "They're packed too tightly, I can't pull any out."
+msgstr "裝得太緊了，我沒辦法拔出來。"
+
+msgid "Some boxes filled with left shoes and lighters."
+msgstr "裝著左邊鞋子和打火機的箱子。"
+
+msgid "Some brand new brooms."
+msgstr "一些全新的掃帚。"
+
+msgid "A calendar... probably."
+msgstr "日曆...大概吧。"
+
+msgid "There are no dates or month names in it."
+msgstr "上面沒有日期或是月份。"
+
+msgid "A cleaning cart."
+msgstr "清潔推車。"
+
+msgid "It's sparkling clean."
+msgstr "看起來閃閃發亮。"
+
+msgid "A lamp. There's no light bulb nor a slot to place one."
+msgstr "立燈。沒有燈泡或是可以放燈泡的插槽。"
+
+msgid "A large locker. It's sealed shut."
+msgstr "大儲物櫃。被關得很緊。"
+
+msgid "A trash can. You can't see the bottom."
+msgstr "垃圾桶。妳沒辦法看到它的底部。"
+
+msgid "That's... weird."
+msgstr "這還真...奇怪。"
+
+msgid "What is?"
+msgstr "哪方面？"
+
+msgid "The existence of this room... makes no sense."
+msgstr "這個房間的存在...沒有道理。"
+
+msgid "What do you mean?"
+msgstr "什麼意思？"
+
+msgid "Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside."
+msgstr "依據學校的格局，這裡不該有房間。否則這間房間會飄浮在空中。"
+
+msgid "Interesting..."
+msgstr "有趣..."
+
+msgid "But... we didn't even finish the ritual! What's happening?"
+msgstr "可是...我們連儀式都沒有完成！現在是什麼狀況？"
+
+msgid "I don't know..."
+msgstr "我不知道..."
+
+msgid "Isn't it exciting!?"
+msgstr "這不是很令人興奮嗎！？"
+
+msgid "Let's keep going."
+msgstr "我們走下去吧。"

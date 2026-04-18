@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "....."
+msgstr "....."
+
+msgid "Let's get rid of some items..."
+msgstr "丟下一些物品吧..."
+
+msgid "(You got rid of some items.)"
+msgstr "(妳丟下一些物品。)"
+
+msgid "There's a bucket here."
+msgstr "那裡有個桶子。"
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "拿走 ${item:ch1.bucket} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "There are easier ways to fill a bucket with water."
+msgstr "有更簡單的方法可以把桶子裝滿水。"
+
+msgid "It doesn't want to go in there..."
+msgstr "牠不想進去..."
+
+msgid "The fish is long dead. Putting it in water won't change that."
+msgstr "魚已經死很久了。把它放進水裡不能改變這個事實。"
+
+msgid "The monster swims away after being splashed."
+msgstr "怪物被潑到水後游走了。"
+
+msgid "That won't accomplish anything."
+msgstr "這沒辦法達成任何事情。"
+
+msgid "I thought it hated water...?"
+msgstr "我以為牠討厭水...？"
+
+msgid "Well, no... it's clearly swimming in the water just fine."
+msgstr "好吧，不是這樣...很顯然，牠在水裡游得很好。"
+
+msgid "Maybe it's some different kind of water."
+msgstr "也許是另一種水。"
+
+msgid "The monster stares at you without moving from its spot."
+msgstr "怪物一動也不動地盯著妳。"
+
+msgid "No... what if something lives down there?"
+msgstr "不...如果這下面有東西住著怎麼辦？"
+
+msgid "I wouldn't want to drown it."
+msgstr "我可不想淹死牠。"
+
+msgid "A boat that has seen better days."
+msgstr "狀況很糟的船。"
+
+msgid "It could probably take you north."
+msgstr "應該可以帶妳往北走。"
+
+msgid "Ideally, I'd like to have two paddles."
+msgstr "理想上，我想要有兩根船槳。"
+
+msgid "I can't take it anywhere without paddles."
+msgstr "沒有船槳的話沒辦法把它划到任何地方。"
+
+msgid "Also..."
+msgstr "還有..."
+
+msgid "(What should I do?)"
+msgstr "(我該做什麼？)"
+
+msgid "Get on the boat"
+msgstr "上船"
+
+msgid "Do not"
+msgstr "不要"
+
+msgid "What the heck is that thing...?"
+msgstr "那是什麼鬼東西...？"
+
+msgid "(Maybe I shouldn't get on while it's there...)"
+msgstr "(也許我不該在牠還在的時候上船...)"
+
+msgid "A puddle of what looks like blood."
+msgstr "看起來像是一攤血。"
+
+msgid "Did this thing just turn into blood...?"
+msgstr "這東西變成血了嗎...？"
+
+msgid "A small burrow."
+msgstr "一個小洞。"
+
+msgid "Reach inside?"
+msgstr "伸手進去嗎？"
+
+msgid "You can't feel anything special."
+msgstr "妳感覺不到有什麼特別的。"
+
+msgid "A cage attached to a tree."
+msgstr "附在樹上的籠子。"
+
+msgid "It looks like I could put something inside."
+msgstr "感覺我可以把東西放進去。"
+
+msgid "A bunny stares at you from inside."
+msgstr "一隻兔子在裡面盯著妳。"
+
+msgid "The 5-coin fish rests inside. It's not even grilled."
+msgstr "價值 5 枚硬幣的魚放在裡面。連烤都沒烤過。"
+
+msgid "A pack of chips is inside."
+msgstr "一袋洋芋片在裡面。"
+
+msgid "A chocolate bar is inside."
+msgstr "一根巧克力棒在裡面。"
+
+msgid "(Take it back?)"
+msgstr "(拿回來嗎？)"
+
+msgid "There's no need to push the cage into the water anymore."
+msgstr "沒有必要再把籠子推進水中了。"
+
+msgid "(Push the cage into the water?)"
+msgstr "(把籠子推進水中嗎？)"
+
+msgid "(The monster seems to like what you put inside the cage.)"
+msgstr "(怪物似乎很喜歡妳放進籠子裡的東西。)"
+
+msgid "The cage is in the water."
+msgstr "籠子在水中。"
+
+msgid "No need to mess with it anymore."
+msgstr "沒有必要再亂動了。"
+
+msgid "(Pull it back up?)"
+msgstr "(把它拉回來嗎？)"
+
+msgid "A fishing rod."
+msgstr "釣魚竿。"
+
+msgid "Try it?"
+msgstr "使用它嗎？"
+
+msgid "A structure housing a lamp."
+msgstr "某種容納著燈的結構。"
+
+msgid "A crow standing on a rock."
+msgstr "站在石頭上的烏鴉。"
+
+msgid "Is it waiting to take the boat?"
+msgstr "牠在等著搭船嗎？"
+
+msgid "Colorful logs sticking out of the water."
+msgstr "多彩的木條伸出了水面。"
+
+msgid "Despite your best efforts, you can't read the note from this side of the tree."
+msgstr "儘管妳努力嘗試，妳沒辦法從樹的這一側搆到紙條。"
+
+msgid "A note is attached to the tree. It says:"
+msgstr "樹上貼著一張紙條。上面寫著："
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVES MEAT\n"
+"HATES WATER\""
+msgstr ""
+"\"怪物\n"
+"喜歡肉\n"
+"討厭水\""

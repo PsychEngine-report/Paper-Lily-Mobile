@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I'm sorry for disturbing you."
+msgstr "我很抱歉打扰到你了。"
+
+msgid "(She's crying...)"
+msgstr "（她在哭泣...）"
+
+msgid "How long has she been locked up in here?"
+msgstr "她被关在这里多久了？"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "No hard feelings."
+msgstr "请别见怪。"
+
+msgid "You're food, after all."
+msgstr "毕竟，你们只是食物罢了。"
+
+msgid "What are your thoughts?"
+msgstr "你怎么想呢？"
+
+msgctxt "events.Ch1_Facility_B3F_East.event_spider_force_meet.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "去看看吧。"
+
+msgid "Psst..."
+msgstr "嘶..."
+
+msgid "Over here."
+msgstr "来这里。"
+
+msgid "A small toy."
+msgstr "一只小玩具。"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Is that... Miss Knives?"
+msgstr "那是...莉刃小姐吗？"
+
+msgid "Is this what she actually looks like..?"
+msgstr "她实际上看起来就是这样的吗..？"
+
+msgid "Whoa."
+msgstr "哇哦。"
+
+msgid "She looks like a used napkin."
+msgstr "她看起来就像一张用过的餐巾纸。"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "看起来这扇门可以打开。要打开吗？"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_mk.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "You're... Spider?"
+msgstr "你是...蜘蛛吗？"
+
+msgid "Good work back there. Didn't think you'd actually do it."
+msgstr "刚刚在那里做的不错。没想到你真的做到了。"
+
+msgid "It feels good to see this place again."
+msgstr "能再次见到这个地方感觉真是太好了。"
+
+msgid "How's this good? You're locked up."
+msgstr "这感觉好吗？你被关起来了。"
+
+msgid "I don't need much to be content."
+msgstr "我不奢求太多。"
+
+msgid "My cell neighbor keeps me entertained."
+msgstr "我的狱友让我乐在其中呢。"
+
+msgid "...?"
+msgstr "...？"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.ch1_spider"
+msgid "Go take a look."
+msgstr "去看看吧。"
+
+msgid "You mean Miss Knives...?"
+msgstr "你是说莉刃小姐...？"
+
+msgid "About Miss Knives..."
+msgstr "关于莉刃小姐..."
+
+msgid "Are you surprised?"
+msgstr "你很惊讶吗？"
+
+msgid "Well... kind of."
+msgstr "嗯...有点。"
+
+msgid "She's seen better days."
+msgstr "她已经大不如前了。"
+
+msgid "But she'll be fine. She's just like a spider."
+msgstr "但是她会没事的。她就像蜘蛛一样。"
+
+msgid "After a little while, she'll make a new web and entangle everyone in it again."
+msgstr "再过一小段时间，她就会织起一张新网，把大家再次缠绕于其中。"
+
+msgid "I'm curious to see what it will look like next time."
+msgstr "我很好奇下一次会是什么样子。"
+
+msgid "Huh."
+msgstr "呵。"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.dlg.lacie"
+msgid "I see..."
+msgstr "好吧..."
+
+msgid "Besides. She does get a visitor every so often."
+msgstr "而且，她还时常有访客呢。"
+
+msgid "Really?"
+msgstr "真的吗？"
+
+msgid "Yes. An intriguing one by the name of Red."
+msgstr "没错。一个名叫“瑞德”的耐人寻味的人。"
+
+msgid "...!"
+msgstr "...！"
+
+msgid "Don't look so excited."
+msgstr "别那么激动。"
+
+msgid "Red won't be back here anytime soon."
+msgstr "瑞德不会再回来了。"
+
+msgid "I see."
+msgstr "好吧。"
+
+msgid "Is Red the lighthouse person?"
+msgstr "瑞德是灯塔的人吗？"
+
+msgid "Yes..."
+msgstr "没错..."
+
+msgid "Ah, damn."
+msgstr "啊，该死。"
+
+msgid "Interesting."
+msgstr "真有趣。"
+
+msgid "If the lighthouse is what you're searching for, perhaps this is of use to you."
+msgstr "如果你正在寻找灯塔的话，也许这对您有用。"
+
+msgid "Is this... a doorknob to the lighthouse?"
+msgstr "这是...前往灯塔的门把吗？"
+
+msgid "What remains of it."
+msgstr "是它的碎片。"
+
+msgid "That's fine, I... I think I know how to fix it."
+msgstr "没事的，我...我觉得我知道怎么修复它。"
+
+msgid "This is a big help, Spider."
+msgstr "你帮了大忙，蜘蛛。"
+
+msgid "Thank you. I appreciate it, even if it's broken."
+msgstr "谢谢你。即使它是坏的，我也很感激。"
+
+msgid "Then consider our debts settled."
+msgstr "这样，我们的债就算还清了。"
+
+msgid "Spider seems at peace in its cell."
+msgstr "蜘蛛在它的牢房里，看起来很平静。"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice"
+msgid "It looks like this gate could be opened. Open it?"
+msgstr "看起来这扇门可以打开。要打开吗？"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B3F_East.misc_gate_spidey.choice.It looks like this gate could be opened. Open it?"
+msgid "No"
+msgstr "否"
+
+msgid "Crayons and children's drawings."
+msgstr "蜡笔与儿童画。"
+
+msgid "Denomination: G8. Potential: Questionable. Training interrupted."
+msgstr "分支：G8。潜在风险：可疑。训练已中断。"
+
+msgid "Requesting installation of an anti-distortion field."
+msgstr "请求安装抗干扰场。"
+
+msgid "An old, crusty pillow."
+msgstr "一个又旧又硬的枕头。"
+
+msgid "Denomination: G11. Potential: High. Training ongoing."
+msgstr "分支：G11。潜在风险：高。训练进行中。"
+
+msgid "A set of four toy plants."
+msgstr "四个一套的玩具植物。"

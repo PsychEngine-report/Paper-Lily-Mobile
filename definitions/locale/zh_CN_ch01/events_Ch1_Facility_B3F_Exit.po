@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Ah... here it is."
+msgstr "啊...就是这里了。"
+
+msgid "I suppose these cursed doors must be fairly common."
+msgstr "我猜这些被诅咒的门一定很常见吧。"
+
+msgid "Not that common. And they kinda suck."
+msgstr "没那么常见啦。而且它们还挺烂的。"
+
+msgid "Sometimes you get stuck with no way to go back."
+msgstr "有时候你会被困住，无路可退。"
+
+msgid "I see."
+msgstr "嗯。"
+
+msgid "So it's a dead end after all."
+msgstr "所以这里终归是个死胡同。"
+
+msgid "Since there's no doorknobs here..."
+msgstr "要是没有门把手的话..."
+
+msgid "Looks like it."
+msgstr "看起来是这样。"
+
+msgid "An empty slot."
+msgstr "一个空槽位。"
+
+msgid "Place a doorknob?"
+msgstr "要放置门把吗？"
+
+msgid "Gray Doorknob"
+msgstr "灰色门把"
+
+msgid "White Doorknob"
+msgstr "白色门把"
+
+msgid "Return Doorknob"
+msgstr "返回门把"
+
+msgid "Do not"
+msgstr "不放"
+
+msgid "I guess it's finally time to use this."
+msgstr "我想，终于到了用这个的时候了。"

@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Wow."
+msgstr "Ого."
+
+msgid "Is this a meeting room or something...?"
+msgstr "Конференц-зал? Или что это?"
+
+msgid "What do you think they held meetings about?"
+msgstr "Как думаешь, что тут обсуждали на собраниях?"
+
+msgid "Wait..."
+msgstr "Постой..."
+
+msgid "Who do you think held meetings?"
+msgstr "Как думаешь, кто вообще проводил здесь собрания?"
+
+msgid "Looks like a room where you plot world domination."
+msgstr "Здесь разве что мировые заговоры устраивать."
+
+msgid "Think those windows lead anywhere?"
+msgstr "Как думаешь, эти окна куда-то ведут?"
+
+msgid "..."
+msgstr "..."
+
+msgid "You okay?"
+msgstr "Ты в порядке?"
+
+msgid "Yes. I just have this persistent headache following me around."
+msgstr "Да. Просто у меня вечно голова болит."
+
+msgid "Oh. That sucks."
+msgstr "Во как. Хреново."
+
+msgid "A chair. It's nailed to the ground."
+msgstr "Стул. Он прибит к полу."
+
+msgid "There's some sort of clothing hanging from the chair. You can't see very well."
+msgstr "На стуле висит какой-то кусок ткани. Вам не особо хорошо видно."
+
+msgid "There's a coat hanging from the chair."
+msgstr "Со стула свисает одеяние."
+
+msgid "Put it on"
+msgstr "Надеть его"
+
+msgid "Check the pockets"
+msgstr "Проверить карманы"
+
+msgid "Don't touch it"
+msgstr "Не трогать его"
+
+msgid "There's a note in one of the pockets:"
+msgstr "В одном из карманов лежит записка:"
+
+msgid "${img:stamp_council} MEETING 221 NOTES"
+msgstr "${img:stamp_council} ЗАПИСЬ - СОБРАНИЕ 221"
+
+msgid "\"...members are growing increasingly restless....\""
+msgstr "\"...участников неуклонно растёт...\""
+
+msgid "\"...expressing disapproval for Lilith...\""
+msgstr "\"...неодобрение в сторону Лилит...\""
+
+msgid "\"...might be planning to oust her...\""
+msgstr "\"...планировать вытеснить её...\""
+
+msgid "\"...could get ugly really fast...\""
+msgstr "\"...может быстро пойти наперекосяк...\""
+
+msgid "A round table."
+msgstr "Круглый стол."
+
+msgid "(It almost looks like... an eye?)"
+msgstr "(Он выглядит... почти как глаз?)"
+
+msgid "There's a valve handle on the desk."
+msgstr "На столе лежит вентиль."
+
+msgid "Take ${item:ch1.facility_handle_pentagon}?"
+msgstr "Взять ${item:ch1.facility_handle_pentagon}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "A bright, imposing window."
+msgstr "Яркое, внушительное окно."

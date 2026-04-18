@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There are colored thread rolls inside."
+msgstr "裡面有著多種顏色的絲線。"
+
+msgid "The red thread may be useful."
+msgstr "紅色絲線會很有用。"
+
+msgid "Take ${item:ch1.thread}?"
+msgstr "拿走 ${item:ch1.thread} 嗎？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "My parents' bed."
+msgstr "我父母的床。"
+
+msgid "A bookshelf with complicated books."
+msgstr "書架上擺滿了艱深的書籍。"
+
+msgid "Black... Black... No red markers here."
+msgstr "黑色...黑色...沒有紅色奇異筆。"
+
+msgid "Maybe in my room?"
+msgstr "也許在我的房間裡？"
+
+msgid "Maybe downstairs?"
+msgstr "也許在樓下？"
+
+msgid "A classic alarm clock."
+msgstr "經典的鬧鐘。"
+
+msgid "Father doesn't trust the alarm app."
+msgstr "父親不信任鬧鐘程式。"
+
+msgid "A computer chair."
+msgstr "電腦椅。"
+
+msgid "A computer chair. Yours is better."
+msgstr "電腦椅。妳的比較好。"
+
+msgid "An older computer."
+msgstr "比較老舊的電腦。"
+
+msgid "It's mostly for spreadsheets, so you can't game on it."
+msgstr "主要用來寫試算表，所以妳辦法在上面玩遊戲。"
+
+msgid "A plant."
+msgstr "植物。"
+
+msgid "A plant. We have several like this one."
+msgstr "植物。我們有很多像這株一樣的。"
+
+msgid "A sewing kit."
+msgstr "針線包。"
+
+msgid "A shelf with nothing of interest."
+msgstr "沒什麼特別東西的架子。"
+
+msgid "The wardrobe. It doesn't close well anymore."
+msgstr "衣櫃。已經沒辦法關好了。"
+
+msgid "Something is written on the door:"
+msgstr "有東西寫在門上："
+
+msgid "\"The wardrobe is stuffy, isn't it? You almost can't breathe in there."
+msgstr "\"衣櫃裡很悶，不是嗎？妳幾乎沒辦法在裡面呼吸。"
+
+msgid "You almost stopped breathing. Take a deep breath, Lacie.\""
+msgstr "妳幾乎停止呼吸了。深呼吸，萊西。\""
+
+msgid "Open it?"
+msgstr "打開它嗎？"
+
+msgid "A cold breeze blows from inside."
+msgstr "一股冷風從裡面吹出。"
+
+msgid "There's a few clothes inside."
+msgstr "裡面有一些衣服。"

@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You made it!"
+msgstr "你做到了！"
+
+msgid "You must be really good at dodging spikes."
+msgstr "你一定很擅长躲刺吧。"
+
+msgid "Thank you."
+msgstr "谢谢你。"
+
+msgid "(He seems friendly...)"
+msgstr "（他看起来很友善...）"
+
+msgid "I'm surprised you're talking to me... this much."
+msgstr "我很惊讶你会跟我们说...那么多话。"
+
+msgid "Talking is an important means of communication, no?"
+msgstr "说话是一种重要的交流方式，不是吗？"
+
+msgid "Well yes... but-"
+msgstr "是的...但——"
+
+msgid "You talk as well!"
+msgstr "你也会说话！"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "I do."
+msgstr "我会。"
+
+msgid "But you're... What exactly are you?"
+msgstr "但你是...你到底是什么？"
+
+msgid "My name is Rune and I like runes!"
+msgstr "我的名字是符文，还有我喜欢符文石！"
+
+msgid "Do you have any runes?"
+msgstr "你有符文石吗？"
+
+msgid "(Do I have any runes?)"
+msgstr "（我有符文石吗？）"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.choice.(Do I have any runes?)"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.choice.(Do I have any runes?)"
+msgid "No"
+msgstr "否"
+
+msgid "Yes, I do."
+msgstr "是的，我有。"
+
+msgid "Amazing! Please give them to me!"
+msgstr "太好了！请把它们给我吧！"
+
+msgid "I don't."
+msgstr "我没有。"
+
+msgid "Is that so."
+msgstr "真的吗。"
+
+msgid "Are you lying?"
+msgstr "你在说谎吗？"
+
+msgid "N-no... I don't have any runes."
+msgstr "没——没有...我没有任何符文石。"
+
+msgid "Interesting."
+msgstr "真有趣。"
+
+msgid "Humans are quite peculiar."
+msgstr "人类真怪呀。"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "..."
+msgstr "..."
+
+msgid "Well...!"
+msgstr "好吧...！"
+
+msgid "That's terrible!"
+msgstr "太糟了！"
+
+msgid "In the future, if you have any runes, please bring them to me!"
+msgstr "今后如果你有任何符文石的话，请把它们带给我吧！"
+
+msgid "I will give you trinkets in exchange!"
+msgstr "我会给你一些小玩意作为交换！"
+
+msgid "Okay."
+msgstr "好的。"
+
+msgid "So... are you some kind of spirit?"
+msgstr "所以...你是某种精灵吗？"
+
+msgid "Not exactly!"
+msgstr "不算是！"
+
+msgid "We've gone by many names in the past."
+msgstr "我们以前有过很多名字。"
+
+msgid "But humans often refer to us as \"demons\"."
+msgstr "但是人类通常把我们叫做“恶魔”。"
+
+msgid "What is your name?"
+msgstr "你的名字是？"
+
+msgid "Lacie."
+msgstr "莱西。"
+
+msgid "Miss Lacie!"
+msgstr "莱西小姐！"
+
+msgid "Rare to see a human around here! How exciting!"
+msgstr "很少在这附近见到人类！好激动！"
+
+msgid "You ARE human, aren't you?"
+msgstr "你是人类，对吧？"
+
+msgid "Yes. You can tell?"
+msgstr "是的。你知道人类吗？"
+
+msgid "A little bit."
+msgstr "知道一点点。"
+
+msgid "A little bit?"
+msgstr "一点点？"
+
+msgid "Some of us may have the appearance of a human, but it's easy to tell the difference with a real one!"
+msgstr "我们当中有一部分虽然有着人类的外表，但很容易与真正的人类区分！"
+
+msgid "You however..."
+msgstr "至于你..."
+
+msgid "...What about me?"
+msgstr "...我怎么了？"
+
+msgid "Even though you're a human, you smell a bit like..."
+msgstr "尽管你是个人类，但你闻起来有点像..."
+
+msgid "I can't speak of them, but... it's someone veeeery bad."
+msgstr "我不能讲，但是...它是某个超级超级坏的人。"
+
+msgid "Who is it?"
+msgstr "它是谁？"
+
+msgid "It's 1000 years of bad luck to talk about it."
+msgstr "讲这个会倒1000年大霉的。"
+
+msgid "Please, I really need help."
+msgstr "拜托了，我真的很需要帮助。"
+
+msgid "Um..."
+msgstr "唔..."
+
+msgid "I know... that there's something off about me."
+msgstr "我知道...我身上有些不对劲。"
+
+msgid "I did this ritual to find out what it is... and how to fix it."
+msgstr "我做了这个仪式来找出问题所在...还有找到解决问题的办法。"
+
+msgid "I see."
+msgstr "嗯。"
+
+msgid "For a moment I thought I might be possessed but..."
+msgstr "有那么一瞬间，我以为自己是中邪了，但是..."
+
+msgid "Ooh."
+msgstr "哦。"
+
+msgid "Nonsense, possessions are an outdated concept."
+msgstr "不可能的，中邪是过时的说法啦。"
+
+msgid "Then do you know what it could be?"
+msgstr "那么你觉得这会是什么呢？"
+
+msgid "A curse!"
+msgstr "诅咒！"
+
+msgid "What?"
+msgstr "什么？"
+
+msgid "99 percent of illnesses here are curses!"
+msgstr "在这里，百分之99的疾病都是诅咒！"
+
+msgid "What's the other 1 percent?"
+msgstr "那剩下的百分之1呢？"
+
+msgid "What a silly question, there is no 1 percent!"
+msgstr "好傻的问题哦，没有那百分之1！"
+
+msgid "...Oh..."
+msgstr "...哦..."
+
+msgid "(So it's just 100 percent...?)"
+msgstr "（所以说就是百分之100吗...？）"
+
+msgid "Do you know how I can lift this curse?"
+msgstr "你知道我要怎样才能驱除诅咒吗？"
+
+msgid "You should seek Red! Red lifts curses!"
+msgstr "你应该去找瑞德！瑞德会驱除诅咒！"
+
+msgid "How can I find Red?"
+msgstr "我要怎样找到瑞德？"
+
+msgid "Incidentally, this is Red's treehouse."
+msgstr "顺带一提，这就是瑞德的树屋。"
+
+msgid "This? But there's nobody in there."
+msgstr "这里？但是没人在啊。"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "Indeed, Red hasn't been in there for a long time."
+msgstr "确实，瑞德已经很长一段时间都不在这里了。"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "I see..."
+msgstr "好的..."
+
+msgid "Yeah, I saw the sign earlier."
+msgstr "嗯，我之前看到路标了。"
+
+msgid "I guess I should check it out."
+msgstr "我觉得我应该去看看。"
+
+msgid "Thank you, Rune."
+msgstr "谢谢你，符文。"
+
+msgid "You're welcome, Miss Lacie!"
+msgstr "你太客气了，莱西小姐！"
+
+msgid "Good luck, Miss Lacie!"
+msgstr "祝你好运，莱西小姐！"
+
+msgid "Hello again Miss Lacie!"
+msgstr "又见面了，莱西小姐！"
+
+msgid "Red wasn't there."
+msgstr "瑞德不在这里。"
+
+msgid "Why didn't you tell me?"
+msgstr "你为什么刚才不告诉我呢？"
+
+msgid "You didn't ask."
+msgstr "你没问啊。"
+
+msgid "That's true, I suppose."
+msgstr "这倒是真的。"
+
+msgid "Do you know of another way I could find Red?"
+msgstr "你知道找到瑞德的其他方法吗？"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "I do."
+msgstr "我知道。"
+
+msgid "...?"
+msgstr "...？"
+
+msgid "Would you like to share it with me?"
+msgstr "你能跟我分享一下吗？"
+
+msgid "Sure!"
+msgstr "当然！"
+
+msgid "There's a lighthouse to the north of the big tree. Red goes there a lot!"
+msgstr "在大树的北边有一座灯塔。瑞德经常去那里！"
+
+msgid "Have you seen the big tree? It's very large, you can't miss it."
+msgstr "你看过那颗大树了吗？它很大，你不会错过的。"
+
+msgid "Yes, I have."
+msgstr "是的，我见过了。"
+
+msgid "Well, you have to head north to reach the lighthouse, but it's quite a long walk."
+msgstr "嗯，你需要往北前进，以到达灯塔，但是这有一段路程。"
+
+msgid "It's right past the lake."
+msgstr "它就在湖边。"
+
+msgid "But... the only way to go north from here is to go through the locked site."
+msgstr "但是...从这里前往北边的唯一方法是穿过封锁区。"
+
+msgid "Locked site?"
+msgstr "封锁区？"
+
+msgid "Near the big tree there's a locked gate. If you go through there you'll be at the lake in no time."
+msgstr "在大树的旁边有一扇锁住的大门。如果你穿过去就能到达湖边了。"
+
+msgid "But it's quite dangerous in there."
+msgstr "但是那里面很危险。"
+
+msgid "And you'll need a light. Since it's also very dark."
+msgstr "还有，你需要光源。里面非常黑。"
+
+msgid "I see. Thank you for all of this information."
+msgstr "我知道了。感谢你提供的信息。"
+
+msgid "I expected...\"demons\" such as yourself to be more hostile."
+msgstr "我以为...像你这样的“恶魔”会更有敌意。"
+
+msgid "That is a fair expectation!"
+msgstr "这是合理的推断！"
+
+msgid "One that you should keep."
+msgstr "有一点你得记得。"
+
+msgid "If anyone finds out you're human, they will kill you instantly."
+msgstr "如果有谁知道了你是人类，它们会马上杀了你。"
+
+msgid "Take care!"
+msgstr "请保重！"
+
+msgid "So..."
+msgstr "所以..."
+
+msgid "Why aren't you hostile?"
+msgstr "为什么你没有敌意呢？"
+
+msgid "Why do you collect runes?"
+msgstr "为什么你要收集符文石？"
+
+msgid "Red's treehouse?"
+msgstr "关于瑞德的树屋？"
+
+msgid "What will I find at the lighthouse?"
+msgstr "我能在灯塔找到什么？"
+
+msgid "What is inside the locked site?"
+msgstr "封锁区里面有什么？"
+
+msgid "Never mind"
+msgstr "没事"
+
+msgid "How come you aren't hostile like other demons?"
+msgstr "为什么你不像其他恶魔那样充满敌意呢？"
+
+msgid "I am simply well-fed."
+msgstr "我只是吃饱了撑的。"
+
+msgid "As for runes, why do you collect them?"
+msgstr "至于符文石，你为什么要收集它们？"
+
+msgid "I like runes!"
+msgstr "我喜欢符文石！"
+
+msgid "What are you doing with them?"
+msgstr "那你要拿它们做什么？"
+
+msgid "Liking them."
+msgstr "拿来喜欢。"
+
+msgid "Is that why your name is Rune?"
+msgstr "这就是为什么你叫做符文吗？"
+
+msgid "I might have had another name once, but I don't recall."
+msgstr "之前我也许还有别的名字，但是我想不起来了。"
+
+msgid "Why do you call this place \"Red's treehouse\"? This house is not in a tree."
+msgstr "为什么你管这里叫“瑞德的树屋”？这个房子也不在树里啊。"
+
+msgid "But the house is MADE of tree."
+msgstr "但是这个房子是用树“做”的。"
+
+msgid "Do you mean wood?"
+msgstr "你说是木头吗？"
+
+msgid "No...?"
+msgstr "不是吧...？"
+
+msgid "You are so odd, Miss Lacie!"
+msgstr "你好奇怪哦，莱西小姐！"
+
+msgid "Will I find Red at the lighthouse?"
+msgstr "我能在灯塔见到瑞德吗？"
+
+msgid "Maybe. Red often goes there."
+msgstr "可能吧。瑞德经常去那里。"
+
+msgid "What if Red isn't there?"
+msgstr "那如果瑞德不在呢？"
+
+msgid "The lighthouse owner is a friend of Red's, he'll know how to guide you!"
+msgstr "灯塔的主人是瑞德的朋友，他知道怎么带你去！"
+
+msgid "He will not eat you, don't worry!"
+msgstr "他不会吃了你的，别担心！"
+
+msgid "That's good."
+msgstr "那太好了。"
+
+msgid "What's behind that fence? In the locked site?"
+msgstr "那些围栏的后面是什么？封锁区里面？"
+
+msgid "Mainly just forest and...a monster."
+msgstr "主要是森林和...一个怪物。"
+
+msgid "A monster???"
+msgstr "一个怪物？？？"
+
+msgid "It's okay, he won't kill you unless he sees you or hears you!"
+msgstr "没关系的，他不会杀死你的，除非他看到或听到了你！"
+
+msgid "It's very dark in there so you'll need a bit of light. If you hear him approaching, you should hide!"
+msgstr "那里面很黑，所以你需要一点光源。如果你听到他接近了，你应该躲起来！"
+
+msgid "That doesn't sound safe. Is it really the only way to the lighthouse?"
+msgstr "那听着很不安全。这真的是去往灯塔的唯一方法吗？"
+
+msgid "It's the only way I know of."
+msgstr "这是我知道的唯一方法。"
+
+msgid "How did you cross the bridge to get all the way here?"
+msgstr "你是怎么过桥来到这里的？"
+
+msgid "I walked."
+msgstr "走过来的。"
+
+msgid "But... You didn't set off any traps?"
+msgstr "但是...你没触发任何陷阱吗？"
+
+msgid "I must have missed them."
+msgstr "我一定是错过了吧。"
+
+msgid "Do you live here?"
+msgstr "你住在这里吗？"
+
+msgid "Nope!"
+msgstr "并不！"
+
+msgid "I move around a lot."
+msgstr "我经常到处闲逛。"
+
+msgid "Why did you come here to Red's treehouse?"
+msgstr "你为什么要来瑞德的树屋呢？"
+
+msgid "I'm looking for more runes!"
+msgstr "我在找更多的符文石！"
+
+msgid "Rune is humming a tune."
+msgstr "符文哼着小曲儿。"
+
+msgid "It sounds very off-key."
+msgstr "听起来非常走调。"
+
+msgid "An empty box with a crow on top."
+msgstr "一个空盒子，上面有一只乌鸦。"
+
+msgid "This one decided to stay."
+msgstr "这一只决定留下。"
+
+msgctxt "events.Ch1_Forest_Red.event_birdbox_save.dlg.narrator"
+msgid "This isn't the time for that."
+msgstr "现在还不是时候。"
+
+msgid "That was a close one."
+msgstr "好险啊。"
+
+msgid "You almost had it!"
+msgstr "你差点就做到了！"
+
+msgid "Will you be okay?"
+msgstr "你还好吗？"
+
+msgid "Maybe not."
+msgstr "好像不好。"
+
+msgid "Ouch."
+msgstr "好疼哦。"
+
+msgid "The trick is to not touch the spikes!"
+msgstr "技巧就是不要碰到刺哦！"
+
+msgid "Everyone dies there."
+msgstr "每个人都死在这里了。"
+
+msgid "Oh well."
+msgstr "哎，好吧。"
+
+msgid "Try Again?"
+msgstr "要重试吗？"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid "Skip"
+msgstr "跳过"
+
+msgid "Give Up"
+msgstr "放弃"
+
+msgid "What the... a trap?"
+msgstr "哇...这是陷阱？"
+
+msgid "That was dangerous... why are there traps here?"
+msgstr "太危险了...为什么这里会有陷阱？"
+
+msgid "Ooh! An interesting character appears!"
+msgstr "哦！一个有趣的角色出现了哦！"
+
+msgid "(Someone's there?)"
+msgstr "（那里有人？）"
+
+msgid "Nobody has come in a long time!"
+msgstr "好久没有人来了！"
+
+msgid "I hope you can make it over here!"
+msgstr "我希望你能过来这里！"
+
+msgid "Almost there!"
+msgstr "快到了哦！"
+
+msgid "Be careful not to die."
+msgstr "小心点，不要死了。"
+
+msgid "How much longer is this path?"
+msgstr "这条路到底有多长？"
+
+msgid "Only 'till you get here!"
+msgstr "到了就知道了！"
+
+msgctxt "events.Ch1_Forest_Red.event_rune_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Don't jump!"
+msgstr "别跳下去！"
+
+msgid "You have so much to live for..."
+msgstr "你还有很多活下去的理由..."
+
+msgid "...Eh?"
+msgstr "...嗯？"
+
+msgid "Oh! I wasn't..."
+msgstr "哦！我不是那个意思..."
+
+msgid "Be careful with the traps!"
+msgstr "当心陷阱！"
+
+msgid "There's more!?"
+msgstr "难道还有吗！？"
+
+msgid "Good luck!"
+msgstr "祝你好运！"
+
+msgctxt "events.Ch1_Forest_Red.event_rune_bridge_talk_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I want to check out the house first...)"
+msgstr "（我想先去调查一下屋子...）"
+
+msgid "Wow! Thank you! You can have something in return!"
+msgstr "哇哦！谢谢你！你可以收下我的回礼！"
+
+msgid "What am I supposed to do with this?"
+msgstr "我要怎么用上这个东西呢？"
+
+msgid "Dunno! Maybe it will come in handy."
+msgstr "不知道！没准它有用呢。"
+
+msgid "Yay! Another one!"
+msgstr "耶！又有一个！"
+
+msgid "Here's another trinket."
+msgstr "这里有另一件小玩意儿。"
+
+msgid "Wow... this actually looks useful."
+msgstr "哇哦...这个看起来很有用。"
+
+msgid "Wow! You're amazing! Thank you!"
+msgstr "哇哦！你太棒了！谢谢你！"
+
+msgid "I gotta say, you have terrible manners!"
+msgstr "我必须得说，你太没礼貌了！"
+
+msgid "Uhm... I'm sorry."
+msgstr "呃...我很抱歉。"
+
+msgid "Ignoring me like that, after I cheered for you to get here and everything!"
+msgstr "我为你的到来欢呼雀跃，你却这样无视我！"
+
+msgid "(You didn't exactly help though...)"
+msgstr "（虽然你没帮上什么忙就是了...）"
+
+msgid "I was just curious about the house here."
+msgstr "我只是对这间屋子很感兴趣。"
+
+msgid "Let's start over. What's your name?"
+msgstr "我们来谈谈吧。你的名字是？"
+
+msgid "What should I do with this?"
+msgstr "我要怎么用上这个东西？"
+
+msgid "I'm not sure!"
+msgstr "我不清楚！"
+
+msgid "Maybe you could cut things that need cutting."
+msgstr "也许你可以剪开一些需要剪的东西。"
+
+msgid "Isn't it nice? It's a bug net. For catching bugs."
+msgstr "它是不是很棒？它是一个捕虫网。用来捉虫子的。"
+
+msgid "There are other kinds of nets, but this one is for catching bugs."
+msgstr "网有很多类型，但这一种是用来捕虫的。"
+
+msgid "This candle... is from the lighthouse!"
+msgstr "这个蜡烛...是从灯塔来的！"
+
+msgid "What? Really?"
+msgstr "什么？真的吗？"
+
+msgid "(Did I just miss my chance to get to the lighthouse faster...?)"
+msgstr "（我是不是错过了一个更快到达灯塔的机会...？）"
+
+msgid "Do you collect doorknobs, Miss Lacie?"
+msgstr "你收集门把吗，莱西小姐？"
+
+msgid "Personally I prefer runes, but to each their own!"
+msgstr "我个人更喜欢符文石，但是每个人都有自己的喜好！"
+
+msgid "Alba sells nice fish!"
+msgstr "阿尔巴卖的鱼很不错！"
+
+msgid "She also gives me runes sometimes, in exchange for coins."
+msgstr "她有时候也会给我符文，用来换硬币。"
+
+msgid "She's a very nice person!"
+msgstr "她是个很不错的人！"
+
+msgid "How many coins does she charge you?"
+msgstr "她给你开多少价？"
+
+msgid "Usually about 40 coins."
+msgstr "通常是40个硬币左右。"
+
+msgctxt "events.Ch1_Forest_Red.item_fish_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Rune, I think she might be ripping you off."
+msgstr "符文，我觉得她可能把你宰了。"
+
+msgid "Not a chance! I really love runes!"
+msgstr "不可能！我真的很爱符文石！"
+
+msgid "An artist's inspiration!"
+msgstr "一朵艺术家的灵感！"
+
+msgctxt "events.Ch1_Forest_Red.item_flower_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I heard it can be quite valuable."
+msgstr "我听说这很值钱。"
+
+msgid "Artist's Inspiration"
+msgstr "艺术家的灵感"
+
+msgid "Apparently, that's the flower's name."
+msgstr "显然，这是这朵花的名字。"
+
+msgid "Oh, that would make a nice container for something!"
+msgstr "哦，这是个不错的容器，可以用来装东西！"
+
+msgid "Like what?"
+msgstr "装什么？"
+
+msgid "I don't know."
+msgstr "我不知道。"
+
+msgid "Did you put fireflies inside?"
+msgstr "你把萤火虫放进去了吗？"
+
+msgid "Genius!"
+msgstr "天才！"
+
+msgid "Pointy."
+msgstr "尖尖的。"
+
+msgid "Pointy pointy."
+msgstr "尖尖尖尖的。"
+
+msgctxt "events.Ch1_Forest_Red.item_scissors_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Miss Lacie, that's a dangerous item!"
+msgstr "莱西小姐，那是个很危险的物品！"
+
+msgctxt "events.Ch1_Forest_Red.item_snack_2_on_rune.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I never thought you'd try to poison me this fast."
+msgstr "我没想到你那么快就想毒害我。"
+
+msgid "Sorry."
+msgstr "对不起。"
+
+msgid "No thank you, I don't need to sleep!"
+msgstr "不，谢谢你，我不需要睡觉！"
+
+msgid "A bag filled with... garbage, probably."
+msgstr "一个装着...垃圾的袋子，大概吧。"
+
+msgid "It's tied too hard to check the contents."
+msgstr "系得很紧，不知道里面是什么。"
+
+msgid "A box with some birds trapped inside."
+msgstr "一个箱子，有一些鸟被困在里面。"
+
+msgid "Open the box?"
+msgstr "要打开箱子吗？"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.choice.Open the box?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.choice.Open the box?"
+msgid "No"
+msgstr "否"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.dlg.narrator"
+msgid "This isn't the time for that."
+msgstr "现在还不是时候。"
+
+msgid "A strong lamp."
+msgstr "一盏强光灯。"
+
+msgid "A small window. You can't see anything, so it may be fake."
+msgstr "一扇小窗户。你什么也看不到，所以它可能是假的。"
+
+msgid "Thin vertical windows."
+msgstr "细长的竖向窗户。"
+
+msgid "I just got this far, let's take a look around."
+msgstr "都走了这么远了，让我们到处看看吧。"
+
+msgid "I haven't finished talking to Rune..."
+msgstr "我还没跟符文说完话呢..."
+
+msgid "(Seems like there's nobody here...)"
+msgstr "（看起来这里没人...）"

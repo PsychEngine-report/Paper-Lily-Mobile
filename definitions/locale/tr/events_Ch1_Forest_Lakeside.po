@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "....."
+msgstr "....."
+
+msgid "Let's get rid of some items..."
+msgstr "Hadi bazı eşyalardan kurtul..."
+
+msgid "(You got rid of some items.)"
+msgstr "(Bazı eşyalardan kurtuldun)"
+
+msgid "There's a bucket here."
+msgstr "Burada bir kova var."
+
+msgid "Take ${item:ch1.bucket}?"
+msgstr "${item:ch1.bucket} Al?"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice. Al? ${item:ch1.bucket}?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside.item_bucket_get.choice. Al?${item:ch1.bucket}?"
+msgid "No"
+msgstr "No"
+
+msgid "There are easier ways to fill a bucket with water."
+msgstr "Kovayı suyla doldurmanın daha kolay yolları var."
+
+msgid "It doesn't want to go in there..."
+msgstr "Oraya girmek istemiyor..."
+
+msgid "The fish is long dead. Putting it in water won't change that."
+msgstr "Balık bayadır ölü. Onu suya koymak bunu değiştirmicek."
+
+msgid "The monster swims away after being splashed."
+msgstr "Canavar,su sıçratıldıktan sonra uzaklaşarak yüzer."
+
+msgid "That won't accomplish anything."
+msgstr "Bu hiçbir işe yaramıcak"
+
+msgid "I thought it hated water...?"
+msgstr "Sanıyordum ki suyu sevmezdi...?"
+
+msgid "Well, no... it's clearly swimming in the water just fine."
+msgstr "Ehh,pek değil...Suda gayet iyi yüzdüğü açık."
+
+msgid "Maybe it's some different kind of water."
+msgstr "Belki başka türden bir sudur."
+
+msgid "The monster stares at you without moving from its spot."
+msgstr "Canavar yerinden kımıldamadan seni izliyor."
+
+msgid "No... what if something lives down there?"
+msgstr "Hayır… ya oranın aşağısında bir şey yaşıyorsa?"
+
+msgid "I wouldn't want to drown it."
+msgstr "Onu boğmak istemezdim."
+
+msgid "A boat that has seen better days."
+msgstr "Bu botun daha iyi günleri olmuştur."
+
+msgid "It could probably take you north."
+msgstr "O seni kuzeye götürebilirdi."
+
+msgid "Ideally, I'd like to have two paddles."
+msgstr "İdeal olarak iki küreğe sahip olmak isterim."
+
+msgid "I can't take it anywhere without paddles."
+msgstr "Bunu iki küreksiz bir yere götüremem."
+
+msgid "Also..."
+msgstr "Ayrıca..."
+
+msgid "(What should I do?)"
+msgstr "(Ne yapmalıyım?)"
+
+msgid "Get on the boat"
+msgstr "Bota bin."
+
+msgid "Do not"
+msgstr "Binme."
+
+msgid "What the heck is that thing...?"
+msgstr "Bu şey de nedir?"
+
+msgid "(Maybe I shouldn't get on while it's there...)"
+msgstr "(Belki burdayken binmemeliyim...)"
+
+msgid "A puddle of what looks like blood."
+msgstr "Kan gibi gözüken bir su birikintisi."
+
+msgid "Did this thing just turn into blood...?"
+msgstr "Bu şey kana mı dönüştü?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.dlg.narrator"
+msgid "A small burrow."
+msgstr "Küçük bir yuva."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice"
+msgid "Reach inside?"
+msgstr "İçine ulaşmaya çalış?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.İçeri gir?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow.choice.İçeri gir?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "You can't feel anything special."
+msgstr "Farklı bir şey var gibi hissetmiyorsun."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.dlg.narrator"
+msgid "A small burrow."
+msgstr "Küçük bir yuva."
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice"
+msgid "Reach inside?"
+msgstr "İçine ulaşmaya çalış?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.İçeri gir?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_burrow_2.choice.İçeri gir?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A cage attached to a tree."
+msgstr "Ağaca bağlı bir kafes."
+
+msgid "It looks like I could put something inside."
+msgstr "İçine bir şey koyabilirim gibi gözüküyor."
+
+msgid "A bunny stares at you from inside."
+msgstr "Tavşan içerden seni izliyor."
+
+msgid "The 5-coin fish rests inside. It's not even grilled."
+msgstr "5 madeni paralık balık içerde duruyor. Balık ızgaralanmamış bile."
+
+msgid "A pack of chips is inside."
+msgstr "Bir paket cips içerde."
+
+msgid "A chocolate bar is inside."
+msgstr "Bir çikolata barı içerde."
+
+msgid "(Take it back?)"
+msgstr "(Geri al?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Geri al?)"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Geri al?)"
+msgid "No"
+msgstr "Hayır"
+
+msgid "There's no need to push the cage into the water anymore."
+msgstr "Artık kafesi suya atmaya gerek yok."
+
+msgid "(Push the cage into the water?)"
+msgstr "(Kafesi suya it?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Kafesi suya it?)"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage.choice.(Kafesi suya it?)"
+msgid "No"
+msgstr "Hayır"
+
+msgid "(The monster seems to like what you put inside the cage.)"
+msgstr "(Canavar kafesin içine koyduğun şeyi sevmiş gibi gözüküyor.)"
+
+msgid "The cage is in the water."
+msgstr "Kafes suyun içinde."
+
+msgid "No need to mess with it anymore."
+msgstr "Bununla uğraşmaya gerek yok."
+
+msgid "(Pull it back up?)"
+msgstr "(Geri çek?)"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Geri çek?)"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_cage_cord.choice.(Geri çek?)"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A fishing rod."
+msgstr "Bir olta"
+
+msgid "Try it?"
+msgstr "Oltayı dene?"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Oltayı dene?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Forest_Lakeside.misc_fishingrod.choice.Oltayı dene?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A structure housing a lamp."
+msgstr "Bir lambanın bulunduğu bir yapı."
+
+msgid "A crow standing on a rock."
+msgstr "Taşın üstünde duran bir karga."
+
+msgid "Is it waiting to take the boat?"
+msgstr "Tekneye binmek için mi bekliyor?"
+
+msgid "Colorful logs sticking out of the water."
+msgstr "Sudan çıkan renkli kütükler."
+
+msgid "Despite your best efforts, you can't read the note from this side of the tree."
+msgstr "En iyi çabana rağmen, ağacın bu tarafından notu okuyamıyorsun."
+
+msgid "A note is attached to the tree. It says:"
+msgstr "Ağaca bağlı not şöyle diyor :"
+
+msgid ""
+"\"THE MONSTER\n"
+"LOVES MEAT\n"
+"HATES WATER\""
+msgstr ""
+"\"CANAVAR\n"
+"ETİ SEVER\n"
+"SUDAN NEFRET EDER\""

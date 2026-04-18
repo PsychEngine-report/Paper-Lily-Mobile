@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "No need to mess with it anymore."
+msgstr "Não há mais necessidade de mexer com isso."
+
+msgid "The paintings have been destroyed..."
+msgstr "As pinturas foram destruídas..."
+
+msgid "Various paintings of a young girl are stored here."
+msgstr "Várias pinturas de uma jovem estão armazenadas aqui."
+
+msgid "The hands are charred."
+msgstr "As mãos estão carbonizadas."
+
+msgid "The hands are on fire."
+msgstr "As mãos estão em chamas."

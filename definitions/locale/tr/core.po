@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OK"
+msgstr "TAMAM"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "On"
+msgstr "Açık"
+
+msgid "Off"
+msgstr "Kapalı"
+
+msgid "Auto"
+msgstr "Otomatik"
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgctxt "system.common.cancel"
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Done"
+msgstr "Tamamla"
+
+msgid "Loading..."
+msgstr "Yükleniyor..."
+
+msgid "Key"
+msgstr "Anahtar"
+
+msgid "Button"
+msgstr "Düğme"
+
+msgid "Axis"
+msgstr "Eksen"
+
+msgid "Keyboard"
+msgstr "Klavye"
+
+msgid "Controller"
+msgstr "Kontrolcü"
+
+msgid "New Game"
+msgstr "Yeni Oyun"
+
+msgid "Continue"
+msgstr "Devam Et"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Itch.io Page"
+msgstr "Itch.io Sayfası"
+
+msgid "Translator Page"
+msgstr "Çeviri Sayfası"
+
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save Game"
+msgstr "Oyunu Kaydet"
+
+msgid "SLOT {0}"
+msgstr "KAYIT YUVASI {0}"
+
+msgid "<EMPTY>"
+msgstr "<BOŞ>"
+
+msgid "CORRUPTED"
+msgstr "BOZULMUŞ"
+
+msgid "OBSOLETE"
+msgstr "ESKİ"
+
+msgid "Unknown Location"
+msgstr "Bilinmeyen Konum"
+
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "Bu kayıt dosyasının üzerine yazmak istediğine emin misin？"
+
+msgid "Load"
+msgstr "Kayıt Yükle"
+
+msgid "Load Game"
+msgstr "Kayıtlı Oyunu Yükle"
+
+msgid "Quit"
+msgstr "Çıkış"
+
+msgid "Debug Room"
+msgstr "Debug Odası"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Inventory"
+msgstr "Envanter"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Objectives"
+msgstr "Görevler"
+
+msgid "(There are no objectives)"
+msgstr "(Hiçbir görev yok)"
+
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+msgid "Log"
+msgstr "Kayıt"
+
+msgid "Extras"
+msgstr "Ekstralar"
+
+msgid "Gallery"
+msgstr "Galeri"
+
+msgid "Credits"
+msgstr "Emeği Geçenler"
+
+msgid "{0} Select {1} Back"
+msgstr "{0} Seç {1} Geri"
+
+msgid "Go to Debug Room"
+msgstr "Debug Odasına git"
+
+msgid "Quit to Title Screen"
+msgstr "Ana Menüye çık"
+
+msgid "Quit to Desktop"
+msgstr "Masaüstüne çık"
+
+msgid "Are you sure you want to quit? Unsaved progress will be lost."
+msgstr "Çıkmak istediğine emin misin? Kaydedilmemiş tüm ilerlemen kaybolacak"
+
+msgid "Game Paused!"
+msgstr "Oyun Durduruldu!"
+
+msgid "{0}{1} Select {2} Confirm"
+msgstr "{0}{1} Seç {2} Onayla"
+
+msgid "Coins: {0}"
+msgstr "Paralar: {0}"
+
+msgid "Up"
+msgstr "Yukarı"
+
+msgid "Down"
+msgstr "Aşşağı"
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "Action/OK"
+msgstr "Eylem/TAMAM"
+
+msgctxt "system.actions.cancel"
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Run"
+msgstr "Koş"
+
+msgid "Special"
+msgstr "Özel"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Battery Saver Mode"
+msgstr "Güç Tasarrufu Modu"
+
+msgid "Brightness"
+msgstr "Parlaklık"
+
+msgid "Contrast"
+msgstr "Kontrast"
+
+msgid "FPS Limit"
+msgstr "FPS'yi Limitle"
+
+msgid "Unlocked"
+msgstr "Kilidi Açıldı"
+
+msgid "V-Sync"
+msgstr "V-Sync"
+
+msgid "G-Sync"
+msgstr "G-Sync"
+
+msgid "Comp.V-Sync"
+msgstr "Comp.V-Sync"
+
+msgid "Full Screen"
+msgstr "Tam Ekran"
+
+msgid "Internal Resolution"
+msgstr "Dahili Çözünürlük"
+
+msgid "Gamma"
+msgstr "Gamma"
+
+msgid "Renderer"
+msgstr "Renderer"
+
+msgid "OpenGL ES 2.x"
+msgstr "OpenGL ES 2.x"
+
+msgid "OpenGL ES 3.x"
+msgstr "OpenGL ES 3.x"
+
+msgid "Resolution"
+msgstr "Çözünürlük"
+
+msgid "Window Size"
+msgstr "Pencere Boyutu"
+
+msgid "Saturation"
+msgstr "Doygunluk"
+
+msgid "General Volume"
+msgstr "Genel Ses Seviyesi"
+
+msgid "BGM Volume"
+msgstr "Müzik Seviyesi"
+
+msgid "SFX Volume"
+msgstr "Ses Efekti Seviyesi"
+
+msgid "Interface Volume"
+msgstr "Arayüz Ses Seviyesi"
+
+msgid "Text Scrolling Volume"
+msgstr "Metin Ses Seviyesi"
+
+msgid "Mute All Audio"
+msgstr "Tüm Sesleri Sustur"
+
+msgid "Hide Mouse Cursor"
+msgstr "Fare İmlecini Gizle"
+
+msgid "Objective Notifications"
+msgstr "Görev Bildirimleri"
+
+msgid "Sound Settings"
+msgstr "Ses Ayarları"
+
+msgid "Screen Settings"
+msgstr "Ekran Ayarları"
+
+msgid "Control Settings"
+msgstr "Kontrol Ayarları"
+
+msgid "Invalid custom controls: All actions need to be assigned!"
+msgstr "Geçersiz özel kontroller: Bütün eylemler atanmalı!"
+
+msgid "Game Settings"
+msgstr "Oyun Ayarları"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+msgid "Classic"
+msgstr "Klasik"
+
+msgid "WASD"
+msgstr "WASD"
+
+msgid "Azerty Classic"
+msgstr "AZERTY Klasik"
+
+msgid "Azerty WASD"
+msgstr "AZERTY WASD"
+
+msgid "Dvorak Classic"
+msgstr "DVORAK Klasik"
+
+msgid "Dvorak WASD"
+msgstr "DVORAK WASD"
+
+msgid "Xbox"
+msgstr "Xbox"
+
+msgid "DualShock 4"
+msgstr "DualShock 4"
+
+msgid "DualShock 4 (JP)"
+msgstr "DualShock 4 (JP)"
+
+msgid "Switch Pro"
+msgstr "Switch Pro"
+
+msgid "Generic"
+msgstr "Genel"
+
+msgid "Custom"
+msgstr "Özel"
+
+msgid "Press a key to assign to {0}..."
+msgstr "{0} Atamak için bir tuşa bas..."
+
+msgid "Press a button to assign to {0}..."
+msgstr "{0} Atamak için bir düğmeye bas..."
+
+msgid "Auto Switch"
+msgstr "Otomatik Geçiş"
+
+msgid "Controller Deadzone"
+msgstr "Kontrolcü Ölü Bölgesi"
+
+msgid "Advanced Settings"
+msgstr "Gelişmiş Ayarlar"
+
+msgid "Revert Settings to Default"
+msgstr "Ayarları Varsayılana Sıfırla"
+
+msgid "Not recommended"
+msgstr "Tavsiye edilmiyor"
+
+msgid "Restart required"
+msgstr "Yeniden başlatma gerekli"
+
+msgid "Current: {0}"
+msgstr "Şimdi: {0}"
+
+msgid "Hold to Fast Forward"
+msgstr "İleriye Sarmak İçin Basılı Tut"
+
+msgid "Show Skip Option"
+msgstr "Atlama Seçeneğini Göster"
+
+msgid "Language Settings"
+msgstr "Dil Ayarları"
+
+msgid "Select Language"
+msgstr "Dil Seç"
+
+msgid "Unofficial Translations"
+msgstr "Resmi Olmayan Çeviriler"
+
+msgid "More..."
+msgstr "Dahası..."
+
+msgid ""
+"Attention!\n"
+"\n"
+"You're about to view unofficial translations. These translations are\n"
+"not developed by Leef 6010 and we take no responsibility for their accuracy.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"Uyarı!\n"
+"\n"
+"Resmi olmayan çevirileri görüntülemek üzeresin. Bu çeviriler\n"
+"Leef 6010 tarafından geliştirilmedi ve doğruluğu hakkında hiçbir sorumluluk almıyoruz\n"
+"\n"
+"İlerleyecek misin?"
+
+msgid "Objectives Updated!"
+msgstr "Görevler Güncellendi!"
+
+msgid "(Done)"
+msgstr "(Tamam)"
+
+msgid "{0} Give Up {1} Reset"
+msgstr "{0} Pes Et  {1} Sıfırla"
+
+msgid "{0} Slow"
+msgstr "{0} Yavaş"
+
+msgid "{0} Next"
+msgstr "{0} Sonraki"
+
+msgid "{0} Okay"
+msgstr "{0} Tamam"
+
+msgid "Obtained {0} {1}"
+msgstr "Elde edilen {0} {1}"
+
+msgid "Designed By"
+msgstr "Tarafından Dizayn Edildi"
+
+msgid "Art"
+msgstr "Sanat"
+
+msgid "Programming"
+msgstr "Programlama"
+
+msgid "Playtesting"
+msgstr "Playtesting"
+
+msgid "Fonts"
+msgstr "Fontlar"
+
+msgid "UI Design"
+msgstr "Arayüz Tasarımı"
+
+msgid "Additional UI Design"
+msgstr "Ek Arayüz Tasarımı"
+
+msgid "Paper Lily Logo"
+msgstr "Paper Lily Logo"
+
+msgid "Paper Lily OST"
+msgstr "Paper Lily Müzikleri"
+
+msgid "Music"
+msgstr "Müzik"
+
+msgid "Additional Music"
+msgstr "Ek Müzikler"
+
+msgid "SFX"
+msgstr "Ses Efektleri"
+
+msgid "Additional Shaders & Special Effects"
+msgstr "Ek Shaderlar & Özel Efektler"
+
+msgid "Japanese Communications"
+msgstr "Japon İletişimi"
+
+msgid "Korean Communications"
+msgstr "Kore İletişimi"
+
+msgid "Additional Assets"
+msgstr "Ek Assetler"
+
+msgid "Special Thanks"
+msgstr "Özel Teşekkürler"
+
+msgid "Created By"
+msgstr "Tarafından Yapıldı"
+
+msgid "Made Using"
+msgstr "Kullanılarak Yapıldı"
+
+msgid "Godot Engine"
+msgstr "Godot Engine"
+
+msgid "Thank You for Playing!"
+msgstr "Oynadığın için Teşekkür Ederim!"
+
+msgid "You Died"
+msgstr "Öldün"
+
+msgid "Retry"
+msgstr "Yeniden Dene"
+
+msgid "Give Up"
+msgstr "Pes Et"

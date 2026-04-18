@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Maybe I'll explore somewhere else first."
+msgstr "先に他のところを回ろうかな。"
+
+msgid "There we go."
+msgstr "この通り。"
+
+msgctxt "events.Prologue_Classroom_2.item_candles_on_desks_bottom.dlg.narrator"
+msgid "Candles are already set here."
+msgstr "ここにはもうロウソクは並べてある。"
+
+msgctxt "events.Prologue_Classroom_2.item_candles_on_desks_bottom.dlg.narrator"
+msgid "It's not time for that yet."
+msgstr "まだその時間じゃない。"
+
+msgctxt "events.Prologue_Classroom_2.item_candles_on_desks_top.dlg.narrator"
+msgid "Candles are already set here."
+msgstr "ここにはもうロウソクは並べてある。"
+
+msgctxt "events.Prologue_Classroom_2.item_candles_on_desks_top.dlg.narrator"
+msgid "It's not time for that yet."
+msgstr "まだその時間じゃない。"
+
+msgid "The path is already drawn."
+msgstr "道は既に描いてある。"
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "まだダメ。先に必要なものを揃えておきたい。"
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "まだダメ。先に教室の準備をしておきたい。"
+
+msgid "Some broken chalk."
+msgstr "折れたチョーク。"
+
+msgctxt "events.Prologue_Classroom_2.item_chalk_get.choice"
+msgid "Take it?"
+msgstr "取る？"
+
+msgctxt "events.Prologue_Classroom_2.item_chalk_get.choice.Take it?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Classroom_2.item_chalk_get.choice.Take it?"
+msgid "No"
+msgstr "取らない"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "これ以上問題を起こすのは控えたい。"
+
+msgid "This should do the trick."
+msgstr "これでうまくいくはず。"
+
+msgid "Perfect!"
+msgstr "カンペキ！"
+
+msgid "Totally. Nobody will even notice."
+msgstr "バッチリね。きっと誰も気づかないわ。"
+
+msgid "Let's do this."
+msgstr "さて、やりますか。"
+
+msgid "Not yet."
+msgstr "まだダメね。"
+
+msgctxt "events.Prologue_Classroom_2.item_lighter_on_candles_bottom.dlg.narrator"
+msgid "The candles are already lit."
+msgstr "ロウソクにはもう火を灯してある。"
+
+msgctxt "events.Prologue_Classroom_2.item_lighter_on_candles_bottom.dlg.narrator"
+msgid "Burning the school down is not part of the ritual."
+msgstr "儀式の手順には学校への放火は含まれていない。"
+
+msgctxt "events.Prologue_Classroom_2.item_lighter_on_candles_top.dlg.narrator"
+msgid "The candles are already lit."
+msgstr "ロウソクにはもう火を灯してある。"
+
+msgctxt "events.Prologue_Classroom_2.item_lighter_on_candles_top.dlg.narrator"
+msgid "Burning the school down is not part of the ritual."
+msgstr "儀式の手順には学校への放火は含まれていない。"
+
+msgid "It's already done."
+msgstr "もう揃えてある。"
+
+msgid "This isn't the time for that."
+msgstr "今はそんなことをしている場合ではない。"
+
+msgid "A geography textbook."
+msgstr "幾何学の教科書。"
+
+msgid "Some textbooks you don't care about."
+msgstr "どうでもいい教科書が数冊。"
+
+msgid "A clean chalkboard."
+msgstr "きれいな黒板。"
+
+msgctxt "events.Prologue_Classroom_2.misc_desk_bottom.dlg.narrator"
+msgid "A wooden desk."
+msgstr "木の机。"
+
+msgctxt "events.Prologue_Classroom_2.misc_desk_bottom.dlg.narrator"
+msgid "The candle burns warmly."
+msgstr "ロウソクが温かく燃えている。"
+
+msgctxt "events.Prologue_Classroom_2.misc_desk_bottom.dlg.narrator"
+msgid "The candle is unlit."
+msgstr "ロウソクに火はついていない。"
+
+msgctxt "events.Prologue_Classroom_2.misc_desk_top.dlg.narrator"
+msgid "A wooden desk."
+msgstr "木の机。"
+
+msgctxt "events.Prologue_Classroom_2.misc_desk_top.dlg.narrator"
+msgid "The candle burns warmly."
+msgstr "ロウソクが温かく燃えている。"
+
+msgctxt "events.Prologue_Classroom_2.misc_desk_top.dlg.narrator"
+msgid "The candle is unlit."
+msgstr "ロウソクに火はついていない。"
+
+msgid "A model of Earth. It's fun to spin it."
+msgstr "地球儀。回すと楽しい。"
+
+msgid "A paper slip with a list of regulations."
+msgstr "校則が書かれた紙。"
+
+msgid "No one reads these, why do they bother?"
+msgstr "誰も読まないのに、なんでわざわざ貼ってあるんだろ？"
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "出欠表とスケジュール表。"
+
+msgid "A happy green plant."
+msgstr "楽しげな観葉植物。"
+
+msgid "The plant is no longer happy."
+msgstr "観葉植物。もう楽しげじゃない。"
+
+msgid "The teacher's podium."
+msgstr "教壇。"
+
+msgid "There's a useless history book as well."
+msgstr "使えない歴史の教科書もある。"
+
+msgid "Some boring textbooks."
+msgstr "退屈な教科書が数冊。"
+
+msgid "Some very thick, school-related books."
+msgstr "分厚い学校関連の本が数冊。"
+
+msgid "Some books and... chalk."
+msgstr "本が数冊と……チョーク。"
+
+msgctxt "events.Prologue_Classroom_2.misc_shelf2b.choice"
+msgid "Take it?"
+msgstr "取る？"
+
+msgctxt "events.Prologue_Classroom_2.misc_shelf2b.choice.Take it?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Prologue_Classroom_2.misc_shelf2b.choice.Take it?"
+msgid "No"
+msgstr "取らない"
+
+msgid "There's nothing else of use."
+msgstr "他に使えるものはない。"
+
+msgid "A trash can. You feel uninclined to dig through it."
+msgstr "ゴミ箱。掘り返す気はしない。"
+
+msgctxt "events.Prologue_Classroom_2.misc_window1.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "カーテンは閉めたままにしておかないといけない。"
+
+msgid "Uh-oh. The curtains here are missing."
+msgstr "あれ、ここのカーテンがない。"
+
+msgid "According to the ritual instructions, I need to black out all the rooms..."
+msgstr "儀式の手順では、全部の部屋を真っ暗にしなきゃいけないんだけど……"
+
+msgid "But where will I find new curtains...?"
+msgstr "でも、カーテンなんてどこにあるだろ……？"
+
+msgid "Maybe the theater club has some curtains I can borrow?"
+msgstr "演劇部なら拝借できるカーテンがあるかも？"
+
+msgid "Yeah, it does."
+msgstr "ええ、あるわ。"
+
+msgid "I hope these curtains will work."
+msgstr "このカーテンが合うといいけど。"
+
+msgid "I replaced the missing curtains. No need to mess with it anymore."
+msgstr "なくなってたカーテンの代わりをつけた。これ以上手を加える必要はない。"
+
+msgid "I need to block the light from this window."
+msgstr "この窓を塞がなきゃいけない。"
+
+msgctxt "events.Prologue_Classroom_2.misc_window3.dlg.narrator"
+msgid "The curtains should stay closed."
+msgstr "カーテンは閉めたままにしておかないといけない。"
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "今この教室の机を揃える？"
+
+msgctxt "events.Prologue_Classroom_2.move_enter.choice.Should I sort the desks in this classroom now?"
+msgid "Yes"
+msgstr "揃える"
+
+msgid "Not yet"
+msgstr "まだやめておく"
+
+msgid "Let's get started."
+msgstr "さ、始めましょ。"

@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Huh... A bathroom?)"
+msgstr "(Hm... Łazienka?)"
+
+msgid "Um... excuse me."
+msgstr "Em... przepraszam."
+
+msgid "Could you wait outside?"
+msgstr "Możesz poczekać na zewnątrz?"
+
+msgid "Wha-? Oh. Of course."
+msgstr "Co? Ach. Oczywiście."
+
+msgid "I- ...I guess I'll stay out there."
+msgstr "Ja... będę czekał na korytarzu."
+
+msgid "Scream if you need me."
+msgstr "Jeśli będziesz mnie potrzebowała, krzyknij."
+
+msgid "...I won't."
+msgstr "...Nie będę."
+
+msgid "(Now I get to have some time away from that guy.)"
+msgstr "(Teraz mam trochę czasu z dala od tego chłopaka.)"
+
+msgid "(Is it really safe to have him around?)"
+msgstr "(Czy naprawdę bezpiecznie jest przebywać z nim w pobliżu?)"
+
+msgid "(A bathroom?)"
+msgstr "(Łazienka?)"
+
+msgid "(I hope that guy won't find me here.)"
+msgstr "(Mam nadzieję, że tamten chłopak mnie tu nie znajdzie.)"
+
+msgid "(I don't really trust him... Hopefully he's not searching for me...)"
+msgstr "(Nie ufam mu... Naprawdę mam nadzieję, że mnie nie szuka...)"
+
+msgid "(Hiro would tell me to have a bit of faith in others, but...)"
+msgstr "(Hiro powiedziałby mi, żebym miała trochę zaufania do innych, ale...)"
+
+msgid "..."
+msgstr "..."
+
+msgid "(I wonder if I could ask Hiro.)"
+msgstr "(Ciekawe, czy mogłabym się spytać Hiro.)"
+
+msgid "(Is it even possible to call from here?)"
+msgstr "(Czy w ogóle można stąd zadzwonić?)"
+
+msgid "(I still have no signal... but... that didn't matter last time.)"
+msgstr "(Nadal nie mam zasięgu... ale... ostatnim razem nie miało to znaczenia.)"
+
+msgid "Oh... I'm out of battery."
+msgstr "Och... bateria mi się wyczerpała."
+
+msgid "That's not good... I suppose using it as a flashlight killed it."
+msgstr "Niedobrze... wykorzystanie latarki w telefonie musiało ją całą zjeść."
+
+msgid "...Oh well."
+msgstr "...No cóż."
+
+msgid "I'll give it a try."
+msgstr "Spróbować nie zaszkodzi."
+
+msgid "Lace!"
+msgstr "Lace!"
+
+msgid "Oh good..."
+msgstr "Och, dobrze..."
+
+msgid "Thank goodness I can reach you, Hiro..."
+msgstr "Dzięki bogu, że mogłam się z tobą skontaktować, Hiro..."
+
+msgid "Are you alright!?"
+msgstr "Nic ci nie jest!?"
+
+msgid "What happened!?"
+msgstr "Co się stało!?"
+
+msgid "Are you safe!?"
+msgstr "Jesteś bezpieczna!?"
+
+msgid "Yes, I'm okay."
+msgstr "Tak, nic mi nie jest."
+
+msgid "(Though I did fall down the stairs and wake up in some sort of dungeon...)"
+msgstr "(Chociaż spadłam ze schodów i obudziłam się w jakimś lochu...)"
+
+msgid "(and there's a strange guy following me everywhere...)"
+msgstr "(i wszędzie łazi za mną jakiś dziwny chłopak...)"
+
+msgid "(...and there was a strange guy following me everywhere...)"
+msgstr "(...i wszędzie łazi za mną jakiś dziwny chłopak...)"
+
+msgid "(...and Rune said there's no way out.)"
+msgstr "(...i Rune powiedział, że nie ma jak stąd wyjść.)"
+
+msgid "Everything is okay, don't worry."
+msgstr "Nie martw się, wszystko jest w porządku."
+
+msgid "Thank god."
+msgstr "Dzięki bogu."
+
+msgid "Is everything alright? Why are you whispering?"
+msgstr "Czy wszystko w porządku? Dlaczego szepczesz?"
+
+msgid "Because there's someone right outside, and..."
+msgstr "Ponieważ ktoś jest w pobliżu i..."
+
+msgid "Because someone might be looking for me."
+msgstr "Bo ktoś może mnie szukać."
+
+msgid "An enemy!?"
+msgstr "Wróg!?"
+
+msgid "No, well... he says he's not."
+msgstr "Nie, no... mówi, że nie."
+
+msgid "And now he's following me around."
+msgstr "I teraz chodzi za mną krok w krok."
+
+msgid "You made a friend!?"
+msgstr "Poznałaś przyjaciela!?"
+
+msgid "No."
+msgstr "Nie."
+
+msgid "I don't really trust him."
+msgstr "Ani trochę mu nie ufam."
+
+msgid "But maybe it's better to have company! He might be willing to tag along and help!"
+msgstr "Ale może lepiej mieć towarzystwo! Może będzie chciał się przyłączyć i pomóc!"
+
+msgid "But... that's why it's strange."
+msgstr "Ale... właśnie dlatego mnie to dziwi."
+
+msgid "Why is he willing to tag along?"
+msgstr "Dlaczego chce mi towarzyszyć?"
+
+msgid "...You know how people act around me, Hiro..."
+msgstr "...Wiesz, jak ludzie zachowują się wokół mnie, Hiro..."
+
+msgid "And he's just acting...like nothing is wrong with me."
+msgstr "A on zachowuje się... zupełnie tak, jakby nic ze mną nie było."
+
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+msgid "You sound conflicted."
+msgstr "Brzmisz na zakłopotaną."
+
+msgid "Well... I don't really care, I just..."
+msgstr "Cóż... w sumie wszystko mi jedno, po prostu..."
+
+msgid "He's just shady."
+msgstr "On jest po prostu podejrzany."
+
+msgid "Well, tell you what. It's your choice."
+msgstr "Wiesz, coś ci powiem. To już twoja decyzja."
+
+msgid "You can have him tag along and see how it plays out..."
+msgstr "Możesz mu pozwolić ci towarzyszyć i zobaczyć, jak to będzie..."
+
+msgid "...or you can ditch him."
+msgstr "...albo możesz go porzucić."
+
+msgid "No, well... he said he's not."
+msgstr "Nie, cóż... powiedział, że nie jest."
+
+msgid "But... it doesn't matter. I already got rid of him."
+msgstr "Ale... to nie ma teraz znaczenia. Już się go pozbyłam."
+
+msgid "Well, I can't condone murder but..."
+msgstr "Cóż, jestem przeciwny morderstwu, ale..."
+
+msgid "No! Not like that! Hiro!"
+msgstr "Nie! Nie w tym sensie! Hiro!"
+
+msgid "He's still somewhere around... I just slipped away for a bit."
+msgstr "Nadal jest gdzieś w pobliżu... tylko się na chwilę wymknęłam."
+
+msgid "Well, tell you what."
+msgstr "Coś ci powiem."
+
+msgid "Next time he finds you, you could try locking him up somewhere."
+msgstr "Następnym razem, gdy cię znajdzie, możesz spróbować go gdzieś zamknąć."
+
+msgid "Huh... it's not like you to suggest something like that."
+msgstr "Hej... to do ciebie niepodobne, sugerować coś takiego."
+
+msgid "Well, I personally think you should have a bit of faith in him! But it's up to you."
+msgstr "Ja uważam, że powinnaś mieć do niego trochę zaufania! Ale to zależy od ciebie."
+
+msgid "Well, I personally think you could go back and apologize."
+msgstr "Cóż, osobiście uważam, że powinnaś wrócić i go przeprosić."
+
+msgid "Nothing wrong with making a friend, right? Still, it's up to you."
+msgstr "Nie ma nic złego w nawiązywaniu przyjaźni, prawda? No ale cóż, to już twój wybór."
+
+msgid "(Yeah... that's more like it.)"
+msgstr "(Tak... to mi się już bardziej podoba.)"
+
+msgid "I should go."
+msgstr "Powinnam już iść."
+
+msgid "Be careful, Lace."
+msgstr "Uważaj na siebie, Lace."
+
+msgid "Get back home safely."
+msgstr "Wróć bezpiecznie do domu."
+
+msgid "Yeah."
+msgstr "Ta."
+
+msgid "I can't believe I'm entertaining this idea."
+msgstr "Nie mogę uwierzyć, że dałam się na to nakłonić."
+
+msgid "This is the stupidest thing I've ever done."
+msgstr "To najgłupsza rzecz, jaką w życiu zrobiłam."
+
+msgid "Just a few more trips!"
+msgstr "Jeszcze tylko kilka rundek!"
+
+msgid "This'll work, you'll see."
+msgstr "To się uda, zobaczysz."
+
+msgid "There's no way."
+msgstr "Nie ma szans."
+
+msgid "At least this is a good workout."
+msgstr "Przynajmniej to niezły sposób na wyrobienie kondycji."
+
+msgid "(I'm not fit enough for this...)"
+msgstr "(Brakuje mi do tego siły...)"
+
+msgid "Sigh... What makes you think the drain isn't connected to the water we're removing..."
+msgstr "Ech... Dlaczego uważasz, że ten odpływ nie jest podłączony do wody, której próbujemy się pozbyć..."
+
+msgid "Hm... I don't know."
+msgstr "Hmm... właściwie sam nie wiem."
+
+msgid "Well, too late to consider that now."
+msgstr "Cóż, teraz już jest za późno na przemyślenia."
+
+msgid "(What possessed me to agree to this?)"
+msgstr "(Co we mnie wstąpiło, że się na to zgodziłam?)"
+
+msgid "We're really bonding over this, don't you think?"
+msgstr "Chyba naprawdę nawiązujemy w ten sposób więź, nie sądzisz?"
+
+msgid "....."
+msgstr "....."
+
+msgid "One Eternity Later..."
+msgstr "Całą wieczność później..."
+
+msgid "You actually did it."
+msgstr "To na serio ci się udało."
+
+msgid "Congratulations!"
+msgstr "Gratuluję!"
+
+msgid "This is nothing. Just wait until you hear my other ideas."
+msgstr "To jeszcze nic. Poczekaj tylko, aż usłyszysz moje inne pomysły."
+
+msgid "I very much look forward to it!"
+msgstr "Doprawdy nie mogę się tego doczekać!"
+
+msgid "Will she be okay?"
+msgstr "Czy wszystko z nią będzie w porządku?"
+
+msgid "She'll be fine."
+msgstr "Nic jej nie będzie."
+
+msgid "See? She's still breathing."
+msgstr "Widzisz? Nadal oddycha."
+
+msgid "Um... will you be okay?"
+msgstr "Em... czy na pewno nic ci nie będzie?"
+
+msgid "Nice! You're sturdy, aren't you?"
+msgstr "Nieźle! Silna jesteś, co?"
+
+msgid "You ready to go?"
+msgstr "Gotowa do drogi?"
+
+msgid "A mop. It looks like it's never been used."
+msgstr "Mop. Wygląda, jakby nigdy nie był używany."
+
+msgid "Everything here has been gathering dust for a really long time."
+msgstr "Wszystko zbierało tu kurz przez bardzo długi czas."
+
+msgid "There's something on this shelf."
+msgstr "Na tej półce coś jest."
+
+msgid "There's nothing else of use."
+msgstr "Nie ma tu już nic ciekawego."
+
+msgid "A rusted sink."
+msgstr "Przerdzewiały zlew."
+
+msgid "A bathroom stall. It's occupied."
+msgstr "Kabina w łazience. Jest zajęta."
+
+msgid "Try to open it anyways?"
+msgstr "Mimo to spróbować ją otworzyć?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Something shiny can be seen at the bottom of the toilet bowl."
+msgstr "Na dnie muszli klozetowej widać coś błyszczącego."
+
+msgid "Fish it out?"
+msgstr "Wyłowić to?"
+
+msgid "A small hand towel."
+msgstr "Mały ręcznik do rąk."
+
+msgid "That took a million years."
+msgstr "Zajęło to z milion lat."
+
+msgid "Were you talking to someone in there?"
+msgstr "Rozmawiałaś tam z kimś?"
+
+msgid "(Did he overhear anything...?)"
+msgstr "(Czy on coś podsłuchał...?)"
+
+msgid "It kinda sounded like it."
+msgstr "Trochę tak to brzmiało."
+
+msgid "I wasn't."
+msgstr "Wcale nie."
+
+msgid "Oh."
+msgstr "Och."
+
+msgid "It's cool, I talk to myself sometimes too."
+msgstr "Spoko, ja też czasem gadam do siebie."
+
+msgid "Like having a little narrator, right?"
+msgstr "To tak, jakby się miało małego narratora, nie?"
+
+msgid "Find anything cool?"
+msgstr "Znalazłaś coś ciekawego?"
+
+msgid "Nope."
+msgstr "Nie."
+
+msgid "...Where did you get that?"
+msgstr "...Skąd to masz?"
+
+msgid "The lollipop? I had 'em with me."
+msgstr "Lizak? Miałem je przy sobie."
+
+msgid "Want some?"
+msgstr "Chcesz jednego?"
+
+msgid "I don't accept candy from strangers."
+msgstr "Nie biorę słodyczy od obcych."
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai dołączył do twojej drużyny.)"

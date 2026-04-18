@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "We could use it to get out of this room."
+msgstr "Завдяки цьому можна вийти з кімнати."
+
+msgid "I could use this to get out of this room."
+msgstr "Завдяки цьому можна вийти з кімнати."
+
+msgid "Place plank outside?"
+msgstr "Поставити дошку з іншого боку?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "It's done."
+msgstr "Готово."
+
+msgid "The vent cover."
+msgstr "Кришка вентиляції."
+
+msgid "It's not large enough to cross the hole outside."
+msgstr "Вона замала, щоб з її допомогою перейти прірву."
+
+msgid "Sketches of maps are displayed on the wall."
+msgstr "По стіні розвішані нариси мап."
+
+msgid "Sketches of maps are laying on the ground."
+msgstr "На підлозі лежать нариси мап."
+
+msgid "There's a large plank on the floor."
+msgstr "На підлозі лежить велика дошка."
+
+msgid "A large screen composed of smaller screens."
+msgstr "Великий екран, що складається з менших екранів."
+
+msgid "The screens seem to display the feed from security cameras somewhere."
+msgstr "Екрани транслюють записи з якихось камер відеоспостереження."
+
+msgid "Looks like... hallways? With lots of doors."
+msgstr "Це що... коридор? З купою дверей?"
+
+msgid "Who comes up with this shit?"
+msgstr "Хто це лайно вигадує?"
+
+msgid "There's blood too..."
+msgstr "Там видно кров..."
+
+msgid "Are those... sticky notes taped to the cameras?"
+msgstr "Це що, наліпка, приліплена до камери?"
+
+msgid "Someone didn't want to be spied on."
+msgstr "Хтось не бажає бути в центрі уваги."
+
+msgid "Understandable."
+msgstr "Можна зрозуміти."
+
+msgid "Scrolls containing technical drawings of different locations."
+msgstr "Згорток з технічними кресленнями якихось приміщень."
+
+msgid "What's that?"
+msgstr "Що це таке?"
+
+msgid "I don't know."
+msgstr "Я не знаю."
+
+msgid "It looks like it's just hallways."
+msgstr "Виглядає на звичайні коридори."
+
+msgid "But it's laid out like a labyrinth, and some rooms overlap each other."
+msgstr "Але вони схожі на лабіринти, а деякі кімнати накладаються одна на іншу."
+
+msgid "This map doesn't make any sense."
+msgstr "Ця мапа - одна суцільна нісенітниця."
+
+msgid "A trashcan. It's full of neatly crumpled papers."
+msgstr "Відро для сміття. У ньому купа охайно зім'ятих папірців."
+
+msgid "..."
+msgstr "..."
+
+msgid "I see."
+msgstr "Все зрозуміло."
+
+msgid "It's too far to jump."
+msgstr "Задалеко, щоб перестрибнути."
+
+msgid "It's too high to reach."
+msgstr "Зависоко, щоб залізти."

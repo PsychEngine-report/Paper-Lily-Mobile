@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "...This door doesn't seem to open."
+msgstr "...Esta porta não parece abrir."
+
+msgid "So I AM trapped here after all, just not in that tiny cell."
+msgstr "Afinal, estou presa aqui, mas não naquela cela minúscula."
+
+msgid "I suppose that's less bad..."
+msgstr "Suponho que isso seja menos ruim..."
+
+msgid "Alright, vent it is."
+msgstr "Tudo bem, desabafe."
+
+msgid "Let's hope there's another way out."
+msgstr "Esperemos que haja outra saída."
+
+msgid "The door won't open."
+msgstr "A porta não abre."
+
+msgid "Looks like human bones."
+msgstr "Parecem ossos humanos."
+
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open. Something seems to be holding it from the other side."
+msgstr "Não abre. Algo parece estar segurando isso do outro lado."
+
+msgid "\"Subject 66. Age: 38. Sex: Female. Status: Incapacitated. Extraction scheduled. Priority: Medium.\""
+msgstr "\"Sujeito 66. Idade: 38. Sexo: Feminino. Situação: Incapacitado. Extração agendada. Prioridade: Média.\""
+
+msgid "That's not me. Someone else must've been kept in here."
+msgstr "Esta não sou eu. Alguém mais deve ter sido mantida aqui."
+
+msgid "It was just... open?"
+msgstr "Estava apenas... aberto?"
+
+msgid "\"Subject 41. Age: 53. Sex: Male. Status: Incapacitated. Extraction scheduled. Priority: Low.\""
+msgstr "\"Sujeito 41. Idade: 53. Sexo: Masculino. Situação: Incapacitado. Extração agendada. Prioridade: Baixa.\""
+
+msgid "\"Subject 37. Age: 13. Sex: Male. Status: Incapacitated. Extraction on hold. Awaiting further results. Follow-up tests scheduled. Priority: High.\""
+msgstr "\"Sujeito 37. Idade: 13. Sexo: Masculino. Situação: Incapacitado. Extração em espera. Aguardando novos resultados. Exames de acompanhamento agendados. Prioridade: Alta.\""
+
+msgid "It doesn't open anymore. Something seems to be holding it from the other side."
+msgstr "Não abre mais. Algo parece estar segurando isso do outro lado."
+
+msgid "These are my things... most of it anyway."
+msgstr "Estas são minhas coisas... a maior parte, de qualquer maneira."
+
+msgid "I hadn't even noticed I had lost them."
+msgstr "Eu nem tinha percebido que os havia perdido."
+
+msgid "Why are they here...?"
+msgstr "Porque eles estão aqui...?"
+
+msgid "(You got your items back.)"
+msgstr "(Você recuperou seus itens.)"
+
+msgid "There's nothing else on the desk."
+msgstr "Não há mais nada sobre a mesa."
+
+msgid "The drawers are empty."
+msgstr "As gavetas estão vazias."
+
+msgid "A huge hole."
+msgstr "Um buraco enorme."
+
+msgid "I hope the floor is stable..."
+msgstr "Espero que o chão esteja estável..."
+
+msgid "This vent is suspicious."
+msgstr "Este respiradouro é suspeito."
+
+msgid "Maybe I could escape through here?"
+msgstr "Talvez eu pudesse escapar por aqui?"
+
+msgid "It's almost like it's inviting me in."
+msgstr "É quase como se estivesse me convidando para entrar."
+
+msgid "It's too high to reach."
+msgstr "É muito alto para alcançar."
+
+msgid "Wait, there's something on the desk."
+msgstr "Espere, há algo em cima da mesa."
+
+msgid "Climb the box and remove the vent cover?"
+msgstr "Subir na caixa e remover a tampa da ventilação?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Crawl into the vents?"
+msgstr "Rastejar pelas aberturas de ventilação?"
+
+msgid "No... at that point, it would just be silly."
+msgstr "Não... nesse ponto, seria simplesmente bobagem."
+
+msgid "That guy is waiting for me outside..."
+msgstr "Aquele cara está me esperando lá fora..."
+
+msgid "If I go through here right now, it would take him a while to realize I left."
+msgstr "Se eu passar por aqui agora, ele demorará um pouco para perceber que saí."
+
+msgid "I could get rid of him that way, I think."
+msgstr "Eu poderia me livrar dele dessa maneira, eu acho."
+
+msgid "Go through the vent and leave Sai behind?"
+msgstr "Passar pela ventilação e deixar Sai para trás?"
+
+msgid "No... that would probably be pretty rude."
+msgstr "Não... isso provavelmente seria muito rude."
+
+msgid "Having fun?"
+msgstr "Se divertindo?"
+
+msgid "...Yep, plenty."
+msgstr "...Sim, bastante."
+
+msgid "Let's go then?"
+msgstr "Vamos então?"
+
+msgid "Safe!"
+msgstr "Seguro!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai se juntou ao seu grupo.)"

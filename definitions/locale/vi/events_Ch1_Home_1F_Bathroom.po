@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Assorted bathroom supplies."
+msgstr "Đủ loại vật dụng nhà vệ sinh."
+
+msgid "Various toiletries are stored here."
+msgstr "Ở đây cất các loại đồ tẩy rửa và chải chuốt."
+
+msgid "Your reflection stares back at you."
+msgstr "Cái hình phản chiếu nhìn chằm chằm lại bạn."
+
+msgid "Properly stocked toilet paper."
+msgstr "Giấy vệ sinh được lắp đặt đàng hoàng."
+
+msgid "Toilet paper."
+msgstr "Giấy vệ sinh."
+
+msgid "A trash can."
+msgstr "Cái sọt rác."
+
+msgid "Empty, as it should be."
+msgstr "Trống không, đương nhiên như thế."

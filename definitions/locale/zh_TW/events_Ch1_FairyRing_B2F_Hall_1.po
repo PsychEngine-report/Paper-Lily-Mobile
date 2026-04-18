@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm? What's that?"
+msgstr "嗯？那是什麼？"
+
+msgid "Oh that? It's a fairy head."
+msgstr "哦那個嗎？是一顆妖精的頭。"
+
+msgid "A... head? Is the rest of the fairy just buried?"
+msgstr "一顆...頭？妖精的其餘部分被埋住了嗎？"
+
+msgid "No, it's probably roaming around somewhere."
+msgstr "不，它可能在某處遊蕩。"
+
+msgid "But the heads are dangerous too, be careful."
+msgstr "可是頭也很危險，要小心。"
+
+msgid "There's another one..."
+msgstr "還有一個..."
+
+msgid "But... this one definitely has eyes, doesn't it?"
+msgstr "不過...這個一定有眼睛，不是嗎？"
+
+msgid "Maybe they're nostrils."
+msgstr "也許是鼻孔。"
+
+msgid "Wha- nostrils?"
+msgstr "什-鼻孔？"
+
+msgid "Could that be?"
+msgstr "可能是嗎？"
+
+msgid "They're eyes"
+msgstr "是眼睛"
+
+msgid "They're nostrils"
+msgstr "是鼻孔"
+
+msgid "(That's ridiculous.)"
+msgstr "(太離譜了。)"
+
+msgid "I suppose I hadn't thought of it that way..."
+msgstr "我之前沒有這麼想過..."
+
+msgid "(Anyways... how will we pass without it seeing us?)"
+msgstr "(總之...我們要怎麼在它看不到我們的情況下經過？)"
+
+msgid "Now there's a bunch of them..."
+msgstr "現在有一群了..."
+
+msgid "This is going to be a thing, isn't it."
+msgstr "這會繼續下去，不是嗎。"
+
+msgid "Wanna turn back?"
+msgstr "想要回頭嗎？"
+
+msgid "Wait, I can try to visualize a solution..."
+msgstr "等等，我可以試著想像出一個解決方法..."
+
+msgid "Visualize solution?"
+msgstr "想像解決方法嗎？"
+
+msgid "Yes, please"
+msgstr "是的，拜託"
+
+msgid "I don't need it"
+msgstr "我不需要"
+
+msgid "It's probably something like that."
+msgstr "應該差不多是這樣。"
+
+msgid "Wow! Amazing!"
+msgstr "哇！好厲害！"
+
+msgid "Okay..."
+msgstr "好吧..."
+
+msgid "A fairy head. It only has a mouth."
+msgstr "妖精頭。只有嘴巴。"
+
+msgid "It only has a mouth... is that why it can't see me even though I'm this close?"
+msgstr "只有嘴巴...這就是為什麼我這麼靠近它也看不到我嗎？"
+
+msgid "A fairy head. It only has nostrils."
+msgstr "妖精頭。只有鼻孔。"
+
+msgid "A fairy head. It only has eyes."
+msgstr "妖精頭。只有眼睛。"
+
+msgid "It seems like this one can only see to the sides..."
+msgstr "看來這個只能看到側面..."
+
+msgid "A small plant. It seems to block the fairy's view."
+msgstr "小型植物。看來它阻擋了妖精的視線。"
+
+msgid "This thing... does it block the head's view?"
+msgstr "這東西...它擋住了頭的視線嗎？"
+
+msgid "As long as these black plant things are there, it should be possible to go around."
+msgstr "只要有這些黑色植物，就有可能繞過去。"

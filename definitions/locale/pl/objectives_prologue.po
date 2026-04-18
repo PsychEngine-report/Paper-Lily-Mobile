@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Explore your surroundings"
+msgstr "Poznaj swoje otoczenie"
+
+msgid "I woke up in a strange garden. Where am I?"
+msgstr "Obudziłam się w dziwnym ogrodzie. Gdzie ja jestem?"
+
+msgid "Check your notes to refresh your memory"
+msgstr "Sprawdź swoje notatki, aby odświeżyć pamięć"
+
+msgid "I should go over my ritual notes to make sure I don't forget anything."
+msgstr "Powinnam przejrzeć moje notatki z rytuału, żeby się upewnić, że o niczym nie zapomniałam."
+
+msgid "Gather items for the ritual"
+msgstr "Zbierz przedmioty do rytuału"
+
+msgid "I should gather everything I'll need for the ritual first."
+msgstr "Powinnam najpierw zebrać wszystko, co będzie mi potrzebne do rytuału."
+
+msgid "Chalk"
+msgstr "Kreda"
+
+msgid "This is a school - surely I can find chalk here."
+msgstr "To jest szkoła - na pewno znajdę tu kredę."
+
+msgid "Candles"
+msgstr "Świece"
+
+msgid "I brought some from home."
+msgstr "Przyniosłam trochę z domu."
+
+msgid "A tuft of hair"
+msgstr "Kępka włosów"
+
+msgid "It has to be human hair."
+msgstr "To muszą być ludzkie włosy."
+
+msgid "A rune"
+msgstr "Runa"
+
+msgid "My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there."
+msgstr "Moja przyjaciółka powiedziała, że klub okultystyczny trzyma jakieś runy gdzieś w swoim pokoju. Potrzebuję jednej do mojego rytuału, więc powinnam jej tam poszukać."
+
+msgid "Find a way to open the box with the runes"
+msgstr "Znajdź sposób, aby otworzyć pudełko z runami"
+
+msgid "I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick."
+msgstr "Znalazłam pudełko z runami w klubie okultystycznym, ale jest zaklejone taśmą - cokolwiek spiczastego powinno załatwić sprawę."
+
+msgid "Sort the desks in all three classrooms"
+msgstr "Posortuj biurka we wszystkich trzech salach lekcyjnych"
+
+msgid "According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms."
+msgstr "Zgodnie z instrukcjami rytuału, muszę usunąć biurka z drogi we wszystkich trzech salach lekcyjnych."
+
+msgid "Shut the curtains in all three classrooms"
+msgstr "Zasuń zasłony we wszystkich trzech salach lekcyjnych"
+
+msgid "According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut."
+msgstr "Zgodnie z instrukcjami rytuału, muszę sprawić, by we wszystkich trzech klasach było jak najciemniej, więc zasłony powinny być zasunięte."
+
+msgid "Find a curtain to replace the missing one in Classroom 3-B"
+msgstr "Znajdź zasłonę, która zastąpi brakującą w sali 3-B."
+
+msgid "I can't shut all the curtains if one of them is missing. I need to find something to cover that window."
+msgstr "Nie mogę zasunąć wszystkich zasłon, jeśli brakuje jednej z nich. Muszę znaleźć coś, co zasłoni to okno."
+
+msgid "Find a way into the Theater Club room"
+msgstr "Znajdź sposób, by wejść do sali Klubu Teatralnego"
+
+msgid "I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in."
+msgstr "Jestem prawie pewna, że znajdę jakieś zasłony w Klubie Teatralnym, ale jest zamknięty. Muszę znaleźć sposób, żeby tam wejść."
+
+msgid "Retrieve the girl's notebook"
+msgstr "Odzyskaj notatnik dziewczyny."
+
+msgid "One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it."
+msgstr "Jedna z dziewczyn zapomniała swojego zeszytu w klasie 3-C. Jeśli go dostanie, może pożyczy mi swój klucz do pokoju Klubu Teatralnego. Powiedziała, żebym go nie przeglądała."
+
+msgid "Finalize ritual preparations"
+msgstr "Zakończ przygotowania do rytuału"
+
+msgid "Finally, I need to set candles, and draw a path with chalk in all 3 classrooms."
+msgstr "Na koniec muszę ustawić świece, oraz narysować kredą ścieżkę we wszystkich 3 salach lekcyjnych."
+
+msgid "Draw a path with chalk in all 3 classrooms"
+msgstr "Narysuj kredą ścieżkę we wszystkich 3 salach lekcyjnych"
+
+msgid "I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it."
+msgstr "Muszę narysować kredą na podłodze ścieżkę łącząca wszystkie 3 sale lekcyjne. Mój rysunek może pomoc mi to zwizualizować."
+
+msgid "Set and light candles in the middle room"
+msgstr "Ustaw i zapal świece w środkowym pokoju"
+
+msgid "I need to set and light the candles on top of all the desks in classroom 3-B."
+msgstr "Muszę ustawić i zapalić świeczki na każdej ławce w klasie 3-B."
+
+msgid "Burn the hair tuft on a candle"
+msgstr "Spal kępkę włosów na świeczce"
+
+msgid "Preparations are complete. Let's burn the hair tuft on a candle to start the ritual."
+msgstr "Przygotowania zostały zakończone. Zapalmy kępkę włosów na świecy, aby rozpocząć rytuał."
+
+msgid "Explore the strange place"
+msgstr "Zbadaj to dziwne miejsce"
+
+msgid "I arrived at a mysterious location, let's take a look around!"
+msgstr "Dotarłam do tajemniczego miejsca, rozejrzę się!"
+
+msgid "Escape this cursed place"
+msgstr "Ucieknij z tego przeklętego miejsca"
+
+msgid "This isn't fun anymore. I need to find a way back!"
+msgstr "To już nie jest zabawne. Muszę znaleźć sposób na powrót!"
+
+msgid "Go home"
+msgstr "Idź do domu."
+
+msgid "I'm going home. Maybe I'll finish the ritual some other time."
+msgstr "Idę do domu. Może dokończę rytuał innym razem."
+
+msgid "Test your theory"
+msgstr "Sprawdź swoją teorię"
+
+msgid "If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case... right?"
+msgstr "Jeśli naprawdę jestem uwięziona w pętli, to X będzie tam nadal, gdy pójdę w górę lub w dół. Ale to niemożliwe... prawda?"

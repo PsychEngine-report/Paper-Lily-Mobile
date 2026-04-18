@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "我不想把这些东西带走..."
+
+msgid "(Discarded ingredients)."
+msgstr "（丢弃了原料）。"
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "我还没有制作这个的原料..."
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "我还缺少“艺术家的灵感”..."
+
+msgid "Could it be Kett's flowers?"
+msgstr "是说科特的花吗？"
+
+msgid "What in the world is that?"
+msgstr "那到底是个啥？"
+
+msgid "(You don't know what to do with this...)"
+msgstr "（我不知道要拿这个做什么...）"
+
+msgid "You can't cut through that with scissors."
+msgstr "你用剪刀解不开这个。"
+
+msgid "Some books about cursed trees."
+msgstr "一些关于被诅咒的树木的书籍。"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice"
+msgid "Read a passage?"
+msgstr "要看一段吗？"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "“尽管被诅咒的树木通常个体较小，但它们有一个独特的习性，会将根系延伸至长达60米的距离。"
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "它们的根系能在地底延伸得更深。尚且未知它们要延伸多远才会停下。”"
+
+msgid "Four small blue butterflies on display."
+msgstr "四只小型的蓝色蝴蝶被展示在此处。"
+
+msgid "They're somewhat mesmerizing."
+msgstr "它们有些令人着迷。"
+
+msgid "A large blue butterfly on display."
+msgstr "一只大型的蓝色蝴蝶被展示在此处。"
+
+msgid "It's kind of mesmerizing..."
+msgstr "它有一点点令人着迷。"
+
+msgid "A small blue butterfly on display."
+msgstr "一只小型的蓝色蝴蝶被展示在此处。"
+
+msgid "It's not as mesmerizing."
+msgstr "它没有那么令人着迷。"
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "用于混合物质的简易化学装置。"
+
+msgid "Some bottles and other containers."
+msgstr "一些瓶子和其他容器。"
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "这本书写满了对于各种材料的广泛研究。"
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "抽屉里还有一个交流适配器。"
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "要取走${item:ch1.forest_adapter}吗？"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "No"
+msgstr "否"
+
+msgid "Some notes on curse removal rituals."
+msgstr "一些关于诅咒驱除仪式的笔记。"
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "要取走${item:ch1.red_notes}吗？"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "No"
+msgstr "否"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "（我能用这个做些什么吗...？）"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "一张空桌子，你从上面偷了一些笔记。"
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "红色人偶。两只眼睛都被上了色。"
+
+msgid "I know this."
+msgstr "我知道这个。"
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "这是那种能帮你实现愿望的人偶。"
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "当你许愿时，在一只眼睛点上颜色，然后人偶就会帮你实现愿望。"
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "反过来，一旦你达到目的，就要在另一只眼睛点上颜色..."
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "...简单来说就是把视力还给娃娃，以示感谢。"
+
+msgid "..."
+msgstr "..."
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "希罗读了很多像是这样的东西。"
+
+msgid "I wonder what this person's wish was."
+msgstr "我想知道这个人许了什么愿。"
+
+msgid "Some books about butterflies."
+msgstr "一些关于蝴蝶的书籍。"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice"
+msgid "Read a passage?"
+msgstr "要看一段吗？"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "No"
+msgstr "否"
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "“每解除一次诅咒，就会出现一只蓝色蝴蝶。"
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "它们会被被诅咒的树木所吸引，从而会钻进树干里，随着时间的推移，树干就会完全空心。"
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "这种行为的原因尚不明确。”"
+
+msgid "A furnace."
+msgstr "一个火炉。"
+
+msgid "Inside is a... thing."
+msgstr "里面有一个...东西。"
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "这是...某种艺术品吗？它看起来像是某种雕塑的残部。"
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "也许这个可以给科兹莫用，但是他可能会因为这个讨厌我。"
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "要拿走${item:ch1.red_pot}吗？"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "No"
+msgstr "否"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "一些未完成的关于移除诅咒的笔记。"
+
+msgid "I don't really understand any of this."
+msgstr "我一点也看不懂。"
+
+msgid "A small plant."
+msgstr "一株小植物。"
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "叶子看起来就像打了一个蝴蝶结。"
+
+msgid "A plant that looks like a bow."
+msgstr "一株看起来像蝴蝶结的植物。"
+
+msgid "Some purple mushrooms are growing here."
+msgstr "一些紫色的蘑菇生长在此处。"
+
+msgid "Some black mushrooms are growing here."
+msgstr "一些黑色的蘑菇生长在此处。"
+
+msgid "Some pink plants are growing here."
+msgstr "一些粉色的蘑菇生长在此处。"
+
+msgid "The carpet here seems suspicious."
+msgstr "这里的地毯看起来很可疑。"
+
+msgid "Take a closer look?"
+msgstr "凑近点看看？"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "No"
+msgstr "否"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "这里有一把梯子，但是入口被挂锁锁住了。"
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "园艺用品摆放在架子上。"
+
+msgid "A tree filled with blue butterflies."
+msgstr "一棵树上铺满了蓝色蝴蝶。"
+
+msgid "Thin vertical windows."
+msgstr "细长的竖向窗户。"

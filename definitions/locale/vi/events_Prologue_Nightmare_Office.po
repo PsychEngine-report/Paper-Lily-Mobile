@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's no keyhole on the door."
+msgstr "Cánh cửa này không có lỗ khóa."
+
+msgid "The bookshelf towers over your small figure."
+msgstr "Giá sách cao chót vót phủ thân hình nhỏ bé của bạn."
+
+msgid "The bookshelf has always felt too large for comfort."
+msgstr "Giá sách này thì luôn cảm thấy quá lớn không thư thái nổi."
+
+msgid "The bookshelf is filled with hard to read books."
+msgstr "Giá sách này thì chứa đầy sách mà đọc rất khó hiểu."
+
+msgid "The bookshelf has books with titles you can't even pronounce."
+msgstr "Giá sách này có dàn hàng sách với những nhan đề bạn còn chả biết đường phát âm."
+
+msgid "A pile of science books."
+msgstr "Đống sách khoa học."
+
+msgid "A pile of science books. Many pages are bookmarked."
+msgstr "Đống sách khoa học. Nhiều trang được đặt dấu trang."
+
+msgid "Books on out-of-body experiences."
+msgstr "Mấy cuốn sách bàn về trải nghiệm thoát xác."
+
+msgid "A pile of books. The top one is called \"Depictions of psychological trauma in research patients.\""
+msgstr "Đống sách. Cuốn trên cùng có nhan đề \"Miêu tả về sang chấn tâm lý của đối tượng nghiên cứu\"."
+
+msgid "A pile of anatomy textbooks."
+msgstr "Đống sách giáo khoa về giải phẫu học."
+
+msgid "What the hell."
+msgstr "Cái quái gì đấy."
+
+msgid "Was that...?"
+msgstr "Đó là...?"
+
+msgid "Was that...!?"
+msgstr "Đó là...!?"
+
+msgid "No. It wasn't."
+msgstr "Không, không phải."
+
+msgid "It's just an empty couch."
+msgstr "Chỉ là chiếc đi-văng không ai ngồi cả."
+
+msgid "A familiar desk."
+msgstr "Chiếc bàn nhớ là từng thấy."
+
+msgid "______val of souls from_____avel below the_____ot follow instructions____velope______."
+msgstr "_____ắt bỏ linh hồn khỏi_____i chuyển bên dướ_____ông tuân theo quy trình_____hong bì_____."
+
+msgid "It's too hazy to read."
+msgstr "Lờ mờ quá không đọc được."
+
+msgid "A story book and a photo of someone."
+msgstr "Tập truyện cổ tích với ảnh chụp ai đó."
+
+msgid "Some books on physiological changes in humans in specific environments."
+msgstr "Vài cuốn sách bàn về thay đổi sinh lý học của con người trong môi trường đặc định."
+
+msgid "There's also a notebook filled with rough scribbles and notes."
+msgstr "Có cả vở phủ đầy nét viết nguệch ngoạc cùng với ghi chú sơ sài."
+
+msgid "A painting of a vague memory."
+msgstr "Bức vẽ về cái ký ức mơ hồ."
+
+msgctxt "events.Prologue_Nightmare_Office.misc_painting_2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "A trashcan filled with blank pieces of paper."
+msgstr "Thùng rác đầy ắp những tờ giấy trắng không."
+
+msgid "...!"
+msgstr "...!"
+
+msgid "Just what is this place..."
+msgstr "Rốt cuộc nơi này là sao..."
+
+msgid "Not interested, huh?"
+msgstr "Không thấy hứng thú hử?"
+
+msgid "So? What do you think? I can see everything that's in your head."
+msgstr "Thấy sao? Cảm tưởng mày thế nào? Bên trong đầu mày tao nhìn thấu được hết đấy."
+
+msgctxt "events.Prologue_Nightmare_Office.move_next.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "You really should make an effort to be more lively."
+msgstr "Thật sự là mày nên cố gắng cư xử cho nó hoạt bát lên đi."
+
+msgid "You only have until I decide I'm done playing around with you, you know?"
+msgstr "Mày chỉ còn thời gian cho đến khi tao quyết định nghỉ chơi với mày đó biết chửa?"
+
+msgid "And then..."
+msgstr "Và rồi sau đó..."
+
+msgid "...snap."
+msgstr "...tạch."
+
+msgid "The door you came through won't open anymore."
+msgstr "Cánh cửa bạn bước qua giờ không mở được nữa."

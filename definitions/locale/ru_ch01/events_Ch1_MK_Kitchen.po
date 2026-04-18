@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_barrel.dlg.narrator"
+msgid "A storage compartment filled with various types of food."
+msgstr "Отсек для хранения различных видов продуктов."
+
+msgid "There's a key in there as well."
+msgstr "Там также лежит ключ."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_barrel_2.dlg.narrator"
+msgid "A storage compartment filled with various types of food."
+msgstr "Отсек для хранения различных видов продуктов."
+
+msgid "A large cauldron."
+msgstr "Огромный котёл."
+
+msgid "Is this where she cooks children?"
+msgstr "Она здесь готовит детей?"
+
+msgid "It wouldn't surprise me, after the day I've had."
+msgstr "После того, что со мной сегодня приключилось, я этому не удивлюсь."
+
+msgid "It looks like some sort of stew."
+msgstr "Выглядит как какое-то рагу."
+
+msgid "It's cold and it doesn't seem to have been looked after in a long time."
+msgstr "Оно холодное и, кажется, к нему давно никто не прикасался."
+
+msgid "There's a black thing sticking out from the stew."
+msgstr "С рагу выпирает что-то чёрное."
+
+msgid "Take it with you?"
+msgstr "Взять это с собой?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Take it with you?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Take it with you?"
+msgid "No"
+msgstr "Нет"
+
+msgid "...It seems to be part of something bigger."
+msgstr "...Оно является частью чего-то большего."
+
+msgid "You can't take all of it."
+msgstr "Вы не можете взять его полностью."
+
+msgid "There's nothing else of interest."
+msgstr "Здесь больше нет ничего интересного."
+
+msgid "Stir it up?"
+msgstr "Помешать его?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Stir it up?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_cauldron_ladder.choice.Stir it up?"
+msgid "No"
+msgstr "Нет"
+
+msgid "A kitchen counter."
+msgstr "Кухонный стол."
+
+msgid "A cutting board."
+msgstr "Разделочная доска."
+
+msgid "Nothing on the shelves above looks useful."
+msgstr "На верхней полке нет ничего полезного."
+
+msgid "A cookie jar."
+msgstr "Банка с печеньем."
+
+msgid "There's something inside that doesn't belong."
+msgstr "Внутри неё есть что-то лишнее."
+
+msgid "Take it?"
+msgstr "Взять это с собой?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Take it?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Take it?"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.dlg.lacie"
+msgid "Maybe I could feed this to the plant..."
+msgstr "А ими можно накормить растение..."
+
+msgid "Bring the cookies to the plant?"
+msgstr "Принести растению печенье?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Bring the cookies to the plant?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2.choice.Bring the cookies to the plant?"
+msgid "No"
+msgstr "Нет"
+
+msgid "The plant rejects the cookies..."
+msgstr "Растение отвергает печенье..."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2_sai_react.dlg.sai"
+msgid "Whoa neat! Can I have one?"
+msgstr "О, супер! Можно теперь мне?"
+
+msgid "There was an eyeball in there."
+msgstr "Там лежало глазное яблоко."
+
+msgid "Ah. So, no cookie?"
+msgstr "Вот как. Значит, печенья не будет?"
+
+msgid "There's an eyeball in there."
+msgstr "Там лежит глазное яблоко."
+
+msgid "Well, not the eyeball, I meant the cookie."
+msgstr "Ну так дай печенье, а не глаз."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf2_sai_react.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I don't think you should eat that."
+msgstr "Мне кажется, тебе их лучше не есть."
+
+msgid "Bummer."
+msgstr "Облом."
+
+msgid "A green frog."
+msgstr "Зелёная жаба."
+
+msgid "Is that a frog?"
+msgstr "Это жаба?"
+
+msgid "Is it alive?"
+msgstr "Она живая?"
+
+msgid "Yes."
+msgstr "Да."
+
+msgid "Maybe the knives lady will cook it."
+msgstr "Может, дамочка с ножами захочет её приготовить."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "An empty, frog-less spot on the shelf."
+msgstr "Пустое место на полке, где ранее восседала жаба."
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.dlg.lacie"
+msgid "Maybe I could feed this to the plant..."
+msgstr "А ими можно накормить растение..."
+
+msgid "Bring the frog to the plant?"
+msgstr "Принести растению жабу?"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.choice.Bring the frog to the plant?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_MK_Kitchen.misc_shelf3.choice.Bring the frog to the plant?"
+msgid "No"
+msgstr "Нет"
+
+msgid "\"Thank you.\""
+msgstr "\"Спасибо.\""

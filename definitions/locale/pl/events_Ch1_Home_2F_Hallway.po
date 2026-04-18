@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "Pokój Hiro."
+
+msgid "..."
+msgstr "…"
+
+msgid "I'd rather not go in without permission..."
+msgstr "Wolę nie wchodzić bez pozwolenia…"
+
+msgid "You shouldn't go in."
+msgstr "Nie powinnaś tu wchodzić."
+
+msgid "You won't go in."
+msgstr "Nie wejdziesz tu."
+
+msgid "Some books and magazines."
+msgstr "Parę książek i czasopism."
+
+msgid "No reading space would be complete without decorative books."
+msgstr "W żadnym miejscu do czytania nie może brakować książek jako dekoracji."
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "To jakaś dekoracja. Tak naprawdę nie wiesz, co to jest."
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "Malowidło, podobne do tego, co jest na niższym piętrze."
+
+msgid "A painting."
+msgstr "Malowidło."
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "Malowidło, podobne do tego po lewej."
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "Malowidło, podobne do tego po prawej."
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "Zdjęcia z ferii zimowych. Nie ma cię na żadnym z nich."
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "Ładna roślinka. Pęczki nie są jadalne."
+
+msgid "A plant."
+msgstr "Roślina."
+
+msgid "Some old family pictures."
+msgstr "Stare zdjęcia rodzinne."
+
+msgid "The backyard can be seen from here."
+msgstr "Widać stąd ogródek za domem."
+
+msgid "Something is written on the door:"
+msgstr "Na drzwiach jest coś napisane:"
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "“Cóż to za pokój? Czasem bardzo długo w nim przebywasz."
+
+msgid "Always finding new places to hide away from the world."
+msgstr "Zawsze znajdujesz nowe miejsca, gdzie możesz się schować przed resztą świata."
+
+msgid "Did you ever stop hiding?\""
+msgstr "Czy kiedykolwiek przestałaś się ukrywać?”"

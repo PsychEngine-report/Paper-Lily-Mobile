@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "That's strange."
+msgstr "Kì lạ ta."
+
+msgid "Have I already passed through here?"
+msgstr "Lúc nãy cũng có đi qua chỗ này mà ta?"
+
+msgctxt "events.Prologue_HOD.event_kat_explore_1.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "I have."
+msgstr "Đúng là có đi qua."
+
+msgid "Hmm..."
+msgstr "Hừmm..."
+
+msgid "There must be something I missed."
+msgstr "Nhất định có cái gì đó mình bỏ sót."
+
+msgid "Um... am I lost? I don't remember this hallway being so long before."
+msgstr "Ờ... lạc rồi sao? Nhớ là hành lang này không dài đến như vậy."
+
+msgid "Uh-oh... The hairpin is bent badly."
+msgstr "Ôi thôi... kẹp tóc bị vẹo mất rồi."
+
+msgid "I don't think it can take much more of this."
+msgstr "Chắc thêm phát nữa là khỏi xài luôn quá."
+
+msgid "The hairpin broke."
+msgstr "Kẹp tóc bị gãy rồi."
+
+msgid "The door unlocked!"
+msgstr "Cửa mở rồi!"
+
+msgid "Before proceeding through the door, do you wish to save your progress?"
+msgstr "Trước khi qua cửa, bạn muốn lưu lại tiến trình chứ?"
+
+msgctxt "events.Prologue_HOD.event_move_to_hallway.choice.Before proceeding through the door, do you wish to save your progress?"
+msgid "Yes"
+msgstr "Lưu"
+
+msgctxt "events.Prologue_HOD.event_move_to_hallway.choice.Before proceeding through the door, do you wish to save your progress?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "The lock looks really sturdy."
+msgstr "Khóa này trông khá là khó ăn đây."
+
+msgid "Should I try to pick it?"
+msgstr "Cạy thử xem chứ?"
+
+msgctxt "events.Prologue_HOD.item_hairpin_on_door3.choice.Should I try to pick it?"
+msgid "Yes"
+msgstr "Cạy"
+
+msgctxt "events.Prologue_HOD.item_hairpin_on_door3.choice.Should I try to pick it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's a key hanging from a hook."
+msgstr "Trên móc có treo chiếc chìa khóa."
+
+msgid "Take Key?"
+msgstr "Lấy chìa chứ?"
+
+msgctxt "events.Prologue_HOD.item_key_get.choice.Take Key?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Prologue_HOD.item_key_get.choice.Take Key?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "There's nothing left."
+msgstr "Không có cái gì nữa cả."
+
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgid "I don't suppose I could burn these planks down...?"
+msgstr "Mấy tấm ván này hay là mình đốt đi được chăng...?"
+
+msgid "Ugh, it's no use. I'll run out of fuel before they even warm up."
+msgstr "Ư, không ăn thua. Hơ mới cho ấm lên được thôi là ga sẽ hết mất."
+
+msgid "There's no point in that."
+msgstr "Làm thế chả được cái ý nghĩa gì đâu."
+
+msgid "Hm... This is a closed space."
+msgstr "Hừm... Đây là không gian kín."
+
+msgid "If this turns out to be flammable, it could get really dangerous."
+msgstr "Lỡ mà cái gì đó đây là chất dễ cháy thì thành ra nguy hiểm lắm."
+
+msgid "I really shouldn't."
+msgstr "Thực sự là không nên."
+
+msgid "This door has no keyhole."
+msgstr "Cửa này không có lỗ khóa."
+
+msgid "This key doesn't fit here."
+msgstr "Chìa này không khít vào đây."
+
+msgid "A black substance drips down from here."
+msgstr "Vật chất màu đen nào đó đang rỏ xuống từ đây."
+
+msgid "Where is this stuff coming from?"
+msgstr "Rốt cuộc mớ này chảy ra từ đâu vậy?"
+
+msgid "A black substance drips down from above."
+msgstr "Vật chất màu đen nào đó đang rỏ từ trên xuống."
+
+msgid "Whatever it is, it looks disgusting."
+msgstr "Có là cái gì thì cũng thấy kinh tởm."
+
+msgid "A large amount of a black substance has accumulated under the stairs."
+msgstr "Bên dưới cầu thang có lượng lớn vật chất màu đen đang tù đọng."
+
+msgid "This stuff makes me uneasy... What if it comes alive or something?"
+msgstr "Nhìn cái mớ này chả thấy thoải mái gì... Nếu mà nó sống dậy thì làm sao đây?"
+
+msgid "The way these mirrors are set on the walls is almost comforting."
+msgstr "Có mấy cái gương trên tường theo kiểu như vầy cảm thấy dễ chịu thiệt."
+
+msgid "But staring into mirrors in a place like this..."
+msgstr "Nhưng mà dòm vào gương ở nơi như thế này thì..."
+
+msgid "It's almost like I'm asking to be jump-scared."
+msgstr "Khác gì đang bảo nhát ma tôi đi nhể."
+
+msgid "Multiple reflections stare back at you."
+msgstr "Mấy cái hình phản chiếu đang dòm lại bạn."
+
+msgid "Nonsensical pipes run all over the place."
+msgstr "Mấy đường ống chả hiểu ý nghĩa là gì chạy loằng ngòa loằng ngoằng khắp tường."
+
+msgid "They are warm to the touch. Is this some sort of heating?"
+msgstr "Sờ vào thì ấm. Là máy sưởi hay là gì đó chăng?"
+
+msgctxt "events.Prologue_HOD.move_door1.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "Cánh cửa mang họa tiết lạ lùng."
+
+msgctxt "events.Prologue_HOD.move_door1.dlg.kat"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Prologue_HOD.move_door2.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "Cánh cửa mang họa tiết lạ lùng."
+
+msgid "It's very locked."
+msgstr "Bị khóa chặt rồi."
+
+msgid "This door is open..."
+msgstr "Cánh cửa này mở rồi..."
+
+msgid "Wasn't it boarded up...?"
+msgstr "Nãy còn bị đóng ván mà...?"
+
+msgctxt "events.Prologue_HOD.move_door2.dlg.kat"
+msgid "..."
+msgstr "..."
+
+msgid "Everything else is locked... I have no other choice but to go in..."
+msgstr "Mấy cửa khác bị khóa rồi... đành vào đây thôi sao giờ..."
+
+msgid "A fairly normal-looking door."
+msgstr "Cánh cửa trông khá thường."
+
+msgctxt "events.Prologue_HOD.move_door3.dlg.kat"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgid "There's nothing here."
+msgstr "Ở đây không có cái gì cả."
+
+msgid "A small door with an odd pattern."
+msgstr "Cánh cửa nhỏ mang họa tiết lạ lùng."
+
+msgctxt "events.Prologue_HOD.move_door4.dlg.kat"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgid "A door with a glossy finish."
+msgstr "Cánh cửa có lớp phủ bóng lộn."
+
+msgid "You can see yourself in it."
+msgstr "Bạn soi được bóng dáng của bản thân."
+
+msgctxt "events.Prologue_HOD.move_door5.dlg.kat"
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgctxt "events.Prologue_HOD.move_door6.dlg.narrator"
+msgid "A door with an odd pattern."
+msgstr "Cánh cửa mang họa tiết lạ lùng."
+
+msgctxt "events.Prologue_HOD.move_door6.dlg.kat"
+msgid "It's locked."
+msgstr "Bị khóa rồi."

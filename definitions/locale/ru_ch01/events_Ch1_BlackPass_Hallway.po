@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I just need to open my locker, and then the closet to end this."
+msgstr "Нужно всего-то найти мой школьный шкафчик, а потом шкаф для одежды, и всё закончится."
+
+msgid "My locker is..."
+msgstr "Где же мой шкафчик..."
+
+msgid "It's pretty obvious, isn't it?"
+msgstr "Очевидно, не правда ли?"
+
+msgid "This isn't your locker."
+msgstr "Это не ваш шкафчик."
+
+msgid "A locker."
+msgstr "Шкафчик."
+
+msgid "Huh? What's that red thing? It's the first time I see it."
+msgstr "Чего? Какая-то красная вещица. В первый раз вижу."
+
+msgid "There's nothing else to see here."
+msgstr "Здесь больше нет ничего интересного."
+
+msgid "..."
+msgstr "..."
+
+msgid "Trash fills your locker."
+msgstr "В вашем шкафчике полно мусора."
+
+msgid "What a mess."
+msgstr "Какой ужас."
+
+msgid "\"Welcome back, Lacie."
+msgstr "\"С возвращением, Лэйси."
+
+msgid "We've missed you at school."
+msgstr "В школе по тебе все соскучились."
+
+msgid "You'll have a lot to catch up on, so your classmates organized the reading material for you."
+msgstr "Тебе ещё много нужно нагнать, поэтому твои одноклассники подготовили тебе всю нужную литературу."
+
+msgid "You can find it in your locker."
+msgstr "Найдёшь её в своём шкафчике."
+
+msgid "Please be sure to look over everything carefully."
+msgstr "Только внимательно всё прочитай."
+
+msgid "You wouldn't want to fail the year.\""
+msgstr "Не советую тебе заваливать экзамены в этом году.\""
+
+msgid "...sigh."
+msgstr "...*вздох*."
+
+msgid "...Blah blah blah."
+msgstr "...Бла-бла-бла."
+
+msgid "It's always the same text."
+msgstr "Текст всегда один и тот же."
+
+msgid "The note will be back in this spot next time, even if I crumple it."
+msgstr "Записка никуда не денется, даже если я её скомкаю и выкину."
+
+msgid "Peace and quiet."
+msgstr "Тишина и покой."
+
+msgid "Nah, it's better like this."
+msgstr "Нет уж, лучше так всё и оставить."
+
+msgid "...Heh... never gets old."
+msgstr "...Хе... Всегда срабатывает."
+
+msgid "Pick up ${item:global.reditem_1}?"
+msgstr "Поднять предмет: ${item:global.reditem_1}?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "It's the exit."
+msgstr "Это выход."
+
+msgid "It doesn't open until I check the locker..."
+msgstr "Он не откроется, пока я не проверю свой шкафчик."
+
+msgid "Blindingly white light is all you can see."
+msgstr "Вы видите лишь ослепляющий белый свет."
+
+msgid "Students, laughing at you."
+msgstr "Ученики, насмехающиеся над вами."
+
+msgid "...I hate them."
+msgstr "...Ненавижу их."
+
+msgid "The passageway has closed behind you."
+msgstr "Проход за вами закрылся."

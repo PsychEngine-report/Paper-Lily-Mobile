@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A floor indicator."
+msgstr "Индикатор за пода."
+
+msgid "The elevator has no power, so the indicator lights are off."
+msgstr "Асансьорът няма захранване, затова индикаторните светлини са изключени."
+
+msgid "Where to?"
+msgstr "Накъде?"
+
+msgid "B1F"
+msgstr "Б1Ф"
+
+msgid "B2F"
+msgstr "Б2Ф"
+
+msgid "B3F"
+msgstr "Б3Ф"
+
+msgid "B4F"
+msgstr "Б4Ф"
+
+msgid "Never mind"
+msgstr "Няма значение"
+
+msgid "Nothing happens."
+msgstr "Нищо не се случва."
+
+msgid "The button is not responding."
+msgstr "Бутонът не реагира."
+
+msgid "An emblem that looks like an eye of some sort."
+msgstr "Емблема, която наподобява някакво око."
+
+msgid "The doors are stuck..."
+msgstr "Вратите са заклещени…"

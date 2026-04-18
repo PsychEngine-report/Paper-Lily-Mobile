@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "So..."
+msgstr "Então..."
+
+msgid "What is this place?"
+msgstr "O que é este lugar?"
+
+msgid "What do I do about the primals?"
+msgstr "O que eu faço com os primais?"
+
+msgid "How do you know Sai?"
+msgstr "Como você os conhece, Sai?"
+
+msgid "Never mind"
+msgstr "Deixa para lá"
+
+msgid "What exactly is this place?"
+msgstr "O que exatamente é esse lugar?"
+
+msgid "Dunno!"
+msgstr "Não sei!"
+
+msgid "Nobody's been here for hundreds of years though."
+msgstr "Ninguém está aqui há centenas de anos."
+
+msgid "Interesting."
+msgstr "Interessante."
+
+msgid "There's... shadowy-looking demons roaming around this place."
+msgstr "Há... demônios de aparência sombria vagando por este lugar."
+
+msgid "Indeed!"
+msgstr "Entendido!"
+
+msgid "They are called primals."
+msgstr "Eles são chamados de primais."
+
+msgid "Best not to approach them."
+msgstr "Melhor não se aproximar deles."
+
+msgid "Told you so."
+msgstr "Eu te disse isso."
+
+msgid "You two said you've had several encounters with each other?"
+msgstr "Vocês dois disseram que tiveram vários encontros um com o outro?"
+
+msgid "I do a lot of rituals."
+msgstr "Eu faço muitos rituais."
+
+msgid "A lot of rituals?"
+msgstr "Muitos rituais?"
+
+msgid "And... you've survived?"
+msgstr "E... você sobreviveu?"
+
+msgid "You almost look disappointed."
+msgstr "Você quase parece desapontada."
+
+msgid "Rune bounces up and down."
+msgstr "Rune salta para cima e para baixo."
+
+msgid "By the way..."
+msgstr "Por falar nisso..."
+
+msgid "The way to go \"deeper\" seems to be flooded."
+msgstr "O caminho para ir “mais fundo” parece estar inundado."
+
+msgid "Do I have to swim...?"
+msgstr "Eu tenho que nadar...?"
+
+msgid "Do you? I wonder!"
+msgstr "Você vai? Eu me pergunto!"
+
+msgid "Sigh..."
+msgstr "Argh..."
+
+msgid "Miss Lacie!"
+msgstr "Senhorita Lacie!"
+
+msgid "Have you misplaced Mr. Sai?"
+msgstr "Você se perdeu do Senhor Sai?"
+
+msgid "Uh..."
+msgstr "Uh..."
+
+msgid "Something like that."
+msgstr "Algo parecido."
+
+msgid "How come?"
+msgstr "Por quê?"
+
+msgid "..."
+msgstr "..."
+
+msgid "I'm just more comfortable being alone."
+msgstr "Estou apenas mais confortável estando sozinha."
+
+msgid "Ooh! I feel the same!"
+msgstr "Ah! Eu sinto o mesmo!"
+
+msgid "Anyway..."
+msgstr "De qualquer forma..."
+
+msgid "How did I miss the lighthouse?"
+msgstr "Como eu não achei o farol?"
+
+msgid "How will you get out of here?"
+msgstr "Como você vai sair daqui?"
+
+msgid "Tell me more about Sai."
+msgstr "Conte-me mais sobre Sai."
+
+msgid "So... I went north, but somehow I didn't come across the lighthouse."
+msgstr "Então... fui para o norte, mas de alguma forma não encontrei o farol."
+
+msgid "Where did I go wrong?"
+msgstr "Onde foi que eu errei?"
+
+msgid "Hmm..."
+msgstr "Hmm..."
+
+msgid "Did you reach the lake?"
+msgstr "Você chegou ao lago?"
+
+msgid "Yes."
+msgstr "Sim."
+
+msgid "Did you cross the lake?"
+msgstr "Você atravessou o lago?"
+
+msgid "Yes, I took a boat."
+msgstr "Sim, peguei um barco."
+
+msgid "You should have been able to spot it from there!"
+msgstr "Você deveria ter sido capaz de identificá-lo de lá!"
+
+msgid "Oh, I couldn't see much because of the fog, so I just tried to keep rowing in the same direction."
+msgstr "Ah, eu não conseguia enxergar muita coisa por causa da neblina, então tentei continuar remando na mesma direção."
+
+msgid "I must have taken a wrong turn somewhere..."
+msgstr "Devo ter pegado o caminho errado em alguma parte..."
+
+msgid "That's too bad."
+msgstr "Isso é ruim."
+
+msgid "If this place is a dead end, how do you intend to leave?"
+msgstr "Se este lugar é um beco sem saída, como você pretende sair?"
+
+msgid "I will stick around here for a bit longer!"
+msgstr "Vou ficar por aqui mais um pouco!"
+
+msgid "But after that?"
+msgstr "Mas depois disso?"
+
+msgid "After that what?"
+msgstr "Depois disso o que?"
+
+msgid "How do you plan to get out?"
+msgstr "Como você planeja sair?"
+
+msgid "I don't plan to get out for the moment! I will stick around for a bit longer!"
+msgstr "Não pretendo sair por enquanto! Vou ficar mais um pouco!"
+
+msgid "But..."
+msgstr "Mas..."
+
+msgid "Miss Lacie, I will stick around here for a bit longer!"
+msgstr "Senhorita Lacie, ficarei por aqui mais um pouco!"
+
+msgid "I see..."
+msgstr "Entendo..."
+
+msgid "Do you know anything else about Sai? What kind of person is he?"
+msgstr "Você sabe mais alguma coisa sobre Sai? Que tipo de pessoa ele é?"
+
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+msgid "I don't know."
+msgstr "Não sei."
+
+msgid "He never talks about himself."
+msgstr "Ele nunca fala sobre si mesmo."
+
+msgid "And he never gives me runes."
+msgstr "E ele nunca me dá runas."
+
+msgid "Is he a demon?"
+msgstr "Ele é um demônio?"
+
+msgid "He's not!"
+msgstr "Ele não é!"
+
+msgid "Oh... really?"
+msgstr "Ah sério?"
+
+msgid "Although there is something different about him."
+msgstr "Embora haja algo diferente nele."
+
+msgid "Much like you, Miss Lacie, I couldn't tell right away that he's human."
+msgstr "Assim como você, senhorita Lacie, não poderia dizer imediatamente que ele é humano."
+
+msgid "Normally I can smell it from quite far!"
+msgstr "Normalmente consigo sentir o cheiro de bem longe!"
+
+msgid "Oh."
+msgstr "Ah."
+
+msgid "Strange."
+msgstr "Estranho."
+
+msgid "The way forward is blocked by some sort of door."
+msgstr "O caminho a seguir está bloqueado por algum tipo de porta."
+
+msgid "This wasn't here before..."
+msgstr "Isso não estava aqui antes..."
+
+msgid "(It's dead...?)"
+msgstr "(Está morto...?)"
+
+msgid "Good riddance."
+msgstr "Boa viagem."
+
+msgid "Another one..?"
+msgstr "Outro..?"
+
+msgid "That makes two."
+msgstr "Já são dois."
+
+msgid "(What killed it...?)"
+msgstr "(O que o matou...?)"
+
+msgid "Are you sensing a pattern here or is it just me?"
+msgstr "Você está percebendo um padrão aqui ou é só comigo?"
+
+msgid "(Really... what happened here?)"
+msgstr "(Sério... o que aconteceu aqui?)"
+
+msgid "Must be my imagination."
+msgstr "Deve ser minha imaginação."
+
+msgid "Ooh!"
+msgstr "Aah!"
+
+msgid "Miss L-"
+msgstr "Senhorita L-"
+
+msgid "Shh!"
+msgstr "Shh!"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "I don't give my name to just anyone, Rune."
+msgstr "Não digo meu nome a qualquer um, Rune."
+
+msgid "Very wise!"
+msgstr "Muito esperta!"
+
+msgid "What?!"
+msgstr "O quê?!"
+
+msgid "You told this goblin your name but not me?"
+msgstr "Você disse seu nome a esse goblin, mas não a mim?"
+
+msgid "You're still suspicious."
+msgstr "Você ainda é suspeito."
+
+msgid "Suspicious?"
+msgstr "Suspeito?"
+
+msgid "What can I even do with your name? This is ridiculous."
+msgstr "O que posso fazer com o seu nome? Isto é ridículo."
+
+msgid "I read of a curse that can kill someone just by writing their name in a notebook."
+msgstr "Li sobre uma maldição que pode matar alguém apenas escrevendo seu nome em um caderno."
+
+msgid "Is that the same place you read about the salt?"
+msgstr "É o mesmo lugar onde você leu sobre o sal?"
+
+msgid "Hello Mr. Sai!"
+msgstr "Olá Sr. Sai!"
+
+msgid "Yo."
+msgstr "Opa."
+
+msgid "Rune, you know him?"
+msgstr "Rune, você o conhece?"
+
+msgid "Yes! Though my encounters with Mr. Sai are often brief, as he does not provide me with runes."
+msgstr "Sim! Embora meus encontros com o Senhor Sai sejam frequentemente breves, já que ele não me fornece runas."
+
+msgid "Give me a break man, it's not like those things are just lying around."
+msgstr "Dá um tempo, cara, não é como se essas coisas estivessem por aí."
+
+msgid "(I guess that's true...)"
+msgstr "(Acho que é verdade...)"
+
+msgid "(Well, I did find one...)"
+msgstr "(Bem, eu encontrei uma...)"
+
+msgid "(They kind of are, though...)"
+msgstr "(no entanto, elas meio que são...)"
+
+msgid "How did you get here?"
+msgstr "Como você chegou aqui?"
+
+msgid "I walked."
+msgstr "Andando."
+
+msgid "I see."
+msgstr "Entendo."
+
+msgid "Unfortunately, I'm still looking for the lighthouse."
+msgstr "Infelizmente, ainda estou procurando o farol."
+
+msgid "Ooh."
+msgstr "Ooh."
+
+msgid "The lighthouse isn't here! You must have taken a wrong turn somewhere."
+msgstr "O farol não é por aqui! Você deve ter pegado o caminho errado em algum momento."
+
+msgid "And there's no way to go back outside from here."
+msgstr "E não há como voltar para fora daqui."
+
+msgid "What?"
+msgstr "O quê?"
+
+msgid "We're stuck here?"
+msgstr "Estamos presos aqui?"
+
+msgid "Possibly. Some doorknobs are one-way only."
+msgstr "Possivelmente. Algumas maçanetas são unilaterais."
+
+msgid "Rune, do you have any idea where I could go from here to reach the lighthouse?"
+msgstr "Rune, você tem alguma ideia de onde eu poderia ir daqui para chegar ao farol?"
+
+msgid "The only way forward is by going deeper down."
+msgstr "O único caminho a seguir é ir mais fundo."
+
+msgid "The stairs are right there, in fact!"
+msgstr "As escadas estão logo ali, na verdade!"
+
+msgid "That looks like a dead end."
+msgstr "Isso parece um beco sem saída."
+
+msgid "Yes, death is highly probable at all times!"
+msgstr "Sim, a morte é altamente provável em todos os momentos!"
+
+msgid "But, I heard there's a cursed door down there somewhere."
+msgstr "Mas ouvi dizer que há uma porta amaldiçoada em algum lugar."
+
+msgid "If you're lucky, it might lead you somewhere!"
+msgstr "Se você tiver sorte, isso pode te levar a algum lugar!"
+
+msgid "Or if you're unlucky, it might not!"
+msgstr "Ou se você não tiver sorte, talvez não!"
+
+msgid "(Another cursed door huh...)"
+msgstr "(Outra porta amaldiçoada hein...)"
+
+msgid "(If there's a cursed door, then maybe there's a way out of here.)"
+msgstr "(Se houver uma porta amaldiçoada, talvez haja uma maneira de sair daqui.)"
+
+msgid "(Or at the very least, I could still go home if I'm stuck.)"
+msgstr "(Ou, pelo menos, ainda posso ir para casa se estiver presa.)"
+
+msgid "(I have the doorknob, after all.)"
+msgstr "(Eu tenho a maçaneta, afinal.)"
+
+msgid "(That doorknob... When I got it in the mail, it came with instructions. Almost like a ritual.)"
+msgstr "(Aquela maçaneta... Quando a recebi pelo correio, ela veio com instruções. Quase como um ritual.)"
+
+msgid "(It involved folding my ritual letter into an origami lily, and placing it in some vase.)"
+msgstr "(Envolvia dobrar minha carta ritual em um lírio de origami e colocá-lo em algum vaso.)"
+
+msgid "(I thought it was a joke, but...)"
+msgstr "(Achei que fosse uma piada, mas...)"
+
+msgid "\"It's imperative that you learn how to fold it, if you don't, you'll regret it.\""
+msgstr "\"É fundamental que você aprenda a dobrá-lo; do contrário, você se arrependerá.\""
+
+msgid "(Anyways, I brought the folding instructions with me, just in case.)"
+msgstr "(De qualquer forma, trouxe comigo as instruções de dobragem, só para garantir.)"
+
+msgid "Yo, you there? You're spacing out."
+msgstr "Ei, você aí? Você está se distanciando."
+
+msgid "Ah... yeah."
+msgstr "Ah... sim."
+
+msgid "Good luck on your quest!"
+msgstr "Boa sorte em sua busca!"
+
+msgid "I have just the thing for you!"
+msgstr "Eu tenho exatamente o que você precisa!"
+
+msgid "It's a map!"
+msgstr "É um mapa!"
+
+msgid "A map...?"
+msgstr "Um mapa...?"
+
+msgid "Let's see, here you go!"
+msgstr "Vamos ver, aqui está!"
+
+msgid "I love runes!"
+msgstr "Eu amo runas!"
+
+msgid "Yay! Today is my lucky day!"
+msgstr "Viva! Hoje é meu dia de sorte!"
+
+msgid "Are we doing my idea?!"
+msgstr "Vamos fazer a minha ideia?!"
+
+msgid "No."
+msgstr "Não."
+
+msgid "But it might work!"
+msgstr "Mas pode funcionar!"
+
+msgid "We just have to pick up water from here and empty it somewhere."
+msgstr "Só temos que pegar água daqui e esvaziá-la em algum lugar."
+
+msgid "And just repeat that a couple of times."
+msgstr "E repita isso algumas vezes."
+
+msgid "Or, a lot of times."
+msgstr "Ou muitas vezes."
+
+msgid "Right?"
+msgstr "Certo?"
+
+msgid "We just need, like..."
+msgstr "Nós só precisamos, tipo..."
+
+msgid "A bathtub or a sink or something."
+msgstr "Uma banheira ou uma pia ou algo assim."
+
+msgid "Eventually, the water level will be lower."
+msgstr "Eventualmente, o nível da água será mais baixo."
+
+msgid "This is ridiculous."
+msgstr "Isto é ridículo."
+
+msgid "Here, I can carry that for you."
+msgstr "Aqui, posso levar isso para você."
+
+msgid "I can do it."
+msgstr "Eu posso fazer isso."
+
+msgid "Alriiight."
+msgstr "Tudo beeeem."
+
+msgid "What are you doing?"
+msgstr "O que você está fazendo?"
+
+msgid "Nothing."
+msgstr "Nada."
+
+msgid "We're lowering the water level."
+msgstr "Estamos baixando o nível da água."
+
+msgid "Oooh..."
+msgstr "Oooh..."
+
+msgid "This looks highly inefficient!"
+msgstr "Isso parece tão ineficiente!"
+
+msgid "Yeah, well, why don't you help then?"
+msgstr "Sim, bem, por que você não ajuda então?"
+
+msgid "It'll go faster."
+msgstr "Será mais rápido."
+
+msgid "That's okay!"
+msgstr "Tudo bem!"
+
+msgid "I'm satisfied over here."
+msgstr "Estou satisfeito aqui."
+
+msgid "Hey!"
+msgstr "Ei!"
+
+msgid "I think the water level already went down a bit!"
+msgstr "Acho que o nível da água já baixou um pouco!"
+
+msgid "(It hasn't moved at all...)"
+msgstr "(Não mudou nada...)"
+
+msgid "Oh, you can keep it!"
+msgstr "Ah, você pode ficar com ele!"
+
+msgid "Rune doesn't need it back."
+msgstr "Rune não precisa disso de volta."
+
+msgid "A cursed artifact from the depths, best left forgotten."
+msgstr "Um artefato amaldiçoado das profundezas, que é melhor deixar esquecido."
+
+msgid "Please, I don't want to see this thing ever again."
+msgstr "Por favor, não quero ver isso nunca mais."
+
+msgid "It's a button. It probably controls the gate."
+msgstr "É um botão. Provavelmente controla o portão."
+
+msgid "Press the button?"
+msgstr "Aperte o botão?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Nothing happens."
+msgstr "Nada acontece."
+
+msgid "A large gate blocks your path."
+msgstr "Um grande portão bloqueia seu caminho."
+
+msgid "A crow standing on a white tree stump."
+msgstr "Um corvo parado no toco de uma árvore branca."
+
+msgid "I can't tell if it's the same one... but I'm glad to see it."
+msgstr "Não sei dizer se é o mesmo... mas estou feliz em vê-lo."
+
+msgid "Are you friends with the crows?"
+msgstr "Você é amiga dos corvos?"
+
+msgid "Sorta. They appear here and there like save points."
+msgstr "Mais ou menos. Eles aparecem aqui e ali como pontos de salvamento."
+
+msgid "?????"
+msgstr "?????"
+
+msgid "The crow isn't here right now."
+msgstr "O corvo não está aqui agora."
+
+msgid "A tree that seems to be growing out of the concrete floor."
+msgstr "Uma árvore que parece crescer no chão de concreto."
+
+msgid "(Unusual place for a tree.)"
+msgstr "(Lugar incomum para uma árvore.)"
+
+msgid "The path forward is flooded."
+msgstr "O caminho a seguir está inundado."
+
+msgid "(Deeper down... do we have to go this way?)"
+msgstr "(Mais no fundo... temos que seguir por aqui?)"
+
+msgid "(That's impossible... does Rune expect us to swim?)"
+msgstr "(Isso é impossível... Rune espera que nademos?)"
+
+msgid "Hear me out."
+msgstr "Me ouça."
+
+msgid "What if we took all this water..."
+msgstr "E se pegássemos toda essa água..."
+
+msgid "And put it somewhere else?"
+msgstr "E colocá-lo em outro lugar?"
+
+msgid "Do you have a screw loose?"
+msgstr "Você tem um parafuso solto?"
+
+msgid "Look, I know it sounds crazy!"
+msgstr "Olha, eu sei que parece loucura!"
+
+msgid "And we'd need a bucket..."
+msgstr "E precisaríamos de um balde..."
+
+msgid "It's impossible."
+msgstr "É impossível."
+
+msgid "And it would take a lot of trips..."
+msgstr "E seriam necessárias muitas viagens..."
+
+msgid "I can't believe I'm hearing this."
+msgstr "Não acredito que estou ouvindo isso."
+
+msgid "(But maybe... we can lower the water level somehow?)"
+msgstr "(Mas talvez... possamos diminuir o nível da água de alguma forma?)"
+
+msgid "It's locked."
+msgstr "Está trancado."

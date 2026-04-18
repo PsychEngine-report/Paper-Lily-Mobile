@@ -1,0 +1,3946 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Try Again?"
+msgstr "Спробувати знову?"
+
+msgid "Retry"
+msgstr "Спробувати знову"
+
+msgid "Skip"
+msgstr "Пропустити"
+
+msgid "Give Up"
+msgstr "Здатися"
+
+msgid "Well... this is it."
+msgstr "Ну... от і все."
+
+msgid "So uh... see you on the other side?"
+msgstr "То що... побачимось по той бік?"
+
+msgid "Yeah."
+msgstr "Так."
+
+msgid "..."
+msgstr "..."
+
+msgid "See ya."
+msgstr "Бувай."
+
+msgid "Ha! That's way too big on you."
+msgstr "Ха! Для тебе воно завелике."
+
+msgid "It's... cozy, I suppose."
+msgstr "В ньому принаймні... зручно."
+
+msgid "(I wonder who wore this.)"
+msgstr "(Цікаво, хто це носив?)"
+
+msgid "H-Hey! What's wrong!?"
+msgstr "А-агов! Що таке?!"
+
+msgid "Wake up!"
+msgstr "Прокидайся!"
+
+msgid "What the hell!?"
+msgstr "Якого біса?!"
+
+msgid "Hey, wake up! Hey!"
+msgstr "Чуєш, що кажу?! Прокидайся!"
+
+msgid ".........."
+msgstr "..."
+
+msgid "Damn it."
+msgstr "Дідько."
+
+msgid "Dead End 1-10 - Sensory Overload"
+msgstr "Глухий кут 1-10 - Сенсорне перенавантаження"
+
+msgid "Um... What was that?"
+msgstr "Ем... що це було?"
+
+msgid "It sounded like splashing water..."
+msgstr "Звучало як плескіт води..."
+
+msgid "But that's impossible... I thought we drained the water?"
+msgstr "Та це ж неможливо... хіба ми не спустили воду?"
+
+msgid "Could it be that the lower levels are still flooded?"
+msgstr "Невже нижні поверхи й досі затоплені?"
+
+msgid "Could the B4F be flooded?"
+msgstr "Невже саме цей поверх затоплений?"
+
+msgid "Hey, you don't think we could just press the button and go back up, right?"
+msgstr "Чуєш, а можна просто натиснути на кнопку і піднятися назад?"
+
+msgid "No."
+msgstr "Ні."
+
+msgid "Sooo..."
+msgstr "Таааааак..."
+
+msgid "This doesn't bode well."
+msgstr "Справи невтішні."
+
+msgid "No shit, it doesn't bode at all!"
+msgstr "Та невже? Як на мене, все добре!"
+
+msgid "It's fine, elevators always have an emergency exit."
+msgstr "Без паніки, в ліфтах завжди є аварійний люк."
+
+msgid "Somewhere."
+msgstr "Принаймні десь."
+
+msgid "What now?"
+msgstr "То що тепер?"
+
+msgid "I'm not sure... do you see anything?"
+msgstr "Не знаю... ти щось бачиш?"
+
+msgid "Like what?"
+msgstr "На кшталт?"
+
+msgid "Like... an exit? Something that could be opened?"
+msgstr "На кшталт... виходу? Чогось, що можна відчинити?"
+
+msgid "Hmmm..."
+msgstr "Хм..."
+
+msgid "I don't know."
+msgstr "Гадки не маю."
+
+msgid "Then... we might actually die here."
+msgstr "В такому разі... тут ми й загинемо."
+
+msgid "Hey... don't say things like that..."
+msgstr "Гей... не кажи так..."
+
+msgid "Let me think for a second."
+msgstr "Дай-но секунду все обміркувати."
+
+msgid "Okay."
+msgstr "Добре."
+
+msgid "Any ideas yet?"
+msgstr "Є думки?"
+
+msgid "It's possible that there's an exit on the ceiling."
+msgstr "Можливо, вихід знаходиться на стелі."
+
+msgid "But we can't reach it yet..."
+msgstr "Проте поки що ми до неї не дістаємо..."
+
+msgid "If we wait until the elevator fills up with water, maybe we can float up and open it."
+msgstr "Якщо зачекаємо, поки підніметься вода, то, можливо, зможемо її дістатися."
+
+msgid "That's smart!"
+msgstr "Слушна думка!"
+
+msgid "So we just wait?"
+msgstr "То що, просто чекаємо?"
+
+msgid "That's the idea."
+msgstr "Ну, так."
+
+msgid "Man... it's cold..."
+msgstr "Бр-р... тут холодно..."
+
+msgid "Can you check the ceiling now?"
+msgstr "Перевіриш стелю?"
+
+msgid "Some of the panels should come off."
+msgstr "Якась панелька має відійти."
+
+msgid "Roger."
+msgstr "Добре."
+
+msgid "No dice."
+msgstr "Нічого."
+
+msgid "...What?"
+msgstr "...Що?"
+
+msgid "They won't even budge."
+msgstr "Вони навіть не колихаються."
+
+msgid "...Are you sure?"
+msgstr "...Точно?"
+
+msgid "Yeah, I punched them as hard as I could."
+msgstr "Так, я бив з усієї сили."
+
+msgid "....."
+msgstr "..."
+
+msgid "So... what's next?"
+msgstr "Так... що далі?"
+
+msgid "...There's nothing next, is there..."
+msgstr "...Дай вгадаю, далі нічого не буде?.."
+
+msgid "At that point, my mind went blank."
+msgstr "Після цього я більше нічого не усвідомлювала."
+
+msgid "The fear of actually dying suddenly took over me."
+msgstr "Раптом мене охопив страх насправді померти."
+
+msgid "And drowning... was probably the worst way to go."
+msgstr "Тим паче втопитися... найгірший розвиток подій."
+
+msgid "What happened after that..."
+msgstr "А що було далі..."
+
+msgid "It's best forgotten."
+msgstr "Краще забути."
+
+msgid "Dead End 1-11 - Deep Sea Misadventure"
+msgstr "Глухий кут 1-11 - Глибоке занурення"
+
+msgid "Dead End 1-12 - What's At Stake"
+msgstr "Глухий кут 1-12 - Ігри з вогнем"
+
+msgid "Was that toy always there?"
+msgstr "Ця іграшка тут завжди була?"
+
+msgid "What is it, a bear or something?"
+msgstr "Що воно таке? Ведмежа?"
+
+msgid "It's a rabbit."
+msgstr "Це зайчик."
+
+msgid "...Or that's what I think it's trying to be."
+msgstr "...Або ми бачимо в ньому те, що хочемо бачити."
+
+msgid "It's an abomination."
+msgstr "Бридота якась."
+
+msgid "It's got no legs!"
+msgstr "У нього немає ніг!"
+
+msgid "Hey...um..."
+msgstr "Агов... ем..."
+
+msgid "...And it's all mismatched!"
+msgstr "...І зв'язане воно чортзна-як!"
+
+msgid "I don't think you should touch-"
+msgstr "Мені здається, його краще не чіпати-"
+
+msgid "There you are! Finish cleanin' yet?"
+msgstr "Он ти де! Вже прибралася?"
+
+msgid "The hell you got in your mouth?"
+msgstr "Чого ти там жуєш?"
+
+msgid "Spit it out!"
+msgstr "Ану виплюнь!"
+
+msgid "Don't make me say it twice."
+msgstr "Не змушуй мене повторюватись."
+
+msgid "Good girl!"
+msgstr "Гарна дівчинка!"
+
+msgid "Ugh... the hell is this thing?"
+msgstr "Грх… що це за чортівня?"
+
+msgid "Can't even tell anymore, you always make such a mess out of your food."
+msgstr "Тепер і не скажеш, що це було. Ти всі свої харчі перетворюєш в кашу."
+
+msgid "I can't eat this crap, you can have it back."
+msgstr "А це лайно їсти не буду, можеш доїдати."
+
+msgid "But hurry up, or I'm leaving without you!"
+msgstr "Тільки хутчіше, або тут тебе і залишу!"
+
+msgid "Hell, this place still gives me the creeps."
+msgstr "Хай йому грець, досі моторошно від цього місця."
+
+msgid "Dead End 1-13 - Stuffed Animal"
+msgstr "Глухий кут 1-13 - Фаршива ситуація"
+
+msgid "I hope the reversal works..."
+msgstr "Сподіваюсь, скасування ритуалу працює..."
+
+msgid "Please work... please work..."
+msgstr "Благаю, спрацюй... Благаю, спрацюй..."
+
+msgid "Please work..."
+msgstr "Благаю, спрацюй..."
+
+msgid "...!?"
+msgstr "?!..."
+
+msgid "I feel like I'm hearing things..."
+msgstr "Мені щось почулось..."
+
+msgid "...! H-Hiro...?!"
+msgstr "!.. Хіро?!.."
+
+msgid "Dead End 1-2 - Salt is for Cooking"
+msgstr "Глухий кут 1-2 - Сіль на рану"
+
+msgid "I kept walking endlessly through the black space in my mind."
+msgstr "Я продовжила ходити по чорному простору у своїй свідомості."
+
+msgid "I wasn't worried. I've been here dozens of times."
+msgstr "Мені не було лячно. Я вже сто разів тут була."
+
+msgid "This is just a dream. I always wake up."
+msgstr "Це всього-на-всього сон. А я завжди прокидаюсь."
+
+msgid "So I kept walking."
+msgstr "Тому я продовжила йти."
+
+msgid "(It's been a while since I started walking.)"
+msgstr "(Я вже досить довго ходжу.)"
+
+msgid "(I have no way of keeping track of time though...)"
+msgstr "(Хоча я навіть не знаю, як тут лічити час...)"
+
+msgid "(But even if I don't manage to find the way back...)"
+msgstr "(Та навіть якщо мені не вдасться знайти вихід...)"
+
+msgid "Something in the real world will wake me up, right?"
+msgstr "Щось з реального світу мене неодмінно мене розбудить, так?"
+
+msgid "I looked down at my hands. But I couldn't see them. I couldn't see anything in any direction."
+msgstr "Я глянула на свої руки. Та я їх не бачила. Я взагалі нічого і ніде не бачила."
+
+msgid "(How long has it been?)"
+msgstr "(Скільки пройшло часу?)"
+
+msgid "I've been walking for such a long time..."
+msgstr "Я так довго тут ходжу..."
+
+msgid "(I haven't gotten hungry or thirsty. I'm not sleepy and my legs aren't even tired.)"
+msgstr "(Я не відчувала ні голод, ні спрагу. Мені не хотілося спати, а мої ноги не втомлювались.)"
+
+msgid "But the sensory deprivation... is really starting to get to me."
+msgstr "Та відсутність будь-яких відчуттів починає до мене доходити."
+
+msgid "But I wasn't going to get anywhere unless I moved."
+msgstr "Проте я нікуди не дійду, якщо стоятиму тут."
+
+msgid "I decided to stop walking for a while."
+msgstr "Я вирішила ненадовго призупинитись."
+
+msgid "It just seemed pointless."
+msgstr "Просто я вже не бачила сенсу в тому, щоб йти далі."
+
+msgid "It was like an invisible treadmill, as far as the eye could see."
+msgstr "Я ніби ходжу по нескінченно довгій біговій доріжці, що простягається до горизонту."
+
+msgid "Except that the eye couldn't see anything."
+msgstr "Чи не простягається. Важко сказати, бо тут нічого не видно."
+
+msgid "Ahh... will someone wake me up already?"
+msgstr "Ох... коли мене вже розбудять?"
+
+msgid "This is pointless..."
+msgstr "У цьому немає сенсу..."
+
+msgid "But standing still was even more pointless."
+msgstr "Та ще більше сенсу немає в тому, щоб просто стояти тут."
+
+msgid "...This... I can't deal with this anymore... I want to wake up!"
+msgstr "...Це... Я цього більше не винесу... Я хочу прокинутись!"
+
+msgid "What kind of torture is this? There's no sounds, no colors, no smell...!"
+msgstr "За що мені ці тортури? Тут нема ані звуків, ні кольорів, ні запахів!.."
+
+msgid "Even if I pinch myself... I can't feel pain either..."
+msgstr "Навіть коли я себе щипаю, то не відчуваю болю..."
+
+msgid "I'm going"
+msgstr "Я скоро"
+
+msgid "${br:1}${sp:8}to go"
+msgstr "${br:1}${sp:8}з'їду"
+
+msgid "${br:2}${sp:16}insane anyways"
+msgstr "${br:2}${sp:16}з глузду"
+
+msgid "...so I kept walking."
+msgstr "...тому я продовжила йти."
+
+msgid "HELP!!! HEEEELP!!!"
+msgstr "ДОПОМОЖІТЬ!!! РЯТУЙТЕ МЕНЕ!!!"
+
+msgid "SOMEONE GET ME OUT OF HERE! WAKE ME UP!!!"
+msgstr "ХТО-НЕБУДЬ, ЗАБЕРІТЬ МЕНЕ ЗВІДСИ! РОЗБУДІТЬ МЕНЕ!!!"
+
+msgid "I DON'T WANT TO STAY HERE FOREVER!!!"
+msgstr "Я НЕ ХОЧУ ЗАСТРЯГТИ ТУТ НАВІКИ!!!"
+
+msgid "PLEASE! I'D RATHER DIE!!!"
+msgstr "БЛАГАЮ! КРАЩЕ ВЖЕ ПОМЕРТИ!!!"
+
+msgid "I can't... stand it anymore...!"
+msgstr "Я... більше... цього не винесу!.."
+
+msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+msgstr "АААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА"
+
+msgid "...An exit?"
+msgstr "...Вихід?"
+
+msgid "Crap, it woke up."
+msgstr "Трясця, воно прокинулось."
+
+msgid "Hurry, knock it out or something!"
+msgstr "Живіше, вируби її чи щось таке!"
+
+msgid "(!!... Wh-what happened...)"
+msgstr "(!!… Щ-що сталося...)"
+
+msgid "(My chest...)"
+msgstr "(Мій живіт...)"
+
+msgid "You idiot, you hit it too hard."
+msgstr "Дурбецало, ти надто сильно вдарив."
+
+msgid "I know it's alive, but there's a hole in it now!"
+msgstr "Та бачу я, що воно живе, та от тільки ти проробив зайвий отвір!"
+
+msgid "(Hole...? What...?)"
+msgstr "(Отвір?.. Що?..)"
+
+msgid "(I need to...)"
+msgstr "(Я маю...)"
+
+msgid "Scream"
+msgstr "Закричати"
+
+msgid "Do not"
+msgstr "Нічого не робити"
+
+msgid "H-he... *cough*"
+msgstr "Доп-... *кашель*"
+
+msgid "You try to scream, but your voice isn't coming out. Your lungs might be damaged."
+msgstr "Ви намагаєтесь закричати, та слова не виходять з ваших вуст. Схоже, у вас пошкоджені легені."
+
+msgid "(It hurts...)"
+msgstr "(Боляче...)"
+
+msgid "If it dies before extraction, the boss will get mad at us."
+msgstr "Якщо воно помре до вилучення, начальник розлютиться."
+
+msgid "You're right, he might just kill us off. Shit, crap."
+msgstr "Маєш рацію, він нас може прибити. От лайно."
+
+msgid "Lets just bring it quickly."
+msgstr "Нумо, скоріше віднесемо її."
+
+msgid "Fine, I'll do it."
+msgstr "Добре, я сам все зроблю."
+
+msgid "Ugh... it's dripping all over. This is so annoying."
+msgstr "Гх… з неї всюди накапало. Як же дратує."
+
+msgid "Why is it bleeding? I thought we were clear on this."
+msgstr "Чому з неї йде кров? Я гадав, ми закрили цю тему."
+
+msgid "I'm really sorry, it was awake. The driver must have messed up, and..."
+msgstr "Мені дуже-дуже шкода, воно прокинулось. Мабуть, водій щось наробив та..."
+
+msgid "The driver didn't make this hole."
+msgstr "Це не водій пробив у ній отвір."
+
+msgid "Sorry, we didn't want it to run, so..."
+msgstr "Пробачте, ми боялись, що воно втече, тому..."
+
+msgid "Enough. With so few subjects as of late, you can't be snacking on them. I'll be reporting this to Glen."
+msgstr "Годі. У нас і так бракує піддослідних, ними не можна ласувати. Я повідомлю про це Глена."
+
+msgid "Gaah... what luck..."
+msgstr "Гх… щастить так щастить..."
+
+msgid "Really now? \"It's young so it's probably fine?\""
+msgstr "Що кажеш? \"Воно молоде, все буде в нормі\"?"
+
+msgid "That's especially why you can't mess with it."
+msgstr "Саме тому з нею й не можна проявляти недбалість."
+
+msgid "(Voices...)"
+msgstr "(Голоси...)"
+
+msgid "Turn it over."
+msgstr "Переверніть."
+
+msgid "At least the hands are fine."
+msgstr "Принаймні руки цілі."
+
+msgid "Hand me the tools."
+msgstr "Передайте інструменти."
+
+msgid "Right away."
+msgstr "Вже несу."
+
+msgid "Good... It's still breathing."
+msgstr "Добре... воно ще дихає."
+
+msgid "(Is that... a doctor...?)"
+msgstr "(Це... лікар?..)"
+
+msgid "(What's... going on...?)"
+msgstr "(Що... відбувається?..)"
+
+msgid "Let's get this over with."
+msgstr "Не будемо гаяти час."
+
+msgid "Dead End 1-4 - Carried Away"
+msgstr "Глухий кут 1-4 - Ударило в сон"
+
+msgid "Hm..."
+msgstr "Хм..."
+
+msgid "Should I really eat this?"
+msgstr "Чи варто мені це їсти?"
+
+msgid "I didn't get to have my flan earlier today..."
+msgstr "Я так і не з'їла свого пирога..."
+
+msgid "I didn't get to have my macarons earlier today..."
+msgstr "Я так і не з'їла свій макарун..."
+
+msgid "I didn't get to have my eclair earlier today..."
+msgstr "Я так і не з'їла свій еклер..."
+
+msgid "And mom's leftovers were kind of stale..."
+msgstr "А мамина страва була кепською..."
+
+msgid "So I'm not that hungry, but... maybe I should make sure to keep my energy up."
+msgstr "Я не сильно зголодніла, але... мабуть, варто все ж підтримати рівень енергії."
+
+msgid "As I thought, these are just classic potato chips."
+msgstr "Як я й гадала, це лиш звичайні чипси."
+
+msgid "That's good, I guess."
+msgstr "Мабуть, воно й на краще."
+
+msgid "Hm?"
+msgstr "Га?"
+
+msgid "The list of ingredients is nonsense."
+msgstr "Їхній вміст позбавлений сенсу."
+
+msgid "What did I just eat?"
+msgstr "Що я щойно з'їла?"
+
+msgid "\"Attention: Will promptly put you to sleep. May occasionally cause hallucinations and headache.\""
+msgstr "\"Увага: Швидко змусить вас знепритомніти. Іноді може викликати галюцинації та головні болі.\""
+
+msgid "(...This is bad!)"
+msgstr "(...Це погано!)"
+
+msgid "(If I'm going to fall asleep, I need to find somewhere safe!)"
+msgstr "(Якщо й непритомніти, то десь у безпечному місці!)"
+
+msgid "(Uhm...)"
+msgstr "(Ам…)"
+
+msgid "(Oh no...)"
+msgstr "(О ні...)"
+
+msgid "(I feel really dizzy...)"
+msgstr "(У мене голова обертом...)"
+
+msgid "(This isn't good...)"
+msgstr "(Це погано...)"
+
+msgid "That was the most peaceful sleep I had ever had."
+msgstr "Так спокійно я ще не спала."
+
+msgid "For the longest time, I've been having nightmares where I wake up in that dark place filled with bad memories."
+msgstr "Я майже все життя бачила той жах, де я прокидаюсь у якомусь темному місці. А там мене зустрічали погані спогади."
+
+msgid "Even though I'm used to it by now, it gets really tiring."
+msgstr "Хоча я й звикла до цього, це дуже виснажливо."
+
+msgid "I often wake up feeling like I didn't get much sleep at all."
+msgstr "Я часто прокидаюсь з думкою, що я взагалі не спала."
+
+msgid "But this time, I didn't dream of anything."
+msgstr "Та цього разу мені нічого не снилося."
+
+msgid "What's that sound?"
+msgstr "Що це за звук?"
+
+msgid "!?"
+msgstr "?!"
+
+msgid "It hurts..."
+msgstr "Боляче..."
+
+msgid "What's happening!?"
+msgstr "Що відбувається?!"
+
+msgid "(N-no...)"
+msgstr "(Н-ні...)"
+
+msgid "(Is this a hallucination?!)"
+msgstr "(Це галюцинація?!)"
+
+msgid "*Pant...pant*"
+msgstr "*Тяжко дихає*"
+
+msgid "(No... the pain... is too much...)"
+msgstr "(Ні... біль... занадто реальний...)"
+
+msgid "(This is... real...)"
+msgstr "(Це все... наяву...)"
+
+msgid "(I....can't...move...)"
+msgstr "(Я... не можу... поворушитись...)"
+
+msgid "H-h...."
+msgstr "Д-д..."
+
+msgid "H-...H-hel..p...."
+msgstr "До... по... можіть..."
+
+msgid "*Cough*"
+msgstr "*кашель*"
+
+msgid "(I can't... breathe...)"
+msgstr "(Не можу... дихати...)"
+
+msgid "(It hurts.....)"
+msgstr "(Боляче...)"
+
+msgid "(Please.....)"
+msgstr "(Будь ласка...…)"
+
+msgid "(I don't..... want... to be awake...)"
+msgstr "(Я хочу... знову... заснути...)"
+
+msgid "(It..... hurts.....)"
+msgstr "(Як... боляче.....)"
+
+msgid "Dead End 1-5 - Become Snack"
+msgstr "Глухий кут 1-5 - Їжа для мозку"
+
+msgid "Dead End 1-6 - Ground Swallow Me Up"
+msgstr "Глухий кут 1-6 - Як крізь землю провалилась"
+
+msgid "It's..."
+msgstr "Це..."
+
+msgid "...perfection."
+msgstr "...неперевершено."
+
+msgid "So avant-garde."
+msgstr "Який авангард."
+
+msgid "Truly timeless."
+msgstr "Непідвладне часу."
+
+msgid "...Should I reopen the gallery after all?"
+msgstr "...Чи все ж слід відкрити свою галерею?"
+
+msgid "Dead End 1-7 - Mortal Immortalized"
+msgstr "Глухий кут 1-7 - Камінь на душі"
+
+msgid "Dead End 1-8 - Part of Your World"
+msgstr "Глухий кут 1-8 - Частина твого світу"
+
+msgid "W-what?"
+msgstr "Щ-що?"
+
+msgid "...How could this happen? It wasn't that long..."
+msgstr "...Як це сталося? Я ж швидко прийшла..."
+
+msgid "Is this... is this really him?"
+msgstr "...Це... дійсно він?"
+
+msgid "Maybe I should get out of here, it's probably dangerous."
+msgstr "Мабуть, слід забиратися звідси, тут небезпечно."
+
+msgid "What's that?"
+msgstr "Що це таке?"
+
+msgid "Th-this is...!"
+msgstr "Ц-це!.."
+
+msgid "Dead End 1-9 - Doubt"
+msgstr "Глухий кут 1-9 - Сумніви"
+
+msgid "I feel like I didn't accomplish anything..."
+msgstr "Я ніби не довела справу до кінця..."
+
+msgid "I hope that this door actually takes me home, at the very least."
+msgstr "Сподіваюсь, що ці двері принаймні приведуть мене додому."
+
+msgid "As I was crossing the door, I couldn't help but feel like something was wrong."
+msgstr "Переступивши поріг, я відчула, що щось не так."
+
+msgid "Am I making the right choice?"
+msgstr "Чи правильно я вчиняю?"
+
+msgid "No..."
+msgstr "Ні..."
+
+msgid "It's not time yet."
+msgstr "Час ще не настав."
+
+msgid "This place... again."
+msgstr "Це місце... знову."
+
+msgid "I guess I really did fall asleep...?"
+msgstr "Схоже, заснути в мене вийшло..."
+
+msgid "(Sometimes I wake up here after falling asleep.)"
+msgstr "(Інколи я прокидаюсь тут, коли засинаю.)"
+
+msgid "(I have this dream a lot...)"
+msgstr "(Я часто бачу цей сон...)"
+
+msgid "(...But it seems I can't leave until I see it through to the end.)"
+msgstr "(...проте я не зможу піти звідси, доки не додивлюсь його до кінця.)"
+
+msgid "Wha- Again?"
+msgstr "Що- Знову?"
+
+msgid "This is ridiculous, I was just here a few minutes ago."
+msgstr "Якась маячня, я ж не так давно тут була."
+
+msgid "I need to get this over with quickly, so I can get off the bus."
+msgstr "Треба якнайшвидше забратись звідси, щоб вийти з автобуса."
+
+msgid "...Huh? Did I pass out?"
+msgstr "...Га? Я знепритомніла?"
+
+msgid "That's not good..."
+msgstr "Це не добре..."
+
+msgid "My head hurts..."
+msgstr "Голова болить..."
+
+msgid "Wasn't I going down some stairs? I hope I didn't fall and break my neck."
+msgstr "Хіба я не спускалась по сходах? Сподіваюсь, що я не впала та не зламала шию."
+
+msgid "That would be a terrible ending..."
+msgstr "Жахлива б вийшла кінцівка..."
+
+msgid "Well... I'm really screwed now."
+msgstr "Що ж... от тепер мені гаплик."
+
+msgid "Even if I wake up from here... what can I even do?"
+msgstr "Навіть якщо я прокинусь... що я зможу зробити?"
+
+msgid "(Let's see...)"
+msgstr "(Подивимось...)"
+
+msgid "(A monster just put me in a cage and will probably eat me... or something.)"
+msgstr "(Чудовисько запхнуло мене в клітку і, мабуть, планує мною поласувати... або гірше.)"
+
+msgid "(Even so, it's not like I can stay here. This place is useless.)"
+msgstr "(Нехай так, тут залишатись теж не можна. Це місце мені ніяк не допоможе.)"
+
+msgid "(Let's just find the exit and see what happens.)"
+msgstr "(Знайдімо-но вихід та подивимось, що трапиться.)"
+
+msgid "I- I don't feel so good..."
+msgstr "Щ-щось мені зле..."
+
+msgid "...What happened?"
+msgstr "...Що сталося?"
+
+msgid "Ah... looks like I got the knife somehow."
+msgstr "Га... схоже, я якимось чином отримала ніж."
+
+msgid "I finished setting up the ritual."
+msgstr "Я підготувала ритуал."
+
+msgid "I see."
+msgstr "Ось як."
+
+msgid "Um..."
+msgstr "Ем..."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Is there really nothing I can do to make you change your mind about doing this ritual?"
+msgstr "І я точно не зможу відмовити тебе від цього?"
+
+msgid "Hiro..."
+msgstr "Хіро..."
+
+msgid "I know! I know. I know I said I'd stop but..."
+msgstr "Я знаю! Знаю. Я казав, що припиню, але..."
+
+msgid "I'm just worried."
+msgstr "Я просто хвилююсь."
+
+msgid "I'll be fine, and..."
+msgstr "Зі мною все буде добре..."
+
+msgid "...I'll see you tomorrow."
+msgstr "…І завтра ми побачимось."
+
+msgid "...Alright."
+msgstr "...Гаразд."
+
+msgid "So... I wanted to ask again."
+msgstr "Так... Я знову спитаю."
+
+msgid "Just in case, would you mind not being in the house tonight?"
+msgstr "Про всяк випадок, ти точно не проти заночувати не вдома?"
+
+msgid "Understood."
+msgstr "Точно."
+
+msgid "I don't think anything bad would happen, but just in case?"
+msgstr "Навряд чи станеться щось погане, та про всяк випадок?"
+
+msgid "Got it. Don't worry, I made some plans so I'll be out late tonight."
+msgstr "Добре, не хвилюйся. У мене є плани, тому вночі мене не буде."
+
+msgid "Okay. Just don't be here before 12:30."
+msgstr "Добре. Не приходь до половини першої ночі."
+
+msgid "Don't worry so much! 12:31, on the dot."
+msgstr "Не хвилюйся ти! Я прийду хвилиною пізніше."
+
+msgid "Really though. Take care of yourself, make sure you get back in one piece."
+msgstr "Та я серйозно. Бережи себе та повернися живою й здоровою."
+
+msgid "I mean it, be safe."
+msgstr "Одним словом, будь обережна."
+
+msgid "(Ah... it figures. I can't say goodbye to him properly after that. Oh well...)"
+msgstr "(Ах... звичайно. Після цього я не можу з ним попрощатися. Ну що ж...)"
+
+msgid "(Why did I have to say I'll see him tomorrow...)"
+msgstr "(І нащо я тільки сказала, що завтра з ним побачусь?)"
+
+msgid "(It's Hiro.)"
+msgstr "(Це Хіро.)"
+
+msgid "(I wonder what he's reading.)"
+msgstr "(Цікаво, що він читає?)"
+
+msgid "(I probably shouldn't bother him...)"
+msgstr "(Мабуть, краще його не турбувати...)"
+
+msgid "(He's always so nice to me, but I'm sure he needs a break sometimes...)"
+msgstr "(Він завжди до мене добрий, та б'юсь об заклад, йому теж потрібен відпочинок...)"
+
+msgid "I have a stalker."
+msgstr "За мною хтось стежить."
+
+msgid "Ah, no, I was just passing through."
+msgstr "Ой, ні, я тут просто ходжу."
+
+msgid "Sit, sit!"
+msgstr "Ти сідай, сідай!"
+
+msgid "Um... okay."
+msgstr "Ем... добре."
+
+msgid "Listen to this:"
+msgstr "Слухай сюди:"
+
+msgid ""
+"One for sorrow,\n"
+"Two for mirth"
+msgstr ""
+"Як одна - іде журба,\n"
+"Яко дві - веселощі"
+
+msgid ""
+"Three for a funeral,\n"
+"Four for birth"
+msgstr ""
+"Коли три - то похорони,\n"
+"А чотири - то пологи"
+
+msgid ""
+"Five for heaven,\n"
+"Six for hell"
+msgstr ""
+"П'ять - до раю,\n"
+"Шість - до пекла"
+
+msgid "Seven for the devil, his own self."
+msgstr "Сім же - до диявола."
+
+msgid "Spooky huh?"
+msgstr "Страшно, скажи?"
+
+msgid "Do you know what it is?"
+msgstr "Знаєш, що це таке?"
+
+msgid "A poem...?"
+msgstr "Вірш?.."
+
+msgid "Yeah, about counting magpies."
+msgstr "Так, віршик про сорок."
+
+msgid "They're kind of like crows, but cuter."
+msgstr "Сороки схожі на ворон, проте вони більш милі."
+
+msgid "Huh."
+msgstr "Невже?"
+
+msgid "Supposedly the number of magpies that you see determines your fate."
+msgstr "Подейкують, що твоя доля зміниться від того, скільки сорок ти побачиш за раз."
+
+msgid "But there's so many variations to the rhyme..."
+msgstr "Та вже стільки було створено варіантів цієї рими..."
+
+msgid "How can you properly predict your fate?"
+msgstr "Як же вгадати свою долю?"
+
+msgid "I'm not sure I believe in fate."
+msgstr "А я в долю не вірю."
+
+msgid "It can be nice to believe in something."
+msgstr "Але треба ж у щось вірити."
+
+msgid "Hmm... I believe in..."
+msgstr "Гм… Я вірю в..."
+
+msgid "Flan."
+msgstr "Фруктові пироги."
+
+msgid "Macarons."
+msgstr "Макаруни."
+
+msgid "Chocolate eclairs."
+msgstr "Шоколадні еклери."
+
+msgid "I thought you would say something like that."
+msgstr "Так і знав, що ти скажеш щось таке."
+
+msgid "I believe in..."
+msgstr "Ну а я вірю в..."
+
+msgid "...Lacie!"
+msgstr "...Лейсі!"
+
+msgid "I believe you can achieve your dreams!"
+msgstr "Я вірю, що ти досягнеш своєї мрії!"
+
+msgid "Then I'll try to believe, too."
+msgstr "Я тоді теж спробую повірити."
+
+msgid "Don't hesitate to talk to me if you want."
+msgstr "Якщо захочеш зі мною поговорити, не вагайся ні секунди."
+
+msgid "You never bother me, okay?"
+msgstr "Ти мені ніколи не набриднеш, зрозуміла?"
+
+msgid "(Hiro... you're too cheesy.)"
+msgstr "(Хіро… ти іноді занадто добрий.)"
+
+msgid "(...but thanks.)"
+msgstr "(...та все ж дякую.)"
+
+msgid "What is that book anyway?"
+msgstr "А що то в тебе за книга?"
+
+msgid "Legends and nursery rhymes, that sort of thing."
+msgstr "Усілякі легенди та дитячі вірші."
+
+msgid "I got it at the book store down the street."
+msgstr "Купив її в крамниці далі по вулиці."
+
+msgid "Is it any good?"
+msgstr "І як, подобається?"
+
+msgid "Sure! You might enjoy them. They're not all creepy."
+msgstr "А то! Тобі теж може сподобатись. Там не все таке моторошне."
+
+msgid "There's a legend that says the heart of a witch can grant any wish!"
+msgstr "Є там одна легенда про серце відьми, що здатне виконати будь-яке бажання!"
+
+msgid "Hmm... Sounds like there must be a catch."
+msgstr "М-м... відчуваю каверзу."
+
+msgid "Maybe. I haven't finished it yet."
+msgstr "Про це не знаю, я ще не дочитав."
+
+msgid "You don't usually read fiction."
+msgstr "Ти ж зазвичай не читаєш фантастику."
+
+msgid "Ahh guilty!"
+msgstr "А-а! Попався!"
+
+msgid "I'm too impatient with long stories. I like skipping to the end to see what happens."
+msgstr "Знаєш, я надто нетерплячий для довгих історій. Мені до вподоби пролистувати до кінця, щоб дізнатись, чим все закінчиться."
+
+msgid "Doesn't that spoil the fun?"
+msgstr "А в чому тоді сенс?"
+
+msgid "Well Lace, you might like solving puzzles and mysteries before they get revealed..."
+msgstr "Ну дивись, Лейсі… Тобі, може, й подобається розв'язувати задачі та розгадувати таємниці..."
+
+msgid "But I like it when the answers are served neatly on a platter."
+msgstr "А я ж люблю, коли все подають на блюдці..."
+
+msgid "With extra cheese."
+msgstr "Та приправляють сиром."
+
+msgid "Yes, I'm aware of the cheese."
+msgstr "Так, я зрозуміла."
+
+msgid "How's the ritual going?"
+msgstr "Як там приготування до ритуалу?"
+
+msgid "It's... going."
+msgstr "Приготування... готуються."
+
+msgid "Are you nervous? Do you think it'll work?"
+msgstr "Нервуєш? Думаєш, не спрацює?"
+
+msgid "Kind of..."
+msgstr "Мабуть..."
+
+msgid "If it worked... it wouldn't be the strangest thing that's happened to me."
+msgstr "Навіть якщо спрацює... зі мною траплялися й більш дивні речі."
+
+msgid "You're right about that..."
+msgstr "Тут не посперечаєшся..."
+
+msgid "Oh hey, remember mother left some food in the fridge."
+msgstr "Ще дещо: мама приготувала тобі трохи їжі та залишила в холодильнику. Не забудь."
+
+msgid "Don't eat it cold though, you always eat things cold!"
+msgstr "Тільки розігрій, а то ти все їси холодним!"
+
+msgid "See, that's why you're so small. You don't get proper nutrition!"
+msgstr "Ось бачиш, чому ти така мала? Ти неправильно харчуєшся!"
+
+msgid "First, I already ate it."
+msgstr "По-перше, я вже поїла."
+
+msgid "Second, I am not small."
+msgstr "По-друге, я тобі не мала."
+
+msgid "I am not small."
+msgstr "Я не мала."
+
+msgid "You're TINY!"
+msgstr "Та ти крихітна!"
+
+msgid "Be safe out there Lace."
+msgstr "Ти обережно там, Лейсі."
+
+msgid "Always put your safety first before anything else."
+msgstr "Пам'ятай у першу чергу про власну безпеку."
+
+msgid "Mhmm, you've said this 30 times already."
+msgstr "Угу, ти вже 30-й раз це кажеш."
+
+msgid "Only 30?"
+msgstr "Лише 30-й?"
+
+msgid "Hiro seems focused on his book."
+msgstr "Хіро зосередився на книзі."
+
+msgid "(You can't seem to say goodbye to him...)"
+msgstr "(Ви не можете з ним попрощатися...)"
+
+msgid "By the way..."
+msgstr "До речі..."
+
+msgid "I think I'll go straight to my room..."
+msgstr "Піду-но я одразу до своєї кімнати..."
+
+msgid "Lacie!!!"
+msgstr "Лейсі!!!"
+
+msgid "Hiro...!"
+msgstr "Хіро!.."
+
+msgid "You scared me..."
+msgstr "Налякав..."
+
+msgid "What?"
+msgstr "Що?"
+
+msgid "Did you go out?"
+msgstr "Ти була на вулиці?"
+
+msgid "I did... Just for a little bit."
+msgstr "Так... вийшла ненадовго."
+
+msgid "Seriously?"
+msgstr "Серйозно?"
+
+msgid "Yeah, I grabbed-"
+msgstr "Так, купила собі-"
+
+msgid "Woooaah you went OUTSIDE!?"
+msgstr "Овва! Ти вийшла НА ВУЛИЦЮ?!"
+
+msgid "Into the world??"
+msgstr "На світ божий??"
+
+msgid "That's incredible! I'm so proud!"
+msgstr "Неймовірно! Я так тобою пишаюсь!"
+
+msgid "A week ago you weren't even opening the front door!"
+msgstr "Ще тиждень тому ти боялася відкрити вхідні двері!"
+
+msgid "She finally went outside! The tides are shifting! History is being made!"
+msgstr "Вона нарешті вийшла! Тут пишеться історія!"
+
+msgid "Next you'll be going to the market, then back to school..."
+msgstr "А потім ти підеш на ринок, а після цього повернешся до школи..."
+
+msgid "You'll make so many friends, it's gonna be amazing!!"
+msgstr "Здружишся з купою нових людей, все буде чудово!"
+
+msgid "I really... think you're exaggerating..."
+msgstr "Мені здається... що ти перебільшуєш..."
+
+msgid "No waaay! You've been cooped up for so long!"
+msgstr "Та ну-у! Ти ж так давно закрилася в собі!"
+
+msgid "It hasn't been that long..."
+msgstr "Не так і давно..."
+
+msgid "Now that you've mastered that, we can go for an ice cream."
+msgstr "Що ж, якщо з цим ти впоралась, можна піти врізати по морозиву."
+
+msgid "Together!"
+msgstr "Разом!"
+
+msgid "No way... It didn't actually go that well today..."
+msgstr "Ні за що... сьогодні все пройшло кепсько..."
+
+msgid "I messed up my order... and... I left really fast."
+msgstr "Замовила не те, що хотіла... а потім взагалі пішла."
+
+msgid "Then I'll order for you!"
+msgstr "Тоді я за тебе замовлятиму!"
+
+msgid "I'll do it until you can order on your own. It will get better!"
+msgstr "Замовлятиму доти, доки тобі самій не стане зручно. Ти все зможеш!"
+
+msgid "It won't... unless I fix the root cause of the problem."
+msgstr "Не зможу... поки не вирву корінь проблеми."
+
+msgid "You mean... you're still doing the ritual?"
+msgstr "Тобто... ти проводитимеш ритуал?"
+
+msgid "Yes."
+msgstr "Так."
+
+msgid "I see..."
+msgstr "Зрозуміло..."
+
+msgid "Well, I won't object anymore, just be wise."
+msgstr "Добре, відмовляти тебе я не буду, та не нароби дурниць."
+
+msgid "I'll be outside if you need me."
+msgstr "Якщо знадоблюся, шукай мене на вулиці."
+
+msgid "In any case... this ritual is a bust. I need to clean up now."
+msgstr "Хай там як... ритуал - брехня. Тепер треба прибратися."
+
+msgid "The consequences for leaving things mid-ritual can be pretty dire, or so I read."
+msgstr "Якщо перервати ритуал, то наслідки будуть жахливими. Принаймні, так пишуть."
+
+msgid "I left the instructions to undo the ritual at the PC."
+msgstr "Я залишила інструкції зі скасування ритуалу в комп'ютері."
+
+msgid "This should be far enough... It doesn't look like they will chase me."
+msgstr "Я вже достатньо пробігла... не схоже, за мною женуться."
+
+msgid "This... isn't the kind of place I expected."
+msgstr "Не таке місце я очікувала побачити."
+
+msgid "Another stop?"
+msgstr "Ще одна зупинка?"
+
+msgid "I made it to a forest... now what...?"
+msgstr "Я дійшла до лісу... що далі?.."
+
+msgid "I think... I messed up. The bus wasn't there..."
+msgstr "Здається... я щось зробила не так. Автобус не приїхав..."
+
+msgid "Did I take too long? Or was it the phone call?"
+msgstr "Я не встигла? Або я щось не так сказала телефоном?"
+
+msgid "I guess I'll try again, some other day."
+msgstr "Що ж, тоді іншим разом спробую... напевно."
+
+msgid "(You hear the bus take off.)"
+msgstr "(Ви чуєте, як автобус виїжджає.)"
+
+msgid "I couldn't do it."
+msgstr "Мені не вдалося."
+
+msgid "The bus was right there but..."
+msgstr "Автобус був прямо там, але..."
+
+msgid "Getting on a strange bus that takes me to my death isn't as easy as it seems."
+msgstr "Важко змусити себе сісти в дивний автобус, який поведе мене на смерть."
+
+msgid "I'll... prepare myself mentally and try again, some other day."
+msgstr "Тоді... наступного разу я приготуюсь морально та спробую ще раз."
+
+msgid "I'll be back soon... maybe."
+msgstr "Скоро повернуся... напевно."
+
+msgid "(Once I get in... there will be no turning back.)"
+msgstr "(Якщо я зайду... то вже не зможу повернутись.)"
+
+msgid "I'll just... drop the rune into this box?"
+msgstr "Мені... просто кинути руну в скриньку?"
+
+msgid "Looks like there's no one here..."
+msgstr "Здається, тут більше нікого нема..."
+
+msgid "This spot is good."
+msgstr "Ось тут хороше місце."
+
+msgid "And so, we're off... to who knows where."
+msgstr "Ну що ж, поїхали... бозна-куди."
+
+msgid "What would my parents think right now?"
+msgstr "Що б подумали мої батьки?"
+
+msgid "Their daughter is on a bus headed straight towards certain death."
+msgstr "Їхня донька сіла в автобус назустріч вірній смерті."
+
+msgid "It's hard to say this but... they would be happier without me."
+msgstr "Важко це визнавати, але... без мене вони стануть щасливими."
+
+msgid "...Even if I die on this trip, life will be better for them... and Hiro."
+msgstr "...Якщо я загину, їхнє життя піде на краще... і життя Хіро теж."
+
+msgid "Doing this ritual was the right choice."
+msgstr "Не даремно я затіяла цей ритуал."
+
+msgid "Whether I make it or fail... whether the Lacie everyone knows disappears or a different Lacie makes it home..."
+msgstr "Не має значення, вийде в мене чи не вийде... чи я зникну, чи додому повернеться зовсім інша Лейсі..."
+
+msgid "...everyone wins."
+msgstr "...усі залишаться у виграші."
+
+msgid "In my mind, I went through everything I knew about this ritual."
+msgstr "Я подумки пройшлася по всьому стосовно ритуалу."
+
+msgid "Then, I remembered the words from a forum post."
+msgstr "Тоді я згадала про одні слова з форуму."
+
+msgid "\"You must get off the bus before the end of the line.\""
+msgstr "\"Ви маєте вийти з автобуса, доки той не доїхав до кінцевої.\""
+
+msgid "The letter said that the bus would simply take me to my destination - but that person was very insistent on not letting that happen."
+msgstr "У листі було написано, що автобус доведе мене куди треба, але та особа наполегливо прохала цього не допустити."
+
+msgid "\"Seriously, you have to get off no matter what!\""
+msgstr "\"Я не жартую, вам обов'язково треба вийти!\""
+
+msgid "The user that posted it has a big reputation in that forum, so their words probably had some merit to them."
+msgstr "У того користувача хороша репутація на форумі, тож його словам у певній мірі можна довіритись."
+
+msgid "But... won't I be breaking the rules if I do that...?"
+msgstr "Але... чи не піду я проти правил ритуалу?.."
+
+msgid "Also, what if the bus never stops? I can't just jump out the window, right?"
+msgstr "І що як автобус ніколи не зупиниться? Я ж не можу на повному ходу вистрибнути у вікно."
+
+msgid "As I played with my thoughts, my consciousness started to fade away, and soon I was fully asleep."
+msgstr "Поки я гралась зі своїми думками, я потихеньку втрачала свідомість, аж доки повністю не заснула."
+
+msgid "How did it get here so fast?"
+msgstr "Як він так швидко сюди приїхав?"
+
+msgid "The bus is not there... Did it already leave?"
+msgstr "Автобуса нема... Він вже поїхав?"
+
+msgid "Or did it never come?"
+msgstr "Або навіть не приїжджав?"
+
+msgid "Does this mean this ritual is no good either?"
+msgstr "Тоді виходить, що й ритуал провалився?"
+
+msgid "...This is bad..."
+msgstr "...Це погано..."
+
+msgid "E-eh...? The bus is starting to move...!"
+msgstr "Га-а?.. Автобус поїхав!.."
+
+msgid "I should have gotten off..."
+msgstr "Треба було виходити..."
+
+msgid "With no way to stop the bus, I just sat back down in my spot."
+msgstr "Не знайшовши спосіб зупинити автобус, я всілася на своєму місці."
+
+msgid "After a while, I fell back asleep."
+msgstr "Невдовзі я знову заснула."
+
+msgid "Was there something about this bus that made people sleepy?"
+msgstr "Автобус що, якимось чином усипляє людей?"
+
+msgid "A few minutes later, I woke up at the black place again..."
+msgstr "Через декілька хвилин я знову прокинулася в тому темному місці..."
+
+msgid "So I went through the whole thing one more time..."
+msgstr "Довелося знову повторити весь процес..."
+
+msgid "And through the closet at last."
+msgstr "А ось і шафа."
+
+msgid "Finally, I was ready to wake up again."
+msgstr "Нарешті, я зможу знову прокинутись."
+
+msgid "There's no one here anymore..."
+msgstr "Нікого поруч немає..."
+
+msgid "...!"
+msgstr "!.."
+
+msgid "(What is this thing...?)"
+msgstr "(Що за..?!)"
+
+msgid "(Wait... the bus stopped... I need to get off!)"
+msgstr "(Стривайте... автобус зупинився... треба виходити!)"
+
+msgid "(There's no point in changing right now.)"
+msgstr "(Зараз мало сенсу перевдягатись.)"
+
+msgid "Ah... it feels good to change into lighter clothes."
+msgstr "Ах... як добре перевдягнутись у щось легше."
+
+msgid "Sadly, I can't stay like this. It makes me feel lazy and I have things to do."
+msgstr "На жаль, я так не можу. У цьому одязі так ліньки все робити, а в мене ще купа роботи."
+
+msgid "A dead primal."
+msgstr "Мертвий древній."
+
+msgid "(It doesn't make sense to go back this way.)"
+msgstr "(Немає сенсу повертатися назад.)"
+
+msgid "(Let's go find that door instead.)"
+msgstr "(Знайдімо-но ліпше ті двері.)"
+
+msgid "Not this way."
+msgstr "Не сюди."
+
+msgid "Wait."
+msgstr "Зачекай."
+
+msgid "These two doors only open from the outside, so..."
+msgstr "Обидві ці двері відчиняються тільки ззовні, тож..."
+
+msgid "I'll stay here and hold it open for you."
+msgstr "Я буду тут стояти та притримувати їх."
+
+msgid "Alright."
+msgstr "Добре."
+
+msgid "You're not gonna try to leave me again, are you?"
+msgstr "Ти ж не спробуєш знову мене кинути?"
+
+msgid "No... I give up on that."
+msgstr "Ні... більше не буду."
+
+msgid "Great!"
+msgstr "Це чудово!"
+
+msgid "(...Where am I?)"
+msgstr "(...Де я?)"
+
+msgid "(Is this a prison cell?)"
+msgstr "(Це тюремна камера?) "
+
+msgid "(I need to find a way out.)"
+msgstr "(Треба знайти звідси вихід.)"
+
+msgid "Uuu... I was really hoping this pipe would lead me outside..."
+msgstr "У-у-у... а я сподівалась, що та труба виплюне мене десь нагорі..."
+
+msgid "What's with all these fish...?"
+msgstr "Що тут робить ця риба?.."
+
+msgid "And... where is this?"
+msgstr "І... \"тут\" - це де?"
+
+msgid "And also... what is this? It's not like the other holes we jumped into..."
+msgstr "А це ще що таке? Не схоже на ті діри, у які ми раніше стрибали..."
+
+msgid "Is this... another fairy ring? Inside the fairy ring?"
+msgstr "Невже... це коло фей всередині кола фей?"
+
+msgid "Something's not right... Why does it look like a mouth?"
+msgstr "Щось тут не так... чому воно у формі рота?"
+
+msgid "A mouth...? Wait a second..."
+msgstr "Рот?.. Секундочку..."
+
+msgid "Do I know something about this?"
+msgstr "Що я про це знаю?"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "До речі, ти ж знаєш, що кола фей поступово розширюються?"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "Я чула, що коли вони наїдаються, то ніби розкриваються та зжирають усе, під чим знаходяться!"
+
+msgid "Once they eat enough... they open up..."
+msgstr "Коли вони наїдаються... то ніби розкриваються..."
+
+msgid "I think I heard that if they eat too much, they kinda open up to swallow whatever's above..."
+msgstr "По-моєму, я чула, що коли вони наїдаються, то ніби розкриваються та зжирають усе, під чим знаходяться..."
+
+msgid "So what if I just... feed it more...?"
+msgstr "Тож що як я просто... його нагодую?.."
+
+msgid "Okay, it's decided!"
+msgstr "Добре, план зрозумілий!"
+
+msgid "Let's go Aoi, Lacie's counting on you!"
+msgstr "Вперед, Аой, Лейсі на тебе розраховує!"
+
+msgid "I should start with those, probably."
+msgstr "Почну спочатку з цього."
+
+msgid "That's all the fish..."
+msgstr "З рибою покінчено..."
+
+msgid "What else... am I carrying anything that I can feed to it?"
+msgstr "Що ще... чи є в мене щось, чим його можна нагодувати?"
+
+msgid "My ${item:ch1.forest_harmless_snack_2}..."
+msgstr "Моя ${item:ch1.forest_harmless_snack_2}..."
+
+msgid "It's okay, it was poisonous anyway."
+msgstr "Ну й нічого, вона все одно отруйна."
+
+msgid "The ${item:ch1.aoi_sewingkit}..."
+msgstr "${item:ch1.aoi_sewingkit}..."
+
+msgid "I stole it from work..."
+msgstr "Поцупила на роботі..."
+
+msgid "Wendy will kill me."
+msgstr "Венді мене вб'є."
+
+msgid "...."
+msgstr "..."
+
+msgid "Wendy will kill me... or I'll die here... being digested."
+msgstr "Або Венді мене вб'є... або я помру тут... перетравлена живцем."
+
+msgid "A ${item:ch1.aoi_cabbage}."
+msgstr "${item:ch1.aoi_cabbage}."
+
+msgid "I have no way of chopping it open anyway."
+msgstr "Мені все одно нічим її нарізати."
+
+msgid "A ${item:ch1.forest_fish}."
+msgstr "${item:ch1.forest_fish}."
+
+msgid "It cost me my whole allowance..."
+msgstr "Вона обійшлася мені у всю мою зарплатню..."
+
+msgid "Goodbye, stinky fish."
+msgstr "Бувай, рибко-смердючко."
+
+msgid "I bet you tasted nice."
+msgstr "Б'юсь об заклад, ти була смачною."
+
+msgid "...That's all I have..."
+msgstr "...Більше в мене нічого немає..."
+
+msgid "...!!"
+msgstr "!!..."
+
+msgid "Did... did I do it!?"
+msgstr "М-мені вдалося?!"
+
+msgid "Wait, this is really dangerous!!"
+msgstr "Ой, тут небезпечно!!"
+
+msgid "What's happening..?"
+msgstr "Що відбувається?.."
+
+msgid "Everything started falling apart."
+msgstr "Усе почало руйнуватись."
+
+msgid "I managed to take cover in the bathtub for a while until the earthquake stopped."
+msgstr "Мені якимось чином вдалося перечекати землетрус у ванній."
+
+msgid "When I opened my eyes, the walls and ceiling had all fallen apart."
+msgstr "Коли я розплющила очі, стіни та стеля повністю обвалилися."
+
+msgid "I could only see rubble and tree roots above me, and... a light."
+msgstr "Над собою я бачила лише всіляке сміття, коріння та... світло."
+
+msgid "What in god's name..."
+msgstr "Боже милостивий..."
+
+msgid "WHAT THE HELL!?"
+msgstr "ЩО ЗА ЧОРТІВНЯ!?"
+
+msgid "GAH!"
+msgstr "ГХАА!"
+
+msgid "Aoi!"
+msgstr "Аой!"
+
+msgid "LACIE!"
+msgstr "ЛЕЙСІ!"
+
+msgid "THE TREE..!!"
+msgstr "ДЕРЕВО!.."
+
+msgid "What the hell did you do?!"
+msgstr "Якого чорта ви накоїли?!"
+
+msgid "...Uhh..!"
+msgstr "...Е-е!.."
+
+msgid "...Um...!"
+msgstr "...Ем!.."
+
+msgid "We were trapped..."
+msgstr "Нас впіймали..."
+
+msgid "We were trapped inside the fairy ring!"
+msgstr "Нас заточили в колі фей!"
+
+msgid "It was the only way to get out!"
+msgstr "Інакше вибратися не вийшло б!"
+
+msgid "THE FAIRY RING HAS A SIGNPOST."
+msgstr "ПЕРЕД КОЛОМ ФЕЙ СТОЇТЬ ТАБЛИЧКА."
+
+msgid "IT LITERALLY SAYS \"DO NOT STEP INSIDE\" or something."
+msgstr "ТАМ ЧІТКО І ЯСНО СКАЗАНО \"НЕ ЗАХОДИТИ\"."
+
+msgid "Alba."
+msgstr "Альбо."
+
+msgid "I know.. I..."
+msgstr "Я знаю... Я..."
+
+msgid "But..!"
+msgstr "Але!.."
+
+msgid "Your fish is what saved us!!"
+msgstr "Саме твоя риба нас і врятувала!!"
+
+msgid "My... fish?"
+msgstr "Моя... риба?"
+
+msgid "Yeah! There was another ring..."
+msgstr "А то! Там було ще одне коло..."
+
+msgid "So I threw the fish inside, and...!"
+msgstr "Тож я жбурнула туди всю свою рибу і!.."
+
+msgid "You trashed... my fish?"
+msgstr "Ти викинула... мою рибу?"
+
+msgid "...I'm sorry! It was only one!"
+msgstr "...Благаю, вибач! Я викинула лише одну!"
+
+msgid "And like... a bunch more... that I found on the floor down there."
+msgstr "Ну й ще десь сотню, яку я просто там знайшла."
+
+msgid "...But those were probably someone else's fish..."
+msgstr "...Але то, мабуть, була чужа риба..."
+
+msgid "...Actually..."
+msgstr "...Взагалі-то..."
+
+msgid "Nothing, never mind."
+msgstr "Хоча ні, нічого."
+
+msgid "Milion, I know."
+msgstr "Я знаю, Міліане."
+
+msgid "I'm fine."
+msgstr "Я спокійна."
+
+msgid "And who the hell are you anyway?"
+msgstr "Та хто ти взагалі така?"
+
+msgid "You smell like a human."
+msgstr "Тхнеш людиною."
+
+msgid "I'm surprised I didn't notice it before."
+msgstr "Дивно, що я раніше цього не помітила."
+
+msgid "Hmm... it's faint... but it's there."
+msgstr "Гм-м... ледь помітний запах... проте він є."
+
+msgid "No, she's my coworker!"
+msgstr "Ні, вона моя колега!"
+
+msgid "Coworker?"
+msgstr "Колега?"
+
+msgid "Yeah yeah."
+msgstr "Так-так."
+
+msgid "With... um..."
+msgstr "Працюємо на... ем..."
+
+msgid "Wendy."
+msgstr "Венді."
+
+msgid "If you're hiding a human, I'll kill the both of you."
+msgstr "Якщо ти ховаєш людину, то я вб'ю вас обох."
+
+msgid "W-we deal with humans sometimes... that's probably the smell you feel."
+msgstr "М-ми, бува, працюємо з людьми... звідси й запах, напевно."
+
+msgid "You're lying. You think I'm stupid?"
+msgstr "Ти брешеш. Я схожа на дурепу?"
+
+msgid "(But... if they're telling the truth and I kill them...)"
+msgstr "(Але... якщо вони не брешуть, а я їх вб'ю…)"
+
+msgid "(Wendy will literally cook me alive.)"
+msgstr "(То Венді підсмажить мене живцем.)"
+
+msgid "Look, I'll close my eyes to this."
+msgstr "Слухайте сюди, я заплющу на це очі."
+
+msgid "But get out of the forest. Both of you!"
+msgstr "Але негайно тікайте з лісу. Обидві!"
+
+msgid "Seriously."
+msgstr "Я серйозно."
+
+msgid "Look at this shit."
+msgstr "Ви подивіться на це паскудство."
+
+msgid "What...?"
+msgstr "Що?.."
+
+msgid "I really shouldn't look into the mirror at night, should I..."
+msgstr "Краще не заглядати вночі по дзеркалах..."
+
+msgid "I'm carrying too many things around..."
+msgstr "Зі мною щось забагато речей..."
+
+msgid "(You got rid of some items.)"
+msgstr "(Ви позбулися деяких предметів.)"
+
+msgid "Sorry, give me a second..."
+msgstr "Вибач, дай мені момент..."
+
+msgid "Do you think you can handle this?"
+msgstr "Думаєш, все буде гаразд?"
+
+msgid "Easy peasy."
+msgstr "Ще б пак."
+
+msgid "Where am I...?"
+msgstr "Де я?.."
+
+msgid "There's a piece of paper on the floor."
+msgstr "На підлозі лежить папірець."
+
+msgid "It's titled [color=#CD5C5C]SIXTH BLESSING[/color]."
+msgstr "На ньому написано [color=#CD5C5C]ШОСТЕ БЛАГОСЛОВЕННЯ[/color]."
+
+msgid "Do you want to read it?"
+msgstr "Бажаєте прочитати його?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "You took everything from me..."
+msgstr "Ти все в мене відібрала..."
+
+msgid "...I never wanted your blessings...."
+msgstr "...Мені не треба твої благословення..."
+
+msgid "For all the horrors you caused me, and for daring to set foot into MY WORLD-"
+msgstr "За всі жахи, що ти зі мною вдіяла, і за те, що ступила в МІЙ СВІТ-"
+
+msgid "I WILL END YOU!"
+msgstr "Я ТЕБЕ ЗНИЩУ!"
+
+msgid "AAAAHH GET OUT"
+msgstr "АААААА ЗАБИРАЙСЯ ГЕТЬ"
+
+msgid "GETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUTGETOUT"
+msgstr "ГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬГЕТЬ"
+
+msgid "The [color=#90EE90]first[/color] blessing..."
+msgstr "[color=#90EE90]Перше[/color] благословення..."
+
+msgid "\"What I [color=#CD5C5C]saw[/color] in the [color=#CD5C5C]mirror[/color] was uglier than I had hoped.\""
+msgstr "\"Те, що я [color=#CD5C5C]побачила[/color] в [color=#CD5C5C]дзеркалі[/color], виявилося страшніше, ніж я сподівалась.\""
+
+msgid "The [color=#90EE90]second[/color] blessing..."
+msgstr "[color=#90EE90]Друге[/color] благословення..."
+
+msgid "\"You always said you wanted to try [color=#CD5C5C]watercolor![/color] I believe in you!\""
+msgstr "\"Ти завжди мріяла малювати [color=#CD5C5C]аквареллю![/color] Я в тебе вірю!\""
+
+msgid "The [color=#90EE90]third[/color] blessing..."
+msgstr "[color=#90EE90]Третє[/color] благословення..."
+
+msgid "\"[color=#CD5C5C]Water[/color] provides the best healing.\""
+msgstr "\"Ніщо не лікує так, як [color=#CD5C5C]водиця[/color].\""
+
+msgid "The [color=#90EE90]fourth[/color] blessing..."
+msgstr "[color=#90EE90]Четверте[/color] благословення..."
+
+msgid "\"Y-you... what did you do to his [color=#CD5C5C]leg[/color]?!?\""
+msgstr "\"Т-ти... що ти зробила з його [color=#CD5C5C]ногою[/color]?!?\""
+
+msgid "The [color=#90EE90]fifth[/color] blessing..."
+msgstr "[color=#90EE90]П'яте[/color] благословення..."
+
+msgid "\"There are so many things a knife can [color=#CD5C5C]cut[/color] through.\""
+msgstr "\"Ножем можна стільки всього [color=#CD5C5C]розрізати[/color].\""
+
+msgid "I was tied up in front of the whole village, where Iris' father gave a speech."
+msgstr "Мене зв'язали перед усім селом, а батько Іріс читав свою проповідь."
+
+msgid "It was about bringing forth a new era, about cleansing impurities."
+msgstr "Він казав про якусь нову еру, про очищення від нечистот."
+
+msgid "About living in peace."
+msgstr "Про життя в мирі."
+
+msgid "Peace..."
+msgstr "Мир..."
+
+msgid "I thought I already lived in peace."
+msgstr "А я гадала, що жила в мирі."
+
+msgid "I thought I could keep living in peace next to..."
+msgstr "Я гадала, що зможу жити в мирі й далі..."
+
+msgid "...Iris."
+msgstr "...Поруч з Іріс."
+
+msgid "Was she in that crowd too?"
+msgstr "Чи стояла вона в тому натовпі?"
+
+msgid "Was she watching?"
+msgstr "Чи дивилася вона?"
+
+msgid "Would she cry for me?"
+msgstr "Чи буде вона мене оплакувати?"
+
+msgid "It didn't matter anymore."
+msgstr "Це вже не мало значення."
+
+msgid "I was only a sacrificial pawn in this bigger story."
+msgstr "Я була лише шаховою фігурою, якою треба пожертвувати задля цієї історії."
+
+msgid "How did mother feel, standing here?"
+msgstr "Як мама почувалась на моєму місці?"
+
+msgid "Was she relieved to finally be rid of all of this injustice?"
+msgstr "Вона зраділа тому, що більше не житиме в цій несправедливості?"
+
+msgid "To finally start being at peace?"
+msgstr "Зраділа тому, що почне жити в мирі?"
+
+msgid "It didn't matter."
+msgstr "Це не мало значення."
+
+msgid "Mother and father were dead."
+msgstr "Мама з татом померли."
+
+msgid "And now, this will be over for me too."
+msgstr "А зараз настала й моя черга."
+
+msgid "The monster standing before me finished his speech."
+msgstr "Чудовисько дочитало свою промову."
+
+msgid "The crowd was cheering. They seemed to agree with his preach."
+msgstr "Натовп захоплено гукав. Усі погодились із його словами."
+
+msgid "He lit the firewood, and the heat was slowly embracing me."
+msgstr "Він запалив дерево й мене окутав жар."
+
+msgid "For a moment, it almost felt comforting."
+msgstr "На коротку мить мені було навіть приємно."
+
+msgid "But that moment was brief."
+msgstr "Та лише на мить."
+
+msgid "When the fire reached my legs, the pain became unbearable."
+msgstr "Коли вогонь дістався моїх ніг, біль став нестерпним."
+
+msgid "The crowd's cheers were slowly drowned out by my own screams."
+msgstr "На тлі моїх криків навіть не було чутно натовп."
+
+msgid "Curse this."
+msgstr "Прокляття."
+
+msgid "Curse this!"
+msgstr "Прокляття!"
+
+msgid "It hurts!"
+msgstr "Як боляче!"
+
+msgid "Why must I suffer?!"
+msgstr "Нащо я маю страждати?!"
+
+msgid "This isn't fair!"
+msgstr "Це несправедливо!"
+
+msgid "Why won't anyone help me?!"
+msgstr "Чому ніхто мені не допоможе?!"
+
+msgid "It hurts so much..."
+msgstr "Мені так боляче..."
+
+msgid "I hate them..."
+msgstr "Ненавиджу їх..."
+
+msgid "I hate them."
+msgstr "Ненавиджу їх."
+
+msgid "How could they cheer for this?!"
+msgstr "Як можна такому радіти?!"
+
+msgid "How could they be so cruel?!"
+msgstr "Як можна бути такими жорстокими?!"
+
+msgid "I wish they were all dead."
+msgstr "Хай всі вони помруть."
+
+msgid "I wish they would all suffer."
+msgstr "Хай всі страждатимуть."
+
+msgid "I heard it once in a dream before."
+msgstr "Колись я почула це уві сні."
+
+msgid "[color=#90EE90]\"Six blessings form a curse.\"[/color]"
+msgstr "[color=#90EE90]\"Шість благословень породжують прокляття.\"[/color]"
+
+msgid "Was I cursed?"
+msgstr "Мене прокляли?"
+
+msgid "Because... at that moment..."
+msgstr "Бо... в ту саму мить..."
+
+msgid "I received my [color=#CD5C5C]sixth blessing[/color]."
+msgstr "Я отримала своє [color=#CD5C5C]шосте благословення[/color]."
+
+msgid "The fire spread incredibly fast, in all directions."
+msgstr "Вогонь швидко охопив усе навкруги."
+
+msgid "And the flames that had reached my thighs died out."
+msgstr "Проте полум'я біля моїх ніг згасло."
+
+msgid "Instead, the fire spread all around me."
+msgstr "Навпаки, вогонь поширювався тільки навколо мене."
+
+msgid "Everyone was screaming, terrified."
+msgstr "Усі злякано кричали."
+
+msgid "Everyone was burning."
+msgstr "Усі палали."
+
+msgid "What happened? Where's Iris!?"
+msgstr "Що сталося? І де Іріс?!"
+
+msgid "I used the knife she gave me to untie myself. It cut easily."
+msgstr "Я скористалася її ножем, аби розрізати мотузку. Це було просто."
+
+msgid "I tried walking but I couldn't even stand."
+msgstr "Я спробувала ходити, проте не могла навіть стояти."
+
+msgid "My legs hurt... They hurt so bad..."
+msgstr "Мої ноги так сильно боліли..."
+
+msgid "I looked around but only saw fire."
+msgstr "Я озирнулася навколо, та бачила лише вогонь."
+
+msgid "People were trying to run but there was no escape."
+msgstr "Народ намагався втекти, та звідси не було рятунку."
+
+msgid "The floor, the houses... Everything was on fire."
+msgstr "Земля, будинки... все палало."
+
+msgid "The whole village was covered in a thick smoke."
+msgstr "Усе село було покрите густим димом."
+
+msgid "The only place the fire didn't reach was the ground I stood on."
+msgstr "Не горіла лише земля під моїми ногами."
+
+msgid "I can't move... But I need to make sure Iris is okay."
+msgstr "Я не можу рухатись... але треба переконатися, чи в порядку Іріс."
+
+msgid "Huh?"
+msgstr "Га?"
+
+msgid "Make sure Iris is okay..?"
+msgstr "Переконатися, чи в порядку Іріс?"
+
+msgid "Why should I..."
+msgstr "Навіщо це..."
+
+msgid "It's all going to hell anyway."
+msgstr "Усе одно тут настає пекло."
+
+msgid "I sat on the floor holding the knife."
+msgstr "Я сіла на землю та вчепилася в ніж."
+
+msgid "My miracle..."
+msgstr "Моє диво..."
+
+msgid "Is this what came of my miracle?"
+msgstr "Це все сталося з мого дива?"
+
+msgid "I never asked for this."
+msgstr "Я цього не просила."
+
+msgid "All of this misfortune... It all started after I got my eyesight back."
+msgstr "Усі ці нещастя... почалися, коли мені повернувся зір."
+
+msgid "What are these eyes?"
+msgstr "Що це за очі?"
+
+msgid "I don't recognize them."
+msgstr "Я їх не впізнаю."
+
+msgid "I don't want them."
+msgstr "Мені вони не потрібні."
+
+msgid "I never wanted them. Not like this."
+msgstr "І ніколи не були потрібні. Особливо за таку ціну."
+
+msgid "YOU CAN HAVE THEM BACK!!"
+msgstr "МОЖЕШ ЗАБИРАТИ ЇХ НАЗАД!!"
+
+msgid "DO YOU HEAR ME?!"
+msgstr "ЧУЄШ МЕНЕ?!"
+
+msgid "These are not... my eyes!"
+msgstr "Це... не мої очі!"
+
+msgid "I stabbed and stabbed. I was determined to remove them."
+msgstr "Я колола й колола. Я збиралася їх позбутися."
+
+msgid "After all, if I removed them, things could go back to normal."
+msgstr "Бо якщо я їх позбудусь, то все повернеться на місця."
+
+msgid "I could do my chores as usual."
+msgstr "Я зможу й далі займатися хатніми справами."
+
+msgid "I could care for mother."
+msgstr "Зможу піклуватися про маму."
+
+msgid "I could spend my days with Iris..."
+msgstr "Зможу проводити цілі дні з Іріс…"
+
+msgid "It felt so good. It felt so relieving."
+msgstr "Мені було так добре. Мені так полегшало."
+
+msgid "I stabbed until I stopped seeing."
+msgstr "Я колола, поки не перестала бачити."
+
+msgid "Until I stopped worrying."
+msgstr "Поки не перестала хвилюватись."
+
+msgid "Until I stopped feeling."
+msgstr "Поки не перестала відчувати."
+
+msgid "Until I stopped moving."
+msgstr "Поки не перестала рухатись."
+
+msgid "I think in my final moments, I laughed."
+msgstr "Здається, в останні миті життя я сміялася."
+
+msgid "I laughed at how my life turned out."
+msgstr "Сміялася з того, яке в мене вийшло життя."
+
+msgid "Six blessings form a curse."
+msgstr "Шість благословень породжують прокляття."
+
+msgid "Yes..."
+msgstr "Так..."
+
+msgid "Because \"cursed\" is the only way I can describe this pathetic life."
+msgstr "Бо це жалюгідне життя інакше як проклятим не назвеш."
+
+msgid "I'm out of my cage...?"
+msgstr "Я не в клітці?.."
+
+msgid "(He's still trapped though...)"
+msgstr "(А він і досі ув'язнений…)"
+
+msgid "...Oh? All my items are gone...?"
+msgstr "...Га? Усі мої речі зникли?.."
+
+msgid "Without that doorknob... I can't go back home!"
+msgstr "Без тієї дверної ручки мені не повернутися додому!"
+
+msgid "This illusion should break apart now, shouldn't it?"
+msgstr "Хіба ілюзія не має розвіятись?"
+
+msgid "Too bad, I was starting to like this place."
+msgstr "А шкода, я навіть вподобав це місце."
+
+msgid "Fire..."
+msgstr "Вогонь..."
+
+msgid "Lilith... again..."
+msgstr "Ліліт… знову..."
+
+msgid "How? But how? How?"
+msgstr "Як? Як же? Як так?"
+
+msgid "....No no no no......."
+msgstr "...Ні-ні-ні..."
+
+msgid "No more."
+msgstr "Досить."
+
+msgid "DIE."
+msgstr "ПОМРИ."
+
+msgid "Hang on a sec."
+msgstr "Стривай-но."
+
+msgid "Over here."
+msgstr "Йди сюди."
+
+msgid "This place is strange."
+msgstr "Яке незвичайне місце."
+
+msgid "What tipped you off? The hallway filled with creepy faces?"
+msgstr "Що тебе здивувало? Коридори з купою моторошних облич?"
+
+msgid "No?!"
+msgstr "Ні?!"
+
+msgid "I mean... yes, but..."
+msgstr "Ну, так... але..."
+
+msgid "Don't you feel like this place is strangely cozy?"
+msgstr "Тобі не здається, що тут якось надто затишно?"
+
+msgid "It's almost like it's decorated with care."
+msgstr "Сюди ніби вклали душу."
+
+msgid "NOW it's cozy."
+msgstr "Ось ТЕПЕР тут затишно."
+
+msgid "What are you doing?"
+msgstr "Що ти робиш?"
+
+msgid "We can probably relax here for a while."
+msgstr "Гадаю, тут можна трішки перевести дух."
+
+msgid "It feels like a bad idea to relax in someone else's home."
+msgstr "Переводити дух в чужій домівці - не найкраща думка."
+
+msgid "If we're quiet enough, they'll never know."
+msgstr "Якщо сидітимемо тихенько, ніхто й дізнається."
+
+msgid "Besides, aren't you tired?"
+msgstr "І взагалі, ти хіба не втомилась?"
+
+msgid "We deserve a break anyway."
+msgstr "Нам належить відпочити."
+
+msgid "You're right that this place has a \"creepy but cute\" vibe to it."
+msgstr "Дійсно, атмосфера тут і моторошна, і мила одночасно."
+
+msgid "The fireplace is... cute."
+msgstr "Камін... милий."
+
+msgid "The fire is nice."
+msgstr "А вогонь хороший."
+
+msgid "That's a weird thing to say."
+msgstr "Сміливе твердження."
+
+msgid "Are you into burning things?"
+msgstr "Ти любиш все спалювати?"
+
+msgid "What? No!"
+msgstr "Що? Ні!"
+
+msgid "I just meant that it feels peaceful here."
+msgstr "Я просто маю на увазі, що тут спокійно."
+
+msgid "I'm not very good at conversations."
+msgstr "Я дуже погано веду бесіди."
+
+msgid "You're fine."
+msgstr "Та ні, нормально ти їх ведеш."
+
+msgid "So, what's got you doing deadly rituals?"
+msgstr "Отже, що спонукало тебе проводити небезпечні ритуали?"
+
+msgid "Well, normally people who come here either have nothing to lose in their life anymore..."
+msgstr "Зазвичай тим, хто сюди приходить, більше нічого втрачати в житті..."
+
+msgid "..or they're just plain dumb and reckless."
+msgstr "...або вони просто безрозсудні бовдури."
+
+msgid "Which one are you?"
+msgstr "І в якій ти категорії?"
+
+msgid "Dumb, probably."
+msgstr "Мабуть, серед бовдурів."
+
+msgid "Hmm."
+msgstr "Гм-м."
+
+msgid "So? What's your deal?"
+msgstr "Ну? А з тобою що?"
+
+msgid "You don't have to tell me if you don't wanna."
+msgstr "Можеш не казати, якщо не хочеш."
+
+msgid "...but I'll just annoy you until you do."
+msgstr "...але я буду тебе бісити, поки не розколешся."
+
+msgid "Or until you ditch me."
+msgstr "Або поки ти мене не кинеш."
+
+msgid "It doesn't make sense to \"ditch\" you yet."
+msgstr "Поки що я не бачу жодної причини тебе \"кидати\"."
+
+msgid "\"Yet.\""
+msgstr "\"Поки що.\""
+
+msgid "Alright?"
+msgstr "Добре?"
+
+msgid "I suppose I can tell you.... but it's going to get long."
+msgstr "Гадаю, тобі можна розповісти... проте це займе багато часу."
+
+msgid "I have nothing better to do."
+msgstr "Нічого, в мене інших справ немає."
+
+msgid "How should I put this..."
+msgstr "Як би так сказати..."
+
+msgid "...There's something very wrong with me."
+msgstr "...Зі мною щось дуже не так."
+
+msgid "But... it sounds ridiculous when I say it out loud."
+msgstr "Але... коли говорю про це вголос, звучить якось дивно."
+
+msgid "I'm all ears."
+msgstr "Я уважно слухаю."
+
+msgid "It's possible I may be... possessed."
+msgstr "Цілком можливо, що я... одержима."
+
+msgid "No... I'm definitely either possessed or cursed."
+msgstr "Ні... я або одержима, або проклята."
+
+msgid "It's been like this since I was little."
+msgstr "Я така змалку."
+
+msgid "Back then, I used to think I have a black cloud that just follows me everywhere."
+msgstr "У дитинстві я вважала, що наді мною завжди висіла якась чорна хмара."
+
+msgid "It makes people run away from me, it makes them hate me."
+msgstr "Через цю хмару люди тікають від мене, через неї вони мене ненавидять."
+
+msgid "They always have this terrifying look when they look at me..."
+msgstr "Коли вони дивляться на мене, я завжди бачу в них такий жахливий погляд..."
+
+msgid "Sometimes it turns into hatred, or anger."
+msgstr "Іноді це переростає в ненависть чи злість."
+
+msgid "With animals it's even worse."
+msgstr "А з тваринами все навіть гірше."
+
+msgid "Dogs will bark at me, and I can't even get close enough to pet a cat..."
+msgstr "Собаки на мене гавкають, а коти не підпускають до себе, коли я хочу їх попестити..."
+
+msgid "Or, today, I tried buying something at the store - and failed horribly."
+msgstr "Або як сьогодні, наприклад. Намагалася щось придбати в крамниці, та з тріском провалилась."
+
+msgid "I hate that I can't even do something as simple as that."
+msgstr "Мене дратує те, що я не здатна навіть на такі елементарні речі."
+
+msgid "It's like... just being around me makes people tense and aggressive."
+msgstr "Таке почуття... ніби всі коло мене стають знервованими та агресивними."
+
+msgid "But.. I know for a fact that it wasn't always like this."
+msgstr "Проте я знаю, що так було не завжди."
+
+msgid "I have memories of my childhood where things were fine."
+msgstr "Я маю спогади з дитинства, де в мене все було добре."
+
+msgid "Something must have changed at some point."
+msgstr "У якийсь день все перевернулося."
+
+msgid "And then, everyone suddenly started acting differently with me."
+msgstr "І раптом усі почали ставитися до мене інакше."
+
+msgid "For a really long time, I thought it was my fault."
+msgstr "Я довго думала, що тільки я в цьому винна."
+
+msgid "I thought that maybe I'm just broken, and different."
+msgstr "Я думала, що я просто не така як всі."
+
+msgid "I thought I did something wrong... I thought people had a reason to hate me so much."
+msgstr "Я думала, що скоїла щось не те... думала, що люди не просто так мене ненавидять."
+
+msgid "I know better now... but that doesn't change how it feels."
+msgstr "Тепер я все знаю... але мені від цього не легше."
+
+msgid "This... thing inside me... whatever it is..."
+msgstr "Це... \"щось\" всередині мене... щоб це не було..."
+
+msgid "It's isolating me from everyone."
+msgstr "Воно відгороджує мене від усіх."
+
+msgid "Even my parents hate being around me."
+msgstr "Навіть мої батьки ненавидять бути поруч зі мною."
+
+msgid "They leave the house for weeks at a time, and make excuses if I ask to come along."
+msgstr "Вони можуть на декілька тижнів кудись поїхати, а коли я прошуся поїхати з ними, вони завжди вигадують якісь відмовки."
+
+msgid "My brother is the only one who's there for me every time."
+msgstr "Тільки мій брат завжди поруч зі мною."
+
+msgid "And I know how hard it is for him."
+msgstr "І я розумію, як йому тяжко."
+
+msgid "But somehow he never falters."
+msgstr "Але він не подає виду."
+
+msgid "Without him I..."
+msgstr "Без нього я б..."
+
+msgid "I've been trying to get better for so long..."
+msgstr "Я вже так довго намагаюся вилікуватись..."
+
+msgid "So this ritual is... well... it's my last hope."
+msgstr "Тож цей ритуал... скажімо так... це моя остання надія."
+
+msgid "If I fail to find answers, then I'll probably give up..."
+msgstr "Якщо я так і не знайду відповіді, то опущу руки..."
+
+msgid "...on everything."
+msgstr "...назавжди."
+
+msgid "I can't bear to live like this anymore."
+msgstr "Я більше не можу так жити."
+
+msgid "Still... you should know about this."
+msgstr "І ти маєш право бути про це в курсі."
+
+msgid "You've been around me, don't you feel it?"
+msgstr "Ти ж був поруч зі мною, невже за цей час нічого не відчув?"
+
+msgid "Let me see..."
+msgstr "Погляньмо..."
+
+msgid "Yeah, you're right. You've got this weird ominous aura. Feels dangerous."
+msgstr "Так, твоя правда. У тебе зловісна аура. Небезпечна така."
+
+msgid "Doesn't bother me."
+msgstr "Та мені фіолетово."
+
+msgid "Really?"
+msgstr "Правда?"
+
+msgid "Nah. I guess I've felt worse."
+msgstr "Ага. Мабуть, я відчував речі набагато гірше."
+
+msgid "That doesn't make any sense. There must be something wrong with you."
+msgstr "Цього не може бути. З тобою точно щось не гаразд."
+
+msgid "(Is this person... not human?)"
+msgstr "(А він взагалі людина?)"
+
+msgid "Hah! Says the possessed girl!"
+msgstr "Ха! Від одержимої чую!"
+
+msgid "Rune said possessions aren't a thing, so it might be a curse."
+msgstr "Рун сказав, що одержимостей не буває, тому це прокляття."
+
+msgid "But you don't buy it? So, what, you came here to get exorcised?"
+msgstr "А ти в це не віриш? І що, ти прийшла сюди на сеанс екзорцизму?"
+
+msgid "I've tried that already..."
+msgstr "Я вже виконувала екзорцизм..."
+
+msgid "I wouldn't have come here unless I exhausted my possibilities beforehand."
+msgstr "Я б сюди не прийшла, якби не перепробувала всі варіанти."
+
+msgid "Smart."
+msgstr "Розумне рішення."
+
+msgid "No dice then?"
+msgstr "Тож тобі не пощастило?"
+
+msgid "Nothing."
+msgstr "Анітрішки."
+
+msgid "That sucks. Have you tried throwing table salt at yourself?"
+msgstr "Це погано. Як щодо посипати себе сіллю?"
+
+msgid "I hear it wards off demons. It might get rid of your curse too."
+msgstr "Кажуть, вона відганяє демонів. Либонь, із прокляттям розбереться."
+
+msgid "Very funny."
+msgstr "Дуже смішно."
+
+msgid "You seem to know quite a lot about this place and the rituals."
+msgstr "Ти, схоже, багато знаєш про це місце та про ритуали."
+
+msgid "Ah, yeah. I did a lot of these rituals to kill time."
+msgstr "А, дійсно. Я їх багато проводжу, аби вбити час."
+
+msgid "I'm surprised you're not dead yet."
+msgstr "Дивно, що ти ще живий."
+
+msgid "You know what they say, idiots don't die!"
+msgstr "Знаєш, як кажуть, дурням щастить!"
+
+msgid "I don't think anybody says that."
+msgstr "Так ніхто не каже."
+
+msgid "Hahaha, maybe you could start saying it then."
+msgstr "Ха-ха, тоді ти й почни."
+
+msgid "So, is your curse the reason you're trying to find the lighthouse?"
+msgstr "Отже, ти намагаєшся дістатися маяка через своє прокляття?"
+
+msgid "Yes... I was told there's someone there who can help guide me."
+msgstr "Так... мені сказали, що там мене зможуть направити в правильне русло."
+
+msgid "Do you hear that?"
+msgstr "Ти це чуєш?"
+
+msgid "Guests..?"
+msgstr "Гості?.."
+
+msgid "But... Not invited..."
+msgstr "Але... непрохані..."
+
+msgid "I'm.....confused....."
+msgstr "...Не розумію..."
+
+msgid "Uh-oh."
+msgstr "Ой-ой."
+
+msgid "Fire?!"
+msgstr "Вогонь?!"
+
+msgid "FIRE!"
+msgstr "ВОГОНЬ!"
+
+msgid "MAKE IT STOP!"
+msgstr "ЗАГАСІТЬ ЙОГО!"
+
+msgid "Hm..?.... A smell......"
+msgstr "Гм?.. Цей запах......"
+
+msgid "...Lilith?...No...."
+msgstr "...Ліліт?.. Ні..."
+
+msgid "....No...No..."
+msgstr "...Ні... Ні..."
+
+msgid "Nonononononono"
+msgstr "Ні-ні-ні-ні-ні-ні-ні-ні-ні"
+
+msgid "...Not you again..."
+msgstr "...Тільки не ти знову..."
+
+msgid "....?"
+msgstr "?.."
+
+msgid "GET OUT"
+msgstr "ЗАБИРАЙСЯ ГЕТЬ"
+
+msgid "GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT"
+msgstr "ЗАБИРАЙСЯ ЗАБИРАЙСЯ ЗАБИРАЙСЯ ЗАБИРАЙСЯ ЗАБИРАЙСЯ "
+
+msgid "Wh-..."
+msgstr "Що-"
+
+msgid "GET OUT."
+msgstr "ЗАБИРАЙСЯ."
+
+msgid "How... Why can't you just go away..."
+msgstr "Як... Чому ти не можеш просто піти звідси..."
+
+msgid "Every time I try to be at peace..."
+msgstr "Тільки я починаю насолоджуватись спокоєм..."
+
+msgid "YOU RUIN EVERYTHING!!!"
+msgstr "ЯК ТИ ОДРАЗУ ВСЕ ПСУЄШ!!!"
+
+msgid "You inspect the object closely..."
+msgstr "Ви уважно розглядаєте предмет..."
+
+msgid "As you look into it, the mirror regains its colors."
+msgstr "Коли ви придивилися, дзеркальце повернуло собі свої кольори."
+
+msgid "Welcome back."
+msgstr "З поверненням."
+
+msgid "How long have I been out?"
+msgstr "Скільки я лежала без свідомості?"
+
+msgid "14 minutes."
+msgstr "14 хвилин."
+
+msgid "That's creepy, you shouldn't watch people sleep."
+msgstr "Який жах, не можна дивитися, як люди сплять."
+
+msgid "I actually looked around first! I swear!"
+msgstr "Взагалі-то, я спочатку все тут оглянув! Чесне слово!"
+
+msgid "The door is right down this hall, see?"
+msgstr "Двері прямо по коридору, бачиш?"
+
+msgid "...I see."
+msgstr "...Бачу."
+
+msgid "You were pretty crazy back there, y'know?"
+msgstr "Знаєш, ти там влаштувала шоу."
+
+msgid "You must be really good at dodging knives."
+msgstr "Ти, схоже, добре ухиляєшся від ножів."
+
+msgid "Thanks."
+msgstr "Дякую."
+
+msgid "You sure you're not a demon yourself?"
+msgstr "А ти точно не демон?"
+
+msgid "It was just a joke, you know...?"
+msgstr "Я просто шуткую!.."
+
+msgid "I dunno what just happened..."
+msgstr "Не знаю, що тільки-но сталося..."
+
+msgid "...but you basically got rid of that demon and freed us right?"
+msgstr "...але припущу, що ти здихалася того демона та звільнила нас, так?"
+
+msgid "How?"
+msgstr "Яким чином?"
+
+msgid "It wasn't that hard. Maybe she had bad aim."
+msgstr "Це було просто. Схоже, у неї поганий аїм."
+
+msgid "Huh... so humble..."
+msgstr "Он як... сама скромність..."
+
+msgid "But next time don't leave me locked in a cage."
+msgstr "Проте наступного разу не лишай мене в клітці."
+
+msgid "I could've died, you know!?"
+msgstr "Я, між іншим, міг померти, розумієш?!"
+
+msgid "My bad."
+msgstr "Мій прокол."
+
+msgid "So, is it a dead end?"
+msgstr "Отже... це глухий кут?"
+
+msgid "Yep."
+msgstr "Угу."
+
+msgid "Just as Rune said..."
+msgstr "Як і сказав Рун..."
+
+msgid "You sound disappointed."
+msgstr "Ти ніби розчарована."
+
+msgid "Don't tell me you're up for more near death experiences."
+msgstr "Тільки не кажи, що не готова до ще більш смертельних випробувань."
+
+msgid "I just... haven't solved anything yet."
+msgstr "Ні... просто я так нічого й не зробила."
+
+msgid "I didn't find Red, I didn't even find the lighthouse."
+msgstr "Не знайшла ні Реда, ні навіть маяк."
+
+msgid "All of the things I set out to do..."
+msgstr "Не зробила нічого з того, що прагнула..."
+
+msgid "You've got time."
+msgstr "Час у тебе є."
+
+msgid "You're not dead yet."
+msgstr "Ти ще жива."
+
+msgid "That has to count for something, right?"
+msgstr "А це щось значить, згодна?"
+
+msgid "I guess there's no helping it."
+msgstr "Схоже, нічого не поробиш."
+
+msgid "MAKE IT STOP."
+msgstr "ХАЙ ЦЕ ПРИПИНИТЬСЯ."
+
+msgid "SHUT HIM UP."
+msgstr "СТУЛИ ЙОМУ ПЕЛЬКУ."
+
+msgid "I can't. I tried everything."
+msgstr "Не можу. Я все перепробував."
+
+msgid "USELESS!"
+msgstr "ЙОЛОП!"
+
+msgid "AAH I SWEAR I'M GONNA LOSE IT!"
+msgstr "А-А Я СКОРО НЕ ВИТРИМАЮ!"
+
+msgid "Oh good, someone else came."
+msgstr "Ну-ну, ще хтось приперся."
+
+msgid "Hey blondie, take this stupid piece of shit and throw it in the lake or something."
+msgstr "Слухай, білявочко, забери-но цей тупий шмат лайна та викинь його в озеро чи ще кудись."
+
+msgid "Squash it. Strangle it. Eat it. I don't care what you do."
+msgstr "Можеш розчавити його. Задушити. З'їсти. Мені на це чхати."
+
+msgid "Uh... what?"
+msgstr "Е... га?"
+
+msgid "Our baby brother here has been crying nonstop for the past few days."
+msgstr "Наш малий братик плаче вже декілька днів поспіль."
+
+msgid "Brother?"
+msgstr "Братик?"
+
+msgid "In the terrarium."
+msgstr "У тераріумі."
+
+msgid "You're all moths?"
+msgstr "Ви всі молі?"
+
+msgid "We won't be for long because this obnoxious brat is going to make me kill myself."
+msgstr "Ми перестанемо ними бути, коли вб'ємо себе через цього нестерпного вилупка."
+
+msgid "UGH WILL YOU AT LEAST SHUT THE HELL UP WHILE I'M TALKING!?"
+msgstr "ГХАА ТА ТИ МОЖЕШ ЗАМОВКНУТИ КОЛИ Я ГОВОРЮ?!"
+
+msgid "(Is he even saying anything?)"
+msgstr "(Він хіба говорить?)"
+
+msgid "Would you be so kind as to kill it for us?"
+msgstr "Зроби нам добро - убий його, а?"
+
+msgid "Me? Kill the caterpillar?"
+msgstr "Я? Гусінь?"
+
+msgid "Yes-"
+msgstr "Так-"
+
+msgid "YES."
+msgstr "ТАК."
+
+msgid "Why don't you do it?"
+msgstr "А ви чому це не зробите?"
+
+msgid "If we kill one of our kind, a curse is planted on us."
+msgstr "Якщо вб'ємо собі подібного, на нас накладеться прокляття."
+
+msgid "Please kill him for us. We're willing to reward you with this doorknob."
+msgstr "Благаю, вбий його для нас. Ми нагородимо тебе дверною ручкою."
+
+msgid "(A doorknob...)"
+msgstr "(Дверною ручкою...)"
+
+msgid "Why won't he just stop, I'm exhausted."
+msgstr "Коли ж він припинить? У мене вже снаги немає."
+
+msgid "(Should I kill the caterpillar?)"
+msgstr "(Чи вбити мені гусінь?)"
+
+msgid "I'll take care of it."
+msgstr "Я подбаю про неї."
+
+msgid "I'm leaving."
+msgstr "Я йду звідси."
+
+msgid "I'm going to... be somewhere else."
+msgstr "Я... піду деінде."
+
+msgid "You're LEAVING?!"
+msgstr "Ти ЙДЕШ?!"
+
+msgid "I-"
+msgstr "Я-"
+
+msgid "Useless."
+msgstr "Ніякої користі."
+
+msgid "I can dispose of her."
+msgstr "Я здихаюсь її."
+
+msgid "I'm just going to grab something."
+msgstr "Мені лише треба щось взяти."
+
+msgid "...Then I'll be back."
+msgstr "...Я миттю."
+
+msgid "(I might still need that doorknob...)"
+msgstr "(Та дверна ручка може мені знадобитися...)"
+
+msgid "Oh. Getting a tool for killing this bugger? I'll allow it."
+msgstr "О. Хочеш взяти інструмент для вбивства цього виродка? Тоді добро."
+
+msgid "Go on."
+msgstr "Можеш іти."
+
+msgid "There's no reason to kill it anymore..."
+msgstr "Вже немає причин його вбивати..."
+
+msgid "(They're not picking up...)"
+msgstr "(Вони не беруть слухавку...)"
+
+msgid "Hi hi, who's this?"
+msgstr "Алло-алло, хто говорить?"
+
+msgid "Hello mom."
+msgstr "Привіт, мамо."
+
+msgid "Ah... Lacie, what is it?"
+msgstr "А... Лейсі, щось сталось?"
+
+msgid "I was just calling to check on you."
+msgstr "Зателефонувала дізнатись, як ви там."
+
+msgid "We're very busy. Do you need anything?"
+msgstr "Ми дуже зайняті. Тобі щось потрібно?"
+
+msgid "Then, I'll call you some other time."
+msgstr "Тоді ми тобі іншим разом передзвонимо."
+
+msgid "Hello?"
+msgstr "Алло?"
+
+msgid "...Hello?"
+msgstr "...Алло?"
+
+msgid "Oh... it's you."
+msgstr "А... це ти."
+
+msgid "...Is your mother around?"
+msgstr "...Твоя матір поруч?"
+
+msgid "She isn't. Would you like to leave a message?"
+msgstr "Ні. Бажаєте, щоб я їй щось передала?"
+
+msgid "Uh... no. That's alright. Bye."
+msgstr "Е-е... ні. Не треба. Бувай."
+
+msgid "...Bye."
+msgstr "...Бувайте."
+
+msgid "(The neighbors still have a hard time talking to me...)"
+msgstr "(Сусідам досі важко зі мною розмовляти...)"
+
+msgid "You hear some strange noises on the other side of the line..."
+msgstr "З іншого кінця проводу ви чуєте дивний шум..."
+
+msgid "What will you say?"
+msgstr "Що ви скажете?"
+
+msgid "\"Where is my bus?\""
+msgstr "\"Де мій автобус?\""
+
+msgid "\"I need a bus.\""
+msgstr "\"Мені треба автобус.\""
+
+msgid "\"My bus is late.\""
+msgstr "\"Мій автобус запізнюється.\""
+
+msgid "Don't say anything"
+msgstr "Нічого не казати"
+
+msgid "..........already there.........."
+msgstr "…….уже на місці...……."
+
+msgid "There is no response."
+msgstr "Відповіді немає."
+
+msgid "[color=#90EE90]Rainbow potions will increase your endurance permanently.[/color]"
+msgstr "[color=#90EE90]Райдужні зілля назавжди підвищують вашу живучість.[/color]"
+
+msgid "[color=#90EE90]It is recommended to drink them as soon as possible.[/color]"
+msgstr "[color=#90EE90]Рекомендується споживати їх при першій же нагоді.[/color]"
+
+msgid "I'm too nervous to do anything else anyways..."
+msgstr "Нерви не дозволять мені зайнятися нічим іншим..."
+
+msgid "Then again, I'm not sure I can actually fall asleep."
+msgstr "Але й заснути через це буде непросто."
+
+msgid "I'll just lie down and close my eyes..."
+msgstr "Просто ляжу та заплющу очі..."
+
+msgid "Aahh... finally!"
+msgstr "А-а... нарешті!"
+
+msgid "Ughh... why is life on such a high difficulty setting..."
+msgstr "Гххх… і хто виставив моє життя на хардкорну складність?"
+
+msgid "Maybe I'll just nap this day away."
+msgstr "Нарешті можна просто поспати..."
+
+msgid "Nonono what am I saying? I have things to do."
+msgstr "Ні-ні-ні, куди? У мене ще купа справ."
+
+msgid "...Especially after today's experience..."
+msgstr "...Особливо після сьогоднішнього..."
+
+msgid "It's clear that there's no other way to move forward."
+msgstr "Очевидно, мені треба робити якісь кроки вперед."
+
+msgid "Sigh..."
+msgstr "*Позіхає*…"
+
+msgid "Alright, let's not waste time."
+msgstr "Що ж, не будемо гаяти час."
+
+msgid "This letter... is the real deal isn't it?"
+msgstr "Цей лист... це ж не розіграш?"
+
+msgid "Just holding it makes me nervous."
+msgstr "Тримаю його в руках і вже кров стигне в жилах."
+
+msgid "I still can't believe it actually arrived..."
+msgstr "Я й досі не вірю, що воно прийшло..."
+
+msgid "On the forums, some people waited for months and it never came."
+msgstr "На форумах, бува, люди місяцями чекають, і їм нічого не надсилають."
+
+msgid "But for me, it only took a day..."
+msgstr "Мені ж знадобився лише день..."
+
+msgid "This isn't my first ritual but..."
+msgstr "Це не перший мій ритуал, але..."
+
+msgid "It's my first time getting intentionally spirited away."
+msgstr "Я вперше насправді готова бути віднесеною привидами."
+
+msgid "Anyways... I need to tie a red thing to the phone, paint some symbol at the front door, then go to sleep."
+msgstr "Хай там як... треба прив'язати щось червоне до телефона, намалювати символ на парадних дверях, а потім лягти спати."
+
+msgid "Sounds simple enough."
+msgstr "Звучить просто."
+
+msgid "For the phone, I could use a ribbon, or a thread, or anything similar that's red."
+msgstr "До телефона можна прив'язати стрічку, нитку чи щось інше червоного кольору."
+
+msgid "For the front door... a marker? Or do I need to use real paint?"
+msgstr "А розмалювати двері... маркером? Чи треба фарбою?"
+
+msgid "And... I need to finish it all before the sun sets."
+msgstr "А ще... треба встигти до заходу сонця."
+
+msgid "Maybe it won't be that simple after all."
+msgstr "Схоже, не все так просто, як гадалося."
+
+msgid "I'm so sick of this dream."
+msgstr "Мені так осточортів цей сон."
+
+msgid "It's time, right?"
+msgstr "Час настав?"
+
+msgid "Anyways... Once I'm ready to go, I just need to call that number."
+msgstr "Хай там як... як тільки я буду готова йти, треба набрати той номер."
+
+msgid "This thing is pretty slow, huh?"
+msgstr "А ця штука досить повільна, згодна?"
+
+msgid "What do you think we'll find down there?"
+msgstr "Як гадаєш, що ми знайдемо внизу?"
+
+msgid "I don't know..."
+msgstr "Навіть не знаю..."
+
+msgid "I'd say it's not smart to go even deeper..."
+msgstr "Моя думка - не слід спускатися нижче..."
+
+msgid "But what do I know."
+msgstr "Але що я там розумію?"
+
+msgid "It's not like we have a choice."
+msgstr "Вибору в нас немає."
+
+msgid "And coming here in the first place wasn't smart already so..."
+msgstr "Та й взагалі приходити сюди було поганою ідеєю..."
+
+msgid "Oww..."
+msgstr "Ай..."
+
+msgid "(There's someone there!)"
+msgstr "(Там хтось є!)"
+
+msgid "(Wait... I have something for this situation!)"
+msgstr "(Чекайте... я знаю, чим можна скористатись!)"
+
+msgid "Did you just throw salt in my face?"
+msgstr "Ти щойно жбурнула мені сіль в пику?"
+
+msgid "Y-yes."
+msgstr "Т-так."
+
+msgid "Uh... why?"
+msgstr "Е... з якою метою?"
+
+msgid "I thought you were a demon."
+msgstr "Я думала, ти демон."
+
+msgid "And, if I was a demon, you think table salt would have stopped me?"
+msgstr "Ага, тобто якби я був демоном, сіль би мене зупинила?"
+
+msgid "I- ...I didn't have any holy salt."
+msgstr "Я... у мене не було освяченої солі."
+
+msgid "That's ridiculous. Salt has no effect."
+msgstr "Які дурниці. Сіль так не працює."
+
+msgid "I read it somewhere..."
+msgstr "А я десь про це прочитала..."
+
+msgid "This is the funniest shit that happened all week."
+msgstr "Я таку сміхотинку цілий тиждень не ловив."
+
+msgid "Sorry, sorry!"
+msgstr "Пробач, пробач!"
+
+msgid "I'm Sai."
+msgstr "Я Сай."
+
+msgid "What brings you to a place like this?"
+msgstr "Що привело тебе в це місце?"
+
+msgid "Oh! I see I see."
+msgstr "О! Зрозумів."
+
+msgid "Wow, really?"
+msgstr "Ти ба, правда?"
+
+msgid "Who are you talking to... I didn't say anything."
+msgstr "З ким ти розмовляєш? Я ще нічого не сказала."
+
+msgid "I know, it's a joke."
+msgstr "Знаю, це я так, жартую."
+
+msgid "Just... filling the silence."
+msgstr "Просто... намагаюсь заповнити мовчання."
+
+msgid "You're not really talkative huh?"
+msgstr "Ти зовсім не балакуча, як я бачу?"
+
+msgid "No... not really."
+msgstr "Ні..."
+
+msgid "W-wha-"
+msgstr "Щ-що-"
+
+msgid "Wait! You're just leaving?"
+msgstr "Чекай! Ти що, просто підеш?"
+
+msgid "That's not where the exit is."
+msgstr "Вихід не там."
+
+msgid "Why don't we-"
+msgstr "Чом би нам не-"
+
+msgid "On second thought, that direction's good, go go go!"
+msgstr "Хоча знаєш, там теж досить непогано! Хутчіше, біжімо!"
+
+msgid "You don't want to run into that thing."
+msgstr "Не раджу стикатися з тією тварюкою."
+
+msgid "Better hide here."
+msgstr "Ліпше сховатися тут."
+
+msgid "(This place looks worse than just staying out there ...!)"
+msgstr "(Тут навіть гірше, ніж ззовні!..)"
+
+msgid "Holy crap, this room is worse than just staying in the hallway."
+msgstr "Чорт забирай, тут навіть гірше, ніж у коридорі."
+
+msgid "You dropped something."
+msgstr "У тебе щось впало."
+
+msgid "To-do list before you... die?"
+msgstr "Список справ перед твоєю... смертю?"
+
+msgid "Please give it back."
+msgstr "Віддай, будь ласка."
+
+msgid "You didn't complete it."
+msgstr "Ти там не все зробила."
+
+msgid "I know."
+msgstr "Я знаю."
+
+msgid "Why do you... erm..."
+msgstr "А навіщо ти... ем…"
+
+msgid "I mean, that list looks pretty depressing."
+msgstr "Що тут скажеш, цей список досить тривожний."
+
+msgid "I'm aware."
+msgstr "Я в курсі."
+
+msgid "Do you wanna talk about it?"
+msgstr "Хочеш про це поговорити?"
+
+msgid "Got it."
+msgstr "Зрозумів."
+
+msgid "A garden with a single door in the middle..."
+msgstr "Сад з одними-єдиними дверима посередині..."
+
+msgid "This is it."
+msgstr "Ось і все."
+
+msgid "I just need to make a lily and place it in the vase, right?"
+msgstr "Треба лише скласти лілію та покласти її у вазу?"
+
+msgid "Hey um..."
+msgstr "Агов, слухай..."
+
+msgid "Before that..."
+msgstr "Поки ти не почала..."
+
+msgid "...I wanted to talk to you about something."
+msgstr "...Я хотів би дещо з тобою обсудити."
+
+msgid "It's about that list."
+msgstr "Я про той список."
+
+msgid "What list?"
+msgstr "Який список?"
+
+msgid "Your to-do list? ...Before you die?"
+msgstr "Список справ? …Перед твоєю смертю?"
+
+msgid "Oh... that."
+msgstr "А, цей список."
+
+msgid "I was thinking about it."
+msgstr "Я тут роздумував про нього."
+
+msgid "Why don't you make a new list?"
+msgstr "Чом би тобі не зробити новий список?"
+
+msgid "Instead of a list of things to do before you die..."
+msgstr "Замість списку справ перед смертю..."
+
+msgid "Why don't you make a list of things to do once you get fixed?"
+msgstr "Як щодо списку справ після того, як ти вилікуєшся?"
+
+msgid "Starting with treating me to that flan you like."
+msgstr "Спершу можеш пригостити мене пирогом, який так любиш."
+
+msgid "Starting with treating me to some macarons?"
+msgstr "Спершу можеш пригостити мене макарунами, як тобі таке?"
+
+msgid "Starting with treating me to an eclair maybe?"
+msgstr "Спершу можеш пригостити мене еклером, як тобі таке?"
+
+msgid "That way you'll have something to look forward to."
+msgstr "Так тобі буде, на що чекати."
+
+msgid "I'm not sure what to say in a situation like this."
+msgstr "Я не знаю, що казати в такі моменти."
+
+msgid "You don't need to say anything."
+msgstr "Не треба нічого казати."
+
+msgid "I just think it would suck if you gave up."
+msgstr "Просто мені здається, що якщо ти опустиш руки, буде сумно."
+
+msgid "Why?"
+msgstr "Чому?"
+
+msgid "Why!?"
+msgstr "Тобто чому?!"
+
+msgid "Well, because... I don't know."
+msgstr "Ну, тому що... та чорт його зна."
+
+msgid "Today was fun."
+msgstr "Сьогодні було весело."
+
+msgid "Fun...?"
+msgstr "Весело?.."
+
+msgid "Yeah! Everything was really exciting, don't you think?"
+msgstr "Ще б пак! Такі класні речі з нами сталися, ти так не вважаєш?"
+
+msgid "We almost died..."
+msgstr "Ми ледь не загинули..."
+
+msgid "Yeah!"
+msgstr "Отож!"
+
+msgid "...A lot."
+msgstr "...І не раз."
+
+msgid "Yeah, but, we made it, didn't we?"
+msgstr "Це правда, та врешті-решт ми впоралися, чи не так?"
+
+msgid "I guess that's true."
+msgstr "Мабуть, так."
+
+msgid "Anyways, let's hurry. It's not good to stay in this room for too long."
+msgstr "Ну добре, нумо поквапимось. Краще не затримуватись у цій кімнаті."
+
+msgid "I left the browser open on some forums..."
+msgstr "У мене в браузері відкриті декілька форумів..."
+
+msgid "Check out the forums?"
+msgstr "Продивитись форуми?"
+
+msgid "\"Devil's Eye Forums\""
+msgstr "Форуми \"Ока Диявола\""
+
+msgid "\"how 2 get letter??\" - 2 months ago"
+msgstr "\"де дістати лист??\" - 2 місяці тому"
+
+msgid "\"Breaking the Rules?\" - 7 months ago"
+msgstr "\"Якщо порушити правила?\" - 7 місяців тому"
+
+msgid "\"Whats with the weird ads\" - 11 months ago"
+msgstr "\"Шо за дивна реклама\" - 11 місяців тому"
+
+msgid "\"Tips on bus ritual\" - 11 months ago"
+msgstr "\"Підкажіть по ритуалу\" - 11 місяців тому"
+
+msgid "\"Where does the bus go\" - 2 years ago"
+msgstr "\"Куди їде автобус\" - 2 роки тому"
+
+msgid "Exit"
+msgstr "Вийти"
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"i wanna try a ritual but idk how to get the letter. help?"
+msgstr ""
+"[color=green]daite_lyst, 2 місяці тому[/color]\n"
+"хочу попробувати ритуал але хз де брати лист. хто виручить?"
+
+msgid ""
+"[color=green]helpfulM0D, 2 months ago[/color]\n"
+"Read the sticky, you need to send a letter with just your name in it. If you're chosen you'll get a golden envelope at some point."
+msgstr ""
+"[color=green]korysnyi_M0der, 2 місяці тому[/color]\n"
+"Читай у закрепі. Треба надіслати лист із твоїм ім'ям. Якщо тебе оберуть, то надішлють золотий конверт."
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"i dont get it, is it like my full name? nothing else?? whats the address i mail it to"
+msgstr ""
+"[color=green]daite_lyst, 2 місяці тому[/color]\n"
+"не зроз, треба моє повне ім'я? а ще що?? адресу треба?"
+
+msgid ""
+"[color=green]letterpls1, 2 months ago[/color]\n"
+"also does it need a stamp"
+msgstr ""
+"[color=green]daite_lyst, 2 місяці тому[/color]\n"
+"і чи треба там якась печатка"
+
+msgid ""
+"[color=green]letterpls1, 29 days ago[/color]\n"
+"nobody's helping me, you all suck"
+msgstr ""
+"[color=green]daite_lyst, 29 днів тому[/color]\n"
+"ніхто мені не допоміг, ненавиджу вас"
+
+msgid ""
+"[color=green]helpfulM0D, 29 days ago[/color]\n"
+"Again, the information you need is in the sticky. Read the rules next time, there's a search button for a reason."
+msgstr ""
+"[color=green]korysnyi_M0der, 29 днів тому[/color]\n"
+"Я повторю - усе написано в закріплених повідомленнях. Наступного разу читай правила, для тебе придумали кнопку пошуку."
+
+msgid "[color=red]***POST HAS BEEN LOCKED***[/color]"
+msgstr "[color=red]***ПОСТ ЗАКРИТО***[/color]"
+
+msgid ""
+"[color=green]xXOccultfanXx, 7 months ago[/color]\n"
+"your wrong. If smt is in the ritual rules, you gotta respect it or else your toast."
+msgstr ""
+"[color=green]pro100_OKyJ|bTucT, 7 місяців тому[/color]\n"
+"не можна. Якщо шось пишуть в ритуалі, значить так воно треба, або хана."
+
+msgid ""
+"[color=green]Kasaju_86, 7 months ago[/color]\n"
+"Have you ever even DONE a ritual?? I'm offering legitimate advice from people who actually survived them."
+msgstr ""
+"[color=green]Kasaju_86, 7 місяців тому[/color]\n"
+"Ти хоч раз проводив ритуал?? Я ділюся порадами від тих, хто дійсно їх пережив."
+
+msgid "Please stop spreading misinformation, you're risking people's lives. Also it's \"you're\", are you five?"
+msgstr "Прошу тебе не розповсюджувати дезінформацію, людське життя - це не жарти. А ще правильно писати \"щось\", чи ти взагалі дебіл?"
+
+msgid ""
+"[color=green]xXOccultfanXx, 7 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] just bc you've been on this website for longer, doesn't mean you gotta be an entitled a**. Some of us are just trying to have fun here."
+msgstr ""
+"[color=green]pro100_OKyJ|bTucT, 7 місяців тому[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] якщо ти прожив на цьому сайті більше мене, це не дає тобі права поводитись як п******. На відміну від тебе, люди просто хочуть побавитись."
+
+msgid ""
+"[color=green]Kasaju_86, 7 months ago[/color]\n"
+"You're right. I don't know why I bothered. Have fun with your ritual~~~!"
+msgstr ""
+"[color=green]Kasaju_86, 7 місяців тому[/color]\n"
+"Маєш рацію. І чому я тільки причепився? Бався зі своїм ритуалом скільки влізе~~~!"
+
+msgid "People are always bickering on forums."
+msgstr "Люди вічно сваряться на форумах."
+
+msgid ""
+"[color=green]pklurkerx, 11 months ago[/color]\n"
+"Any tips for the bus ritual? I started it the other day but I couldn't go through with it. After I finished the preps it felt too real. Still wanna try at some point tho!"
+msgstr ""
+"[color=green]pklurkerx, 11 місяців тому[/color]\n"
+"Хтось може дати якісь підказки стосовно ритуалу? Я його якось розпочав, але не закінчив. Усе здалося аж надто реальним. Але колись закінчу, це точно!"
+
+msgid ""
+"[color=green]Tomas_B, 11 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] might have some ideas."
+msgstr ""
+"[color=green]Tomas_B, 11 місяців тому[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] може щось знати."
+
+msgid ""
+"[color=green]pklurkerx, 11 months ago[/color]\n"
+"Thx!"
+msgstr ""
+"[color=green]pklurkerx, 11 місяців тому[/color]\n"
+"Дяка!"
+
+msgid ""
+"[color=green]Kasaju_86, 10 months ago[/color]\n"
+"[u][color=teal]@pklurkerx[/color][/u] if you're unsure about going through with a ritual, it might be best to pass on it."
+msgstr ""
+"[color=green]Kasaju_86, 10 місяців тому[/color]\n"
+"[u][color=teal]@pklurkerx[/color][/u], якщо в тебе немає впевненості щодо ритуалу, краще махнути на нього рукою."
+
+msgid "However curiosity is a powerful enemy, so I'll say this: Get off the bus before the end of the line, no matter what."
+msgstr "Але допитливість - сильний ворог, тому дещо скажу: обов'язково вилазь з автобуса, доки той не доїхав до кінцевої."
+
+msgid ""
+"[color=green]Tomas_B, 10 months ago[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] whats at the end of the line? O,O"
+msgstr ""
+"[color=green]Tomas_B, 10 місяців тому[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u], а що там на кінцевій? O,O"
+
+msgid ""
+"[color=green]Kasaju_86, 10 months ago[/color]\n"
+"Who can say."
+msgstr ""
+"[color=green]Kasaju_86, 10 місяців тому[/color]\n"
+"Ніхто не знає."
+
+msgid ""
+"[color=green]pklurkerx, 10 months ago[/color]\n"
+"Thx [u][color=teal]@Kasaju_86[/color][/u]! Actually someone dared me to try a ritual so I wanted to show them I can, but I'll think about it. Better safe than sorry."
+msgstr ""
+"[color=green]pklurkerx, 10 місяців тому[/color]\n"
+"[u][color=teal]@Kasaju_86[/color][/u] від душі! Якщо чесно, мене дехто взяв на слабо, щоб спробувати ритуал. Тоді хотілося довести, що я можу, але зараз сумніваюсь. Краще жити, ніж потім жалкувати."
+
+msgid ""
+"[color=green]ShibaShiba, 2 years ago[/color]\n"
+"Has anyone ever tried the bus ritual? Where does it take you? Is it safe?"
+msgstr ""
+"[color=green]ShibaShiba, 2 роки тому[/color]\n"
+"Хтось вже пробував ритуал з автобусом?! Він безпечний? І куди він веде?"
+
+msgid ""
+"[color=green]heartshapedfish3, 2 years ago[/color]\n"
+"to your deathbed"
+msgstr ""
+"[color=green]vrodlyva_rybka3, 2 роки тому[/color]\n"
+"в труну"
+
+msgid ""
+"[color=green]_Headphoneboy69, 2 years ago[/color]\n"
+"If you're looking for safe rituals, you're in the wrong place."
+msgstr ""
+"[color=green]_HaByIIIHuK69, 2 роки тому[/color]\n"
+"Якщо шукаєш безпечні ритуали, то явно помилилась дверима."
+
+msgid ""
+"[color=green]ShibaShiba, 2 years ago[/color]\n"
+"Okay I think I'll just try it, yolo lol"
+msgstr ""
+"[color=green]ShibaShiba, 2 роки тому[/color]\n"
+"Ну добре, тоді просто спробую його. Якто кажуть, один раз живемо"
+
+msgid ""
+"[color=green]catsuwu, 2 years ago[/color]\n"
+"Good luck! Let us know how it goes!"
+msgstr ""
+"[color=green]UwU_KoIIIeNya, 2 роки тому[/color]\n"
+"Хай щастить! Напишеш потім, як успіхи!"
+
+msgid ""
+"[color=green]catsuwu, 1 year ago[/color]\n"
+"[u][color=teal]@ShibaShiba[/color][/u] Any update?"
+msgstr ""
+"[color=green]UwU_KoIIIeNya, 1 рік тому[/color]\n"
+"[u][color=teal]@ShibaShiba[/color][/u] ну що там?"
+
+msgid ""
+"[color=green]heartshapedfish3, 1 year ago[/color]\n"
+"ded prolly lol"
+msgstr ""
+"[color=green]vrodlyva_rybka3, 1 рік тому[/color]\n"
+"та здохла вона лол"
+
+msgid ""
+"[color=green]catsuwu, 1 year ago[/color]\n"
+"[u][color=teal]@heartshapedfish3[/color][/u] don't be so insensitive, probably just an inactive account."
+msgstr ""
+"[color=green]UwU_KoIIIeNya, 1 рік тому[/color]\n"
+"[u][color=teal]@vrodlyva_rybka3[/color][/u] не треба так грубо, це може бути просто неактивний акаунт."
+
+msgid ""
+"[color=green]heartshapedfish3, 1 year ago[/color]\n"
+"inactive cuz ded lol"
+msgstr ""
+"[color=green]vrodlyva_rybka3, 1 рік тому[/color]\n"
+"неактив бо здохла лол"
+
+msgid ""
+"[color=green]Tomas_B, 1 year ago[/color]\n"
+"does anyone know whats the deal with the ads at the top of the forum o,o? there's doorknobs for sale? what's next? washing machines!?"
+msgstr ""
+"[color=green]Tomas_B, 1 рік тому[/color]\n"
+"хтось шарить що то за дивна реклама пішла o,o? там дверні ручки продають? а далі що? пральні машинки?!"
+
+msgid ""
+"[color=green]Shaaaaawn, 1 year ago[/color]\n"
+"I also wanna know tbh. That ad has been up for a while, someone must be making the big bucks off broken doors lmao"
+msgstr ""
+"[color=green]Shaaaaawn, 1 рік тому[/color]\n"
+"Мені теж цікаво імхо. Ця реклама вже тут довго висить, значить хтось добряче заробляє на вибитих дверях хаха"
+
+msgid ""
+"[color=green]helpfulM0D, 11 months ago[/color]\n"
+"While the admins have not shared with us the sources of the ads, please remember that the site is free - ads are a necessary evil for it stay afloat."
+msgstr ""
+"[color=green]korysnyi_M0der, 11 місяців тому[/color]\n"
+"Адміни не діляться з нами інфою щодо рекламодавців, але не забувайте, що сайт безкоштовний, а реклама - необхідне зло, щоб залишатись на плаву."
+
+msgid ""
+"[color=green]Shaaaaawn, 11 months ago[/color]\n"
+"Fair bro you make a good point... I think i'll buy a new doorknob for my bedroom to support the site"
+msgstr ""
+"[color=green]Shaaaaawn, 11 місяців тому[/color]\n"
+"Маєш рацію, друже... тоді куплю собі нову ручку для спальні, підтримаю сайт"
+
+msgid ""
+"[color=green]Tomas_B, 11 months ago[/color]\n"
+"[u][color=teal]@helpfulM0D[/color][/u] ok sorry if my question was out of place. im happy to have this site even if its funded by Big Doorknob haha >_>"
+msgstr ""
+"[color=green]Tomas_B, 11 місяців тому[/color]\n"
+"[u][color=teal]@korysnyi_M0der[/color][/u] дякую і вибач за дурне питання. я радий, що цей сайт взагалі є. Хай його спонсують хоч дверні ручки >_>"
+
+msgid "That's where I ordered my ${item:ch1.doorknob_return}."
+msgstr "Там я й зробила замовлення, після чого мені прийшла ${item:ch1.doorknob_return}."
+
+msgid "That's where I ordered the ${item:ch1.doorknob_return} which I left by the window."
+msgstr "Там я й зробила замовлення, після чого мені прийшла ${item:ch1.doorknob_return}, яку я залишила біля вікна."
+
+msgid "Supposedly I can use it to return home after doing the ritual."
+msgstr "Нею нібито можна буде скористатись, щоб повернутися додому після ритуалу."
+
+msgid "It's most likely a scam but..."
+msgstr "Це, скоріш за все, просто кидалово..."
+
+msgid "...if it's to placate Hiro, even a scam will do."
+msgstr "...але якщо треба заспокоїти Хіро, я готова навіть на таке."
+
+msgid "You've made a terrible mistake. Please try again."
+msgstr "Ви здійснили жахливу помилку. Будь ласка, спробуйте знову."
+
+msgid "Continue"
+msgstr "Продовжити"
+
+msgid "End Game"
+msgstr "Закінчити гру"
+
+msgid "The first item in a to-do list is always the hardest one to cross off."
+msgstr "У списку справ найважче за все дається перший пункт."
+
+msgid "If we could just get one item done, the rest would surely follow. We just need to start."
+msgstr "Якби в нас вистачало снаги виконати щось одне, все інше саме б виконалось. Треба лише почати."
+
+msgid "That's why some people find the easiest item first, and start from there."
+msgstr "Саме тому люди обирають найпростішу справу та починають саме з неї."
+
+msgid "It gives them a better chance at getting something done."
+msgstr "Тоді в них стає більше шансів закінчити щось до кінця."
+
+msgid "This is because setting things in motion is difficult."
+msgstr "А все через те, що привести щось у рух складно."
+
+msgid "Choosing to do homework is difficult. Choosing to clean your room is difficult. Choosing to get out of bed is difficult."
+msgstr "Зробити домашню роботу - важкий вибір. Прибратися в кімнаті - важкий вибір. Встати з ліжка - важкий вибір."
+
+msgid "Change is uncomfortable. It's always easier to leave things the way they are. To let the flow carry you."
+msgstr "Зміни часто несуть дискомфорт. Завжди набагато простіше залишити все як є. Плисти за течією."
+
+msgid "Until you reach a point where doing nothing does more damage than doing anything."
+msgstr "Доки не настане момент, коли від бездіяльності буде більше шкоди, ніж від будь-якої дії."
+
+msgid "When this happens, change is no longer a choice. It's a consequence."
+msgstr "Коли таке трапляється, зміна перестає бути вибором. Вона стає наслідком."
+
+msgid "Is that also a choice? The choice to do nothing?"
+msgstr "А вибір нічого не робити - це теж вибір?"
+
+msgid "...For now, I'll focus on getting the first item on the list done."
+msgstr "...Поки що зосереджусь на першому пункті у своєму списку."
+
+msgid "All I need to do is choose..."
+msgstr "Треба лише обрати..."
+
+msgid "Coffee"
+msgstr "Каву"
+
+msgid "Green Tea"
+msgstr "Зелений чай"
+
+msgid "Strawberry Milkshake"
+msgstr "Полуничний мілкшейк"
+
+msgid "...and also..."
+msgstr "...а до цього..."
+
+msgid "Flan"
+msgstr "Фруктовий пиріг"
+
+msgid "Macarons"
+msgstr "Печиво-макарун"
+
+msgid "Chocolate Eclair"
+msgstr "Шоколадний еклер"
+
+msgid "${var:ch1.temp_cafe_order_string}..."
+msgstr "${var:ch1.temp_cafe_order_string}..."
+
+msgid "${var:ch1.temp_cafe_order_string}....."
+msgstr "${var:ch1.temp_cafe_order_string}....."
+
+msgid "I got this."
+msgstr "Все вийде."
+
+msgid "${var:ch1.temp_cafe_order_string}."
+msgstr "${var:ch1.temp_cafe_order_string}."
+
+msgid "Could I get-"
+msgstr "А можна мені-"
+
+msgid "Oh, h-hello."
+msgstr "Ой, в-вітаю."
+
+msgid "(What the... this girl startled the soul out of me...)"
+msgstr "(Якого... ця дівчина мене ледве до смерті не налякала...)"
+
+msgid "(Her whole vibe is... really unsettling.)"
+msgstr "(Уся її аура... вона така тривожна.)"
+
+msgid "(Let's get this over with quickly.)"
+msgstr "(Краще швидесенько з цим покінчити.)"
+
+msgid "Um... hello?"
+msgstr "Ем... добрий день?"
+
+msgid "Could I-"
+msgstr "А можна-"
+
+msgid "What can I get you?"
+msgstr "Яке ваше замовлення?"
+
+msgid "${var:ch1.temp_cafe_order_string}?"
+msgstr "${var:ch1.temp_cafe_order_string}?"
+
+msgid "A flan, with anything on top?"
+msgstr "Що покласти зверху на пиріг?"
+
+msgid "Um... just one of those on display."
+msgstr "Ем... просто дайте пиріг зі світлини."
+
+msgid "Those are just for display. Not for sale."
+msgstr "Він лише для гарного виду й не продається."
+
+msgid "Then... just a flan."
+msgstr "Тоді... просто пиріг."
+
+msgid "You need to tell me if you want it with anything..."
+msgstr "Просто скажіть, з чим ви його хочете..."
+
+msgid "Just the flan. Regular."
+msgstr "Дайте просто пиріг. Звичайний."
+
+msgid "...One \"regular\" flan then..."
+msgstr "...Один \"звичайний\" пиріг..."
+
+msgid "...Yes, regular."
+msgstr "...Так, звичайний."
+
+msgid "Macarons? What kind? How many?"
+msgstr "Макаруни? Які? Скільки?"
+
+msgid "Uh... the pink ones?"
+msgstr "Е... рожеві?"
+
+msgid "That can be strawberry, or raspberry, or cotton candy."
+msgstr "Вони можуть бути з полуницею, малиною або цукровою ватою."
+
+msgid "...Maybe one of each?"
+msgstr "...Тоді кожного по одному?"
+
+msgid "The minimum is 6."
+msgstr "Треба брати принаймні шість."
+
+msgid "...Okay."
+msgstr "...Добре."
+
+msgid "So two of each."
+msgstr "Тоді по дві штуки."
+
+msgid "...Two of each, yes."
+msgstr "...Так, по дві."
+
+msgid "An eclair? What kind?"
+msgstr "Еклер? Який?"
+
+msgid "Chocolate, please."
+msgstr "Шоколадний, будь ласка."
+
+msgid "There are no chocolate eclairs left."
+msgstr "Шоколадні скінчилися."
+
+msgid "Hazelnut is pretty much the same thing."
+msgstr "Можете взяти з ліщиною, вони майже нічим не відрізняються."
+
+msgid "...That one, then."
+msgstr "...Тоді цього дайте."
+
+msgid "Just one?"
+msgstr "Одну штуку?"
+
+msgid "...Yeah. One hazelnut eclair."
+msgstr "...Так. Один еклер з ліщиною."
+
+msgid "...And a coffee."
+msgstr "...А ще каву."
+
+msgid "What kind of coffee?"
+msgstr "Яку каву?"
+
+msgid "Just coffee?"
+msgstr "Просто каву?"
+
+msgid "Black, latte, with milk...?"
+msgstr "Чорну каву, лате, з молоком?.."
+
+msgid "With whipped cream?"
+msgstr "Чи додавати вершки?"
+
+msgid "Also what size?"
+msgstr "І який розмір?"
+
+msgid "...And a tea, please."
+msgstr "...А ще чай, будь ласка."
+
+msgid "Tea, or bubble tea?"
+msgstr "Звичайний чай чи бульбашковий?"
+
+msgid "(What's bubble tea...?)"
+msgstr "(Що таке бульбашковий чай?..)"
+
+msgid "Tea, I think."
+msgstr "Мабуть, просто чай."
+
+msgid "What kind? Black, purple, oolong...?"
+msgstr "Який саме? Чорний, фіолетовий, чай улун?.."
+
+msgid "(Which was it...? It was none of those...!)"
+msgstr "(Який я там хотіла?.. Вона його не назвала!..)"
+
+msgid "...Maybe bubble tea then?"
+msgstr "...Може, тоді бульбашковий чай?"
+
+msgid "You still need to choose a flavor."
+msgstr "Все одно треба вибрати смак."
+
+msgid "...Have you even looked at the menu?"
+msgstr "...Ви взагалі дивилися в меню?"
+
+msgid "...And the milkshake."
+msgstr "...І мілкшейк."
+
+msgid "What flavor?"
+msgstr "З яким смаком?"
+
+msgid "Um... strawberry please."
+msgstr "Е... з полуницею, будь ласка."
+
+msgid "We're out of strawberries. We'll go with concentrate, okay?"
+msgstr "У нас скінчилися полуниці. Можна скористатися концентратом, нічого?"
+
+msgid "...W-wait... concentrate?"
+msgstr "...С-стривайте... концентрат?"
+
+msgid "Unless you wanna choose something else."
+msgstr "Чи, може, ви хочете обрати щось інше?"
+
+msgid "Another fruit...?"
+msgstr "Інший фрукт?.."
+
+msgid "(What fruits are there...? I should have thought of this in advance...!)"
+msgstr "(Які там є фрукти?.. Раніше треба було думати!..)"
+
+msgid "I don't have all day, you know."
+msgstr "У мене часу обмаль, взагалі-то."
+
+msgid "...Um... Actually, just a bottle of water... please."
+msgstr "...Ем... Знаєте, дайте просто пляшку води... будь ласка."
+
+msgid "...A bottle of water and a flan...?"
+msgstr "...Пляшка води з пирогом?.."
+
+msgid "...A water and six macarons?"
+msgstr "...Пляшка води з шістьма макарунами?"
+
+msgid "...A bottle of water and a single eclair?"
+msgstr "...Пляшка води з одним еклером?"
+
+msgid "Have a seat, I'll bring it for you."
+msgstr "Сідайте, я вам усе принесу."
+
+msgid "(...that was embarrassing.)"
+msgstr "(...який сором.)"
+
+msgid "(I scared the cashier and couldn't even get what I wanted...)"
+msgstr "(Перелякала баристу та замовила не те, що хотіла...)"
+
+msgid "(I can't even do this much?)"
+msgstr "(Невже я навіть на таке не здатна?)"
+
+msgid "What is it? Did you notice that girl too?"
+msgstr "Що таке? Ти теж ту дівчину побачила?"
+
+msgid "Is it just me or does she seem strange to you?"
+msgstr "Це мені так здається, чи вона якась дивна?"
+
+msgid "I was just about to say the same thing."
+msgstr "Тільки хотіла це сказати."
+
+msgid "She gives off creepy vibes..."
+msgstr "Якась вона моторошна..."
+
+msgid "(This again...? Just ignore them...)"
+msgstr "(Знову це? Просто не звертатиму на них увагу...)"
+
+msgid "Do you wanna move?"
+msgstr "Може, сядьмо деінде?"
+
+msgid "I'd feel impolite switching tables now, but..."
+msgstr "Якось буде неввічливо зараз міняти столик, проте..."
+
+msgid "Yeah, let's go."
+msgstr "Так, ходімо."
+
+msgid "Go go, before she curses us or something!"
+msgstr "Швидше, поки вона нас не прокляла!"
+
+msgid "(Lacie... relax.)"
+msgstr "(Лейсі… спокійно.)"
+
+msgid "(It's just two girls. You can put up with it.)"
+msgstr "(Це лише дві дівчини. Їх можна витерпіти.)"
+
+msgid "That girl.. isn't she the daughter of the family who lives on the next block?"
+msgstr "Та дівчина... вона хіба не з тієї сім'ї, що живе в сусідньому кварталі?"
+
+msgid "Oh my goodness. You're right."
+msgstr "Господи, твоя правда."
+
+msgid "Man... Just being around her gives me the chills."
+msgstr "Ого... від однієї її присутності вже якось страшно."
+
+msgid "What is it about her, I wonder?"
+msgstr "А що з нею взагалі?"
+
+msgid "Whatever! She's a freak."
+msgstr "Та яка різниця! Вона ненормальна."
+
+msgid "Mommy can we leave? That lady..."
+msgstr "Матусю, а ми можемо піти? Он та жіночка..."
+
+msgid "Shh! Don't look in her direction. Finish your food and we'll go."
+msgstr "Тс-с! Не дивися на неї. Доїдай і одразу ж підемо."
+
+msgid "I don't want it anymore, I wanna go..."
+msgstr "Я більше не хочу їстоньки, я хочу піти..."
+
+msgid "I've met her brother though, he was in one of my classes."
+msgstr "Проте я знаю її брата, я йому вчителювала в школі."
+
+msgid "She's nothing like him."
+msgstr "Вона зовсім на нього не схожа."
+
+msgid "Mommy she's scary..."
+msgstr "Матусю, вона страшна..."
+
+msgid "I pity the poor people who have to share a classroom with her."
+msgstr "Мені прикро за тих, хто ділить з нею один клас."
+
+msgid "Imagine what her family must feel having a daughter with such a reputation."
+msgstr "Тільки уяви, як живеться сім'ї з такою ганебною донькою."
+
+msgid "Oh man... and after what happened..."
+msgstr "Ого... і як тільки таке сталося..."
+
+msgid "Sucks to have a broken family. They don't deserve that."
+msgstr "Відстійно мати таку недружну сім'ю. Вони такого не заслужили."
+
+msgid "It's probably her fault, don't you think?"
+msgstr "Це ж вона в усьому винна, ти так не гадаєш?"
+
+msgid "(Ah... I couldn't even get what I paid for...)"
+msgstr "(Ех... навіть не отримала те, за що заплатила...)"
+
+msgid "Sigh... that was terrible."
+msgstr "*Позіхає*… це вийшло жахливо."
+
+msgid "I knew it was a bad idea to go out."
+msgstr "Як знала, що виходити на вулицю було поганою думкою."
+
+msgid "At least that's out of the way."
+msgstr "Принаймні це виконала."
+
+msgid "I need to lie down for a minute..."
+msgstr "Мені треба лягти на хвилинку..."
+
+msgid "...Looks like we got a visitor, though."
+msgstr "...Схоже, у нас гість."
+
+msgid "That's enough, I think."
+msgstr "Гадаю, цього мені досить."
+
+msgid "Hmmm... even if I catch one, I don't have anywhere to put it."
+msgstr "Гм-м-м... навіть якщо його спіймаю, його не буде куди покласти."
+
+msgid "That should do it."
+msgstr "Ось так добре."
+
+msgid "The note reads:"
+msgstr "У записці написано:"
+
+msgid "\"For Marzie,"
+msgstr "\"Для Марзі,"
+
+msgid "You found my note!"
+msgstr "Ти знайшла мою записку!"
+
+msgid "I looked everywhere, but there doesn't seem to be any other path to head North other than this one (not that I know of at least.)"
+msgstr "Я все усюди ошукав, але схоже, що інших шляхів на Північ нема (принаймні я про них не знаю.)"
+
+msgid "They locked it because of the primal attacks, things were getting out of hand."
+msgstr "Його зачинили через напади древнього, там суцільна габела."
+
+msgid "Please be careful when crossing it!"
+msgstr "Проходь тут обережно!"
+
+msgid "Luckily for you, I got my hands on the keys and hid them around this area."
+msgstr "Тобі пощастило, бо я знайшов усі ключики та сховав їх недалеко звідси."
+
+msgid "The first one should be taped to the back of a nearby tree. The tree's color is all wrong, so you can easily find it."
+msgstr "Перший приліплений до задньої частини дерева неподалік звідси. Його колір сильно виділяється, тому знайдеш його без проблем."
+
+msgid "The second one is in front of the weird sculptor's house. There's a row of flowers but one of them is actually a cactus!"
+msgstr "Другий схований перед будинком скульптора. У нього там рядками ростуть квіти, але серед них прихований кактус!"
+
+msgid "The last one is under a fake rug near the red docks. Just turn left when you see the sign. It's a bit hidden, but I believe in you!"
+msgstr "Останній ключ лежить під фальшивим килимом біля причалу Реда. Коли побачиш знак, повертай ліворуч. Його знайти буде непросто, та я в тебе вірю!"
+
+msgid "See you on the other side!\""
+msgstr "Побачимось на тій стороні!\""
+
+msgid "\"Ta-daaa!"
+msgstr "\"Та-да!"
+
+msgid "Only real professional tree huggers would be able to find this key."
+msgstr "Лише справжні древообнімальники здатні знайти цей ключик."
+
+msgid "As expected from my best assistant treasure hunter scout!"
+msgstr "Що я й очікував від своєї найкращої розвідниці-помічниці мисливця за скарбами!"
+
+msgid "(PS: We should think of a better name for ourselves.)"
+msgstr "(PS: Треба вигадати якусь ліпшу назву.)"
+
+msgid "(\"Assistant treasure hunter scout\" might be a bit too long.)\""
+msgstr "(У \"розвідниці-помічниці мисливця за скарбами\" забагато літер.)\""
+
+msgid "\"You got it!"
+msgstr "\"Знайшла!"
+
+msgid "Luckily the creepy sculptor man never comes out, so he'll never know about this hiding spot."
+msgstr "Пощастило, що той моторошний скульптор ніколи не виходить на вулицю, так ніколи й не знайде цю схованку."
+
+msgid "If you're extra brave, I also hid some coins inside his place!\""
+msgstr "Якщо почуваєшся хороброю, я ще й монет по його будинку розкидав!\""
+
+msgid "\"What do you think?"
+msgstr "\"Що думаєш?"
+
+msgid "I think this is my best hiding spot yet!"
+msgstr "Це поки що моя найкраща схованка!"
+
+msgid "No one would search for something in plain sight!\""
+msgstr "Ніхто нічого не шукатиме на видному місці!\""
+
+msgid "\"Marzie! One last thing: This place is a maze."
+msgstr "\"Марзі! Ще дещо: це місце - справжній лабіринт."
+
+msgid "I left some flower petals on the ground to mark the way."
+msgstr "Я розсипав по землі пелюстки, щоб помічати дорогу."
+
+msgid "I stole them from the sculptor man hehehe"
+msgstr "Поцупив їх у скульптора, хе-хе-хе"
+
+msgid "Anyway, follow them and you'll reach the exit in no time!"
+msgstr "Хай там як, йди за пелюстками та миттю опинишся біля виходу!"
+
+msgid "P.S.: Walk slowly and listen in to your surroundings!\""
+msgstr "P.S.: Йди повільно та уважно вдивляйся навкруги!\""
+
+msgid "I'm not hungry right now."
+msgstr "Я зараз не хочу їсти."
+
+msgid "No... no way."
+msgstr "Ні... нізащо."
+
+msgid "You're not doing that."
+msgstr "Ви цього не робитимете."
+
+msgid "The sketchbook is full of unsettling sketches."
+msgstr "Альбом наповнений тривожними малюнками."
+
+msgid "You take a look at the sketchbook."
+msgstr "Ви зазирнули в альбом."
+
+msgid "It's full of unsettling sketches."
+msgstr "Він наповнений тривожними малюнками."
+
+msgid "She's still pretty talented though."
+msgstr "А талант в неї є."
+
+msgid "(What to do with the knife?)"
+msgstr "(Що зробити з ножем?)"
+
+msgid "Cut myself"
+msgstr "Порізатись"
+
+msgid "Ask Sai to cut himself"
+msgstr "Попросити Сая порізатись"
+
+msgid "Do nothing"
+msgstr "Нічого не робити"
+
+msgid "Do you mind...?"
+msgstr "Ти не проти?.."
+
+msgid "Oh."
+msgstr "О."
+
+msgid "Sure!"
+msgstr "Не проти!"
+
+msgid "(Why did he not hesitate at all?!)"
+msgstr "(Чому він ні секунди не зволікав?!)"
+
+msgid "You don't want to mix them."
+msgstr "Їх краще не змішувати."
+
+msgid "I don't want to mix them..."
+msgstr "Я не хочу їх змішувати..."
+
+msgid "You can make even more colors if you mix them."
+msgstr "Якщо змішати, то вийде навіть більше кольорів."
+
+msgid "I know that."
+msgstr "Я в курсі."
+
+msgid "You have enough of that color."
+msgstr "Цього кольору вже достатньо."
+
+msgid "(Instructions on how to make a paper lily.)"
+msgstr "(Інструкції зі складання паперової лілії.)"
+
+msgid "(You don't need to memorize them.)"
+msgstr "(Вам не треба їх запам'ятовувати.)"
+
+msgid "\"Stone Curse - Lifting ritual\""
+msgstr "\"Прокляття скам'яніння - Ритуал зняття\""
+
+msgid "Gather cursed tree bark, ink mushrooms, and an artist's inspiration."
+msgstr "Зберіть кору проклятого дерева, чорнильні гриби та натхнення митця."
+
+msgid "Create solvent (chemistry set needed)."
+msgstr "Створіть суміш (необхідний набір хіміка)."
+
+msgid "Pour solvent on cursed object."
+msgstr "Вилийте суміш на проклятий предмет."
+
+msgid "The code for the keypad behind the mirror in Red's house."
+msgstr "Код від кодового замка за дзеркалом в будинку Реда."
+
+msgid "It reads: \"${var:persistent.ch1_red_passage_code}\""
+msgstr "На ньому написано: \"${var:persistent.ch1_red_passage_code}\""
+
+msgid "It's the bus ritual instructions."
+msgstr "Це інструкції ритуалу з автобусом."
+
+msgid "It details how to summon a bus which picks you up at night."
+msgstr "У ньому детально розписано, як викликати автобус, що забере вас вночі."
+
+msgid "Read the full ritual rules?"
+msgstr "Прочитати правила ритуалу?"
+
+msgid "You must play alone."
+msgstr "Грати треба наодинці."
+
+msgid "Requirements:"
+msgstr "Необхідно:"
+
+msgid ""
+"- An indoor location\n"
+"- A landline phone\n"
+"- A red thread"
+msgstr ""
+"- Замкнуте місце\n"
+"- Стаціонарний телефон\n"
+"- Червона стрічка"
+
+msgid ""
+"- Red paint\n"
+"- A rune\n"
+"- A clock"
+msgstr ""
+"- Червона фарба\n"
+"- Руна\n"
+"- Будильник"
+
+msgid "Preparations:"
+msgstr "Приготування:"
+
+msgid "Complete the preparations before the sun has set."
+msgstr "Завершіть приготування до заходу сонця."
+
+msgid "Tie a red thread to the phone cord."
+msgstr "Прив'яжіть червону нитку до телефонного проводу."
+
+msgid "Using the red paint, draw the following symbol on the exit door of your chosen location. The door must lead outside."
+msgstr "Червоною фарбою намалюйте наступний символ на дверях обраного вами місця. Двері повинні вести назовні."
+
+msgid "Set the alarm clock to midnight."
+msgstr "Заведіть будильник на опівніч."
+
+msgid "Instructions:"
+msgstr "Інструкції:"
+
+msgid "Go to sleep."
+msgstr "Лягайте спати."
+
+msgid "When the alarm clock rings, get up and dial the following number on the phone: 999281#0"
+msgstr "Коли спрацює будильник, підіймайтесь та зателефонуйте на наступний номер: 999281#0"
+
+msgid "When the line connects, say the following words: \"My bus is late\"."
+msgstr "Коли вас з'єднають, скажіть наступні слова: \"Мій автобус запізнюється.\""
+
+msgid "Board the bus before it leaves."
+msgstr "Зайдіть в автобус, доки той не поїхав далі."
+
+msgid "Place the rune inside the bus ticket machine."
+msgstr "Коли потрапите в автобус, покладіть руну у квитковий апарат."
+
+msgid "Remember:"
+msgstr "Запам'ятайте:"
+
+msgid "Do NOT bring any weapons with you."
+msgstr "Не беріть із собою зброю."
+
+msgid "The phone may no longer look the same at night. Remember the placement of the numbers."
+msgstr "Уночі телефон може візуально змінитися. Запам'ятайте розташування всіх цифр."
+
+msgid "It's locked."
+msgstr "Зачинено."
+
+msgid "A lamppost."
+msgstr "Ліхтарний стовп."
+
+msgid "It doesn't seem to be working."
+msgstr "Схоже, він не працює."
+
+msgid "You can see the neighbor's house from here."
+msgstr "Звідси вам видно будинок сусідів."
+
+msgid "Let's try to avoid eye contact with them if possible."
+msgstr "Краще уникати з ними зорового контакту, якщо це можливо."
+
+msgid "There seems to be someone staring at you from the other house..."
+msgstr "Схоже, хтось витріщається на вас з сусіднього будинку."
+
+msgid "I'm back~"
+msgstr "Я тут~"
+
+msgid "Hope you haven't been giving away products for free again!"
+msgstr "Сподіваюсь, ти більше не роздавала нашу продукцію!"
+
+msgid "How's things back here little Kat? Any sales?"
+msgstr "Як справи, крихітко Кет? Щось продала?"
+
+msgid "...What's going on in here?! This isn't a daycare!"
+msgstr "...Що тут коїться?! Тут тобі не зоопарк!"
+
+msgid "...You've been giving our merchandise away for free again, haven't you?"
+msgstr "...Ти знову роздавала наші товари, чи не так?"
+
+msgid "Man... what the hell am I gonna do with you?"
+msgstr "Боже... і що мені з тобою робити?"
+
+msgid "You feel somewhat stronger now."
+msgstr "Ви почуваєтесь трохи сильніше."
+
+msgid "You feel quite a bit stronger now."
+msgstr "Ви почуваєтесь набагато сильніше."

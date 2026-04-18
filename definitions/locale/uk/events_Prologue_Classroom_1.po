@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I think I'll just do it later."
+msgstr "Мабуть, зроблю це пізніше."
+
+msgid "That was easy."
+msgstr "Це було не складно."
+
+msgid "This isn't the right classroom for that."
+msgstr "Це треба робити в іншому класі."
+
+msgid "The path is already drawn."
+msgstr "Я вже намалювала шлях."
+
+msgid "Not yet. I'd rather make sure I have everything I need first."
+msgstr "Ще зарано. Я хочу бути запевнитись, що в мене є все необхідне."
+
+msgid "Not yet. I want to finish preparing the classrooms first."
+msgstr "Ще зарано. Я хочу спочатку закінчити приготування у класах."
+
+msgid "There's some chalk here."
+msgstr "Тут лежить трохи крейди."
+
+msgid "Take it?"
+msgstr "Взяти її?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "I'd rather not get into anymore trouble than I already am."
+msgstr "Краще не створювати для себе ще більше неприємностей."
+
+msgid "This is my desk. I keep all kinds of cool stuff here."
+msgstr "Це моя парта. У ній лежить багацько корисних речей."
+
+msgid "This might be useful."
+msgstr "Це може стати в пригоді."
+
+msgid "Take Dusty Hairpin?"
+msgstr "Забрати пильну шпильку?"
+
+msgid "There's nothing else of use for today."
+msgstr "На сьогодні корисні речі тут скінчилися."
+
+msgid "My desk. I don't need anything from it right now."
+msgstr "Моя парта. Мені звідти нічого не потрібно."
+
+msgid "Burning the school down is not part of the ritual."
+msgstr "Ритуал не вимагає спалювати школу."
+
+msgid "There's a pair of scissors here."
+msgstr "Тут лежить пара ножиць."
+
+msgid "Take Scissors?"
+msgstr "Взяти ножиці?"
+
+msgid "It's already done."
+msgstr "Я вже це зробила."
+
+msgid "This isn't the time for that."
+msgstr "Не треба гаяти на це час."
+
+msgid "Return scissors?"
+msgstr "Покласти ножиці на місце?"
+
+msgid "Some geometry books."
+msgstr "Книжки з геометрії."
+
+msgid "A clean chalkboard."
+msgstr "Чиста дошка."
+
+msgid "A wooden desk."
+msgstr "Дерев'яна парта."
+
+msgid "A paper slip with rules for students."
+msgstr "Звід правил для школярів."
+
+msgid "There's no time for rules right now."
+msgstr "Зараз не час дотримуватись правил."
+
+msgid "Some classroom attendance sheets and schedules."
+msgstr "Листи з відвідуваності школи та розклади занять."
+
+msgid "A happy green plant."
+msgstr "Щаслива зелена рослина."
+
+msgid "The plant is no longer happy."
+msgstr "Рослина більше не щаслива."
+
+msgid "The teacher's podium."
+msgstr "Учительський подіум."
+
+msgid "Some boring textbooks."
+msgstr "Нудні підручники."
+
+msgid "Some very thick, school-related books."
+msgstr "Товстенні підручники."
+
+msgid "Some books and... chalk."
+msgstr "Книжки та... трохи крейди."
+
+msgid "There's nothing else of use."
+msgstr "Корисні речі тут скінчилися."
+
+msgid "A simple trash can. Its contents look trashy."
+msgstr "Відро для сміття. Сміття в ньому багато."
+
+msgid "The curtains should stay closed."
+msgstr "Завіски мають бути закритими."
+
+msgid "Should I sort the desks in this classroom now?"
+msgstr "Розставити парти зараз?"
+
+msgid "Not yet"
+msgstr "Ще зарано"
+
+msgid "This should be easy."
+msgstr "Це має бути легко."

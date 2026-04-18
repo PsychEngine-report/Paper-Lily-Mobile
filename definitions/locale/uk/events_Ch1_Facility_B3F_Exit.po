@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Ah... here it is."
+msgstr "Ах... ось і кінець."
+
+msgid "I suppose these cursed doors must be fairly common."
+msgstr "Схоже, ці прокляті двері тут досить поширені."
+
+msgid "Not that common. And they kinda suck."
+msgstr "Не сказав би. А ще вони відстійні."
+
+msgid "Sometimes you get stuck with no way to go back."
+msgstr "Бува таке, що тебе закидує туди, звідки не вийти."
+
+msgid "I see."
+msgstr "Зрозуміло."
+
+msgid "So it's a dead end after all."
+msgstr "Тож це глухий кут."
+
+msgid "Since there's no doorknobs here..."
+msgstr "Оскільки інших дверних ручок я не бачу..."
+
+msgid "Looks like it."
+msgstr "Схоже, що так."
+
+msgid "An empty slot."
+msgstr "Пустий отвір."
+
+msgid "Place a doorknob?"
+msgstr "Вставити ручку?"
+
+msgid "Gray Doorknob"
+msgstr "Сіра ручка"
+
+msgid "White Doorknob"
+msgstr "Біла ручка"
+
+msgid "Return Doorknob"
+msgstr "Ручка вороття"
+
+msgid "Do not"
+msgstr "Не вставляти"
+
+msgid "I guess it's finally time to use this."
+msgstr "Схоже, настав час нею скористатись."

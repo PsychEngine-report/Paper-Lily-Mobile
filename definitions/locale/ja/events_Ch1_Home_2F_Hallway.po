@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hiro's room."
+msgstr "ヒロの部屋。"
+
+msgid "..."
+msgstr "……"
+
+msgid "I'd rather not go in without permission..."
+msgstr "勝手に入らないほうが良いと思う……"
+
+msgid "You shouldn't go in."
+msgstr "入るべきではない。"
+
+msgid "You won't go in."
+msgstr "入る気はない。"
+
+msgid "Some books and magazines."
+msgstr "本や雑誌が何冊か。"
+
+msgid "No reading space would be complete without decorative books."
+msgstr "完璧な読書スペースには欠かせない、装飾用の本。"
+
+msgid "It's a decoration of some sorts. You don't really know."
+msgstr "何かの飾り。よく知らない。"
+
+msgid "It's a painting, similar to the one downstairs."
+msgstr "1階にある絵と似ている絵。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting.dlg.narrator"
+msgid "A painting."
+msgstr "絵。"
+
+msgid "It's a painting, identical to the one on the left."
+msgstr "絵。左にある絵と全く同じ。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_2.dlg.narrator"
+msgid "A painting."
+msgstr "絵。"
+
+msgid "It's a painting, identical to the one on the right."
+msgstr "絵。右にある絵と全く同じ。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_painting_3.dlg.narrator"
+msgid "A painting."
+msgstr "絵。"
+
+msgid "Winter vacation photos. You're not in any of them."
+msgstr "冬休みの写真。自分はどこにも写っていない。"
+
+msgid "A pretty plant. The buds are non-edible."
+msgstr "かわいい植物。芽は食べられない。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant.dlg.narrator"
+msgid "A plant."
+msgstr "植物。"
+
+msgctxt "events.Ch1_Home_2F_Hallway.misc_plant_2.dlg.narrator"
+msgid "A plant."
+msgstr "植物。"
+
+msgid "Some old family pictures."
+msgstr "古い家族写真。"
+
+msgid "The backyard can be seen from here."
+msgstr "ここからは裏庭が見える。"
+
+msgid "Something is written on the door:"
+msgstr "ドアに何か書いてある。"
+
+msgid "\"What is this room? You spent a lot of time in there."
+msgstr "「この部屋は？　君はここで多くの時間を過ごしたんだね。"
+
+msgid "Always finding new places to hide away from the world."
+msgstr "いつもいつも、世界から隠れるための新しい場所を見つけてばかり。"
+
+msgid "Did you ever stop hiding?\""
+msgstr "隠れるのをやめたことはあるの？」"

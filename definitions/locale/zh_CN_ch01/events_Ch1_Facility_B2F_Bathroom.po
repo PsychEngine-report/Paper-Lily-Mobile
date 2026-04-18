@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(Huh... A bathroom?)"
+msgstr "（啊...这是一间洗手间吗？）"
+
+msgid "Um... excuse me."
+msgstr "额...不好意思。"
+
+msgid "Could you wait outside?"
+msgstr "请问你能出去一下么？"
+
+msgid "Wha-? Oh. Of course."
+msgstr "什—？哦。没问题。"
+
+msgid "I- ...I guess I'll stay out there."
+msgstr "我——...我会出去待着的。"
+
+msgid "Scream if you need me."
+msgstr "需要我的话就大声叫出来吧。"
+
+msgid "...I won't."
+msgstr "...我不会这么干的。"
+
+msgid "(Now I get to have some time away from that guy.)"
+msgstr "（现在我可以离开那家伙一段时间了。）"
+
+msgid "(Is it really safe to have him around?)"
+msgstr "（把他带在在身边真的安全吗？）"
+
+msgid "(A bathroom?)"
+msgstr "（这是一间洗手间吗？）"
+
+msgid "(I hope that guy won't find me here.)"
+msgstr "（希望那家伙不会发现我在这里。）"
+
+msgid "(I don't really trust him... Hopefully he's not searching for me...)"
+msgstr "（我无法真正相信他...希望他没有在找我...）"
+
+msgid "(Hiro would tell me to have a bit of faith in others, but...)"
+msgstr "（希罗告诉我对别人要有点信心，但是...）"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(I wonder if I could ask Hiro.)"
+msgstr "（我在想我是不是可以问问希罗。）"
+
+msgid "(Is it even possible to call from here?)"
+msgstr "（这里能打电话吗？）"
+
+msgid "(I still have no signal... but... that didn't matter last time.)"
+msgstr "（仍然没有信号...但...上次也打出去了。）"
+
+msgid "Oh... I'm out of battery."
+msgstr "哦...没电了。"
+
+msgid "That's not good... I suppose using it as a flashlight killed it."
+msgstr "这可不妙... 我想是把它当手电筒的时候用完了吧。"
+
+msgid "...Oh well."
+msgstr "...这下好了。"
+
+msgid "I'll give it a try."
+msgstr "我来试试吧。"
+
+msgid "Lace!"
+msgstr "小莱！"
+
+msgid "Oh good..."
+msgstr "哦，太好了..."
+
+msgid "Thank goodness I can reach you, Hiro..."
+msgstr "幸好我能联系到你，希罗..."
+
+msgid "Are you alright!?"
+msgstr "你还好吧！？"
+
+msgid "What happened!?"
+msgstr "发生什么事了！？"
+
+msgid "Are you safe!?"
+msgstr "你还安全吗！？"
+
+msgid "Yes, I'm okay."
+msgstr "是的，我还好。"
+
+msgid "(Though I did fall down the stairs and wake up in some sort of dungeon...)"
+msgstr "（虽然说我从楼梯上摔了下来，还在某种地牢里醒了过来...）"
+
+msgid "(and there's a strange guy following me everywhere...)"
+msgstr "（以及还有一个怪家伙在跟着我到处走...）"
+
+msgid "(...and there was a strange guy following me everywhere...)"
+msgstr "（...以及之前还有个怪家伙在跟着我到处走...）"
+
+msgid "(...and Rune said there's no way out.)"
+msgstr "（...还有符文说这里没有出去的办法。）"
+
+msgid "Everything is okay, don't worry."
+msgstr "一切都还好，不要担心。"
+
+msgid "Thank god."
+msgstr "感谢上帝。"
+
+msgid "Is everything alright? Why are you whispering?"
+msgstr "没事吧？你为什么小声说话？"
+
+msgid "Because there's someone right outside, and..."
+msgstr "因为这外面有个人，以及..."
+
+msgid "Because someone might be looking for me."
+msgstr "因为有个人可能在找我。"
+
+msgid "An enemy!?"
+msgstr "是敌人吗！？"
+
+msgid "No, well... he says he's not."
+msgstr "不，好吧...他说他不是。"
+
+msgid "And now he's following me around."
+msgstr "以及现在他正在跟着我走。"
+
+msgid "You made a friend!?"
+msgstr "你交了个朋友！？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "No."
+msgstr "不是的。"
+
+msgid "I don't really trust him."
+msgstr "我不能完全相信他。"
+
+msgid "But maybe it's better to have company! He might be willing to tag along and help!"
+msgstr "但是也许有人陪会更好呢！他也许愿意跟来帮忙！"
+
+msgid "But... that's why it's strange."
+msgstr "但是...这就是奇怪的地方啊。"
+
+msgid "Why is he willing to tag along?"
+msgstr "为什么他会愿意跟着我呢？"
+
+msgid "...You know how people act around me, Hiro..."
+msgstr "...你知道别人是怎么对我的，希罗..."
+
+msgid "And he's just acting...like nothing is wrong with me."
+msgstr "他只是在掩饰...像是我身上没有任何不对劲的地方。"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.hiro"
+msgid "Hmmm..."
+msgstr "嗯......"
+
+msgid "You sound conflicted."
+msgstr "听起来你很矛盾。"
+
+msgid "Well... I don't really care, I just..."
+msgstr "好吧...我不是真的在意这个，我只是觉得..."
+
+msgid "He's just shady."
+msgstr "他就是不三不四啊。"
+
+msgid "Well, tell you what. It's your choice."
+msgstr "好的，那就这样吧。这是你的选择。"
+
+msgid "You can have him tag along and see how it plays out..."
+msgstr "你可以让他跟着你，然后看他会怎么做..."
+
+msgid "...or you can ditch him."
+msgstr "...或者你也可以抛弃他。"
+
+msgid "No, well... he said he's not."
+msgstr "不，好吧...他说他不是。"
+
+msgid "But... it doesn't matter. I already got rid of him."
+msgstr "但...这不重要。我已经摆脱他了。"
+
+msgid "Well, I can't condone murder but..."
+msgstr "好吧，虽然我不能容忍这种谋杀行为，但是..."
+
+msgid "No! Not like that! Hiro!"
+msgstr "不！不是那样的！希罗！"
+
+msgid "He's still somewhere around... I just slipped away for a bit."
+msgstr "他还在附近...我只是溜走了一小会儿。"
+
+msgid "Well, tell you what."
+msgstr "好吧，这样讲吧。"
+
+msgid "Next time he finds you, you could try locking him up somewhere."
+msgstr "下次他找到你的时候，你可以把他锁在哪里。"
+
+msgid "Huh... it's not like you to suggest something like that."
+msgstr "呃...这可不像你提出的建议啊。"
+
+msgid "Well, I personally think you should have a bit of faith in him! But it's up to you."
+msgstr "其实，我个人认为，你应该对他有点信心！但这取决于你。"
+
+msgid "Well, I personally think you could go back and apologize."
+msgstr "其实，我个人认为，你可以回去道歉。"
+
+msgid "Nothing wrong with making a friend, right? Still, it's up to you."
+msgstr "交个朋友没什么不好吧？不过，这还是取决于你。"
+
+msgid "(Yeah... that's more like it.)"
+msgstr "（没错...这还差不多。）"
+
+msgid "I should go."
+msgstr "我该走了。"
+
+msgid "Be careful, Lace."
+msgstr "小心点啊，小莱。"
+
+msgid "Get back home safely."
+msgstr "要安全地回家啊。"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.event_hiro_call.dlg.lacie"
+msgid "Yeah."
+msgstr "嗯。"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgid "I can't believe I'm entertaining this idea."
+msgstr "真不敢相信我竟然会有这种想法。"
+
+msgid "This is the stupidest thing I've ever done."
+msgstr "这是我做过最蠢的事情了。"
+
+msgid "Just a few more trips!"
+msgstr "再多跑几趟就好了！"
+
+msgid "This'll work, you'll see."
+msgstr "会有用的，你等着瞧吧。"
+
+msgid "There's no way."
+msgstr "怎么可能。"
+
+msgid "At least this is a good workout."
+msgstr "起码这也算一次不错的锻炼嘛。"
+
+msgid "(I'm not fit enough for this...)"
+msgstr "（我的身体还没好到可以做这种事...）"
+
+msgid "Sigh... What makes you think the drain isn't connected to the water we're removing..."
+msgstr "唉... 你怎么知道这个下水道跟我们要排走的水是不是连通的呢..."
+
+msgid "Hm... I don't know."
+msgstr "呃...我不知道。"
+
+msgid "Well, too late to consider that now."
+msgstr "好吧，现在考虑这个已经太晚了。"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(What possessed me to agree to this?)"
+msgstr "（到底是什么迫使我同意了这个想法？）"
+
+msgid "We're really bonding over this, don't you think?"
+msgstr "你不觉得我们真的很有默契吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "One Eternity Later..."
+msgstr "一世之后..."
+
+msgid "You actually did it."
+msgstr "你真的做到了。"
+
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+msgid "This is nothing. Just wait until you hear my other ideas."
+msgstr "这还不算什么。就等着听我的其他点子吧。"
+
+msgid "I very much look forward to it!"
+msgstr "我很期待！"
+
+msgid "Will she be okay?"
+msgstr "她没事吗？"
+
+msgid "She'll be fine."
+msgstr "她会没事的。"
+
+msgid "See? She's still breathing."
+msgstr "看到了吗？她还在呼吸呢。"
+
+msgid "Um... will you be okay?"
+msgstr "唔...你没事吧？"
+
+msgid "Nice! You're sturdy, aren't you?"
+msgstr "太好了！你还挺结实的，是不是？"
+
+msgid "You ready to go?"
+msgstr "你准备好了吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.item_bucket_on_drain.dlg.lacie"
+msgid "Yeah."
+msgstr "嗯。"
+
+msgid "A mop. It looks like it's never been used."
+msgstr "一个拖把。看起来从来没用过。"
+
+msgid "Everything here has been gathering dust for a really long time."
+msgstr "这里的一切都尘封已久。"
+
+msgid "There's something on this shelf."
+msgstr "架子上有东西。"
+
+msgid "There's nothing else of use."
+msgstr "这里没有其他能用的东西了。"
+
+msgid "A rusted sink."
+msgstr "锈迹斑斑的水槽。"
+
+msgid "A bathroom stall. It's occupied."
+msgstr "一个厕所隔间。有人。"
+
+msgid "Try to open it anyways?"
+msgstr "无论如何，要试着打开它吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_stall_6.choice.Try to open it anyways?"
+msgid "No"
+msgstr "否"
+
+msgid "Something shiny can be seen at the bottom of the toilet bowl."
+msgstr "在马桶底部可以看到一些闪闪发光的东西。"
+
+msgid "Fish it out?"
+msgstr "要捞出来吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "Yes"
+msgstr "是"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.misc_toilet_3_coin.choice.Fish it out?"
+msgid "No"
+msgstr "否"
+
+msgid "A small hand towel."
+msgstr "一条小手帕。"
+
+msgid "That took a million years."
+msgstr "真是花了一百万年时间啊。"
+
+msgid "Were you talking to someone in there?"
+msgstr "刚才你是在里面跟谁说话吗？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "No."
+msgstr "没有。"
+
+msgid "(Did he overhear anything...?)"
+msgstr "（他有没有偷听到什么...？）"
+
+msgid "It kinda sounded like it."
+msgstr "看起来还真是这样。"
+
+msgid "I wasn't."
+msgstr "真的没有。"
+
+msgid "Oh."
+msgstr "好吧。"
+
+msgid "It's cool, I talk to myself sometimes too."
+msgstr "没事的，我有时候也会自言自语。"
+
+msgid "Like having a little narrator, right?"
+msgstr "就像有个小旁白在讲，对吧？"
+
+msgctxt "events.Ch1_Facility_B2F_Bathroom.move_exit_sai.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "Find anything cool?"
+msgstr "找到什么有趣的东西了吗？"
+
+msgid "Nope."
+msgstr "没。"
+
+msgid "...Where did you get that?"
+msgstr "...你从哪儿弄来的？"
+
+msgid "The lollipop? I had 'em with me."
+msgstr "棒棒糖吗？我随身带着。"
+
+msgid "Want some?"
+msgstr "你要吗？"
+
+msgid "I don't accept candy from strangers."
+msgstr "我不想要陌生人给的糖。"
+
+msgid "(Sai joined your party.)"
+msgstr "（赛伊加入了你的队伍。）"

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The little girl is swaying slowly."
+msgstr "Küçük kız yavaşça sallanıyor."
+
+msgid "Hello."
+msgstr "Merhaba."
+
+msgctxt "events.Ch1_Shop_Back.event_shadowgirl.dlg.shadowgirl"
+msgid "..."
+msgstr "..."
+
+msgid "Um.... What do you do here?"
+msgstr "Um... Burada ne yapıyorsun?"
+
+msgctxt "events.Ch1_Shop_Back.event_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "Is she... giving me something?"
+msgstr "O... bana bir şey mi veriyor?"
+
+msgid "Oh... Thank you."
+msgstr "Ah... Teşekkürler."
+
+msgid "I guess."
+msgstr "Sanırım."
+
+msgctxt "events.Ch1_Shop_Back.item_bunny_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "(The shadow girl happily takes the bunny off your hands.)"
+msgstr "(Gölge kız mutlu bir şekilde tavşanı elinden alıyor.)"
+
+msgctxt "events.Ch1_Shop_Back.item_caterpillar_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "(The shadow girl lovingly takes the caterpillar from you.)"
+msgstr "(Gölge kız itina ile tırtılı senden alıyor.)"
+
+msgctxt "events.Ch1_Shop_Back.item_fireflies_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "(The shadow girl happily accepts the fireflies.)"
+msgstr "(Gölge kız ateşböceklerini memnuniyetle kabul eder.)"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.shadowgirl"
+msgid "...!"
+msgstr "...!"
+
+msgid "(The shadow girl takes the fragment and looks up at you.)"
+msgstr "(Gölge kız parçayı alıp sana bakıyor.)"
+
+msgid "...? ...?"
+msgstr "...? ...?"
+
+msgid "Oh... I don't have any more pieces than that one..."
+msgstr "Ah... Elimde bundan başka parça yok..."
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.shadowgirl"
+msgid "... ..."
+msgstr "... ..."
+
+msgid "(The shadow girl returns the fragment to you with a sad expression.)"
+msgstr "(Gölge kız parçayı üzgün bir ifadeyle sana geri veriyor.)"
+
+msgctxt "events.Ch1_Shop_Back.item_fragment_on_shadowgirl.dlg.narrator"
+msgid "(The shadow girl takes the fragments from you.)"
+msgstr "(Gölge kız senden parçaları alıyor.)"
+
+msgid "(After a few seconds, she returns them to you.)"
+msgstr "(Birkaç saniye sonra onları sana geri veriyor.)"
+
+msgid "Oh... I'm still missing a piece, am I not...?"
+msgstr "Ah... Hala bir parçam eksik, değil mi...?"
+
+msgid "Sorry for bothering you."
+msgstr "Seni rahatsız ettiğim için üzgünüm."
+
+msgid "(With some effort, she fits them together and returns them to you.)"
+msgstr "(Biraz çaba ile onları bir araya getirip ve sana geri veriyor.)"
+
+msgid "Thank you, I appreciate it."
+msgstr "Teşekkür ederim, minnettarım."
+
+msgid "Various colorful liquids and drinks are stored on the shelf."
+msgstr "Rafta çeşitli renklerde sıvılar ve içecekler var."
+
+msgid "Some papers with opening hours and upcoming shop discounts."
+msgstr "Açılış saatleri ve yaklaşan mağaza indirimleri hakkında bazı gazeteler."
+
+msgid "There's a... shadow of a girl sitting on the other side of the desk."
+msgstr "Orada... Masanın diğer tarafında oturan bir kızın gölgesi var."
+
+msgid "She doesn't seem much for conversation."
+msgstr "Konuşmaya pek yatkın görünmüyor."
+
+msgid "\"CLOSED. DO NOT ENTER\" is marked on the sign."
+msgstr " Kapıda \"KAPALI. GİRMEYİN.\" tabelası var."
+
+msgid "The door is locked."
+msgstr "Kapı kilitli."

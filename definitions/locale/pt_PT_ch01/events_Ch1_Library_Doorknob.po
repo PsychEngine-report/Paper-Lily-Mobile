@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Dozens of books are neatly organized on the shelves."
+msgstr "Dezenas de livros estão organizados em ordem nas prateleiras."
+
+msgid "An untitled book stands out. Read a passage?"
+msgstr "Um livro sem título chama-te a atenção. Ler um bocado?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Variations of rituals ______carefully documented ______ recipient."
+msgstr "Variações dos rituais ______ documentados cuidadosamente ______ destinatário."
+
+msgid "Any human that enters ______ by way of a ritual is carefully tracked."
+msgstr "Qualquer humano que entre em ______ através de um ritual será monitorizado."
+
+msgid "No accounts of humans infiltrating by their own means exist, _________ easily detected."
+msgstr "Não existem relatos de humanos que se tenham entrado sozinhos, _________ facilmente detectados."
+
+msgid "Average recorded survival time of humans following ritual rules: 15 minutes."
+msgstr "Média do tempo de sobrevivência de humanos que seguem as regras do ritual: 15 minutos."
+
+msgid "Average survival time ________ breaching ritual rules: 140 minutes."
+msgstr "Média do tempo de sobrevivência ________ violaram as regras do ritual: 140 minutos."
+
+msgid "Average rate of adherence to the ritual rules: 98.31%"
+msgstr "Média da taxa de cumprimento das regras do ritual: 98.31%"
+
+msgid "Demons can pick up on a human's soul from at least five meters away."
+msgstr "Os demónios conseguem captar a alma de um humano a pelo menos cinco metros de distância."
+
+msgid "Exceptions exist ___________ as well as the elderly or the sick; they are less perceivable and less satiating."
+msgstr "Existem exceções ___________, tal como os idosos ou doentes. São menos perceptíveis e menos saciantes."
+
+msgid "Due to these factors, their value is considered to be negligible."
+msgstr "Devido a estes factores, o seu valor é negligenciável."
+
+msgid "Demons won't hesitate to kill and consume ______"
+msgstr "Demónios não hesitarão em matar e consumir ______"
+
+msgid "_____'s regulations don't allow free consumption of souls ________ must be reported."
+msgstr "As regras de _____ não permitem o consumo livre de almas ________ deve ser comunicado."
+
+msgid "Any demand ________ through the appropriate channels."
+msgstr "Qualquer pedido ________ através dos canais adequados."
+
+msgid "White grass is growing on the floor. It's soft to the touch."
+msgstr "Há relva branca a crescer no chão. É macia."
+
+msgid "You can spot some faint shapes in the window."
+msgstr "Consigo ver umas formas ténues na janela."

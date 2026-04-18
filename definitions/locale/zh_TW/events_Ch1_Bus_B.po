@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A creature with a huge mouth."
+msgstr "有張大嘴巴的生物。"
+
+msgid "hhhhaaaaaa....."
+msgstr "哈~~~~~....."
+
+msgid "(It might be best to keep my distance...)"
+msgstr "(最好保持距離...)"
+
+msgid "A scary-looking monster."
+msgstr "看起來很可怕的怪物。"
+
+msgid "It's looking at me..."
+msgstr "它正在看著我..."
+
+msgid "A person holding what seems like a lamp with fish inside."
+msgstr "有個人拿著一盞看起來裡面有魚的燈。"
+
+msgid "A hooded young man is lying down here."
+msgstr "這裡躺著一位戴著連身帽的年輕人。"
+
+msgid "Pardon me..."
+msgstr "對不起..."
+
+msgid "..."
+msgstr "..."
+
+msgid "I need some help."
+msgstr "我需要幫助。"
+
+msgid "Yeah, I wouldn't talk to me either."
+msgstr "也是，我也不會想跟我自己說話。"
+
+msgid "Sigh..."
+msgstr "唉..."
+
+msgid "An odd green man."
+msgstr "古怪的綠人。"
+
+msgid "zzzzz"
+msgstr "zzzzz"
+
+msgid "Uh... excuse me?"
+msgstr "呃...不好意思？"
+
+msgid "zzzzzZZZZZ"
+msgstr "zzzzzZZZZZ"
+
+msgid "Looks like he's trying to sleep..."
+msgstr "看來他正試著睡覺..."
+
+msgid "Some purple blobs with ...faces?"
+msgstr "一些紫色斑點...上面有臉？"
+
+msgid "If I push them together, will they disappear?"
+msgstr "如果我把它們集中在一起，它們會消失嗎？"
+
+msgid "The bus driver must be behind these curtains."
+msgstr "公車駕駛肯定是在簾幕後方。"
+
+msgid "Take a look behind the curtains?"
+msgstr "看看簾幕後方？"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Some colorful goop is dripping from the ceiling."
+msgstr "多彩的黏液從天花板掉下來。"
+
+msgid "An empty seat."
+msgstr "空座位。"
+
+msgid "My seat. I didn't forget anything."
+msgstr "我的位子。我什麼也沒忘。"
+
+msgid "Should I sit back down?"
+msgstr "我應該坐回去嗎？"
+
+msgid "A list of rules for the bus."
+msgstr "公車的規則清單。"
+
+msgid "\"No eating on the bus.\""
+msgstr "\"公車上禁止飲食。\""
+
+msgid "Seems pretty reasonable."
+msgstr "看起來很合理。"
+
+msgid "The ticketing machine."
+msgstr "剪票機。"
+
+msgid "You can see the bus stop and some trees out the window."
+msgstr "可以從窗外看到公車站牌和樹林。"
+
+msgid "...She actually got off?"
+msgstr "...她真的下車了？"
+
+msgid "...Huh."
+msgstr "...嗯。"

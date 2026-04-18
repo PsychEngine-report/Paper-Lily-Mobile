@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Go to your room"
+msgstr "Идите в свою комнату"
+
+msgid "This day needs to end. I want to lie in bed."
+msgstr "Этот день должен закончиться. Я хочу лечь на кровать."
+
+msgid "Find the ritual items"
+msgstr "Найди предметы для ритуала"
+
+msgid "I should gather the items that I'll need for the ritual. Shouldn't be too hard."
+msgstr "Нужно собрать необходимые для ритуала вещи. Это будет просто."
+
+msgid "Something red to draw"
+msgstr "Что-то красное для рисования"
+
+msgid "I need to find something red to paint or mark the front of the house with."
+msgstr "Нужно найти краску или маркер, которым можно покрасить дверь."
+
+msgid "Something red to tie"
+msgstr "Что-то красное для узла"
+
+msgid "I need to find something red to tie onto the phone cord."
+msgstr "Нужно найти что-то красное, чтобы перевязать телефонный провод."
+
+msgid "Prepare the ritual"
+msgstr "Подготовить ритуал"
+
+msgid "I need to prepare the ritual before night time."
+msgstr "Нужно закончить приготовления до заката."
+
+msgid "Paint symbol"
+msgstr "Нарисовать символ"
+
+msgid "I need to paint a symbol on the front door of the house. I hope no one will see me..."
+msgstr "Нужно нарисовать символ на входной двери дома. Надеюсь, меня не увидят..."
+
+msgid "Tie string on phone cord"
+msgstr "Перевязать телефонный провод"
+
+msgid "I need to tie a red ribbon on the cord of my landline phone in the kitchen."
+msgstr "Нужно привязать что-то красное к телефонному проводу на кухне."
+
+msgid "Set alarm clock"
+msgstr "Завести будильник"
+
+msgid "I need to set an alarm for midnight."
+msgstr "Нужно завести будильник на полночь."
+
+msgid "Get the ritual reversal instructions"
+msgstr "Получите инструкции по отмене ритуала"
+
+msgid "I messed up the ritual. I need to undo it by following the steps I left at my PC."
+msgstr "Я запорола ритуал. Нужно его отменить, следуя инструкциям с моего компьютера."
+
+msgid "Undo the ritual"
+msgstr "Отменить ритуал"
+
+msgid "I need to undo the ritual for my own safety."
+msgstr "Нужно отменить ритуал для собственной же безопасности."
+
+msgid "Untie red string"
+msgstr "Развязать узел"
+
+msgid "Add salt to front door"
+msgstr "Рассыпать соль на входную дверь"
+
+msgid "Add salt to back door"
+msgstr "Рассыпать соль на заднюю дверь"
+
+msgid "Add salt to garage door"
+msgstr "Рассыпать соль на дверь гаража"
+
+msgid "Go to sleep"
+msgstr "Лечь спать"
+
+msgid "The ritual reversal is complete. There's nothing left to do other than to get in bed."
+msgstr "Я отменила ритуал. Теперь осталось только лечь в кровать и заснуть."
+
+msgid "Talk to Hiro"
+msgstr "Поговорить с Хиро"
+
+msgid "I need to tell Hiro to leave the house..."
+msgstr "Нужно сказать Хиро, чтобы он вышел из дому."
+
+msgid "Get in bed"
+msgstr "Лечь спать"
+
+msgid "Apparently, I need to lie in bed until the alarm goes off."
+msgstr "Похоже, нужно проспать до того, как зазвонит будильник."
+
+msgid "Call the Bus"
+msgstr "Вызвать Автобус"
+
+msgid "I need to call the bus. The phone number I should dial is 999281#0."
+msgstr "Нужно вызвать автобус. Звонить нужно по номеру 999281#0."
+
+msgid "Take the Bus"
+msgstr "Сесть в автобус"
+
+msgid "Get on the bus. Hurry!"
+msgstr "Нужно сесть в автобус. Бегом!"
+
+msgid "Look Around"
+msgstr "Осмотритесь"
+
+msgid "I arrived somewhere. What do I do now?"
+msgstr "Я куда-то прибыла. Что теперь?"
+
+msgid "Explore the Forest"
+msgstr "Разведать лес"
+
+msgid "I arrived at my destination. Can I find someone to help me?"
+msgstr "Я прибыла на место. Смогу ли я найти кого-то, кто сможет мне помочь?"
+
+msgid "Rotate the Signs"
+msgstr "Покрутить указатели"
+
+msgid "I think I can open up a path towards the Daylight Gate if I rotate the blue signs towards the correct direction."
+msgstr "Думаю, у меня получится открыть путь к \"Дневным вратам\", если я покручу синие указатели."
+
+msgid "Open the Daylight Gate"
+msgstr "Открыть \"Дневные врата\""
+
+msgid "There's a gate impeding my progress. I need to find a way to open it."
+msgstr "На пути моего прогресса грозятся встать огромные ворота. Нужно найти способ их открыть."
+
+msgctxt "objectives.name.ch1.forest_station_sign"
+msgid "Restore the Sign"
+msgstr "Вернуть указатель"
+
+msgid "A sign is missing from the front of the station. If I find it, I should put it back in place."
+msgstr "Указатель с Ж/Д станции пропал. Нужно найти его и вернуть на место."
+
+msgctxt "objectives.name.ch1.forest_station_sign_2"
+msgid "Restore the Sign"
+msgstr "Вернуть указатель"
+
+msgid "I found a blue sign. I should put it back in its spot in front of the station."
+msgstr "Я нашла синий указатель. Нужно вставить его на место возле станции."
+
+msgid "Pick the Right Path"
+msgstr "Выбрать правильный путь"
+
+msgid "There are three paths in front of me, and a ticket as a hint for which one to pick..."
+msgstr "Передо мной развилка из трёх путей, а билет должен подсказать, какой из них верный..."
+
+msgid "Enter the Locked Site"
+msgstr "Войти в Закрытую зону"
+
+msgid "Seems like the only way north might be through the Locked Site."
+msgstr "По всей видимости, Закрытая зона - единственный путь на север."
+
+msgid "Find a Light"
+msgstr "Найти источник света"
+
+msgid "Apparently, I'll' need a light to walk into the Locked Site."
+msgstr "Судя по всему, мне понадобится свет, чтобы войти в Закрытую Зону."
+
+msgid "Find 3 Keys"
+msgstr "Найти 3 ключа"
+
+msgid ""
+"I found clues to the location of the three keys for the padlocks:\n"
+"-Behind a tree\n"
+"-In a cactus pot\n"
+"-Under a fake rug"
+msgstr ""
+"Я нашла подсказки касательно того, где искать ключи от замков:\n"
+"-За деревом\n"
+"-В горшке с кактусом\n"
+"-Под фальшивым ковром"
+
+msgid "Key 1"
+msgstr "Ключ 1"
+
+msgid "Key 2"
+msgstr "Ключ 2"
+
+msgid "Key 3"
+msgstr "Ключ 3"
+
+msgid "Find an Exit"
+msgstr "Найдите выход"
+
+msgid "You're trapped inside the fairy ring. Find a way out!"
+msgstr "Вас заточили в кругу фей. Найдите выход отсюда!"
+
+msgid "Find a Head"
+msgstr "Найти голову"
+
+msgid "Find a new head for Kozmo. Hurry, he seems in danger!"
+msgstr "Нужно срочно найти новую голову для Козмо. Ничего хорошего его точно не ждёт!"
+
+msgid "Give the new head to Kozmo"
+msgstr "Отдать новую голову Козмо"
+
+msgid "Kozmo needs his new head. Hurry!"
+msgstr "Козмо нужна новая голова. Бегом!"
+
+msgid "Find the Lighthouse"
+msgstr "Найти Маяк"
+
+msgid "By continuing north through the forest, I should be able to find the lighthouse at some point."
+msgstr "Если я буду дальше идти на север через лес, то рано или поздно смогу добраться до маяка."
+
+msgid "Find Paddles"
+msgstr "Найти вёсла"
+
+msgid "There's a boat I can take to continue north, but I need paddles."
+msgstr "На лодке я смогу поплыть дальше на север, но мне нужны вёсла."
+
+msgid "Get Rid of the Monster"
+msgstr "Избавиться от чудовища"
+
+msgid "There's a boat I can take to continue north, but a monster is guarding it."
+msgstr "На лодке я смогу поплыть дальше на север, но её сторожит чудище."
+
+msgid "Take the Boat"
+msgstr "Сесть в лодку"
+
+msgid "Taking the boat might be the only way to continue north."
+msgstr "Эта лодка может быть единственным способ дальше отправиться на север."
+
+msgid "Get Rid of the Caterpillar"
+msgstr "Избавиться от Гусеницы"
+
+msgid "The moths will reward me with a doorknob if I get rid of it..."
+msgstr "Мотыльки пообещали награду, если избавлюсь от гусеницы..."
+
+msgid "Get Your Reward"
+msgstr "Получить награду"
+
+msgid "The moths should reward me with a doorknob now."
+msgstr "Мотыльки должны наградить меня дверной ручкой."
+
+msgid "Use the Doorknob"
+msgstr "Использовать дверную ручку"
+
+msgid "I got a doorknob from the moths. It seems to be the only way forward."
+msgstr "Мотыльки дали мне дверную ручку. Видимо, других путей дальше нет."
+
+msgid "Escape your prison"
+msgstr "Сбежать из заключения"
+
+msgid "I woke up in a strange prison cell. I need to get out of here."
+msgstr "Я очнулась в странной тюремной камере. Мне нужно выбираться отсюда."
+
+msgid "Investigate the facility"
+msgstr "Исследовать комплекс"
+
+msgid "Explore this place."
+msgstr "Нужно разведать это место."
+
+msgid "Find a way to go deeper down"
+msgstr "Найти путь вглубь"
+
+msgid "The only way out of the facility is by going deeper down, according to Rune."
+msgstr "Судя по словам Руна, единственный способ продвинуться по комплексу - это отправиться вниз."
+
+msgid "Lower the water level"
+msgstr "Понизить уровень воды"
+
+msgid "In order to go deeper, the water level may need to be lowered somehow."
+msgstr "Чтобы опуститься глубже, нужно как-то понизить уровень воды."
+
+msgid "Fix the elevator"
+msgstr "Починить лифт"
+
+msgid "In order to go deeper, the elevator could perhaps be fixed."
+msgstr "Как вариант, можно починить лифт, чтобы отправиться вниз."
+
+msgid "Find the cursed door"
+msgstr "Найти проклятую дверь"
+
+msgid "Rune said there should be a cursed door that leads outside, somewhere deep in this facility."
+msgstr "Рун сказал, что где-то в глубинах комплекса можно найти проклятую дверь, ведущую наружу."
+
+msgid "Find an exit"
+msgstr "Найти выход"
+
+msgid "Find a way to leave this strange house."
+msgstr "Найдите способ выйти из этого странного дома."
+
+msgid "Find your items"
+msgstr "Найти вещи"
+
+msgid "Find out what happened to your items and retrieve them."
+msgstr "Узнайте, что случилось с вашими пожитками, и верните их."
+
+msgid "Help Sai escape"
+msgstr "Помогите Саю сбежать"
+
+msgid "Find a way to unlock the cage Sai is in."
+msgstr "Найдите способ открыть клетку, в которой сидит Сай."
+
+msgid "Find and Unseal 5 Special Items"
+msgstr "Найти и раскрыть сущность пяти особых предметов"
+
+msgid "Miss Knives keeps 5 important items in her house. I need to find and unseal each of them."
+msgstr "Мадам Нож держит у себя дома пять особых предметов. Нужно найти и раскрыть сущность каждого из них."
+
+msgid "Ask Spider What To Do Next"
+msgstr "Спросить Паучка, что делать дальше"
+
+msgid "I have the 5 items, but I don't know what to do with them."
+msgstr "Все пять предметов у меня, но я без понятия, что с ними делать."
+
+msgid "Find a Lighter"
+msgstr "Найти зажигалку"
+
+msgid "I need to find something to start a fire with."
+msgstr "Нужно найти предмет, которым можно разжечь огонь."
+
+msgid "Burn the 5 Special Items"
+msgstr "Сжечь пять особых предметов"
+
+msgid "I need to burn the items in the correct order. There's a fireplace I could use."
+msgstr "Нужно сжечь предметы в правильном порядке. Для этого можно использовать камин."
+
+msgid "Bring Alcohol to the Plant"
+msgstr "Принести растению алкоголь"
+
+msgid "One of the plants requires alcohol (or water)."
+msgstr "Одному растению нужен алкоголь (или вода)."
+
+msgid "Bring Food to the Plant"
+msgstr "Принести растению поесть"
+
+msgid "One of the plants requires to be fed. Meat is recommended."
+msgstr "Одному растению необходимо питание. Советуют использовать мясо."
+
+msgid "Play Music for the Plant"
+msgstr "Сыграть музыку для растения"
+
+msgid "One of the plants requires music."
+msgstr "Одному растению необходима музыка."
+
+msgid "Bring Flowers to the Plant"
+msgstr "Принести растению цветы"
+
+msgid "One of the plants requires a flower crown."
+msgstr "Одному растению необходим цветочный венок."
+
+msgid "Perform the Paper Lily ritual"
+msgstr "Совершить ритуал с Бумажной Лилией"
+
+msgid "In order to open the door, the letter needs to be folded into a paper lily and placed in the jar."
+msgstr "Чтобы отворить дверь, нужно сложить письмо в форме лилии и положить его в вазу."
+
+msgid "Go through the door"
+msgstr "Войти в дверь"
+
+msgid "The door is open. I can go home."
+msgstr "Дверь открыта. Я могу пойти домой."
+
+msgctxt "objectives.name.ch1.blackpass_1_leave"
+msgid "Get to the Wardrobe"
+msgstr "Дойти до шкафа"
+
+msgctxt "objectives.desc.ch1.blackpass_1_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "От этого сна можно проснуться лишь если добраться до большого шкафа в конце."
+
+msgctxt "objectives.name.ch1.blackpass_2_leave"
+msgid "Get to the Wardrobe"
+msgstr "Дойти до шкафа"
+
+msgctxt "objectives.desc.ch1.blackpass_2_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "От этого сна можно проснуться лишь если добраться до большого шкафа в конце."
+
+msgctxt "objectives.name.ch1.blackpass_3_leave"
+msgid "Get to the Wardrobe"
+msgstr "Дойти до шкафа"
+
+msgctxt "objectives.desc.ch1.blackpass_3_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "От этого сна можно проснуться лишь если добраться до большого шкафа в конце."
+
+msgctxt "objectives.name.ch1.blackpass_4_leave"
+msgid "Get to the Wardrobe"
+msgstr "Дойти до шкафа"
+
+msgctxt "objectives.desc.ch1.blackpass_4_leave"
+msgid "I can only wake up from these dreams when I reach the large wardrobe at the end."
+msgstr "От этого сна можно проснуться лишь если добраться до большого шкафа в конце."
+
+msgid "Find a _____ for mom"
+msgstr "Принести маме _____"
+
+msgid "It's in a closet in the garage."
+msgstr "Он лежит в шкафу в гараже."

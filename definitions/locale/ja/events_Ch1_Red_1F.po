@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't want to carry these around..."
+msgstr "これを持って歩く気はしない……"
+
+msgid "(Discarded ingredients)."
+msgstr "(材料を捨てた。)"
+
+msgid "I still don't have all the ingredients to make this..."
+msgstr "まだ材料が揃ってない……"
+
+msgid "I'm missing \"Artist's Inspiration\"..."
+msgstr "まだ「芸術家のひらめき」が足りない……"
+
+msgid "Could it be Kett's flowers?"
+msgstr "もしかして、ケットの花のことかな？"
+
+msgid "What in the world is that?"
+msgstr "一体何なのそれ？"
+
+msgid "(You don't know what to do with this...)"
+msgstr "(これをどうすればいいのかわからない……)"
+
+msgid "You can't cut through that with scissors."
+msgstr "ハサミでは切れない。"
+
+msgid "Some books about cursed trees."
+msgstr "呪われた木に関する本。"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice"
+msgid "Read a passage?"
+msgstr "一節を読む？"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Ch1_Red_1F.misc_books.choice.Read a passage?"
+msgid "No"
+msgstr "読まない"
+
+msgid "\"Despite their usually small size, cursed trees have a distinctive habit of extending their roots to a distance of up to 60 meters."
+msgstr "「たいてい小さいにもかかわらず、呪われた木には根を最大60メートルの距離まで伸ばすという際立った習性がある。"
+
+msgid "Their roots extend even deeper underground. It is unknown how far they are able to reach before stopping.\""
+msgstr "根は地下ではそれよりもっと深く伸びる。止まるまでにどこまで伸びうるのかは分かっていない。」"
+
+msgid "Four small blue butterflies on display."
+msgstr "小さな青い蝶が4匹飾られている。"
+
+msgid "They're somewhat mesmerizing."
+msgstr "多少うっとりさせられる。"
+
+msgid "A large blue butterfly on display."
+msgstr "大きな青い蝶が1匹飾られている。"
+
+msgid "It's kind of mesmerizing..."
+msgstr "何だかうっとりさせられる……"
+
+msgid "A small blue butterfly on display."
+msgstr "小さな青い蝶が1匹飾られている。"
+
+msgid "It's not as mesmerizing."
+msgstr "それほどうっとりさせられない。"
+
+msgid "A simple chemistry set for mixing substances."
+msgstr "物質を混ぜるためのシンプルな化学セット。"
+
+msgid "Some bottles and other containers."
+msgstr "瓶などの容器類。"
+
+msgid "A book filled with extensive research on all sorts of materials."
+msgstr "あらゆる素材に関する広汎な研究が詰まった本。"
+
+msgid "There's also an AC adapter in the drawers."
+msgstr "引き出しの中にはACアダプターもあった。"
+
+msgid "Take ${item:ch1.forest_adapter}?"
+msgstr "${item:ch1.forest_adapter} を取る？"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_1.choice.Take ${item:ch1.forest_adapter}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "Some notes on curse removal rituals."
+msgstr "呪いを解く儀式に関するメモ。"
+
+msgid "Take ${item:ch1.red_notes}?"
+msgstr "${item:ch1.red_notes} を取る？"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_2.choice.Take ${item:ch1.red_notes}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "(Can I even use this for anything...?)"
+msgstr "(こんなの何かに使えるのかな……？)"
+
+msgid "An empty desk that you stole some notes from."
+msgstr "自分がメモを盗んだ、何も置かれていない机。"
+
+msgid "A red doll. Both eyes are colored in."
+msgstr "赤い人形。両目が塗られている。"
+
+msgid "I know this."
+msgstr "これ知ってる。"
+
+msgid "It's a doll that helps you reach your wishes."
+msgstr "願いを叶えるのを助けてくれる人形だ。"
+
+msgid "You color in one eye when you make a wish, and the doll will help grant it."
+msgstr "願い事をしながら片目を塗ると、実現を助けてくれるの。"
+
+msgid "In return, once you've reached your goal, you color in the other eye..."
+msgstr "お返しに、目標を達成した時にはもう片方の目を入れる……"
+
+msgid "...essentially giving the doll his sight back as gratitude."
+msgstr "……要するに、感謝のしるしとして人形に視力を取り戻させてあげることになる。"
+
+msgid "..."
+msgstr "……"
+
+msgid "Hiro reads a lot about this kind of stuff."
+msgstr "ヒロはこういうことについてたくさん本を読んでる。"
+
+msgid "I wonder what this person's wish was."
+msgstr "この人の願い事は何だったのかな。"
+
+msgid "Some books about butterflies."
+msgstr "蝶に関する本。"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice"
+msgid "Read a passage?"
+msgstr "一節を読む？"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "Yes"
+msgstr "読む"
+
+msgctxt "events.Ch1_Red_1F.misc_desk_4.choice.Read a passage?"
+msgid "No"
+msgstr "読まない"
+
+msgid "\"A blue butterfly appears for each curse lifted."
+msgstr "「1つ呪いが解かれるごとに、1羽の青い蝶が現れる。"
+
+msgid "They are attracted to cursed trees and will burrow into the trunk, rendering it completely hollow with time."
+msgstr "蝶は呪われた木に引き寄せられ、その幹を掘り進んで、やがて完全に空洞にしてしまう。"
+
+msgid "It is unknown why this behavior happens.\""
+msgstr "なぜこのような行動が起こるのかは分かっていない。」"
+
+msgid "A furnace."
+msgstr "かまど。"
+
+msgid "Inside is a... thing."
+msgstr "中には……何か。"
+
+msgid "Is this... art? It looks like the carcass of a sculpture of some sort."
+msgstr "これは……アート？　何かの彫刻の残骸みたいな感じだけど。"
+
+msgid "Maybe it could work for Kozmo, but he might hate me for it."
+msgstr "コズモに使えるかもしれないけど、こんなの渡したら嫌われちゃうかも。"
+
+msgid "Take ${item:ch1.red_pot}?"
+msgstr "${item:ch1.red_pot} を取る？"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Red_1F.misc_firerplace.choice.Take ${item:ch1.red_pot}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "Some incomplete notes on removing curses."
+msgstr "呪いの解除に関する未完成のメモ。"
+
+msgid "I don't really understand any of this."
+msgstr "どれもよくわからない。"
+
+msgid "A small plant."
+msgstr "小さな植物。"
+
+msgid "The leaves look like they're tied in a bow."
+msgstr "葉っぱが蝶結びされてるみたいに見える。"
+
+msgid "A plant that looks like a bow."
+msgstr "蝶結びのように見える植物。"
+
+msgid "Some purple mushrooms are growing here."
+msgstr "紫のキノコが育っている。"
+
+msgid "Some black mushrooms are growing here."
+msgstr "黒いキノコが育っている。"
+
+msgid "Some pink plants are growing here."
+msgstr "桃色の植物が育っている。"
+
+msgid "The carpet here seems suspicious."
+msgstr "ここの絨毯は怪しい。"
+
+msgid "Take a closer look?"
+msgstr "よく見てみる？"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "Yes"
+msgstr "見てみる"
+
+msgctxt "events.Ch1_Red_1F.misc_rug_hatch.choice.Take a closer look?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "There's a ladder, but the entrance is locked with a padlock."
+msgstr "はしごがあるが、入り口が南京錠で閉ざされている。"
+
+msgid "Gardening supplies are laid on the shelf."
+msgstr "園芸用品が棚に並んでいる。"
+
+msgid "A tree filled with blue butterflies."
+msgstr "青い蝶がびっしりついた木。"
+
+msgid "Thin vertical windows."
+msgstr "細い垂直な窓。"

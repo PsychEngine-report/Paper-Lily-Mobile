@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "So..."
+msgstr "Отже..."
+
+msgid "What is this place?"
+msgstr "Що це за місце?"
+
+msgid "What do I do about the primals?"
+msgstr "Що тобі відомо про древніх демонів?"
+
+msgid "How do you know Sai?"
+msgstr "Звідки ти знаєш Сая?"
+
+msgid "Never mind"
+msgstr "Нічого не казати"
+
+msgid "What exactly is this place?"
+msgstr "Що ж це за місце таке?"
+
+msgid "Dunno!"
+msgstr "Не знаю!"
+
+msgid "Nobody's been here for hundreds of years though."
+msgstr "Тут уже сотні років ніхто не бував."
+
+msgid "Interesting."
+msgstr "Цікаво."
+
+msgid "There's... shadowy-looking demons roaming around this place."
+msgstr "Тут... скрізь блукають якісь темнуваті демони."
+
+msgid "Indeed!"
+msgstr "І справді!"
+
+msgid "They are called primals."
+msgstr "Їх звуть древніми."
+
+msgid "Best not to approach them."
+msgstr "До них краще не наближуватись."
+
+msgid "Told you so."
+msgstr "А я тобі казав."
+
+msgid "You two said you've had several encounters with each other?"
+msgstr "Кажеш, ви обоє уже зустрічались?"
+
+msgid "I do a lot of rituals."
+msgstr "Я виконував багато ритуалів."
+
+msgid "A lot of rituals?"
+msgstr "Багато?"
+
+msgid "And... you've survived?"
+msgstr "І... ти ще живий?"
+
+msgid "You almost look disappointed."
+msgstr "Ти ніби засмутилась."
+
+msgid "Rune bounces up and down."
+msgstr "Рун підскакує на місці."
+
+msgid "By the way..."
+msgstr "До речі..."
+
+msgid "The way to go \"deeper\" seems to be flooded."
+msgstr "Здається, \"глибше\" затоплено водою."
+
+msgid "Do I have to swim...?"
+msgstr "Мені що, пірнати туди?.."
+
+msgid "Do you? I wonder!"
+msgstr "Пірнати? Як цікаво!"
+
+msgid "Sigh..."
+msgstr "*Позіхає*…"
+
+msgid "Miss Lacie!"
+msgstr "Пані Лейсі!"
+
+msgid "Have you misplaced Mr. Sai?"
+msgstr "Ви загубили пана Сая?"
+
+msgid "Uh..."
+msgstr "Е-е..."
+
+msgid "Something like that."
+msgstr "Можна й так сказати."
+
+msgid "How come?"
+msgstr "Як так?"
+
+msgid "..."
+msgstr "..."
+
+msgid "I'm just more comfortable being alone."
+msgstr "Мені одній якось веселіше."
+
+msgid "Ooh! I feel the same!"
+msgstr "О-о! Розумію!"
+
+msgid "Anyway..."
+msgstr "Отже..."
+
+msgid "How did I miss the lighthouse?"
+msgstr "Чому я пропустила маяк?"
+
+msgid "How will you get out of here?"
+msgstr "Як ти звідси вийдеш?"
+
+msgid "Tell me more about Sai."
+msgstr "Розкажи мені про Сая."
+
+msgid "So... I went north, but somehow I didn't come across the lighthouse."
+msgstr "...Я гребла на північ, але чомусь не дісталась маяка."
+
+msgid "Where did I go wrong?"
+msgstr "Що я зробила не так?"
+
+msgid "Hmm..."
+msgstr "Гм-м..."
+
+msgid "Did you reach the lake?"
+msgstr "Ви дісталися озера?"
+
+msgid "Yes."
+msgstr "Так."
+
+msgid "Did you cross the lake?"
+msgstr "Перетнули озеро?"
+
+msgid "Yes, I took a boat."
+msgstr "Так, на човні."
+
+msgid "You should have been able to spot it from there!"
+msgstr "Звідти ви мали його побачити!"
+
+msgid "Oh, I couldn't see much because of the fog, so I just tried to keep rowing in the same direction."
+msgstr "Ой, через туман геть нічого не було видно, тому я гребла в одному напрямку."
+
+msgid "I must have taken a wrong turn somewhere..."
+msgstr "Мабуть, кудись не туди завернула..."
+
+msgid "That's too bad."
+msgstr "Це сумно."
+
+msgid "If this place is a dead end, how do you intend to leave?"
+msgstr "Якщо це глухий кут, як ти збираєшся піти звідси?"
+
+msgid "I will stick around here for a bit longer!"
+msgstr "А я ще тут простирчу!"
+
+msgid "But after that?"
+msgstr "А потім?"
+
+msgid "After that what?"
+msgstr "А що потім?"
+
+msgid "How do you plan to get out?"
+msgstr "Як ти збираєшся вибратися звідси?"
+
+msgid "I don't plan to get out for the moment! I will stick around for a bit longer!"
+msgstr "Я поки не збираюсь вибиратися! Я ще тут трохи простирчу!"
+
+msgid "But..."
+msgstr "Але..."
+
+msgid "Miss Lacie, I will stick around here for a bit longer!"
+msgstr "Пані Лейсі, я ще тут трохи простирчу!"
+
+msgid "I see..."
+msgstr "Зрозуміло..."
+
+msgid "Do you know anything else about Sai? What kind of person is he?"
+msgstr "Ти щось знаєш про Сая? Що він із себе представляє?"
+
+msgid "Hmmm..."
+msgstr "Гм-м..."
+
+msgid "I don't know."
+msgstr "Навіть не знаю."
+
+msgid "He never talks about himself."
+msgstr "Він ніколи не говорить про себе."
+
+msgid "And he never gives me runes."
+msgstr "А ще він не дає мені руни."
+
+msgid "Is he a demon?"
+msgstr "Він демон?"
+
+msgid "He's not!"
+msgstr "Анітрішки!"
+
+msgid "Oh... really?"
+msgstr "О... правда?"
+
+msgid "Although there is something different about him."
+msgstr "Хоча у ньому й відчувається щось дивне."
+
+msgid "Much like you, Miss Lacie, I couldn't tell right away that he's human."
+msgstr "Як і з вами, пані Лейсі, я не одразу зрозумів, що він людина."
+
+msgid "Normally I can smell it from quite far!"
+msgstr "Зазвичай я здалеку відчуваю людський запах!"
+
+msgid "Oh."
+msgstr "Ого."
+
+msgid "Strange."
+msgstr "Дивно."
+
+msgid "The way forward is blocked by some sort of door."
+msgstr "Шлях попереду перекритий якимись дверима."
+
+msgid "This wasn't here before..."
+msgstr "Цього тут раніше не було..."
+
+msgid "(It's dead...?)"
+msgstr "(Воно мертве?..)"
+
+msgid "Good riddance."
+msgstr "Щасливої дороги."
+
+msgid "Another one..?"
+msgstr "Ще один?.."
+
+msgid "That makes two."
+msgstr "Уже двоє."
+
+msgid "(What killed it...?)"
+msgstr "(Що їх убило?..)"
+
+msgid "Are you sensing a pattern here or is it just me?"
+msgstr "Я один починаю бачити закономірність?"
+
+msgid "(Really... what happened here?)"
+msgstr "(А й справді... що тут сталося?)"
+
+msgid "Must be my imagination."
+msgstr "Ні, це просто моя уява."
+
+msgid "Ooh!"
+msgstr "О-о!"
+
+msgid "Miss L-"
+msgstr "Пані Л-"
+
+msgid "Shh!"
+msgstr "Тс-с!"
+
+msgid "...?"
+msgstr "?.."
+
+msgid "I don't give my name to just anyone, Rune."
+msgstr "Я не розкриваю своє ім'я усім підряд, Руне."
+
+msgid "Very wise!"
+msgstr "Мудре рішення!"
+
+msgid "What?!"
+msgstr "Що?!"
+
+msgid "You told this goblin your name but not me?"
+msgstr "Тобто цьому гобліну ти своє ім'я сказала, а мені - ні?"
+
+msgid "You're still suspicious."
+msgstr "Ти досі якийсь підозрілий."
+
+msgid "Suspicious?"
+msgstr "Підозрілий?"
+
+msgid "What can I even do with your name? This is ridiculous."
+msgstr "І що я такого зроблю з твоїм ім'ям? Це ж безглуздя."
+
+msgid "I read of a curse that can kill someone just by writing their name in a notebook."
+msgstr "Я десь читала про прокляття, яке вбиває того, чиє ім'я записано в зошит."
+
+msgid "Is that the same place you read about the salt?"
+msgstr "Про сіль ти там же прочитала?"
+
+msgid "Hello Mr. Sai!"
+msgstr "Вітаю, пане Саю!"
+
+msgid "Yo."
+msgstr "Привітулі."
+
+msgid "Rune, you know him?"
+msgstr "Ти його знаєш, Руне?"
+
+msgid "Yes! Though my encounters with Mr. Sai are often brief, as he does not provide me with runes."
+msgstr "Так! Але від пана Сая я не отримую руни, тому наші зустрічі не тривали довго."
+
+msgid "Give me a break man, it's not like those things are just lying around."
+msgstr "Та ну тебе, чувак, вони на дорозі не валяються."
+
+msgid "(I guess that's true...)"
+msgstr "(І те правда...)"
+
+msgid "(Well, I did find one...)"
+msgstr "(Ну, я одну знайшла...)"
+
+msgid "(They kind of are, though...)"
+msgstr "(Але ж валяються...)"
+
+msgid "How did you get here?"
+msgstr "Як ти сюди потрапив?"
+
+msgid "I walked."
+msgstr "Пішки."
+
+msgid "I see."
+msgstr "Зрозуміло."
+
+msgid "Unfortunately, I'm still looking for the lighthouse."
+msgstr "На жаль, я досі шукаю маяк."
+
+msgid "Ooh."
+msgstr "Ой-ой."
+
+msgid "The lighthouse isn't here! You must have taken a wrong turn somewhere."
+msgstr "Маяк не тут! Схоже, ви десь не там завернули."
+
+msgid "And there's no way to go back outside from here."
+msgstr "І вибратися звідси теж неможливо."
+
+msgid "What?"
+msgstr "Що?"
+
+msgid "We're stuck here?"
+msgstr "Кажеш, ми тут застрягли?"
+
+msgid "Possibly. Some doorknobs are one-way only."
+msgstr "Можливо. Деякі дверні ручки ведуть в один кінець."
+
+msgid "Rune, do you have any idea where I could go from here to reach the lighthouse?"
+msgstr "Руне, а ти часом не знаєш, як звідси дістатися маяка?"
+
+msgid "The only way forward is by going deeper down."
+msgstr "Єдиний шлях вперед - спускатися глибше."
+
+msgid "The stairs are right there, in fact!"
+msgstr "А сходи прямісінько тут!"
+
+msgid "That looks like a dead end."
+msgstr "Схоже на глухий кут."
+
+msgid "Yes, death is highly probable at all times!"
+msgstr "Дійсно, і смерть тут чекає повсюди!"
+
+msgid "But, I heard there's a cursed door down there somewhere."
+msgstr "Проте я чув, що десь у тутешніх глибинах є прокляті двері."
+
+msgid "If you're lucky, it might lead you somewhere!"
+msgstr "Як пощастить, вони вас кудись виведуть!"
+
+msgid "Or if you're unlucky, it might not!"
+msgstr "А як не пощастить, не виведуть!"
+
+msgid "(Another cursed door huh...)"
+msgstr "(Ще одні прокляті двері...)"
+
+msgid "(If there's a cursed door, then maybe there's a way out of here.)"
+msgstr "(Якщо є двері, то й вихід знайдеться.)"
+
+msgid "(Or at the very least, I could still go home if I'm stuck.)"
+msgstr "(Принаймні, якщо іншого шляху не буде, я зможу повернутися додому.)"
+
+msgid "(I have the doorknob, after all.)"
+msgstr "(Недарма ж купила свою дверну ручку.)"
+
+msgid "(That doorknob... When I got it in the mail, it came with instructions. Almost like a ritual.)"
+msgstr "(Ця дверна ручка... у поштовій скриньці разом з нею були інструкції. Теж своєрідний ритуал.)"
+
+msgid "(It involved folding my ritual letter into an origami lily, and placing it in some vase.)"
+msgstr "(Там написано, що треба скласти оригамі лілії з мого ритуального листа, а потім покласти його у якусь вазу.)"
+
+msgid "(I thought it was a joke, but...)"
+msgstr "(Мені здалося, що цей якийсь жарт, але...)"
+
+msgid "\"It's imperative that you learn how to fold it, if you don't, you'll regret it.\""
+msgstr "\"Дуже важливо навчитися складати його, або потім пошкодуєте.\""
+
+msgid "(Anyways, I brought the folding instructions with me, just in case.)"
+msgstr "(У будь-якому разі я взяла із собою інструкції зі складання оригамі. Про всяк випадок.)"
+
+msgid "Yo, you there? You're spacing out."
+msgstr "Агов, ти там? Щось ти сильно замислилась."
+
+msgid "Ah... yeah."
+msgstr "А... так."
+
+msgid "Good luck on your quest!"
+msgstr "Нехай щастить!"
+
+msgid "I have just the thing for you!"
+msgstr "А в мене для вас дещо є!"
+
+msgid "It's a map!"
+msgstr "Це мапа!"
+
+msgid "A map...?"
+msgstr "Мапа?.."
+
+msgid "Let's see, here you go!"
+msgstr "Подивимось... ось, тримайте!"
+
+msgid "I love runes!"
+msgstr "Я люблю руни!"
+
+msgid "Yay! Today is my lucky day!"
+msgstr "Ура! Сьогодні мій день!"
+
+msgid "Are we doing my idea?!"
+msgstr "Ми слідуємо моєму плану?!"
+
+msgid "No."
+msgstr "Ні."
+
+msgid "But it might work!"
+msgstr "Та він спрацює!"
+
+msgid "We just have to pick up water from here and empty it somewhere."
+msgstr "Треба лише набрати тут води й вилити її деінде."
+
+msgid "And just repeat that a couple of times."
+msgstr "А потім повторити цей процес декілька разів."
+
+msgid "Or, a lot of times."
+msgstr "Або багато разів."
+
+msgid "Right?"
+msgstr "Та невже?"
+
+msgid "We just need, like..."
+msgstr "Треба лише знайти..."
+
+msgid "A bathtub or a sink or something."
+msgstr "Якусь ванну чи раковину."
+
+msgid "Eventually, the water level will be lower."
+msgstr "Рано чи пізно вода опуститься."
+
+msgid "This is ridiculous."
+msgstr "Ти знущаєшся."
+
+msgid "Here, I can carry that for you."
+msgstr "Слухай, давай-но я понесу?"
+
+msgid "I can do it."
+msgstr "Сама впораюся."
+
+msgid "Alriiight."
+msgstr "Ну до-о-обре."
+
+msgid "What are you doing?"
+msgstr "Що ви робите?"
+
+msgid "Nothing."
+msgstr "Нічого."
+
+msgid "We're lowering the water level."
+msgstr "Опускаємо рівень води."
+
+msgid "Oooh..."
+msgstr "О-о-о..."
+
+msgid "This looks highly inefficient!"
+msgstr "Виглядає дещо неефективно!"
+
+msgid "Yeah, well, why don't you help then?"
+msgstr "Та ти що? Може, допоможеш?"
+
+msgid "It'll go faster."
+msgstr "Процес піде швидше."
+
+msgid "That's okay!"
+msgstr "Все нормально!"
+
+msgid "I'm satisfied over here."
+msgstr "Я й так всім задоволений."
+
+msgid "Hey!"
+msgstr "Слухай!"
+
+msgid "I think the water level already went down a bit!"
+msgstr "Мені здається, що вода потихеньку опускається!"
+
+msgid "(It hasn't moved at all...)"
+msgstr "(Ні, взагалі не опускається...)"
+
+msgid "Oh, you can keep it!"
+msgstr "О, залиште собі!"
+
+msgid "Rune doesn't need it back."
+msgstr "Руну це більше не треба."
+
+msgid "A cursed artifact from the depths, best left forgotten."
+msgstr "Окаянний артефакт з пучин, про який краще забути."
+
+msgid "Please, I don't want to see this thing ever again."
+msgstr "Благаю, я більше не хочу його бачити."
+
+msgid "It's a button. It probably controls the gate."
+msgstr "Це кнопка. Схоже, вона керує брамою."
+
+msgid "Press the button?"
+msgstr "Натиснути на кнопку?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Nothing happens."
+msgstr "Нічого не сталося."
+
+msgid "A large gate blocks your path."
+msgstr "На вашому шляху стоїть велика брама."
+
+msgid "A crow standing on a white tree stump."
+msgstr "Ґава стоїть на білому пні."
+
+msgid "I can't tell if it's the same one... but I'm glad to see it."
+msgstr "Не знаю, чи це одна й та сама ґава... але я рада її бачити."
+
+msgid "Are you friends with the crows?"
+msgstr "Ти з ними товаришуєш?"
+
+msgid "Sorta. They appear here and there like save points."
+msgstr "Можна й так сказати. Вони з'являються то тут, то там і зберігають мій прогрес."
+
+msgid "?????"
+msgstr "?????"
+
+msgid "The crow isn't here right now."
+msgstr "Ґава зараз не тут."
+
+msgid "A tree that seems to be growing out of the concrete floor."
+msgstr "Дерево, що росте з бетонної підлоги."
+
+msgid "(Unusual place for a tree.)"
+msgstr "(Незвичайне місце для дерева.)"
+
+msgid "The path forward is flooded."
+msgstr "Попереду все затоплено."
+
+msgid "(Deeper down... do we have to go this way?)"
+msgstr "(Ще глибше... невже нам і справді туди?)"
+
+msgid "(That's impossible... does Rune expect us to swim?)"
+msgstr "(Це неможливо... Рун хоче, щоб ми туди сплавали?)"
+
+msgid "Hear me out."
+msgstr "Послухай."
+
+msgid "What if we took all this water..."
+msgstr "А що як ми візьмемо усю воду..."
+
+msgid "And put it somewhere else?"
+msgstr "Та переллємо її кудись в інше місце?"
+
+msgid "Do you have a screw loose?"
+msgstr "Ти з глузду з'їхав?"
+
+msgid "Look, I know it sounds crazy!"
+msgstr "Слухай, ідея божевільна, я розумію!"
+
+msgid "And we'd need a bucket..."
+msgstr "А ще нам потрібне відро..."
+
+msgid "It's impossible."
+msgstr "Це неможливо."
+
+msgid "And it would take a lot of trips..."
+msgstr "І треба буде багато ходити..."
+
+msgid "I can't believe I'm hearing this."
+msgstr "Не вірю, що взагалі це вислуховую."
+
+msgid "(But maybe... we can lower the water level somehow?)"
+msgstr "(Але... може, вийде якось опустити рівень води?)"
+
+msgid "It's locked."
+msgstr "Зачинено."

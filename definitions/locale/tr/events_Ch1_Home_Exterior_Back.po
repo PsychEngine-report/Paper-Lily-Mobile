@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "It makes me happy to see you carry your cellphone around."
+msgstr "Cep telefonunu yanında taşıdığını görmek beni mutlu ediyo."
+
+msgid "Because you're the one that got it for me?"
+msgstr "Bana onu alanın sen olduğu için mi?"
+
+msgid "That, but also..."
+msgstr "O yüzden, ama aynı zamanda..."
+
+msgid "...how to put this..."
+msgstr "...Nasıl kelimelere dökülür bu.."
+
+msgid "It would be easy to forget it in a drawer if you don't have much use for it."
+msgstr "Çok fazla kullanamayacaksan çekmecede unutmak kolay olacaktır."
+
+msgid "...At the very least, it makes for a good flashlight."
+msgstr "...En azından iyi bir el feneri olur"
+
+msgid "Right! What matters is that you carry it with you."
+msgstr "Harbi! Önemli olan onu yanında taşıman."
+
+msgid "Yeah."
+msgstr "Evet."
+
+msgid "You already have my number."
+msgstr "Numaram sende var zaten."
+
+msgid "Or are you showing me your wallpaper?"
+msgstr "Yada bana duvar kağıdını mı gösteriyorsun?"
+
+msgid "Look."
+msgstr "Bak."
+
+msgid "What's this?"
+msgstr "Bu ne be?"
+
+msgid "Apparently, it's my ticket back home."
+msgstr "Görünüşe göre bu benim eve dönüş biletim."
+
+msgid "Really?"
+msgstr "Cidden mi?"
+
+msgid "If this ritual ends up working..."
+msgstr "Eğer bu ritüel çalışır ise.."
+
+msgid "(...And this doorknob isn't just some online scam...)"
+msgstr "(...Ve bu kapı kolu sadece bir tür dolandırıcılık değil ise..)"
+
+msgid "Then supposedly I can use this on a special door and it'll take me back home."
+msgstr "O zaman güya bunu özel bir kapıda kullanabilirim ve beni evime geri götürür."
+
+msgid "Really?!"
+msgstr "Cidden mi?!"
+
+msgid "Yeah, well, I wasn't going to do this ritual without a plan."
+msgstr "Evet, bu ritüeli bir plan olmadan yapmayacaktım."
+
+msgid "Thank goodness."
+msgstr "Çok şükür."
+
+msgid "All of my pestering worked."
+msgstr "Bütün uğraşlarım işe yaradı."
+
+msgid "Don't lose it!!"
+msgstr "Kaybetme onu!!"
+
+msgid "Of course."
+msgstr "Elbette."
+
+msgid "(This should reassure him a bit.)"
+msgstr "(Bu onu biraz rahatlatacaktır.)"
+
+msgid "(Reassurance complete. No need to bring this back up.)"
+msgstr "(Rahatlama tamamlandı. Bunu tekrar gündeme getirmeye gerek yok.)"
+
+msgid "Are you going to try on makeup?"
+msgstr "Makyaj mı yapıcaksın?"
+
+msgid "Or maybe..."
+msgstr "Yada belki..."
+
+msgid "You want to put it on me???"
+msgstr "Bana makyaj yapmak mı istiyorsun???"
+
+msgid "...I was just showing you..."
+msgstr "...Sadece sana gösteriyorum..."
+
+msgid "Oh..."
+msgstr "Oh..."
+
+msgid "You sound almost... disappointed?"
+msgstr "Biraz...Hayal kırıklığına uğramış gibiydin.."
+
+msgid "Do you need help putting lipstick on?"
+msgstr "Ruju sürmekte yardıma ihtiyacın var mı?"
+
+msgid "I-I'm not using it!"
+msgstr "B-ben onu kullanmıyorum!"
+
+msgid "You do know that you're supposed to do that while the person is asleep, right?"
+msgstr "Bunu o kişi uyurken yapman gerektiğini biliyorsun, değil mi?"
+
+msgid "You seemed so concentrated, I thought I could pull it off."
+msgstr "O kadar konsantre olmuş görünüyordun ki, bunu başarabileceğimi düşündüm."
+
+msgid "I think I'll be locking my room tonight..."
+msgstr "Sanırım bu gece odamın kapısını kitleyeceğim."
+
+msgid "Drawing on Hiro's face will have to wait."
+msgstr "Hiro'nun suratını çizmenin beklemesi gerek."
+
+msgid "Lace, I don't know what you're planning with that,"
+msgstr "Lace, bununla ne planladığını bilmiyorum,"
+
+msgid "but it's gonna be really hard to wash off."
+msgstr "ama onu yıkayarak çıkarmak çok zor olucak"
+
+msgid "Yeah... I'm aware."
+msgstr "Evet... farkındayım."
+
+msgid "Um... do you need me to get up?"
+msgstr "Um... Kalkmamı ister misin?"
+
+msgid "Are you painting this bench?"
+msgstr "Bu bankı mı boyuyorsun?"
+
+msgid "N-no... sorry."
+msgstr "H-hayır... özür dilerim."
+
+msgid "Okay, turn around."
+msgstr "Tamam, arkanı dön"
+
+msgid "...Huh?"
+msgstr "...Huh?"
+
+msgid "You don't want me to tie your hair with the ribbon?"
+msgstr "Saçını kurdeleyle bağlamamı istemiyor musun?"
+
+msgid "Oh! I forgot we used to do that."
+msgstr "Ah! Bunu eskiden yaptığımızı unutmuşum."
+
+msgid "But I need it for something else, so no."
+msgstr "Ama ona başka bir şey için ihtiyacım var, o yüzden hayır."
+
+msgid "Bummer!"
+msgstr "Ne yazık!"
+
+msgid "Tying your hair will have to wait."
+msgstr "Saçını yapmanın beklemesi gerek."
+
+msgid "...This is...?"
+msgstr "...Bu?..."
+
+msgid "A rune, for the ritual."
+msgstr "Ritüel için bir rün."
+
+msgid "Oh... It's just a rock with a greek letter?"
+msgstr "Oh... Üzerinde Yunanca harf olan bir taş mı sadece?"
+
+msgid "It's not greek, but yeah, more or less."
+msgstr "Yunanca değil, ama evet, aşşağı yukarı öyle."
+
+msgid "Interesting."
+msgstr "İlginç."
+
+msgid "No reason to show him again."
+msgstr "Ona tekrar göstermenin bir anlamı yok"
+
+msgid "The salt goes on the inside only..."
+msgstr "Tuz sadece iç rafa konur..."
+
+msgid "Oh...? Lacie is learning to cook?"
+msgstr "Oh?..Lacie yemek yapmayı mı öğreniyor?"
+
+msgid "No, not yet."
+msgstr "Hayır, daha değil."
+
+msgid "Aww... It could've been fun!"
+msgstr "Aaa...Eğlenceli olabilirdi!"
+
+msgid "Maybe some other time."
+msgstr "Belki başka bir zaman."
+
+msgid "Hiro needs no further seasoning."
+msgstr "Hiro'nun daha fazla baharata ihtiyacı yok."
+
+msgid "My shoelaces! It's going to take ages to lace those back!"
+msgstr "Bağcıklarım! Onları tekrar bağlamak çok zaman alacak!"
+
+msgid "I'm sorry, it's necessary."
+msgstr "Üzgünüm, bu gerekli."
+
+msgid "Those are my favorite, please don't lose them."
+msgstr "Bunlar benim favorilerim, lütfen onları kaybetme."
+
+msgid "Lucky shoes? Or lucky shoelaces?"
+msgstr "Şanslı ayakkabılar? Ya da şanslı bağcıklar?"
+
+msgid "Lucky nothing if you lose them!!"
+msgstr "Kaybederseniz hiçbir şey şanslı değil!!"
+
+msgid "I'll be careful!"
+msgstr "Dikkatli olacağım!"
+
+msgid "Here, take a look at them one last time."
+msgstr "İşte onlara son kez bakın."
+
+msgid "Whaaat?"
+msgstr "Neee?"
+
+msgid "I have to burn them for the ritual."
+msgstr "Ritüel için onları yakmalıyım."
+
+msgid "Can't you use different ones?"
+msgstr "Farklı olanları kullanamaz mısın?"
+
+msgid "They have to be red, and worn by a dummy."
+msgstr "Kırmızı olmaları lazım ve bir manken tarafından giyilmiş olması gerek."
+
+msgid "There's no way it says that..."
+msgstr "Öyle demesine imkan yok..."
+
+msgid "Let's not tease him anymore."
+msgstr "Artık onunla dalga geçmeyelim."
+
+msgid "Are you learning how to sew?"
+msgstr "Dikiş dikmeyi mi öğreniyorsun?"
+
+msgid "Not this year."
+msgstr "Bu yıl değil."
+
+msgid "I have a hole on this sweater you can practice on, you know."
+msgstr "Bu kazakta üzerinde pratik yapabileceğin bir delik var, bilirsin."
+
+msgid "And risk damaging the kitty pattern even further?"
+msgstr "Ve kedi desenini daha da bozma riskine mi giriyorsunuz?"
+
+msgid "I believe in you!"
+msgstr "Sana inanıyorum!"
+
+msgid "Make me a new sweater or something."
+msgstr "Bana yeni bir kazak falan yap."
+
+msgid "This isn't yarn..."
+msgstr "Bu yün değil..."
+
+msgid "Hiro isn't here."
+msgstr "Hiro burada değil."
+
+msgid "A nice bench, isolated from the public gaze."
+msgstr "Halkın bakışından izole edilmiş güzel bir bank."
+
+msgid "A bush."
+msgstr "Bir çalı."
+
+msgid "A nice chair."
+msgstr "Güzel bir sandalye."
+
+msgid "Some pretty flowers are lined up on the sides."
+msgstr "Yanlarda bazı güzel çiçekler dizilmiş."
+
+msgid "A pond surrounded by flowers."
+msgstr "Çiçeklerle çevrili bir gölet."
+
+msgid "I wish we had frogs here."
+msgstr "Keşke burada kurbağalarımız olsaydı."
+
+msgid "Lamps that look a lot nicer at night."
+msgstr "Geceleri çok daha güzel görünen lambalar."
+
+msgid "Another nice plant."
+msgstr "Başka bir güzel bitki."
+
+msgid "Some pretty flowers."
+msgstr "Bazı güzel çiçekler."
+
+msgid "A potted plant. This one is called Jacques."
+msgstr "Bir saksı bitkisi. Buna Jacques denir."
+
+msgctxt "events.Ch1_Home_Exterior_Back.misc_pottedplant_2.dlg.narrator"
+msgid "A potted plant."
+msgstr "Saksıda bir bitki."
+
+msgid "A potted plant. This one is called Lucardo."
+msgstr "Bir saksı bitkisi. Buna Lucardo denir."
+
+msgctxt "events.Ch1_Home_Exterior_Back.misc_pottedplant_3.dlg.narrator"
+msgid "A potted plant."
+msgstr "Saksıda bir bitki."
+
+msgid "A nice table."
+msgstr "Güzel bir masa."
+
+msgid "A tree."
+msgstr "Bir ağaç."

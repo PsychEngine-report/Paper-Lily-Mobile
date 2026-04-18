@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.event_enter.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Aoi, stay close."
+msgstr "アオイ、離れないで。"
+
+msgid "Okay..."
+msgstr "うん……"
+
+msgid "There's no point in seasoning them."
+msgstr "妖精に味付けする意味はない。"
+
+msgid "Whacha doing?"
+msgstr "何してるの？"
+
+msgid "Uh... Nothing."
+msgstr "いや……何も。"
+
+msgid "(Does salt not work on all demons...?)"
+msgstr "(塩が効かない妖魔もいるの……？)"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_on_head.dlg.narrator"
+msgid "Better not to."
+msgstr "やめておいたほうがいい。"
+
+msgid "Don't do that!"
+msgstr "やめて！"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_on_head.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Sorry... Uh..."
+msgstr "ごめん……その……"
+
+msgid "What if its body comes here... if you stab it?"
+msgstr "突き刺して……体が来たらどうするの？"
+
+msgid "Why would that happen?"
+msgstr "どうしてそうなるの？"
+
+msgid "I don't know... I don't want to risk it."
+msgstr "わからないけど……危険は冒したくない。"
+
+msgid "...Fair enough."
+msgstr "……そうだね。"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.item_scissors_salt_on_plants.dlg.narrator"
+msgid "Better not to."
+msgstr "やめておいたほうがいい。"
+
+msgid "(Better not do that.)"
+msgstr "(やめておこう。)"
+
+msgid "(This little plant is the only thing standing between us and those fairy heads...)"
+msgstr "(私たちと妖精の頭を隔ててるのは、この小さな植物だけなんだし……)"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.misc_head_a.dlg.narrator"
+msgid "A fairy head, or something."
+msgstr "妖精の頭、か何か。"
+
+msgid "Its mouth is wide open..."
+msgstr "口を大きく開けている……"
+
+msgctxt "events.Ch1_FairyRing_B2F_Puzzle_1.misc_head_b.dlg.narrator"
+msgid "A fairy head, or something."
+msgstr "妖精の頭、か何か。"
+
+msgid "Its nostrils are weird."
+msgstr "奇妙な鼻の穴がある。"
+
+msgid "Its eyes look creepy..."
+msgstr "不気味な目をしている……"
+
+msgid "Another one of those plants."
+msgstr "おなじみの植物。"

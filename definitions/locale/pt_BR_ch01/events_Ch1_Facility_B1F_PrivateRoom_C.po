@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The silhouette of a large clock is reflected here."
+msgstr "A silhueta de um grande relógio é refletida aqui."
+
+msgid "A large window shaped like a clock towers above you."
+msgstr "Uma grande janela em forma de relógio ergue-se acima de você."
+
+msgid "The time is set to 12:00."
+msgstr "A hora está definida para 120:00 horas."
+
+msgid "There you are!"
+msgstr "Aí está você!"
+
+msgid "How'd you get in there?"
+msgstr "Como você entrou aí?"
+
+msgid "I got zapped, like there's something keeping me out."
+msgstr "Fui eletrocutado, como se houvesse algo me impedindo de entrar."
+
+msgid "Really?"
+msgstr "Sério?"
+
+msgid "You didn't even notice me gone!?"
+msgstr "Você nem percebeu que eu fui embora!?"
+
+msgid "...."
+msgstr "...."
+
+msgid "No."
+msgstr "Não."
+
+msgid "Cold..."
+msgstr "Frio..."
+
+msgid "So what was in there anyway?"
+msgstr "Então, o que havia ali?"
+
+msgid "Anything fun?"
+msgstr "Qualquer coisa divertida?"
+
+msgid "Yes, very fun."
+msgstr "Sim, muito divertido."
+
+msgid "What? Really??"
+msgstr "O quê? Realmente??"
+
+msgid "What was it?"
+msgstr "O que foi isso?"
+
+msgid "I can't tell you."
+msgstr "Eu não posso te contar."
+
+msgid "Huh?!"
+msgstr "Huh?!"
+
+msgid "Why not??"
+msgstr "Por que não??"
+
+msgid "Because it's more fun that way."
+msgstr "Porque é mais divertido assim."
+
+msgid "No way, don't do me dirty like this!"
+msgstr "De jeito nenhum, não me sacaneie assim!"
+
+msgid "..."
+msgstr "..."
+
+msgid "(It's strange though. Why wasn't he able to enter?)"
+msgstr "(Mas é estranho. Por que ele não conseguiu entrar?)"

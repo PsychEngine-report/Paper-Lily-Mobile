@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "What seems like a trash bag."
+msgstr "Что-то похожее на мусорный мешок."
+
+msgid "It has dust all over."
+msgstr "Он покрыт пылью."
+
+msgid "A wooden crate."
+msgstr "Деревянный ящик."
+
+msgid "A bus. It doesn't seem to have been used in a long time."
+msgstr "Автобус. Похоже, им давно никто не пользовался."
+
+msgid "There's another bus stacked on top of it."
+msgstr "Сверху на него уложен ещё один автобус."
+
+msgid "A broken bus is stacked on top of it."
+msgstr "Сверху на него уложен побитый автобус."
+
+msgid "A keypad."
+msgstr "Кодовая панель."
+
+msgid "It doesn't seem to be working."
+msgstr "Похоже, нерабочая."
+
+msgid "Touch some buttons?"
+msgstr "Потыкать в цифры?"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "The keypad does not respond in any way."
+msgstr "Панель никак не отвечает."
+
+msgid "Looks like a mailbox."
+msgstr "Похоже на почтовые ящики."
+
+msgid "There's no mail right now."
+msgstr "В нём нет почты."
+
+msgid "A small light. It changes colors every few seconds."
+msgstr "Небольшая лампочка. Каждые пару секунд она меняет цвета."
+
+msgid "Strange street signs fill the walls."
+msgstr "По стенам развешаны странные дорожные знаки."
+
+msgid "A garage door."
+msgstr "Дверь от гаража."
+
+msgid "Can I get this open somehow?"
+msgstr "Может, я смогу как-то её открыть?"

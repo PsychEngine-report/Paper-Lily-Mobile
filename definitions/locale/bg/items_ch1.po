@@ -1,0 +1,624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Cellphone"
+msgstr "Клетъчен телефон"
+
+msgid "My personal phone. Hiro bought it for me."
+msgstr "Моят личен телефон. Хиро ми го купи."
+
+msgid "To-Do List"
+msgstr "Списък със Задачи"
+
+msgid "A list of things I want to do before I die."
+msgstr "Списък с нещата, които искам да направя, преди да умра."
+
+msgid "Red Ribbon"
+msgstr "Червена Панделка"
+
+msgid "A soft and silky red ribbon."
+msgstr "Мека и копринена червена панделка."
+
+msgid "Red Thread"
+msgstr "Червена Нишка"
+
+msgid "Some red thread from mother's sewing kit. The color matches my scarf."
+msgstr "Малко червен конец от комплекта за шиене на майка ми. Цветът съвпада с моя шал."
+
+msgid "Red Shoelaces"
+msgstr "Червени връзки за обувки"
+
+msgid "From the shoe rack. Does something like this count?"
+msgstr "От етажерката за обувки. Дали нещо подобно се брои?"
+
+msgid "Red Paint"
+msgstr "Червена Боя"
+
+msgid "A can of red paint. It's dusty."
+msgstr "Кутия с червена боя. Прашна е."
+
+msgid "Bird Food"
+msgstr "Храна за птици"
+
+msgid "All-Natural Non-GMO Certified Organic Bird Food. It's as expensive as it sounds."
+msgstr "Изцяло Натурална Сертифицирана Биологична Храна за птици без ГМО. Тя е толкова скъпа, колкото звучи."
+
+msgid "Red Marker"
+msgstr "Червен Маркер"
+
+msgid "A non-erasable alcohol-based red marker."
+msgstr "Неизтриваем червен маркер на алкохолна основа."
+
+msgid "Lipstick"
+msgstr "Червило"
+
+msgid "Some red lipstick from mother's makeup set. It says \"Crimson Passion\"."
+msgstr "Малко червено червило от комплекта гримове на майка ми. На него пише \"Пурпурна Страст\"."
+
+msgid "Ritual Letter"
+msgstr "Ритуално Писмо"
+
+msgid "The ritual instructions I received."
+msgstr "Ритуалните инструкции които получих."
+
+msgid "Table Salt"
+msgstr "Готварска Сол"
+
+msgid "\"For cooking and baking\". Salt can supposedly ward off spirits and such."
+msgstr "\"За готвене и печене\". Солта вероятно може да прогонва зли духове и подобно."
+
+msgid "Notebook"
+msgstr "Бележник"
+
+msgid "I keep my personal notes and papers I find here."
+msgstr "Тук държа своите лични записки и статии които откривам."
+
+msgid "Rune"
+msgstr "Руна"
+
+msgid "A rune stone I bought from a shady online merchant."
+msgstr "Рунически камък, който купих от съмнителен онлайн търговец."
+
+msgid "A rune stone I found."
+msgstr "Руническия камък, който открих."
+
+msgid "Blue Sign"
+msgstr "Син Знак"
+
+msgid "It says \"Daylight Gate\"."
+msgstr "Гласи \"Дневен портал (Daylight Gate)\"."
+
+msgid "Pack of Chips"
+msgstr "Опаковка Чипс"
+
+msgid "Looks like regular potato chips. The brand is literally called \"Harmless Snack\"."
+msgstr "Изглежда като обикновен чипс. Марката е буквално наречена \"Безвреден Снакс\"."
+
+msgid "Chocolate Bar"
+msgstr "Шоколадово Блокче"
+
+msgid "Looks like a bar of chocolate. The brand is literally called \"Harmless Snack\"."
+msgstr "Изглежда като шоколадово блокче. Марката е буквално наречена \"Безвреден Снакс\"."
+
+msgid "Bug Net"
+msgstr "Мрежа за насекоми"
+
+msgid "A bug net Rune gave me. I don't know what I'll do with it."
+msgstr "Мрежа за насекоми, която Рун ми даде. Не ми я ясно, какво да правя с него."
+
+msgid "Empty Lamp"
+msgstr "Празна Лампа"
+
+msgid "The case of a street lamp. It has nothing inside."
+msgstr "Случаят с уличната лампа. В него няма нищо."
+
+msgid "Lamp with Fireflies"
+msgstr "Лампа със светулки"
+
+msgid "A street lamp full of fireflies."
+msgstr "Улична лампа, пълна със светулки."
+
+msgid "Empty Jar"
+msgstr "Празен буркан"
+
+msgid "A jar with nothing inside."
+msgstr "Буркан с нищо вътре."
+
+msgid "Jar of Fireflies"
+msgstr "Буркан със Светулки"
+
+msgid "A jar full of fireflies."
+msgstr "Буркан, пълен със светулки."
+
+msgid "Bolt Cutter"
+msgstr "Резачка за болтове"
+
+msgid "A bolt cutter Rune gave me. Looks strong."
+msgstr "Резачка за болтове, която Рун ми даде. Изглежда солидна."
+
+msgid "Fish"
+msgstr "Риба"
+
+msgid "A fish thing I purchased from a merchant. I don't think I should eat this."
+msgstr "Риба, която купих от един търговец. Не мисля, че трябва да я ям."
+
+msgid "Jar of Slugs"
+msgstr "Буркан с Плужеци"
+
+msgid "A jar of slugs. Heavy."
+msgstr "Буркан с охлюви. Тежък."
+
+msgid "Stone Curse Notes"
+msgstr "Бележки за Каменното Проклятие"
+
+msgid "Notes explaining a ritual to remove a \"Stone Curse\"."
+msgstr "Бележки, обясняващи ритуал за премахване на \"Каменно проклятие\"."
+
+msgid "Artistic Pot"
+msgstr "Художествена саксия"
+
+msgid "A pot I found. Hopefully it works as a new head for Kozmo."
+msgstr "Намерих едно гърне. Надявам се, че ще послужи като нова глава за Козмо."
+
+msgid "Stone Curse Cure"
+msgstr "Лечение на проклятието на камъка"
+
+msgid "A sort of potion I made. It should cure a simple stone curse."
+msgstr "Направих някаква отвара. Тя трябва да излекува едно простичко каменно проклятие."
+
+msgid "Weird Sculpture"
+msgstr "Странна Скулптура"
+
+msgid "A thing I found. I'm almost a bit ashamed of having to give this to Kozmo."
+msgstr "Това, което намерих. Почти ме е срам, че трябва да го дам на Козмо."
+
+msgid "Teapot-Shaped Head"
+msgstr "Глава във формата на чайник"
+
+msgid "It came off the sculptor. It's empty inside."
+msgstr "Падна от скулптора. Вътре е празна."
+
+msgid "Artist's Flower"
+msgstr "Цветето на художника"
+
+msgid "It came off the sculptor. It smells good."
+msgstr "Падна от скулптора. Ухае приятно."
+
+msgid "Cursed Tree Bark"
+msgstr "Кора на Прокълнато дърво"
+
+msgid "A piece I tore off a tree. Allegedly cursed."
+msgstr "Парче, което откъснах от едно дърво. Предполага се, че е прокълнато."
+
+msgid "Ink Mushrooms"
+msgstr "Мастилени гъби"
+
+msgid "Black mushrooms."
+msgstr "Черни гъби."
+
+msgid "Lit Candle"
+msgstr "Запалена свещ"
+
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "Свещ, която взех от една статуя в къщата на скулптора."
+
+msgid "Unlit Candle"
+msgstr "Незапалена Свещ"
+
+msgid "Blue Candle"
+msgstr "Синя Свещ"
+
+msgid "A candle that the candle person gave to me."
+msgstr "Свещта, която ми подари лицето, занимаващо се със свещи."
+
+msgid "AC Adapter"
+msgstr "AC адаптер"
+
+msgid "A power plug adapter. It converts a 3-prong plug for a 2-prong socket."
+msgstr "Адаптер за захранване. Той преобразува 3-щифтов щепсел в 2-щифтов контакт."
+
+msgid "Scissors"
+msgstr "Ножици"
+
+msgid "A pair of scissors. Pointy!"
+msgstr "Чифт ножици. Заострени!"
+
+msgid "Padlock Key"
+msgstr "Ключ за катинар"
+
+msgid "A key that should open the gate with the warning sign."
+msgstr "Ключ, който трябва да отвори портата с предупредителния знак."
+
+msgid "Caterpillar"
+msgstr "Гъсеница"
+
+msgid "The moths asked me to get rid of him for a reward."
+msgstr "Молците ме помолиха да се отърва от него срещу възнаграждение."
+
+msgid "Treasure Hunter's Letter"
+msgstr "Писмо на Ловеца на съкровища"
+
+msgid "A letter I found under a statue."
+msgstr "Писмо, което намерих под статуя."
+
+msgid "Treasure Hunter's Note 1"
+msgstr "Бележка на Търсача на съкровища 1"
+
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Бележка, която намерих. В нея се говори за заключен обект."
+
+msgid "Treasure Hunter's Note 2"
+msgstr "Бележка на Търсача на съкровища 2"
+
+msgid "Treasure Hunter's Note 3"
+msgstr "Бележка на Търсача на съкровища 3"
+
+msgid "Treasure Hunter's Note 4"
+msgstr "Бележка на Търсача на съкровища 4"
+
+msgid "Secret Passage Code"
+msgstr "Код на Тайния проход"
+
+msgid "Contains the code to open the secret passage under Red's house."
+msgstr "Съдържа кода за отваряне на тайния проход под къщата на Ред."
+
+msgid "Boat Paddle"
+msgstr "Гребло за лодка"
+
+msgid "Perfect for rowing a boat."
+msgstr "Идеално за гребане на лодка."
+
+msgid "Injured Bunny"
+msgstr "Наранено Зайче"
+
+msgid "It couldn't run away, so now it's in my inventory. Looks like it has a broken leg."
+msgstr "Не може да избяга, тъй че сега е в моят инвентар. Изглежда че има счупен крак."
+
+msgid "Lavender Flower"
+msgstr "Лавандулово цвете"
+
+msgid "Smells like laundry."
+msgstr "Мирише на пране."
+
+msgid "Goldfish"
+msgstr "Златна рибка"
+
+msgid "Dead Goldfish"
+msgstr "Мъртва Златна рибка"
+
+msgid "Might have been better off where it was."
+msgstr "Май щеше да е по-добре да е там, където е."
+
+msgid "Black Algae"
+msgstr "Черно водорасло"
+
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Няколко водорасли, които лових от дъното на езерото."
+
+msgid "Blue Algae"
+msgstr "Синьо Водорасло"
+
+msgid "Green Algae"
+msgstr "Зелено Водорасло"
+
+msgid "Pink Petals"
+msgstr "Розови листенца"
+
+msgid "Some flower petals I found."
+msgstr "Няколко листенца от цветя, които намерих."
+
+msgid "Purple Petals"
+msgstr "Лилави Цветчета"
+
+msgid "White Petals"
+msgstr "Бели Цветчета"
+
+msgid "Handle (Square)"
+msgstr "Дръжка (квадратна)"
+
+msgid "A purple handle for a valve mechanism. The protrusion is square-shaped."
+msgstr "Лилава дръжка за клапанния механизъм. Изпъкналата част е с квадратна форма."
+
+msgid "Handle (Pentagon)"
+msgstr "Дръжка (петоъгълник)"
+
+msgid "A red handle for a valve mechanism. The protrusion is pentagon-shaped."
+msgstr "Червена дръжка за клапанния механизъм. Изпъкналата част е с петоъгълна форма."
+
+msgid "Handle (Star)"
+msgstr "Дръжка (звезда)"
+
+msgid "A yellow handle for a valve mechanism. The protrusion is shaped like a 5-point star."
+msgstr "Жълта дръжка за клапанния механизъм. Изпъкналата част е оформена като 5-лъчева звезда."
+
+msgid "Handle (Diamond)"
+msgstr "Дръжка (диамантена)"
+
+msgid "A white handle for a valve mechanism. The protrusion is diamond-shaped."
+msgstr "Бяла дръжка за клапанния механизъм. Изпъкналата част е с ромбовидна форма."
+
+msgid "Fuse (5)"
+msgstr "Предпазител (5)"
+
+msgid "Fuse (10)"
+msgstr "Предпазител (10)"
+
+msgid "Fuse (15)"
+msgstr "Предпазител (15)"
+
+msgid "Fuse (20)"
+msgstr "Предпазител (20)"
+
+msgid "Fuse (25)"
+msgstr "Предпазител (25)"
+
+msgid "Fuse (40)"
+msgstr "Предпазител (40)"
+
+msgid "_____"
+msgstr "_____"
+
+msgid "It's sharp."
+msgstr "Остро е."
+
+msgid "Iron Key"
+msgstr "Железен ключ"
+
+msgid "A fairly large metallic key."
+msgstr "Доста голям метален ключ."
+
+msgid "Copper Key"
+msgstr "Меден ключ"
+
+msgid "A regular key. It probably opens a door somewhere."
+msgstr "Обикновен ключ. Навярно отваря врата някъде."
+
+msgid "Bucket"
+msgstr "Кофа"
+
+msgid "A metallic bucket. It can transport various liquid substances."
+msgstr "Метална кофа. В нея могат да се пренасят различни течни вещества."
+
+msgid "Bucket of Water"
+msgstr "Кофа с вода"
+
+msgid "A bucket full of water. It's heavy."
+msgstr "Кофа, пълна с вода. Тежко е."
+
+msgid "Bucket of Special Water"
+msgstr "Кофа със Специална вода"
+
+msgid "A bucket full of water. It comes from a special faucet in the forest."
+msgstr "Кофа, пълна с вода. Тя идва от специална чешма в гората."
+
+msgid "Flat Screwdriver"
+msgstr "Плоска отвертка"
+
+msgid "A simple screwdriver."
+msgstr "Обикновена отвертка."
+
+msgid "Coin"
+msgstr "Монета"
+
+msgid "A coin that's not quite like the ones back home."
+msgstr "Монета, която не прилича на тези у дома."
+
+msgid "Return Doorknob"
+msgstr "Дръжка за Връщане"
+
+msgid "Apparently, this is my ticket back home. I purchased it online."
+msgstr "Очевидно това е билетът ми за връщане у дома. Купих го онлайн."
+
+msgid "Doorknob With Flower"
+msgstr "Дръжка за врата с Цвете"
+
+msgid "A doorknob. I found this lying around."
+msgstr "Дръжка за врата. Открих я да лежи наоколо."
+
+msgid "Doorknob Fragment"
+msgstr "Фрагмент от дръжка за врата"
+
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "Парчета от дръжка за врата. Не мога да ги сглобя сама."
+
+msgid "Gray Doorknob"
+msgstr "Сива дръжка за врата"
+
+msgid "A doorknob. It has the same symbol as my letter."
+msgstr "Дръжка за врата. Има същия символ като моето писмо."
+
+msgid "White Doorknob"
+msgstr "Бяла дръжка за врата"
+
+msgid "A doorknob. It looks like a white lily."
+msgstr "Дръжка за вратата. Прилича на бяла лилия."
+
+msgid "Doorknob With Eye"
+msgstr "Дръжка за врата с око"
+
+msgid "A doorknob I got from the moths. Can probably be used at that door with the slots."
+msgstr "Дръжка за врата, която взех от молците. Вероятно може да се използва за онази врата с прорезите."
+
+msgid "Paper Lily Folding Steps"
+msgstr "Стъпки за сгъване на хартиена лилия"
+
+msgid "Instructions detailing how to fold a piece of paper to look like a lily flower."
+msgstr "Инструкции как да сгънете лист хартия, за да прилича на цвете лилия."
+
+msgid "Facility Map"
+msgstr "Карта на съоръжението"
+
+msgid "A map of the facility, drawn by someone."
+msgstr "Карта на съоръжението, нарисувана от някого."
+
+msgid "Black Knife"
+msgstr "Черен нож"
+
+msgid "A fully black knife. It's still very sharp."
+msgstr "Изцяло черен нож. Все още е много остър."
+
+msgid "Knife"
+msgstr "Нож"
+
+msgid "A knife."
+msgstr "Един нож."
+
+msgid "Human Foot"
+msgstr "Човешки Крак"
+
+msgid "A foot that used to belong to someone."
+msgstr "Крак, който е принадлежал на някого."
+
+msgid "Sketchbook"
+msgstr "Скицник"
+
+msgid "A sketchbook full of colors you splattered all over it."
+msgstr "Скицник, пълен с цветове, които сте размазали по него."
+
+msgid "Black Object"
+msgstr "Черен Предмет"
+
+msgid "An unknown circular object that's fully black. Feels like wood and glass."
+msgstr "Неизвестен кръгъл обект, който е изцяло черен. Усеща се като дърво и стъкло."
+
+msgid "Hand Mirror"
+msgstr "Ръчно огледало"
+
+msgid "A wooden hand mirror."
+msgstr "Дървено ръчно огледало."
+
+msgid "An unknown object that's fully black. Feels like a piece of fabric."
+msgstr "Непознат обект, който е изцяло черен. Усеща се като парче плат."
+
+msgid "Cold Compress"
+msgstr "Студен компрес"
+
+msgid "A wet rag."
+msgstr "Мокър парцал."
+
+msgid "Eyeball"
+msgstr "Очна ябълка"
+
+msgid "An eyeball. The owner seems to have had golden eyes."
+msgstr "Една очна ябълка. Собственикът изглежда е имал златни очи."
+
+msgid "Small Key"
+msgstr "Малък Ключ"
+
+msgid "A small key. Looks like it could belong to a padlock or something similar."
+msgstr "Малък ключ. Изглежда, че може да принадлежи на катинар или нещо подобно."
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "A key for something."
+msgstr "Ключ за нещо си."
+
+msgid "Glass Jar"
+msgstr "Стъклен буркан"
+
+msgid "A small glass jar. I found 3 of them."
+msgstr "Малък стъклен буркан. Намерих 3 от тях."
+
+msgid "Jar of Water"
+msgstr "Буркан с Вода"
+
+msgid "A small glass jar full of water."
+msgstr "Малък стъклен буркан, пълен с вода."
+
+msgid "Jar of Red Pigment"
+msgstr "Буркан с Червен пигмент"
+
+msgid "A small glass jar with red pigment. Needs water."
+msgstr "Малък стъклен буркан с червен пигмент. Нуждае се от вода."
+
+msgid "Jar of Yellow Pigment"
+msgstr "Буркан с Жълт пигмент"
+
+msgid "A small glass jar with yellow pigment. Needs water."
+msgstr "Малък стъклен буркан с жълт пигмент. Нуждае се от вода."
+
+msgid "Jar of Blue Pigment"
+msgstr "Буркан със Син пигмент"
+
+msgid "A small glass jar with blue pigment. Needs water."
+msgstr "Малък стъклен буркан със син пигмент. Нуждае се от вода."
+
+msgid "Jar of Red Paint"
+msgstr "Буркан с Червена Боя"
+
+msgid "A small glass jar with red paint."
+msgstr "Малък стъклен буркан с червена боя."
+
+msgid "Jar of Yellow Paint"
+msgstr "Буркан с Жълта боя"
+
+msgid "A small glass jar with yellow paint."
+msgstr "Малък стъклен буркан с жълта боя."
+
+msgid "Jar of Blue Paint"
+msgstr "Буркан със Синя боя"
+
+msgid "A small glass jar with blue paint."
+msgstr "Малък стъклен буркан със синя боя."
+
+msgid "Lighter"
+msgstr "Запалка"
+
+msgid "A lighter."
+msgstr "Една запалка."
+
+msgid "Lock Pick"
+msgstr "Шперц"
+
+msgid "A lock pick. I don't know how to use this..."
+msgstr "Шперц за ключалки. Не знам как да го използвам…"
+
+msgid "Rainbow Potion"
+msgstr "Дъгова отвара"
+
+msgid "A strange potion. I wonder what it does..."
+msgstr "Странна отвара. Чудя се какво ли прави…"
+
+msgid "Temp. Rainbow Potion"
+msgstr "Температура. Дъгова отвара"
+
+msgid "A strange potion that Spider directed me to. It has a shorter duration than the original one."
+msgstr "Странна отвара, към която ме насочи Паяче. Тя е с по-кратка продължителност от оригиналната."
+
+msgid "Lily"
+msgstr "Лилия"
+
+msgid "A lily. I'm supposed to bring it home with me."
+msgstr "Лилия. Трябваше да я взема със себе си вкъщи."
+
+msgid "Flower"
+msgstr "Цвете"
+
+msgid "Sewing Kit"
+msgstr "Шивашки комплект"
+
+msgid "Cabbage"
+msgstr "Зеле"
+
+msgid "Red Item I"
+msgstr "Червен артикул I"
+
+msgid "A red item. I can't tell what it is."
+msgstr "Червен предмет. Не мога да разбера какво е това."
+
+msgid "Red Item II"
+msgstr "Червен артикул II"
+
+msgid "Red Item III"
+msgstr "Червен артикул III"

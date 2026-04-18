@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "...This door doesn't seem to open."
+msgstr "...Bu kapı açılmıyor gibi görünüyor."
+
+msgid "So I AM trapped here after all, just not in that tiny cell."
+msgstr "Yani sonuçta burada mahsur kaldım, o küçücük hücrede değil."
+
+msgid "I suppose that's less bad..."
+msgstr "Sanırım böylesi daha iyi..."
+
+msgid "Alright, vent it is."
+msgstr "Pekala, havalandırma bu."
+
+msgid "Let's hope there's another way out."
+msgstr "Umalım ki başka bir çıkış yolu olsun."
+
+msgid "The door won't open."
+msgstr "Kapı açılmıyor."
+
+msgid "Looks like human bones."
+msgstr "İnsan kemikleri gibi gözüküyor."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_cell_1.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open. Something seems to be holding it from the other side."
+msgstr "Açılmıyor. Bir şey öbür taraftan tutuyor olmalı."
+
+msgid "\"Subject 66. Age: 38. Sex: Female. Status: Incapacitated. Extraction scheduled. Priority: Medium.\""
+msgstr "\"Denek 66. Yaş: 38. Cinsiyet: Kadın. Durum: Mahrum bırakılmış. Çıkarma planlandı. Öncelik: Orta.\""
+
+msgid "That's not me. Someone else must've been kept in here."
+msgstr "Bu ben değilim. Başka biri burada tutulmuş olmalı."
+
+msgid "It was just... open?"
+msgstr "Kapı sadece... açıktı?"
+
+msgid "\"Subject 41. Age: 53. Sex: Male. Status: Incapacitated. Extraction scheduled. Priority: Low.\""
+msgstr "\"Denek 41. Yaş: 53. Cinsiyet: Erkek. Durum: Mahrum bırakılmış. Çıkarma planlandı. Öncelik: Düşük.\""
+
+msgid "\"Subject 37. Age: 13. Sex: Male. Status: Incapacitated. Extraction on hold. Awaiting further results. Follow-up tests scheduled. Priority: High.\""
+msgstr "\"Denek 37. Yaş: 13. Cinsiyet: Erkek. Durum: Mahrum bırakılmış. Çıkarma işlemi beklemede. Daha fazla sonuç bekleniyor. Takip testleri planlandı. Öncelik: Yüksek.\""
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_cell_5.dlg.narrator"
+msgid "..."
+msgstr "..."
+
+msgid "It doesn't open anymore. Something seems to be holding it from the other side."
+msgstr "Artık açılmıyor. Bir şey öbür taraftan tutuyor olmalı."
+
+msgid "These are my things... most of it anyway."
+msgstr "Bunlar benim eşyalarım... en azından çoğu öyle."
+
+msgid "I hadn't even noticed I had lost them."
+msgstr "Onları kaybettiğimi farketmedim bile."
+
+msgid "Why are they here...?"
+msgstr "Neden buradalar...?"
+
+msgid "(You got your items back.)"
+msgstr "(Eşyalarını geri aldın.)"
+
+msgid "There's nothing else on the desk."
+msgstr "Masada başka bir şey yok."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_desk_left.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "Çekmeceler boş."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.misc_desk_right.dlg.narrator"
+msgid "The drawers are empty."
+msgstr "Çekmeceler boş."
+
+msgid "A huge hole."
+msgstr "Kocaman bir delik."
+
+msgid "I hope the floor is stable..."
+msgstr "Umarım zemin sağlamdır..."
+
+msgid "This vent is suspicious."
+msgstr "Bu havalandırma şüpheli."
+
+msgid "Maybe I could escape through here?"
+msgstr "Belki buradan kaçabilirim?"
+
+msgid "It's almost like it's inviting me in."
+msgstr "Sanki beni içeri çağırıyor gibi."
+
+msgid "It's too high to reach."
+msgstr "Ulaşmak için çok yüksek."
+
+msgid "Wait, there's something on the desk."
+msgstr "Bekle, masada bir şey var."
+
+msgid "Climb the box and remove the vent cover?"
+msgstr "Kutuya çık ve havalandırmanın kapağını aç?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Climb the box and remove the vent cover?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Climb the box and remove the vent cover?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "Crawl into the vents?"
+msgstr "Havalandırmaya gir?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Crawl into the vents?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Crawl into the vents?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "No... at that point, it would just be silly."
+msgstr "Hayır... bu noktada, bu sadece aptalca olurdu."
+
+msgid "That guy is waiting for me outside..."
+msgstr "O çocuk dışarıda beni bekliyor."
+
+msgid "If I go through here right now, it would take him a while to realize I left."
+msgstr "Şimdi buradan geçersem, gittiğimi farketmesi zaman alır."
+
+msgid "I could get rid of him that way, I think."
+msgstr "Böylece ondan kurtulabilirim, sanırım."
+
+msgid "Go through the vent and leave Sai behind?"
+msgstr "Sai'yi geride bırakıp havalandırmaya gir?"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Go through the vent and leave Sai behind?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.choice.Go through the vent and leave Sai behind?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "No... that would probably be pretty rude."
+msgstr "Hayır... bu muhtemelen çok kaba olurdu."
+
+msgctxt "events.Ch1_Facility_B2F_Dungeon_1.move_climb.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Having fun?"
+msgstr "Eğleniyor musun?"
+
+msgid "...Yep, plenty."
+msgstr "...Evet, çok."
+
+msgid "Let's go then?"
+msgstr "Gidelim o zaman?"
+
+msgid "Safe!"
+msgstr "Tamam!"
+
+msgid "(Sai joined your party.)"
+msgstr "(Sai partine katıldı.)"

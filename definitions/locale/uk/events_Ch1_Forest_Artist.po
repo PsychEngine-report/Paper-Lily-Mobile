@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "These flowers seem to belong here... but..."
+msgstr "Ці квіти начебто й повинні тут бути... але..."
+
+msgid "It would serve no purpose to plant them."
+msgstr "Немає жодної причини їх тут саджати."
+
+msgid "That would be terrible."
+msgstr "Було б прикро це робити."
+
+msgid "A large pile of rubble."
+msgstr "Велика купа брухту."
+
+msgid "What is this material? Clay?"
+msgstr "Що це за матеріал? Глина?"
+
+msgid "There's nothing else of interest."
+msgstr "Тут немає більше нічого цікавого."
+
+msgid "Seems like someone has dug here recently."
+msgstr "Схоже, не так давно тут хтось копав."
+
+msgid "Check it out?"
+msgstr "Перевірити, що тут?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "A set of colorful flowers."
+msgstr "Ряд кольорових квітів."
+
+msgid "A cactus among a set of colorful flowers."
+msgstr "Серед кольорових квітів росте кактус."
+
+msgid "There seems to be something hidden inside the pot."
+msgstr "Схоже, що в горщику щось лежить."
+
+msgid "Take ${item:ch1.forest_lockedsite_key}?"
+msgstr "Взяти предмет: ${item:ch1.forest_lockedsite_key}?"
+
+msgid "(You don't need that key, so it was discarded.)"
+msgstr "(Вам не потрібен цей ключ, тому ви його скинули.)"
+
+msgid "There's also a note under the pot."
+msgstr "Під горщиком лежить записка."
+
+msgid "An artistic pot."
+msgstr "Вишуканий горщик."
+
+msgid "This could work for Kozmo."
+msgstr "Його можна принести Козмо."
+
+msgid "Take ${item:ch1.forest_pot}?"
+msgstr "Взяти предмет: ${item:ch1.forest_pot}?"
+
+msgid "A strange looking... vase? In the shape of a... hand?"
+msgstr "Дуже дивна... ваза? Вона схожа на... руку?"
+
+msgid "A pile of rubble."
+msgstr "Купа брухту."

@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Blue paint."
+msgstr "青いペンキ。"
+
+msgid "A large stone pillar."
+msgstr "大きな石の柱。"
+
+msgid "A pile of rubble."
+msgstr "がれきの山。"
+
+msgctxt "events.Ch1_Artist_2F.misc_sculpture.dlg.narrator"
+msgid "A strange sculpture."
+msgstr "奇妙な彫刻。"
+
+msgctxt "events.Ch1_Artist_2F.misc_sculpture_2.dlg.narrator"
+msgid "A strange sculpture."
+msgstr "奇妙な彫刻。"
+
+msgid "This one looks kind of cute."
+msgstr "これはちょっと可愛いかも。"
+
+msgid "Worn art supplies are gathering dust here."
+msgstr "使い古した美術用品がほこりを被っている。"
+
+msgid "Take ${item:ch1.forest_jar_empty}?"
+msgstr "${item:ch1.forest_jar_empty} を取る？"
+
+msgid "Yes"
+msgstr "取る"
+
+msgid "No"
+msgstr "取らない"
+
+msgid "A strange vase with even stranger contents."
+msgstr "奇妙な花瓶と、いっそう奇妙な中身。"

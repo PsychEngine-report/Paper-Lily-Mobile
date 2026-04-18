@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "Empty the ${item:ch1.bucket_full}?"
+msgstr "Opróżnić ${item:ch1.bucket_full}?"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Empty the ${item:ch1.bucket_full_holy}?"
+msgstr "Opróżnić ${item:ch1.bucket_full_holy}?"
+
+msgid "The faucet isn't working."
+msgstr "Nic z niego nie leci."
+
+msgid "Fill up the ${item:ch1.bucket}?"
+msgstr "Napełnić ${item:ch1.bucket_full}?"
+
+msgid "There's a boat paddle here."
+msgstr "Leży tu wiosło."
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "Zabrać ${item:ch1.forest_paddles}?"
+
+msgid "I don't think this is where I'm supposed to put them..."
+msgstr "Chyba nie tutaj powinnam je wrzucać..."
+
+msgid "The note said something about a \"little keeper\"...?"
+msgstr "Na tej kartce było coś o \"małym opiekunie\"...?"
+
+msgid "There's a faucet coming out of the water."
+msgstr "Z wody wystaje kran."
+
+msgid "Turn it on?"
+msgstr "Odkręcić go?"
+
+msgid "Nothing is coming out of the faucet."
+msgstr "Z kranu nic teraz nie leci."
+
+msgid "The water flows freely from the faucet."
+msgstr "Z kranu obficie leje się woda."
+
+msgid "Something's floating near the stream..."
+msgstr "Coś unosi się koło strumienia…"
+
+msgid "Take ${item:ch1.doorknob_library_fragment}?"
+msgstr "Wyłowić ${item:ch1.doorknob_library_fragment}?"
+
+msgid "Pink water lilies can be seen."
+msgstr "Rośnie tu kilka lilii wodnych. Mają różowe kwiaty."
+
+msgid "Take some ${item:ch1.lakeside_petals_pink}?"
+msgstr "Zebrać ${item:ch1.lakeside_petals_pink}?"
+
+msgid "A structure housing a lamp."
+msgstr "Lampa dekoracyjna."
+
+msgid "The water is calm."
+msgstr "Cicha, spokojna woda."
+

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't have the brain power for this right now."
+msgstr "今はこれを解けるほど頭が回ってない。"
+
+msgid "You know... I could just jump over those boxes and get you the thingy."
+msgstr "うーん……俺なら箱を跳び越えて取ってこれるぜ。"
+
+msgid "Still not interested?"
+msgstr "まだその気にならないか？"
+
+msgid "Ask Sai to get the shiny?"
+msgstr "サイにキラキラを取ってきてもらう？"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.event_react_fail_puzzle.choice.Ask Sai to get the shiny?"
+msgid "Yes"
+msgstr "そうする"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.event_react_fail_puzzle.choice.Ask Sai to get the shiny?"
+msgid "No"
+msgstr "やめておく"
+
+msgid "Alright... knock yourself out."
+msgstr "わかった……好きにして。"
+
+msgid "Be right back!"
+msgstr "すぐ戻る！"
+
+msgid "Moments later..."
+msgstr "数瞬後……"
+
+msgid "Easy peasy."
+msgstr "ちょろかった。"
+
+msgid "Still not interested."
+msgstr "まだその気にならない。"
+
+msgid "No, I want to do it myself."
+msgstr "いや、自分でやりたい。"
+
+msgid "The key fits!"
+msgstr "鍵が合った！"
+
+msgid "Nothing happens."
+msgstr "何も起こらない。"
+
+msgid "An elevator door."
+msgstr "エレベーターの扉。"
+
+msgid "There's a massive gap on the floor. You can't reach the door."
+msgstr "床に大きな穴があり、ドアに届かない。"
+
+msgid "The plank allows you to cross freely."
+msgstr "板のおかげで自由に渡れる。"
+
+msgid "I've seen another hole that could use a plank like this..."
+msgstr "こういう板を使えそうな穴を他のところで見かけた……"
+
+msgid "Move the plank to the other hole?"
+msgstr "板をもうひとつの穴へ運ぶ？"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.misc_unreachable_door.choice.Move the plank to the other hole?"
+msgid "Yes"
+msgstr "運ぶ"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.misc_unreachable_door.choice.Move the plank to the other hole?"
+msgid "No"
+msgstr "運ばない"
+
+msgid "Uugh... This is really heavy..."
+msgstr "うぐぐ……すごく重い……"
+
+msgid "Hey, let me carry that."
+msgstr "俺が運ぶよ。"
+
+msgid "Since you removed the plank, you can't cross anymore."
+msgstr "板を取り去ったので、もう渡ることはできない。"
+
+msgid "It's locked."
+msgstr "鍵がかかっている。"

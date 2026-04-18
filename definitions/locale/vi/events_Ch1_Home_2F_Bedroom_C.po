@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There are colored thread rolls inside."
+msgstr "Có mấy cuộn chỉ màu bên trong."
+
+msgid "The red thread may be useful."
+msgstr "Chỉ màu đỏ đây có khi là xài được."
+
+msgid "Take ${item:ch1.thread}?"
+msgstr "Lấy ${item:ch1.thread} chứ?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "My parents' bed."
+msgstr "Chiếc giường của ba mẹ."
+
+msgid "A bookshelf with complicated books."
+msgstr "Giá sách với mấy cuốn sách phức tạp rắc rối."
+
+msgid "Black... Black... No red markers here."
+msgstr "Đen... Đen... Đây không có bút dạ đỏ."
+
+msgid "Maybe in my room?"
+msgstr "Có khi trong phòng mình chăng?"
+
+msgid "Maybe downstairs?"
+msgstr "Có khi dưới nhà chăng?"
+
+msgid "A classic alarm clock."
+msgstr "Cái đồng hồ báo thức kiểu cổ điển."
+
+msgid "Father doesn't trust the alarm app."
+msgstr "Ba không tin dùng app báo thức."
+
+msgid "A computer chair."
+msgstr "Ghế ngồi máy tính."
+
+msgid "A computer chair. Yours is better."
+msgstr "Ghế ngồi máy tính. Của bạn xịn hơn nhiều."
+
+msgid "An older computer."
+msgstr "Chiếc máy tính đời cũ."
+
+msgid "It's mostly for spreadsheets, so you can't game on it."
+msgstr "Chủ yếu là dùng làm bảng tính, nên không có chơi game được."
+
+msgid "A plant."
+msgstr "Cái cây."
+
+msgid "A plant. We have several like this one."
+msgstr "Cái cây. Nhà mình có mấy cây giống cây này."
+
+msgid "A sewing kit."
+msgstr "Bộ kim chỉ."
+
+msgid "A shelf with nothing of interest."
+msgstr "Cái kệ nhưng mà chẳng có gì hấp dẫn hết."
+
+msgid "The wardrobe. It doesn't close well anymore."
+msgstr "Chiếc tủ quần áo. Cánh tủ không đóng chặt được nữa."
+
+msgid "Something is written on the door:"
+msgstr "Trên cánh cửa có viết cái gì đó:"
+
+msgid "\"The wardrobe is stuffy, isn't it? You almost can't breathe in there."
+msgstr "\"Tủ quần áo ngột ngạt nhể? Trong đây hầu như không thở nổi."
+
+msgid "You almost stopped breathing. Take a deep breath, Lacie.\""
+msgstr "Mày tí nữa dừng thở rồi. Hít hơi sâu vào đi, Lacie.\""
+
+msgid "Open it?"
+msgstr "Mở ra chứ?"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "Yes"
+msgstr "Mở ra"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A cold breeze blows from inside."
+msgstr "Từ bên trong lùa ra làn gió lạnh."
+
+msgid "There's a few clothes inside."
+msgstr "Có vài bộ đồ bên trong."

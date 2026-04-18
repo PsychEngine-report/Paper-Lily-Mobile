@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The little girl is swaying slowly."
+msgstr "Дівчинка повільно гойдається зі сторони в сторону."
+
+msgid "Hello."
+msgstr "Привіт."
+
+msgid "..."
+msgstr "..."
+
+msgid "Um.... What do you do here?"
+msgstr "Ем... А чим ти тут займаєшся?"
+
+msgid "...!"
+msgstr "!.."
+
+msgid "Is she... giving me something?"
+msgstr "Вона... намагається щось мені дати?"
+
+msgid "Oh... Thank you."
+msgstr "О... Дякую."
+
+msgid "I guess."
+msgstr "...мабуть."
+
+msgid "(The shadow girl happily takes the bunny off your hands.)"
+msgstr "(Тіньова дівчинка з радістю забирає у вас кролика.)"
+
+msgid "(The shadow girl lovingly takes the caterpillar from you.)"
+msgstr "(Тіньова дівчинка з радістю забирає у вас гусінь.)"
+
+msgid "(The shadow girl happily accepts the fireflies.)"
+msgstr "(Тіньова дівчинка з радістю забирає у вас світлячків.)"
+
+msgid "(The shadow girl takes the fragment and looks up at you.)"
+msgstr "(Тіньова дівчинка забирає у вас відламок, після чого дивиться на вас.)"
+
+msgid "...? ...?"
+msgstr "?.. ?.."
+
+msgid "Oh... I don't have any more pieces than that one..."
+msgstr "Ой... у мене є тільки ось ця частинка..."
+
+msgid "... ..."
+msgstr "… ..."
+
+msgid "(The shadow girl returns the fragment to you with a sad expression.)"
+msgstr "(Тіньова дівчинка із сумом повертає вам відламок.)"
+
+msgid "(The shadow girl takes the fragments from you.)"
+msgstr "(Тіньова дівчинка забирає у вас відламки.)"
+
+msgid "(After a few seconds, she returns them to you.)"
+msgstr "(Через кілька секунд вона повертає їх вам.)"
+
+msgid "Oh... I'm still missing a piece, am I not...?"
+msgstr "Ой... невже мені не вистачає відламків?.."
+
+msgid "Sorry for bothering you."
+msgstr "Вибач, що забрала твій час."
+
+msgid "(With some effort, she fits them together and returns them to you.)"
+msgstr "(Вона доклала зусиль та склала їх до купи, після чого повернула вам.)"
+
+msgid "Thank you, I appreciate it."
+msgstr "Велике тобі спасибі."
+
+msgid "Various colorful liquids and drinks are stored on the shelf."
+msgstr "На полицях є різноманітні барвисті рідини та напої."
+
+msgid "Some papers with opening hours and upcoming shop discounts."
+msgstr "Оголошення, на яких написані часи роботи магазину та майбутні знижки."
+
+msgid "There's a... shadow of a girl sitting on the other side of the desk."
+msgstr "По той бік прилавка сидить... тіньова дівчинка."
+
+msgid "She doesn't seem much for conversation."
+msgstr "Вона не дуже охоча до розмов."
+
+msgid "\"CLOSED. DO NOT ENTER\" is marked on the sign."
+msgstr "Тут написано: \"ЗАЧИНЕНО. ВХІД ЗАБОРОНЕНО\"."
+
+msgid "The door is locked."
+msgstr "Двері зачинені."

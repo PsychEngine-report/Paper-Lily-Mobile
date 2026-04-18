@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "Hm...? Çalışmıyor mu?"
+
+msgid "Those two thingies look burnt."
+msgstr "Şu iki şey yanmış gibi görünüyor."
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "Ah, iki sigorta atmış. Ne kadar da şaşırtıcı."
+
+msgid "Let's throw this damaged fuse away."
+msgstr "Bu hasarlı sigortayı atalım."
+
+msgid "Why? Just use it as a zero or something."
+msgstr "Neden? Bunu sıfır veya başka bir şey olarak kullanın."
+
+msgid "No... that's really not how fuses work."
+msgstr "Hayır... sigortalar bu şekilde çalışmıyor.."
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "Kırık bir sigorta devreyi tamamlamaz."
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "Anlıyorum... yani onu kaldırırsan sıfır mı olur?"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "Hayır... bu sadece... aynı zamanda devreyi de tamamlamayacak. Sıfır yapamazsın"
+
+msgid "Just... leave this to me, okay?"
+msgstr "Sadece..bunu bana bırak,Tamam?"
+
+msgid "Roger!"
+msgstr "Marş marş!"
+
+msgid "You hear something unlocking in the distance."
+msgstr "Uzaktan bir şeyin kilidinin açıldığını duyuyorsun"
+
+msgid "What? I didn't hear anything."
+msgstr "Ne? ben birşey duymadım."
+
+msgid "...You're breaking my immersion."
+msgstr "...bakışımı bozuyorsun."
+
+msgid "What in the world was that?"
+msgstr "Bu neydi lan böyle?"
+
+msgid "Can't say I didn't warn you."
+msgstr "Seni uyarmadığımı söyleyemem."
+
+msgid "Wait."
+msgstr "Bekle."
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "Bunu çıkarmak gerçekten kötü bir fikir olabilir."
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "Bunun gibi kapıları daha önce gördüm. Sanırım onları açmak istediğimizi sanmıyorum."
+
+msgid "I see..."
+msgstr "Anladım..."
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Belki daha iyi bir yol vardır?)"
+
+msgid "Do you think the elevator works now?"
+msgstr "Asansörün şimdi çalıştığını düşünüyor musun?"
+
+msgid "Ah, that's satisfying."
+msgstr "Ah, bu tatmin edici."
+
+msgid "Good job!"
+msgstr "Eline sağlık!"
+
+msgid "That sounded pretty big."
+msgstr "Bu çok büyük geldi."
+
+msgid "Let's check the water level."
+msgstr "Su seviyesini kontrol edelim."
+
+msgid "There's already a handle there."
+msgstr "Orada zaten bir tutamaç var."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.event_handle_on_wrong_valve.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Kolu yuvaya yerleştirmeye çalışıyorsun..."
+
+msgid "But it doesn't fit."
+msgstr "Ama sığmıyor."
+
+msgid "The lights... ah... not nice."
+msgstr "Işıklar... ah... iyi değil."
+
+msgid "Why doesn't this work?"
+msgstr "Bu niye çalışmıyo?"
+
+msgid "We probably need to fill all four slots."
+msgstr "Muhtemelen dört yuvayı da doldurmamız gerekiyor"
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "Aksi halde içerideki şey temas etmeyecektir."
+
+msgid "Right, contact."
+msgstr "Doğru, temas."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_1.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Tutamacı yuvaya yerleştiriyorsun."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Tutamacı yuvaya yerleştirmeye çalışıyorsun..."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_1_on_valve_4.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Yuvaya sığdı!"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "Elbette elmas sadece döndürülmüş bir kare."
+
+msgid "Yep."
+msgstr "Hee."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_2_on_valve_2.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Tutamacı yuvaya yerleştiriyorsun."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Tutamacı yuvaya yerleştirmeye çalışıyorsun..."
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "Ne yapıyorsun? Şekiller uyuşmuyor?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_2.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Tutamaç sığdı!"
+
+msgid "...Huh."
+msgstr "...Huh."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_3_on_valve_3.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Tutamacı yuvaya yerleştiriyorsun."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "You try to fit the handle in the slot..."
+msgstr "Tutamacı yuvaya yerleştirmeyi deniyorsun."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_1.dlg.narrator"
+msgid "The handle fits!"
+msgstr "Tutamaç sığdı!"
+
+msgid "Are you switching them around...?"
+msgstr "Onları değiştiriyor musun?..."
+
+msgid "I'm just trying things."
+msgstr "sadece birşeyler deniyorum."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.item_handle_4_on_valve_4.dlg.narrator"
+msgid "You place the handle in the slot."
+msgstr "Tutamacı yuvaya yerleştiriyorsun."
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "Ağır bir varil. Haraket ettiremiyorsun."
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "Varil üzerinde bir vana sapı ve bir anahtar var."
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "${item:ch1.facility_handle_square} ve ${item:ch1.facility_key_archives} alacak mısın?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "Yes"
+msgstr "Evet."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_barrel_1.choice.Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgid "No"
+msgstr "Hayır."
+
+msgid "Some sort of machine."
+msgstr "Bir tür makine."
+
+msgid "It's whirring loudly."
+msgstr "Gürültülü bir şekilde uğulduyor."
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "Bazı büyük dolaplar. Muhtemelen içeriye bile sığabilirsin."
+
+msgid "There's something in here..."
+msgstr "İçerde bir şey var..."
+
+msgid "There's nothing else of use."
+msgstr "Kullanılabilir bir şey yok."
+
+msgid "A large machine attached to some pipes."
+msgstr "Borulara bağlı büyük bir makine."
+
+msgid "There's a note here:"
+msgstr "Burada bir not var:"
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "\"Acil Durumlarda - Drenaj ve Su Basma Sistemi"
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "Drenaj sisteminin çalışabilmesi için öncelikle doğru sigortanın takılı olması gerekir."
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "4 vana kolunu da döndürün, bu sel işlemini etkinleştirecektir."
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "Bu geri döndürülemez, bu yüzden bunu bildirmeden yapmay-\""
+
+msgid "...The rest of the note is torn off."
+msgstr "...Notun geri kalanı yırtılmış."
+
+msgid "Looks like an electrical panel."
+msgstr "Bir elektrik paneline benziyor."
+
+msgid "Take a closer look?"
+msgstr "Daha yakından bak?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_panel.choice.Take a closer look?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "Vana tekerleğini yerleştirmek için bir yuva. Girinti kare şeklindedir."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice"
+msgid "Turn it?"
+msgstr "Döndür?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Çarkı döndür?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Çarkı çıkar"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Çark dönmüyor."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_1.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Artık çevrilmiyor."
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "Vana tekerleğini yerleştirmek için bir yuva. Girinti beşgen şeklindedir."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice"
+msgid "Turn it?"
+msgstr "Döndür?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Çarkı döndür."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Çarkı çıkar"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Çark dönmüyor"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_2.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Artık dönmüyor."
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "Vana çarkını yerleştirmek için bir yuva. Girinti yıldız şeklindedir."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice"
+msgid "Turn it?"
+msgstr "Döndür"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Çarkı döndür"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Çarkı çıkar"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "Çark dönmüyor."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_3.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Artık dönmüyor."
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "Vana tekerleğini yerleştirmek için bir yuva. Girinti elmas şeklindedir."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice"
+msgid "Turn it?"
+msgstr "Döndür?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Turn the wheel"
+msgstr "Çarkı döndür"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Remove the wheel"
+msgstr "Çarkı çıkar"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.choice.Turn it?"
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "The wheel won't turn."
+msgstr "çark dönmüyor."
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.misc_valve_4.dlg.narrator"
+msgid "It won't turn anymore."
+msgstr "Artık dönmüyor."
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "Geçen gördüğümüz geniş geçite benziyor..."
+
+msgid "Doors?"
+msgstr "Kapılar?"
+
+msgid "This is probably an elevator."
+msgstr "Bu büyük ihtimalle bir asansör."
+
+msgid "Lights."
+msgstr "Işıklar."
+
+msgid "Water?"
+msgstr "Su?"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "Bir sigortanın sığabileceği boş bir yuva."
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "(Görünüşe göre sigortaları ekrana uyacak şekilde yeniden düzenlemem gerekiyor.)"
+
+msgid "An empty fuse slot."
+msgstr "Boş bir sigorta yuvası"
+
+msgid "Place a fuse?"
+msgstr "Bir sigorta yerleştir?"
+
+msgid "Place fuse no.5"
+msgstr "5. sigortayı yerleştir."
+
+msgid "Place fuse no.10"
+msgstr "10. sigortayı yerleştir."
+
+msgid "Place fuse no.15"
+msgstr "15. sigortayı yerleştir."
+
+msgid "Place fuse no.20"
+msgstr "20. sigortayı yerleştir."
+
+msgid "Place fuse no.25"
+msgstr "25. sigortayı yerleştir."
+
+msgid "Place fuse no.40"
+msgstr "40. sigortayı yerleştir."
+
+msgid "Do not"
+msgstr "Yapma"
+
+msgid "It's a spider!"
+msgstr "Bu bir örümcek!"
+
+msgid "I see that."
+msgstr "Gördüm."
+
+msgid "Are you scared of spiders?"
+msgstr "Örümceklerden korkar mısın?"
+
+msgid "Not really."
+msgstr "Çok değil."
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "Yani, ne, evinde bir örümcek görürsen onu orda BIRAKIYOR musun?!"
+
+msgid "That's crazy."
+msgstr "Delice bu."
+
+msgid "What else should I be doing?"
+msgstr "Başka ne yapıyor olmalıyım?"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "Bilmiyorum? Çoğu kişi onu bir ayakkabı ile öldürüyor veya birşey."
+
+msgid "Why?"
+msgstr "Neden?"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "Ne bileyim, tırmanıyorlar vs. Ürkünçler."
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "Neden onun hatası olmayan birşey yüzünden ölsün ki?"
+
+msgid "..."
+msgstr "..."
+
+msgid "That's fair."
+msgstr "Yeterince makul."
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "Yani sadece biliyorsun, örümcekleri öldürmüyorum."
+
+msgid "I see."
+msgstr "Anladım."
+
+msgid "I used to, but now I just put them outside."
+msgstr "Önceden öldürürdüm ama şimdi sadece dışarı koyuyorum."
+
+msgid "Great."
+msgstr "Harika."
+
+msgid "A spider hangs from here."
+msgstr "Bir örümcek oradan sarkıyor."
+
+msgid "A spider sits here."
+msgstr "Bir örümcek orada oturuyor."
+
+msgid "Take out the fuse?"
+msgstr "Sigortayı çıkar?"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Ch1_Facility_B1F_ControlRoom.pnc_fusebox_takefuse.choice.Take out the fuse?"
+msgid "No"
+msgstr "Hayır"

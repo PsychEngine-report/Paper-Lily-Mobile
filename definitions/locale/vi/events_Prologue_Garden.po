@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The flower sank into the water."
+msgstr "Bông hoa chìm xuống nước rồi."
+
+msgid "Pity."
+msgstr "Đáng thương thay."
+
+msgid "You thought that would work?"
+msgstr "Mày tưởng thế là được à?"
+
+msgid "You should be more careful about the decisions you make."
+msgstr "Nên để ý hơn tới quyết định của mình đi."
+
+msgid "The solution may seem obvious, but..."
+msgstr "Cách giải quyết thoạt nhìn thì rõ ràng đấy, nhưng mà..."
+
+msgid "THERE IS ALWAYS ANOTHER WAY"
+msgstr "LUÔN LUÔN CÓ CÁCH LÀM KHÁC"
+
+msgid "You may not notice it right away, but your actions will have an impact sooner or later."
+msgstr "Có lẽ mày không nhận ra ngay đâu, nhưng hành động của mày sớm muộn cũng sẽ có ảnh hưởng."
+
+msgid "You may not even remember what you did to cause it."
+msgstr "Có khi mày còn chẳng nhớ ra căn nguyên mà mày đã gây nên nữa cơ."
+
+msgid "Sadly, regret is always in the shadow of choice."
+msgstr "Buồn thay, trong cái bóng của lựa chọn thì lúc nào cũng đeo đẳng hối hận."
+
+msgid "Also, you know very well this isn't your home."
+msgstr "Với lại, mày biết rất rõ đây không phải nhà của mày mà."
+
+msgid "So why do you mess with things that don't belong to you?"
+msgstr "Thế tại sao mày lại xía vào những thứ không thuộc về mình vậy?"
+
+msgid "YOU'RE NOT WELCOME HERE"
+msgstr ""
+"MÀY KHÔNG HỀ ĐƯỢC HOAN NGHÊNH\n"
+"Ở ĐÂY ĐÂU"
+
+msgid "Look."
+msgstr "Nhìn đi."
+
+msgid "This is the result of your actions."
+msgstr "Đây là hậu quả hành động của mày đấy."
+
+msgid "The result of your expectations."
+msgstr "Kết quả kỳ vọng của mày đấy."
+
+msgid "Things are not always what they seem."
+msgstr "Sự việc không phải lúc nào cũng như trông thấy đâu."
+
+msgid "What do you think?"
+msgstr "Sao hả?"
+
+msgid "Does this still look like a flower to you?"
+msgstr "Cái này trông còn giống hoa nữa không?"
+
+msgid "You're not prepared to deal with the truth."
+msgstr "Mày chưa hề sẵn sàng giáp mặt với sự thật đâu."
+
+msgid "Are you?"
+msgstr "Mày nhể?"
+
+msgid "I can't stop you from coming here."
+msgstr "Tao không ngăn được mày đến đây."
+
+msgid "But if you're foolish enough to cross my path,"
+msgstr "Nhưng hễ mày mà ngu ngốc đến nỗi ngáng đường tao,"
+
+msgid "I'LL KILL YOU MYSELF"
+msgstr ""
+"THÌ CHÍNH TAY TAO\n"
+"SẼ GIẾT MÀY"
+
+msgctxt "events.Prologue_Garden.event_bad_solution.dlg.narrator"
+msgid "...such is the way of our world."
+msgstr "...cách làm trong thế giới bọn tao là vậy đấy."
+
+msgid "..."
+msgstr "..."
+
+msgid "The door opened!"
+msgstr "Cửa mở rồi!"
+
+msgid "Fascinating."
+msgstr "Thú vị đấy."
+
+msgid "You've done the opposite of what I expected."
+msgstr "Mày đã làm ngược lại hoàn toàn với tiên liệu của tao."
+
+msgid "A delightful surprise."
+msgstr "Bất ngờ hay ghê ta."
+
+msgid "How did you know, I wonder?"
+msgstr "Rốt cuộc làm sao mày biết được vậy ta?"
+
+msgid "Perhaps you're different."
+msgstr "Có lẽ là mày khác biệt chăng."
+
+msgid "Or perhaps..."
+msgstr "Hoặc có khi..."
+
+msgid "...you cheated?"
+msgstr "...là mày ăn gian?"
+
+msgid "How odd."
+msgstr "Kì cục thiệt."
+
+msgid "Regardless, I advise you not to mess with things that don't belong to you."
+msgstr "Dù sao đi nữa, đừng có mà xía vào những chuyện không thuộc về mày."
+
+msgid "It's not safe for you."
+msgstr "Chẳng an lành gì cho mày đâu."
+
+msgid "As you already know, in this place..."
+msgstr "Theo đúng như mày đã biết rõ, cái nơi này..."
+
+msgid "THINGS ARE NOT ALWAYS WHAT THEY SEEM"
+msgstr ""
+"SỰ VIỆC KHÔNG PHẢI LÚC NÀO\n"
+"CŨNG NHƯ TRÔNG THẤY ĐÂU"
+
+msgid "The answers you're looking for are not yours to take,"
+msgstr "Câu trả lời mà mày đang tìm chẳng phải dành cho mày kiếm được,"
+
+msgid "You're not ready to learn the truth..."
+msgstr "Mày chưa hề sẵn sàng biết được sự thật đâu..."
+
+msgid "...and the truth is not willing to be learned by you."
+msgstr "...và sự thật cũng không sẵn lòng để cho mày biết đến đâu."
+
+msgid "I can't stop you from coming."
+msgstr "Tao không thể ngăn mày đến đấy."
+
+msgid "Just know that if you do,"
+msgstr "Có điều hãy nhớ hễ mày mà đến,"
+
+msgid "YOU WILL BE KILLED"
+msgstr "THÌ MÀY SẼ BỊ GIẾT"
+
+msgctxt "events.Prologue_Garden.event_good_solution.dlg.narrator"
+msgid "...such is the way of our world."
+msgstr "...cách làm trong thế giới chúng tao là vậy đấy."
+
+msgid "The building ahead seems locked somehow."
+msgstr "Tòa nhà phía đằng trước có vẻ là bị khóa rồi hay sao ấy."
+
+msgid "There's a white flower on the ground."
+msgstr "Trên mặt đất có bông hoa trắng."
+
+msgid "Take Flower?"
+msgstr "Nhặt hoa lên chứ?"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_get.choice.Take Flower?"
+msgid "Yes"
+msgstr "Nhặt lên"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_get.choice.Take Flower?"
+msgid "No"
+msgstr "Thôi không"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase1.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Trong lọ đã có hoa rồi."
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase2.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Trong lọ đã có hoa rồi."
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase3.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Trong lọ đã có hoa rồi."
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase4.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Trong lọ đã có hoa rồi."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase1.dlg.narrator"
+msgid "The light turned green."
+msgstr "Bóng đèn đổi sang xanh lá rồi."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase1.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Trong lọ đã có hoa rồi."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase2.dlg.narrator"
+msgid "The light turned green."
+msgstr "Bóng đèn đổi sang xanh lá rồi."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase2.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Trong lọ đã có hoa rồi."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase3.dlg.narrator"
+msgid "The light turned green."
+msgstr "Bóng đèn đổi sang xanh lá rồi."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase3.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Trong lọ đã có hoa rồi."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase4.dlg.narrator"
+msgid "The light turned green."
+msgstr "Bóng đèn đổi sang xanh lá rồi."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase4.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Trong lọ đã có hoa rồi."
+
+msgid "A door with 4 colored lights."
+msgstr "Cánh cửa mang 4 cái bóng đèn có màu."
+
+msgid "It's locked."
+msgstr "Bị khóa rồi."
+
+msgid "A small building adorned with flowers."
+msgstr "Tòa nhà nhỏ với những bông hoa tô điểm."
+
+msgid "A tree with pink flowers."
+msgstr "Cái cây có hoa màu hồng."
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "Chiếc lọ hoa lớn có cắm bông hoa trắng."
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice"
+msgid "Take out the flower?"
+msgstr "Lấy hoa ra chứ?"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Take out the flower?"
+msgid "Yes"
+msgstr "Lấy ra"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Take out the flower?"
+msgid "No"
+msgstr "Thôi không"
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "The green light turned red."
+msgstr "Bóng đèn xanh lá đổi sang đỏ rồi."
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice"
+msgid "Put the flower back in?"
+msgstr "Cắm hoa vào lại chứ?"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "Cắm lại"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Put the flower back in?"
+msgid "No"
+msgstr "Thôi không"
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "The light turned back green."
+msgstr "Bóng đèn đổi lại sang xanh lá rồi."
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "Chiếc lọ hoa lớn. Thiếu mất hoa."
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "Chiếc lọ hoa lớn có cắm bông hoa trắng."
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice"
+msgid "Take out the flower?"
+msgstr "Lấy hoa ra chứ?"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Take out the flower?"
+msgid "Yes"
+msgstr "Lấy ra"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Take out the flower?"
+msgid "No"
+msgstr "Thôi không"
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "The green light turned red."
+msgstr "Bóng đèn xanh lá đổi sang đỏ rồi."
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice"
+msgid "Put the flower back in?"
+msgstr "Cắm hoa vào lại chứ?"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "Cắm lại"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Put the flower back in?"
+msgid "No"
+msgstr "Thôi không"
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "The light turned back green."
+msgstr "Bóng đèn đổi lại sang xanh lá rồi."
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "Chiếc lọ hoa lớn. Thiếu mất hoa."
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "Chiếc lọ hoa lớn có cắm bông hoa trắng."
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice"
+msgid "Take out the flower?"
+msgstr "Lấy hoa ra chứ?"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Take out the flower?"
+msgid "Yes"
+msgstr "Lấy ra"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Take out the flower?"
+msgid "No"
+msgstr "Thôi không"
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "The green light turned red."
+msgstr "Bóng đèn xanh lá đổi sang đỏ rồi."
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice"
+msgid "Put the flower back in?"
+msgstr "Cắm hoa vào lại chứ?"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "Cắm lại"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Put the flower back in?"
+msgid "No"
+msgstr "Thôi không"
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "The light turned back green."
+msgstr "Bóng đèn đổi lại sang xanh lá rồi."
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "Chiếc lọ hoa lớn. Thiếu mất hoa."
+
+msgid "A big flower vase. Unlike the others, this one has no flower."
+msgstr "Chiếc lọ hoa lớn. Không giống mấy chiếc khác, chiếc này không cắm hoa."
+
+msgid "A big flower vase. I placed a flower inside."
+msgstr "Chiếc lọ hoa lớn. Mình mới cắm hoa vào."
+
+msgid "Take it out?"
+msgstr "Lấy hoa ra chứ?"
+
+msgctxt "events.Prologue_Garden.misc_vase4.choice.Take it out?"
+msgid "Yes"
+msgstr "Lấy ra"
+
+msgctxt "events.Prologue_Garden.misc_vase4.choice.Take it out?"
+msgid "No"
+msgstr "Thôi không"
+
+msgid "The light turned back red."
+msgstr "Bóng đèn đổi lại sang đỏ rồi."
+
+msgid "Some large windows. You can't see what's inside."
+msgstr "Vài cái cửa sổ lớn. Bạn không thấy được bên trong."

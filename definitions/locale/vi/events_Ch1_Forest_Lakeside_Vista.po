@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There's a paddle here."
+msgstr "Ở đây có cái mái chèo."
+
+msgid "Take ${item:ch1.forest_paddles}?"
+msgstr "Lấy ${item:ch1.forest_paddles} chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.item_paddles_get.choice.Take ${item:ch1.forest_paddles}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "The pier ends here."
+msgstr "Chiếc cầu nhô đi đến đây là hết."
+
+msgid "Some purple flowers."
+msgstr "Vài bông hoa màu tía."
+
+msgid "They're growing abundantly between these rocks."
+msgstr "Chúng mọc um tùm giữa mấy tảng đá."
+
+msgid "Take some ${item:ch1.lakeside_petals_purple}?"
+msgstr "Lấy vài ${item:ch1.lakeside_petals_purple} chứ?"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_purple}?"
+msgid "Yes"
+msgstr "Lấy"
+
+msgctxt "events.Ch1_Forest_Lakeside_Vista.misc_flowers.choice.Take some ${item:ch1.lakeside_petals_purple}?"
+msgid "No"
+msgstr "Thôi"
+
+msgid "A large structure looms over the lake in the distance."
+msgstr "Ở đằng xa qua hồ kia lù lù một cấu trúc to lớn."
+
+msgid "What is that place..?"
+msgstr "Chỗ kia là gì thế...?"
+
+msgid "..."
+msgstr "..."
+
+msgid "Hmm... I can't see the lighthouse from here."
+msgstr "Hừm... Đứng chỗ này không thấy được cái hải đăng."
+
+msgid "It might be beyond those trees."
+msgstr "Có khi là phía bên kia mấy cái cây đó."
+
+msgid "Oh well."
+msgstr "Thôi đành."

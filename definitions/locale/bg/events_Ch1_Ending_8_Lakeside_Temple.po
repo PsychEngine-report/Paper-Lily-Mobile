@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "A note details how to unclog some pipes..."
+msgstr "Бележка за това как да се отпушат някои тръби…"
+
+msgid "...but you have bigger problems right now."
+msgstr "… само че сега имаш по-належащи проблеми."
+
+msgid "A shrine of some sorts."
+msgstr "Някакъв вид светилище."
+
+msgid "There's no longer a goldfish inside the bowl."
+msgstr "В аквариума вече няма златна рибка."
+
+msgid "The goldfish sits unmoving at the bottom of the bowl."
+msgstr "Златната рибка седи неподвижно на дъното на купата."
+
+msgid "The water has turned blood red."
+msgstr "Водата стана кървавочервена."

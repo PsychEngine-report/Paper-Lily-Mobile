@@ -1,0 +1,624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Cellphone"
+msgstr "Celular"
+
+msgid "My personal phone. Hiro bought it for me."
+msgstr "Meu telefone pessoal. Hiro comprou para mim."
+
+msgid "To-Do List"
+msgstr "Lista de afazeres"
+
+msgid "A list of things I want to do before I die."
+msgstr "Uma lista de coisas que quero fazer antes de morrer."
+
+msgid "Red Ribbon"
+msgstr "Laço vermelho"
+
+msgid "A soft and silky red ribbon."
+msgstr "Uma fita vermelha macia e sedosa."
+
+msgid "Red Thread"
+msgstr "Fio vermelho"
+
+msgid "Some red thread from mother's sewing kit. The color matches my scarf."
+msgstr "Um pouco de linha vermelha do kit de costura da mãe. A cor combina com meu cachecol."
+
+msgid "Red Shoelaces"
+msgstr "Cadarços Vermelhos"
+
+msgid "From the shoe rack. Does something like this count?"
+msgstr "Da sapateira. Algo assim conta?"
+
+msgid "Red Paint"
+msgstr "Tinta vermelha"
+
+msgid "A can of red paint. It's dusty."
+msgstr "Uma lata de tinta vermelha. Está empoeirado."
+
+msgid "Bird Food"
+msgstr "Comida para pássaros"
+
+msgid "All-Natural Non-GMO Certified Organic Bird Food. It's as expensive as it sounds."
+msgstr "Alimento orgânico para pássaros totalmente natural e não OGM certificado. É tão caro quanto parece."
+
+msgid "Red Marker"
+msgstr "Marcador Vermelho"
+
+msgid "A non-erasable alcohol-based red marker."
+msgstr "Um marcador vermelho não apagável à base de álcool."
+
+msgid "Lipstick"
+msgstr "Batom"
+
+msgid "Some red lipstick from mother's makeup set. It says \"Crimson Passion\"."
+msgstr "Um pouco de batom vermelho do conjunto de maquiagem da mãe. Diz \"Paixão Carmesim\"."
+
+msgid "Ritual Letter"
+msgstr "Carta Ritual"
+
+msgid "The ritual instructions I received."
+msgstr "As instruções rituais que recebi."
+
+msgid "Table Salt"
+msgstr "Sal de mesa"
+
+msgid "\"For cooking and baking\". Salt can supposedly ward off spirits and such."
+msgstr "“Para cozinhar e assar”. O sal pode supostamente afastar espíritos e coisas assim."
+
+msgid "Notebook"
+msgstr "Caderno"
+
+msgid "I keep my personal notes and papers I find here."
+msgstr "Guardo minhas anotações pessoais e papéis que encontro aqui."
+
+msgid "Rune"
+msgstr "Runa"
+
+msgid "A rune stone I bought from a shady online merchant."
+msgstr "Uma pedra rúnica que comprei de um comerciante online obscuro."
+
+msgid "A rune stone I found."
+msgstr "Uma pedra rúnica que encontrei."
+
+msgid "Blue Sign"
+msgstr "Placa Azul"
+
+msgid "It says \"Daylight Gate\"."
+msgstr "Diz \"Portão do Amanhecer\"."
+
+msgid "Pack of Chips"
+msgstr "Pacote de batatas fritas"
+
+msgid "Looks like regular potato chips. The brand is literally called \"Harmless Snack\"."
+msgstr "Parecem batatas fritas normais. A marca é literalmente chamada de \"Lanche Inofensivo\"."
+
+msgid "Chocolate Bar"
+msgstr "Barra de chocolate"
+
+msgid "Looks like a bar of chocolate. The brand is literally called \"Harmless Snack\"."
+msgstr "Parece uma barra de chocolate. A marca é literalmente chamada de \"Lanche Inofensivo\"."
+
+msgid "Bug Net"
+msgstr "Rede de insetos"
+
+msgid "A bug net Rune gave me. I don't know what I'll do with it."
+msgstr "Uma rede de insetos que Rune me deu. Não sei o que farei com isso."
+
+msgid "Empty Lamp"
+msgstr "Lâmpada vazia"
+
+msgid "The case of a street lamp. It has nothing inside."
+msgstr "O caso de um poste de luz. Não tem nada dentro."
+
+msgid "Lamp with Fireflies"
+msgstr "Lâmpada com vaga-lumes"
+
+msgid "A street lamp full of fireflies."
+msgstr "Um poste de luz cheio de vaga-lumes."
+
+msgid "Empty Jar"
+msgstr "Jarra vazia"
+
+msgid "A jar with nothing inside."
+msgstr "Uma jarra sem nada dentro."
+
+msgid "Jar of Fireflies"
+msgstr "Pote de vaga-lumes"
+
+msgid "A jar full of fireflies."
+msgstr "Uma jarra cheia de vaga-lumes."
+
+msgid "Bolt Cutter"
+msgstr "Alicate"
+
+msgid "A bolt cutter Rune gave me. Looks strong."
+msgstr "Um alicate que Rune me deu. Parece forte."
+
+msgid "Fish"
+msgstr "Peixe"
+
+msgid "A fish thing I purchased from a merchant. I don't think I should eat this."
+msgstr "Um peixe que comprei de um comerciante. Eu não acho que deveria comer isso."
+
+msgid "Jar of Slugs"
+msgstr "Pote de Lesmas"
+
+msgid "A jar of slugs. Heavy."
+msgstr "Um pote de lesmas. Pesado."
+
+msgid "Stone Curse Notes"
+msgstr "Notas de Maldição de Pedra"
+
+msgid "Notes explaining a ritual to remove a \"Stone Curse\"."
+msgstr "Notas explicando um ritual para remover uma \"Maldição de Pedra\"."
+
+msgid "Artistic Pot"
+msgstr "Pote Artístico"
+
+msgid "A pot I found. Hopefully it works as a new head for Kozmo."
+msgstr "Um pote que encontrei. Esperamos que funcione como uma nova cabeça para Kozmo."
+
+msgid "Stone Curse Cure"
+msgstr "Cura da Maldição da Pedra"
+
+msgid "A sort of potion I made. It should cure a simple stone curse."
+msgstr "Uma espécie de poção que fiz. Deveria curar uma simples maldição de pedra."
+
+msgid "Weird Sculpture"
+msgstr "Escultura Estranha"
+
+msgid "A thing I found. I'm almost a bit ashamed of having to give this to Kozmo."
+msgstr "Uma coisa que encontrei. Estou quase com um pouco de vergonha de ter que dar isso ao Kozmo."
+
+msgid "Teapot-Shaped Head"
+msgstr "Cabeça em formato de bule"
+
+msgid "It came off the sculptor. It's empty inside."
+msgstr "Saiu do escultor. Está vazio por dentro."
+
+msgid "Artist's Flower"
+msgstr "Flor do Artista"
+
+msgid "It came off the sculptor. It smells good."
+msgstr "Saiu do escultor. Cheira bem."
+
+msgid "Cursed Tree Bark"
+msgstr "Casca de árvore amaldiçoada"
+
+msgid "A piece I tore off a tree. Allegedly cursed."
+msgstr "Um pedaço que arranquei de uma árvore. Supostamente amaldiçoado."
+
+msgid "Ink Mushrooms"
+msgstr "Cogumelos de tinta"
+
+msgid "Black mushrooms."
+msgstr "Cogumelos pretos."
+
+msgid "Lit Candle"
+msgstr "Vela acesa"
+
+msgid "A candle I took from a statue at the sculptor's house."
+msgstr "Uma vela que tirei de uma estátua na casa do escultor."
+
+msgid "Unlit Candle"
+msgstr "Vela apagada"
+
+msgid "Blue Candle"
+msgstr "Vela Azul"
+
+msgid "A candle that the candle person gave to me."
+msgstr "Uma vela que a pessoa da vela me deu."
+
+msgid "AC Adapter"
+msgstr "Adaptador AC"
+
+msgid "A power plug adapter. It converts a 3-prong plug for a 2-prong socket."
+msgstr "Um adaptador de tomada de energia. Ele converte um plugue de 3 pinos em um soquete de 2 pinos."
+
+msgid "Scissors"
+msgstr "Tesoura"
+
+msgid "A pair of scissors. Pointy!"
+msgstr "Um par de tesouras. Pontudo!"
+
+msgid "Padlock Key"
+msgstr "Chave de cadeado"
+
+msgid "A key that should open the gate with the warning sign."
+msgstr "Uma chave que deve abrir o portão com a placa de alerta."
+
+msgid "Caterpillar"
+msgstr "Lagarta"
+
+msgid "The moths asked me to get rid of him for a reward."
+msgstr "As mariposas me pediram para me livrar dele em troca de uma recompensa."
+
+msgid "Treasure Hunter's Letter"
+msgstr "Carta do Caçador de Tesouros"
+
+msgid "A letter I found under a statue."
+msgstr "Uma carta que encontrei debaixo de uma estátua."
+
+msgid "Treasure Hunter's Note 1"
+msgstr "Nota do Caçador de Tesouro 1"
+
+msgid "A note I found. It talks about the Locked Site."
+msgstr "Uma nota que encontrei. Fala sobre o Local Bloqueado."
+
+msgid "Treasure Hunter's Note 2"
+msgstr "Nota do Caçador de Tesouro 2"
+
+msgid "Treasure Hunter's Note 3"
+msgstr "Nota do Caçador de Tesouro 3"
+
+msgid "Treasure Hunter's Note 4"
+msgstr "Nota do Caçador de Tesouro 4"
+
+msgid "Secret Passage Code"
+msgstr "Código de passagem secreta"
+
+msgid "Contains the code to open the secret passage under Red's house."
+msgstr "Contém o código para abrir a passagem secreta sob a casa de Red."
+
+msgid "Boat Paddle"
+msgstr "Remo de barco"
+
+msgid "Perfect for rowing a boat."
+msgstr "Perfeito para remar um barco."
+
+msgid "Injured Bunny"
+msgstr "Coelho ferido"
+
+msgid "It couldn't run away, so now it's in my inventory. Looks like it has a broken leg."
+msgstr "Ele não poderia fugir, então agora está no meu inventário. Parece que tem uma perna quebrada."
+
+msgid "Lavender Flower"
+msgstr "Flor de lavanda"
+
+msgid "Smells like laundry."
+msgstr "Cheira a roupa lavada."
+
+msgid "Goldfish"
+msgstr "Peixe dourado"
+
+msgid "Dead Goldfish"
+msgstr "Peixe Dourado Morto"
+
+msgid "Might have been better off where it was."
+msgstr "Talvez estivesse melhor onde estava."
+
+msgid "Black Algae"
+msgstr "Algas Negras"
+
+msgid "Some algae I fished from the bottom of the lake."
+msgstr "Algumas algas que pesquei no fundo do lago."
+
+msgid "Blue Algae"
+msgstr "Algas Azuis"
+
+msgid "Green Algae"
+msgstr "Algas verdes"
+
+msgid "Pink Petals"
+msgstr "Pétalas Rosa"
+
+msgid "Some flower petals I found."
+msgstr "Algumas pétalas de flores que encontrei."
+
+msgid "Purple Petals"
+msgstr "Pétalas Roxas"
+
+msgid "White Petals"
+msgstr "Pétalas Brancas"
+
+msgid "Handle (Square)"
+msgstr "Alça (Quadrada)"
+
+msgid "A purple handle for a valve mechanism. The protrusion is square-shaped."
+msgstr "Uma alça roxa para um mecanismo de válvula. A saliência é quadrada."
+
+msgid "Handle (Pentagon)"
+msgstr "Alça (Pentágono)"
+
+msgid "A red handle for a valve mechanism. The protrusion is pentagon-shaped."
+msgstr "Uma alça vermelha para um mecanismo de válvula. A saliência tem a forma de um pentágono."
+
+msgid "Handle (Star)"
+msgstr "Alça (estrela)"
+
+msgid "A yellow handle for a valve mechanism. The protrusion is shaped like a 5-point star."
+msgstr "Uma alça amarela para um mecanismo de válvula. A saliência tem o formato de uma estrela de 5 pontas."
+
+msgid "Handle (Diamond)"
+msgstr "Alça (Diamante)"
+
+msgid "A white handle for a valve mechanism. The protrusion is diamond-shaped."
+msgstr "Uma alça branca para um mecanismo de válvula. A saliência é em forma de diamante."
+
+msgid "Fuse (5)"
+msgstr "Fusível (5)"
+
+msgid "Fuse (10)"
+msgstr "Fusível (10)"
+
+msgid "Fuse (15)"
+msgstr "Fusível (15)"
+
+msgid "Fuse (20)"
+msgstr "Fusível (20)"
+
+msgid "Fuse (25)"
+msgstr "Fusível (25)"
+
+msgid "Fuse (40)"
+msgstr "Fusível (40)"
+
+msgid "_____"
+msgstr "_____"
+
+msgid "It's sharp."
+msgstr "É afiado."
+
+msgid "Iron Key"
+msgstr "Chave de Ferro"
+
+msgid "A fairly large metallic key."
+msgstr "Uma chave metálica bastante grande."
+
+msgid "Copper Key"
+msgstr "Chave de Cobre"
+
+msgid "A regular key. It probably opens a door somewhere."
+msgstr "Uma chave normal. Provavelmente abre uma porta em algum lugar."
+
+msgid "Bucket"
+msgstr "Balde"
+
+msgid "A metallic bucket. It can transport various liquid substances."
+msgstr "Um balde metálico. Pode transportar várias substâncias líquidas."
+
+msgid "Bucket of Water"
+msgstr "Balde com água"
+
+msgid "A bucket full of water. It's heavy."
+msgstr "Um balde cheio de água. É pesado."
+
+msgid "Bucket of Special Water"
+msgstr "Balde com água especial"
+
+msgid "A bucket full of water. It comes from a special faucet in the forest."
+msgstr "Um balde cheio de água. Vem de uma torneira especial na floresta."
+
+msgid "Flat Screwdriver"
+msgstr "Chave de fenda plana"
+
+msgid "A simple screwdriver."
+msgstr "Uma chave de fenda simples."
+
+msgid "Coin"
+msgstr "Moeda"
+
+msgid "A coin that's not quite like the ones back home."
+msgstr "Uma moeda que não é exatamente como as de casa."
+
+msgid "Return Doorknob"
+msgstr "Maçaneta de retorno"
+
+msgid "Apparently, this is my ticket back home. I purchased it online."
+msgstr "Aparentemente, esta é minha passagem de volta para casa. Eu comprei on-line."
+
+msgid "Doorknob With Flower"
+msgstr "Maçaneta com flor"
+
+msgid "A doorknob. I found this lying around."
+msgstr "Uma maçaneta. Encontrei isso por aí."
+
+msgid "Doorknob Fragment"
+msgstr "Fragmento de maçaneta"
+
+msgid "Pieces of a doorknob. I can't put them back together on my own."
+msgstr "Pedaços de maçaneta. Não consigo montá-los sozinho."
+
+msgid "Gray Doorknob"
+msgstr "Maçaneta Cinza"
+
+msgid "A doorknob. It has the same symbol as my letter."
+msgstr "Uma maçaneta. Tem o mesmo símbolo da minha carta."
+
+msgid "White Doorknob"
+msgstr "Maçaneta Branca"
+
+msgid "A doorknob. It looks like a white lily."
+msgstr "Uma maçaneta. Parece um lírio branco."
+
+msgid "Doorknob With Eye"
+msgstr "Maçaneta com olho"
+
+msgid "A doorknob I got from the moths. Can probably be used at that door with the slots."
+msgstr "Uma maçaneta que ganhei das mariposas. Provavelmente pode ser usado naquela porta com slots."
+
+msgid "Paper Lily Folding Steps"
+msgstr "Instruções do lírio de papel"
+
+msgid "Instructions detailing how to fold a piece of paper to look like a lily flower."
+msgstr "Instruções detalhando como dobrar um pedaço de papel para parecer uma flor de lírio."
+
+msgid "Facility Map"
+msgstr "Mapa das instalações"
+
+msgid "A map of the facility, drawn by someone."
+msgstr "Um mapa da instalação, desenhado por alguém."
+
+msgid "Black Knife"
+msgstr "Faca Preta"
+
+msgid "A fully black knife. It's still very sharp."
+msgstr "Uma faca totalmente preta. Ainda está muito afiada."
+
+msgid "Knife"
+msgstr "Faca"
+
+msgid "A knife."
+msgstr "Uma faca."
+
+msgid "Human Foot"
+msgstr "Pé Humano"
+
+msgid "A foot that used to belong to someone."
+msgstr "Um pé que pertencia a alguém."
+
+msgid "Sketchbook"
+msgstr "Caderno de desenho"
+
+msgid "A sketchbook full of colors you splattered all over it."
+msgstr "Um caderno cheio de cores que você espalhou nele."
+
+msgid "Black Object"
+msgstr "Objeto Preto"
+
+msgid "An unknown circular object that's fully black. Feels like wood and glass."
+msgstr "Um objeto circular desconhecido totalmente preto. Parece madeira e vidro."
+
+msgid "Hand Mirror"
+msgstr "Espelho de mão"
+
+msgid "A wooden hand mirror."
+msgstr "Um espelho de mão em madeira."
+
+msgid "An unknown object that's fully black. Feels like a piece of fabric."
+msgstr "Um objeto desconhecido totalmente preto. Parece um pedaço de tecido."
+
+msgid "Cold Compress"
+msgstr "Compressa fria"
+
+msgid "A wet rag."
+msgstr "Um pano molhado."
+
+msgid "Eyeball"
+msgstr "Globo ocular"
+
+msgid "An eyeball. The owner seems to have had golden eyes."
+msgstr "Um globo ocular. O proprietário parece ter olhos dourados."
+
+msgid "Small Key"
+msgstr "Chave pequena"
+
+msgid "A small key. Looks like it could belong to a padlock or something similar."
+msgstr "Uma pequena chave. Parece que pode pertencer a um cadeado ou algo semelhante."
+
+msgid "Key"
+msgstr "Chave"
+
+msgid "A key for something."
+msgstr "Uma chave para alguma coisa."
+
+msgid "Glass Jar"
+msgstr "Jarra de vidro"
+
+msgid "A small glass jar. I found 3 of them."
+msgstr "Uma pequena jarra de vidro. Encontrei 3 deles."
+
+msgid "Jar of Water"
+msgstr "Jarra de água"
+
+msgid "A small glass jar full of water."
+msgstr "Uma pequena jarra de vidro cheia de água."
+
+msgid "Jar of Red Pigment"
+msgstr "Pote de Pigmento Vermelho"
+
+msgid "A small glass jar with red pigment. Needs water."
+msgstr "Um pequeno frasco de vidro com pigmento vermelho. Precisa de água."
+
+msgid "Jar of Yellow Pigment"
+msgstr "Pote de Pigmento Amarelo"
+
+msgid "A small glass jar with yellow pigment. Needs water."
+msgstr "Um pequeno frasco de vidro com pigmento amarelo. Precisa de água."
+
+msgid "Jar of Blue Pigment"
+msgstr "Frasco de Pigmento Azul"
+
+msgid "A small glass jar with blue pigment. Needs water."
+msgstr "Um pequeno frasco de vidro com pigmento azul. Precisa de água."
+
+msgid "Jar of Red Paint"
+msgstr "Pote de Tinta Vermelha"
+
+msgid "A small glass jar with red paint."
+msgstr "Um pequeno frasco de vidro com tinta vermelha."
+
+msgid "Jar of Yellow Paint"
+msgstr "Pote de tinta amarela"
+
+msgid "A small glass jar with yellow paint."
+msgstr "Um pequeno frasco de vidro com tinta amarela."
+
+msgid "Jar of Blue Paint"
+msgstr "Jar of Blue Paint"
+
+msgid "A small glass jar with blue paint."
+msgstr "Um pequeno frasco de vidro com tinta azul."
+
+msgid "Lighter"
+msgstr "Isqueiro"
+
+msgid "A lighter."
+msgstr "Um isqueiro."
+
+msgid "Lock Pick"
+msgstr "Lock Pick"
+
+msgid "A lock pick. I don't know how to use this..."
+msgstr "Uma  lock pick. não sei como usar isso..."
+
+msgid "Rainbow Potion"
+msgstr "Poção Arco-Íris"
+
+msgid "A strange potion. I wonder what it does..."
+msgstr "Uma poção estranha. Eu me pergunto o que isso faz..."
+
+msgid "Temp. Rainbow Potion"
+msgstr "Temp. Poção Arco-Íris"
+
+msgid "A strange potion that Spider directed me to. It has a shorter duration than the original one."
+msgstr "Uma poção estranha que Spider me indicou. Tem uma duração menor que o original."
+
+msgid "Lily"
+msgstr "Lírio"
+
+msgid "A lily. I'm supposed to bring it home with me."
+msgstr "Um lírio. Eu deveria trazê-lo para casa comigo."
+
+msgid "Flower"
+msgstr "Flor"
+
+msgid "Sewing Kit"
+msgstr "Kit de costura"
+
+msgid "Cabbage"
+msgstr "Repolho"
+
+msgid "Red Item I"
+msgstr "Item Vermelho I"
+
+msgid "A red item. I can't tell what it is."
+msgstr "Um item vermelho. Eu não posso dizer o que é."
+
+msgid "Red Item II"
+msgstr "Item Vermelho II"
+
+msgid "Red Item III"
+msgstr "Item Vermelho III"

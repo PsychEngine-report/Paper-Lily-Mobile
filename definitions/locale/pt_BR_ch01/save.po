@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Prologue: School"
+msgstr "Prólogo: Escola"
+
+msgid "Prologue: Occult Club"
+msgstr "Prólogo: Clube de Ocultismo"
+
+msgid "Prologue: Hallway of Doors"
+msgstr "Prólogo: Corredor de Portas"
+
+msgid "Prologue: Into the Door"
+msgstr "Prólogo: Dentro da Porta"
+
+msgid "Paper Lily: Chapter 1"
+msgstr "Paper Lily: Capítulo 1"
+
+msgid "Chapter 1: Home"
+msgstr "Capítulo 1: Casa"
+
+msgid "Chapter 1: Home (Night)"
+msgstr "Capítulo 1: Casa (Noite)"
+
+msgid "Chapter 1: Bus Stop"
+msgstr "Capítulo 1: Parada de Ônibus"
+
+msgid "Chapter 1: Forest"
+msgstr "Capítulo 1: Floresta"
+
+msgid "Chapter 1: Red's Treehouse"
+msgstr "Capítulo 1: Casa na Árvore do Red"
+
+msgid "Chapter 1: Lakeside"
+msgstr "Capítulo 1: Beira do Lago"
+
+msgid "Chapter 1: Lavender Area"
+msgstr "Capítulo 1: Área Lavanda"
+
+msgid "Chapter 1: Facility"
+msgstr "Capítulo 1: Instalação"
+
+msgid "Chapter 1: Miss Knives' Home"
+msgstr "Capítulo 1: Casa da Senhorita Knives"
+
+msgid "Paper Lily: Chapter 2"
+msgstr "Paper Lily: Capítulo 2"

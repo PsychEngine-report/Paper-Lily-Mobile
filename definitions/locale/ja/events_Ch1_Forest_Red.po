@@ -1,0 +1,766 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "You made it!"
+msgstr "おめでとうございます！"
+
+msgid "You must be really good at dodging spikes."
+msgstr "トゲを避けるのがたいへんお上手なんですね。"
+
+msgid "Thank you."
+msgstr "ありがとう。"
+
+msgid "(He seems friendly...)"
+msgstr "(敵意はなさそう……)"
+
+msgid "I'm surprised you're talking to me... this much."
+msgstr "びっくりしたよ……たくさん話しかけてきたから。"
+
+msgid "Talking is an important means of communication, no?"
+msgstr "会話は重要なコミュニケーション手段でしょう？"
+
+msgid "Well yes... but-"
+msgstr "そうだけど……でも――"
+
+msgid "You talk as well!"
+msgstr "あなたも話しているではないですか！"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "I do."
+msgstr "確かに。"
+
+msgid "But you're... What exactly are you?"
+msgstr "でもあなたは……というか、あなたは一体何なの？"
+
+msgid "My name is Rune and I like runes!"
+msgstr "私の名前はルーンで、好きなものはルーンです！"
+
+msgid "Do you have any runes?"
+msgstr "ルーンはお持ちですか？"
+
+msgid "(Do I have any runes?)"
+msgstr "(ルーンは持ってたっけ？)"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.choice.(Do I have any runes?)"
+msgid "Yes"
+msgstr "持ってる"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.choice.(Do I have any runes?)"
+msgid "No"
+msgstr "持ってない"
+
+msgid "Yes, I do."
+msgstr "うん、持ってる。"
+
+msgid "Amazing! Please give them to me!"
+msgstr "素晴らしい！　どうか私にください！"
+
+msgid "I don't."
+msgstr "持ってない。"
+
+msgid "Is that so."
+msgstr "そうですか。"
+
+msgid "Are you lying?"
+msgstr "嘘ではないですよね？"
+
+msgid "N-no... I don't have any runes."
+msgstr "う――うん……ルーンなんて持ってない。"
+
+msgid "Interesting."
+msgstr "面白い。"
+
+msgid "Humans are quite peculiar."
+msgstr "人間とは実に奇妙なものですね。"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "..."
+msgstr "……"
+
+msgid "Well...!"
+msgstr "ともかく……！"
+
+msgid "That's terrible!"
+msgstr "それはひどい！"
+
+msgid "In the future, if you have any runes, please bring them to me!"
+msgstr "もし今後ルーンを手に入れたら、私の所にお持ちください！"
+
+msgid "I will give you trinkets in exchange!"
+msgstr "代わりに粗品を差し上げます！"
+
+msgid "Okay."
+msgstr "わかった。"
+
+msgid "So... are you some kind of spirit?"
+msgstr "で……あなたは精霊か何かなの？"
+
+msgid "Not exactly!"
+msgstr "厳密には違います！"
+
+msgid "We've gone by many names in the past."
+msgstr "我々はこれまで多くの名前で呼ばれてきました。"
+
+msgid "But humans often refer to us as \"demons\"."
+msgstr "ですが人間には、しばしば「妖魔」と呼ばれています。"
+
+msgid "What is your name?"
+msgstr "あなたのお名前は？"
+
+msgid "Lacie."
+msgstr "レイシー。"
+
+msgid "Miss Lacie!"
+msgstr "ミス・レイシー！"
+
+msgid "Rare to see a human around here! How exciting!"
+msgstr "この辺りで人間を見かけるとは珍しい！　胸躍ります！"
+
+msgid "You ARE human, aren't you?"
+msgstr "あなた、人間でしょう？"
+
+msgid "Yes. You can tell?"
+msgstr "うん。わかる？"
+
+msgid "A little bit."
+msgstr "少し。"
+
+msgid "A little bit?"
+msgstr "少し？"
+
+msgid "Some of us may have the appearance of a human, but it's easy to tell the difference with a real one!"
+msgstr "我々の中には人間の見た目をしている者もいますが、本物の人間と見分けるのは容易です！"
+
+msgid "You however..."
+msgstr "ですがあなたは……"
+
+msgid "...What about me?"
+msgstr "……私は、何？"
+
+msgid "Even though you're a human, you smell a bit like..."
+msgstr "あなたは人間ですが、少し……"
+
+msgid "I can't speak of them, but... it's someone veeeery bad."
+msgstr "口には出せませんが、その……非っ常～に悪いものに似た匂いが。"
+
+msgid "Who is it?"
+msgstr "それ、誰？"
+
+msgid "It's 1000 years of bad luck to talk about it."
+msgstr "話すだけでも1000年の不幸です。"
+
+msgid "Please, I really need help."
+msgstr "お願い、本当に助けが必要なの。"
+
+msgid "Um..."
+msgstr "その……"
+
+msgid "I know... that there's something off about me."
+msgstr "わかってる……私は、どこかおかしいの。"
+
+msgid "I did this ritual to find out what it is... and how to fix it."
+msgstr "この儀式をしたのも、それが何なのか、そして……どうすれば直せるのかを探り出すため。"
+
+msgid "I see."
+msgstr "なるほど。"
+
+msgid "For a moment I thought I might be possessed but..."
+msgstr "取り憑かれてるのかもって思ったことも一瞬あったけど……"
+
+msgid "Ooh."
+msgstr "おぉぉ。"
+
+msgid "Nonsense, possessions are an outdated concept."
+msgstr "くだらない、憑依なんて時代遅れの概念です。"
+
+msgid "Then do you know what it could be?"
+msgstr "なら何だと思うの？"
+
+msgid "A curse!"
+msgstr "呪いですよ！"
+
+msgid "What?"
+msgstr "え？"
+
+msgid "99 percent of illnesses here are curses!"
+msgstr "ここでの病は99％が呪いです！"
+
+msgid "What's the other 1 percent?"
+msgstr "残りの1％は？"
+
+msgid "What a silly question, there is no 1 percent!"
+msgstr "なんたる愚問、1％などありませんよ！"
+
+msgid "...Oh..."
+msgstr "……そう……"
+
+msgid "(So it's just 100 percent...?)"
+msgstr "(つまり100％ってこと……？)"
+
+msgid "Do you know how I can lift this curse?"
+msgstr "この呪いを解く方法を知ってる？"
+
+msgid "You should seek Red! Red lifts curses!"
+msgstr "レッドを探すべきでしょう！　レッドなら呪いを解けます！"
+
+msgid "How can I find Red?"
+msgstr "レッドはどうすれば見つけられるの？"
+
+msgid "Incidentally, this is Red's treehouse."
+msgstr "偶然にも、ここがそのレッドのツリーハウスです。"
+
+msgid "This? But there's nobody in there."
+msgstr "これが？　でも、誰もいなかったよ。"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "Indeed, Red hasn't been in there for a long time."
+msgstr "そうでしょう、レッドは長らく帰ってきていませんから。"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.lacie"
+msgid "I see..."
+msgstr "そう……"
+
+msgid "Yeah, I saw the sign earlier."
+msgstr "うん、さっき看板を見た。"
+
+msgid "I guess I should check it out."
+msgstr "じゃあ中を見てこないと。"
+
+msgid "Thank you, Rune."
+msgstr "ありがとう、ルーン。"
+
+msgid "You're welcome, Miss Lacie!"
+msgstr "どういたしまして、ミス・レイシー！"
+
+msgid "Good luck, Miss Lacie!"
+msgstr "ご幸運を、ミス・レイシー！"
+
+msgid "Hello again Miss Lacie!"
+msgstr "こんにちは、ミス・レイシー！"
+
+msgid "Red wasn't there."
+msgstr "レッド、いなかったよ。"
+
+msgid "Why didn't you tell me?"
+msgstr "何でさっき言わなかったの？"
+
+msgid "You didn't ask."
+msgstr "訊かれなかったので。"
+
+msgid "That's true, I suppose."
+msgstr "まあ、確かに。"
+
+msgid "Do you know of another way I could find Red?"
+msgstr "他にレッドを見つける方法を知ってる？"
+
+msgctxt "events.Ch1_Forest_Red.chr_rune.dlg.rune"
+msgid "I do."
+msgstr "はい。"
+
+msgid "...?"
+msgstr "……？"
+
+msgid "Would you like to share it with me?"
+msgstr "その方法を教えてくれる？"
+
+msgid "Sure!"
+msgstr "もちろん！"
+
+msgid "There's a lighthouse to the north of the big tree. Red goes there a lot!"
+msgstr "あの大樹の北に、レッドの行きつけの灯台があります！"
+
+msgid "Have you seen the big tree? It's very large, you can't miss it."
+msgstr "大樹はご覧になりましたか？　非常に大きいですから、見逃してはいないでしょう。"
+
+msgid "Yes, I have."
+msgstr "うん、見た。"
+
+msgid "Well, you have to head north to reach the lighthouse, but it's quite a long walk."
+msgstr "北に向かえば灯台に着きますが、実に長い道のりです。"
+
+msgid "It's right past the lake."
+msgstr "湖を渡ってすぐの所にあります。"
+
+msgid "But... the only way to go north from here is to go through the locked site."
+msgstr "ですが……ここから北に向かうには、封鎖区域を抜けるしかありません。"
+
+msgid "Locked site?"
+msgstr "封鎖区域？"
+
+msgid "Near the big tree there's a locked gate. If you go through there you'll be at the lake in no time."
+msgstr "大樹の近くに、鍵のかかったゲートがあります。そこを抜ければ、湖まですぐです。"
+
+msgid "But it's quite dangerous in there."
+msgstr "ですが、中は極めて危険です。"
+
+msgid "And you'll need a light. Since it's also very dark."
+msgstr "それに明かりが必要です。とても暗いですから。"
+
+msgid "I see. Thank you for all of this information."
+msgstr "なるほどね。いろいろ教えてくれてありがとう。"
+
+msgid "I expected...\"demons\" such as yourself to be more hostile."
+msgstr "正直……あなたみたいな「妖魔」って、もっと敵対的なものかと思ってた。"
+
+msgid "That is a fair expectation!"
+msgstr "適切な心構えです！"
+
+msgid "One that you should keep."
+msgstr "今後もそれを忘れないようにしてください。"
+
+msgid "If anyone finds out you're human, they will kill you instantly."
+msgstr "人間だとばれたら、即座に殺されますから。"
+
+msgid "Take care!"
+msgstr "お気をつけて！"
+
+msgid "So..."
+msgstr "それで……"
+
+msgid "Why aren't you hostile?"
+msgstr "どうしてあなたは敵対的じゃないの？"
+
+msgid "Why do you collect runes?"
+msgstr "どうしてルーンを集めてるの？"
+
+msgid "Red's treehouse?"
+msgstr "レッドのツリーハウス？"
+
+msgid "What will I find at the lighthouse?"
+msgstr "灯台には何があるの？"
+
+msgid "What is inside the locked site?"
+msgstr "封鎖区域の中には何があるの？"
+
+msgid "Never mind"
+msgstr "何でもない"
+
+msgid "How come you aren't hostile like other demons?"
+msgstr "どうしてあなたは他の妖魔と違って友好的なの？"
+
+msgid "I am simply well-fed."
+msgstr "単に、お腹が空いていないので。"
+
+msgid "As for runes, why do you collect them?"
+msgstr "ルーンのことだけど、どうして集めてるの？"
+
+msgid "I like runes!"
+msgstr "ルーンが好きなので！"
+
+msgid "What are you doing with them?"
+msgstr "集めてどうするの？"
+
+msgid "Liking them."
+msgstr "愛好します。"
+
+msgid "Is that why your name is Rune?"
+msgstr "だから名前もルーンなの？"
+
+msgid "I might have had another name once, but I don't recall."
+msgstr "かつては別の名前もあったかもしれませんが、思い出せません。"
+
+msgid "Why do you call this place \"Red's treehouse\"? This house is not in a tree."
+msgstr "どうしてここを「レッドのツリーハウス」って呼んでるの？木の上にあるわけじゃないのに。"
+
+msgid "But the house is MADE of tree."
+msgstr "でも、木でできているでしょう。"
+
+msgid "Do you mean wood?"
+msgstr "それじゃ、ウッドハウスじゃない？"
+
+msgid "No...?"
+msgstr "いいえ……？"
+
+msgid "You are so odd, Miss Lacie!"
+msgstr "あなた、変な方ですね、ミス・レイシー！"
+
+msgid "Will I find Red at the lighthouse?"
+msgstr "灯台に行けばレッドが見つかるの？"
+
+msgid "Maybe. Red often goes there."
+msgstr "可能性はあります。レッドはよく灯台にいますから。"
+
+msgid "What if Red isn't there?"
+msgstr "もしいなかったら？"
+
+msgid "The lighthouse owner is a friend of Red's, he'll know how to guide you!"
+msgstr "灯台の持ち主はレッドの友人ですから、案内してくれるでしょう！"
+
+msgid "He will not eat you, don't worry!"
+msgstr "ご心配なく、彼はあなたを食べませんよ！"
+
+msgid "That's good."
+msgstr "それは良かった。"
+
+msgid "What's behind that fence? In the locked site?"
+msgstr "あのフェンスの向こう、封鎖区域の中には何があるの？"
+
+msgid "Mainly just forest and...a monster."
+msgstr "主にただの森と……怪物です。"
+
+msgid "A monster???"
+msgstr "怪物???"
+
+msgid "It's okay, he won't kill you unless he sees you or hears you!"
+msgstr "大丈夫です、見られたり聞かれたりしなければ、殺されることはありません！"
+
+msgid "It's very dark in there so you'll need a bit of light. If you hear him approaching, you should hide!"
+msgstr "たいへん暗いですから、多少の明かりが必要です。近づいてくるのが聞こえたら隠れてください！"
+
+msgid "That doesn't sound safe. Is it really the only way to the lighthouse?"
+msgstr "安全そうではないね。灯台に行く道は本当にそれだけなの？"
+
+msgid "It's the only way I know of."
+msgstr "私が知る限りでは。"
+
+msgid "How did you cross the bridge to get all the way here?"
+msgstr "ルーンはどうやってここまで橋を渡ってきたの？"
+
+msgid "I walked."
+msgstr "歩いてきました。"
+
+msgid "But... You didn't set off any traps?"
+msgstr "でも……罠には引っかからなかったの？"
+
+msgid "I must have missed them."
+msgstr "見逃していたようです。"
+
+msgid "Do you live here?"
+msgstr "ルーンはここに住んでるの？"
+
+msgid "Nope!"
+msgstr "いいえ！"
+
+msgid "I move around a lot."
+msgstr "色々なところを回っているんです。"
+
+msgid "Why did you come here to Red's treehouse?"
+msgstr "どうしてこのレッドのツリーハウスまで来たの？"
+
+msgid "I'm looking for more runes!"
+msgstr "さらなるルーンを探しに！"
+
+msgid "Rune is humming a tune."
+msgstr "ルーンは鼻歌を歌っている。"
+
+msgid "It sounds very off-key."
+msgstr "かなり調子外れだ。"
+
+msgid "An empty box with a crow on top."
+msgstr "空の箱にカラスが乗っている。"
+
+msgid "This one decided to stay."
+msgstr "この子は残ることにしたみたい。"
+
+msgctxt "events.Ch1_Forest_Red.event_birdbox_save.dlg.narrator"
+msgid "This isn't the time for that."
+msgstr "今はそんなことをしている場合ではない。"
+
+msgid "That was a close one."
+msgstr "今のは惜しかったですね。"
+
+msgid "You almost had it!"
+msgstr "もう少しだったのに！"
+
+msgid "Will you be okay?"
+msgstr "大丈夫ですか？"
+
+msgid "Maybe not."
+msgstr "ダメそうですね。"
+
+msgid "Ouch."
+msgstr "あいたたた。"
+
+msgid "The trick is to not touch the spikes!"
+msgstr "トゲに触れないのがコツですよ！"
+
+msgid "Everyone dies there."
+msgstr "皆そこで死ぬんです。"
+
+msgid "Oh well."
+msgstr "いやはや。"
+
+msgid "Try Again?"
+msgstr "やり直す？"
+
+msgid "Retry"
+msgstr "リトライ"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "Give Up"
+msgstr "ギブアップ"
+
+msgid "What the... a trap?"
+msgstr "何これ……罠？"
+
+msgid "That was dangerous... why are there traps here?"
+msgstr "危ない……なんで罠なんて？"
+
+msgid "Ooh! An interesting character appears!"
+msgstr "おやおや！　面白い方がいらっしゃいましたね！"
+
+msgid "(Someone's there?)"
+msgstr "(誰かいる？)"
+
+msgid "Nobody has come in a long time!"
+msgstr "長いこと誰も来なかったんですよ！"
+
+msgid "I hope you can make it over here!"
+msgstr "ここまでたどり着けると良いのですが！"
+
+msgid "Almost there!"
+msgstr "もう少しです！"
+
+msgid "Be careful not to die."
+msgstr "死なないように気をつけてください。"
+
+msgid "How much longer is this path?"
+msgstr "この道、あとどのくらいあるの？"
+
+msgid "Only 'till you get here!"
+msgstr "ここに着けば終わりです！"
+
+msgctxt "events.Ch1_Forest_Red.event_rune_2.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Don't jump!"
+msgstr "跳んではいけません！"
+
+msgid "You have so much to live for..."
+msgstr "未来あるお命なんですから……"
+
+msgid "...Eh?"
+msgstr "……え？"
+
+msgid "Oh! I wasn't..."
+msgstr "あぁ！　私は別に……"
+
+msgid "Be careful with the traps!"
+msgstr "罠に気をつけてくださいね！"
+
+msgid "There's more!?"
+msgstr "まだあるの!?"
+
+msgid "Good luck!"
+msgstr "ご武運を！"
+
+msgctxt "events.Ch1_Forest_Red.event_rune_bridge_talk_2.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(I want to check out the house first...)"
+msgstr "(先に家を調べたい……)"
+
+msgid "Wow! Thank you! You can have something in return!"
+msgstr "わぁ！　ありがとうございます！　お返しにこれを！"
+
+msgid "What am I supposed to do with this?"
+msgstr "これをどうすればいいの？"
+
+msgid "Dunno! Maybe it will come in handy."
+msgstr "さあ！　どこかでお役に立つかもしれません。"
+
+msgid "Yay! Another one!"
+msgstr "イェイ！　もう1つ！"
+
+msgid "Here's another trinket."
+msgstr "次の粗品はこちらです。"
+
+msgid "Wow... this actually looks useful."
+msgstr "わぁ……これはホントに便利そう。"
+
+msgid "Wow! You're amazing! Thank you!"
+msgstr "わぁ！　素晴らしい！　ありがとうございます！"
+
+msgid "I gotta say, you have terrible manners!"
+msgstr "正直、マナーがなっていませんね！"
+
+msgid "Uhm... I'm sorry."
+msgstr "えっと……ごめん。"
+
+msgid "Ignoring me like that, after I cheered for you to get here and everything!"
+msgstr "ここまで来るのを色々応援してあげたのに、こんな風に無視するなんて！"
+
+msgid "(You didn't exactly help though...)"
+msgstr "(厳密には、別に助けてもらってないけど……)"
+
+msgid "I was just curious about the house here."
+msgstr "ちょっと、この家が気になって。"
+
+msgid "Let's start over. What's your name?"
+msgstr "初めからやり直そう。あなたの名前は？"
+
+msgid "What should I do with this?"
+msgstr "これをどうすればいいの？"
+
+msgid "I'm not sure!"
+msgstr "さあ！"
+
+msgid "Maybe you could cut things that need cutting."
+msgstr "切るべきものを切るとかでしょうか。"
+
+msgid "Isn't it nice? It's a bug net. For catching bugs."
+msgstr "いいでしょう？　虫捕り網です。虫捕り用の。"
+
+msgid "There are other kinds of nets, but this one is for catching bugs."
+msgstr "網は他にもありますが、これは虫捕り専用です。"
+
+msgid "This candle... is from the lighthouse!"
+msgstr "このロウソクは……灯台のものですね！"
+
+msgid "What? Really?"
+msgstr "え？　ホントに？"
+
+msgid "(Did I just miss my chance to get to the lighthouse faster...?)"
+msgstr "(灯台への近道のチャンスを逃しちゃったってこと……？)"
+
+msgid "Do you collect doorknobs, Miss Lacie?"
+msgstr "ドアノブを集めておられるんですか、ミス・レイシー？"
+
+msgid "Personally I prefer runes, but to each their own!"
+msgstr "個人的にはルーンの方が好きですが、好みはそれぞれですからね！"
+
+msgid "Alba sells nice fish!"
+msgstr "アルバの扱う魚は上質です！"
+
+msgid "She also gives me runes sometimes, in exchange for coins."
+msgstr "それに、時々コインと交換にルーンもくれます。"
+
+msgid "She's a very nice person!"
+msgstr "とても良い人ですよ！"
+
+msgid "How many coins does she charge you?"
+msgstr "コインいくつと交換なの？"
+
+msgid "Usually about 40 coins."
+msgstr "ふつう40コインです。"
+
+msgctxt "events.Ch1_Forest_Red.item_fish_on_rune.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Rune, I think she might be ripping you off."
+msgstr "ルーン、それ、ぼったくられてるかも。"
+
+msgid "Not a chance! I really love runes!"
+msgstr "まさか！　私はルーンが本当に大好きですから。"
+
+msgid "An artist's inspiration!"
+msgstr "芸術家のひらめきですね！"
+
+msgctxt "events.Ch1_Forest_Red.item_flower_on_rune.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I heard it can be quite valuable."
+msgstr "たいへん価値をもつこともあるとか。"
+
+msgid "Artist's Inspiration"
+msgstr "芸術家のひらめき"
+
+msgid "Apparently, that's the flower's name."
+msgstr "どうやら、それがこの花の名前らしい。"
+
+msgid "Oh, that would make a nice container for something!"
+msgstr "おお、何かを入れるにはぴったりですね！"
+
+msgid "Like what?"
+msgstr "たとえば何を？"
+
+msgid "I don't know."
+msgstr "さあ。"
+
+msgid "Did you put fireflies inside?"
+msgstr "ホタルを中に入れたんですか？"
+
+msgid "Genius!"
+msgstr "天才ですね！"
+
+msgid "Pointy."
+msgstr "鋭いですね。"
+
+msgid "Pointy pointy."
+msgstr "鋭い、鋭い。"
+
+msgctxt "events.Ch1_Forest_Red.item_scissors_on_rune.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "Miss Lacie, that's a dangerous item!"
+msgstr "ミス・レイシー、それは危険なものですよ！"
+
+msgctxt "events.Ch1_Forest_Red.item_snack_2_on_rune.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I never thought you'd try to poison me this fast."
+msgstr "こんなに早く毒殺されかけるとは思ってもみませんでした。"
+
+msgid "Sorry."
+msgstr "ごめん。"
+
+msgid "No thank you, I don't need to sleep!"
+msgstr "結構です、眠る必要はありませんから！"
+
+msgid "A bag filled with... garbage, probably."
+msgstr "袋。中身は……おそらく、ゴミ。"
+
+msgid "It's tied too hard to check the contents."
+msgstr "固く縛られてて、中身はわからない。"
+
+msgid "A box with some birds trapped inside."
+msgstr "鳥が何羽か閉じ込められた箱。"
+
+msgid "Open the box?"
+msgstr "箱を開ける？"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.choice.Open the box?"
+msgid "Yes"
+msgstr "開ける"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.choice.Open the box?"
+msgid "No"
+msgstr "開けない"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgctxt "events.Ch1_Forest_Red.misc_birdbox.dlg.narrator"
+msgid "This isn't the time for that."
+msgstr "今はそんなことをしている場合ではない。"
+
+msgid "A strong lamp."
+msgstr "強力なランプ。"
+
+msgid "A small window. You can't see anything, so it may be fake."
+msgstr "小さな窓。中は全く見えないので、ただの飾りなのかもしれない。"
+
+msgid "Thin vertical windows."
+msgstr "細い垂直の窓。"
+
+msgid "I just got this far, let's take a look around."
+msgstr "ここまで来たんだし、少し見て回ろう。"
+
+msgid "I haven't finished talking to Rune..."
+msgstr "まだルーンとの話が終わってない……"
+
+msgid "(Seems like there's nobody here...)"
+msgstr "(誰もいないみたい……)"

@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "On"
+msgstr "オン"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Next"
+msgstr "次"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Apply"
+msgstr "適用"
+
+msgctxt "system.common.cancel"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Loading..."
+msgstr "ロード中……"
+
+msgid "Key"
+msgstr "キー"
+
+msgid "Button"
+msgstr "ボタン"
+
+msgid "Axis"
+msgstr "軸"
+
+msgid "Keyboard"
+msgstr "キーボード"
+
+msgid "Controller"
+msgstr "コントローラ"
+
+msgid "New Game"
+msgstr "ニューゲーム"
+
+msgid "Continue"
+msgstr "コンティニュー"
+
+msgid "Website"
+msgstr "ウェブサイト"
+
+msgid "Itch.io Page"
+msgstr "Itch.ioページ"
+
+msgid "Translator Page"
+msgstr "翻訳者ページ"
+
+msgid "Kickstarter"
+msgstr "Kickstarter"
+
+msgid "Save"
+msgstr "セーブ"
+
+msgid "Save Game"
+msgstr "セーブ"
+
+msgid "SLOT {0}"
+msgstr "スロット {0}"
+
+msgid "<EMPTY>"
+msgstr "<データ無し>"
+
+msgid "CORRUPTED"
+msgstr "破損"
+
+msgid "OBSOLETE"
+msgstr "古いデータ"
+
+msgid "Unknown Location"
+msgstr "不明な地点"
+
+msgid "Are you sure you want to overwrite this save file?"
+msgstr "このセーブファイルに上書きしますか？"
+
+msgid "Load"
+msgstr "ロード"
+
+msgid "Load Game"
+msgstr "ロード"
+
+msgid "Quit"
+msgstr "終了"
+
+msgid "Debug Room"
+msgstr "デバッグルーム"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Inventory"
+msgstr "インベントリ"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Objectives"
+msgstr "目標"
+
+msgid "(There are no objectives)"
+msgstr "(目標はありません)"
+
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+msgid "Log"
+msgstr "ログ"
+
+msgid "Extras"
+msgstr "エクストラ"
+
+msgid "Gallery"
+msgstr "ギャラリー"
+
+msgid "Credits"
+msgstr "クレジット"
+
+msgid "{0} Select {1} Back"
+msgstr "{0} 選択 {1} 戻る"
+
+msgid "Go to Debug Room"
+msgstr "デバッグルームへ行く"
+
+msgid "Quit to Title Screen"
+msgstr "タイトル画面に戻る"
+
+msgid "Quit to Desktop"
+msgstr "デスクトップに戻る"
+
+msgid "Are you sure you want to quit? Unsaved progress will be lost."
+msgstr "本当に終了しますか？　未保存の進行状況は失われます。"
+
+msgid "Game Paused!"
+msgstr "ゲームをポーズしました！"
+
+msgid "{0}{1} Select {2} Confirm"
+msgstr "{0}{1} 選択 {2} 確定"
+
+msgid "Coins: {0}"
+msgstr "コイン: {0}"
+
+msgid "Up"
+msgstr "上"
+
+msgid "Down"
+msgstr "下"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Action/OK"
+msgstr "アクション"
+
+msgctxt "system.actions.cancel"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Run"
+msgstr "ダッシュ"
+
+msgid "Special"
+msgstr "スペシャル"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Battery Saver Mode"
+msgstr "節電モード"
+
+msgid "Brightness"
+msgstr "明るさ"
+
+msgid "Contrast"
+msgstr "コントラスト"
+
+msgid "FPS Limit"
+msgstr "FPS上限"
+
+msgid "Unlocked"
+msgstr "無制限"
+
+msgid "V-Sync"
+msgstr "垂直同期"
+
+msgid "G-Sync"
+msgstr "G-Sync"
+
+msgid "Comp.V-Sync"
+msgstr "複合垂直同期"
+
+msgid "Full Screen"
+msgstr "全画面"
+
+msgid "Internal Resolution"
+msgstr "内部解像度"
+
+msgid "Gamma"
+msgstr "ガンマ"
+
+msgid "Renderer"
+msgstr "レンダラ"
+
+msgid "OpenGL ES 2.x"
+msgstr "OpenGL ES 2.x"
+
+msgid "OpenGL ES 3.x"
+msgstr "OpenGL ES 3.x"
+
+msgid "Resolution"
+msgstr "解像度"
+
+msgid "Window Size"
+msgstr "ウィンドウサイズ"
+
+msgid "Saturation"
+msgstr "彩度"
+
+msgid "General Volume"
+msgstr "全体音量"
+
+msgid "BGM Volume"
+msgstr "BGM音量"
+
+msgid "SFX Volume"
+msgstr "効果音音量"
+
+msgid "Interface Volume"
+msgstr "システム音量"
+
+msgid "Text Scrolling Volume"
+msgstr "文字送り音量"
+
+msgid "Mute All Audio"
+msgstr "ミュート"
+
+msgid "Hide Mouse Cursor"
+msgstr "カーソル非表示"
+
+msgid "Objective Notifications"
+msgstr "目標の通知"
+
+msgid "Sound Settings"
+msgstr "サウンド設定"
+
+msgid "Screen Settings"
+msgstr "画面設定"
+
+msgid "Control Settings"
+msgstr "操作設定"
+
+msgid "Invalid custom controls: All actions need to be assigned!"
+msgstr "無効なカスタム操作設定です: 割り当てていない操作があります！"
+
+msgid "Game Settings"
+msgstr "ゲーム設定"
+
+msgid "Profile"
+msgstr "プロファイル"
+
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+msgid "Classic"
+msgstr "クラシック"
+
+msgid "WASD"
+msgstr "WASD"
+
+msgid "Azerty Classic"
+msgstr "AZERTY クラシック"
+
+msgid "Azerty WASD"
+msgstr "AZERTY WASD"
+
+msgid "Dvorak Classic"
+msgstr "DVORAK クラシック"
+
+msgid "Dvorak WASD"
+msgstr "DVORAK WASD"
+
+msgid "Xbox"
+msgstr "Xbox"
+
+msgid "DualShock 4"
+msgstr "DualShock 4"
+
+msgid "DualShock 4 (JP)"
+msgstr "DualShock 4 (日本)"
+
+msgid "Switch Pro"
+msgstr "Switch Pro"
+
+msgid "Generic"
+msgstr "ジェネリック"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Press a key to assign to {0}..."
+msgstr "{0} に登録するキーを押してください……"
+
+msgid "Press a button to assign to {0}..."
+msgstr "{0} に登録するボタンを押してください……"
+
+msgid "Auto Switch"
+msgstr "自動切換"
+
+msgid "Controller Deadzone"
+msgstr "コントローラ無反応域"
+
+msgid "Advanced Settings"
+msgstr "高度な設定"
+
+msgid "Revert Settings to Default"
+msgstr "デフォルトに戻す"
+
+msgid "Not recommended"
+msgstr "非推奨"
+
+msgid "Restart required"
+msgstr "リスタートが必要です"
+
+msgid "Current: {0}"
+msgstr "現在: {0}"
+
+msgid "Hold to Fast Forward"
+msgstr "長押しで早送り"
+
+msgid "Show Skip Option"
+msgstr "スキップオプションを表示"
+
+msgid "Language Settings"
+msgstr "言語設定"
+
+msgid "Select Language"
+msgstr "言語を選択"
+
+msgid "Unofficial Translations"
+msgstr "非公式翻訳"
+
+msgid "More..."
+msgstr "その他"
+
+msgid ""
+"Attention!\n"
+"\n"
+"You're about to view unofficial translations. These translations are\n"
+"not developed by Leef 6010 and we take no responsibility for their accuracy.\n"
+"\n"
+"Proceed?"
+msgstr ""
+"注意！\n"
+"\n"
+"ここから先は非公式の翻訳です。これらの翻訳はLeef 6010が\n"
+"用意したものではなく、正確性に関して一切の責任を負いません。\n"
+"\n"
+"先へ進みますか？"
+
+msgid "Objectives Updated!"
+msgstr "目標が更新されました！"
+
+msgid "(Done)"
+msgstr "(完了)"
+
+msgid "{0} Give Up {1} Reset"
+msgstr "{0} ギブアップ  {1} リセット"
+
+msgid "{0} Slow"
+msgstr "{0} スロー"
+
+msgid "{0} Next"
+msgstr "{0} 次へ"
+
+msgid "{0} Okay"
+msgstr "{0} OK"
+
+msgid "Obtained {0} {1}"
+msgstr "{0} {1}を手に入れた"
+
+msgid "Designed By"
+msgstr "デザイン"
+
+msgid "Art"
+msgstr "アート"
+
+msgid "Programming"
+msgstr "プログラミング"
+
+msgid "Playtesting"
+msgstr "テストプレイ"
+
+msgid "Fonts"
+msgstr "フォント(英語版)"
+
+msgid "UI Design"
+msgstr "UIデザイン"
+
+msgid "Additional UI Design"
+msgstr "追加UIデザイン"
+
+msgid "Paper Lily Logo"
+msgstr "Paper Lily ロゴ"
+
+msgid "Paper Lily OST"
+msgstr "Paper Lily OST"
+
+msgid "Music"
+msgstr "音楽"
+
+msgid "Additional Music"
+msgstr "追加音楽"
+
+msgid "SFX"
+msgstr "効果音"
+
+msgid "Additional Shaders & Special Effects"
+msgstr "追加シェーダー＆特殊効果"
+
+msgid "Japanese Communications"
+msgstr "日本語コミュニケーション"
+
+msgid "Korean Communications"
+msgstr "韓国語コミュニケーション"
+
+msgid "Additional Assets"
+msgstr "追加アセット"
+
+msgid "Special Thanks"
+msgstr "スペシャルサンクス"
+
+msgid "Created By"
+msgstr "製作"
+
+msgid "Made Using"
+msgstr "使用エンジン"
+
+msgid "Godot Engine"
+msgstr "Godot Engine"
+
+msgid "Thank You for Playing!"
+msgstr "プレイしていただきありがとうございました！"
+
+msgid "You Died"
+msgstr "死んでしまった"
+
+msgid "Retry"
+msgstr "リトライ"
+
+msgid "Give Up"
+msgstr "ギブアップ"

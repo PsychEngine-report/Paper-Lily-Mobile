@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Prologue: School"
+msgstr "プロローグ: 学校"
+
+msgid "Prologue: Occult Club"
+msgstr "プロローグ: オカルト部"
+
+msgid "Prologue: Hallway of Doors"
+msgstr "プロローグ: 扉の回廊"
+
+msgid "Prologue: Into the Door"
+msgstr "プロローグ: 扉を抜けて"
+
+msgid "Paper Lily: Chapter 1"
+msgstr "Paper Lily: 第1章"
+
+msgid "Chapter 1: Home"
+msgstr "第1章: 家"
+
+msgid "Chapter 1: Home (Night)"
+msgstr "第1章: 家 (夜)"
+
+msgid "Chapter 1: Bus Stop"
+msgstr "第1章: バス停"
+
+msgid "Chapter 1: Forest"
+msgstr "第1章: 森"
+
+msgid "Chapter 1: Red's Treehouse"
+msgstr "第1章: レッドのツリーハウス"
+
+msgid "Chapter 1: Lakeside"
+msgstr "第1章: 湖畔"
+
+msgid "Chapter 1: Lavender Area"
+msgstr "第1章: ラベンダーの小道"
+
+msgid "Chapter 1: Facility"
+msgstr "第1章: 施設"
+
+msgid "Chapter 1: Miss Knives' Home"
+msgstr "第1章: ミス・ナイヴズの家"
+
+msgid "Paper Lily: Chapter 2"
+msgstr "Paper Lily: 第2章"

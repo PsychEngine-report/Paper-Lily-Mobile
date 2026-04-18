@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "(If I pass through there, that guy might see me...)"
+msgstr "(Se eu passar por lá, aquele cara pode me ver...)"
+
+msgid "(Um...)"
+msgstr "(Hum...)"
+
+msgid "(Did I adopt a stray?)"
+msgstr "(Eu adotei um vira-lata?)"
+
+msgid "Are you following me?"
+msgstr "Você esta me seguindo?"
+
+msgid "Yep."
+msgstr "Sim."
+
+msgid "We stand a better chance together, right?"
+msgstr "Temos mais chances juntos, certo?"
+
+msgid "Don't worry, I won't be dead weight."
+msgstr "Não se preocupe, não serei um peso morto."
+
+msgid "Well, unless I'm actually dead..."
+msgstr "Bem, a menos que eu esteja realmente morto..."
+
+msgid "But then you can just leave me there."
+msgstr "Mas então você pode simplesmente me deixar lá."
+
+msgid "..."
+msgstr "..."
+
+msgid "Look, you can just pretend I'm not here if you want."
+msgstr "Olha, você pode simplesmente fingir que não estou aqui, se quiser."
+
+msgid "See?"
+msgstr "Ver?"
+
+msgid "(That guy might still be waiting for me...)"
+msgstr "(Esse cara ainda pode estar esperando por mim...)"
+
+msgid "(Should I just return to where he is?)"
+msgstr "(Devo voltar para onde ele está?)"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "*Sigh*"
+msgstr "*Suspira*"
+
+msgid "Uhm..."
+msgstr "Uhm..."
+
+msgid "Huh? Oh... what's up?"
+msgstr "Huh? Ah... e aí?"
+
+msgid "There was nothing important in there, let's go."
+msgstr "Não havia nada de importante ali, vamos embora."
+
+msgid "Wait, how did you-"
+msgstr "Espere, como você-"
+
+msgid "Hurry up."
+msgstr "Se apresse."
+
+msgid "A gate. It's locked."
+msgstr "Um portão. Está trancado."
+
+msgid "A gate. There's probably no point in closing it."
+msgstr "Um portão. Provavelmente não faz sentido fechá-lo."
+
+msgid "The grate you kicked out of the way earlier."
+msgstr "A grade que você tirou do caminho antes."
+
+msgid "It's too high to reach."
+msgstr "É muito alto para alcançar."
+
+msgid "[color=#90EE90](Sai left the party.)[/color]"
+msgstr "[color=#90EE90](Sai saiu do grupo.)[/color]"

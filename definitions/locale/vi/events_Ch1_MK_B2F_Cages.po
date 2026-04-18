@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Oh great, I needed something to kill time."
+msgstr "Ngon, đang cần cái gì đó giết thời gian."
+
+msgid "You got a crayon too?"
+msgstr "Em có bút sáp luôn á?"
+
+msgid "It's not for you."
+msgstr "Không phải cho anh."
+
+msgid "What!?"
+msgstr "Hả!?"
+
+msgid "You about to start cleaning in here?"
+msgstr "Em sắp sửa bắt đầu lau dọn ở đây à?"
+
+msgid "What the hell are you waving that foot around for!?"
+msgstr "Em vung vẩy cái chân đó làm cái quái gì thế!?"
+
+msgid "Did you cut it..?"
+msgstr "Là em cắt ra à...?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_foot_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I had to."
+msgstr "Buộc phải cắt ra."
+
+msgid "Mhmmm..."
+msgstr "Hừmmm..."
+
+msgid "It's true."
+msgstr "Thật đấy."
+
+msgid "Yeah..."
+msgstr "Ừ ừ..."
+
+msgid "It's a jar."
+msgstr "Là cái hũ."
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_jar_on_sai.dlg.lacie"
+msgid "Yes."
+msgstr "Ừ."
+
+msgid "It's empty."
+msgstr "Cái hũ nó rỗng."
+
+msgid "...Yes."
+msgstr "...Ừ."
+
+msgid "Why are you showing it to me?"
+msgstr "Em cho tôi coi cái này là vì sao?"
+
+msgid "Just wanted to see if you had any wise comments to make."
+msgstr "Muốn xem liệu anh có bình luận khôn ngoan nào để đưa ra hay không."
+
+msgid "It seems you don't."
+msgstr "Xem ra anh không có."
+
+msgid "H-Hey!"
+msgstr "Ê-Này!"
+
+msgid "The key fits!"
+msgstr "Chìa khít rồi!"
+
+msgid "Thanks!"
+msgstr "Cám ơn!"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_key_correct_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "(Sai đã nhập bọn.)"
+
+msgid "This cage doesn't have a keyhole."
+msgstr "Cái lồng này không có lỗ khóa."
+
+msgid "The key does not fit."
+msgstr "Chìa không khít."
+
+msgid "Um... could you..."
+msgstr "Ừm... anh... ấy được không..."
+
+msgid "What? You didn't even help me out of here and you want me to cut myself?"
+msgstr "Cái gì? Em còn không giúp tôi ra khỏi lồng đây rồi lại muốn tôi rạch chính mình à?"
+
+msgid "Is this how you make friends?"
+msgstr "Em kết bạn kiểu này á?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_knife_blk_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "(Joke's on you... I don't make friends.)"
+msgstr "(Đùa hớ rồi ông anh... tôi không có kết bạn.)"
+
+msgid "That's not gonna cut through this cage."
+msgstr "Cái đó không cắt nổi được cái lồng này đâu."
+
+msgid "Are you sure you're not a pyromaniac?"
+msgstr "Em chắc mình không mắc chứng cuồng phóng hỏa đấy chứ?"
+
+msgid "I won't judge, really."
+msgstr "Tôi không phán xét đâu, thật đấy."
+
+msgid "...I'm not."
+msgstr "...Không phải."
+
+msgid "I found this, but I don't know how to use it."
+msgstr "Tôi kiếm ra cái này, mà không biết xài thế nào."
+
+msgid "Can you pick your own lock or something?"
+msgstr "Anh tự cạy khóa hay gì được không?"
+
+msgid "Sure can!"
+msgstr "Chắc chắn là được!"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_lockpick_on_sai.dlg.narrator"
+msgid "(Sai joined your party.)"
+msgstr "(Sai đã nhập bọn.)"
+
+msgid "I still look pretty good, all things considered."
+msgstr "Soi đi soi lại thấy tôi vẫn trông rất là bảnh."
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_mirror_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "So you had time to manually craft paint, but not to get me out of here?"
+msgstr "Thế là em có thời gian tự tay chế màu vẽ, mà lại không đưa tôi ra khỏi đây à?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.item_paint_on_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Correct."
+msgstr "Chính xác."
+
+msgid "A large cage."
+msgstr "Cái lồng lớn."
+
+msgid "A large cage hangs from the ceiling."
+msgstr "Cái lồng lớn treo từ trần phòng."
+
+msgid "A small cage housing a crow."
+msgstr "Cái lồng nhỏ đang trú con quạ."
+
+msgid "How cruel, locking up a bird like this."
+msgstr "Nhốt con quạ lại thế này, tàn nhẫn quá."
+
+msgid "...Or is it just a regular pet?"
+msgstr "...Hay đây chỉ là vật nuôi bình thường thôi nhỉ?"
+
+msgid "(There doesn't seem to be any way to free the bird.)"
+msgstr "(Có vẻ không có cách nào để giải thoát con chim cả.)"
+
+msgid "The crow is dead."
+msgstr "Con quạ chết rồi."
+
+msgid "Aw crap. The knives lady must have been in here."
+msgstr "Vãi. Bà chị dao vào đây rồi."
+
+msgid "How do you know?"
+msgstr "Làm sao anh biết?"
+
+msgid "Well, in my experience, birds don't just combust."
+msgstr "Thì, theo kinh nghiệm tôi, chim đâu có tự nhiên bị \"bụp\"."
+
+msgid "A small cage. It's empty."
+msgstr "Cái lồng nhỏ. Nó trống không."
+
+msgid "The cage you were trapped in."
+msgstr "Cái lồng mà bạn bị nhốt hồi nãy."
+
+msgid "It's closed from all sides, so it's impossible to get inside."
+msgstr "Bốn bề đều bị đóng cả, nên vào bên trong là điều không thể."
+
+msgid "Let's be careful so I don't end up back in there."
+msgstr "Cẩn thận đừng để bị chui vào lại trong đây thôi."
+
+msgid "So how'd you... get out?"
+msgstr "Thế em thoát ra... thế nào vậy?"
+
+msgid "I'm not sure."
+msgstr "Tôi không rõ."
+
+msgid "You were here, didn't you see it?"
+msgstr "Anh ở đây mà lại không thấy sao?"
+
+msgid "I wasn't paying attention."
+msgstr "Tôi không để ý."
+
+msgid "Good job getting out of that."
+msgstr "Giỏi lắm, ra được khỏi đó rồi em ơi."
+
+msgid "I didn't get to see what you did, but you must be really good at passing through solid steel bars."
+msgstr "Không thấy được em làm cái gì, nhưng mà lách được qua mấy mấy cái chấn song thép cứng thì em phải là giỏi lắm luôn ấy."
+
+msgid "Thanks."
+msgstr "Cám ơn."
+
+msgid "Looks like you're in a bind yourself."
+msgstr "Xem ra chính anh cũng bí bách rồi nhỉ."
+
+msgid "(If he was a demon, he could've just used his powers to escape... right?)"
+msgstr "(Nếu ảnh là quỷ thì cứ dùng sức mạnh của mình để thoát ra là được... đúng không?)"
+
+msgid "(Or maybe he just doesn't care...?)"
+msgstr "(Hay là có khi ảnh chả thèm để ý...?)"
+
+msgid "Listen, you probably shouldn't stay here."
+msgstr "Nghe nè, chắc là em không nên đứng đây đâu."
+
+msgid "If that monster lady heard the noise you made and comes to check, you'll be in trouble, you know?"
+msgstr "Lỡ tiếng ồn em gây ra bà chị quỷ kia nghe thấy rồi tới kiểm tra là em không xong đâu biết không?"
+
+msgid "Hmm... you're right."
+msgstr "Hừm... anh nói đúng."
+
+msgid "Well, see you."
+msgstr "Vậy thì tạm biệt anh."
+
+msgid "Where are you going?"
+msgstr "Em định đi đâu?"
+
+msgid "I'm going to look around a bit."
+msgstr "Tôi định đi nhìn loanh quanh một tí."
+
+msgid "...and...?"
+msgstr "...rồi...?"
+
+msgid "I should try to find an exit too."
+msgstr "Cũng đi thử tìm lối thoát nữa."
+
+msgid "...And nothing else...?"
+msgstr "...Rồi không có gì khác à...?"
+
+msgid "...?"
+msgstr "...?"
+
+msgid "Are you serious? Get me out of here!"
+msgstr "Giỡn thiệt trời? Cứu tôi ra khỏi đây đi!"
+
+msgid "Ah, of course."
+msgstr "À, phải ha."
+
+msgid "Sure, I'll try."
+msgstr "Hẳn rồi, để tôi thử coi."
+
+msgid "...Alright."
+msgstr "...Được rồi."
+
+msgid "I lost all my items..."
+msgstr "Tôi mất hết đồ đạc rồi..."
+
+msgid "Do you still have your belongings?"
+msgstr "Anh còn giữ đồ của anh không?"
+
+msgid "My stuff? It's all gone."
+msgstr "Đồ của tôi hả? Biến đi luôn rồi."
+
+msgid "I guess the demon lady took it."
+msgstr "Chắc là quý bà quỷ đấy lấy."
+
+msgid "I see..."
+msgstr "Ra là thế..."
+
+msgid "(That's really bad. I can't go back home without my things.)"
+msgstr "(Thế là tệ thật rồi. Mình không có đồ đó thì không thể về nhà được.)"
+
+msgid "You're back."
+msgstr "Về rồi nhỉ."
+
+msgid "Any clues?"
+msgstr "Có manh mối gì không?"
+
+msgid "Yeah, I spoke to a spider."
+msgstr "Có, tôi có nói chuyện với một con nhện."
+
+msgid "You spoke to a spider...?"
+msgstr "Em nói chuyện với nhện á...?"
+
+msgid "And did the spider speak back?"
+msgstr "Rồi con nhện đó nó nói chuyện lại?"
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "Yes."
+msgstr "Ừ."
+
+msgid "Ok, that's kinda intriguing."
+msgstr "Được, nghe có phần hưng hứng rồi đó."
+
+msgid "He told me what to do to get out of here."
+msgstr "Ổng nói tôi việc cần làm để thoát ra khỏi đây."
+
+msgid "Really?"
+msgstr "Thật à?"
+
+msgid "Yes. I'll take care of it."
+msgstr "Thật. Tôi sẽ lo liệu cho."
+
+msgid "Aaaalright."
+msgstr "Đưượơc thôi."
+
+msgid "I'll just... be here."
+msgstr "Tôi thì cứ... ở đây vậy."
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.sai"
+msgid "..."
+msgstr "..."
+
+msgctxt "events.Ch1_MK_B2F_Cages.misc_cage_sai.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Well, see you later."
+msgstr "Thôi, gặp lại anh sau."
+
+msgid "Got it."
+msgstr "Rồi."
+
+msgid "If you want a lollipop I have more."
+msgstr "Nếu em muốn kẹo mút tôi có nữa nè."
+
+msgid "No thank you."
+msgstr "Thôi cảm ơn."
+
+msgid "Be careful out there."
+msgstr "Ngoài đó cẩn thận nhé."
+
+msgid "The cage Sai was in."
+msgstr "Cái lồng mà Sai ở trong."
+
+msgid "Sai isn't here anymore."
+msgstr "Sai không có ở đây nữa."
+
+msgid "Hey hey... are you just gonna leave...?"
+msgstr "Ê ê... em cứ thế mà đi à...?"
+
+msgid "Wait."
+msgstr "Từ từ."
+
+msgid "Hm?"
+msgstr "Hửm?"
+
+msgid "What did you try to buy?"
+msgstr "Lúc đó em tính đi mua cái gì đấy?"
+
+msgid "...What?"
+msgstr "...Hả?"
+
+msgid "You said you tried to buy something at the store today."
+msgstr "Em nói hôm nay em cố gắng ra tiệm mua cái gì đó mà."
+
+msgid "...Why are you asking this now, of all times?"
+msgstr "...Tại sao lại là lúc này mà không phải lúc khác mà hỏi vậy?"
+
+msgid "Just curious."
+msgstr "Tò mò tí thôi."
+
+msgid "...It was just a flan."
+msgstr "...Mua bánh flan thôi."
+
+msgid "...It was just some macarons."
+msgstr "...Mua bánh macaron thôi."
+
+msgid "...It was just a chocolate eclair."
+msgstr "...Mua ecláir sô-cô-la thôi."
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.sai"
+msgid "Huh."
+msgstr "Hử."
+
+msgid "So you like flan?"
+msgstr "Thế là em thích bánh flan à?"
+
+msgid "So you like macarons?"
+msgstr "Thế là em thích bánh macaron à?"
+
+msgid "Do you like eclairs? Chocolate only?"
+msgstr "Thế là em thích ecláir? Vị sô-cô-la thôi à?"
+
+msgid "Is this really the time to have this discussion?"
+msgstr "Đây có phải lúc thảo luận chuyện đấy không?"
+
+msgid "When else? I'm bored now, not later."
+msgstr "Khi nào nữa? Tôi chán ngắt rồi, nói luôn đi."
+
+msgid "It's not like I have much to think about in this cage."
+msgstr "Ở trong cái lồng này tôi cũng chẳng có mấy khác mà suy nghĩ đâu."
+
+msgid "...I'm leaving."
+msgstr "...Tôi đi ra đây."
+
+msgid "Wait, at least tell me your name, and I'll leave you in peace!"
+msgstr "Từ từ, ít nhất nói cho tôi biết tên em cái nào, rồi tôi để em thanh thản cho!"
+
+msgid "...Sigh."
+msgstr "...Hầy."
+
+msgid "It's Lacie."
+msgstr "Tên là Lacie."
+
+msgid "Will that be all?"
+msgstr "Thế là xong chưa?"
+
+msgid "Yeah!"
+msgstr "Xong rồi!"
+
+msgid "I'll be going then."
+msgstr "Vậy tôi đi đây."
+
+msgid "Good luck, try not to get killed."
+msgstr "Chúc may mắn, đừng để bị diệt nhé."
+
+msgid "...Mhm."
+msgstr "...Mhừm."
+
+msgctxt "events.Ch1_MK_B2F_Cages.move_exit.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "I'm not sure where I am right now..."
+msgstr "Mình không rõ giờ mình đang ở đâu..."
+
+msgid "But, all I have to do is find the exit without running into that monster."
+msgstr "Nhưng mà suy cho cùng là phải tìm được lối ra mà không bị đụng phải bà quái vật đó."
+
+msgid "...Or should I help that guy first?"
+msgstr "...Hay là nên giúp cái anh kia trước nhỉ?"
+
+msgid "Um, so..."
+msgstr "Ừm, thế là..."
+
+msgid "The knives lady was here."
+msgstr "Bà chị dao đã ở đây."
+
+msgid "She pulverized that bird."
+msgstr "Bả giã nát con chim đó rồi."
+
+msgctxt "events.Ch1_MK_B2F_Cages.on_enter_sai_crow_react.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "It was crazy, I thought I was toast."
+msgstr "Điên thật, tôi tưởng tôi toang luôn chứ."
+
+msgid "Where did she go after?"
+msgstr "Bà chị đó đi lùng nơi đâu rồi?"
+
+msgid "No clue."
+msgstr "Chả biết nữa."

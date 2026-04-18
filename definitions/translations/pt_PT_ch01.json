@@ -1,0 +1,17 @@
+{
+	"Locale": "pt_PT",
+	"Name": "Português (Portugal) - by Tea Party",
+	"Credit": "Translated by Tea Party",
+	"Website": "https://teapartyprojecttraducoes.tumblr.com/",
+	"Path": "pt_PT_ch01",
+	"Disclaimer": true,
+	"UseContext": false,
+	"ResourceRemaps": {
+		"res://assets/img/cg/ch1/facility_map_1.png": "res://translation-resources/pt_PT_ch01/facility_map_1.png",
+		"res://assets/img/cg/ch1/facility_map_2.png": "res://translation-resources/pt_PT_ch01/facility_map_2.png"
+	},
+	"Compatibility": [
+		"Lacie Engine",
+		"Paper Lily Chapter 1"
+	]
+}

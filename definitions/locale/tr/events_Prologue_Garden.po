@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The flower sank into the water."
+msgstr "Çiçek suya battı"
+
+msgid "Pity."
+msgstr "Yazık."
+
+msgid "You thought that would work?"
+msgstr "Bunun işe yarayacağını mı düşündün?"
+
+msgid "You should be more careful about the decisions you make."
+msgstr "Alacağın kararlarda daha dikkatli olmalısın."
+
+msgid "The solution may seem obvious, but..."
+msgstr "Çözüm açık gibi görünebilir ama..."
+
+msgid "THERE IS ALWAYS ANOTHER WAY"
+msgstr "HER ZAMAN BAŞKA BİR YOLU VARDIR"
+
+msgid "You may not notice it right away, but your actions will have an impact sooner or later."
+msgstr "Bunu hemen fark etmeyebilirsin, ancak eylemlerin er ya da geç bir etki yaratacaktır."
+
+msgid "You may not even remember what you did to cause it."
+msgstr "Buna neden olacak ne yaptığını hatırlamayabilirsin bile."
+
+msgid "Sadly, regret is always in the shadow of choice."
+msgstr "Ne yazık ki pişmanlık her zaman seçimin gölgesindedir."
+
+msgid "Also, you know very well this isn't your home."
+msgstr "Ayrıca burasının senin evin olmadığını çok iyi biliyorsun."
+
+msgid "So why do you mess with things that don't belong to you?"
+msgstr "Peki sana ait olmayan şeylere neden bulaşıyorsun?"
+
+msgid "YOU'RE NOT WELCOME HERE"
+msgstr "BURADA HOŞ KARŞILANMIYORSUN"
+
+msgid "Look."
+msgstr "Bak."
+
+msgid "This is the result of your actions."
+msgstr "Bu, eylemlerinin sonucu."
+
+msgid "The result of your expectations."
+msgstr "Beklentilerinin sonucu."
+
+msgid "Things are not always what they seem."
+msgstr "Bazı şeyler her zaman göründüğü gibi değildir."
+
+msgid "What do you think?"
+msgstr "Ne düşünüyorsun?"
+
+msgid "Does this still look like a flower to you?"
+msgstr "Bu hâlâ sana bir çiçek gibi mi görünüyor?"
+
+msgid "You're not prepared to deal with the truth."
+msgstr "Gerçekle yüzleşmeye hazır değilsin."
+
+msgid "Are you?"
+msgstr "Öyle misin?"
+
+msgid "I can't stop you from coming here."
+msgstr "Buraya gelmeni engelleyemem."
+
+msgid "But if you're foolish enough to cross my path,"
+msgstr "Ama eğer yoluma çıkacak kadar aptalsan,"
+
+msgid "I'LL KILL YOU MYSELF"
+msgstr "SENİ KENDİM ÖLDÜRÜRÜM"
+
+msgctxt "events.Prologue_Garden.event_bad_solution.dlg.narrator"
+msgid "...such is the way of our world."
+msgstr "...bizim dünyamızın işleyişi budur."
+
+msgid "..."
+msgstr "..."
+
+msgid "The door opened!"
+msgstr "Kapı açıldı!"
+
+msgid "Fascinating."
+msgstr "Büyüleyici."
+
+msgid "You've done the opposite of what I expected."
+msgstr "Beklediğimin tam tersini yaptın."
+
+msgid "A delightful surprise."
+msgstr "Hoş bir sürpriz."
+
+msgid "How did you know, I wonder?"
+msgstr "Merak ediyorum, nasıl bildin?"
+
+msgid "Perhaps you're different."
+msgstr "Belki sen farklısındır."
+
+msgid "Or perhaps..."
+msgstr "Ya da belki de..."
+
+msgid "...you cheated?"
+msgstr "...hile yaptın?"
+
+msgid "How odd."
+msgstr "Ne garip."
+
+msgid "Regardless, I advise you not to mess with things that don't belong to you."
+msgstr "Ne olursa olsun sana ait olmayan şeylere bulaşmamanı tavsiye ederim."
+
+msgid "It's not safe for you."
+msgstr "Senin için güvenli değil."
+
+msgid "As you already know, in this place..."
+msgstr "Zaten bildiğiniz gibi, bu yerde..."
+
+msgid "THINGS ARE NOT ALWAYS WHAT THEY SEEM"
+msgstr "BAZI ŞEYLER HER ZAMAN GÖRÜNDÜĞÜ GİBİ DEĞİLDİR"
+
+msgid "The answers you're looking for are not yours to take,"
+msgstr "Aradığınız cevaplar size ait değil,"
+
+msgid "You're not ready to learn the truth..."
+msgstr "Gerçeği öğrenmeye hazır değilsin..."
+
+msgid "...and the truth is not willing to be learned by you."
+msgstr "...ve gerçek senin tarafından öğrenilmeye istekli değil."
+
+msgid "I can't stop you from coming."
+msgstr "Gelmene engel olamam."
+
+msgid "Just know that if you do,"
+msgstr "Sadece şunu bil ki, eğer yaparsan,"
+
+msgid "YOU WILL BE KILLED"
+msgstr "ÖLDÜRÜLECEKSİN"
+
+msgctxt "events.Prologue_Garden.event_good_solution.dlg.narrator"
+msgid "...such is the way of our world."
+msgstr "...bizim dünyamızın işleyişi budur."
+
+msgid "The building ahead seems locked somehow."
+msgstr "İlerideki bina bir şekilde kilitli görünüyor."
+
+msgid "There's a white flower on the ground."
+msgstr "Yerde beyaz bir çiçek var."
+
+msgid "Take Flower?"
+msgstr "Çiçeği al?"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_get.choice.Take Flower?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_get.choice.Take Flower?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase1.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Orada zaten bir çiçek var."
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase2.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Orada zaten bir çiçek var."
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase3.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Orada zaten bir çiçek var."
+
+msgctxt "events.Prologue_Garden.item_bad_flower_on_vase4.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Orada zaten bir çiçek var."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase1.dlg.narrator"
+msgid "The light turned green."
+msgstr "Işık yeşile döndü."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase1.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Orada zaten bir çiçek var."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase2.dlg.narrator"
+msgid "The light turned green."
+msgstr "Işık yeşile döndü."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase2.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Orada zaten bir çiçek var."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase3.dlg.narrator"
+msgid "The light turned green."
+msgstr "Işık yeşile döndü."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase3.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Orada zaten bir çiçek var."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase4.dlg.narrator"
+msgid "The light turned green."
+msgstr "Işık yeşile döndü."
+
+msgctxt "events.Prologue_Garden.item_flower_on_vase4.dlg.narrator"
+msgid "There's already a flower there."
+msgstr "Orada zaten bir çiçek var."
+
+msgid "A door with 4 colored lights."
+msgstr "4 renkli ışıklı bir kapı."
+
+msgid "It's locked."
+msgstr "Kilitli."
+
+msgid "A small building adorned with flowers."
+msgstr "Çiçeklerle süslenmiş küçük bir bina."
+
+msgid "A tree with pink flowers."
+msgstr "Pembe çiçekli bir ağaç."
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "İçinde beyaz bir çiçek olan büyük bir çiçek vazosu."
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice"
+msgid "Take out the flower?"
+msgstr "Çiçeği çıkar?"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Take out the flower?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Take out the flower?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "The green light turned red."
+msgstr "Yeşil ışık kırmızıya döndü."
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice"
+msgid "Put the flower back in?"
+msgstr "Çiçeği geri koy?"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Garden.misc_vase1.choice.Put the flower back in?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "The light turned back green."
+msgstr "Işık tekrar yeşile döndü."
+
+msgctxt "events.Prologue_Garden.misc_vase1.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "Büyük bir çiçek vazosu. Çiçek kayıp."
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "İçinde beyaz bir çiçek olan büyük bir çiçek vazosu."
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice"
+msgid "Take out the flower?"
+msgstr "Çiçeği çıkar?"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Take out the flower?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Take out the flower?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "The green light turned red."
+msgstr "Yeşil ışık kırmızıya döndü."
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice"
+msgid "Put the flower back in?"
+msgstr "Çiçeği geri koy?"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Garden.misc_vase2.choice.Put the flower back in?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "The light turned back green."
+msgstr "Işık tekrar yeşile döndü."
+
+msgctxt "events.Prologue_Garden.misc_vase2.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "Büyük bir çiçek vazosu. Çiçek kayıp."
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "A big flower vase with a white flower in it."
+msgstr "İçinde beyaz bir çiçek olan büyük bir çiçek vazosu."
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice"
+msgid "Take out the flower?"
+msgstr "Çiçeği çıkar?"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Take out the flower?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Take out the flower?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "The green light turned red."
+msgstr "Yeşil ışık kırmızıya döndü."
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice"
+msgid "Put the flower back in?"
+msgstr "Çiçeği geri koy?"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Put the flower back in?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Garden.misc_vase3.choice.Put the flower back in?"
+msgid "No"
+msgstr "Hayır"
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "The light turned back green."
+msgstr "Işık tekrar yeşile döndü."
+
+msgctxt "events.Prologue_Garden.misc_vase3.dlg.narrator"
+msgid "A big flower vase. The flower is missing."
+msgstr "Büyük bir çiçek vazosu. Çiçek kayıp."
+
+msgid "A big flower vase. Unlike the others, this one has no flower."
+msgstr "Büyük bir çiçek vazosu. Diğerlerinden farklı olarak bunun çiçeği yok."
+
+msgid "A big flower vase. I placed a flower inside."
+msgstr "Büyük bir çiçek vazosu. İçine çiçek koydum."
+
+msgid "Take it out?"
+msgstr "Çıkar?"
+
+msgctxt "events.Prologue_Garden.misc_vase4.choice.Take it out?"
+msgid "Yes"
+msgstr "Evet"
+
+msgctxt "events.Prologue_Garden.misc_vase4.choice.Take it out?"
+msgid "No"
+msgstr "Hayır"
+
+msgid "The light turned back red."
+msgstr "Işık tekrar kırmızıya döndü."
+
+msgid "Some large windows. You can't see what's inside."
+msgstr "Bazı büyük pencereler. İçeride ne olduğunu göremezsin."

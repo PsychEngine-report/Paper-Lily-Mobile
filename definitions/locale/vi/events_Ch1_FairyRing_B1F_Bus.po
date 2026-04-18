@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This is so fun, I haven't waited for the bus in ages!"
+msgstr "Vui ghê, lâu rồi tớ không chờ xe buýt đó!"
+
+msgid "(There's nothing fun in waiting for the bus...)"
+msgstr "(Đứng chờ xe buýt chả có gì vui cả...)"
+
+msgid "Anyways, you know how fairy rings gradually expand and cover more area?"
+msgstr "Mà, cậu biết vòng yêu tinh dần dần bành trướng rồi chiếm nhiều khu vực hơn thế nào không?"
+
+msgid "I hear once they eat enough, they kinda open up and swallow the surface!"
+msgstr "Nghe nói một khi bọn nó ăn đủ rồi thì kiểu là mở toang ra nuốt trọn mặt đất luôn!"
+
+msgid "So when that happened, one of them swallowed the station and a whole bus."
+msgstr "Nên là hồi trước có một cái nó nuốt cái trạm dừng cùng nguyên cái xe buýt."
+
+msgid "(Apparently Glen was really unhappy so they destroyed most of the fairy rings.)"
+msgstr "(Hình như sau vụ đó Glen bực lắm nên đã tiêu diệt gần hết vòng yêu tinh rồi.)"
+
+msgid "(Glen?)"
+msgstr "(Glen?)"
+
+msgid "Wait... why don't they just destroy all of them?"
+msgstr "Từ từ... thế sao không tiêu diệt hết luôn đi cho rồi?"
+
+msgid "I dunno."
+msgstr "Không biết nữa."
+
+msgid "They usually remove some of them, every few years..."
+msgstr "Thường mỗi vài năm là y loại bỏ vài cái vòng..."
+
+msgid "...Now that you mention it, I'm not sure why they don't just remove them all."
+msgstr "...Mà giờ cậu nói mới thấy, không rõ sao lại không loại bỏ hết chúng cho rồi."
+
+msgid "Maybe it's too much work to remove the fairy rings..?"
+msgstr "Có khi loại bỏ hết vòng yêu tinh thì lại cực công quá...?"
+
+msgid "Hmm... I wonder..."
+msgstr "Hừm... không biết sao ta..."
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "Oh I know!"
+msgstr "Ồ tớ biết rồi!"
+
+msgid "Maybe there's something even more terrible underneath, so they're using the fairy rings to seal it away!"
+msgstr "Có khi phía dưới có cái gì đó còn khủng khiếp hơn nên y mới cần dùng vòng yêu tinh để phong ấn lại!"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.chr_aoi.dlg.aoi"
+msgid "..."
+msgstr "..."
+
+msgid "No, that can't be it."
+msgstr "Không, làm gì có chuyện."
+
+msgid "I'll keep thinking."
+msgstr "Tớ suy nghĩ tiếp vậy."
+
+msgid "Aoi is thinking."
+msgstr "Aoi đang suy nghĩ."
+
+msgid "Hm?"
+msgstr "Hửm?"
+
+msgid "Is that...the bus stop?"
+msgstr "Này là... trạm dừng xe buýt à?"
+
+msgid "Not the current one."
+msgstr "Không phải cái hiện giờ đâu."
+
+msgid "But we must be right under the current one."
+msgstr "Mà tụi mình chắc phải ngay bên dưới cái hiện giờ."
+
+msgid "Wow, we sure walked a long way!"
+msgstr "Oa, mình đi được xa ơi là xa luôn!"
+
+msgid "(Did I walk all the way back to where I started...!?)"
+msgstr "(Mình đi bộ về tít chỗ mình bắt đầu rồi à...!?)"
+
+msgid "So... what brings you here?"
+msgstr "Thế... cớ sao cậu ở đây vậy?"
+
+msgid "What brings me... down here?"
+msgstr "Cớ sao tôi... xuống đây á?"
+
+msgid "I stepped into the fairy ring."
+msgstr "Tôi bước vào trong vòng yêu tinh."
+
+msgid "Ah. Right."
+msgstr "À. Đúng rồi."
+
+msgid "Classic."
+msgstr "Kinh điển ghê."
+
+msgid "I also stepped into it."
+msgstr "Tớ cũng bước vào trong nó đó."
+
+msgid "Yes, of course."
+msgstr "Vâng, tất nhiên rồi."
+
+msgid "So what brings you to these parts of the forest?"
+msgstr "Thế cớ sao cậu lại tới mấy nơi này trong rừng vậy?"
+
+msgid "Um..."
+msgstr "Ờm..."
+
+msgid "(Actually, I wonder if they can they tell I'm human?)"
+msgstr "(Thực ra không biết cậu ta có nhận ra được mình là con người không ta?)"
+
+msgid "(It's best not to say anything about that...)"
+msgstr "(Tốt nhất là không nói gì chuyện mình ra...)"
+
+msgid "I'm looking for a lighthouse."
+msgstr "Tôi đang đi tìm một cái nhà hải đăng."
+
+msgid "Ooh."
+msgstr "Ồồ."
+
+msgid "What for?"
+msgstr "Để làm gì thế?"
+
+msgid "Meeting... someone..?"
+msgstr "Tại có người tôi cần... gặp...?"
+
+msgid "(Aoi definitely can't help me with my problem... this is basically a child we're talking about.)"
+msgstr "(Aoi rõ ràng chả giải quyết được vấn đề của mình rồi... có khác gì con nít đâu cơ chứ.)"
+
+msgid "(So there's no point in elaborating much, I think.)"
+msgstr "(Thành thử thấy kể rõ ra chả có nghĩa lý gì mấy.)"
+
+msgid "I'm just looking for someone to help me with a problem."
+msgstr "Tôi đang đi tìm người để giúp đỡ vấn đề thôi."
+
+msgid "Someone like a doctor? Or like an assassin?"
+msgstr "Kiểu là tìm bác sĩ hả? Hay là tìm sát thủ?"
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "....."
+msgstr "....."
+
+msgid "...Probably more like a doctor, I guess."
+msgstr "...Chắc là kiểu giống tìm bác sĩ hơn."
+
+msgid "Oh... are you sick, Lacie?"
+msgstr "Ồ... Lacie bị bệnh à?"
+
+msgid "No, It's nothing serious, probably."
+msgstr "Không, chả có nghiêm trọng mấy đâu."
+
+msgid "I guess I'll be able to tell once I meet them."
+msgstr "Chắc để tôi gặp người đó rồi tôi mới nói ra được."
+
+msgid "Ooh!"
+msgstr "Ồồ!"
+
+msgid "I had a friend I used to meet all the time!"
+msgstr "Trước tớ có người bạn tớ từng hay gặp lắm!"
+
+msgid "But it wasn't at a lighthouse, it was..."
+msgstr "Nhưng mà không phải ở nhà hải đăng, mà là..."
+
+msgid "But..."
+msgstr "Cơ mà..."
+
+msgid "...It was in the supply closet..."
+msgstr "...là ở trong phòng chứa đồ..."
+
+msgid "...in secret..."
+msgstr "...trong âm thầm..."
+
+msgid "???"
+msgstr "???"
+
+msgid "...But then they died."
+msgstr "...Nhưng mà rồi cậu ấy chết."
+
+msgctxt "events.Ch1_FairyRing_B1F_Bus.event_walk_2.dlg.lacie"
+msgid "..."
+msgstr "..."
+
+msgid "And now I'll die too....."
+msgstr "Và giờ tớ cũng sẽ chết..."
+
+msgid "W-what brings YOU to the forest?"
+msgstr "T-tại sao CẬU lại tới khu rừng đây thế?"
+
+msgid "Oh, I'm on vacation!"
+msgstr "Ồ, tớ đang đi nghỉ lễ!"
+
+msgid "Oh, that's nice."
+msgstr "Ồ, hay thế."
+
+msgid "(Phew...)"
+msgstr "(Phù...)"
+
+msgid "That looks heavy..."
+msgstr "Cái đó trông nặng ghê..."
+
+msgid "You're prepared for anything, aren't you?"
+msgstr "Đúng là cái gì cậu cũng chuẩn bị cả nhỉ?"
+
+msgid "I also like bug-catching!"
+msgstr "Tớ cũng thích bắt côn trùng nè!"
+
+msgid "The small ones, at least..."
+msgstr "Chí ít thì mấy con nhỏ thôi..."
+
+msgid "What's that?"
+msgstr "Cái đó là gì á?"
+
+msgid "Hmm... I'll show you someday."
+msgstr "Hừm... Bữa nào tôi chỉ cho."
+
+msgid "Aww... alright."
+msgstr "Aàu... được được."
+
+msgid "You'll show Aoi someday. Maybe."
+msgstr "Bữa nào đó bạn sẽ bày cho Aoi. Có khi."
+
+msgid "Are you tired?"
+msgstr "Cậu mệt rồi à?"
+
+msgid "There's a bench right there, I guess."
+msgstr "Ngay đây chắc là có cái ghế băng nè."
+
+msgid "I give it at least 10 more years before it will be fully swallowed!"
+msgstr "Tớ ước chừng ít nhất phải 10 năm nữa nó mới bị xơi hết!"
+
+msgid "Oh, I also have one of those!"
+msgstr "Ồ, tớ cũng có một cái này nè!"
+
+msgid "I heard they taste great, but I'm afraid to try them since they're poisonous and all..."
+msgstr "Nghe nói nếm ngon tuyệt luôn, mà tớ sợ không dám thử do món này nó còn có độc nữa ấy..."
+
+msgid "Or... are you suggesting something???"
+msgstr "Hay là... cậu đang ám chỉ gì???"
+
+msgid "(Best not to spoil Aoi too much.)"
+msgstr "(Tốt nhất không nên chiều hư Aoi quá.)"
+
+msgid "Aww! Thanks!"
+msgstr "Auu! Cám ơn nha!"
+
+msgid "It's good that you have a light, in case it gets dark in here."
+msgstr "Cậu có nguồn sáng là tốt quá, nhỡ chỗ này có bị tối."
+
+msgid "I really hope it doesn't..."
+msgstr "Cầu mong thật là đừng có xảy ra..."
+
+msgid "Ah... those rocks..."
+msgstr "À... mấy cục đá đó..."
+
+msgid "Sorry, I don't know what those do... You can keep it."
+msgstr "Xin lỗi, tớ không biết mấy cái này để làm gì... Cậu cứ giữ đi."
+
+msgid "Oh oh, are we cooking something?"
+msgstr "Ồ ồ, mình nấu món gì đây á?"
+
+msgid "No, this is for self-defense."
+msgstr "Không, cái này là để tự vệ."
+
+msgid "?????"
+msgstr "?????"
+
+msgid "Y-yes... I'll cut it off..."
+msgstr "Ừ-ừ... Tớ sẽ cắt lời ngay..."
+
+msgid "I'm sorry..."
+msgstr "Tớ xin lỗi..."
+
+msgid "Let's not traumatize Aoi any further."
+msgstr "Thôi không làm Aoi sang chấn thêm nữa."
+
+msgid "A bus. It has seen better days."
+msgstr "Cái xe buýt. Trông tơi tả quá."
+
+msgid "Isn't that cool?!"
+msgstr "Trông tuyệt ghê không?!"
+
+msgid "Do you think they ever got the passengers out?"
+msgstr "Cậu nghĩ người ta có đưa hành khách ra khỏi xe chứ?"
+
+msgid "I can't see inside, so... I guess we'll never know."
+msgstr "Không nhìn bên trong được, nên... chắc là không đời nào biết được đâu."
+
+msgid "Maybe it's best that way."
+msgstr "Có khi không biết là tốt nhất."
+
+msgid "I think it would ruin my day if we found corpses in there."
+msgstr "Tớ thấy lỡ mà tìm ra thi thể trong đó thì hỏng bét hết ngày."
+
+msgid "(Is your day not already ruined by being trapped in this place?)"
+msgstr "(Chứ bị kẹt trong cái chốn này còn chưa hỏng bét hết ngày à?)"
+
+msgid "Looks like pieces of asphalt."
+msgstr "Trông như mảnh nhựa đường."
+
+msgid "A signpost. It's bent."
+msgstr "Tấm biển trạm xe. Bị cong vẹo rồi."
+
+msgid "(The schedule seems to show quite a few buses coming every day.)"
+msgstr "(Lịch chạy xe có vẻ cho thấy hơi bị nhiều xe buýt dừng mỗi ngày.)"
+
+msgid "Strange... the other schedule I saw was empty."
+msgstr "Lạ thật... cái lịch kia mình thấy thì trống trơn."
+
+msgid "Oh! Back in the day, the bus used to come more often... this is probably an old schedule."
+msgstr "À! Hồi trước xe buýt có hay tới đây hơn... cái này chắc là lịch cũ rồi."
+
+msgid "The other schedule you saw must be the updated one."
+msgstr "Cái lịch chạy xe mà cậu thấy kia chắc phải là lịch trình hiện tại."
+
+msgid "Nowadays it's very rare..."
+msgstr "Thời buổi này xe rất là hiếm..."
+
+msgid "So if you're lucky enough to see the bus, you should definitely ride it!"
+msgstr "Thành ra nếu cậu có cơ may gặp xe buýt là nhất định nên đáp nhé!"
+
+msgid "That's what everyone does, at least. I never saw it myself..."
+msgstr "Chí ít ai cũng làm thế cả. Bản thân tớ thì chưa thấy bao giờ..."
+
+msgid "(It's just a bus, though...)"
+msgstr "(Chỉ là xe buýt thôi mà...)"
+
+msgid "A bus stop."
+msgstr "Trạm dừng xe buýt."
+
+msgid "The poster here is too faded to read."
+msgstr "Tấm áp-phích chỗ này phai quá đọc không được."
+
+msgid "It looks like a dead end."
+msgstr "Trông như đường cụt rồi."
+
+msgid "We just walked quite a bit to get here, let's at least look around."
+msgstr "Vừa mới bước hơi bị xa tới đây, ít ra dòm ngó tí đã."

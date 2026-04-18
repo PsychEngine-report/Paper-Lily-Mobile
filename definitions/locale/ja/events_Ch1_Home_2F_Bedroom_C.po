@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "There are colored thread rolls inside."
+msgstr "中には色つきの糸がある。"
+
+msgid "The red thread may be useful."
+msgstr "赤い糸は役に立つかもしれない。"
+
+msgid "Take ${item:ch1.thread}?"
+msgstr "${item:ch1.thread} を取る？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "Yes"
+msgstr "取る"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.ch1_item_thread_get.choice.Take ${item:ch1.thread}?"
+msgid "No"
+msgstr "取らない"
+
+msgid "My parents' bed."
+msgstr "両親のベッド。"
+
+msgid "A bookshelf with complicated books."
+msgstr "難しい本が並んだ本棚。"
+
+msgid "Black... Black... No red markers here."
+msgstr "黒……黒……赤いマーカーはない。"
+
+msgid "Maybe in my room?"
+msgstr "私の部屋ならあるかな？"
+
+msgid "Maybe downstairs?"
+msgstr "1階ならあるかな？"
+
+msgid "A classic alarm clock."
+msgstr "昔ながらの目覚まし時計。"
+
+msgid "Father doesn't trust the alarm app."
+msgstr "父親はアラームアプリを信用していない。"
+
+msgid "A computer chair."
+msgstr "コンピューターチェア。"
+
+msgid "A computer chair. Yours is better."
+msgstr "コンピューターチェア。自分のもののほうが質が良い。"
+
+msgid "An older computer."
+msgstr "古めのパソコン。"
+
+msgid "It's mostly for spreadsheets, so you can't game on it."
+msgstr "概ね表計算用なので、ゲームはできない。"
+
+msgid "A plant."
+msgstr "植物。"
+
+msgid "A plant. We have several like this one."
+msgstr "植物。これと似たようなのがまだいくつかある。"
+
+msgid "A sewing kit."
+msgstr "裁縫セット。"
+
+msgid "A shelf with nothing of interest."
+msgstr "特に興味を惹くもののない棚。"
+
+msgid "The wardrobe. It doesn't close well anymore."
+msgstr "衣装戸棚。ちゃんと閉まらなくなっている。"
+
+msgid "Something is written on the door:"
+msgstr "ドアに何か書いてある。"
+
+msgid "\"The wardrobe is stuffy, isn't it? You almost can't breathe in there."
+msgstr "「衣装戸棚は息苦しいよね？　ほとんど息もできない。"
+
+msgid "You almost stopped breathing. Take a deep breath, Lacie.\""
+msgstr "危うく息が止まりそうだったね。深呼吸して、レイシー。」"
+
+msgid "Open it?"
+msgstr "開ける？"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "Yes"
+msgstr "開ける"
+
+msgctxt "events.Ch1_Home_2F_Bedroom_C.misc_wardrobe.choice.Open it?"
+msgid "No"
+msgstr "開けない"
+
+msgid "A cold breeze blows from inside."
+msgstr "中から冷たい風が吹き出してくる。"
+
+msgid "There's a few clothes inside."
+msgstr "中には服が少しある。"

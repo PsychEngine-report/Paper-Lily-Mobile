@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Hm...? Not working...?"
+msgstr "Хм?.. Не працює?.."
+
+msgid "Those two thingies look burnt."
+msgstr "Ось ці дві штучки, схоже, згоріли."
+
+msgid "Ah, there's two blown fuses. No wonder."
+msgstr "А, це ж згорілі запобіжники. Тоді все зрозуміло."
+
+msgid "Let's throw this damaged fuse away."
+msgstr "Нумо викиньмо цей зіпсований запобіжник."
+
+msgid "Why? Just use it as a zero or something."
+msgstr "Нащо? Просто скористайся ним як нулем."
+
+msgid "No... that's really not how fuses work."
+msgstr "Ні... запобіжники так не працюють."
+
+msgid "A broken fuse won't complete the circuit."
+msgstr "Зіпсований запобіжник не замкне коло."
+
+msgid "I see... so it's zero if you remove it?"
+msgstr "Зрозуміло... а якщо просто його прибрати, то вийде нуль?"
+
+msgid "No... that's just... it also won't complete the circuit. You can't make a zero."
+msgstr "Ні... тоді... він теж не замкне коло. З нього не зробиш нуль."
+
+msgid "Just... leave this to me, okay?"
+msgstr "Просто... залиш це мені, добре?"
+
+msgid "Roger!"
+msgstr "Як скажеш!"
+
+msgid "You hear something unlocking in the distance."
+msgstr "Ви почули, як в далені щось відкрилось."
+
+msgid "What? I didn't hear anything."
+msgstr "Га? Я нічого не почув."
+
+msgid "...You're breaking my immersion."
+msgstr "...Не заважай занурюватись у геймплей."
+
+msgid "What in the world was that?"
+msgstr "Що це щойно було?"
+
+msgid "Can't say I didn't warn you."
+msgstr "А я наче попереджав."
+
+msgid "Wait."
+msgstr "Зачекай."
+
+msgid "...?"
+msgstr "?.."
+
+msgid "Taking that one out might be a really bad idea."
+msgstr "Виймати це - не дуже ясна думка."
+
+msgid "I saw some doors like that before. I don't think we wanna open them."
+msgstr "Я вже бачив такі двері. Мені здається, їх краще не відчиняти."
+
+msgid "I see..."
+msgstr "Зрозуміло..."
+
+msgid "(Maybe there's a better way?)"
+msgstr "(Можливо, є й інший спосіб.)"
+
+msgid "Do you think the elevator works now?"
+msgstr "Як гадаєш, ліфт запрацював?"
+
+msgid "Ah, that's satisfying."
+msgstr "А, яка краса."
+
+msgid "Good job!"
+msgstr "Ай молодець!"
+
+msgid "That sounded pretty big."
+msgstr "А це було гучно."
+
+msgid "Let's check the water level."
+msgstr "Перевіримо рівень води."
+
+msgid "There's already a handle there."
+msgstr "Тут вже є вентиль."
+
+msgid "You try to fit the handle in the slot..."
+msgstr "Ви спробували встановити вентиль в паз..."
+
+msgid "But it doesn't fit."
+msgstr "Але він не підійшов."
+
+msgid "The lights... ah... not nice."
+msgstr "Світло... ой-ой... це погано."
+
+msgid "Why doesn't this work?"
+msgstr "Чому не спрацювало?"
+
+msgid "We probably need to fill all four slots."
+msgstr "Мабуть, треба заповнити усі чотири отвори."
+
+msgid "Otherwise the thing inside won't make contact."
+msgstr "Інакше електричне коло не замкнеться."
+
+msgid "Right, contact."
+msgstr "Ну так, звичайно, не замкнеться."
+
+msgid "You place the handle in the slot."
+msgstr "Ви встановили вентиль в паз."
+
+msgid "The handle fits!"
+msgstr "Вентиль підійшов!"
+
+msgid "Of course, a diamond is just a rotated square."
+msgstr "Ну звичайно, ромб це ж перевернутий квадрат."
+
+msgid "Yep."
+msgstr "Угу."
+
+msgid "What are you doing? Those shapes don't match."
+msgstr "Що ти робиш? Форми не підходять."
+
+msgid "...Huh."
+msgstr "...Отакої."
+
+msgid "Are you switching them around...?"
+msgstr "Ти міняєш їх місцями?.."
+
+msgid "I'm just trying things."
+msgstr "Я просто перебираю варіанти."
+
+msgid "A heavy barrel. It can't be moved."
+msgstr "Важка бочка. Її не зрушити з місця."
+
+msgid "There's a valve handle and a key on the barrel."
+msgstr "На бочці лежить вентиль та ключ."
+
+msgid "Take ${item:ch1.facility_handle_square} and ${item:ch1.facility_key_archives}?"
+msgstr "Взяти предмети: ${item:ch1.facility_handle_square} та ${item:ch1.facility_key_archives}?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Some sort of machine."
+msgstr "Якась машина."
+
+msgid "It's whirring loudly."
+msgstr "Вона гучно гуде."
+
+msgid "Some large lockers. You could probably fit inside."
+msgstr "Великі шафи. Ви можете цілком в них поміститись."
+
+msgid "There's something in here..."
+msgstr "Там щось є..."
+
+msgid "There's nothing else of use."
+msgstr "Там більше немає нічого корисного."
+
+msgid "A large machine attached to some pipes."
+msgstr "Велика машина, з'єднана якимись трубами."
+
+msgid "There's a note here:"
+msgstr "Тут є записка, у ній написано:"
+
+msgid "\"In Case of Emergency - Drain and Flood System"
+msgstr "\"Для надзвичайних ситуацій - Дренажно-зливна система."
+
+msgid "In order for the draining system to work, the correct fuse must first be in place."
+msgstr "Аби могла спрацювати дренажна система, необхідно вставити відповідний запобіжник."
+
+msgid "Rotate all 4 valve handles, this will activate the flood."
+msgstr "Оберніть усі 4 вентилі, щоб спричинити затоплення."
+
+msgid "It is irreversible, so don't do this without notifying the-\""
+msgstr "Це незворотний процес, тому не робіть цього, не повідомивши-\""
+
+msgid "...The rest of the note is torn off."
+msgstr "...Решта записки відірвана."
+
+msgid "Looks like an electrical panel."
+msgstr "Схоже на електричну панель."
+
+msgid "Take a closer look?"
+msgstr "Поглянути ближче?"
+
+msgid "A slot to place a valve wheel. The indentation has a square shape."
+msgstr "Паз для вентиля. Форма кріплення - квадрат."
+
+msgid "Turn it?"
+msgstr "Обернути його?"
+
+msgid "Turn the wheel"
+msgstr "Обернути вентиль"
+
+msgid "Remove the wheel"
+msgstr "Вийняти вентиль"
+
+msgid "Do nothing"
+msgstr "Нічого не робити"
+
+msgid "The wheel won't turn."
+msgstr "Вентиль не обертається."
+
+msgid "It won't turn anymore."
+msgstr "Він більше не обертається."
+
+msgid "A slot to place a valve wheel. The indentation has a pentagon shape."
+msgstr "Паз для вентиля. Форма кріплення - п'ятикутник."
+
+msgid "A slot to place a valve wheel. The indentation has a star shape."
+msgstr "Паз для вентиля. Форма кріплення - п'ятикутна зірка."
+
+msgid "A slot to place a valve wheel. The indentation has a diamond shape."
+msgstr "Паз для вентиля. Форма кріплення - ромб."
+
+msgid "Looks like the large gate we saw earlier..."
+msgstr "Схоже на величезну браму, яку ми вже зустрічали..."
+
+msgid "Doors?"
+msgstr "Двері?"
+
+msgid "This is probably an elevator."
+msgstr "Це, мабуть, ліфт."
+
+msgid "Lights."
+msgstr "Освітлення."
+
+msgid "Water?"
+msgstr "Вода?"
+
+msgid "An empty slot where a fuse may fit."
+msgstr "Пустий отвір для запобіжника."
+
+msgid "(Looks like I have to rearrange the fuses to match the display.)"
+msgstr "(Схоже, треба установити запобіжники згідно з картинками.)"
+
+msgid "An empty fuse slot."
+msgstr "Пустий отвір для запобіжника."
+
+msgid "Place a fuse?"
+msgstr "Встановити запобіжник?"
+
+msgid "Place fuse no.5"
+msgstr "Встановити запобіжник номер 5"
+
+msgid "Place fuse no.10"
+msgstr "Встановити запобіжник номер 10"
+
+msgid "Place fuse no.15"
+msgstr "Встановити запобіжник номер 15"
+
+msgid "Place fuse no.20"
+msgstr "Встановити запобіжник номер 20"
+
+msgid "Place fuse no.25"
+msgstr "Встановити запобіжник номер 25"
+
+msgid "Place fuse no.40"
+msgstr "Встановити запобіжник номер 40"
+
+msgid "Do not"
+msgstr "Нічого не робити"
+
+msgid "It's a spider!"
+msgstr "Павук!"
+
+msgid "I see that."
+msgstr "Я бачу."
+
+msgid "Are you scared of spiders?"
+msgstr "Ти боїшся павуків?"
+
+msgid "Not really."
+msgstr "Не сказала б."
+
+msgid "So, what, if you see a spider in your house you just LEAVE it there?!"
+msgstr "Тобто коли ти бачиш вдома павука, ти нічого не робиш?"
+
+msgid "That's crazy."
+msgstr "Це ненормально."
+
+msgid "What else should I be doing?"
+msgstr "А що мені з ними робити?"
+
+msgid "I don't know, most people kill it with a shoe or something."
+msgstr "Навіть не знаю. Більшість людей вбивають їх капцями, наприклад."
+
+msgid "Why?"
+msgstr "Навіщо?"
+
+msgid "I dunno, they crawl and stuff. They're creepy."
+msgstr "А я знаю? Вони беруть і повзають повсюди. Вони моторошні."
+
+msgid "Why should it die for something that isn't its fault?"
+msgstr "Чому вони мають помирати за те, у чому не винні?"
+
+msgid "..."
+msgstr "..."
+
+msgid "That's fair."
+msgstr "Маєш рацію."
+
+msgid "Just so you know, I don't kill spiders."
+msgstr "Щоб ти знала, я павуків не вбиваю."
+
+msgid "I see."
+msgstr "Зрозуміло."
+
+msgid "I used to, but now I just put them outside."
+msgstr "Раніше вбивав, але зараз я просто виношу їх на вулицю."
+
+msgid "Great."
+msgstr "Чудово."
+
+msgid "A spider hangs from here."
+msgstr "Тут висить павучок."
+
+msgid "A spider sits here."
+msgstr "Тут сидить павучок."
+
+msgid "Take out the fuse?"
+msgstr "Вийняти запобіжник?"

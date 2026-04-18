@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "This locker has no keyhole."
+msgstr "Това шкафче няма ключалка."
+
+msgid "They're already open, so there's nothing to cut."
+msgstr "Те веча са отворени, така че няма какво да режем."
+
+msgid "Boxes filled to the brim with cleaning products."
+msgstr "Кутии пълни до ръба с почистващи продукти."
+
+msgid "It's packed with white chalk and nothing else."
+msgstr "Тя е пълна с бяла креда и нищо друго."
+
+msgid "This must be like... a year's supply."
+msgstr "Това трябвва да е… достатъчно за цяла година."
+
+msgid "..."
+msgstr "..."
+
+msgid "They're packed too tightly, I can't pull any out."
+msgstr "Те са опаковани твърде плътно, не мога да извадя нито един."
+
+msgid "Some boxes filled with left shoes and lighters."
+msgstr "Някакви кутии напълнени с останали обувки и запалки."
+
+msgid "Some brand new brooms."
+msgstr "Някои чисто нови метли."
+
+msgid "A calendar... probably."
+msgstr "Календар... вероятно."
+
+msgid "There are no dates or month names in it."
+msgstr "В него няма дати или имена на месеци."
+
+msgid "A cleaning cart."
+msgstr "Почистваща количка."
+
+msgid "It's sparkling clean."
+msgstr "Блести от чистота."
+
+msgid "A lamp. There's no light bulb nor a slot to place one."
+msgstr "Лампа. Няма крушка нито слот в който да я поставя."
+
+msgid "A large locker. It's sealed shut."
+msgstr "Голямо шкафче. Запечатано е."
+
+msgid "A trash can. You can't see the bottom."
+msgstr "Кошче за боклук. Дъното не се вижда."
+
+msgid "That's... weird."
+msgstr "Това е... странно."
+
+msgid "What is?"
+msgstr "Какво е?"
+
+msgid "The existence of this room... makes no sense."
+msgstr "Съществуването на тази стая... няма никаква логика..."
+
+msgid "What do you mean?"
+msgstr "Какво имаш предвид?"
+
+msgid "Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside."
+msgstr "На базата на формата на училището, няма начин тук да има стая. Отвън ще изглежда сякаш левитира във въздуха."
+
+msgid "Interesting..."
+msgstr "Интересно..."
+
+msgid "But... we didn't even finish the ritual! What's happening?"
+msgstr "Но... дори не довършихме ритуала! Какво се случва?"
+
+msgid "I don't know..."
+msgstr "Не знам..."
+
+msgid "Isn't it exciting!?"
+msgstr "Нима не е вълнуващо!?"
+
+msgid "Let's keep going."
+msgstr "Да продължим."

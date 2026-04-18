@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Please hurry, or my sister will kill us both."
+msgstr "急いで、じゃないと僕らが姉さんに殺される。"
+
+msgid "Here or outside is fine."
+msgstr "ここでも外でもいいよ。"
+
+msgid "We really appreciate it."
+msgstr "本当にありがとう。"
+
+msgid "Hurry the hell up already!"
+msgstr "さっさと行きなさいよ！"
+
+msgid "What are you doing?"
+msgstr "何してんの？"
+
+msgid "Don't babysit him, KILL HIM!"
+msgstr "世話しろなんて言ってない、殺すのよ！"
+
+msgid "Oh my god. The silence. It's so damn good."
+msgstr "あぁすごい。静寂。もう最高。"
+
+msgid "Here you go, you earned it."
+msgstr "ほらこれ、お礼。"
+
+msgid "Not sure why you'd want this though."
+msgstr "なんで欲しいのかは知らないけど。"
+
+msgid "Thanks."
+msgstr "ありがとう。"
+
+msgid "Thank the cursed heavens it's gone."
+msgstr "消えてくれて、クソったれの天に感謝ね。"
+
+msgid "Alright, I guess I'll just..."
+msgstr "わかった、やるよ……"
+
+msgid "Yes, kill it. Do it."
+msgstr "そう、殺して。ほら。"
+
+msgid "Quickly."
+msgstr "早く。"
+
+msgid "HUZZAH!!!!!"
+msgstr "おっしゃああああ!!!!!"
+
+msgid "Finally."
+msgstr "ついに。"
+
+msgid "Dead dead dead!"
+msgstr "死んだ死んだ死んだ！"
+
+msgid "You'll kill him???"
+msgstr "殺してくれるの???"
+
+msgid "I guess so."
+msgstr "まあ、うん。"
+
+msgid "THANK THE HEAVENS."
+msgstr "やった、最高。"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.ch1_terrarium"
+msgid "..."
+msgstr "……"
+
+msgid "You shut the hell up. You're dead meat, jerk."
+msgstr "黙りなさい。あんたはもう死んでんの。"
+
+msgid "Farewell, little brother. It has been a displeasure."
+msgstr "さようなら弟、おまえといられて最悪だったよ。"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(What now...?)"
+msgstr "(どうしよう……？)"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Kill it here"
+msgstr "ここで殺す"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.event_take_caterpillar.choice.(What now...?)"
+msgid "Do not"
+msgstr "やめておく"
+
+msgid "Why're you carrying a bucket?"
+msgstr "なんでバケツなんか持ち歩いてんの？"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_bucket_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "(To be honest, I'm not so sure myself.)"
+msgstr "(正直、自分でもよくわからない。)"
+
+msgid "(Um...)"
+msgstr "(うーん……)"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Kill it here"
+msgstr "ここで殺す"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar.choice.(Um...)"
+msgid "Do not"
+msgstr "やめておく"
+
+msgid "What's taking so long?!"
+msgstr "何ぐずぐずしてんのよ!?"
+
+msgid "...Damn. That was pretty metal."
+msgstr "……やるわね。最高にロックじゃない。"
+
+msgid "It stinks though."
+msgstr "ひどい臭いだけど。"
+
+msgid "No take backs!"
+msgstr "前言撤回は無し！"
+
+msgid "Dang."
+msgstr "残念。"
+
+msgid "Huh... he's a lot quieter when he's with you."
+msgstr "へぇ……そいつ、あんたといる時はずっと静かね。"
+
+msgid "Maybe he's anticipating his demise!?"
+msgstr "もしかして、死が間近なのを感じてるとか!?"
+
+msgid "Oh man, can't wait!!!"
+msgstr "ああもう、待ちきれない!!!"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_caterpillar_on_moth_girl.dlg.lacie"
+msgid "..."
+msgstr "……"
+
+msgid "I don't need to see him anymore."
+msgstr "もうそいつを見る必要はない。"
+
+msgid "Not ALIVE, at least."
+msgstr "少なくとも、生きてる姿はね。"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_boy.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "これがどこに通じるドアノブか知ってる？"
+
+msgid "No. We found that lying around when we were setting up camp."
+msgstr "ううん。テントを張ったときに、落ちてるのを見つけただけだから。"
+
+msgid "I see..."
+msgstr "そう……"
+
+msgctxt "events.Ch1_Forest_Lakeside_Tent_Interior.item_doorknob_on_moth_girl.dlg.lacie"
+msgid "Do you know where this leads?"
+msgstr "これがどこに通じるドアノブか知ってる？"
+
+msgid "No idea."
+msgstr "さあね。"
+
+msgid "Please, we already gave you the doorknob."
+msgstr "やめて、もうドアノブは渡したでしょ。"
+
+msgid "What more do you want?"
+msgstr "これ以上何が望みなの？"
+
+msgid "Oh god..."
+msgstr "うぐ……"
+
+msgid "Please stop, I seriously can't stand that."
+msgstr "やめて、本気で耐えられない。"
+
+msgid "Get that shit away from me."
+msgstr "そのクソを早くどけて。"
+
+msgid "Hate that crap."
+msgstr "ゲロほど嫌いなの。"
+
+msgid "Alright alright geez!"
+msgstr "ああもう、わかったわよ！"
+
+msgid "Just take the stupid doorknob and leave!"
+msgstr "このバカげたドアノブはあげるから、早くどっか行って！"
+
+msgid "That smells putrid..."
+msgstr "その花、吐きそうな臭いがすんのよ……"
+
+msgid "I guess I get to keep him...?"
+msgstr "この子は私が持ってていいってこと……？"
+
+msgid "No thanks, I don't care for stones."
+msgstr "いらない、石には興味ないから。"
+
+msgid "The heck would I need that for?"
+msgstr "それを私にどうしろっての？"
+
+msgid "I don't know."
+msgstr "さあ。"
+
+msgid "To give to Rune..?"
+msgstr "ルーンに渡すとか……？"
+
+msgid "Who the heck is Rune?"
+msgstr "ルーンって誰よ？"
+
+msgid "What in the world are you doing!?"
+msgstr "いったい何してんのよ!?"
+
+msgid "Maybe she's deranged."
+msgstr "気が狂ったのかも。"
+
+msgid "You said to kill it."
+msgstr "殺せって言ったでしょ。"
+
+msgid "Yeah, so do it already!"
+msgstr "そうよ、だから早くして！"
+
+msgid "(Hmmm...)"
+msgstr "(うーん……)"
+
+msgid "(I guess salt doesn't work on moths.)"
+msgstr "(蛾には塩は効かないみたい。)"
+
+msgid "What. The. FUCK."
+msgstr "何。なの。よ。"
+
+msgid "...Oh man..."
+msgstr "……あーあ……"
+
+msgid "A fireplace."
+msgstr "焚き火。"
+
+msgid "(There's no smoke...?)"
+msgstr "(煙が全然出てない……？)"
+
+msgid "Take ${item:ch1.forest_caterpillar}?"
+msgstr "${item:ch1.forest_caterpillar} を拾う？"
+
+msgid "Yes"
+msgstr "拾う"
+
+msgid "No"
+msgstr "拾わない"

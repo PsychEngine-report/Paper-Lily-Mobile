@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "I don't have the brain power for this right now."
+msgstr "У меня пока не хватает на это мозгов."
+
+msgid "You know... I could just jump over those boxes and get you the thingy."
+msgstr "Знаешь... я мог бы перепрыгнуть все эти ящики и забрать тебе ту вещицу."
+
+msgid "Still not interested?"
+msgstr "Всё ещё не заинтересована?"
+
+msgid "Ask Sai to get the shiny?"
+msgstr "Попросить Сая сходить за блестяшкой?"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.event_react_fail_puzzle.choice.Ask Sai to get the shiny?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.event_react_fail_puzzle.choice.Ask Sai to get the shiny?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Alright... knock yourself out."
+msgstr "Ладно... пойди и убейся."
+
+msgid "Be right back!"
+msgstr "Скоро буду!"
+
+msgid "Moments later..."
+msgstr "Спустя немного времени..."
+
+msgid "Easy peasy."
+msgstr "Проще пареной репы."
+
+msgid "Still not interested."
+msgstr "Всё ещё не заинтересована."
+
+msgid "No, I want to do it myself."
+msgstr "Нет, я хочу сама всё сделать."
+
+msgid "The key fits!"
+msgstr "Ключ подошёл!"
+
+msgid "Nothing happens."
+msgstr "Ничего не произошло."
+
+msgid "An elevator door."
+msgstr "Двери лифта."
+
+msgid "There's a massive gap on the floor. You can't reach the door."
+msgstr "В полу огромная дыра. Вы не можете достать до двери."
+
+msgid "The plank allows you to cross freely."
+msgstr "С помощью доски можно свободно перемещаться."
+
+msgid "I've seen another hole that could use a plank like this..."
+msgstr "Я видела ещё одну дыру, над которой можно расположить такую доску..."
+
+msgid "Move the plank to the other hole?"
+msgstr "Перенести доску к другой дыре?"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.misc_unreachable_door.choice.Move the plank to the other hole?"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "events.Ch1_Facility_B2F_Hallway_West.misc_unreachable_door.choice.Move the plank to the other hole?"
+msgid "No"
+msgstr "Нет"
+
+msgid "Uugh... This is really heavy..."
+msgstr "Грх... тяжеленная..."
+
+msgid "Hey, let me carry that."
+msgstr "Слушай, давай я понесу."
+
+msgid "Since you removed the plank, you can't cross anymore."
+msgstr "Вы убрали доску, так что свободно перейти не получится."
+
+msgid "It's locked."
+msgstr "Закрыто."

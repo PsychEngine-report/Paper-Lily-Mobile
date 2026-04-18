@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "Try Again?"
+msgstr "Tentar outra vez?"
+
+msgid "Retry"
+msgstr "Tentar"
+
+msgid "Skip"
+msgstr "Skipar"
+
+msgid "Give Up"
+msgstr "Desistir"
+
+msgid "The way back has turned into a wall."
+msgstr "O caminho de volta transformou-se num muro."
+
+msgid "*huff* *puff*"
+msgstr "*huff* *puff*"
+
+msgid "We barely got away..."
+msgstr "Mal conseguimos escapar..."
+
+msgid "Remind me not to mess with creepy paintings in the future."
+msgstr "Lembra-me de não me meter com pinturas assustadoras no futuro."
+
+msgid "I barely got away..."
+msgstr "Mal consegui escapar..."
+
+msgid "I need to be more careful with the things I touch..."
+msgstr "Tenho de ter mais cuidado com as coisas em que toco..."

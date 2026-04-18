@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lacie Engine 1.5.4\n"
+
+msgid "The keyhole has vanished, making it impossible to pick."
+msgstr "Замкова щілина зникла, тому зламати замок неможливо."
+
+msgid "What... the hell? Are you guys seeing what I'm seeing?"
+msgstr "Якого біса?.. Агов, дівчата, ви теж це бачите?"
+
+msgid "Maybe it's a sign..."
+msgstr "Може, це знак?.."
+
+msgid "..."
+msgstr "..."
+
+msgid "This leads downstairs and outside of the school."
+msgstr "Ці сходи ведуть униз, до виходу зі школи."
+
+msgid "I should be able to find everything I need on this floor."
+msgstr "Я зможу знайти все необхідне на цьому поверсі."
+
+msgid "No need to go downstairs."
+msgstr "Немає потреби спускатись."
+
+msgid "Give up and go home?"
+msgstr "Опустити руки та піти додому??"
+
+msgid "Yes, this is scary"
+msgstr "Так, мені лячно"
+
+msgid "No, let's finish this"
+msgstr "Ні, треба з цим покінчити"
+
+msgid "What are you doing? Are we done already?"
+msgstr "Що сталось? Ми вже закінчили?"
+
+msgid "Are we going home?"
+msgstr "Ми що, йдемо додому?"
+
+msgid "Yeah, let's go"
+msgstr "Так, ходімо"
+
+msgid "No, we're not done"
+msgstr "Ні, ми не закінчили"
+
+msgid "Really? I guess I'll go get my stuff."
+msgstr "Невже? Тоді я піду зберу свої речі."
+
+msgid "I am a little creeped out but..."
+msgstr "Щось мені трохи страшно, але..."
+
+msgid "I'm going to finish what I started."
+msgstr "Я доведу справу до кінця."
+
+msgid "Yes, let's go home"
+msgstr "Так, ходімо"
+
+msgid "No, let's stay"
+msgstr "Ні, залишимось тут"
+
+msgid "The door unlocked!"
+msgstr "Двері відчинились!"
+
+msgid "Well, that didn't go as planned."
+msgstr "Що ж, все пішло не по плану."
+
+msgid "This room is..."
+msgstr "Двері відчинились!"
+
+msgid "What IS this room, anyways?"
+msgstr "Що це взагалі за кімната?"
+
+msgid "I don't think I've ever seen anybody use it."
+msgstr "Щось не пригадую, щоб нею хтось користувався."
+
+msgid "Me neither."
+msgstr "Я теж."
+
+msgid "Say, why don't we check it out?"
+msgstr "Чом би нам не подивитись, що там?"
+
+msgid "You want to break into this room...?"
+msgstr "Ви хочете зламати замок і зайти туди?.."
+
+msgid "Why not? Can't be any worse than trying a silly ritual."
+msgstr "А чому ні? Ця думка не набагато дурніша за твій ритуал."
+
+msgid "I hope it's safe..."
+msgstr "Сподіваюсь, що там безпечно..."
+
+msgid "We would need a way to open it, though."
+msgstr "Та треба її якось відчинити."
+
+msgid "We're counting on you."
+msgstr "Кет, ми покладаємось на тебе."
+
+msgid "You can do it, Kat."
+msgstr "Кет, ти впораєшся."
+
+msgid "I never said-"
+msgstr "Я ж навіть не-"
+
+msgid "Geez, fine."
+msgstr "Добре, зроблю."
+
+msgid "I'm really curious as to what's behind this door..."
+msgstr "Мені дуже цікаво, що ж там за цими дверима..."
+
+msgid "But I don't have time for this right now."
+msgstr "Та у мене на це обмаль часу."
+
+msgid "It's already open."
+msgstr "Вони вже відчинені."
+
+msgid "You can't do that anymore."
+msgstr "Ви більше не в змозі це зробити."
+
+msgid "I've gotta get in somehow."
+msgstr "Треба якось туди потрапити."
+
+msgid "Should I try to pick the lock?"
+msgstr "Спробувати зламати замок?"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Let's give it a shot."
+msgstr "Можна спробувати."
+
+msgid "I don't think I need anything from here."
+msgstr "Не думаю, що мені щось звідти треба."
+
+msgid "I have the key, so there's no point in that."
+msgstr "У мене є ключ, нащо мені шпилька?"
+
+msgid "This key doesn't fit here."
+msgstr "Ключ не підходить."
+
+msgid "That's not how locks work."
+msgstr "Замки так не працюють."
+
+msgid "It reads \"No running in the hallways.\""
+msgstr "Тут написано \"Не бігати по коридорах\"."
+
+msgid "A list of safety regulations."
+msgstr "Звід правил безпеки."
+
+msgid "The exams schedule."
+msgstr "Розклади іспитів."
+
+msgid "A pinboard with some important school papers."
+msgstr "Дошка з важливими шкільними об'явами."
+
+msgid "\"Club Room\""
+msgstr "\"Кімната гуртка\""
+
+msgid "\"Classroom 3-A\""
+msgstr "\"Клас 3-A\""
+
+msgid "\"Classroom 3-B\""
+msgstr "\"Клас 3-B\""
+
+msgid "\"Classroom 3-C\""
+msgstr "\"Клас 3-C\""
+
+msgid "An unexciting trash can."
+msgstr "Звичайнісіньке відро для сміття."
+
+msgid "A boring trash can."
+msgstr "Нудне відро для сміття."
+
+msgid "The front yard of the school is visible from here."
+msgstr "Звідси видно передній шкільний двір."
+
+msgid "Better stay clear of the windows or someone might see me."
+msgstr "Краще триматися якомога далі від вікон, аби мене не помітили."
+
+msgid "The windows of the classroom."
+msgstr "Класне вікно."
+
+msgid "I can't see much through them."
+msgstr "Крізь них майже нічого не видно."
+
+msgid "The window is cracked."
+msgstr "Вікно тріснуло."
+
+msgid "That spooked me..."
+msgstr "Воно мене злякало..."
+
+msgid "This isn't good for my heart..."
+msgstr "Це вплине на моє серце..."
+
+msgid "There's a handprint on the window."
+msgstr "На вікні є відбиток руки."
+
+msgid "Was this always here?"
+msgstr "Він завжди тут був?"
+
+msgid "It's locked."
+msgstr "Зачинено."
+
+msgid "It won't open anymore."
+msgstr "Двері вже не відчиняються."
+
+msgid "This is the Theater Club's room. It's locked."
+msgstr "Це кімната театрального гуртка. Вона зачинена."
+
+msgid "I may be able to find some curtains in there."
+msgstr "Тут я зможу знайти завіски."
+
+msgid "I wonder if any of the girls is a member of this club?"
+msgstr "Цікаво, чи відвідує хтось із тих дівчат театральний гурток?"
+
+msgid "I'm not on great terms with them though..."
+msgstr "Хоча у мене з ними не найкращі відносини..."
+
+msgid "I wonder if any of the girls is a member of this club."
+msgstr "Цікаво, чи відвідує хтось із тих дівчат театральний гурток?"
+
+msgid "But I have the key now."
+msgstr "Хоча зараз у мене є ключ."
+
+msgid "How am I going to open it now...?"
+msgstr "Як мені тепер відчинити ці двері?.."
+
+msgid "Maybe I should deliver that notebook."
+msgstr "Мабуть, все ж треба принести той зошит."
