@@ -85,9 +85,6 @@ jobs:
           # 3. Force Godot to build the solution for this environment
           godot --no-window --build-solutions --quit || true
 
-      - name: Check PCK size
-        run: ls -lh pack/
-
       # 6. Export Android APK
       - name: Export Android
         run: |
