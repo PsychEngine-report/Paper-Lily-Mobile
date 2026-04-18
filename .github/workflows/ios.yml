@@ -45,16 +45,18 @@ jobs:
       # 3. Build C# Solution
       - name: Build C# Solution
         run: |
-          # Define the path to the macOS Godot executable
           GODOT_CMD="$(pwd)/Godot_mono.app/Contents/MacOS/Godot"
 
-          # 1. Clean up Windows absolute paths (macOS `sed` requires an empty string argument '' for -i)
+          # Clean up Windows absolute paths
           sed -i '' 's|C:/Users/[^/]*/||g' "Lacie Engine.csproj"
 
-          # 2. Restore packages
+          # Restore packages
           dotnet restore "Lacie Engine.csproj"
 
-          # 3. Force Godot to build the solution
+          # FORCE compile the ExportRelease configuration before Godot tries to export
+          dotnet build "Lacie Engine.csproj" -c ExportRelease
+
+          # Build Godot's internal metadata just in case
           "$GODOT_CMD" --no-window --build-solutions --quit || true
 
       # 4. Export Godot iOS Xcode Project
