@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arkoselabs/Desktop/Projeler/Lacie Engine/Lacie Engine.csproj",
+      "projectUniqueName": "/home/arkoselabs/Desktop/Projeler/Paper-Lily-Mobile/Lacie Engine.csproj",
       "projectName": "Lacie Engine",
-      "projectPath": "/home/arkoselabs/Desktop/Projeler/Lacie Engine/Lacie Engine.csproj",
+      "projectPath": "/home/arkoselabs/Desktop/Projeler/Paper-Lily-Mobile/Lacie Engine.csproj",
       "packagesPath": "/home/arkoselabs/.nuget/packages/",
-      "outputPath": "/home/arkoselabs/Desktop/Projeler/Lacie Engine/.mono/temp/obj/",
+      "outputPath": "/home/arkoselabs/Desktop/Projeler/Paper-Lily-Mobile/.mono/temp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/arkoselabs/.config/NuGet/NuGet.Config"

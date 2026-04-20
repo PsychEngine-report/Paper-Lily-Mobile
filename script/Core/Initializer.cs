@@ -93,7 +93,9 @@ namespace LacieEngine.Core
 				Injector.Get<IPlatformInitializer>().Init();
 				Game.Memory.Init();
 				SystemPreload();
+				Log.Info("Initializing the inputs...");
 				Inputs.Init();
+				Log.Info("Initializing the Persistent State...");
 				Game.Core.InitPersistentState();
 				Log.Info("Initializing modules...");
 				Injector.GetAll<IModule>().ForEach(delegate(IModule module)
