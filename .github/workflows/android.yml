@@ -77,7 +77,7 @@ jobs:
       - name: Export Android
         run: |
           mkdir -p build/android
-          godot --no-window --export "Android" build/android/Paper-Lily.apk
+          godot --no-window --export-debug "Android" build/android/Paper-Lily-debug.apk
 
       # 6. Upload Artifact
       - name: Upload Artifact
