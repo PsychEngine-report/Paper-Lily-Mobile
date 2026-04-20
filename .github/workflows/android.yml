@@ -84,4 +84,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Paper-Lily-Android
-          path: build/android/Paper-Lily.apk
+          path: build/android/*.apk
