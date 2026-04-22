@@ -63,27 +63,35 @@ namespace LacieEngine.Core
 
 		private async void PerformLoading()
 		{
-			await GDUtil.DelayOneFrame();
-			await Game.Screen.ShowLoadingScreenInstantly();
-			Task task = Task.Run(delegate
-			{
-				LoadingProc();
-			});
-			while (!task.IsCompleted)
-			{
-				await GDUtil.DelayOneFrame();
-			}
-			await Game.Screen.HideLoadingScreen();
-			Log.Info(Game.Settings.ProductName, " ", Game.Settings.ProductVersion, ", Game start!");
-			if (Game.Language.GetAvailableLanguages().Count > 1 && Game.Settings.TranslationSelected.IsNullOrEmpty())
-			{
-				ShowLanguageSelection();
-			}
-			else
-			{
-				ShowFirstScreen();
-			}
-			this.Delete();
+    		await GDUtil.DelayOneFrame();
+    		await Game.Screen.ShowLoadingScreenInstantly();
+
+    	if (OS.GetName() == "iOS") 
+    	{
+        	// iOS: Execute immediately on the main thread.
+        	// No need for a task or a loop because this blocks until finished.
+        	LoadingProc(); 
+    	}
+    	else 
+    	{
+        	// PC/Android: Run in background and wait for it to finish.
+        	await Task.Run(() => LoadingProc());
+    	}
+
+    	// The code only reaches this point once LoadingProc is finished.
+    	await Game.Screen.HideLoadingScreen();
+    
+    	Log.Info(Game.Settings.ProductName, " ", Game.Settings.ProductVersion, ", Game start!");
+    
+    	if (Game.Language.GetAvailableLanguages().Count > 1 && Game.Settings.TranslationSelected.IsNullOrEmpty())
+    	{
+        	ShowLanguageSelection();
+    	}
+    	else
+    	{
+        	ShowFirstScreen();
+    	}
+    	this.Delete();
 		}
 
 		private void LoadingProc()
@@ -92,7 +100,7 @@ namespace LacieEngine.Core
 			{
 				Injector.Get<IPlatformInitializer>().Init();
 				Game.Memory.Init();
-				//SystemPreload();
+				SystemPreload();
 				Log.Info("Initializing the inputs...");
 				Inputs.Init();
 				Log.Info("Initializing the Persistent State...");
