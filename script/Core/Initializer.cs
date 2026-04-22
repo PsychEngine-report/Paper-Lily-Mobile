@@ -92,7 +92,7 @@ namespace LacieEngine.Core
 			{
 				Injector.Get<IPlatformInitializer>().Init();
 				Game.Memory.Init();
-				SystemPreload();
+				//SystemPreload();
 				Log.Info("Initializing the inputs...");
 				Inputs.Init();
 				Log.Info("Initializing the Persistent State...");
